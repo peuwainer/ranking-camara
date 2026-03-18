@@ -6,6 +6,7 @@ Uso: python src/scraper/collect.py
 """
 
 import json
+import sys
 import time
 import logging
 from datetime import datetime, timedelta
@@ -30,6 +31,48 @@ logging.basicConfig(
     datefmt="%H:%M:%S",
 )
 log = logging.getLogger(__name__)
+
+
+# ===========================
+# Progresso
+# ===========================
+_inicio: float = 0.0
+_total: int = 0
+
+
+def progresso_inicio(total: int) -> None:
+    global _inicio, _total
+    _inicio = time.monotonic()
+    _total = total
+
+
+def progresso(atual: int, nome: str, etapa: str) -> None:
+    """Imprime barra de progresso com ETA na mesma linha."""
+    pct = atual / _total
+    largura = 30
+    preenchido = int(largura * pct)
+    barra = "=" * preenchido + ">" + " " * (largura - preenchido)
+
+    elapsed = time.monotonic() - _inicio
+    if atual > 0:
+        eta_seg = elapsed / atual * (_total - atual)
+        eta = f"{int(eta_seg // 60):02d}:{int(eta_seg % 60):02d}"
+    else:
+        eta = "--:--"
+
+    linha = (
+        f"\r[{barra}] {atual:>{len(str(_total))}}/{_total} "
+        f"({pct:.0%}) | ETA {eta} | {nome[:28]:<28} | {etapa}"
+    )
+    sys.stdout.write(linha)
+    sys.stdout.flush()
+
+
+def progresso_fim() -> None:
+    elapsed = time.monotonic() - _inicio
+    sys.stdout.write(f"\r{'':100}\r")  # limpa a linha
+    sys.stdout.flush()
+    log.info("Concluído em %dm%02ds", int(elapsed // 60), int(elapsed % 60))
 
 # ===========================
 # HTTP
@@ -189,22 +232,35 @@ def main() -> None:
     log.info("%d deputados ativos para processar", len(deputados_ativos))
 
     resultados = []
+    progresso_inicio(len(deputados_ativos))
 
     for i, dep in enumerate(deputados_ativos, 1):
         dep_id = dep["id"]
-        log.info("[%d/%d] %s (id=%s)", i, len(deputados_ativos), dep.get("nome", dep_id), dep_id)
+        nome_curto = dep.get("nome", str(dep_id))
 
+        progresso(i, nome_curto, "detalhes...    ")
         detalhes = coletar_detalhes(dep_id)
 
         # Pula se situação indica afastamento nos detalhes completos
         if detalhes.get("situacao", "").upper() in {"AFASTADO", "LICENCIADO", "FALECIDO"}:
-            log.info("  Pulando — situação: %s", detalhes["situacao"])
+            progresso_fim()
+            log.info("Pulando %s — situação: %s", nome_curto, detalhes["situacao"])
+            progresso_inicio(len(deputados_ativos) - i)
             continue
 
+        progresso(i, nome_curto, "proposições... ")
         proposicoes = coletar_proposicoes(dep_id, data_inicio)
+
+        progresso(i, nome_curto, "requerimentos..")
         requerimentos = coletar_requerimentos(dep_id, data_inicio)
+
+        progresso(i, nome_curto, "discursos...   ")
         discursos = coletar_discursos(dep_id, data_inicio)
+
+        progresso(i, nome_curto, "comissões...   ")
         orgaos = coletar_orgaos(dep_id)
+
+        progresso(i, nome_curto, "votações...    ")
         total_votacoes, presencas = coletar_votacoes(dep_id, data_inicio)
 
         presenca_pct = round(presencas / total_votacoes * 100, 1) if total_votacoes > 0 else 0.0
@@ -220,6 +276,8 @@ def main() -> None:
             "presenca_votacoes": presenca_pct,
             "data_coleta": data_inicio,
         })
+
+    progresso_fim()
 
     # Salva dados brutos
     saida = RAW_DIR / f"deputados_{datetime.today().strftime('%Y-%m-%d')}.json"
