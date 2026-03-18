@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ranking dos Deputados Federais</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <div>
+        <h1>Ranking dos Deputados Federais</h1>
+        <p class="subtitle">Produtividade legislativa com base em dados públicos da Câmara dos Deputados</p>
+      </div>
+      <div class="updated">
+        Atualizado em <strong id="ultima-atualizacao">—</strong>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="info-cards">
+      <div class="card">
+        <span class="card-number" id="total-deputados">—</span>
+        <span class="card-label">Deputados rankeados</span>
+      </div>
+      <div class="card">
+        <span class="card-number" id="total-partidos">—</span>
+        <span class="card-label">Partidos</span>
+      </div>
+      <div class="card">
+        <span class="card-number" id="total-ufs">—</span>
+        <span class="card-label">Estados</span>
+      </div>
+      <div class="card">
+        <span class="card-number">57ª</span>
+        <span class="card-label">Legislatura (2023–2027)</span>
+      </div>
+    </section>
+
+    <section class="filtros">
+      <input type="text" id="busca" placeholder="Buscar por nome..." />
+      <select id="filtro-partido">
+        <option value="">Todos os partidos</option>
+      </select>
+      <select id="filtro-uf">
+        <option value="">Todos os estados</option>
+      </select>
+      <button id="btn-limpar">Limpar filtros</button>
+    </section>
+
+    <div class="tabela-wrapper">
+      <table id="tabela-ranking">
+        <thead>
+          <tr>
+            <th class="col-pos">#</th>
+            <th class="col-foto"></th>
+            <th class="col-nome sortable" data-col="nome">Nome <span class="sort-icon">↕</span></th>
+            <th class="col-partido sortable" data-col="partido">Partido <span class="sort-icon">↕</span></th>
+            <th class="col-uf sortable" data-col="uf">UF <span class="sort-icon">↕</span></th>
+            <th class="col-score sortable active desc" data-col="score">Score <span class="sort-icon">↓</span></th>
+            <th class="col-proposicoes sortable" data-col="proposicoes">Proposições <span class="sort-icon">↕</span></th>
+            <th class="col-votacoes sortable" data-col="presenca_votacoes">Presenças <span class="sort-icon">↕</span></th>
+            <th class="col-discursos sortable" data-col="discursos">Discursos <span class="sort-icon">↕</span></th>
+          </tr>
+        </thead>
+        <tbody id="tbody">
+          <tr><td colspan="9" class="loading">Carregando dados...</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p class="rodape-tabela" id="contagem-resultados"></p>
+
+    <details class="metodologia">
+      <summary>Como o score é calculado?</summary>
+      <div class="metodologia-conteudo">
+        <p>O score de produtividade vai de <strong>0 a 100</strong> e é calculado diariamente com dados dos últimos 30 dias via <a href="https://dadosabertos.camara.leg.br/api/v2" target="_blank">API oficial da Câmara</a>.</p>
+        <table class="tabela-pesos">
+          <tr><th>Métrica</th><th>Peso</th></tr>
+          <tr><td>Proposições apresentadas</td><td>30%</td></tr>
+          <tr><td>Presença em votações</td><td>25%</td></tr>
+          <tr><td>Discursos no plenário</td><td>15%</td></tr>
+          <tr><td>Participação em comissões</td><td>15%</td></tr>
+          <tr><td>Requerimentos</td><td>15%</td></tr>
+        </table>
+        <p>O score é <strong>normalizado</strong> — o deputado com maior atividade bruta recebe 100, e os demais são proporcionais a ele.</p>
+        <p>Deputados em licença ou afastamento são excluídos enquanto inativos.</p>
+      </div>
+    </details>
+  </main>
+
+  <footer>
+    <p>Dados: <a href="https://dadosabertos.camara.leg.br" target="_blank">dadosabertos.camara.leg.br</a> · Código: <a href="https://github.com/peuwainer/ranking-camara" target="_blank">GitHub</a> · Sem fins lucrativos · Atualizado diariamente</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
