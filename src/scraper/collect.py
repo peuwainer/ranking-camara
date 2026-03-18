@@ -81,23 +81,22 @@ session = requests.Session()
 session.headers.update({"Accept": "application/json"})
 
 
-def get(endpoint: str, params: dict | None = None) -> list | dict:
-    """GET paginado: coleta todas as páginas automaticamente."""
+def get(endpoint: str, params: dict | None = None, paginado: bool = True) -> list | dict:
+    """GET paginado: coleta todas as páginas automaticamente.
+    Use paginado=False para endpoints que não aceitam itens/pagina."""
     params = params or {}
-    params["itens"] = 100
+    if paginado:
+        params["itens"] = 100
     resultados = []
     pagina = 1
 
     while True:
-        params["pagina"] = pagina
+        if paginado:
+            params["pagina"] = pagina
         url = f"{BASE_URL}{endpoint}"
 
         try:
             resp = session.get(url, params=params, timeout=30)
-            if resp.status_code == 405:
-                # Parâmetro inválido ou endpoint não suporta este método
-                log.warning("405 em GET %s — ignorando (params: %s)", endpoint, params)
-                break
             resp.raise_for_status()
             data = resp.json()
         except requests.RequestException as e:
@@ -113,7 +112,7 @@ def get(endpoint: str, params: dict | None = None) -> list | dict:
         # Verifica se há próxima página pelos links
         links = data.get("links", [])
         tem_proxima = any(lk.get("rel") == "next" for lk in links)
-        if not tem_proxima:
+        if not tem_proxima or not paginado:
             break
 
         pagina += 1
@@ -191,6 +190,17 @@ def coletar_discursos(deputado_id: int, data_inicio: str) -> int:
     return len(dados)
 
 
+def coletar_votacoes(deputado_id: int, data_inicio: str) -> tuple[int, int]:
+    """Retorna (total_votacoes, presencas) sem usar itens/pagina."""
+    dados = get(f"/deputados/{deputado_id}/votacoes", {
+        "dataInicio": data_inicio,
+    }, paginado=False)
+    total = len(dados)
+    tipos_presenca = {"Sim", "Não", "Abstenção", "Obstrução", "Artigo 17"}
+    presencas = sum(1 for v in dados if v.get("tipoVoto") in tipos_presenca)
+    return total, presencas
+
+
 def coletar_orgaos(deputado_id: int) -> int:
     """Conta comissões em que o deputado participa atualmente."""
     dados = get(f"/deputados/{deputado_id}/orgaos")
@@ -249,12 +259,20 @@ def main() -> None:
         progresso(i, nome_curto, "comissões...   ")
         orgaos = coletar_orgaos(dep_id)
 
+        progresso(i, nome_curto, "votações...    ")
+        total_votacoes, presencas = coletar_votacoes(dep_id, data_inicio)
+
+        presenca_pct = round(presencas / total_votacoes * 100, 1) if total_votacoes > 0 else 0.0
+
         resultados.append({
             **detalhes,
             "proposicoes": proposicoes,
             "requerimentos": requerimentos,
             "discursos": discursos,
             "orgaos": orgaos,
+            "total_votacoes": total_votacoes,
+            "presencas_votacoes": presencas,
+            "presenca_votacoes": presenca_pct,
             "data_coleta": data_inicio,
         })
 

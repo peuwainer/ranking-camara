@@ -26,13 +26,12 @@ for d in (PROCESSED_DIR, HISTORY_DIR, PUBLIC_DIR):
     d.mkdir(parents=True, exist_ok=True)
 
 # Pesos do score (devem somar 1.0)
-# Nota: presença em votações foi removida — endpoint /deputados/{id}/votacoes
-# não existe na API v2. Pesos redistribuídos proporcionalmente.
 PESOS: dict[str, float] = {
-    "proposicoes":   0.40,
-    "discursos":     0.20,
-    "orgaos":        0.20,
-    "requerimentos": 0.20,
+    "proposicoes":   0.30,
+    "presenca":      0.25,
+    "discursos":     0.15,
+    "orgaos":        0.15,
+    "requerimentos": 0.15,
 }
 
 logging.basicConfig(
@@ -79,6 +78,7 @@ def calcular_scores(deputados: list[dict]) -> list[dict]:
     # Extrai vetores por métrica
     metricas = {
         "proposicoes":   [d["proposicoes"] for d in deputados],
+        "presenca":      [d["presenca_votacoes"] for d in deputados],
         "discursos":     [d["discursos"] for d in deputados],
         "orgaos":        [d["orgaos"] for d in deputados],
         "requerimentos": [d["requerimentos"] for d in deputados],
@@ -111,7 +111,8 @@ def formatar_para_site(deputados: list[dict], atualizado_em: str) -> dict:
     """Gera o JSON consumido pelo public/app.js."""
     campos_site = [
         "id", "nome", "nome_urna", "partido", "uf", "foto_url",
-        "score", "proposicoes", "discursos", "orgaos", "requerimentos",
+        "score", "proposicoes", "presenca_votacoes", "discursos",
+        "orgaos", "requerimentos",
     ]
     return {
         "atualizado_em": atualizado_em,
