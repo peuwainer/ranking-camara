@@ -190,10 +190,10 @@ def coletar_discursos(deputado_id: int, data_inicio: str) -> int:
     return len(dados)
 
 
-def coletar_votacoes(deputado_id: int, data_inicio: str) -> tuple[int, int]:
-    """Retorna (total_votacoes, presencas) sem usar itens/pagina."""
+def coletar_votacoes(deputado_id: int) -> tuple[int, int]:
+    """Retorna (total_votacoes, presencas) filtrando pela legislatura atual."""
     dados = get(f"/deputados/{deputado_id}/votacoes", {
-        "dataInicio": data_inicio,
+        "idLegislatura": LEGISLATURA_ATUAL,
     }, paginado=False)
     total = len(dados)
     tipos_presenca = {"Sim", "Não", "Abstenção", "Obstrução", "Artigo 17"}
@@ -260,7 +260,7 @@ def main() -> None:
         orgaos = coletar_orgaos(dep_id)
 
         progresso(i, nome_curto, "votações...    ")
-        total_votacoes, presencas = coletar_votacoes(dep_id, data_inicio)
+        total_votacoes, presencas = coletar_votacoes(dep_id)
 
         presenca_pct = round(presencas / total_votacoes * 100, 1) if total_votacoes > 0 else 0.0
 
