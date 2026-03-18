@@ -1,0 +1,364 @@
+/* ===========================
+   Reset e base
+=========================== */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --verde: #1a7a4a;
+  --verde-claro: #e8f5ee;
+  --amarelo: #f5c518;
+  --cinza-escuro: #1e1e1e;
+  --cinza-medio: #555;
+  --cinza-claro: #f4f4f4;
+  --borda: #ddd;
+  --branco: #fff;
+  --fonte: 'Segoe UI', system-ui, sans-serif;
+  --sombra: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+body {
+  font-family: var(--fonte);
+  background: var(--cinza-claro);
+  color: var(--cinza-escuro);
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+a { color: var(--verde); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* ===========================
+   Header
+=========================== */
+header {
+  background: var(--verde);
+  color: var(--branco);
+  padding: 1.5rem 0;
+}
+
+.header-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+h1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.subtitle {
+  font-size: 0.9rem;
+  opacity: 0.85;
+  margin-top: 0.25rem;
+}
+
+.updated {
+  font-size: 0.85rem;
+  opacity: 0.85;
+  white-space: nowrap;
+}
+
+/* ===========================
+   Main
+=========================== */
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+/* ===========================
+   Cards de resumo
+=========================== */
+.info-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.card {
+  background: var(--branco);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  box-shadow: var(--sombra);
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.card-number {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--verde);
+  line-height: 1;
+}
+
+.card-label {
+  font-size: 0.8rem;
+  color: var(--cinza-medio);
+}
+
+/* ===========================
+   Filtros
+=========================== */
+.filtros {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  align-items: center;
+}
+
+.filtros input,
+.filtros select {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--borda);
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-family: var(--fonte);
+  background: var(--branco);
+  color: var(--cinza-escuro);
+}
+
+.filtros input { min-width: 220px; }
+.filtros select { min-width: 160px; }
+
+.filtros input:focus,
+.filtros select:focus {
+  outline: none;
+  border-color: var(--verde);
+  box-shadow: 0 0 0 2px rgba(26,122,74,0.15);
+}
+
+#btn-limpar {
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--borda);
+  border-radius: 6px;
+  background: var(--branco);
+  color: var(--cinza-medio);
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-family: var(--fonte);
+  transition: background 0.15s;
+}
+
+#btn-limpar:hover {
+  background: var(--cinza-claro);
+}
+
+/* ===========================
+   Tabela
+=========================== */
+.tabela-wrapper {
+  background: var(--branco);
+  border-radius: 8px;
+  box-shadow: var(--sombra);
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead tr {
+  border-bottom: 2px solid var(--borda);
+}
+
+th {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--cinza-medio);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  white-space: nowrap;
+}
+
+th.sortable {
+  cursor: pointer;
+  user-select: none;
+}
+
+th.sortable:hover { color: var(--verde); }
+th.active { color: var(--verde); }
+
+.sort-icon { font-size: 0.75rem; margin-left: 2px; }
+
+tbody tr {
+  border-bottom: 1px solid #f0f0f0;
+  transition: background 0.1s;
+}
+
+tbody tr:last-child { border-bottom: none; }
+tbody tr:hover { background: var(--verde-claro); }
+
+td {
+  padding: 0.65rem 1rem;
+  font-size: 0.92rem;
+  vertical-align: middle;
+}
+
+/* colunas */
+.col-pos { width: 48px; text-align: center; }
+.col-foto { width: 44px; padding: 0.4rem 0.5rem; }
+.col-nome { min-width: 180px; font-weight: 600; }
+.col-partido { width: 90px; }
+.col-uf { width: 60px; }
+.col-score { width: 110px; }
+.col-proposicoes, .col-votacoes, .col-discursos { width: 100px; text-align: right; }
+
+/* posição */
+td.posicao {
+  text-align: center;
+  font-weight: 700;
+  color: var(--cinza-medio);
+  font-size: 0.85rem;
+}
+
+td.posicao.top3 { color: var(--verde); font-size: 1rem; }
+
+/* foto */
+.foto-deputado {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  background: var(--cinza-claro);
+}
+
+/* score */
+.score-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.score-valor {
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+.score-barra-bg {
+  height: 5px;
+  background: #e8e8e8;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.score-barra {
+  height: 100%;
+  border-radius: 3px;
+  background: var(--verde);
+  transition: width 0.3s;
+}
+
+/* score alto = mais escuro, baixo = laranja */
+.score-alto .score-barra { background: #1a7a4a; }
+.score-medio .score-barra { background: #f0a500; }
+.score-baixo .score-barra { background: #cc4400; }
+
+/* numeros nas colunas de contagem */
+.num { text-align: right; color: var(--cinza-medio); font-variant-numeric: tabular-nums; }
+
+/* badge partido */
+.badge-partido {
+  display: inline-block;
+  padding: 2px 7px;
+  border-radius: 4px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  background: var(--verde-claro);
+  color: var(--verde);
+}
+
+/* loading / sem resultados */
+.loading, .sem-resultados {
+  text-align: center;
+  color: var(--cinza-medio);
+  padding: 3rem 1rem;
+  font-size: 0.95rem;
+}
+
+/* contagem */
+.rodape-tabela {
+  font-size: 0.82rem;
+  color: var(--cinza-medio);
+  margin-top: 0.75rem;
+}
+
+/* ===========================
+   Metodologia
+=========================== */
+.metodologia {
+  margin-top: 2rem;
+  background: var(--branco);
+  border-radius: 8px;
+  box-shadow: var(--sombra);
+  overflow: hidden;
+}
+
+.metodologia summary {
+  padding: 1rem 1.25rem;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 0.95rem;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  user-select: none;
+}
+
+.metodologia summary::before {
+  content: '▶';
+  font-size: 0.7rem;
+  color: var(--verde);
+  transition: transform 0.2s;
+}
+
+.metodologia[open] summary::before { transform: rotate(90deg); }
+
+.metodologia-conteudo {
+  padding: 0 1.25rem 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  font-size: 0.9rem;
+  color: var(--cinza-medio);
+}
+
+.tabela-pesos { border-collapse: collapse; font-size: 0.9rem; }
+.tabela-pesos th, .tabela-pesos td { padding: 0.4rem 0.75rem; border: 1px solid var(--borda); }
+.tabela-pesos th { background: var(--cinza-claro); font-weight: 600; }
+
+/* ===========================
+   Footer
+=========================== */
+footer {
+  text-align: center;
+  padding: 1.5rem;
+  font-size: 0.8rem;
+  color: var(--cinza-medio);
+  margin-top: 2rem;
+}
+
+/* ===========================
+   Responsivo
+=========================== */
+@media (max-width: 700px) {
+  h1 { font-size: 1.2rem; }
+  .col-proposicoes, .col-votacoes, .col-discursos { display: none; }
+  .filtros input { min-width: 100%; }
+  .filtros select { min-width: 48%; }
+}

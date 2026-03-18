@@ -1,0 +1,30 @@
+{
+  "atualizado_em": "2026-03-18T03:00:00-03:00",
+  "legislatura": 57,
+  "deputados": [
+    {"id": 1, "nome": "Maria Silva", "partido": "PT", "uf": "SP", "score": 94.2, "proposicoes": 42, "presenca_votacoes": 98, "discursos": 31, "foto_url": ""},
+    {"id": 2, "nome": "João Ferreira", "partido": "PL", "uf": "MG", "score": 91.7, "proposicoes": 38, "presenca_votacoes": 96, "discursos": 28, "foto_url": ""},
+    {"id": 3, "nome": "Ana Rodrigues", "partido": "UNIÃO", "uf": "RJ", "score": 88.5, "proposicoes": 35, "presenca_votacoes": 94, "discursos": 25, "foto_url": ""},
+    {"id": 4, "nome": "Carlos Mendes", "partido": "MDB", "uf": "RS", "score": 85.1, "proposicoes": 30, "presenca_votacoes": 92, "discursos": 22, "foto_url": ""},
+    {"id": 5, "nome": "Luiza Carvalho", "partido": "PP", "uf": "BA", "score": 82.3, "proposicoes": 28, "presenca_votacoes": 91, "discursos": 20, "foto_url": ""},
+    {"id": 6, "nome": "Roberto Alves", "partido": "PSDB", "uf": "PR", "score": 79.0, "proposicoes": 25, "presenca_votacoes": 89, "discursos": 18, "foto_url": ""},
+    {"id": 7, "nome": "Fernanda Lima", "partido": "PDT", "uf": "CE", "score": 76.4, "proposicoes": 23, "presenca_votacoes": 87, "discursos": 17, "foto_url": ""},
+    {"id": 8, "nome": "Marcos Souza", "partido": "PSD", "uf": "GO", "score": 73.8, "proposicoes": 21, "presenca_votacoes": 85, "discursos": 15, "foto_url": ""},
+    {"id": 9, "nome": "Patricia Costa", "partido": "REPUBLICANOS", "uf": "SC", "score": 70.2, "proposicoes": 19, "presenca_votacoes": 83, "discursos": 14, "foto_url": ""},
+    {"id": 10, "nome": "Diego Barbosa", "partido": "AVANTE", "uf": "PE", "score": 67.9, "proposicoes": 18, "presenca_votacoes": 81, "discursos": 13, "foto_url": ""},
+    {"id": 11, "nome": "Camila Torres", "partido": "PT", "uf": "PA", "score": 65.1, "proposicoes": 17, "presenca_votacoes": 80, "discursos": 12, "foto_url": ""},
+    {"id": 12, "nome": "Rafael Nunes", "partido": "PL", "uf": "AM", "score": 62.3, "proposicoes": 16, "presenca_votacoes": 78, "discursos": 11, "foto_url": ""},
+    {"id": 13, "nome": "Beatriz Fonseca", "partido": "SOLIDARIEDADE", "uf": "MA", "score": 59.7, "proposicoes": 15, "presenca_votacoes": 76, "discursos": 10, "foto_url": ""},
+    {"id": 14, "nome": "André Pinto", "partido": "PROS", "uf": "PI", "score": 55.2, "proposicoes": 13, "presenca_votacoes": 74, "discursos": 9, "foto_url": ""},
+    {"id": 15, "nome": "Juliana Moura", "partido": "PSB", "uf": "RN", "score": 51.8, "proposicoes": 12, "presenca_votacoes": 71, "discursos": 8, "foto_url": ""},
+    {"id": 16, "nome": "Thiago Rocha", "partido": "PSOL", "uf": "DF", "score": 48.4, "proposicoes": 11, "presenca_votacoes": 68, "discursos": 7, "foto_url": ""},
+    {"id": 17, "nome": "Vanessa Cruz", "partido": "CIDADANIA", "uf": "ES", "score": 44.1, "proposicoes": 10, "presenca_votacoes": 65, "discursos": 6, "foto_url": ""},
+    {"id": 18, "nome": "Leonardo Gomes", "partido": "PATRIOTA", "uf": "MT", "score": 40.7, "proposicoes": 9, "presenca_votacoes": 62, "discursos": 5, "foto_url": ""},
+    {"id": 19, "nome": "Isabela Martins", "partido": "PMB", "uf": "MS", "score": 35.3, "proposicoes": 7, "presenca_votacoes": 58, "discursos": 4, "foto_url": ""},
+    {"id": 20, "nome": "Gustavo Viana", "partido": "DC", "uf": "TO", "score": 28.6, "proposicoes": 5, "presenca_votacoes": 51, "discursos": 3, "foto_url": ""},
+    {"id": 21, "nome": "Renata Campos", "partido": "MDB", "uf": "SP", "score": 22.1, "proposicoes": 4, "presenca_votacoes": 44, "discursos": 2, "foto_url": ""},
+    {"id": 22, "nome": "Sérgio Batista", "partido": "PODE", "uf": "RO", "score": 15.4, "proposicoes": 2, "presenca_votacoes": 37, "discursos": 1, "foto_url": ""},
+    {"id": 23, "nome": "Cláudia Freitas", "partido": "PL", "uf": "AC", "score": 9.8, "proposicoes": 1, "presenca_votacoes": 28, "discursos": 0, "foto_url": ""},
+    {"id": 24, "nome": "Hudson Paiva", "partido": "PTB", "uf": "RR", "score": 4.2, "proposicoes": 0, "presenca_votacoes": 19, "discursos": 0, "foto_url": ""}
+  ]
+}
