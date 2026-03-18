@@ -94,6 +94,10 @@ def get(endpoint: str, params: dict | None = None) -> list | dict:
 
         try:
             resp = session.get(url, params=params, timeout=30)
+            if resp.status_code == 405:
+                # Parâmetro inválido ou endpoint não suporta este método
+                log.warning("405 em GET %s — ignorando (params: %s)", endpoint, params)
+                break
             resp.raise_for_status()
             data = resp.json()
         except requests.RequestException as e:
@@ -206,7 +210,6 @@ def coletar_votacoes(deputado_id: int, data_inicio: str) -> tuple[int, int]:
     """
     dados = get(f"/deputados/{deputado_id}/votacoes", {
         "dataInicio": data_inicio,
-        "ordenarPor": "dataHoraVoto",
     })
     total = len(dados)
     # votos que contam como presença (exclui ausência justificada etc.)
