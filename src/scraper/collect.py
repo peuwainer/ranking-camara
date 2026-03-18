@@ -203,20 +203,6 @@ def coletar_orgaos(deputado_id: int) -> int:
     return len(ativos)
 
 
-def coletar_votacoes(deputado_id: int, data_inicio: str) -> tuple[int, int]:
-    """
-    Retorna (total_votacoes, presencas).
-    A API retorna os votos do deputado — cada item é uma votação em que ele participou.
-    """
-    dados = get(f"/deputados/{deputado_id}/votacoes", {
-        "dataInicio": data_inicio,
-    })
-    total = len(dados)
-    # votos que contam como presença (exclui ausência justificada etc.)
-    tipos_presenca = {"Sim", "Não", "Abstenção", "Obstrução", "Artigo 17"}
-    presencas = sum(1 for v in dados if v.get("tipoVoto") in tipos_presenca)
-    return total, presencas
-
 
 # ===========================
 # Loop principal
@@ -263,20 +249,12 @@ def main() -> None:
         progresso(i, nome_curto, "comissões...   ")
         orgaos = coletar_orgaos(dep_id)
 
-        progresso(i, nome_curto, "votações...    ")
-        total_votacoes, presencas = coletar_votacoes(dep_id, data_inicio)
-
-        presenca_pct = round(presencas / total_votacoes * 100, 1) if total_votacoes > 0 else 0.0
-
         resultados.append({
             **detalhes,
             "proposicoes": proposicoes,
             "requerimentos": requerimentos,
             "discursos": discursos,
             "orgaos": orgaos,
-            "total_votacoes": total_votacoes,
-            "presencas_votacoes": presencas,
-            "presenca_votacoes": presenca_pct,
             "data_coleta": data_inicio,
         })
 
