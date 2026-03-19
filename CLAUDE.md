@@ -14,7 +14,7 @@ Documentação Swagger: `https://dadosabertos.camara.leg.br/swagger/api.html`
 ```
 ranking-camara/
 ├── data/            # Scripts de coleta e processamento de dados
-├── public/          # Site estático gerado (HTML/CSS/JS)
+├── docs/            # Site estático gerado (HTML/CSS/JS) — servido pelo GitHub Pages
 ├── src/             # Código-fonte principal
 │   ├── scraper/     # Coleta dados da API da Câmara
 │   ├── scoring/     # Cálculo do score de produtividade
@@ -103,7 +103,7 @@ python src/scoring/score.py
 **Gerar site localmente:**
 ```bash
 python src/site/build.py
-# Abrir public/index.html no browser
+# Abrir docs/index.html no browser
 ```
 
 **Instalar dependências:**

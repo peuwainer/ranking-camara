@@ -1,6 +1,6 @@
 """
 Calcula o score de produtividade de cada deputado e gera:
-  - public/ranking.json        (consumido pelo site)
+  - docs/ranking.json          (consumido pelo site)
   - data/processed/ranking_YYYY-MM-DD.json
   - data/history/YYYY-MM-DD.json
 
@@ -20,7 +20,7 @@ from pathlib import Path
 RAW_DIR = Path("data/raw")
 PROCESSED_DIR = Path("data/processed")
 HISTORY_DIR = Path("data/history")
-PUBLIC_DIR = Path("public")
+PUBLIC_DIR = Path("docs")
 
 for d in (PROCESSED_DIR, HISTORY_DIR, PUBLIC_DIR):
     d.mkdir(parents=True, exist_ok=True)
@@ -108,7 +108,7 @@ def calcular_scores(deputados: list[dict]) -> list[dict]:
 # Formatação para o site
 # ===========================
 def formatar_para_site(deputados: list[dict], atualizado_em: str) -> dict:
-    """Gera o JSON consumido pelo public/app.js."""
+    """Gera o JSON consumido pelo docs/app.js."""
     campos_site = [
         "id", "nome", "nome_urna", "partido", "uf", "foto_url",
         "score", "proposicoes", "presenca_votacoes", "discursos",
