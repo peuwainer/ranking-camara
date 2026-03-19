@@ -24,6 +24,7 @@ RAW_DIR.mkdir(parents=True, exist_ok=True)
 LEGISLATURA_ATUAL = 57
 DIAS_RETROATIVOS = 30
 SLEEP_ENTRE_REQUESTS = 0.5  # segundos — respeita rate limit da API
+MAX_RETRIES = 3
 
 logging.basicConfig(
     level=logging.INFO,
@@ -81,6 +82,28 @@ session = requests.Session()
 session.headers.update({"Accept": "application/json"})
 
 
+def _get_com_retry(url: str, params: dict, timeout: int = 30) -> requests.Response:
+    """GET com retry exponencial para erros transitórios (5xx, timeout, connection error)."""
+    ultimo_erro: Exception | None = None
+    for tentativa in range(MAX_RETRIES):
+        try:
+            resp = session.get(url, params=params, timeout=timeout)
+            if resp.status_code >= 500:
+                raise requests.HTTPError(response=resp)
+            resp.raise_for_status()
+            return resp
+        except (requests.Timeout, requests.ConnectionError, requests.HTTPError) as e:
+            ultimo_erro = e
+            espera = 2 ** tentativa
+            log.warning(
+                "Tentativa %d/%d falhou em %s (%s). Aguardando %ds...",
+                tentativa + 1, MAX_RETRIES, url, e, espera,
+            )
+            if tentativa < MAX_RETRIES - 1:
+                time.sleep(espera)
+    raise ultimo_erro  # type: ignore[misc]
+
+
 def get(endpoint: str, params: dict | None = None, paginado: bool = True) -> list | dict:
     """GET paginado: coleta todas as páginas automaticamente.
     Use paginado=False para endpoints que não aceitam itens/pagina."""
@@ -96,8 +119,7 @@ def get(endpoint: str, params: dict | None = None, paginado: bool = True) -> lis
         url = f"{BASE_URL}{endpoint}"
 
         try:
-            resp = session.get(url, params=params, timeout=30)
-            resp.raise_for_status()
+            resp = _get_com_retry(url, params)
             data = resp.json()
         except requests.RequestException as e:
             log.error("Erro em GET %s: %s", endpoint, e)
@@ -129,8 +151,7 @@ def get_unico(endpoint: str, params: dict | None = None) -> dict:
     url = f"{BASE_URL}{endpoint}"
 
     try:
-        resp = session.get(url, params=params, timeout=30)
-        resp.raise_for_status()
+        resp = _get_com_retry(url, params)
         return resp.json().get("dados", {})
     except requests.RequestException as e:
         log.error("Erro em GET %s: %s", endpoint, e)
