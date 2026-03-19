@@ -37,7 +37,7 @@ header {
 }
 
 .header-inner {
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
   padding: 0 1.5rem;
   display: flex;
@@ -69,7 +69,7 @@ h1 {
    Main
 =========================== */
 main {
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
   padding: 1.5rem;
 }
@@ -174,7 +174,7 @@ thead tr {
 }
 
 th {
-  padding: 0.75rem 1rem;
+  padding: 0.75rem 0.6rem;
   text-align: left;
   font-size: 0.8rem;
   font-weight: 600;
@@ -203,7 +203,7 @@ tbody tr:last-child { border-bottom: none; }
 tbody tr:hover { background: var(--verde-claro); }
 
 td {
-  padding: 0.65rem 1rem;
+  padding: 0.65rem 0.6rem;
   font-size: 0.92rem;
   vertical-align: middle;
 }
@@ -215,7 +215,8 @@ td {
 .col-partido { width: 90px; }
 .col-uf { width: 60px; }
 .col-score { width: 110px; }
-.col-proposicoes, .col-votacoes, .col-discursos { width: 100px; text-align: right; }
+.col-proposicoes, .col-votacoes, .col-discursos,
+.col-requerimentos, .col-orgaos { width: 100px; text-align: right; }
 
 /* posição */
 td.posicao {
@@ -358,7 +359,8 @@ footer {
 =========================== */
 @media (max-width: 700px) {
   h1 { font-size: 1.2rem; }
-  .col-proposicoes, .col-votacoes, .col-discursos { display: none; }
+  .col-proposicoes, .col-votacoes, .col-discursos,
+  .col-requerimentos, .col-orgaos { display: none; }
   .filtros input { min-width: 100%; }
   .filtros select { min-width: 48%; }
 }
