@@ -3,6 +3,8 @@
 // ===========================
 let dadosOriginais = [];
 let ordenacao = { col: 'score', dir: 'desc' };
+let paginaAtual = 1;
+const ITENS_POR_PAGINA = 30;
 
 // ===========================
 // Inicialização
@@ -10,9 +12,9 @@ let ordenacao = { col: 'score', dir: 'desc' };
 document.addEventListener('DOMContentLoaded', () => {
   carregarDados();
 
-  document.getElementById('busca').addEventListener('input', renderTabela);
-  document.getElementById('filtro-partido').addEventListener('change', renderTabela);
-  document.getElementById('filtro-uf').addEventListener('change', renderTabela);
+  document.getElementById('busca').addEventListener('input', () => { paginaAtual = 1; renderTabela(); });
+  document.getElementById('filtro-partido').addEventListener('change', () => { paginaAtual = 1; renderTabela(); });
+  document.getElementById('filtro-uf').addEventListener('change', () => { paginaAtual = 1; renderTabela(); });
   document.getElementById('btn-limpar').addEventListener('click', limparFiltros);
 
   document.querySelectorAll('th.sortable').forEach(th => {
@@ -110,6 +112,7 @@ function ordenarPor(col) {
     ordenacao.dir = col === 'score' ? 'desc' : 'asc';
   }
   atualizarIconesOrdenacao();
+  paginaAtual = 1;
   renderTabela();
 }
 
@@ -128,6 +131,7 @@ function limparFiltros() {
   document.getElementById('busca').value = '';
   document.getElementById('filtro-partido').value = '';
   document.getElementById('filtro-uf').value = '';
+  paginaAtual = 1;
   renderTabela();
 }
 
@@ -135,20 +139,26 @@ function limparFiltros() {
 // Renderiza a tabela
 // ===========================
 function renderTabela() {
-  const lista = ordenarDados(dadosFiltrados());
+  const listaCompleta = ordenarDados(dadosFiltrados());
   const tbody = document.getElementById('tbody');
   const contagem = document.getElementById('contagem-resultados');
 
-  if (lista.length === 0) {
+  if (listaCompleta.length === 0) {
     tbody.innerHTML = '<tr><td colspan="10" class="sem-resultados">Nenhum deputado encontrado com esses filtros.</td></tr>';
     contagem.textContent = '';
+    document.getElementById('paginacao').innerHTML = '';
     return;
   }
 
-  contagem.textContent = `Exibindo ${lista.length} de ${dadosOriginais.length} deputados`;
+  const total = listaCompleta.length;
+  const inicio = (paginaAtual - 1) * ITENS_POR_PAGINA;
+  const fim = Math.min(inicio + ITENS_POR_PAGINA, total);
+  const lista = listaCompleta.slice(inicio, fim);
+
+  contagem.textContent = `Exibindo ${inicio + 1}–${fim} de ${total} deputados`;
 
   tbody.innerHTML = lista.map((d, i) => {
-    const pos = i + 1;
+    const pos = inicio + i + 1;
     const usarMedalha = ordenacao.col === 'score' && ordenacao.dir === 'desc';
     const classePos = usarMedalha && pos <= 3 ? 'posicao top3' : 'posicao';
     const medalha = usarMedalha
@@ -181,6 +191,61 @@ function renderTabela() {
         <td class="num">${d.orgaos}</td>
       </tr>`;
   }).join('');
+
+  renderPaginacao(total);
+}
+
+// ===========================
+// Renderiza paginação
+// ===========================
+function renderPaginacao(total) {
+  const totalPaginas = Math.ceil(total / ITENS_POR_PAGINA);
+  const el = document.getElementById('paginacao');
+
+  if (totalPaginas <= 1) {
+    el.innerHTML = '';
+    return;
+  }
+
+  const tabela = document.getElementById('tabela-ranking');
+
+  function irPara(n) {
+    paginaAtual = n;
+    renderTabela();
+    window.scrollTo({ top: tabela.offsetTop - 20, behavior: 'smooth' });
+  }
+
+  const botoes = [];
+
+  // Anterior
+  botoes.push(`<button ${paginaAtual === 1 ? 'disabled' : ''} data-pag="${paginaAtual - 1}">← Anterior</button>`);
+
+  // Números de página
+  const delta = 2;
+  const paginas = new Set();
+  paginas.add(1);
+  paginas.add(totalPaginas);
+  for (let p = paginaAtual - delta; p <= paginaAtual + delta; p++) {
+    if (p >= 1 && p <= totalPaginas) paginas.add(p);
+  }
+
+  let prev = 0;
+  [...paginas].sort((a, b) => a - b).forEach(p => {
+    if (prev && p - prev > 1) {
+      botoes.push(`<span class="reticencias">…</span>`);
+    }
+    botoes.push(`<button class="pagina-btn${p === paginaAtual ? ' ativa' : ''}" data-pag="${p}">${p}</button>`);
+    prev = p;
+  });
+
+  // Próxima
+  botoes.push(`<button ${paginaAtual === totalPaginas ? 'disabled' : ''} data-pag="${paginaAtual + 1}">Próxima →</button>`);
+
+  el.innerHTML = botoes.join('');
+
+  el.querySelectorAll('button[data-pag]').forEach(btn => {
+    btn.addEventListener('click', () => irPara(Number(btn.dataset.pag)));
+  });
 }
 
 // ===========================

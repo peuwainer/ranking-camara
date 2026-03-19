@@ -291,6 +291,48 @@ td.posicao.top3 { color: var(--verde); font-size: 1rem; }
   font-size: 0.95rem;
 }
 
+/* paginação */
+.paginacao {
+  display: flex;
+  gap: 6px;
+  justify-content: center;
+  align-items: center;
+  padding: 16px 0 8px;
+  flex-wrap: wrap;
+}
+
+.paginacao button {
+  padding: 6px 12px;
+  border: 1px solid var(--borda);
+  border-radius: 6px;
+  background: var(--branco);
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-family: var(--fonte);
+  transition: background 0.15s;
+}
+
+.paginacao button:hover:not(:disabled) {
+  background: var(--verde-claro);
+}
+
+.paginacao button.ativa {
+  background: var(--verde);
+  color: var(--branco);
+  border-color: var(--verde);
+  font-weight: bold;
+}
+
+.paginacao button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.paginacao .reticencias {
+  padding: 6px 4px;
+  color: var(--cinza-medio);
+}
+
 /* contagem */
 .rodape-tabela {
   font-size: 0.82rem;
