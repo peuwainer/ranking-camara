@@ -190,15 +190,58 @@ def coletar_discursos(deputado_id: int, data_inicio: str) -> int:
     return len(dados)
 
 
-def coletar_votacoes(deputado_id: int, data_inicio: str) -> tuple[int, int]:
-    """Retorna (total_votacoes, presencas) sem usar itens/pagina."""
-    dados = get(f"/deputados/{deputado_id}/votacoes", {
-        "dataInicio": data_inicio,
-    }, paginado=False)
-    total = len(dados)
-    tipos_presenca = {"Sim", "Não", "Abstenção", "Obstrução", "Artigo 17"}
-    presencas = sum(1 for v in dados if v.get("tipoVoto") in tipos_presenca)
-    return total, presencas
+def coletar_presencas_votacoes(data_inicio: str) -> tuple[int, dict[int, int]]:
+    """Retorna (total_votacoes, {deputado_id: num_presencas}) usando bulk files anuais.
+
+    Estratégia: baixa votacoesVotos-{ano}.json (um arquivo por ano necessário),
+    filtra por data localmente. Zero requisições extras por deputado.
+    """
+    TIPOS_PRESENCA = {"Sim", "Não", "Abstenção", "Obstrução", "Artigo 17"}
+    BULK_BASE = "https://dadosabertos.camara.leg.br/arquivos/votacoesVotos/json"
+
+    ano_inicio = int(data_inicio[:4])
+    ano_atual = datetime.today().year
+    anos = list(range(ano_inicio, ano_atual + 1))
+
+    todos_votos: list[dict] = []
+    for ano in anos:
+        url = f"{BULK_BASE}/votacoesVotos-{ano}.json"
+        log.info("Baixando bulk file de votos: %s", url)
+        try:
+            resp = session.get(url, timeout=60)
+            resp.raise_for_status()
+            dados = resp.json().get("dados", [])
+            log.info("  %d registros carregados (%d)", len(dados), ano)
+            todos_votos.extend(dados)
+        except requests.RequestException as e:
+            log.error("Erro ao baixar bulk file %s: %s", url, e)
+
+    # Filtra pela data de início
+    votos_periodo = [
+        v for v in todos_votos
+        if v.get("dataHoraVoto", "") >= data_inicio
+    ]
+    log.info("  %d votos no período desde %s", len(votos_periodo), data_inicio)
+
+    ids_votacao: set[str] = set()
+    presencas: dict[int, int] = {}
+
+    for voto in votos_periodo:
+        tipo = voto.get("voto", "")
+        if tipo not in TIPOS_PRESENCA:
+            continue
+        vid = voto.get("idVotacao")
+        if vid:
+            ids_votacao.add(vid)
+        dep = voto.get("deputado_", {})
+        dep_id = dep.get("id")
+        if dep_id:
+            dep_id = int(dep_id)
+            presencas[dep_id] = presencas.get(dep_id, 0) + 1
+
+    total_votacoes = len(ids_votacao)
+    log.info("  %d votações distintas, %d deputados com presença", total_votacoes, len(presencas))
+    return total_votacoes, presencas
 
 
 def coletar_orgaos(deputado_id: int) -> int:
@@ -230,6 +273,9 @@ def main() -> None:
     ]
     log.info("%d deputados ativos para processar", len(deputados_ativos))
 
+    # Coleta votações uma vez para todos os deputados
+    total_votacoes, presencas_por_deputado = coletar_presencas_votacoes(data_inicio)
+
     resultados = []
     progresso_inicio(len(deputados_ativos))
 
@@ -259,9 +305,7 @@ def main() -> None:
         progresso(i, nome_curto, "comissões...   ")
         orgaos = coletar_orgaos(dep_id)
 
-        progresso(i, nome_curto, "votações...    ")
-        total_votacoes, presencas = coletar_votacoes(dep_id, data_inicio)
-
+        presencas = presencas_por_deputado.get(dep_id, 0)
         presenca_pct = round(presencas / total_votacoes * 100, 1) if total_votacoes > 0 else 0.0
 
         resultados.append({
