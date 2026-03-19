@@ -37,7 +37,7 @@ async function carregarDados() {
     renderTabela();
   } catch (e) {
     document.getElementById('tbody').innerHTML =
-      '<tr><td colspan="9" class="sem-resultados">Não foi possível carregar os dados. Rode o script de coleta primeiro.</td></tr>';
+      '<tr><td colspan="11" class="sem-resultados">Não foi possível carregar os dados. Rode o script de coleta primeiro.</td></tr>';
   }
 }
 
@@ -140,7 +140,7 @@ function renderTabela() {
   const contagem = document.getElementById('contagem-resultados');
 
   if (lista.length === 0) {
-    tbody.innerHTML = '<tr><td colspan="9" class="sem-resultados">Nenhum deputado encontrado com esses filtros.</td></tr>';
+    tbody.innerHTML = '<tr><td colspan="11" class="sem-resultados">Nenhum deputado encontrado com esses filtros.</td></tr>';
     contagem.textContent = '';
     return;
   }
@@ -175,6 +175,8 @@ function renderTabela() {
         <td class="num">${d.proposicoes}</td>
         <td class="num">${d.presenca_votacoes}%</td>
         <td class="num">${d.discursos}</td>
+        <td class="num">${d.requerimentos}</td>
+        <td class="num">${d.orgaos}</td>
       </tr>`;
   }).join('');
 }
