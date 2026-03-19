@@ -182,6 +182,31 @@ function renderTabela() {
 }
 
 // ===========================
+// Tooltips
+// ===========================
+(function () {
+  const tip = document.getElementById('tooltip');
+
+  document.querySelectorAll('th[data-tooltip]').forEach(th => {
+    th.addEventListener('mouseenter', () => {
+      const rect = th.getBoundingClientRect();
+      tip.textContent = th.dataset.tooltip;
+      tip.style.opacity = '1';
+      // posiciona acima do th, centralizado
+      const tipWidth = 220;
+      let left = rect.left + rect.width / 2 - tipWidth / 2;
+      left = Math.max(8, Math.min(left, window.innerWidth - tipWidth - 8));
+      tip.style.left = left + 'px';
+      tip.style.top = (rect.top - tip.offsetHeight - 8) + 'px';
+    });
+
+    th.addEventListener('mouseleave', () => {
+      tip.style.opacity = '0';
+    });
+  });
+})();
+
+// ===========================
 // Utilitários
 // ===========================
 function formatarData(iso) {

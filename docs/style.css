@@ -346,35 +346,19 @@ td.posicao.top3 { color: var(--verde); font-size: 1rem; }
 /* ===========================
    Tooltips
 =========================== */
-th[data-tooltip] {
-  position: relative;
-}
-
-th[data-tooltip]::after {
-  content: attr(data-tooltip);
-  position: absolute;
-  bottom: calc(100% + 6px);
-  left: 50%;
-  transform: translateX(-50%);
+#tooltip {
+  position: fixed;
   background: var(--cinza-escuro);
   color: var(--branco);
   font-size: 0.78rem;
-  font-weight: 400;
-  text-transform: none;
-  letter-spacing: 0;
   padding: 0.5rem 0.75rem;
   border-radius: 6px;
-  white-space: normal;
   width: 220px;
   line-height: 1.4;
-  z-index: 10;
+  z-index: 100;
   pointer-events: none;
   opacity: 0;
   transition: opacity 0.15s;
-}
-
-th[data-tooltip]:hover::after {
-  opacity: 1;
 }
 
 /* ===========================
