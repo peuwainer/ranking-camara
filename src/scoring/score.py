@@ -133,6 +133,17 @@ def main() -> None:
 
     log.info("%d deputados carregados", len(deputados))
 
+    # Remove duplicatas pelo id, mantendo a primeira ocorrência
+    vistos: set[int] = set()
+    unicos = []
+    for d in deputados:
+        if d["id"] not in vistos:
+            vistos.add(d["id"])
+            unicos.append(d)
+    if len(unicos) < len(deputados):
+        log.warning("Removidas %d duplicatas", len(deputados) - len(unicos))
+    deputados = unicos
+
     com_scores = calcular_scores(deputados)
 
     hoje = datetime.today().strftime("%Y-%m-%d")
