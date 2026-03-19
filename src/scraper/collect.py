@@ -276,7 +276,9 @@ def coletar_orgaos(deputado_id: int) -> int:
         o for o in dados
         if not o.get("dataFim") or datetime.fromisoformat(o["dataFim"]).date() >= hoje
     ]
-    return len(ativos)
+    # deduplica por nome do órgão (mesmo órgão pode aparecer com cargos diferentes)
+    nomes_unicos = {o.get("nomeOrgao") for o in ativos}
+    return len(nomes_unicos)
 
 
 
