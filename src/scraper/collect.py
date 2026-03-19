@@ -192,15 +192,6 @@ def coletar_proposicoes(deputado_id: int, data_inicio: str) -> int:
     return len(dados)
 
 
-def coletar_requerimentos(deputado_id: int, data_inicio: str) -> int:
-    """Conta requerimentos (tipo REQ) apresentados pelo deputado."""
-    dados = get("/proposicoes", {
-        "idDeputadoAutor": deputado_id,
-        "siglaTipo": "REQ",
-        "dataInicio": data_inicio,
-    })
-    return len(dados)
-
 
 def coletar_discursos(deputado_id: int, data_inicio: str) -> int:
     """Conta discursos no plenário."""
@@ -317,9 +308,6 @@ def main() -> None:
         progresso(i, nome_curto, "proposições... ")
         proposicoes = coletar_proposicoes(dep_id, data_inicio)
 
-        progresso(i, nome_curto, "requerimentos..")
-        requerimentos = coletar_requerimentos(dep_id, data_inicio)
-
         progresso(i, nome_curto, "discursos...   ")
         discursos = coletar_discursos(dep_id, data_inicio)
 
@@ -332,7 +320,6 @@ def main() -> None:
         resultados.append({
             **detalhes,
             "proposicoes": proposicoes,
-            "requerimentos": requerimentos,
             "discursos": discursos,
             "orgaos": orgaos,
             "total_votacoes": total_votacoes,
