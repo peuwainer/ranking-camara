@@ -183,13 +183,26 @@ def coletar_detalhes(deputado_id: int) -> dict:
     }
 
 
+TIPOS_PROPOSICAO_RELEVANTES = {
+    "PL", "PEC", "PLP", "PDC", "PRC",  # projetos
+    "REQ", "RIC", "RCP",                # requerimentos
+    "INC",                               # indicações
+    "EMC", "EMP", "SBT",                # emendas e substitutivos
+    "PFC",                               # fiscalização e controle
+}
+
+
 def coletar_proposicoes(deputado_id: int, data_inicio: str) -> int:
-    """Conta proposições apresentadas pelo deputado desde data_inicio."""
+    """Conta proposições relevantes apresentadas pelo deputado desde data_inicio.
+
+    Exclui pareceres (PRL, PAR, PPP, PRV, etc.) e declarações de voto,
+    que refletem cargo de relator e não iniciativa legislativa própria.
+    """
     dados = get("/proposicoes", {
         "idDeputadoAutor": deputado_id,
         "dataApresentacaoInicio": data_inicio,
     })
-    return len(dados)
+    return sum(1 for p in dados if p.get("siglaTipo") in TIPOS_PROPOSICAO_RELEVANTES)
 
 
 
