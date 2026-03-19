@@ -189,7 +189,7 @@ function renderTabela() {
             </div>
           </div>
         </td>
-        <td class="num">${d.proposicoes}</td>
+        <td class="num"><a href="https://www.camara.leg.br/busca-portal?contextoBusca=BuscaProposicoes&pagina=1&order=data&abaEspecifica=true&q=autores.ideCadastro%3A%20${d.id}%20AND%20dataApresentacao%3A%5B${d.data_coleta.substring(0,4)}-01-01%20TO%20${d.data_coleta.substring(0,4)}-12-31%5D" target="_blank" rel="noopener">${d.proposicoes}</a></td>
         <td class="num">${d.presenca_votacoes}%</td>
         <td class="num">${d.discursos}</td>
         <td class="num">${d.orgaos}</td>
