@@ -150,9 +150,9 @@ function renderTabela() {
     return;
   }
 
-  // Mapa de id → posição global (ordenação atual sem filtro)
+  // Mapa de id → posição global (sempre por score desc, independente da ordenação atual)
   const rankGlobal = new Map();
-  ordenarDados(dadosOriginais).forEach((d, i) => rankGlobal.set(d.id, i + 1));
+  [...dadosOriginais].sort((a, b) => b.score - a.score).forEach((d, i) => rankGlobal.set(d.id, i + 1));
 
   const total = listaCompleta.length;
   const inicio = (paginaAtual - 1) * ITENS_POR_PAGINA;
