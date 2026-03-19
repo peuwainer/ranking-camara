@@ -185,8 +185,6 @@ def coletar_detalhes(deputado_id: int) -> dict:
 
 TIPOS_PROPOSICAO_RELEVANTES = {
     "PL", "PEC", "PLP", "PDC", "PRC",  # projetos
-    "REQ", "RIC", "RCP",                # requerimentos
-    "INC",                               # indicações
     "EMC", "EMP", "SBT",                # emendas e substitutivos
     "PFC",                               # fiscalização e controle
 }
