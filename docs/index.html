@@ -64,12 +64,11 @@
             <th class="col-proposicoes sortable" data-col="proposicoes" data-tooltip="Número de proposições (projetos de lei, emendas, etc.) apresentadas nos últimos 30 dias">Proposições <span class="sort-icon">↕</span></th>
             <th class="col-votacoes sortable" data-col="presenca_votacoes" data-tooltip="Percentual de votações em plenário em que o deputado esteve presente nos últimos 30 dias">Presenças <span class="sort-icon">↕</span></th>
             <th class="col-discursos sortable" data-col="discursos" data-tooltip="Número de discursos realizados no plenário nos últimos 30 dias">Discursos <span class="sort-icon">↕</span></th>
-            <th class="col-requerimentos sortable" data-col="requerimentos" data-tooltip="Número de requerimentos (pedidos de informação, convocações, etc.) apresentados nos últimos 30 dias">Requerimentos <span class="sort-icon">↕</span></th>
             <th class="col-orgaos sortable" data-col="orgaos" data-tooltip="Número de comissões, subcomissões e órgãos da Câmara em que o deputado participa atualmente">Comissões <span class="sort-icon">↕</span></th>
           </tr>
         </thead>
         <tbody id="tbody">
-          <tr><td colspan="11" class="loading">Carregando dados...</td></tr>
+          <tr><td colspan="10" class="loading">Carregando dados...</td></tr>
         </tbody>
       </table>
     </div>
@@ -82,11 +81,10 @@
         <p>O score de produtividade vai de <strong>0 a 100</strong> e é calculado diariamente com dados dos últimos 30 dias via <a href="https://dadosabertos.camara.leg.br/api/v2" target="_blank">API oficial da Câmara</a>.</p>
         <table class="tabela-pesos">
           <tr><th>Métrica</th><th>Peso</th></tr>
-          <tr><td>Proposições apresentadas</td><td>30%</td></tr>
-          <tr><td>Presença em votações</td><td>25%</td></tr>
-          <tr><td>Discursos no plenário</td><td>15%</td></tr>
+          <tr><td>Proposições apresentadas</td><td>35%</td></tr>
+          <tr><td>Presença em votações</td><td>30%</td></tr>
+          <tr><td>Discursos no plenário</td><td>20%</td></tr>
           <tr><td>Participação em comissões</td><td>15%</td></tr>
-          <tr><td>Requerimentos</td><td>15%</td></tr>
         </table>
         <p>O score é <strong>normalizado</strong> — o deputado com maior atividade bruta recebe 100, e os demais são proporcionais a ele.</p>
         <p>Deputados em licença ou afastamento são excluídos enquanto inativos.</p>

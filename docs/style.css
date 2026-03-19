@@ -216,7 +216,7 @@ td {
 .col-uf { width: 60px; }
 .col-score { width: 110px; }
 .col-proposicoes, .col-votacoes, .col-discursos,
-.col-requerimentos, .col-orgaos { width: 100px; text-align: center; }
+.col-orgaos { width: 100px; text-align: center; }
 
 /* posição */
 td.posicao {
@@ -378,7 +378,7 @@ footer {
 @media (max-width: 700px) {
   h1 { font-size: 1.2rem; }
   .col-proposicoes, .col-votacoes, .col-discursos,
-  .col-requerimentos, .col-orgaos { display: none; }
+  .col-orgaos { display: none; }
   .filtros input { min-width: 100%; }
   .filtros select { min-width: 48%; }
 }
