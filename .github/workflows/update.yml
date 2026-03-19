@@ -1,0 +1,40 @@
+name: Atualização diária do ranking
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # 03:00 BRT (UTC-3)
+  workflow_dispatch:      # permite rodar manualmente
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Coletar dados
+        run: python src/scraper/collect.py
+
+      - name: Calcular scores
+        run: python src/scoring/score.py
+
+      - name: Commit e push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/ranking.json
+          git diff --cached --quiet || git commit -m "Atualização automática — $(date -u '+%Y-%m-%d')"
+          git push

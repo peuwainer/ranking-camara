@@ -15,9 +15,6 @@ data/raw/
 data/processed/
 data/history/
 
-# Site gerado
-public/ranking.json
-
 # Ambiente
 .env
 *.log
