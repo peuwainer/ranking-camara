@@ -187,7 +187,7 @@ def coletar_proposicoes(deputado_id: int, data_inicio: str) -> int:
     """Conta proposições apresentadas pelo deputado desde data_inicio."""
     dados = get("/proposicoes", {
         "idDeputadoAutor": deputado_id,
-        "dataInicio": data_inicio,
+        "dataApresentacaoInicio": data_inicio,
     })
     return len(dados)
 
