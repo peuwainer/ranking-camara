@@ -216,7 +216,7 @@ td {
 .col-uf { width: 60px; }
 .col-score { width: 110px; }
 .col-proposicoes, .col-votacoes, .col-discursos,
-.col-requerimentos, .col-orgaos { width: 100px; text-align: right; }
+.col-requerimentos, .col-orgaos { width: 100px; text-align: center; }
 
 /* posição */
 td.posicao {
@@ -270,7 +270,7 @@ td.posicao.top3 { color: var(--verde); font-size: 1rem; }
 .score-baixo .score-barra { background: #cc4400; }
 
 /* numeros nas colunas de contagem */
-.num { text-align: right; color: var(--cinza-medio); font-variant-numeric: tabular-nums; }
+.num { text-align: center; color: var(--cinza-medio); font-variant-numeric: tabular-nums; }
 
 /* badge partido */
 .badge-partido {
@@ -342,6 +342,40 @@ td.posicao.top3 { color: var(--verde); font-size: 1rem; }
 .tabela-pesos { border-collapse: collapse; font-size: 0.9rem; }
 .tabela-pesos th, .tabela-pesos td { padding: 0.4rem 0.75rem; border: 1px solid var(--borda); }
 .tabela-pesos th { background: var(--cinza-claro); font-weight: 600; }
+
+/* ===========================
+   Tooltips
+=========================== */
+th[data-tooltip] {
+  position: relative;
+}
+
+th[data-tooltip]::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--cinza-escuro);
+  color: var(--branco);
+  font-size: 0.78rem;
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: 0;
+  padding: 0.5rem 0.75rem;
+  border-radius: 6px;
+  white-space: normal;
+  width: 220px;
+  line-height: 1.4;
+  z-index: 10;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+
+th[data-tooltip]:hover::after {
+  opacity: 1;
+}
 
 /* ===========================
    Footer
