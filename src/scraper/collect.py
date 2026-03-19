@@ -162,9 +162,9 @@ def get_unico(endpoint: str, params: dict | None = None) -> dict:
 # Coleta
 # ===========================
 def coletar_deputados() -> list[dict]:
-    """Lista todos os deputados ativos na legislatura atual."""
+    """Lista todos os deputados atualmente em exercício."""
     log.info("Coletando lista de deputados...")
-    deputados = get("/deputados", {"idLegislatura": LEGISLATURA_ATUAL})
+    deputados = get("/deputados")
     log.info("  %d deputados encontrados", len(deputados))
     return deputados
 
@@ -278,12 +278,8 @@ def main() -> None:
 
     deputados_base = coletar_deputados()
 
-    # Filtra afastados/licenciados
-    deputados_ativos = [
-        d for d in deputados_base
-        if d.get("situacao", "").upper() not in {"AFASTADO", "LICENCIADO", "FALECIDO"}
-    ]
-    log.info("%d deputados ativos para processar", len(deputados_ativos))
+    deputados_ativos = deputados_base
+    log.info("%d deputados para processar", len(deputados_ativos))
 
     # Coleta votações uma vez para todos os deputados
     total_votacoes, presencas_por_deputado = coletar_presencas_votacoes(data_inicio)
@@ -298,8 +294,8 @@ def main() -> None:
         progresso(i, nome_curto, "detalhes...    ")
         detalhes = coletar_detalhes(dep_id)
 
-        # Pula se situação indica afastamento nos detalhes completos
-        if detalhes.get("situacao", "").upper() in {"AFASTADO", "LICENCIADO", "FALECIDO"}:
+        # Pula se situação não é exercício ativo do mandato
+        if detalhes.get("situacao", "").upper() != "EXERCÍCIO":
             progresso_fim()
             log.info("Pulando %s — situação: %s", nome_curto, detalhes["situacao"])
             progresso_inicio(len(deputados_ativos) - i)
