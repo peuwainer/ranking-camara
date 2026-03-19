@@ -149,8 +149,11 @@ function renderTabela() {
 
   tbody.innerHTML = lista.map((d, i) => {
     const pos = i + 1;
-    const classePos = pos <= 3 ? 'posicao top3' : 'posicao';
-    const medalha = pos === 1 ? '🥇' : pos === 2 ? '🥈' : pos === 3 ? '🥉' : pos;
+    const usarMedalha = ordenacao.col === 'score' && ordenacao.dir === 'desc';
+    const classePos = usarMedalha && pos <= 3 ? 'posicao top3' : 'posicao';
+    const medalha = usarMedalha
+      ? (pos === 1 ? '🥇' : pos === 2 ? '🥈' : pos === 3 ? '🥉' : pos)
+      : pos;
     const classeScore = d.score >= 70 ? 'score-alto' : d.score >= 40 ? 'score-medio' : 'score-baixo';
 
     const foto = d.foto_url
