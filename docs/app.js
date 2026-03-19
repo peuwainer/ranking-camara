@@ -150,6 +150,10 @@ function renderTabela() {
     return;
   }
 
+  // Mapa de id → posição global (ordenação atual sem filtro)
+  const rankGlobal = new Map();
+  ordenarDados(dadosOriginais).forEach((d, i) => rankGlobal.set(d.id, i + 1));
+
   const total = listaCompleta.length;
   const inicio = (paginaAtual - 1) * ITENS_POR_PAGINA;
   const fim = Math.min(inicio + ITENS_POR_PAGINA, total);
@@ -157,8 +161,8 @@ function renderTabela() {
 
   contagem.textContent = `Exibindo ${inicio + 1}–${fim} de ${total} deputados`;
 
-  tbody.innerHTML = lista.map((d, i) => {
-    const pos = inicio + i + 1;
+  tbody.innerHTML = lista.map((d) => {
+    const pos = rankGlobal.get(d.id) ?? '—';
     const usarMedalha = ordenacao.col === 'score' && ordenacao.dir === 'desc';
     const classePos = usarMedalha && pos <= 3 ? 'posicao top3' : 'posicao';
     const medalha = usarMedalha
