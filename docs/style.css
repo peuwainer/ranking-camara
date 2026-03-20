@@ -419,8 +419,6 @@ footer {
 =========================== */
 @media (max-width: 700px) {
   h1 { font-size: 1.2rem; }
-  .col-proposicoes, .col-votacoes, .col-discursos,
-  .col-orgaos { display: none; }
   .filtros input { min-width: 100%; }
   .filtros select { min-width: 48%; }
 }
