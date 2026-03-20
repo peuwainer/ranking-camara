@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-03-20T10:59:50.234381+00:00",
+  "atualizado_em": "2026-03-20T12:30:48.693748+00:00",
   "legislatura": 57,
   "deputados": [
     {
@@ -198,6 +198,19 @@
       "orgaos": 8
     },
     {
+      "id": 220690,
+      "nome": "ALDEN JOSE LAZARO DA SILVA",
+      "nome_urna": "Capitão Alden",
+      "partido": "PL",
+      "uf": "BA",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
+      "score": 53.44,
+      "proposicoes": 17,
+      "presenca_votacoes": 83.7,
+      "discursos": 1,
+      "orgaos": 9
+    },
+    {
       "id": 204407,
       "nome": "FERNANDA MELCHIONNA E SILVA",
       "nome_urna": "Fernanda Melchionna",
@@ -209,19 +222,6 @@
       "presenca_votacoes": 83.7,
       "discursos": 20,
       "orgaos": 10
-    },
-    {
-      "id": 220690,
-      "nome": "ALDEN JOSE LAZARO DA SILVA",
-      "nome_urna": "Capitão Alden",
-      "partido": "PL",
-      "uf": "BA",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-      "score": 52.19,
-      "proposicoes": 16,
-      "presenca_votacoes": 83.7,
-      "discursos": 1,
-      "orgaos": 9
     },
     {
       "id": 226179,

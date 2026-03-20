@@ -226,7 +226,9 @@ def coletar_discursos(deputado_id: int, data_inicio: str) -> tuple[int, list[dic
         {
             "dataHoraInicio": d.get("dataHoraInicio", ""),
             "faseEvento": (d.get("faseEvento") or {}).get("titulo", ""),
+            "tipoDiscurso": d.get("tipoDiscurso", ""),
             "resumo": (d.get("transcricao") or "")[:200],
+            "transcricao": d.get("transcricao") or "",
         }
         for d in dados
     ]

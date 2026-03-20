@@ -76,17 +76,25 @@ function renderizar(dep) {
   // Discursos
   const discs = dep.discursos || [];
   document.getElementById('contagem-discursos').textContent = `${discs.length} discurso(s) nos ultimos 30 dias`;
-  const tbodyDiscs = document.getElementById('tbody-discursos');
+  const containerDiscs = document.getElementById('tbody-discursos');
   if (discs.length === 0) {
-    tbodyDiscs.innerHTML = '<tr><td colspan="3" class="sem-resultados">Nenhum discurso no periodo.</td></tr>';
+    containerDiscs.innerHTML = '<tr><td colspan="3" class="sem-resultados">Nenhum discurso no periodo.</td></tr>';
   } else {
-    tbodyDiscs.innerHTML = discs.map(d => `
+    containerDiscs.innerHTML = discs.map((d, i) => {
+      const temTranscricao = d.transcricao && d.transcricao.length > 0;
+      return `
       <tr>
         <td class="nowrap">${formatarDataHora(d.data)}</td>
-        <td>${esc(d.fase)}</td>
-        <td class="col-resumo">${esc(d.resumo)}</td>
+        <td>${esc(d.fase)}${d.tipo ? ` <span class="tipo-discurso">(${esc(d.tipo)})</span>` : ''}</td>
+        <td class="col-resumo">
+          ${esc(d.resumo)}${d.resumo && temTranscricao ? '...' : ''}
+          ${temTranscricao ? `<button class="btn-integra" onclick="toggleTranscricao(${i})">Ver integra</button>` : ''}
+        </td>
       </tr>
-    `).join('');
+      ${temTranscricao ? `<tr class="tr-transcricao" id="transcricao-${i}" style="display:none;">
+        <td colspan="3"><div class="transcricao-texto">${esc(d.transcricao)}</div></td>
+      </tr>` : ''}`;
+    }).join('');
   }
 
   // Orgaos
@@ -108,6 +116,21 @@ function renderizar(dep) {
 
   // Votacoes
   document.getElementById('link-votacoes').href = dep.url_votacoes;
+}
+
+// ===========================
+// Expandir/recolher transcricao
+// ===========================
+function toggleTranscricao(i) {
+  const tr = document.getElementById(`transcricao-${i}`);
+  const btn = tr.previousElementSibling.querySelector('.btn-integra');
+  if (tr.style.display === 'none') {
+    tr.style.display = '';
+    btn.textContent = 'Recolher';
+  } else {
+    tr.style.display = 'none';
+    btn.textContent = 'Ver integra';
+  }
 }
 
 // ===========================

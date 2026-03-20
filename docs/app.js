@@ -191,7 +191,7 @@ function renderTabela() {
         </td>
         <td class="num"><a href="https://www.camara.leg.br/busca-portal?contextoBusca=BuscaProposicoes&pagina=1&order=data&abaEspecifica=true&q=autores.ideCadastro%3A%20${d.id}%20AND%20dataApresentacao%3A%5B${new Date().getFullYear()}-01-01%20TO%20${new Date().getFullYear()}-12-31%5D" target="_blank" rel="noopener">${d.proposicoes}</a></td>
         <td class="num">${d.presenca_votacoes}%</td>
-        <td class="num">${d.discursos}</td>
+        <td class="num"><a href="deputado.html?id=${d.id}#discursos" target="_blank" rel="noopener">${d.discursos}</a></td>
         <td class="num">${d.orgaos}</td>
       </tr>`;
   }).join('');

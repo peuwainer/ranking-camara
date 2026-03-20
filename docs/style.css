@@ -519,6 +519,37 @@ footer {
 
 .nowrap { white-space: nowrap; }
 
+.btn-integra {
+  display: inline-block;
+  margin-left: 0.5rem;
+  padding: 2px 8px;
+  font-size: 0.78rem;
+  font-family: var(--fonte);
+  background: var(--verde-claro);
+  color: var(--verde);
+  border: 1px solid var(--verde);
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.btn-integra:hover { background: var(--verde); color: var(--branco); }
+
+.tipo-discurso { font-size: 0.8rem; color: var(--cinza-medio); }
+
+.tr-transcricao td { padding: 0 0.6rem 0.75rem; }
+
+.transcricao-texto {
+  background: var(--cinza-claro);
+  border-radius: 6px;
+  padding: 1rem;
+  font-size: 0.88rem;
+  line-height: 1.7;
+  white-space: pre-wrap;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
 .btn-externo {
   display: inline-block;
   padding: 0.6rem 1.2rem;

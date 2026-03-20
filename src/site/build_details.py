@@ -82,7 +82,9 @@ def main() -> None:
             {
                 "data": d.get("dataHoraInicio", ""),
                 "fase": d.get("faseEvento", ""),
+                "tipo": d.get("tipoDiscurso", ""),
                 "resumo": d.get("resumo", ""),
+                "transcricao": d.get("transcricao", ""),
             }
             for d in dep_detalhes.get("discursos", [])
         ]
