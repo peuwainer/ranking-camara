@@ -1,0 +1,32 @@
+{
+  "id": 230957,
+  "nome": "João Cury",
+  "partido": "MDB",
+  "uf": "SP",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/230957.jpg",
+  "score": 17.77,
+  "rank": 474,
+  "proposicoes": [],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Titular",
+      "desde": "2025-04-08T00:00"
+    },
+    {
+      "nome": "Comissão de Desenvolvimento Urbano",
+      "sigla": "CDU",
+      "cargo": "Titular",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",
+      "sigla": "CINDRE",
+      "cargo": "Suplente",
+      "desde": "2026-02-05T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/230957/votacoes-nominais-plenario/2026"
+}

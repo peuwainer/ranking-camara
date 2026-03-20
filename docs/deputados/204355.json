@@ -1,0 +1,72 @@
+{
+  "id": 204355,
+  "nome": "Da Vitoria",
+  "partido": "PP",
+  "uf": "ES",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204355.jpg",
+  "score": 28.27,
+  "rank": 308,
+  "proposicoes": [
+    {
+      "id": 2604020,
+      "tipo": "PL",
+      "numero": 679,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 10.260, de 12 de julho de 2001, e nº 14.375, de 21 de junho de 2022, para dispor sobre a concessão de redução de pagamento de valores do financiamento estudantil para beneficiários adimplentes do Fies.",
+      "data": "2026-02-24T12:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604020"
+    },
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2606848,
+      "tipo": "PL",
+      "numero": 933,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a conversão facultativa da ocupação em aforamento gratuito, e altera dispositivos do Decreto-Lei nº 9.760, de 5 de setembro de 1946, e da Lei nº 9.636, de 15 de maio de 1998.",
+      "data": "2026-03-04T15:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606848"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-02-25T15:24",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. DA VITORIA (Bloco/PP - ES. Pela ordem. Sem revisão do orador.) - Sr. Presidente, a Câmara dos Deputados deu um passo importante na direção do combate ao crime organizado. Aprovamos, na noite de "
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
+      "sigla": "BANEGRA",
+      "cargo": "Titular",
+      "desde": "2023-11-02T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 18, de 2025, do Poder Executivo, que \"altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública\"",
+      "sigla": "PEC01825",
+      "cargo": "Suplente",
+      "desde": "2025-09-03T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "Suplente",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Titular",
+      "desde": "2026-03-18T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204355/votacoes-nominais-plenario/2026"
+}

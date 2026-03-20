@@ -1,0 +1,65 @@
+{
+  "id": 204367,
+  "nome": "Daniel Freitas",
+  "partido": "PL",
+  "uf": "SC",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204367.jpg",
+  "score": 29.66,
+  "rank": 272,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-18T14:56",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. DANIEL FREITAS (PL - SC. Sem revisão do orador.) - Obrigado, Sr. Presidente. Presidente, o que eu vou falar aqui não é uma novidade para ninguém. Este Governo que aí está é inimigo do agronegóci"
+    },
+    {
+      "data": "2026-02-24T14:12",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. DANIEL FREITAS (PL - SC. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente. Faço questão de saudar o Deputado Estadual Bruno Souza, presente aqui. Ele foi Deputado Estadual em Santa"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "TESTE PARA GERAÇÃO DO ESPELHO DA COMISSÃO (COMISSÃO FICTÍCIA)",
+      "sigla": "TESTECOM",
+      "cargo": "Suplente",
+      "desde": "2025-02-21T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 234, de 2024, do Sr. Felipe Carreras, que \"dispõe sobre incentivos e benefícios para fomentar as atividades de caráter desportivo e dá outras providências\"",
+      "sigla": "PLP23424",
+      "cargo": "Titular",
+      "desde": "2025-05-19T00:00"
+    },
+    {
+      "nome": "Comissão de Ciência, Tecnologia e Inovação",
+      "sigla": "CCTI",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão do Esporte",
+      "sigla": "CESPO",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-02-09T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204367/votacoes-nominais-plenario/2026"
+}

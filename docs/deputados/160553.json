@@ -1,0 +1,90 @@
+{
+  "id": 160553,
+  "nome": "Antonio Brito",
+  "partido": "PSD",
+  "uf": "BA",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+  "score": 13.66,
+  "rank": 495,
+  "proposicoes": [
+    {
+      "id": 2604152,
+      "tipo": "EMP",
+      "numero": 40,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.",
+      "data": "2026-02-24T15:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604152"
+    },
+    {
+      "id": 2604290,
+      "tipo": "EMP",
+      "numero": 63,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.",
+      "data": "2026-02-24T18:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604290"
+    },
+    {
+      "id": 2609216,
+      "tipo": "EMP",
+      "numero": 9,
+      "ano": 0,
+      "ementa": "Dispõe sobre os regimes de resolução das instituições autorizadas a funcionar pelo Banco Central do Brasil, pela Superintendência de Seguros Privados e pela Comissão de Valores Mobiliários",
+      "data": "2026-03-17T11:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609216"
+    },
+    {
+      "id": 2610217,
+      "tipo": "EMP",
+      "numero": 7,
+      "ano": 0,
+      "ementa": "Institui o marco legal do transporte público coletivo urbano e altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), a Lei nº 10.336, de 19 de dezembro de 2001, a Lei nº 10.636, de 30 de dezembro de 2002, e a Lei nº 12.587, de 3 de janeiro de 2012 (Lei de Mobilidade Urbana).",
+      "data": "2026-03-18T13:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610217"
+    },
+    {
+      "id": 2610431,
+      "tipo": "EMP",
+      "numero": 25,
+      "ano": 0,
+      "ementa": "Dispõe sobre os regimes de resolução das instituições autorizadas a funcionar pelo Banco Central do Brasil, pela Superintendência de Seguros Privados e pela Comissão de Valores Mobiliários.",
+      "data": "2026-03-18T17:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610431"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-19T10:28",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Nobre Presidente e nobres Deputados, eu uso desta tribuna para registrar a chegada à CCJ da PEC 14/2021"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Comissão Externa destinada a elaborar propostas para analisar o enfrentamento da tuberculose como compromisso internacional para a eliminação desta doença como problema de saúde pública até o ano de 2030, conforme preconizado pela Organização das Nações Unidas (ONU)",
+      "sigla": "CEXTUBER",
+      "cargo": "Coordenador",
+      "desde": "2023-09-05T00:00"
+    },
+    {
+      "nome": "Comissão Externa destinada a elaborar propostas para analisar o enfrentamento da tuberculose como compromisso internacional para a eliminação desta doença como problema de saúde pública até o ano de 2030, conforme preconizado pela Organização das Nações Unidas (ONU)",
+      "sigla": "CEXTUBER",
+      "cargo": "Titular",
+      "desde": "2023-09-05T00:00"
+    },
+    {
+      "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
+      "sigla": "BANEGRA",
+      "cargo": "Titular",
+      "desde": "2023-11-02T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 14, de 2021, do Sr. Dr. Leonardo e outros, que \"altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais\"",
+      "sigla": "PEC01421",
+      "cargo": "Relator",
+      "desde": "2025-06-10T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/160553/votacoes-nominais-plenario/2026"
+}

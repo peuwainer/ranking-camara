@@ -1,0 +1,81 @@
+{
+  "id": 204560,
+  "nome": "Adolfo Viana",
+  "partido": "PSDB",
+  "uf": "BA",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204560.jpg",
+  "score": 31.0,
+  "rank": 239,
+  "proposicoes": [
+    {
+      "id": 2604300,
+      "tipo": "EMP",
+      "numero": 64,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.",
+      "data": "2026-02-24T18:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604300"
+    },
+    {
+      "id": 2604302,
+      "tipo": "EMP",
+      "numero": 65,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.",
+      "data": "2026-02-24T18:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604302"
+    },
+    {
+      "id": 2604304,
+      "tipo": "EMP",
+      "numero": 66,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.",
+      "data": "2026-02-24T18:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604304"
+    },
+    {
+      "id": 2605568,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a denominação, a apresentação, a embalagem, a rotulagem, a publicidade e a comercialização dos produtos similares aos lácteos e à carne.",
+      "data": "2026-03-02T16:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605568"
+    },
+    {
+      "id": 2605650,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre a denominação, a apresentação, a embalagem, a rotulagem, a publicidade e a comercialização dos produtos similares aos lácteos e à carne.",
+      "data": "2026-03-02T17:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605650"
+    },
+    {
+      "id": 2609774,
+      "tipo": "EMP",
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Institui o marco legal do transporte público coletivo urbano e altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), a Lei nº 10.336, de 19 de dezembro de 2001, a Lei nº 10.636, de 30 de dezembro de 2002, e a Lei nº 12.587, de 3 de janeiro de 2012 (Lei de Mobilidade Urbana).",
+      "data": "2026-03-17T19:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609774"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Representação Brasileira no Parlamento do Mercosul",
+      "sigla": "MERCOSUL",
+      "cargo": "Suplente",
+      "desde": "2023-08-23T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho destinado a discutir e elaborar proposta legislativa sobre regras e critérios para a comercialização de suplementos alimentares",
+      "sigla": "GTSUPLEM",
+      "cargo": "Titular",
+      "desde": "2025-10-20T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204560/votacoes-nominais-plenario/2026"
+}

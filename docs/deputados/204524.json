@@ -1,0 +1,57 @@
+{
+  "id": 204524,
+  "nome": "Pinheirinho",
+  "partido": "PP",
+  "uf": "MG",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204524.jpg",
+  "score": 9.53,
+  "rank": 508,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2605537,
+      "tipo": "PL",
+      "numero": 836,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade da afixação de cartazes em locais públicos e privados de grande aglomeração de pessoas, visando à proteção das mulheres.",
+      "data": "2026-03-02T15:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605537"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
+      "sigla": "BANEGRA",
+      "cargo": "Titular",
+      "desde": "2023-11-02T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Suplente",
+      "desde": "2025-04-09T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204524/votacoes-nominais-plenario/2026"
+}

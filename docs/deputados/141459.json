@@ -1,0 +1,32 @@
+{
+  "id": 141459,
+  "nome": "João Maia",
+  "partido": "PP",
+  "uf": "RN",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141459.jpg",
+  "score": 20.62,
+  "rank": 459,
+  "proposicoes": [],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",
+      "sigla": "CINDRE",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Administração e Serviço Público",
+      "sigla": "CASP",
+      "cargo": "Suplente",
+      "desde": "2026-02-04T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/141459/votacoes-nominais-plenario/2026"
+}

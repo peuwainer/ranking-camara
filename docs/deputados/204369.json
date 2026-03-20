@@ -1,0 +1,93 @@
+{
+  "id": 204369,
+  "nome": "Caroline de Toni",
+  "partido": "PL",
+  "uf": "SC",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204369.jpg",
+  "score": 23.09,
+  "rank": 428,
+  "proposicoes": [
+    {
+      "id": 2603807,
+      "tipo": "PL",
+      "numero": 653,
+      "ano": 2026,
+      "ementa": "Confere ao Município de Papanduva, no Estado de Santa Catarina, o título de Capital Nacional do Pirogue.",
+      "data": "2026-02-23T14:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603807"
+    },
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2607599,
+      "tipo": "PL",
+      "numero": 1046,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para permitir a dedução, na base de cálculo do Imposto de Renda da Pessoa Física, dos juros pagos em financiamento destinado à aquisição da primeira residência do contribuinte.",
+      "data": "2026-03-09T17:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607599"
+    },
+    {
+      "id": 2607600,
+      "tipo": "PL",
+      "numero": 1047,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para ampliar despesas dedutíveis da base de cálculo do Imposto de Renda das Pessoas Físicas com educação.",
+      "data": "2026-03-09T17:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607600"
+    },
+    {
+      "id": 2607601,
+      "tipo": "PL",
+      "numero": 1048,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para incluir os gastos com vacinas entre as despesas dedutíveis da base de cálculo do Imposto de Renda das Pessoas Físicas.",
+      "data": "2026-03-09T17:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607601"
+    },
+    {
+      "id": 2609022,
+      "tipo": "PL",
+      "numero": 1175,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para vedar a utilização de drones, satélites e sistemas baseados em inteligência artificial para aplicação exclusiva de multas de trânsito.",
+      "data": "2026-03-16T14:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609022"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Secretaria da Mulher",
+      "sigla": "SEMULHER",
+      "cargo": "Titular",
+      "desde": "2023-05-04T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",
+      "sigla": "PL233823",
+      "cargo": "Titular",
+      "desde": "2025-04-29T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 733, de 2025, do Sr. Leur Lomanto Júnior, que \"dispõe sobre o Sistema Portuário Brasileiro, regula a exploração dos portos, as atividades de operação portuária, o trabalho portuário e dá outras providências\"",
+      "sigla": "PL073325",
+      "cargo": "Suplente",
+      "desde": "2025-10-01T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-02-13T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204369/votacoes-nominais-plenario/2026"
+}

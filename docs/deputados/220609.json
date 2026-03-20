@@ -1,0 +1,57 @@
+{
+  "id": 220609,
+  "nome": "Maurício Carvalho",
+  "partido": "UNIÃO",
+  "uf": "RO",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220609.jpg",
+  "score": 24.51,
+  "rank": 400,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2607158,
+      "tipo": "PL",
+      "numero": 966,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para reforçar a proteção da dignidade sexual de menores de 14 (catorze) anos, criar condicionantes de aumento de pena e vedar a relativização da vulnerabilidade por suposto vínculo afetivo ou consentimento familiar.",
+      "data": "2026-03-05T12:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607158"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei n. 2614, de 2024, do Poder Executivo, que \"aprova o Plano Nacional de Educação para o decênio 2024-2034\"",
+      "sigla": "PL261424",
+      "cargo": "Titular",
+      "desde": "2025-04-25T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, que \"regula os serviços de transporte remunerado privado individual de passageiros e de coleta e entrega de bens prestados pelas empresas operadoras de plataforma digital\"",
+      "sigla": "PLP15225",
+      "cargo": "Titular",
+      "desde": "2025-08-13T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-03-03T00:00"
+    },
+    {
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
+      "cargo": "3º Vice-Presidente",
+      "desde": "2026-03-18T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220609/votacoes-nominais-plenario/2026"
+}

@@ -1,0 +1,54 @@
+{
+  "id": 143942,
+  "nome": "Caio Vianna",
+  "partido": "PSD",
+  "uf": "RJ",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/143942.jpg",
+  "score": 24.4,
+  "rank": 403,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2607741,
+      "tipo": "PL",
+      "numero": 1074,
+      "ano": 2026,
+      "ementa": "Institui medidas de incentivo ao desenvolvimento de sistemas de inteligência artificial brasileiros; altera a Lei nº 11.196, de 21 de novembro de 2005, e a Lei nº 11.540, de 12 de novembro de 2007.",
+      "data": "2026-03-10T15:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607741"
+    },
+    {
+      "id": 2607743,
+      "tipo": "PLP",
+      "numero": 49,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir que microempresas e empresas de pequeno porte optantes pelo Simples Nacional apurem crédito fiscal decorrente de dispêndios com o desenvolvimento de sistemas de inteligência artificial brasileiros.",
+      "data": "2026-03-10T15:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607743"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Suplente",
+      "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Comissão do Esporte",
+      "sigla": "CESPO",
+      "cargo": "Suplente",
+      "desde": "2026-02-09T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/143942/votacoes-nominais-plenario/2026"
+}

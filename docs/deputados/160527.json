@@ -1,0 +1,64 @@
+{
+  "id": 160527,
+  "nome": "Aguinaldo Ribeiro",
+  "partido": "PP",
+  "uf": "PB",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160527.jpg",
+  "score": 16.47,
+  "rank": 480,
+  "proposicoes": [
+    {
+      "id": 2604398,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-02-24T23:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604398"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-02-25T00:20",
+      "fase": "Ordem do Dia",
+      "resumo": "O SR. AGUINALDO RIBEIRO (Bloco/PP - PB. Pela ordem. Sem revisão do orador.) - Sr. Presidente, se V.Exa. me permite, além de comentar o destaque, quero aproveitar para também fazer aqui uma referência "
+    },
+    {
+      "data": "2026-02-24T23:36",
+      "fase": "Ordem do Dia",
+      "resumo": "O SR. AGUINALDO RIBEIRO (Bloco/PP - PB. Para proferir parecer. Sem revisão do orador.) - Procedo à leitura, Sr. Presidente. \"I - Voto do Relator Durante a discussão da matéria, foram apresentadas 77 e"
+    },
+    {
+      "data": "2026-02-24T23:04",
+      "fase": "Ordem do Dia",
+      "resumo": "O SR. AGUINALDO RIBEIRO (Bloco/PP - PB. Para proferir parecer. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Parlamentares, o Projeto de Lei nº 278, de 2026, é de autoria do nobre Deputado Jo"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1087, de 2025, do Poder Executivo, que \"altera a legislação do imposto sobre a renda para instituir a redução do imposto devido nas bases de cálculo mensal e anual e a tributação mínima para as pessoas físicas que auferem altas rendas, e dá outras providências\"",
+      "sigla": "PL108725",
+      "cargo": "Suplente",
+      "desde": "2025-04-29T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",
+      "sigla": "PL233823",
+      "cargo": "Relator",
+      "desde": "2025-05-20T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Suplente",
+      "desde": "2026-03-18T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/160527/votacoes-nominais-plenario/2026"
+}

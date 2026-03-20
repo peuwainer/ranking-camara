@@ -1,0 +1,114 @@
+{
+  "id": 204479,
+  "nome": "Nicoletti",
+  "partido": "PL",
+  "uf": "RR",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204479.jpg",
+  "score": 37.38,
+  "rank": 104,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2605541,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Apoio às Famílias dos Servidores da Segurança Pública Vítimas em Serviço e dá outras providências.",
+      "data": "2026-03-02T14:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605541"
+    },
+    {
+      "id": 2605560,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Isenta do Imposto sobre a Renda e Proventos de Qualquer Natureza e da apresentação da Declaração de Ajuste Anual os policiais integrantes dos órgãos de que tratam o § 3º do art. 27, o inciso IV do caput do art. 51, o inciso XIII do caput do art. 52, os incisos I a VI do art. 144, da perícia oficial de natureza criminal, os guardas municipais de que trata o § 8º do art. 144, os agentes de segurança socioeducativos e os agentes de trânsito de que trata o inciso II do § 10º do art. 144, todos da Constituição Federal, inclusive os da reserva ou inativos",
+      "data": "2026-03-02T14:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605560"
+    },
+    {
+      "id": 2609170,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de assistência jurídica aos agentes de segurança pública e dá outras providências.",
+      "data": "2026-03-17T10:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609170"
+    },
+    {
+      "id": 2609171,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para permitir a dedução da base de cálculo do Imposto de Renda da Pessoa Física das despesas realizadas por profissionais de segurança pública com a aquisição de armamento, munições, equipamentos de proteção balística e cursos de capacitação técnica.",
+      "data": "2026-03-17T10:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609171"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Externa destinada a acompanhar as autoridades competentes na investigação e apuração da crise humanitária dos indígenas Yanomami, na região Norte do país",
+      "sigla": "CEXYANOM",
+      "cargo": "Titular",
+      "desde": "2024-05-14T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 234, de 2024, do Sr. Felipe Carreras, que \"dispõe sobre incentivos e benefícios para fomentar as atividades de caráter desportivo e dá outras providências\"",
+      "sigla": "PLP23424",
+      "cargo": "Suplente",
+      "desde": "2025-05-08T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 14, de 2021, do Sr. Dr. Leonardo e outros, que \"altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais\"",
+      "sigla": "PEC01421",
+      "cargo": "Suplente",
+      "desde": "2025-06-09T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 18, de 2025, do Poder Executivo, que \"altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública\"",
+      "sigla": "PEC01825",
+      "cargo": "Titular",
+      "desde": "2025-09-03T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão do Esporte",
+      "sigla": "CESPO",
+      "cargo": "Suplente",
+      "desde": "2026-03-11T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-03-11T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "Suplente",
+      "desde": "2026-03-11T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial de Fiscalização e Direitos dos Presos do 8 de Janeiro",
+      "sigla": "SUB8J",
+      "cargo": "Suplente",
+      "desde": "2026-03-11T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204479/votacoes-nominais-plenario/2026"
+}

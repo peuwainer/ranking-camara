@@ -1,0 +1,78 @@
+{
+  "id": 74262,
+  "nome": "Carlos Sampaio",
+  "partido": "PSD",
+  "uf": "SP",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74262.jpg",
+  "score": 32.13,
+  "rank": 217,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2610371,
+      "tipo": "PL",
+      "numero": 1259,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.842, de 10 de julho de 2013, que dispõe sobre o exercício da Medicina, para instituir o Exame Nacional  de Avaliação da Formação Médica – ENAMED como instrumento de avaliação das Instituições de Educação Superior (IES) e da aprendizagem dos estudantes durante a graduação; e a Lei n° 3.268, de 30 de setembro de 1957, para incluir o exame de proficiência, regulamentado por provimento do Conselho Federal de Medicina, como requisito para o exercício da Medicina.",
+      "data": "2026-03-18T16:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610371"
+    },
+    {
+      "id": 2610372,
+      "tipo": "PL",
+      "numero": 1260,
+      "ano": 2026,
+      "ementa": "Institui o Marco Legal da Reprodução Humana Assistida (RHA) no Brasil.",
+      "data": "2026-03-18T16:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610372"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Externa destinada a acompanhar e monitorar as obras do túnel submerso Santos-Guarujá, projeto de infraestrutura e mobilidade lançado pelo Governo Federal, que visa promover a ligação seca dos Municípios de Santos e Guarujá, no litoral do Estado de São Paulo, por meio de passagem submersa sob o canal do Porto de Santos.",
+      "sigla": "CEXTUNEL",
+      "cargo": "Titular",
+      "desde": "2025-05-07T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa do Consumidor",
+      "sigla": "CDC",
+      "cargo": "Suplente",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
+      "desde": "2026-02-10T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 8085, de 2014, do Senado Federal, que \"altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para instituir a obrigatoriedade da prática de direção veicular em vias públicas para fins de formação de condutores\"",
+      "sigla": "PL808514",
+      "cargo": "Titular",
+      "desde": "2026-02-27T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/74262/votacoes-nominais-plenario/2026"
+}

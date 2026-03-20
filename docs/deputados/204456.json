@@ -1,0 +1,66 @@
+{
+  "id": 204456,
+  "nome": "Gutemberg Reis",
+  "partido": "MDB",
+  "uf": "RJ",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204456.jpg",
+  "score": 30.69,
+  "rank": 248,
+  "proposicoes": [
+    {
+      "id": 2610698,
+      "tipo": "PL",
+      "numero": 1289,
+      "ano": 2026,
+      "ementa": "Autoriza a Associação Profissional dos Capitães de Longo Curso e Cabotagem a instituir e conceder seis medalhas honoríficas destinadas a homenagear personalidades que se destacaram no transporte marítimo, na prestação de serviços marítimos ou na colaboração para o desenvolvimento da Marinha Mercante Nacional, e dá outras providências.",
+      "data": "2026-03-19T10:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610698"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-11T15:40",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. GUTEMBERG REIS (Bloco/MDB - RJ. Sem revisão do orador.) - Obrigado, Presidente. Eu quero parabenizar esta Casa por termos aprovado a PEC da Segurança Pública, um novo marco da segurança. Hoje a "
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Representação Brasileira no Parlamento do Mercosul",
+      "sigla": "MERCOSUL",
+      "cargo": "Titular",
+      "desde": "2023-08-23T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 733, de 2025, do Sr. Leur Lomanto Júnior, que \"dispõe sobre o Sistema Portuário Brasileiro, regula a exploração dos portos, as atividades de operação portuária, o trabalho portuário e dá outras providências\"",
+      "sigla": "PL073325",
+      "cargo": "Suplente",
+      "desde": "2025-07-07T00:00"
+    },
+    {
+      "nome": "Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados",
+      "sigla": "COETICA",
+      "cargo": "Suplente",
+      "desde": "2025-09-15T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 18, de 2025, do Poder Executivo, que \"altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública\"",
+      "sigla": "PEC01825",
+      "cargo": "Suplente",
+      "desde": "2025-10-06T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Suplente",
+      "desde": "2026-02-04T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204456/votacoes-nominais-plenario/2026"
+}

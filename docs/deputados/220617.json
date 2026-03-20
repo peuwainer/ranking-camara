@@ -1,0 +1,60 @@
+{
+  "id": 220617,
+  "nome": "Murillo Gouvea",
+  "partido": "UNIÃO",
+  "uf": "RJ",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220617.jpg",
+  "score": 26.45,
+  "rank": 357,
+  "proposicoes": [
+    {
+      "id": 2608288,
+      "tipo": "PL",
+      "numero": 1112,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Fixação do Trabalhador Rural (PRONAFTRAB), cria benefício social complementar para incentivar a formalização do emprego no campo e combate ao êxodo rural, e dá outras providências.",
+      "data": "2026-03-11T15:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608288"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-02-24T17:08",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. MURILLO GOUVEA (Bloco/UNIÃO - RJ. Sem revisão do orador.) - Sr. Presidente, quero agradecer a oportunidade de estar aqui e fazer um agradecimento especial ao Ministro Padilha, Ministro da Saúde,"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial destinada a estudar e analisar formas de prevenção e auxílio a desastres e calamidades naturais que vêm assolando o Território Nacional",
+      "sigla": "CEDESNAT",
+      "cargo": "Suplente",
+      "desde": "2024-03-26T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 231, de 2019, que altera o art. 159 da Constituição Federal para disciplinar a distribuição de recursos pela União ao Fundo de Participação dos Municípios",
+      "sigla": "PEC23119",
+      "cargo": "Suplente",
+      "desde": "2025-11-03T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",
+      "sigla": "CINDRE",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220617/votacoes-nominais-plenario/2026"
+}

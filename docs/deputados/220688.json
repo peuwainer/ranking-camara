@@ -1,0 +1,78 @@
+{
+  "id": 220688,
+  "nome": "Dr. Francisco",
+  "partido": "PT",
+  "uf": "PI",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220688.jpg",
+  "score": 29.98,
+  "rank": 262,
+  "proposicoes": [
+    {
+      "id": 2607155,
+      "tipo": "PL",
+      "numero": 964,
+      "ano": 2026,
+      "ementa": "Institui a Lei da Mobilidade Segura para as Mulheres, pessoas com deficiência e pessoas idosas. Altera a Lei nº 12.587, de 3 de janeiro de 2012, para instituir diretrizes de promoção da segurança no Sistema Nacional de Mobilidade Urbana, com especial atenção às mulheres, às pessoas com deficiência e às pessoas idosas, dispor sobre segurança nas paradas e no desembarque de transporte público coletivo, no transporte individual remunerado por táxi e por aplicativo e nos trajetos de bicicleta e a pé.",
+      "data": "2026-03-05T12:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607155"
+    },
+    {
+      "id": 2607156,
+      "tipo": "PL",
+      "numero": 965,
+      "ano": 2026,
+      "ementa": "Institui a Lei Cidade Segura para Mulheres. Altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), para incluir, entre as diretrizes gerais da política urbana, a segurança urbana em perspectiva cidadã, com prioridade para a proteção das mulheres e de outros grupos em situação de vulnerabilidade; para prever a promoção de cidades seguras para as mulheres como conteúdo a ser incorporado ao plano diretor; para instituir a auditoria urbana de segurança cidadã como instrumento de planejamento, desenho e gestão dos espaços urbanos. Estabelece medidas de apoio técnico e financeiro, produção de informações e indução federativa pela União.",
+      "data": "2026-03-05T12:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607156"
+    },
+    {
+      "id": 2608574,
+      "tipo": "PL",
+      "numero": 1138,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Programas e Grupos Reflexivos sobre Masculinidades, Prevenção da Violência e Cultura de Paz, estabelece seus princípios, objetivos e diretrizes, e dá outras providências",
+      "data": "2026-03-12T12:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608574"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
+      "sigla": "BANEGRA",
+      "cargo": "Titular",
+      "desde": "2023-11-02T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho de Consolidação das Leis",
+      "sigla": "GTCL",
+      "cargo": "Titular",
+      "desde": "2025-04-30T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Suplente",
+      "desde": "2025-09-01T00:00"
+    },
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos das Pessoas com Deficiência",
+      "sigla": "CPD",
+      "cargo": "2º Vice-Presidente",
+      "desde": "2026-03-17T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220688/votacoes-nominais-plenario/2026"
+}

@@ -1,0 +1,102 @@
+{
+  "id": 178929,
+  "nome": "Diego Garcia",
+  "partido": "REPUBLICANOS",
+  "uf": "PR",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178929.jpg",
+  "score": 37.39,
+  "rank": 102,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2606343,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Emenda modificativa ao Projeto de Lei nº 3880, de 2024 para trazer nova redação a ementa e alterar seus dispositivos.",
+      "data": "2026-03-03T19:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606343"
+    },
+    {
+      "id": 2608967,
+      "tipo": "PRC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Acrescenta o parágrafo § 6º ao art. 39 do Regimento Interno da Câmara dos Deputados, para estabelecer que os cargos de Presidente e de Vice-Presidentes da Comissão de Defesa dos Direitos da Mulher sejam ocupados exclusivamente por Deputadas do sexo feminino.",
+      "data": "2026-03-16T11:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608967"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-18T20:52",
+      "fase": "Ordem do Dia",
+      "resumo": "O SR. DIEGO GARCIA (Bloco/REPUBLICANOS - PR. Sem revisão do orador.) - Obrigado, Presidente. Eu estou há 11 anos aqui na Casa, há 11 anos na Câmara dos Deputados. Há 11 anos, sempre neste mês, no mês "
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Comissão Externa destinada a elaborar propostas para analisar o enfrentamento da tuberculose como compromisso internacional para a eliminação desta doença como problema de saúde pública até o ano de 2030, conforme preconizado pela Organização das Nações Unidas (ONU)",
+      "sigla": "CEXTUBER",
+      "cargo": "Titular",
+      "desde": "2023-09-05T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a acompanhar as ações de prevenção e combate ao câncer, ao acidente vascular cerebral (AVC) e às doenças do coração.",
+      "sigla": "CECANCER",
+      "cargo": "Suplente",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei n. 2614, de 2024, do Poder Executivo, que \"aprova o Plano Nacional de Educação para o decênio 2024-2034\"",
+      "sigla": "PL261424",
+      "cargo": "Titular",
+      "desde": "2025-04-25T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3080, de 2020, do Senhor Alexandre Frota, que \"Institui a política pública nacional para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autismo, e dá outras providências\", e apensados",
+      "sigla": "PL308020",
+      "cargo": "Suplente",
+      "desde": "2025-10-20T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Comissão de Cultura",
+      "sigla": "CCULT",
+      "cargo": "3º Vice-Presidente",
+      "desde": "2026-03-04T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Mulher",
+      "sigla": "CMULHER",
+      "cargo": "Suplente",
+      "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
+      "cargo": "2º Vice-Presidente",
+      "desde": "2026-03-18T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/178929/votacoes-nominais-plenario/2026"
+}

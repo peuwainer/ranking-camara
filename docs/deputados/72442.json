@@ -1,0 +1,78 @@
+{
+  "id": 72442,
+  "nome": "Felipe Carreras",
+  "partido": "PSB",
+  "uf": "PE",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/72442.jpg",
+  "score": 30.26,
+  "rank": 257,
+  "proposicoes": [
+    {
+      "id": 2604097,
+      "tipo": "EMP",
+      "numero": 27,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.",
+      "data": "2026-02-24T14:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604097"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Representação Brasileira no Parlamento do Mercosul",
+      "sigla": "MERCOSUL",
+      "cargo": "Suplente",
+      "desde": "2023-08-23T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Titular",
+      "desde": "2025-04-15T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1087, de 2025, do Poder Executivo, que \"altera a legislação do imposto sobre a renda para instituir a redução do imposto devido nas bases de cálculo mensal e anual e a tributação mínima para as pessoas físicas que auferem altas rendas, e dá outras providências\"",
+      "sigla": "PL108725",
+      "cargo": "Suplente",
+      "desde": "2025-04-29T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 234, de 2024, do Sr. Felipe Carreras, que \"dispõe sobre incentivos e benefícios para fomentar as atividades de caráter desportivo e dá outras providências\"",
+      "sigla": "PLP23424",
+      "cargo": "Titular",
+      "desde": "2025-05-08T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho destinado a discutir e elaborar proposta legislativa sobre regras e critérios para a comercialização de suplementos alimentares",
+      "sigla": "GTSUPLEM",
+      "cargo": "Coordenador",
+      "desde": "2025-10-20T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho destinado a discutir e elaborar proposta legislativa sobre regras e critérios para a comercialização de suplementos alimentares",
+      "sigla": "GTSUPLEM",
+      "cargo": "Titular",
+      "desde": "2025-10-20T00:00"
+    },
+    {
+      "nome": "Comissão de Turismo",
+      "sigla": "CTUR",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa do Consumidor",
+      "sigla": "CDC",
+      "cargo": "Titular",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-02-09T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/72442/votacoes-nominais-plenario/2026"
+}

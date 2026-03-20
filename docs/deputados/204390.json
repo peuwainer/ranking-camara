@@ -1,0 +1,42 @@
+{
+  "id": 204390,
+  "nome": "Professor Alcides",
+  "partido": "PL",
+  "uf": "GO",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204390.jpg",
+  "score": 26.14,
+  "rank": 363,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 234, de 2024, do Sr. Felipe Carreras, que \"dispõe sobre incentivos e benefícios para fomentar as atividades de caráter desportivo e dá outras providências\"",
+      "sigla": "PLP23424",
+      "cargo": "Suplente",
+      "desde": "2025-05-19T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
+      "cargo": "Titular",
+      "desde": "2026-03-10T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204390/votacoes-nominais-plenario/2026"
+}

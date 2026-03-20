@@ -1,0 +1,96 @@
+{
+  "id": 204525,
+  "nome": "Rosana Valle",
+  "partido": "PL",
+  "uf": "SP",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204525.jpg",
+  "score": 36.75,
+  "rank": 111,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2608967,
+      "tipo": "PRC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Acrescenta o parágrafo § 6º ao art. 39 do Regimento Interno da Câmara dos Deputados, para estabelecer que os cargos de Presidente e de Vice-Presidentes da Comissão de Defesa dos Direitos da Mulher sejam ocupados exclusivamente por Deputadas do sexo feminino.",
+      "data": "2026-03-16T11:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608967"
+    },
+    {
+      "id": 2609832,
+      "tipo": "PL",
+      "numero": 1239,
+      "ano": 2026,
+      "ementa": "Institui o Dia Nacional da Advocacia de Trânsito e dá outras providências.",
+      "data": "2026-03-17T20:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609832"
+    },
+    {
+      "id": 2609988,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Estabelece a obrigatoriedade de disponibilidade de acesso à internet em voos no espaço aéreo brasileiro, e dá outras providências",
+      "data": "2026-03-17T20:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609988"
+    },
+    {
+      "id": 2610032,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei 9.503/1997 - Código de Trânsito Brasileiro – e dá outras providências.",
+      "data": "2026-03-17T21:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610032"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Secretaria da Mulher",
+      "sigla": "SEMULHER",
+      "cargo": "Titular",
+      "desde": "2023-05-04T00:00"
+    },
+    {
+      "nome": "Representação Brasileira no Parlamento do Mercosul",
+      "sigla": "MERCOSUL",
+      "cargo": "Titular",
+      "desde": "2023-08-23T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 733, de 2025, do Sr. Leur Lomanto Júnior, que \"dispõe sobre o Sistema Portuário Brasileiro, regula a exploração dos portos, as atividades de operação portuária, o trabalho portuário e dá outras providências\"",
+      "sigla": "PL073325",
+      "cargo": "Titular",
+      "desde": "2025-07-08T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 8085, de 2014, do Senado Federal, que \"altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para instituir a obrigatoriedade da prática de direção veicular em vias públicas para fins de formação de condutores\"",
+      "sigla": "PL808514",
+      "cargo": "Titular",
+      "desde": "2026-02-27T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "2º Vice-Presidente",
+      "desde": "2026-03-04T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Mulher",
+      "sigla": "CMULHER",
+      "cargo": "Suplente",
+      "desde": "2026-03-11T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204525/votacoes-nominais-plenario/2026"
+}

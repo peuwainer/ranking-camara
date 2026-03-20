@@ -1,0 +1,132 @@
+{
+  "id": 220625,
+  "nome": "Delegada Ione",
+  "partido": "AVANTE",
+  "uf": "MG",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220625.jpg",
+  "score": 35.56,
+  "rank": 137,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2607765,
+      "tipo": "PL",
+      "numero": 1078,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de assédio moral.",
+      "data": "2026-03-10T16:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607765"
+    },
+    {
+      "id": 2607923,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-03-10T19:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607923"
+    },
+    {
+      "id": 2608934,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Nacional de Prevenção à Violência contra a Mulher (PNVCM), com a finalidade de permitir, mediante critérios técnicos e legais, o acesso a informações sobre histórico de violência doméstica e familiar contra mulheres, e dá outras providências.",
+      "data": "2026-03-13T18:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608934"
+    },
+    {
+      "id": 2608938,
+      "tipo": "PRC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 39 do Regimento Interno da Câmara dos Deputados, aprovado pela Resolução nº 17, de 1989, para dispor que a Presidência da Comissão de Defesa dos Direitos da Mulher deverá ser exercida por uma Deputada.",
+      "data": "2026-03-14T13:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608938"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-02-24T17:16",
+      "fase": "Breves Comunicações",
+      "resumo": "A SRA. DELEGADA IONE (Bloco/AVANTE - MG. Sem revisão da oradora.) - Sr. Presidente, Sras. e Srs. Parlamentares, subo agora a esta tribuna com o coração profundamente entristecido para falar sobre a tr"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Secretaria da Mulher",
+      "sigla": "SEMULHER",
+      "cargo": "Titular",
+      "desde": "2023-05-04T00:00"
+    },
+    {
+      "nome": "Comissão Especial para estudo das razões do aumento de denúncias de violência obstétrica e a alta taxa de morte materna no Brasil",
+      "sigla": "CEOBSTET",
+      "cargo": "Suplente",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",
+      "sigla": "PEC00523",
+      "cargo": "Suplente",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão Externa, sem ônus para a Câmara dos Deputados, destinada a acompanhar os impactos sociais, ambientais e econômicos na região do Município de Conceição do Pará, no estado de Minas Gerais, em função de um deslizamento de pilha de rejeitos de minério da mineradora Jaguar Mining",
+      "sigla": "CEXMINAS",
+      "cargo": "Titular",
+      "desde": "2024-12-20T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 18, de 2025, do Poder Executivo, que \"altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública\"",
+      "sigla": "PEC01825",
+      "cargo": "Suplente",
+      "desde": "2025-09-03T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 34, de 2024, da Senhora Laura Carneiro e outros, que \"inclui a primeira infância como beneficiária de direitos e garantias, no texto constitucional\"",
+      "sigla": "PEC03424",
+      "cargo": "Suplente",
+      "desde": "2025-10-02T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3080, de 2020, do Senhor Alexandre Frota, que \"Institui a política pública nacional para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autismo, e dá outras providências\", e apensados",
+      "sigla": "PL308020",
+      "cargo": "Titular",
+      "desde": "2025-10-20T00:00"
+    },
+    {
+      "nome": "Comissão de Administração e Serviço Público",
+      "sigla": "CASP",
+      "cargo": "Presidente",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Administração e Serviço Público",
+      "sigla": "CASP",
+      "cargo": "Titular",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "3º Vice-Presidente",
+      "desde": "2026-02-24T00:00"
+    },
+    {
+      "nome": "Comissão Externa destinada a acompanhar, fiscalizar e propor medidas relativas aos impactos das chuvas intensas ocorridas na Zona da Mata de Minas Gerais",
+      "sigla": "CEXZMATA",
+      "cargo": "Titular",
+      "desde": "2026-03-04T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220625/votacoes-nominais-plenario/2026"
+}

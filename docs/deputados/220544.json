@@ -1,0 +1,69 @@
+{
+  "id": 220544,
+  "nome": "Antonio Andrade",
+  "partido": "REPUBLICANOS",
+  "uf": "TO",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220544.jpg",
+  "score": 32.32,
+  "rank": 209,
+  "proposicoes": [
+    {
+      "id": 2604023,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "nstitui o Programa Nacional de Vacinação Inclusiva (PNVI), destinado a garantir o acesso prioritário, adaptado e humanizado à vacinação de pessoas com deficiência, no âmbito do Sistema Único de Saúde (SUS).",
+      "data": "2026-02-24T12:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604023"
+    },
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
+      "sigla": "BANEGRA",
+      "cargo": "Titular",
+      "desde": "2023-11-02T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a acompanhar as ações de prevenção e combate ao câncer, ao acidente vascular cerebral (AVC) e às doenças do coração.",
+      "sigla": "CECANCER",
+      "cargo": "Titular",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 14, de 2021, do Sr. Dr. Leonardo e outros, que \"altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais\"",
+      "sigla": "PEC01421",
+      "cargo": "3º Vice-Presidente",
+      "desde": "2025-06-10T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 14, de 2021, do Sr. Dr. Leonardo e outros, que \"altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais\"",
+      "sigla": "PEC01421",
+      "cargo": "Titular",
+      "desde": "2025-06-10T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Comunicação",
+      "sigla": "CCOM",
+      "cargo": "Titular",
+      "desde": "2026-02-05T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220544/votacoes-nominais-plenario/2026"
+}

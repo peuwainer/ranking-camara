@@ -1,0 +1,75 @@
+{
+  "id": 204504,
+  "nome": "Cezinha de Madureira",
+  "partido": "PSD",
+  "uf": "SP",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
+  "score": 32.29,
+  "rank": 211,
+  "proposicoes": [
+    {
+      "id": 2608427,
+      "tipo": "PL",
+      "numero": 1125,
+      "ano": 2026,
+      "ementa": "Altera o art. 22, inciso III, alínea “a”, da Lei nº 11.340, de 7 de agosto de 2006, para fixar limite mínimo de distância nas medidas protetivas de urgência",
+      "data": "2026-03-11T20:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608427"
+    },
+    {
+      "id": 2609794,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados",
+      "data": "2026-03-17T19:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609794"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",
+      "sigla": "PEC00523",
+      "cargo": "Titular",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Secretaria da Transparência",
+      "sigla": "SETRANSP",
+      "cargo": "Secretário de Transparência",
+      "desde": "2025-04-09T00:00"
+    },
+    {
+      "nome": "Secretaria da Transparência",
+      "sigla": "SETRANSP",
+      "cargo": "Titular",
+      "desde": "2025-04-09T00:00"
+    },
+    {
+      "nome": "Comissão Externa destinada a acompanhar e monitorar as obras do túnel submerso Santos-Guarujá, projeto de infraestrutura e mobilidade lançado pelo Governo Federal, que visa promover a ligação seca dos Municípios de Santos e Guarujá, no litoral do Estado de São Paulo, por meio de passagem submersa sob o canal do Porto de Santos.",
+      "sigla": "CEXTUNEL",
+      "cargo": "Titular",
+      "desde": "2025-05-09T00:00"
+    },
+    {
+      "nome": "Comissão de Comunicação",
+      "sigla": "CCOM",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-02-09T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204504/votacoes-nominais-plenario/2026"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 220638,
+  "nome": "Antonio Carlos Rodrigues",
+  "partido": "PL",
+  "uf": "SP",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220638.jpg",
+  "score": 31.12,
+  "rank": 236,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2607551,
+      "tipo": "PL",
+      "numero": 1035,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.257, de 10 de julho de 2001, e a Lei nº 13.146, de 6 de julho de 2015, para dispor sobre a implantação de espaços de acomodação sensorial em áreas e equipamentos públicos urbanos.",
+      "data": "2026-03-09T15:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607551"
+    },
+    {
+      "id": 2607568,
+      "tipo": "PL",
+      "numero": 1036,
+      "ano": 2026,
+      "ementa": "Cria a rota Turística “Rota da Cana”, no Estado de São Paulo, e dá outras providências.",
+      "data": "2026-03-09T15:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607568"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-18T15:00",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. ANTONIO CARLOS RODRIGUES (PL - SP. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente. Estou aqui com o meu amigo, Presidente da Câmara de Jales, uma das maiores cidades do Estado "
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Mesa Diretora da Câmara dos Deputados",
+      "sigla": "MESA",
+      "cargo": "1º Suplente de Secretário",
+      "desde": "2025-02-01T00:00"
+    },
+    {
+      "nome": "Mesa Diretora da Câmara dos Deputados",
+      "sigla": "MESA",
+      "cargo": "Suplente",
+      "desde": "2025-02-01T00:00"
+    },
+    {
+      "nome": "Comissão Externa destinada a acompanhar e monitorar as obras do túnel submerso Santos-Guarujá, projeto de infraestrutura e mobilidade lançado pelo Governo Federal, que visa promover a ligação seca dos Municípios de Santos e Guarujá, no litoral do Estado de São Paulo, por meio de passagem submersa sob o canal do Porto de Santos.",
+      "sigla": "CEXTUNEL",
+      "cargo": "Titular",
+      "desde": "2025-05-07T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 231, de 2019, que altera o art. 159 da Constituição Federal para disciplinar a distribuição de recursos pela União ao Fundo de Participação dos Municípios",
+      "sigla": "PEC23119",
+      "cargo": "Suplente",
+      "desde": "2025-11-10T00:00"
+    },
+    {
+      "nome": "Comissão de Fiscalização Financeira e Controle",
+      "sigla": "CFFC",
+      "cargo": "Titular",
+      "desde": "2026-02-24T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220638/votacoes-nominais-plenario/2026"
+}

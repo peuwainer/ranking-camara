@@ -1,0 +1,32 @@
+{
+  "id": 230768,
+  "nome": "Zé Adriano",
+  "partido": "PP",
+  "uf": "AC",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/230768.jpg",
+  "score": 24.18,
+  "rank": 408,
+  "proposicoes": [],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
+      "sigla": "BANEGRA",
+      "cargo": "Titular",
+      "desde": "2025-01-01T00:00"
+    },
+    {
+      "nome": "Comissão de Desenvolvimento Econômico",
+      "sigla": "CDE",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Trabalho",
+      "sigla": "CTRAB",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/230768/votacoes-nominais-plenario/2026"
+}

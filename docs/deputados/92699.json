@@ -1,0 +1,42 @@
+{
+  "id": 92699,
+  "nome": "Fernando Monteiro",
+  "partido": "PSD",
+  "uf": "PE",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/92699.jpg",
+  "score": 26.85,
+  "rank": 349,
+  "proposicoes": [
+    {
+      "id": 2609216,
+      "tipo": "EMP",
+      "numero": 9,
+      "ano": 0,
+      "ementa": "Dispõe sobre os regimes de resolução das instituições autorizadas a funcionar pelo Banco Central do Brasil, pela Superintendência de Seguros Privados e pela Comissão de Valores Mobiliários",
+      "data": "2026-03-17T11:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609216"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial para estudo, avaliação e acompanhamento das iniciativas e medidas adotadas para transição energética - Fontes Renováveis e Produção de Hidrogênio Verde no Brasil",
+      "sigla": "CEENERG",
+      "cargo": "Titular",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão de Desenvolvimento Urbano",
+      "sigla": "CDU",
+      "cargo": "Suplente",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Titular",
+      "desde": "2026-03-18T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/92699/votacoes-nominais-plenario/2026"
+}

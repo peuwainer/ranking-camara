@@ -1,0 +1,32 @@
+{
+  "id": 171623,
+  "nome": "Fabio Reis",
+  "partido": "PSD",
+  "uf": "SE",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/171623.jpg",
+  "score": 27.04,
+  "rank": 339,
+  "proposicoes": [],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Ciência, Tecnologia e Inovação",
+      "sigla": "CCTI",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Turismo",
+      "sigla": "CTUR",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão do Esporte",
+      "sigla": "CESPO",
+      "cargo": "Suplente",
+      "desde": "2026-02-04T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/171623/votacoes-nominais-plenario/2026"
+}

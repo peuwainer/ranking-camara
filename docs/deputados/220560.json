@@ -1,0 +1,59 @@
+{
+  "id": 220560,
+  "nome": "Thiago de Joaldo",
+  "partido": "PP",
+  "uf": "SE",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220560.jpg",
+  "score": 28.24,
+  "rank": 309,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-17T20:40",
+      "fase": "Ordem do Dia",
+      "resumo": "O SR. THIAGO DE JOALDO (Bloco/PP - SE. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Só para agradecer, mais uma vez, e parabenizar o Deputado Rafael pela autoria e pela iniciativa. V.Ex"
+    },
+    {
+      "data": "2026-03-17T20:24",
+      "fase": "Ordem do Dia",
+      "resumo": "O SR. THIAGO DE JOALDO (Bloco/PP - SE. Para proferir parecer. Sem revisão do orador.) - Obrigado, Sr. Presidente. Passarei à leitura do voto, mas, antes de entrar na apreciação das emendas propriament"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
+      "sigla": "BANEGRA",
+      "cargo": "Titular",
+      "desde": "2024-10-14T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 8085, de 2014, do Senado Federal, que \"altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para instituir a obrigatoriedade da prática de direção veicular em vias públicas para fins de formação de condutores\"",
+      "sigla": "PL808514",
+      "cargo": "Suplente",
+      "desde": "2026-03-04T00:00"
+    },
+    {
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
+      "cargo": "Titular",
+      "desde": "2026-03-10T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220560/votacoes-nominais-plenario/2026"
+}

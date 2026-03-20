@@ -1,0 +1,72 @@
+{
+  "id": 220693,
+  "nome": "Roberta Roma",
+  "partido": "PL",
+  "uf": "BA",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220693.jpg",
+  "score": 22.43,
+  "rank": 434,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Secretaria da Mulher",
+      "sigla": "SEMULHER",
+      "cargo": "Titular",
+      "desde": "2023-05-04T00:00"
+    },
+    {
+      "nome": "Comissão Especial para estudo das razões do aumento de denúncias de violência obstétrica e a alta taxa de morte materna no Brasil",
+      "sigla": "CEOBSTET",
+      "cargo": "Titular",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",
+      "sigla": "CEDIRDIG",
+      "cargo": "Titular",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão Especial para estudo, avaliação e acompanhamento das iniciativas e medidas adotadas para transição energética - Fontes Renováveis e Produção de Hidrogênio Verde no Brasil",
+      "sigla": "CEENERG",
+      "cargo": "Suplente",
+      "desde": "2024-02-21T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 234, de 2024, do Sr. Felipe Carreras, que \"dispõe sobre incentivos e benefícios para fomentar as atividades de caráter desportivo e dá outras providências\"",
+      "sigla": "PLP23424",
+      "cargo": "Titular",
+      "desde": "2025-05-19T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Turismo",
+      "sigla": "CTUR",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão do Esporte",
+      "sigla": "CESPO",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220693/votacoes-nominais-plenario/2026"
+}

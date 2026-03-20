@@ -1,0 +1,105 @@
+{
+  "id": 220611,
+  "nome": "General Pazuello",
+  "partido": "PL",
+  "uf": "RJ",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220611.jpg",
+  "score": 36.59,
+  "rank": 116,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2608135,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-03-09T11:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608135"
+    },
+    {
+      "id": 2608142,
+      "tipo": "PL",
+      "numero": 1101,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a destinação de espaços exclusivos para mulheres, nos sistemas ferroviário e metroviário.",
+      "data": "2026-03-11T11:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608142"
+    },
+    {
+      "id": 2608553,
+      "tipo": "PL",
+      "numero": 1132,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.711, de 29 de agosto de 2012, para permitir que os estudantes cujos pais ou responsáveis, servidores das áreas de segurança ou defesa nacional, falecidos no exercício de sua função profissional, independentemente de terem cursado integralmente a etapa escolar em escola pública ou particular, tenham acesso às cotas para ingresso nas instituições federais de ensino técnico de nível médio e nas instituições federais de educação superior.",
+      "data": "2026-03-12T10:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608553"
+    },
+    {
+      "id": 2610526,
+      "tipo": "PL",
+      "numero": 1269,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para dispor sobre a transparência na oferta, as regras de cobrança e o cancelamento de serviços em lojas de aplicações de internet e plataformas digitais congêneres",
+      "data": "2026-03-18T18:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610526"
+    },
+    {
+      "id": 2610685,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre o trânsito simplificado de veículos na fronteira entre Brasil e Guiana e dá outras providências.",
+      "data": "2026-03-18T17:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610685"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 234, de 2024, do Sr. Felipe Carreras, que \"dispõe sobre incentivos e benefícios para fomentar as atividades de caráter desportivo e dá outras providências\"",
+      "sigla": "PLP23424",
+      "cargo": "Suplente",
+      "desde": "2025-05-19T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 733, de 2025, do Sr. Leur Lomanto Júnior, que \"dispõe sobre o Sistema Portuário Brasileiro, regula a exploração dos portos, as atividades de operação portuária, o trabalho portuário e dá outras providências\"",
+      "sigla": "PL073325",
+      "cargo": "Suplente",
+      "desde": "2025-07-08T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 18, de 2025, do Poder Executivo, que \"altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública\"",
+      "sigla": "PEC01825",
+      "cargo": "Titular",
+      "desde": "2025-09-03T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "2º Vice-Presidente",
+      "desde": "2026-02-11T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220611/votacoes-nominais-plenario/2026"
+}

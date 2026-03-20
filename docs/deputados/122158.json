@@ -1,0 +1,56 @@
+{
+  "id": 122158,
+  "nome": "Pedro Paulo",
+  "partido": "PSD",
+  "uf": "RJ",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/122158.jpg",
+  "score": 15.9,
+  "rank": 481,
+  "proposicoes": [],
+  "discursos": [
+    {
+      "data": "2026-03-04T21:20",
+      "fase": "Ordem do Dia",
+      "resumo": "O SR. PEDRO PAULO (Bloco/PSD - RJ. Pela ordem. Sem revisão do orador.) - Presidente, parabenizo o Deputado Mendonça Filho por esta relatoria. Nós recebemos um projeto bem elaborado pelo Governo, e a C"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1087, de 2025, do Poder Executivo, que \"altera a legislação do imposto sobre a renda para instituir a redução do imposto devido nas bases de cálculo mensal e anual e a tributação mínima para as pessoas físicas que auferem altas rendas, e dá outras providências\"",
+      "sigla": "PL108725",
+      "cargo": "Titular",
+      "desde": "2025-04-29T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho destinado a discutir e elaborar proposição legislativa que vise ao aperfeiçoamento da Administração Pública",
+      "sigla": "GTREFADM",
+      "cargo": "Coordenador",
+      "desde": "2025-05-28T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho destinado a discutir e elaborar proposição legislativa que vise ao aperfeiçoamento da Administração Pública",
+      "sigla": "GTREFADM",
+      "cargo": "Titular",
+      "desde": "2025-05-28T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho destinado a discutir e elaborar proposta legislativa sobre regras e critérios para a comercialização de suplementos alimentares",
+      "sigla": "GTSUPLEM",
+      "cargo": "Titular",
+      "desde": "2025-10-20T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Titular",
+      "desde": "2026-03-18T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/122158/votacoes-nominais-plenario/2026"
+}

@@ -1,0 +1,88 @@
+{
+  "id": 74060,
+  "nome": "Daniel Almeida",
+  "partido": "PCdoB",
+  "uf": "BA",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74060.jpg",
+  "score": 32.52,
+  "rank": 203,
+  "proposicoes": [
+    {
+      "id": 2608574,
+      "tipo": "PL",
+      "numero": 1138,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Programas e Grupos Reflexivos sobre Masculinidades, Prevenção da Violência e Cultura de Paz, estabelece seus princípios, objetivos e diretrizes, e dá outras providências",
+      "data": "2026-03-12T12:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608574"
+    },
+    {
+      "id": 2608678,
+      "tipo": "SBT",
+      "numero": 4,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-03-12T17:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608678"
+    },
+    {
+      "id": 2609873,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-03-17T21:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609873"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-17T22:24",
+      "fase": "Ordem do Dia",
+      "resumo": "O SR. DANIEL ALMEIDA (Bloco/PCdoB - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, reitero o nosso agradecimento a V.Exa. Inclusive, o Governador da Bahia pede que lhe agradeça a oportunida"
+    },
+    {
+      "data": "2026-03-17T22:12",
+      "fase": "Ordem do Dia",
+      "resumo": "O SR. DANIEL ALMEIDA (Bloco/PCdoB - BA. Para proferir parecer. Sem revisão do orador.) - Vou ler o voto do Relator, Sr. Presidente. \"I - Voto do Relator Durante a discussão da matéria, foram apresenta"
+    },
+    {
+      "data": "2026-03-17T21:52",
+      "fase": "Ordem do Dia",
+      "resumo": "O SR. DANIEL ALMEIDA (Bloco/PCdoB - BA. Para proferir parecer. Sem revisão do orador.) - Sr. Presidente, agradecendo a V.Exa. por ter-me concedido a oportunidade de relatar um projeto com a dimensão d"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "TESTE PARA GERAÇÃO DO ESPELHO DA COMISSÃO (COMISSÃO FICTÍCIA)",
+      "sigla": "TESTECOM",
+      "cargo": "Suplente",
+      "desde": "2025-02-21T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 14, de 2021, do Sr. Dr. Leonardo e outros, que \"altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais\"",
+      "sigla": "PEC01421",
+      "cargo": "Suplente",
+      "desde": "2025-05-21T00:00"
+    },
+    {
+      "nome": "Comissão de Turismo",
+      "sigla": "CTUR",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa do Consumidor",
+      "sigla": "CDC",
+      "cargo": "Titular",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Trabalho",
+      "sigla": "CTRAB",
+      "cargo": "Suplente",
+      "desde": "2026-02-09T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/74060/votacoes-nominais-plenario/2026"
+}

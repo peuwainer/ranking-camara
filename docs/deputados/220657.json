@@ -1,0 +1,42 @@
+{
+  "id": 220657,
+  "nome": "André Fernandes",
+  "partido": "PL",
+  "uf": "CE",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220657.jpg",
+  "score": 27.58,
+  "rank": 319,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
+      "sigla": "BANEGRA",
+      "cargo": "Titular",
+      "desde": "2025-01-10T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Suplente",
+      "desde": "2026-02-05T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial de Fiscalização e Direitos dos Presos do 8 de Janeiro",
+      "sigla": "SUB8J",
+      "cargo": "Suplente",
+      "desde": "2026-03-11T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220657/votacoes-nominais-plenario/2026"
+}

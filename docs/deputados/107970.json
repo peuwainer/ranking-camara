@@ -1,0 +1,96 @@
+{
+  "id": 107970,
+  "nome": "Ana Paula Leão",
+  "partido": "PP",
+  "uf": "MG",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/107970.jpg",
+  "score": 27.73,
+  "rank": 314,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2606313,
+      "tipo": "PLP",
+      "numero": 41,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o Sistema Nacional de Enfrentamento da Violência contra Meninas e Mulheres e a destinação de recursos às ações de enfrentamento ao feminicídio e de garantia da vida de meninas e mulheres.",
+      "data": "2026-03-03T17:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606313"
+    },
+    {
+      "id": 2608789,
+      "tipo": "PFC",
+      "numero": 5,
+      "ano": 2026,
+      "ementa": "Requer que a Comissão de Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural realize Proposta de Fiscalização e Controle (PFC) para avaliar os impactos da importação de leite e derivados no mercado brasileiro, bem como a atuação dos órgãos governamentais responsáveis pela política agrícola, comercial e sanitária, e as medidas de mitigação necessárias para proteger a produção nacional.",
+      "data": "2026-03-12T22:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608789"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Secretaria da Mulher",
+      "sigla": "SEMULHER",
+      "cargo": "Titular",
+      "desde": "2023-05-04T00:00"
+    },
+    {
+      "nome": "Comissão Externa destinada a verificar a situação dos municípios que perderam recursos financeiros do FPM, depois dos cálculos feitos pelo TCU, com base no Censo inacabado do IBGE",
+      "sigla": "CEXFPM",
+      "cargo": "Titular",
+      "desde": "2023-09-13T00:00"
+    },
+    {
+      "nome": "Comissão Especial para estudo das razões do aumento de denúncias de violência obstétrica e a alta taxa de morte materna no Brasil",
+      "sigla": "CEOBSTET",
+      "cargo": "Titular",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão Externa, sem ônus para a Câmara dos Deputados, destinada a acompanhar os impactos sociais, ambientais e econômicos na região do Município de Conceição do Pará, no estado de Minas Gerais, em função de um deslizamento de pilha de rejeitos de minério da mineradora Jaguar Mining",
+      "sigla": "CEXMINAS",
+      "cargo": "Titular",
+      "desde": "2024-12-20T00:00"
+    },
+    {
+      "nome": "Representação Brasileira no Parlamento do Mercosul",
+      "sigla": "MERCOSUL",
+      "cargo": "Suplente",
+      "desde": "2025-03-19T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Turismo",
+      "sigla": "CTUR",
+      "cargo": "1º Vice-Presidente",
+      "desde": "2026-03-04T00:00"
+    },
+    {
+      "nome": "Comissão Externa destinada a acompanhar, fiscalizar e propor medidas relativas aos impactos das chuvas intensas ocorridas na Zona da Mata de Minas Gerais",
+      "sigla": "CEXZMATA",
+      "cargo": "Titular",
+      "desde": "2026-03-04T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Mulher",
+      "sigla": "CMULHER",
+      "cargo": "Suplente",
+      "desde": "2026-03-10T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/107970/votacoes-nominais-plenario/2026"
+}

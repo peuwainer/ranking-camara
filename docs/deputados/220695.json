@@ -1,0 +1,105 @@
+{
+  "id": 220695,
+  "nome": "Rogéria Santos",
+  "partido": "REPUBLICANOS",
+  "uf": "BA",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
+  "score": 35.45,
+  "rank": 141,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2606708,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação, com substitutivo.",
+      "data": "2026-03-03T16:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606708"
+    },
+    {
+      "id": 2607407,
+      "tipo": "PL",
+      "numero": 991,
+      "ano": 2026,
+      "ementa": "Estabelece medida excepcional de proteção social no contexto da situação de emergência decorrente das enchentes e da catástrofe ambiental ocorridas em cidades do Estado da Bahia, em razão de eventos climáticos extremos.",
+      "data": "2026-03-06T13:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607407"
+    },
+    {
+      "id": 2608967,
+      "tipo": "PRC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Acrescenta o parágrafo § 6º ao art. 39 do Regimento Interno da Câmara dos Deputados, para estabelecer que os cargos de Presidente e de Vice-Presidentes da Comissão de Defesa dos Direitos da Mulher sejam ocupados exclusivamente por Deputadas do sexo feminino.",
+      "data": "2026-03-16T11:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608967"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Secretaria da Mulher",
+      "sigla": "SEMULHER",
+      "cargo": "Titular",
+      "desde": "2023-05-04T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",
+      "sigla": "PEC00523",
+      "cargo": "3º Vice-Presidente",
+      "desde": "2023-11-29T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",
+      "sigla": "PEC00523",
+      "cargo": "Titular",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Suplente",
+      "desde": "2025-04-08T00:00"
+    },
+    {
+      "nome": "Comissão de Trabalho",
+      "sigla": "CTRAB",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Previdência, Assistência Social, Infância, Adolescência e Família",
+      "sigla": "CPASF",
+      "cargo": "Titular",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
+      "desde": "2026-02-11T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Mulher",
+      "sigla": "CMULHER",
+      "cargo": "Titular",
+      "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial destinada a “debater e apresentar sugestões ao setor de estética e aprimorar suas relações trabalhistas”",
+      "sigla": "SUBESTET",
+      "cargo": "Suplente",
+      "desde": "2029-02-25T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220695/votacoes-nominais-plenario/2026"
+}

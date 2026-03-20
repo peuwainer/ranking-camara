@@ -1,0 +1,62 @@
+{
+  "id": 160161,
+  "nome": "Marcelo Queiroz",
+  "partido": "PSDB",
+  "uf": "RJ",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160161.jpg",
+  "score": 23.1,
+  "rank": 427,
+  "proposicoes": [
+    {
+      "id": 2603161,
+      "tipo": "PL",
+      "numero": 579,
+      "ano": 2026,
+      "ementa": "ALTERA DISPOSITIVOS DA LEI Nº 11.788, DE 25 DE SETEMBRO DE 2008, PARA ASSEGURAR DIREITOS ÀS ESTAGIÁRIAS GESTANTES, GARANTIR O PAGAMENTO DE FÉRIAS NÃO GOZADAS, AMPLIAR O PRAZO MÁXIMO DE DURAÇÃO DO ESTÁGIO E ESTABELECER PRAZO PARA MANIFESTAÇÃO DAS INSTITUIÇÕES DE ENSINO QUANTO À RENOVAÇÃO DO TERMO DE COMPROMISSO.",
+      "data": "2026-02-18T16:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603161"
+    },
+    {
+      "id": 2603856,
+      "tipo": "PL",
+      "numero": 655,
+      "ano": 2026,
+      "ementa": "INSTITUI O PROGRAMA LOCAL SEGURO PARA ANIMAL VÍTIMA DE MAUS-TRATOS E DISPÕE SOBRE O CUSTEIO DAS DESPESAS DECORRENTES DO RESGATE E MANUTENÇÃO DOS ANIMAIS, E DÁ OUTRAS PROVIDÊNCIAS.",
+      "data": "2026-02-23T15:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603856"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-18T20:12",
+      "fase": "Ordem do Dia",
+      "resumo": "O SR. MARCELO QUEIROZ (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Queria agradecer, Presidente, e continuar me colocando à disposição em todas as reuniões de Líderes que forem necessárias "
+    },
+    {
+      "data": "2026-03-18T20:04",
+      "fase": "Ordem do Dia",
+      "resumo": "O SR. MARCELO QUEIROZ (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Presidente, é mais um informe aqui ao Plenário do que qualquer outra coisa. Acho que V.Exa. já falou sobre isso aqui. Prim"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Comissão de Legislação Participativa",
+      "sigla": "CLP",
+      "cargo": "Titular",
+      "desde": "2026-03-02T00:00"
+    },
+    {
+      "nome": "Comissão de Comunicação",
+      "sigla": "CCOM",
+      "cargo": "Titular",
+      "desde": "2026-03-02T00:00"
+    },
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Titular",
+      "desde": "2026-03-19T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/160161/votacoes-nominais-plenario/2026"
+}

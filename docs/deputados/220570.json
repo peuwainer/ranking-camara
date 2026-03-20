@@ -1,0 +1,48 @@
+{
+  "id": 220570,
+  "nome": "Dr. Ismael Alexandrino",
+  "partido": "PSD",
+  "uf": "GO",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220570.jpg",
+  "score": 25.41,
+  "rank": 381,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Externa destinada a elaborar propostas para analisar o enfrentamento da tuberculose como compromisso internacional para a eliminação desta doença como problema de saúde pública até o ano de 2030, conforme preconizado pela Organização das Nações Unidas (ONU)",
+      "sigla": "CEXTUBER",
+      "cargo": "Titular",
+      "desde": "2023-09-05T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 18, de 2025, do Poder Executivo, que \"altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública\"",
+      "sigla": "PEC01825",
+      "cargo": "2º Vice-Presidente",
+      "desde": "2025-09-09T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220570/votacoes-nominais-plenario/2026"
+}

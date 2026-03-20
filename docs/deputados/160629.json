@@ -1,0 +1,66 @@
+{
+  "id": 160629,
+  "nome": "Romero Rodrigues",
+  "partido": "PODE",
+  "uf": "PB",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160629.jpg",
+  "score": 31.47,
+  "rank": 232,
+  "proposicoes": [
+    {
+      "id": 2607922,
+      "tipo": "PL",
+      "numero": 1086,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de manutenção de trabalhadores capacitados em atendimento pré-hospitalar em parques públicos e privados de grande porte.",
+      "data": "2026-03-10T19:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607922"
+    },
+    {
+      "id": 2609072,
+      "tipo": "PL",
+      "numero": 1184,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a criação de pontos de apoio destinados ao acolhimento, à orientação e ao encaminhamento de vítimas de todas as formas de preconceito, discriminação e intolerância, ocorridas durante a realização de grandes eventos, e dá outras providências.",
+      "data": "2026-03-16T16:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609072"
+    },
+    {
+      "id": 2609211,
+      "tipo": "PL",
+      "numero": 1197,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a responsabilidade administrativa de pessoas físicas e jurídicas pela prática de injúria racial, institui o processo administrativo sancionador correspondente; e dá outras providências.",
+      "data": "2026-03-17T11:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609211"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",
+      "sigla": "PEC00523",
+      "cargo": "Titular",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Titular",
+      "desde": "2025-04-08T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 14, de 2021, do Sr. Dr. Leonardo e outros, que \"altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais\"",
+      "sigla": "PEC01421",
+      "cargo": "Suplente",
+      "desde": "2025-05-21T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, que \"regula os serviços de transporte remunerado privado individual de passageiros e de coleta e entrega de bens prestados pelas empresas operadoras de plataforma digital\"",
+      "sigla": "PLP15225",
+      "cargo": "Titular",
+      "desde": "2025-08-20T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/160629/votacoes-nominais-plenario/2026"
+}

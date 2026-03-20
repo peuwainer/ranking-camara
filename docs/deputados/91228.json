@@ -1,0 +1,54 @@
+{
+  "id": 91228,
+  "nome": "Waldemar Oliveira",
+  "partido": "AVANTE",
+  "uf": "PE",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/91228.jpg",
+  "score": 34.66,
+  "rank": 155,
+  "proposicoes": [
+    {
+      "id": 2608188,
+      "tipo": "PL",
+      "numero": 1103,
+      "ano": 2026,
+      "ementa": "Proíbe a distribuição ou reprodução de fonograma ou obra audiovisual cujo teor faça apologia a crimes contra a dignidade sexual, ao tráfico ilícito de drogas, à violência contra as mulheres ou que depreciem a imagem feminina.",
+      "data": "2026-03-11T12:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608188"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",
+      "sigla": "CEDIRDIG",
+      "cargo": "Titular",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 14, de 2021, do Sr. Dr. Leonardo e outros, que \"altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais\"",
+      "sigla": "PEC01421",
+      "cargo": "Suplente",
+      "desde": "2025-05-21T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 733, de 2025, do Sr. Leur Lomanto Júnior, que \"dispõe sobre o Sistema Portuário Brasileiro, regula a exploração dos portos, as atividades de operação portuária, o trabalho portuário e dá outras providências\"",
+      "sigla": "PL073325",
+      "cargo": "Suplente",
+      "desde": "2025-07-07T00:00"
+    },
+    {
+      "nome": "Comissão de Administração e Serviço Público",
+      "sigla": "CASP",
+      "cargo": "Suplente",
+      "desde": "2026-02-05T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-02-09T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/91228/votacoes-nominais-plenario/2026"
+}

@@ -1,0 +1,96 @@
+{
+  "id": 204406,
+  "nome": "Pedro Westphalen",
+  "partido": "PP",
+  "uf": "RS",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204406.jpg",
+  "score": 29.88,
+  "rank": 265,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2606212,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre o descarte e destinação final de carcaças de animais mortos em clínicas veterinárias, e dá outras providências.",
+      "data": "2026-03-03T15:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606212"
+    },
+    {
+      "id": 2609794,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados",
+      "data": "2026-03-17T19:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609794"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Externa destinada a elaborar propostas para analisar o enfrentamento da tuberculose como compromisso internacional para a eliminação desta doença como problema de saúde pública até o ano de 2030, conforme preconizado pela Organização das Nações Unidas (ONU)",
+      "sigla": "CEXTUBER",
+      "cargo": "Titular",
+      "desde": "2023-09-05T00:00"
+    },
+    {
+      "nome": "Comissão Externa destinada a apurar e acompanhar os danos causados pelas enchentes de 2023 e 2024, que atingiram o estado do Rio Grande do Sul",
+      "sigla": "CEXCIRS",
+      "cargo": "Titular",
+      "desde": "2023-11-28T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a estudar e analisar formas de prevenção e auxílio a desastres e calamidades naturais que vêm assolando o Território Nacional",
+      "sigla": "CEDESNAT",
+      "cargo": "Suplente",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão Especial para estudo das razões do aumento de denúncias de violência obstétrica e a alta taxa de morte materna no Brasil",
+      "sigla": "CEOBSTET",
+      "cargo": "Suplente",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3080, de 2020, do Senhor Alexandre Frota, que \"Institui a política pública nacional para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autismo, e dá outras providências\", e apensados",
+      "sigla": "PL308020",
+      "cargo": "Titular",
+      "desde": "2025-10-20T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 231, de 2019, que altera o art. 159 da Constituição Federal para disciplinar a distribuição de recursos pela União ao Fundo de Participação dos Municípios",
+      "sigla": "PEC23119",
+      "cargo": "Suplente",
+      "desde": "2025-11-03T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Representação Brasileira no Parlamento do Mercosul",
+      "sigla": "MERCOSUL",
+      "cargo": "Titular",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "2º Vice-Presidente",
+      "desde": "2026-03-18T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204406/votacoes-nominais-plenario/2026"
+}

@@ -1,0 +1,32 @@
+{
+  "id": 74454,
+  "nome": "Eunício Oliveira",
+  "partido": "MDB",
+  "uf": "CE",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74454.jpg",
+  "score": 20.62,
+  "rank": 458,
+  "proposicoes": [],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
+      "sigla": "BANEGRA",
+      "cargo": "Titular",
+      "desde": "2025-10-13T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Suplente",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-02-09T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/74454/votacoes-nominais-plenario/2026"
+}

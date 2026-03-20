@@ -1,0 +1,66 @@
+{
+  "id": 220536,
+  "nome": "Zé Haroldo Cathedral",
+  "partido": "PSD",
+  "uf": "RR",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220536.jpg",
+  "score": 27.46,
+  "rank": 323,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",
+      "sigla": "CEDIRDIG",
+      "cargo": "Titular",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",
+      "sigla": "PL233823",
+      "cargo": "Suplente",
+      "desde": "2025-04-29T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho de Consolidação das Leis",
+      "sigla": "GTCL",
+      "cargo": "Titular",
+      "desde": "2025-04-30T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 14, de 2021, do Sr. Dr. Leonardo e outros, que \"altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais\"",
+      "sigla": "PEC01421",
+      "cargo": "Titular",
+      "desde": "2025-05-21T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3080, de 2020, do Senhor Alexandre Frota, que \"Institui a política pública nacional para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autismo, e dá outras providências\", e apensados",
+      "sigla": "PL308020",
+      "cargo": "Suplente",
+      "desde": "2025-10-28T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos das Pessoas com Deficiência",
+      "sigla": "CPD",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
+      "sigla": "CIDOSO",
+      "cargo": "Suplente",
+      "desde": "2026-02-10T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220536/votacoes-nominais-plenario/2026"
+}

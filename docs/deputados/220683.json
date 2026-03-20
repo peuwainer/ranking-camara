@@ -1,0 +1,66 @@
+{
+  "id": 220683,
+  "nome": "Beto Richa",
+  "partido": "PSDB",
+  "uf": "PR",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220683.jpg",
+  "score": 29.0,
+  "rank": 284,
+  "proposicoes": [
+    {
+      "id": 2604752,
+      "tipo": "PL",
+      "numero": 760,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção à Pessoa com Diabetes na realização de exames e procedimentos que exijam jejum prolongado.",
+      "data": "2026-02-25T15:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604752"
+    },
+    {
+      "id": 2604837,
+      "tipo": "PL",
+      "numero": 774,
+      "ano": 2026,
+      "ementa": "Inscreve a Festa do Steinhaeger e do Xixo, realizada nos Municípios de União da Vitória, Estado do Paraná, e Porto União, Estado de Santa Catarina, no Calendário Nacional de Eventos e a reconhece como manifestação cultural de relevância nacional.",
+      "data": "2026-02-25T17:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604837"
+    },
+    {
+      "id": 2608947,
+      "tipo": "PL",
+      "numero": 1167,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer dever de apreciação judicial acerca da existência de procurações ou instrumentos de mandato conferidos ao agressor e presunção de risco à integridade econômica da ofendida.",
+      "data": "2026-03-16T10:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608947"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-17T14:52",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. BETO RICHA (Bloco/PSDB - PR. Sem revisão do orador.) - Sr. Presidente, Deputado Charles Fernandes, Sras. e Srs. Deputados, subo à tribuna no dia de hoje para falar de milhões de brasileiros que "
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Representação Brasileira no Parlamento do Mercosul",
+      "sigla": "MERCOSUL",
+      "cargo": "Titular",
+      "desde": "2023-08-23T00:00"
+    },
+    {
+      "nome": "Comissão de Indústria, Comércio e Serviços",
+      "sigla": "CICS",
+      "cargo": "Presidente",
+      "desde": "2025-03-19T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 733, de 2025, do Sr. Leur Lomanto Júnior, que \"dispõe sobre o Sistema Portuário Brasileiro, regula a exploração dos portos, as atividades de operação portuária, o trabalho portuário e dá outras providências\"",
+      "sigla": "PL073325",
+      "cargo": "Suplente",
+      "desde": "2025-07-09T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220683/votacoes-nominais-plenario/2026"
+}

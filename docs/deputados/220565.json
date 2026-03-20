@@ -1,0 +1,54 @@
+{
+  "id": 220565,
+  "nome": "Delegada Adriana Accorsi",
+  "partido": "PT",
+  "uf": "GO",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220565.jpg",
+  "score": 21.09,
+  "rank": 454,
+  "proposicoes": [
+    {
+      "id": 2608574,
+      "tipo": "PL",
+      "numero": 1138,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Programas e Grupos Reflexivos sobre Masculinidades, Prevenção da Violência e Cultura de Paz, estabelece seus princípios, objetivos e diretrizes, e dá outras providências",
+      "data": "2026-03-12T12:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608574"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Secretaria da Mulher",
+      "sigla": "SEMULHER",
+      "cargo": "Titular",
+      "desde": "2023-05-04T00:00"
+    },
+    {
+      "nome": "TESTE PARA GERAÇÃO DO ESPELHO DA COMISSÃO (COMISSÃO FICTÍCIA)",
+      "sigla": "TESTECOM",
+      "cargo": "Suplente",
+      "desde": "2025-02-21T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 18, de 2025, do Poder Executivo, que \"altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública\"",
+      "sigla": "PEC01825",
+      "cargo": "3º Vice-Presidente",
+      "desde": "2025-09-09T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Mulher",
+      "sigla": "CMULHER",
+      "cargo": "2º Vice-Presidente",
+      "desde": "2026-03-11T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220565/votacoes-nominais-plenario/2026"
+}

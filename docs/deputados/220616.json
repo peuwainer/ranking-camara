@@ -1,0 +1,78 @@
+{
+  "id": 220616,
+  "nome": "Luciano Vieira",
+  "partido": "PSDB",
+  "uf": "RJ",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220616.jpg",
+  "score": 15.7,
+  "rank": 483,
+  "proposicoes": [
+    {
+      "id": 2608337,
+      "tipo": "PL",
+      "numero": 1122,
+      "ano": 2026,
+      "ementa": "Declara a Festa do Tomate, realizada no município de Paty do Alferes, no Estado do Rio de Janeiro, como Manifestação da Cultura Nacional.",
+      "data": "2026-03-11T16:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608337"
+    },
+    {
+      "id": 2608685,
+      "tipo": "PL",
+      "numero": 1146,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de sigilo de informações relativas à lotação de servidoras do Poder Executivo, Legislativo e Judiciário da União, Estados e Municípios que estejam sob o alcance de medidas protetivas determinadas pelo Poder Judiciário, no seus portais de transparência.",
+      "data": "2026-03-12T16:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608685"
+    },
+    {
+      "id": 2609058,
+      "tipo": "PL",
+      "numero": 1183,
+      "ano": 2026,
+      "ementa": "Declara a Sra. Dulce Rosalina, “Patrona das Torcidas Organizadas de Esporte do Brasil”.",
+      "data": "2026-03-16T16:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609058"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial para estudo, avaliação e acompanhamento das iniciativas e medidas adotadas para transição energética - Fontes Renováveis e Produção de Hidrogênio Verde no Brasil",
+      "sigla": "CEENERG",
+      "cargo": "Titular",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 234, de 2024, do Sr. Felipe Carreras, que \"dispõe sobre incentivos e benefícios para fomentar as atividades de caráter desportivo e dá outras providências\"",
+      "sigla": "PLP23424",
+      "cargo": "Titular",
+      "desde": "2025-05-08T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão do Esporte",
+      "sigla": "CESPO",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Fiscalização Financeira e Controle",
+      "sigla": "CFFC",
+      "cargo": "Suplente",
+      "desde": "2026-02-10T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3080, de 2020, do Senhor Alexandre Frota, que \"Institui a política pública nacional para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autismo, e dá outras providências\", e apensados",
+      "sigla": "PL308020",
+      "cargo": "1º Vice-Presidente",
+      "desde": "2026-03-03T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220616/votacoes-nominais-plenario/2026"
+}

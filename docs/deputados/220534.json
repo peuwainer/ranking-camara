@@ -1,0 +1,63 @@
+{
+  "id": 220534,
+  "nome": "Fred Linhares",
+  "partido": "REPUBLICANOS",
+  "uf": "DF",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220534.jpg",
+  "score": 32.06,
+  "rank": 218,
+  "proposicoes": [
+    {
+      "id": 2603721,
+      "tipo": "PL",
+      "numero": 644,
+      "ano": 2026,
+      "ementa": "Altera o art. 217-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para explicitar a presunção absoluta da vulnerabilidade etária da vítima menor de 14(quatorze) anos, independe do consentimento inequívoco da vítima, de inexistência de violência real ou presumida, da experiência sexual anterior, de eventual vínculo afetivo com o agente, da ciência ou aprovação dos pais ou responsáveis legais.",
+      "data": "2026-02-21T12:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603721"
+    },
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2607607,
+      "tipo": "PL",
+      "numero": 1050,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) e a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), estabelecer causa de aumento de pena para o crime de estupro praticado mediante concurso de dois ou mais agentes (estupro coletivo) e quando o agente se aproveita de relação de confiança ou proximidade com a vítima",
+      "data": "2026-03-09T18:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607607"
+    },
+    {
+      "id": 2608967,
+      "tipo": "PRC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Acrescenta o parágrafo § 6º ao art. 39 do Regimento Interno da Câmara dos Deputados, para estabelecer que os cargos de Presidente e de Vice-Presidentes da Comissão de Defesa dos Direitos da Mulher sejam ocupados exclusivamente por Deputadas do sexo feminino.",
+      "data": "2026-03-16T11:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608967"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",
+      "sigla": "CEDIRDIG",
+      "cargo": "Suplente",
+      "desde": "2024-03-04T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1087, de 2025, do Poder Executivo, que \"altera a legislação do imposto sobre a renda para instituir a redução do imposto devido nas bases de cálculo mensal e anual e a tributação mínima para as pessoas físicas que auferem altas rendas, e dá outras providências\"",
+      "sigla": "PL108725",
+      "cargo": "Titular",
+      "desde": "2025-04-29T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220534/votacoes-nominais-plenario/2026"
+}

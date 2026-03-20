@@ -1,0 +1,44 @@
+{
+  "id": 123756,
+  "nome": "Antônia Lúcia",
+  "partido": "REPUBLICANOS",
+  "uf": "AC",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/123756.jpg",
+  "score": 28.4,
+  "rank": 301,
+  "proposicoes": [],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Secretaria da Mulher",
+      "sigla": "SEMULHER",
+      "cargo": "Titular",
+      "desde": "2023-05-04T00:00"
+    },
+    {
+      "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
+      "sigla": "BANEGRA",
+      "cargo": "Titular",
+      "desde": "2023-11-02T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Desenvolvimento Econômico",
+      "sigla": "CDE",
+      "cargo": "Titular",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
+      "cargo": "Titular",
+      "desde": "2026-03-10T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/123756/votacoes-nominais-plenario/2026"
+}

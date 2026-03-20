@@ -1,0 +1,60 @@
+{
+  "id": 220537,
+  "nome": "Helena Lima",
+  "partido": "MDB",
+  "uf": "RR",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220537.jpg",
+  "score": 23.92,
+  "rank": 412,
+  "proposicoes": [
+    {
+      "id": 2610574,
+      "tipo": "PL",
+      "numero": 1271,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional AMPARA, de formação nas escolas de educação básica, para prevenção da violência contra crianças, adolescentes e mulheres, e estabelece diretrizes para sua implementação em regime de colaboração e em articulação com a rede de proteção integral.",
+      "data": "2026-03-18T18:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610574"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Secretaria da Mulher",
+      "sigla": "SEMULHER",
+      "cargo": "Titular",
+      "desde": "2023-05-04T00:00"
+    },
+    {
+      "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
+      "sigla": "BANEGRA",
+      "cargo": "Titular",
+      "desde": "2023-11-02T00:00"
+    },
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Titular",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Suplente",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão do Esporte",
+      "sigla": "CESPO",
+      "cargo": "Suplente",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "Suplente",
+      "desde": "2026-02-25T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220537/votacoes-nominais-plenario/2026"
+}

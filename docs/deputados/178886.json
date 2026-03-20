@@ -1,0 +1,48 @@
+{
+  "id": 178886,
+  "nome": "Juscelino Filho",
+  "partido": "UNIÃO",
+  "uf": "MA",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178886.jpg",
+  "score": 15.85,
+  "rank": 482,
+  "proposicoes": [
+    {
+      "id": 2604367,
+      "tipo": "EMP",
+      "numero": 75,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.",
+      "data": "2026-02-24T20:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604367"
+    },
+    {
+      "id": 2604368,
+      "tipo": "EMP",
+      "numero": 76,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.",
+      "data": "2026-02-24T20:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604368"
+    },
+    {
+      "id": 2604369,
+      "tipo": "EMP",
+      "numero": 77,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.",
+      "data": "2026-02-24T20:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604369"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Comunicação",
+      "sigla": "CCOM",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/178886/votacoes-nominais-plenario/2026"
+}

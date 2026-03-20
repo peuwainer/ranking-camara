@@ -1,0 +1,60 @@
+{
+  "id": 133810,
+  "nome": "Marcelo Moraes",
+  "partido": "PL",
+  "uf": "RS",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/133810.jpg",
+  "score": 29.3,
+  "rank": 280,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-18T15:40",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. MARCELO MORAES (PL - RS. Pela ordem. Sem revisão do orador.) - Presidente, nesta semana, nós recebemos em Brasília a visita da Vereadora Tamara Dal Ri, dos Vereadores Mauricio Munarotto, Marcelo"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
+      "sigla": "BANEGRA",
+      "cargo": "Titular",
+      "desde": "2023-11-02T00:00"
+    },
+    {
+      "nome": "Comissão Externa destinada a apurar e acompanhar os danos causados pelas enchentes de 2023 e 2024, que atingiram o estado do Rio Grande do Sul",
+      "sigla": "CEXCIRS",
+      "cargo": "Titular",
+      "desde": "2023-11-28T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a estudar e analisar formas de prevenção e auxílio a desastres e calamidades naturais que vêm assolando o Território Nacional",
+      "sigla": "CEDESNAT",
+      "cargo": "Titular",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 231, de 2019, que altera o art. 159 da Constituição Federal para disciplinar a distribuição de recursos pela União ao Fundo de Participação dos Municípios",
+      "sigla": "PEC23119",
+      "cargo": "3º Vice-Presidente",
+      "desde": "2025-11-05T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/133810/votacoes-nominais-plenario/2026"
+}

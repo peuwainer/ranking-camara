@@ -1,0 +1,78 @@
+{
+  "id": 204570,
+  "nome": "Pastor Gil",
+  "partido": "PL",
+  "uf": "MA",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204570.jpg",
+  "score": 26.14,
+  "rank": 362,
+  "proposicoes": [
+    {
+      "id": 2603969,
+      "tipo": "PL",
+      "numero": 673,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de afixação de cartazes informativos sobre os sinais e sintomas do Acidente Vascular Cerebral (AVC) e do Infarto Agudo do Miocárdio (IAM) em órgãos públicos e estabelecimentos privados de grande circulação de pessoas, e dá outras providências.",
+      "data": "2026-02-24T10:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603969"
+    },
+    {
+      "id": 2603971,
+      "tipo": "PL",
+      "numero": 674,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de inclusão da letra do Hino Nacional Brasileiro na capa dos livros didáticos distribuídos às escolas públicas da educação básica, faculta sua adoção às instituições privadas e dá outras providências.",
+      "data": "2026-02-24T11:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603971"
+    },
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2605835,
+      "tipo": "PL",
+      "numero": 864,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.852, de 3 de maio de 2024, para vedar o direcionamento a crianças e adolescentes de jogos eletrônicos que possibilitem a interação entre seus usuários.",
+      "data": "2026-03-03T09:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605835"
+    },
+    {
+      "id": 2605958,
+      "tipo": "PL",
+      "numero": 873,
+      "ano": 2026,
+      "ementa": "Cria a Universidade Federal da Inclusão e da Acessibilidade – UFIA",
+      "data": "2026-03-03T12:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605958"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
+      "sigla": "BANEGRA",
+      "cargo": "Titular",
+      "desde": "2024-04-06T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
+      "sigla": "CIDOSO",
+      "cargo": "Titular",
+      "desde": "2026-02-10T00:00"
+    },
+    {
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
+      "cargo": "Titular",
+      "desde": "2026-03-10T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204570/votacoes-nominais-plenario/2026"
+}

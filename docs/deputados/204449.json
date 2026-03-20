@@ -1,0 +1,93 @@
+{
+  "id": 204449,
+  "nome": "Nelson Barbudo",
+  "partido": "PL",
+  "uf": "MT",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204449.jpg",
+  "score": 11.67,
+  "rank": 502,
+  "proposicoes": [
+    {
+      "id": 2603619,
+      "tipo": "PLP",
+      "numero": 31,
+      "ano": 2026,
+      "ementa": "Regulamenta o § 1º do art. 201 da Constituição Federal para estabelecer critérios de caracterização de atividades exercidas sob condições especiais por vigilantes, independentemente do uso de arma de fogo, para fins de concessão de aposentadoria especial.",
+      "data": "2026-02-20T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603619"
+    },
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2606287,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre os regimes de resolução das instituições autorizadas a funcionar pelo Banco Central do Brasil, pela Superintendência de Seguros Privados e pela Comissão de Valores Mobiliários.",
+      "data": "2026-03-03T17:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606287"
+    },
+    {
+      "id": 2606288,
+      "tipo": "EMP",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Dispõe sobre os regimes de resolução das instituições autorizadas a funcionar pelo Banco Central do Brasil, pela Superintendência de Seguros Privados e pela Comissão de Valores Mobiliários.",
+      "data": "2026-03-03T17:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606288"
+    },
+    {
+      "id": 2606307,
+      "tipo": "EMP",
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Dispõe sobre os regimes de resolução das instituições autorizadas a funcionar pelo Banco Central do Brasil, pela Superintendência de Seguros Privados e pela Comissão de Valores Mobiliários.",
+      "data": "2026-03-03T17:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606307"
+    },
+    {
+      "id": 2606319,
+      "tipo": "EMP",
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Dispõe sobre os regimes de resolução das instituições autorizadas a funcionar pelo Banco Central do Brasil, pela Superintendência de Seguros Privados e pela Comissão de Valores Mobiliários.",
+      "data": "2026-03-03T18:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606319"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Desenvolvimento Econômico",
+      "sigla": "CDE",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
+      "sigla": "CIDOSO",
+      "cargo": "Suplente",
+      "desde": "2026-02-10T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204449/votacoes-nominais-plenario/2026"
+}

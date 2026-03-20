@@ -1,0 +1,102 @@
+{
+  "id": 204462,
+  "nome": "Chris Tonietto",
+  "partido": "PL",
+  "uf": "RJ",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204462.jpg",
+  "score": 38.09,
+  "rank": 94,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2605829,
+      "tipo": "PL",
+      "numero": 863,
+      "ano": 2026,
+      "ementa": "Institui diretrizes para a organização da Rede Nacional de Atenção às Pessoas com Doenças Raras no âmbito do Sistema Único de Saúde – SUS, e dá outras providências.",
+      "data": "2026-03-03T09:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605829"
+    },
+    {
+      "id": 2608967,
+      "tipo": "PRC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Acrescenta o parágrafo § 6º ao art. 39 do Regimento Interno da Câmara dos Deputados, para estabelecer que os cargos de Presidente e de Vice-Presidentes da Comissão de Defesa dos Direitos da Mulher sejam ocupados exclusivamente por Deputadas do sexo feminino.",
+      "data": "2026-03-16T11:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608967"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-10T21:12",
+      "fase": "Breves Comunicações",
+      "resumo": "A SRA. CHRIS TONIETTO (PL - RJ. Pela ordem. Sem revisão da oradora.) - Muito obrigada, Sra. Presidente. Na verdade, eu só queria mesmo celebrar uma grande e importante vitória que este Parlamento teve"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Secretaria da Mulher",
+      "sigla": "SEMULHER",
+      "cargo": "Titular",
+      "desde": "2023-05-04T00:00"
+    },
+    {
+      "nome": "TESTE PARA GERAÇÃO DO ESPELHO DA COMISSÃO (COMISSÃO FICTÍCIA)",
+      "sigla": "TESTECOM",
+      "cargo": "Titular",
+      "desde": "2025-02-21T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei n. 2614, de 2024, do Poder Executivo, que \"aprova o Plano Nacional de Educação para o decênio 2024-2034\"",
+      "sigla": "PL261424",
+      "cargo": "Suplente",
+      "desde": "2025-04-28T00:00"
+    },
+    {
+      "nome": "Comissão de Previdência, Assistência Social, Infância, Adolescência e Família",
+      "sigla": "CPASF",
+      "cargo": "Titular",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Direitos Humanos, Minorias e Igualdade Racial",
+      "sigla": "CDHMIR",
+      "cargo": "Suplente",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 8085, de 2014, do Senado Federal, que \"altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para instituir a obrigatoriedade da prática de direção veicular em vias públicas para fins de formação de condutores\"",
+      "sigla": "PL808514",
+      "cargo": "Titular",
+      "desde": "2026-02-27T00:00"
+    },
+    {
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
+      "cargo": "Suplente",
+      "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Mulher",
+      "sigla": "CMULHER",
+      "cargo": "Titular",
+      "desde": "2026-03-10T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204462/votacoes-nominais-plenario/2026"
+}

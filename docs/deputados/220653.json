@@ -1,0 +1,66 @@
+{
+  "id": 220653,
+  "nome": "Fábio Teruel",
+  "partido": "MDB",
+  "uf": "SP",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220653.jpg",
+  "score": 33.62,
+  "rank": 179,
+  "proposicoes": [
+    {
+      "id": 2606364,
+      "tipo": "PL",
+      "numero": 909,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar a pena da lesão corporal de natureza gravíssima praticada contra a mulher por razões da condição de sexo feminino; altera a Lei nº 8.072, de 25 de julho de 1990, para incluí-la no rol dos crimes hediondos; e estabelece diretrizes para atendimento especializado no âmbito do Sistema Único de Saúde.",
+      "data": "2026-03-03T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606364"
+    },
+    {
+      "id": 2608435,
+      "tipo": "PL",
+      "numero": 1126,
+      "ano": 2026,
+      "ementa": "Institui medidas de proteção à saúde e às condições de trabalho de entregadores e motociclistas profissionais que prestam serviços por intermédio de plataformas digitais.",
+      "data": "2026-03-11T20:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608435"
+    },
+    {
+      "id": 2610159,
+      "tipo": "PL",
+      "numero": 1249,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 201/1967 para explicitar como infração político-administrativa e crime de responsabilidade a incitação à prática de crimes, inclusive o extermínio ou maus-tratos contra animais, por agentes políticos no exercício do mandato.",
+      "data": "2026-03-18T12:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610159"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",
+      "sigla": "PL233823",
+      "cargo": "Titular",
+      "desde": "2025-05-05T00:00"
+    },
+    {
+      "nome": "Comissão de Comunicação",
+      "sigla": "CCOM",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa do Consumidor",
+      "sigla": "CDC",
+      "cargo": "Suplente",
+      "desde": "2026-02-24T00:00"
+    },
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Titular",
+      "desde": "2026-03-18T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220653/votacoes-nominais-plenario/2026"
+}

@@ -28,11 +28,16 @@ jobs:
       - name: Calcular scores
         run: python src/scoring/score.py
 
-      - name: Salvar ranking.json como artefato
+      - name: Gerar detalhes dos deputados
+        run: python src/site/build_details.py
+
+      - name: Salvar artefatos como artefato
         uses: actions/upload-artifact@v4
         with:
           name: ranking-json
-          path: docs/ranking.json
+          path: |
+            docs/ranking.json
+            docs/deputados/
           retention-days: 1
 
   publicar:
@@ -46,7 +51,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Baixar ranking.json
+      - name: Baixar artefatos
         uses: actions/download-artifact@v4
         with:
           name: ranking-json
@@ -56,7 +61,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/ranking.json
+          git add docs/ranking.json docs/deputados/
           git diff --cached --quiet || git commit -m "Atualização automática — $(date -u '+%Y-%m-%d')"
           git pull --rebase
           git push

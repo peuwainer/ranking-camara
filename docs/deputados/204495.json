@@ -1,0 +1,74 @@
+{
+  "id": 204495,
+  "nome": "Airton Faleiro",
+  "partido": "PT",
+  "uf": "PA",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204495.jpg",
+  "score": 27.32,
+  "rank": 328,
+  "proposicoes": [
+    {
+      "id": 2607443,
+      "tipo": "PL",
+      "numero": 1008,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer princípios e diretrizes para a cobertura jornalística e publicitária da violência contra a mulher, promovendo a informação responsável e a proteção das vítimas, com respeito à liberdade de imprensa.",
+      "data": "2026-03-06T17:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607443"
+    },
+    {
+      "id": 2608574,
+      "tipo": "PL",
+      "numero": 1138,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Programas e Grupos Reflexivos sobre Masculinidades, Prevenção da Violência e Cultura de Paz, estabelece seus princípios, objetivos e diretrizes, e dá outras providências",
+      "data": "2026-03-12T12:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608574"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-10T14:28",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. AIRTON FALEIRO (Bloco/PT - PA. Sem revisão do orador.) - Sr. Presidente, cumprimento V.Exa., cumprimento os nossos pares, e começo falando de vitória. Nesse final de semana, o meu Paysandu vence"
+    },
+    {
+      "data": "2026-02-25T17:36",
+      "fase": "Ordem do Dia",
+      "resumo": "O SR. AIRTON FALEIRO (Bloco/PT - PA. Sem revisão do orador.) - Sr. Presidente Deputado Hugo Motta, Srs. Deputados, Sras. Deputadas, nós estamos tratando de um tema muito relevante para um debate que a"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Trabalho",
+      "sigla": "CTRAB",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão do Esporte",
+      "sigla": "CESPO",
+      "cargo": "Suplente",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão da Amazônia e dos Povos Originários e Tradicionais",
+      "sigla": "CPOVOS",
+      "cargo": "1º Vice-Presidente",
+      "desde": "2026-02-10T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204495/votacoes-nominais-plenario/2026"
+}

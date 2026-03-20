@@ -1,0 +1,81 @@
+{
+  "id": 204517,
+  "nome": "Zé Vitor",
+  "partido": "PL",
+  "uf": "MG",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
+  "score": 14.37,
+  "rank": 489,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2608359,
+      "tipo": "PL",
+      "numero": 1123,
+      "ano": 2026,
+      "ementa": "Inclui o parágrafo único ao art. 38 da Lei 9.514, de 20 de novembro de 1997.",
+      "data": "2026-03-11T17:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608359"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Externa destinada a fiscalizar os rompimentos de barragens, em especial acompanhar a repactuação do acordo de Mariana e a reparação do crime de Brumadinho",
+      "sigla": "CEXMABRU",
+      "cargo": "Titular",
+      "desde": "2023-04-04T00:00"
+    },
+    {
+      "nome": "Centro de Estudos e Debates Estratégicos",
+      "sigla": "CEDES",
+      "cargo": "Suplente",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 14, de 2021, do Sr. Dr. Leonardo e outros, que \"altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais\"",
+      "sigla": "PEC01421",
+      "cargo": "Titular",
+      "desde": "2025-06-16T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 231, de 2019, que altera o art. 159 da Constituição Federal para disciplinar a distribuição de recursos pela União ao Fundo de Participação dos Municípios",
+      "sigla": "PEC23119",
+      "cargo": "Titular",
+      "desde": "2025-11-03T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Meio Ambiente e Desenvolvimento Sustentável",
+      "sigla": "CMADS",
+      "cargo": "Titular",
+      "desde": "2026-03-03T00:00"
+    },
+    {
+      "nome": "Comissão Externa destinada a acompanhar, fiscalizar e propor medidas relativas aos impactos das chuvas intensas ocorridas na Zona da Mata de Minas Gerais",
+      "sigla": "CEXZMATA",
+      "cargo": "Titular",
+      "desde": "2026-03-06T00:00"
+    },
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Suplente",
+      "desde": "2026-03-18T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204517/votacoes-nominais-plenario/2026"
+}

@@ -1,0 +1,93 @@
+{
+  "id": 220674,
+  "nome": "Dra. Alessandra Haber",
+  "partido": "MDB",
+  "uf": "PA",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220674.jpg",
+  "score": 27.36,
+  "rank": 326,
+  "proposicoes": [
+    {
+      "id": 2604448,
+      "tipo": "PL",
+      "numero": 735,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, que dispõe sobre a Política Nacional de Segurança Pública e Defesa Social, para prever a capacitação e a atualização periódica em suporte básico de vida na matriz curricular dos profissionais de segurança pública e defesa social.",
+      "data": "2026-02-25T08:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604448"
+    },
+    {
+      "id": 2604449,
+      "tipo": "PL",
+      "numero": 736,
+      "ano": 2026,
+      "ementa": "Altera o art. 32 da Lei nº 9.605, de 12 de fevereiro de 1998, para prever medida educativa complementar nos casos de condenação por maus-tratos contra animais domésticos.",
+      "data": "2026-02-25T08:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604449"
+    },
+    {
+      "id": 2605145,
+      "tipo": "PL",
+      "numero": 805,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o enfrentamento à violência digital contra as mulheres por sua condição de mulher, com base na Lei Modelo Interamericana para Prevenir, Punir e Erradicar a Violência Digital de Gênero contra as Mulheres, elaborada no âmbito da Organização dos Estados Americanos (OEA).",
+      "data": "2026-02-26T21:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605145"
+    },
+    {
+      "id": 2607789,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade de disponibilização de provador adaptado para pessoas com deficiência em estabelecimentos comerciais que comercializem roupas e dá outras providências.",
+      "data": "2026-03-10T16:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607789"
+    },
+    {
+      "id": 2608967,
+      "tipo": "PRC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Acrescenta o parágrafo § 6º ao art. 39 do Regimento Interno da Câmara dos Deputados, para estabelecer que os cargos de Presidente e de Vice-Presidentes da Comissão de Defesa dos Direitos da Mulher sejam ocupados exclusivamente por Deputadas do sexo feminino.",
+      "data": "2026-03-16T11:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608967"
+    },
+    {
+      "id": 2610379,
+      "tipo": "PL",
+      "numero": 1261,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para estabelecer causa de aumento de pena no crime de feminicídio quando houver histórico de violência doméstica e familiar contra a vítima.",
+      "data": "2026-03-18T17:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610379"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Secretaria da Mulher",
+      "sigla": "SEMULHER",
+      "cargo": "Titular",
+      "desde": "2023-05-04T00:00"
+    },
+    {
+      "nome": "Comissão Especial para estudo das razões do aumento de denúncias de violência obstétrica e a alta taxa de morte materna no Brasil",
+      "sigla": "CEOBSTET",
+      "cargo": "Suplente",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos das Pessoas com Deficiência",
+      "sigla": "CPD",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Mulher",
+      "sigla": "CMULHER",
+      "cargo": "Titular",
+      "desde": "2026-03-10T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220674/votacoes-nominais-plenario/2026"
+}

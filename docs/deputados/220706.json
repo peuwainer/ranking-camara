@@ -1,0 +1,48 @@
+{
+  "id": 220706,
+  "nome": "Padovani",
+  "partido": "UNIÃO",
+  "uf": "PR",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220706.jpg",
+  "score": 20.79,
+  "rank": 456,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-17T22:56",
+      "fase": "Ordem do Dia",
+      "resumo": "O SR. PADOVANI (Bloco/UNIÃO - PR. Pela ordem. Sem revisão do orador.) - Sempre que tratamos do tema desastres aéreos é muito complicado. Esse projeto é importante, porque ele visa acabar com conflitos"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",
+      "sigla": "PL233823",
+      "cargo": "Suplente",
+      "desde": "2025-04-29T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220706/votacoes-nominais-plenario/2026"
+}

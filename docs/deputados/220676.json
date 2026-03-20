@@ -1,0 +1,69 @@
+{
+  "id": 220676,
+  "nome": "Andreia Siqueira",
+  "partido": "MDB",
+  "uf": "PA",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220676.jpg",
+  "score": 27.29,
+  "rank": 331,
+  "proposicoes": [
+    {
+      "id": 2605145,
+      "tipo": "PL",
+      "numero": 805,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o enfrentamento à violência digital contra as mulheres por sua condição de mulher, com base na Lei Modelo Interamericana para Prevenir, Punir e Erradicar a Violência Digital de Gênero contra as Mulheres, elaborada no âmbito da Organização dos Estados Americanos (OEA).",
+      "data": "2026-02-26T21:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605145"
+    },
+    {
+      "id": 2605896,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 (Lei Brasileira de Inclusão da Pessoa com Deficiência), para agravar a pena do crime de retenção ou utilização de cartão magnético ou meio eletrônico de pessoa com deficiência.",
+      "data": "2026-03-03T10:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605896"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Secretaria da Mulher",
+      "sigla": "SEMULHER",
+      "cargo": "Titular",
+      "desde": "2023-05-04T00:00"
+    },
+    {
+      "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
+      "sigla": "BANEGRA",
+      "cargo": "Titular",
+      "desde": "2023-11-02T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 14, de 2021, do Sr. Dr. Leonardo e outros, que \"altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais\"",
+      "sigla": "PEC01421",
+      "cargo": "Suplente",
+      "desde": "2025-06-10T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 34, de 2024, da Senhora Laura Carneiro e outros, que \"inclui a primeira infância como beneficiária de direitos e garantias, no texto constitucional\"",
+      "sigla": "PEC03424",
+      "cargo": "Suplente",
+      "desde": "2025-10-02T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos das Pessoas com Deficiência",
+      "sigla": "CPD",
+      "cargo": "Titular",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Previdência, Assistência Social, Infância, Adolescência e Família",
+      "sigla": "CPASF",
+      "cargo": "Titular",
+      "desde": "2026-02-04T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220676/votacoes-nominais-plenario/2026"
+}

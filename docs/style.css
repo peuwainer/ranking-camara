@@ -415,10 +415,136 @@ footer {
 }
 
 /* ===========================
+   Pagina de detalhe do deputado
+=========================== */
+.voltar-ranking {
+  color: var(--branco);
+  font-size: 0.9rem;
+  opacity: 0.85;
+  white-space: nowrap;
+}
+
+.voltar-ranking:hover { opacity: 1; }
+
+.perfil-header {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  background: var(--branco);
+  border-radius: 8px;
+  box-shadow: var(--sombra);
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.perfil-foto {
+  width: 96px;
+  height: 96px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: var(--cinza-claro);
+  flex-shrink: 0;
+}
+
+.perfil-info { display: flex; flex-direction: column; gap: 0.4rem; }
+
+.perfil-info h2 { font-size: 1.4rem; font-weight: 700; }
+
+.perfil-partido-uf {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.95rem;
+}
+
+.perfil-score-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 0.25rem;
+}
+
+.perfil-rank {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--verde);
+}
+
+.perfil-score-wrapper .score-wrapper { width: 120px; }
+
+.detalhe-secao {
+  background: var(--branco);
+  border-radius: 8px;
+  box-shadow: var(--sombra);
+  padding: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.detalhe-secao h3 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: var(--cinza-escuro);
+}
+
+.detalhe-contagem {
+  font-size: 0.85rem;
+  color: var(--cinza-medio);
+  margin-bottom: 0.75rem;
+}
+
+.tabela-detalhe { width: 100%; border-collapse: collapse; }
+.tabela-detalhe th {
+  text-align: left;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--cinza-medio);
+  text-transform: uppercase;
+  padding: 0.5rem 0.6rem;
+  border-bottom: 2px solid var(--borda);
+}
+.tabela-detalhe td {
+  padding: 0.5rem 0.6rem;
+  font-size: 0.9rem;
+  border-bottom: 1px solid #f0f0f0;
+  vertical-align: top;
+}
+.tabela-detalhe tbody tr:last-child td { border-bottom: none; }
+.tabela-detalhe tbody tr:hover { background: var(--verde-claro); }
+
+.col-ementa, .col-resumo {
+  max-width: 400px;
+  word-break: break-word;
+}
+
+.nowrap { white-space: nowrap; }
+
+.btn-externo {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  background: var(--verde);
+  color: var(--branco);
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+  transition: background 0.15s;
+}
+
+.btn-externo:hover {
+  background: #156b3e;
+  text-decoration: none;
+}
+
+/* ===========================
    Responsivo
 =========================== */
 @media (max-width: 700px) {
   h1 { font-size: 1.2rem; }
   .filtros input { min-width: 100%; }
   .filtros select { min-width: 48%; }
+  .perfil-header { flex-direction: column; text-align: center; align-items: center; }
+  .perfil-partido-uf { justify-content: center; }
+  .perfil-score-wrapper { justify-content: center; }
+  .col-ementa, .col-resumo { max-width: 200px; }
 }

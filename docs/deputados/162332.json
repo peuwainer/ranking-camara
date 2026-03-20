@@ -1,0 +1,42 @@
+{
+  "id": 162332,
+  "nome": "Luiz Nishimori",
+  "partido": "PSD",
+  "uf": "PR",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/162332.jpg",
+  "score": 24.73,
+  "rank": 396,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Representação Brasileira no Parlamento do Mercosul",
+      "sigla": "MERCOSUL",
+      "cargo": "Suplente",
+      "desde": "2025-04-09T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Presidente",
+      "desde": "2026-02-04T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/162332/votacoes-nominais-plenario/2026"
+}

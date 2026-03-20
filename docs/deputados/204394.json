@@ -1,0 +1,32 @@
+{
+  "id": 204394,
+  "nome": "Gervásio Maia",
+  "partido": "PSB",
+  "uf": "PB",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204394.jpg",
+  "score": 30.6,
+  "rank": 250,
+  "proposicoes": [],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Suplente",
+      "desde": "2025-05-05T00:00"
+    },
+    {
+      "nome": "Comissão de Comunicação",
+      "sigla": "CCOM",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-02-09T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204394/votacoes-nominais-plenario/2026"
+}

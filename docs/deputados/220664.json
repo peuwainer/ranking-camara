@@ -1,0 +1,80 @@
+{
+  "id": 220664,
+  "nome": "Guilherme Uchoa",
+  "partido": "PSB",
+  "uf": "PE",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220664.jpg",
+  "score": 27.32,
+  "rank": 330,
+  "proposicoes": [
+    {
+      "id": 2607396,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-03-06T11:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607396"
+    },
+    {
+      "id": 2608635,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Inclui no Anexo da Lei nº 5.917, de 10 de setembro de 1973, que dispõe sobre o Plano Nacional de Viação, o trecho rodoviário que especifica - Entroncamento da BR-427 com a RN-086 - Parelhas - Santana do Seridó - Equador - Divisa com o Estado da Paraíba - Entroncamento com a BR-230 (Junco do Seridó/PB).",
+      "data": "2026-03-11T20:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608635"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-16T18:00",
+      "fase": "Encerramento",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO GUILHERME UCHOA (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, senhores deputados e senhoras deputadas; Subo hoje a esta tribuna para prestar uma jus"
+    },
+    {
+      "data": "2026-03-11T22:04",
+      "fase": "Encerramento",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO GUILHERME UCHOA (SEM REGISTRO TAQUIGRÁFICO). Senhores deputados, senhoras deputadas, autoridades, senhoras e senhores aqui presentes; Subo hoje a esta"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",
+      "sigla": "PEC00523",
+      "cargo": "Titular",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Secretaria de Participação, Interação e Mídias Digitais",
+      "sigla": "SEMIDIA",
+      "cargo": "Sec de Part Inter e Mídias Digitais",
+      "desde": "2025-04-09T00:00"
+    },
+    {
+      "nome": "Secretaria de Participação, Interação e Mídias Digitais",
+      "sigla": "SEMIDIA",
+      "cargo": "Titular",
+      "desde": "2025-04-09T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 72, de 2023, do Senado Federal, que altera o art. 155 da Constituição Federal para conceder imunidade do Imposto sobre a Propriedade de Veículos Automotores (IPVA) aos veículos que especifica.",
+      "sigla": "PEC07223",
+      "cargo": "Titular",
+      "desde": "2025-10-20T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220664/votacoes-nominais-plenario/2026"
+}

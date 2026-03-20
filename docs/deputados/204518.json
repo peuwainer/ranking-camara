@@ -1,0 +1,87 @@
+{
+  "id": 204518,
+  "nome": "Dr. Frederico",
+  "partido": "PRD",
+  "uf": "MG",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204518.jpg",
+  "score": 31.92,
+  "rank": 221,
+  "proposicoes": [
+    {
+      "id": 2603932,
+      "tipo": "PL",
+      "numero": 667,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) e a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para determinar o caráter absoluto da presunção de vulnerabilidade de menores de 14 (quatorze) anos e reforçar a proibição do casamento e união estável infanto-juvenil.",
+      "data": "2026-02-23T21:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603932"
+    },
+    {
+      "id": 2609794,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados",
+      "data": "2026-03-17T19:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609794"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-04T16:00",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. DR. FREDERICO (Bloco/PRD - MG. Pela ordem. Sem revisão do orador.) - Muito obrigado, Sr. Presidente. Caros colegas Parlamentares, nesta semana, infelizmente, mais uma guerra devastadora se inici"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial destinada a acompanhar as ações de prevenção e combate ao câncer, ao acidente vascular cerebral (AVC) e às doenças do coração.",
+      "sigla": "CECANCER",
+      "cargo": "Titular",
+      "desde": "2023-04-19T00:00"
+    },
+    {
+      "nome": "Comissão Especial para estudo das razões do aumento de denúncias de violência obstétrica e a alta taxa de morte materna no Brasil",
+      "sigla": "CEOBSTET",
+      "cargo": "Titular",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão Externa, sem ônus para a Câmara dos Deputados, destinada a acompanhar os impactos sociais, ambientais e econômicos na região do Município de Conceição do Pará, no estado de Minas Gerais, em função de um deslizamento de pilha de rejeitos de minério da mineradora Jaguar Mining",
+      "sigla": "CEXMINAS",
+      "cargo": "Titular",
+      "desde": "2024-12-20T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho destinado a discutir e elaborar proposição legislativa que vise ao aperfeiçoamento da Administração Pública",
+      "sigla": "GTREFADM",
+      "cargo": "Titular",
+      "desde": "2025-05-28T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, que \"regula os serviços de transporte remunerado privado individual de passageiros e de coleta e entrega de bens prestados pelas empresas operadoras de plataforma digital\"",
+      "sigla": "PLP15225",
+      "cargo": "Suplente",
+      "desde": "2025-08-13T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Legislação Participativa",
+      "sigla": "CLP",
+      "cargo": "Presidente",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Legislação Participativa",
+      "sigla": "CLP",
+      "cargo": "Titular",
+      "desde": "2026-02-04T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204518/votacoes-nominais-plenario/2026"
+}

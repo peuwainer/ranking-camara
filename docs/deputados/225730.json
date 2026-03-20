@@ -1,0 +1,57 @@
+{
+  "id": 225730,
+  "nome": "Enfermeira Ana Paula",
+  "partido": "PODE",
+  "uf": "CE",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/225730.jpg",
+  "score": 15.24,
+  "rank": 485,
+  "proposicoes": [
+    {
+      "id": 2604328,
+      "tipo": "PL",
+      "numero": 732,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Soberania da Propriedade Intelectual (PNSPI), cria o Fundo de Investimento em Patentes Internacionais (FIPI) e estabelece mecanismos de incentivo fiscal para o suporte à inovação científica brasileira.",
+      "data": "2026-02-24T19:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604328"
+    },
+    {
+      "id": 2609892,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-03-17T23:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609892"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Secretaria da Mulher",
+      "sigla": "SEMULHER",
+      "cargo": "Titular",
+      "desde": "2025-11-19T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Turismo",
+      "sigla": "CTUR",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-02-09T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/225730/votacoes-nominais-plenario/2026"
+}

@@ -1,0 +1,44 @@
+{
+  "id": 220581,
+  "nome": "Luciano Amaral",
+  "partido": "PSD",
+  "uf": "AL",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220581.jpg",
+  "score": 28.4,
+  "rank": 302,
+  "proposicoes": [],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Externa destinada a acompanhar e fiscalizar os danos sociais, ambientais e econômicos, dentre outros, causados pelo afundamento do solo na cidade de Maceió-AL",
+      "sigla": "CEXSOLAL",
+      "cargo": "Titular",
+      "desde": "2023-03-31T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1087, de 2025, do Poder Executivo, que \"altera a legislação do imposto sobre a renda para instituir a redução do imposto devido nas bases de cálculo mensal e anual e a tributação mínima para as pessoas físicas que auferem altas rendas, e dá outras providências\"",
+      "sigla": "PL108725",
+      "cargo": "Suplente",
+      "desde": "2025-05-28T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados",
+      "sigla": "COETICA",
+      "cargo": "Titular",
+      "desde": "2026-03-19T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220581/votacoes-nominais-plenario/2026"
+}

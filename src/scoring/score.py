@@ -45,7 +45,10 @@ log = logging.getLogger(__name__)
 # Utilitários
 # ===========================
 def arquivo_raw_mais_recente() -> Path:
-    arquivos = sorted(RAW_DIR.glob("deputados_*.json"), reverse=True)
+    arquivos = sorted(
+        [f for f in RAW_DIR.glob("deputados_*.json") if "detalhes" not in f.name],
+        reverse=True,
+    )
     if not arquivos:
         raise FileNotFoundError(
             "Nenhum arquivo encontrado em data/raw/. "

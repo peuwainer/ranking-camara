@@ -1,0 +1,57 @@
+{
+  "id": 74075,
+  "nome": "Elcione Barbalho",
+  "partido": "MDB",
+  "uf": "PA",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74075.jpg",
+  "score": 12.38,
+  "rank": 500,
+  "proposicoes": [
+    {
+      "id": 2605145,
+      "tipo": "PL",
+      "numero": 805,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o enfrentamento à violência digital contra as mulheres por sua condição de mulher, com base na Lei Modelo Interamericana para Prevenir, Punir e Erradicar a Violência Digital de Gênero contra as Mulheres, elaborada no âmbito da Organização dos Estados Americanos (OEA).",
+      "data": "2026-02-26T21:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605145"
+    },
+    {
+      "id": 2606313,
+      "tipo": "PLP",
+      "numero": 41,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o Sistema Nacional de Enfrentamento da Violência contra Meninas e Mulheres e a destinação de recursos às ações de enfrentamento ao feminicídio e de garantia da vida de meninas e mulheres.",
+      "data": "2026-03-03T17:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606313"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Secretaria da Mulher",
+      "sigla": "SEMULHER",
+      "cargo": "Titular",
+      "desde": "2023-05-04T00:00"
+    },
+    {
+      "nome": "Comissão da Amazônia e dos Povos Originários e Tradicionais",
+      "sigla": "CPOVOS",
+      "cargo": "Suplente",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Comissão de Meio Ambiente e Desenvolvimento Sustentável",
+      "sigla": "CMADS",
+      "cargo": "Suplente",
+      "desde": "2026-03-03T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/74075/votacoes-nominais-plenario/2026"
+}

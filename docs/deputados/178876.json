@@ -1,0 +1,72 @@
+{
+  "id": 178876,
+  "nome": "Célio Silveira",
+  "partido": "MDB",
+  "uf": "GO",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178876.jpg",
+  "score": 30.39,
+  "rank": 255,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2607730,
+      "tipo": "PL",
+      "numero": 1073,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.601, de 19 de junho de 2 023, para garantir a manutenção dos benefícios financeiros do Programa Bolsa Família, pelo prazo de 24 (vinte e quatro) meses, à família beneficiária que venha a superar o limite de renda familiar mensal per capita estabelecido como critério de elegibilidade ao Programa.",
+      "data": "2026-03-10T15:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607730"
+    },
+    {
+      "id": 2610516,
+      "tipo": "SBT",
+      "numero": 16,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-03-18T18:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610516"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-17T17:44",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. CÉLIO SILVEIRA (Bloco/MDB - GO. Pela ordem. Sem revisão do orador.) - Muito obrigado, Sr. Presidente Charles. Quero aqui registrar a presença do Diretor do Hospital Araújo Jorge, de Goiânia, um "
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 14, de 2021, do Sr. Dr. Leonardo e outros, que \"altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais\"",
+      "sigla": "PEC01421",
+      "cargo": "Suplente",
+      "desde": "2025-06-10T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 18, de 2025, do Poder Executivo, que \"altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública\"",
+      "sigla": "PEC01825",
+      "cargo": "Titular",
+      "desde": "2025-09-03T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Titular",
+      "desde": "2026-02-11T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/178876/votacoes-nominais-plenario/2026"
+}

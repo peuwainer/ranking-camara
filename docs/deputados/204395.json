@@ -1,0 +1,98 @@
+{
+  "id": 204395,
+  "nome": "Pedro Lupion",
+  "partido": "REPUBLICANOS",
+  "uf": "PR",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204395.jpg",
+  "score": 23.83,
+  "rank": 413,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2604259,
+      "tipo": "PLP",
+      "numero": 34,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 224, de dezembro de 2025, para ajustar os incentivos ao setor agropecuário.",
+      "data": "2026-02-24T17:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604259"
+    },
+    {
+      "id": 2607434,
+      "tipo": "PL",
+      "numero": 1003,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.989, de 1995, para conceder isenção do Imposto sobre Produtos Industrializados (IPI) na aquisição de automóveis de passageiros por Representantes Comerciais.",
+      "data": "2026-03-06T16:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607434"
+    },
+    {
+      "id": 2607435,
+      "tipo": "PL",
+      "numero": 1004,
+      "ano": 2026,
+      "ementa": "Confere ao município de Campo Mourão, Estado do Paraná, o título de Capital Nacional da conservação de solos no Brasil.",
+      "data": "2026-03-06T16:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607435"
+    },
+    {
+      "id": 2608789,
+      "tipo": "PFC",
+      "numero": 5,
+      "ano": 2026,
+      "ementa": "Requer que a Comissão de Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural realize Proposta de Fiscalização e Controle (PFC) para avaliar os impactos da importação de leite e derivados no mercado brasileiro, bem como a atuação dos órgãos governamentais responsáveis pela política agrícola, comercial e sanitária, e as medidas de mitigação necessárias para proteger a produção nacional.",
+      "data": "2026-03-12T22:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608789"
+    },
+    {
+      "id": 2609469,
+      "tipo": "PL",
+      "numero": 1214,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.433/1997 para ampliar a definição de uso insignificante de recursos hídricos na atividade agropecuária.",
+      "data": "2026-03-17T15:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609469"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-02-25T17:08",
+      "fase": "Ordem do Dia",
+      "resumo": "O SR. PEDRO LUPION (Bloco/REPUBLICANOS - PR. Pela ordem. Sem revisão do orador.) - Presidente, é óbvio que essa frente parlamentar, a FPA, não é contrária ao acordo; pelo contrário, nós queremos expan"
+    },
+    {
+      "data": "2026-02-25T17:00",
+      "fase": "Ordem do Dia",
+      "resumo": "O SR. PEDRO LUPION (Bloco/REPUBLICANOS - PR. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, o Deputado Marcos Pereira, Presidente do meu partido e também nosso ex-Minist"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 231, de 2019, que altera o art. 159 da Constituição Federal para disciplinar a distribuição de recursos pela União ao Fundo de Participação dos Municípios",
+      "sigla": "PEC23119",
+      "cargo": "Suplente",
+      "desde": "2025-11-04T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-02-11T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204395/votacoes-nominais-plenario/2026"
+}

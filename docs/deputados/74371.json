@@ -1,0 +1,65 @@
+{
+  "id": 74371,
+  "nome": "Rubens Otoni",
+  "partido": "PT",
+  "uf": "GO",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74371.jpg",
+  "score": 23.21,
+  "rank": 425,
+  "proposicoes": [
+    {
+      "id": 2608574,
+      "tipo": "PL",
+      "numero": 1138,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Programas e Grupos Reflexivos sobre Masculinidades, Prevenção da Violência e Cultura de Paz, estabelece seus princípios, objetivos e diretrizes, e dá outras providências",
+      "data": "2026-03-12T12:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608574"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-10T21:24",
+      "fase": "Encerramento",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO RUBENS OTONI (SEM REGISTRO TAQUIGRÁFICO). Senhor presidente, ilustres deputados e deputadas, povo brasileiro que nos acompanha pela TV Câmara e pelas "
+    },
+    {
+      "data": "2026-02-25T13:55",
+      "fase": "Encerramento",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO RUBENS OTONI (SEM REGISTRO TAQUIGRÁFICO). Senhor presidente, ilustres deputados e deputadas, povo brasileiro que nos acompanha pela TV Câmara e pelas "
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Comissão Externa destinada a acompanhar e monitorar a conclusão das obras públicas paralisadas e inacabadas no país",
+      "sigla": "CEXOBRAS",
+      "cargo": "Titular",
+      "desde": "2023-03-15T00:00"
+    },
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos das Pessoas com Deficiência",
+      "sigla": "CPD",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
+      "sigla": "CIDOSO",
+      "cargo": "Suplente",
+      "desde": "2026-02-10T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/74371/votacoes-nominais-plenario/2026"
+}

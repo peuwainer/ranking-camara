@@ -1,0 +1,60 @@
+{
+  "id": 220652,
+  "nome": "Delegado Palumbo",
+  "partido": "MDB",
+  "uf": "SP",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220652.jpg",
+  "score": 31.88,
+  "rank": 223,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2605328,
+      "tipo": "PL",
+      "numero": 808,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei n.º 2.848/1940 (Código Penal) e a Lei n.º 7.210/1984 (Lei de Execução de Execução Penal) para elevar a pena e aumentar o limite máximo de cumprimento das penas privativas de liberdade, nos crimes de feminicídio.",
+      "data": "2026-02-27T13:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605328"
+    },
+    {
+      "id": 2609794,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados",
+      "data": "2026-03-17T19:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609794"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-04T15:32",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. DELEGADO PALUMBO (Bloco/MDB - SP. Sem revisão do orador.) - Muito obrigado, Sr. Presidente. Subo a esta tribuna para falar mais uma vez da defesa das mulheres. Quatro mulheres estão morrendo tod"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Titular",
+      "desde": "2026-02-10T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial de Fiscalização e Direitos dos Presos do 8 de Janeiro",
+      "sigla": "SUB8J",
+      "cargo": "Titular",
+      "desde": "2026-03-11T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220652/votacoes-nominais-plenario/2026"
+}

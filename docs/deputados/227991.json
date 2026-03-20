@@ -1,0 +1,74 @@
+{
+  "id": 227991,
+  "nome": "Dr Flávio",
+  "partido": "PL",
+  "uf": "RJ",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/227991.jpg",
+  "score": 32.32,
+  "rank": 210,
+  "proposicoes": [
+    {
+      "id": 2608967,
+      "tipo": "PRC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Acrescenta o parágrafo § 6º ao art. 39 do Regimento Interno da Câmara dos Deputados, para estabelecer que os cargos de Presidente e de Vice-Presidentes da Comissão de Defesa dos Direitos da Mulher sejam ocupados exclusivamente por Deputadas do sexo feminino.",
+      "data": "2026-03-16T11:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608967"
+    },
+    {
+      "id": 2609794,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados",
+      "data": "2026-03-17T19:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609794"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-17T14:16",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. DR FLÁVIO (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero registrar aqui a presença da minha esposa, ex-Prefeita de Paracambi, no Rio de Janeiro, do Vereador Cleiton Dutra,"
+    },
+    {
+      "data": "2026-03-03T16:00",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. DR FLÁVIO (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, caros colegas Deputados, quero ressaltar a presença em plenário do Secretário de Estado de Agricultura, Pecuária e Abast"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
+      "sigla": "BANEGRA",
+      "cargo": "Titular",
+      "desde": "2025-12-29T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Fiscalização Financeira e Controle",
+      "sigla": "CFFC",
+      "cargo": "Suplente",
+      "desde": "2026-02-10T00:00"
+    },
+    {
+      "nome": "Comissão de Ciência, Tecnologia e Inovação",
+      "sigla": "CCTI",
+      "cargo": "Suplente",
+      "desde": "2026-03-09T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/227991/votacoes-nominais-plenario/2026"
+}

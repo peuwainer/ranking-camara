@@ -178,7 +178,7 @@ function renderTabela() {
       <tr>
         <td class="${classePos}">${medalha}</td>
         <td>${foto}</td>
-        <td class="col-nome">${d.nome}</td>
+        <td class="col-nome"><a href="deputado.html?id=${d.id}">${d.nome}</a></td>
         <td><span class="badge-partido">${d.partido}</span></td>
         <td>${d.uf}</td>
         <td>

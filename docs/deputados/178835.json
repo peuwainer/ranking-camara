@@ -1,0 +1,44 @@
+{
+  "id": 178835,
+  "nome": "Afonso Motta",
+  "partido": "PDT",
+  "uf": "RS",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
+  "score": 27.7,
+  "rank": 317,
+  "proposicoes": [],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Representação Brasileira no Parlamento do Mercosul",
+      "sigla": "MERCOSUL",
+      "cargo": "Titular",
+      "desde": "2023-08-23T00:00"
+    },
+    {
+      "nome": "Comissão Externa destinada a apurar e acompanhar os danos causados pelas enchentes de 2023 e 2024, que atingiram o estado do Rio Grande do Sul",
+      "sigla": "CEXCIRS",
+      "cargo": "Titular",
+      "desde": "2023-11-28T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-02-09T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/178835/votacoes-nominais-plenario/2026"
+}

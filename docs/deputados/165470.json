@@ -1,0 +1,63 @@
+{
+  "id": 165470,
+  "nome": "Rodrigo Valadares",
+  "partido": "UNIÃO",
+  "uf": "SE",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/165470.jpg",
+  "score": 32.06,
+  "rank": 219,
+  "proposicoes": [
+    {
+      "id": 2604686,
+      "tipo": "PL",
+      "numero": 749,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.649, de 27 de maio de 1998, para estabelecer normas de governança, transparência, análise de impacto regulatório e critérios técnicos nas deliberações da Câmara de Comércio Exterior – CAMEX relativas à política tarifária.",
+      "data": "2026-02-25T13:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604686"
+    },
+    {
+      "id": 2605407,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Redefine a competência do foro militar.",
+      "data": "2026-02-23T15:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605407"
+    },
+    {
+      "id": 2609794,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados",
+      "data": "2026-03-17T19:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609794"
+    },
+    {
+      "id": 2610869,
+      "tipo": "PLP",
+      "numero": 70,
+      "ano": 2026,
+      "ementa": "Dispõe sobre os procedimentos para o emprego de medidas coercitivas, inclusive o tiro de neutralização, contra embarcações estrangeiras que violem leis e regulamentos de pesca em águas jurisdicionais brasileiras, institui normas de cooperação interagências, e dá outras providências.",
+      "data": "2026-03-19T13:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610869"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Externa destinada a fiscalizar e acompanhar in loco a atual situação que se encontra a transposição do rio São Francisco",
+      "sigla": "CEXRIOSF",
+      "cargo": "Titular",
+      "desde": "2023-03-16T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/165470/votacoes-nominais-plenario/2026"
+}

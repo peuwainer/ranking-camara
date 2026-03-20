@@ -1,0 +1,93 @@
+{
+  "id": 143632,
+  "nome": "Domingos Neto",
+  "partido": "PSD",
+  "uf": "CE",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/143632.jpg",
+  "score": 32.37,
+  "rank": 208,
+  "proposicoes": [
+    {
+      "id": 2604171,
+      "tipo": "EMP",
+      "numero": 43,
+      "ano": 0,
+      "ementa": "Dá nova redação ao inciso III, §2º do art. 2º - A da Lei nº 11.508, de 20 de julho de 2007; para modernizar o regime das Zonas de Processamento de Exportação (ZPE), adequando-o às operações de serviços tecnológicos, digitais e vinculados à exportação.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604171"
+    },
+    {
+      "id": 2604319,
+      "tipo": "EMP",
+      "numero": 69,
+      "ano": 0,
+      "ementa": "Dá nova redação ao inciso III, §2º do art. 2º - A da Lei nº 11.508, de 20 de julho de 2007 e aos aos arts. 6º-B, 6º-C, 6º-G, 8º, 21-A e 21-C da Lei nº 11.508, de 20 de julho de 2007; acresce os arts. 2º-A e 6º-I; e revoga o § 5º do art. 21-C, para modernizar o regime das Zonas de Processamento de Exportação (ZPE), adequando-o às operações de serviços tecnológicos, digitais e vinculados à exportação.",
+      "data": "2026-02-24T18:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604319"
+    },
+    {
+      "id": 2604325,
+      "tipo": "EMP",
+      "numero": 70,
+      "ano": 0,
+      "ementa": "Altera o Projeto de Lei nº 278, de 2026, para reconhecer o Gás Natural, o Biometano como fontes aptas ao atendimento dos critérios de sustentabilidade energética aplicáveis aos serviços de datacenter.",
+      "data": "2026-02-24T19:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604325"
+    },
+    {
+      "id": 2605096,
+      "tipo": "PL",
+      "numero": 797,
+      "ano": 2026,
+      "ementa": "Institui a Rede Integrada de Proteção Digital à Infância (RIPDI), altera a Lei nº 12.037 de 1º de outubro de 2009 e a Lei nº 8.069 de 13 de julho de 1990, para criar o crime de simulação digital de abuso sexual e dispor sobre a integração de ferramentas tecnológicas de investigação.",
+      "data": "2026-02-26T14:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605096"
+    },
+    {
+      "id": 2606333,
+      "tipo": "PL",
+      "numero": 907,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, para aperfeiçoar o Sistema Nacional de Informações de Segurança Pública (Sinesp), instituir critérios de transparência e condicionar repasses do Fundo Nacional de Segurança Pública (FNSP) ao envio regular de dados.",
+      "data": "2026-03-03T18:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606333"
+    },
+    {
+      "id": 2607228,
+      "tipo": "PL",
+      "numero": 977,
+      "ano": 2026,
+      "ementa": "Institui a Modalidade de Assistência de Transição de Cuidados no âmbito do Sistema Único de Saúde (SUS), altera a Lei nº 8.080, de 19 de setembro de 1990, e dispõe sobre suas fontes de financiamento e diretrizes de implementação.",
+      "data": "2026-03-05T17:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607228"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial para estudo, avaliação e acompanhamento das iniciativas e medidas adotadas para transição energética - Fontes Renováveis e Produção de Hidrogênio Verde no Brasil",
+      "sigla": "CEENERG",
+      "cargo": "Titular",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, que \"regula os serviços de transporte remunerado privado individual de passageiros e de coleta e entrega de bens prestados pelas empresas operadoras de plataforma digital\"",
+      "sigla": "PLP15225",
+      "cargo": "Suplente",
+      "desde": "2025-08-29T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-02-09T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/143632/votacoes-nominais-plenario/2026"
+}

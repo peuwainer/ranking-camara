@@ -1,0 +1,54 @@
+{
+  "id": 160640,
+  "nome": "Eros Biondini",
+  "partido": "PL",
+  "uf": "MG",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160640.jpg",
+  "score": 30.74,
+  "rank": 246,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-10T15:04",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. EROS BIONDINI (PL - MG. Sem revisão do orador.) - Sr. Presidente, enquanto nós acompanhamos diariamente, estarrecidos, mais novidades sobre os escândalos do Banco Master, sobre os bilhões desvia"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Representação Brasileira no Parlamento do Mercosul",
+      "sigla": "MERCOSUL",
+      "cargo": "Suplente",
+      "desde": "2023-08-23T00:00"
+    },
+    {
+      "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",
+      "sigla": "CEDIRDIG",
+      "cargo": "Suplente",
+      "desde": "2025-02-06T00:00"
+    },
+    {
+      "nome": "Comissão de Ciência, Tecnologia e Inovação",
+      "sigla": "CCTI",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/160640/votacoes-nominais-plenario/2026"
+}

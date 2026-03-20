@@ -1,0 +1,26 @@
+{
+  "id": 204550,
+  "nome": "Júnior Mano",
+  "partido": "PSB",
+  "uf": "CE",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204550.jpg",
+  "score": 5.66,
+  "rank": 510,
+  "proposicoes": [],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Titular",
+      "desde": "2026-02-05T00:00"
+    },
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Suplente",
+      "desde": "2026-03-18T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204550/votacoes-nominais-plenario/2026"
+}

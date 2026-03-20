@@ -1,0 +1,69 @@
+{
+  "id": 178943,
+  "nome": "Marcos Soares",
+  "partido": "UNIÃO",
+  "uf": "RJ",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178943.jpg",
+  "score": 14.2,
+  "rank": 491,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2605132,
+      "tipo": "PL",
+      "numero": 800,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito de instalação de estação de recarga individual para veículos elétricos e híbridos plug-in em condomínios edilícios e dá outras providências.",
+      "data": "2026-02-26T17:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605132"
+    },
+    {
+      "id": 2605133,
+      "tipo": "PL",
+      "numero": 801,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503/1997 (Código de Trânsito Brasileiro) para disciplinar a permanência em vagas públicas destinadas à recarga de veículos elétricos e híbridos plug-in e tipificar infração por ocupação indevida.",
+      "data": "2026-02-26T17:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605133"
+    },
+    {
+      "id": 2605134,
+      "tipo": "PL",
+      "numero": 802,
+      "ano": 2026,
+      "ementa": "Estabelece normas para a padronização da nomenclatura dos veículos de comunicação e dá outras providências.",
+      "data": "2026-02-26T17:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605134"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",
+      "sigla": "PEC00523",
+      "cargo": "Titular",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão de Comunicação",
+      "sigla": "CCOM",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa do Consumidor",
+      "sigla": "CDC",
+      "cargo": "Titular",
+      "desde": "2026-02-04T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/178943/votacoes-nominais-plenario/2026"
+}

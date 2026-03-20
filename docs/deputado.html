@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Deputado — Ranking Câmara</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <div>
+        <h1><a href="index.html" style="color: inherit;">Ranking dos Deputados Federais</a></h1>
+        <p class="subtitle">Detalhes de produtividade legislativa</p>
+      </div>
+      <a href="index.html" class="voltar-ranking">Voltar ao ranking</a>
+    </div>
+  </header>
+
+  <main>
+    <div id="loading" class="loading">Carregando dados do deputado...</div>
+    <div id="erro" class="sem-resultados" style="display:none;"></div>
+
+    <div id="conteudo" style="display:none;">
+
+      <section class="perfil-header">
+        <img id="perfil-foto" class="perfil-foto" src="placeholder.svg" alt="" />
+        <div class="perfil-info">
+          <h2 id="perfil-nome"></h2>
+          <p class="perfil-partido-uf">
+            <span class="badge-partido" id="perfil-partido"></span>
+            <span id="perfil-uf"></span>
+          </p>
+          <div class="perfil-score-wrapper">
+            <span class="perfil-rank" id="perfil-rank"></span>
+            <div class="score-wrapper" id="perfil-score-wrapper">
+              <span class="score-valor" id="perfil-score"></span>
+              <div class="score-barra-bg">
+                <div class="score-barra" id="perfil-score-barra"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="detalhe-secao">
+        <h3>Proposicoes</h3>
+        <p class="detalhe-contagem" id="contagem-proposicoes"></p>
+        <div class="tabela-wrapper">
+          <table class="tabela-detalhe">
+            <thead>
+              <tr>
+                <th>Tipo</th>
+                <th>Numero</th>
+                <th>Data</th>
+                <th>Ementa</th>
+              </tr>
+            </thead>
+            <tbody id="tbody-proposicoes"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="detalhe-secao">
+        <h3>Discursos</h3>
+        <p class="detalhe-contagem" id="contagem-discursos"></p>
+        <div class="tabela-wrapper">
+          <table class="tabela-detalhe">
+            <thead>
+              <tr>
+                <th>Data</th>
+                <th>Fase</th>
+                <th>Resumo</th>
+              </tr>
+            </thead>
+            <tbody id="tbody-discursos"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="detalhe-secao">
+        <h3>Comissoes e Orgaos</h3>
+        <p class="detalhe-contagem" id="contagem-orgaos"></p>
+        <div class="tabela-wrapper">
+          <table class="tabela-detalhe">
+            <thead>
+              <tr>
+                <th>Orgao</th>
+                <th>Sigla</th>
+                <th>Cargo</th>
+                <th>Desde</th>
+              </tr>
+            </thead>
+            <tbody id="tbody-orgaos"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="detalhe-secao">
+        <h3>Votacoes</h3>
+        <p>
+          Veja as votacoes nominais deste deputado na pagina oficial da Camara:
+        </p>
+        <a id="link-votacoes" class="btn-externo" href="#" target="_blank" rel="noopener">
+          Ver votacoes na Camara dos Deputados
+        </a>
+      </section>
+
+    </div>
+  </main>
+
+  <footer>
+    <p>Dados: <a href="https://dadosabertos.camara.leg.br" target="_blank">dadosabertos.camara.leg.br</a> · <a href="index.html">Voltar ao ranking</a></p>
+  </footer>
+
+  <script src="deputado.js"></script>
+</body>
+</html>

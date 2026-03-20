@@ -1,0 +1,60 @@
+{
+  "id": 66385,
+  "nome": "Julio Arcoverde",
+  "partido": "PP",
+  "uf": "PI",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/66385.jpg",
+  "score": 26.45,
+  "rank": 356,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-03T13:55",
+      "fase": "Encerramento",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO JULIO ARCOVERDE (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, Senhoras e Senhores Deputados, Venho a esta tribuna com indignação, com responsabilida"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
+      "sigla": "BANEGRA",
+      "cargo": "Titular",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados",
+      "sigla": "COETICA",
+      "cargo": "Titular",
+      "desde": "2026-02-05T00:00"
+    },
+    {
+      "nome": "Comissão de Turismo",
+      "sigla": "CTUR",
+      "cargo": "Suplente",
+      "desde": "2026-02-05T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "2º Vice-Presidente",
+      "desde": "2026-03-17T00:00"
+    },
+    {
+      "nome": "Comissão de Desenvolvimento Urbano",
+      "sigla": "CDU",
+      "cargo": "Suplente",
+      "desde": "2026-03-19T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/66385/votacoes-nominais-plenario/2026"
+}

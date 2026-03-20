@@ -1,0 +1,42 @@
+{
+  "id": 74159,
+  "nome": "Odair Cunha",
+  "partido": "PT",
+  "uf": "MG",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74159.jpg",
+  "score": 29.7,
+  "rank": 270,
+  "proposicoes": [
+    {
+      "id": 2608574,
+      "tipo": "PL",
+      "numero": 1138,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Programas e Grupos Reflexivos sobre Masculinidades, Prevenção da Violência e Cultura de Paz, estabelece seus princípios, objetivos e diretrizes, e dá outras providências",
+      "data": "2026-03-12T12:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608574"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Externa, sem ônus para a Câmara dos Deputados, destinada a acompanhar os impactos sociais, ambientais e econômicos na região do Município de Conceição do Pará, no estado de Minas Gerais, em função de um deslizamento de pilha de rejeitos de minério da mineradora Jaguar Mining",
+      "sigla": "CEXMINAS",
+      "cargo": "Titular",
+      "desde": "2024-12-20T00:00"
+    },
+    {
+      "nome": "Representação Brasileira no Parlamento do Mercosul",
+      "sigla": "MERCOSUL",
+      "cargo": "Suplente",
+      "desde": "2025-08-05T00:00"
+    },
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/74159/votacoes-nominais-plenario/2026"
+}

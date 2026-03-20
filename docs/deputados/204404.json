@@ -1,0 +1,80 @@
+{
+  "id": 204404,
+  "nome": "Lucas Redecker",
+  "partido": "PSDB",
+  "uf": "RS",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204404.jpg",
+  "score": 34.45,
+  "rank": 159,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2606611,
+      "tipo": "PL",
+      "numero": 915,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para disciplinar a infração por inadimplemento em sistemas de pedágio eletrônico sem barreira física e estabelecer notificação prévia obrigatória.",
+      "data": "2026-03-04T10:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606611"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-18T14:36",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. LUCAS REDECKER (Bloco/PSDB - RS. Sem revisão do orador.) - Presidente, quero saudar V.Exa. e trazer aqui novamente uma preocupação que eu trouxe duas semanas atrás. Se nós, Parlamentares, que ex"
+    },
+    {
+      "data": "2026-03-04T16:04",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. LUCAS REDECKER (Bloco/PSDB - RS. Sem revisão do orador.) - Presidente, muito me preocupa o que vem acontecendo no Brasil em relação ao Banco Master. Hoje mesmo, Daniel Vorcaro, preso, com falas "
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Comissão Externa destinada a apurar e acompanhar os danos causados pelas enchentes de 2023 e 2024, que atingiram o estado do Rio Grande do Sul",
+      "sigla": "CEXCIRS",
+      "cargo": "Titular",
+      "desde": "2023-11-28T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a estudar e analisar formas de prevenção e auxílio a desastres e calamidades naturais que vêm assolando o Território Nacional",
+      "sigla": "CEDESNAT",
+      "cargo": "Titular",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 231, de 2019, que altera o art. 159 da Constituição Federal para disciplinar a distribuição de recursos pela União ao Fundo de Participação dos Municípios",
+      "sigla": "PEC23119",
+      "cargo": "Suplente",
+      "desde": "2025-11-03T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-02-09T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204404/votacoes-nominais-plenario/2026"
+}

@@ -1,0 +1,66 @@
+{
+  "id": 220597,
+  "nome": "Thiago Flores",
+  "partido": "REPUBLICANOS",
+  "uf": "RO",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220597.jpg",
+  "score": 25.05,
+  "rank": 385,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2604229,
+      "tipo": "PL",
+      "numero": 713,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes para a organização da linha de cuidado às pessoas com doenças neurológicas no âmbito do Sistema Único de Saúde (SUS) e dá outras providências.",
+      "data": "2026-02-24T16:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604229"
+    },
+    {
+      "id": 2604829,
+      "tipo": "PL",
+      "numero": 772,
+      "ano": 2026,
+      "ementa": "Institui e pormenoriza diretrizes para o fortalecimento da segurança escolar preventiva, determina a instituição de base de dados correlata, altera a Lei nº 13.756, de 12 de dezembro de 2018, e dá outras providências.",
+      "data": "2026-02-25T17:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604829"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Grupo de Trabalho de Consolidação das Leis",
+      "sigla": "GTCL",
+      "cargo": "Titular",
+      "desde": "2025-04-30T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Suplente",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Desenvolvimento Urbano",
+      "sigla": "CDU",
+      "cargo": "Suplente",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos das Pessoas com Deficiência",
+      "sigla": "CPD",
+      "cargo": "Suplente",
+      "desde": "2026-03-06T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220597/votacoes-nominais-plenario/2026"
+}

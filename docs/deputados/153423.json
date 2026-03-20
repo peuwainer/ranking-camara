@@ -1,0 +1,81 @@
+{
+  "id": 153423,
+  "nome": "Renilce Nicodemos",
+  "partido": "MDB",
+  "uf": "PA",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
+  "score": 23.39,
+  "rank": 420,
+  "proposicoes": [
+    {
+      "id": 2605102,
+      "tipo": "PL",
+      "numero": 798,
+      "ano": 2026,
+      "ementa": "Cria a Rota Turística Santarém–Alter do Chão e Região do Tapajós, no Estado do Pará, com a finalidade de promover o turismo sustentável, a valorização do patrimônio natural e cultural e o desenvolvimento econômico regional.",
+      "data": "2026-02-26T15:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605102"
+    },
+    {
+      "id": 2606313,
+      "tipo": "PLP",
+      "numero": 41,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o Sistema Nacional de Enfrentamento da Violência contra Meninas e Mulheres e a destinação de recursos às ações de enfrentamento ao feminicídio e de garantia da vida de meninas e mulheres.",
+      "data": "2026-03-03T17:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606313"
+    },
+    {
+      "id": 2607231,
+      "tipo": "PL",
+      "numero": 978,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Promoção da Saúde Visual na Infância e Adolescência, altera a Lei nº 8.069, de 13 de julho de 1990, e a Lei nº 8.080, de 19 de setembro de 1990.",
+      "data": "2026-03-05T17:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607231"
+    },
+    {
+      "id": 2607232,
+      "tipo": "PL",
+      "numero": 979,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Atenção Integral à Pessoa com Diabetes Mellitus Tipo 1; altera a Lei nº 8.080/1990 e a Lei nº 13.895/2019; e dá outras providências.",
+      "data": "2026-03-05T17:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607232"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Secretaria da Mulher",
+      "sigla": "SEMULHER",
+      "cargo": "Titular",
+      "desde": "2023-05-04T00:00"
+    },
+    {
+      "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
+      "sigla": "BANEGRA",
+      "cargo": "Titular",
+      "desde": "2023-11-02T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a acompanhar as ações de prevenção e combate ao câncer, ao acidente vascular cerebral (AVC) e às doenças do coração.",
+      "sigla": "CECANCER",
+      "cargo": "Titular",
+      "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",
+      "sigla": "CINDRE",
+      "cargo": "Suplente",
+      "desde": "2026-02-05T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-02-09T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/153423/votacoes-nominais-plenario/2026"
+}

@@ -1,0 +1,63 @@
+{
+  "id": 179000,
+  "nome": "Marcelo Álvaro Antônio",
+  "partido": "PL",
+  "uf": "MG",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/179000.jpg",
+  "score": 28.5,
+  "rank": 299,
+  "proposicoes": [
+    {
+      "id": 2603959,
+      "tipo": "PL",
+      "numero": 669,
+      "ano": 2026,
+      "ementa": "Altera o Código Penal Brasileiro para estabelecer a inaplicabilidade de causas de exclusão ou redução de culpabilidade quando o crime for praticado contra menor de 14 (quatorze) anos, assegurando a proteção integral da criança.",
+      "data": "2026-02-24T10:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603959"
+    },
+    {
+      "id": 2603961,
+      "tipo": "PL",
+      "numero": 670,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a vedação da aplicação do instituto do distinguishing em crimes contra a dignidade sexual praticados contra menores de 14 (quatorze) anos e reforça a natureza absoluta da vulnerabilidade prevista no Código Penal.",
+      "data": "2026-02-24T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603961"
+    },
+    {
+      "id": 2603962,
+      "tipo": "PL",
+      "numero": 671,
+      "ano": 2026,
+      "ementa": "Reforça a natureza absoluta da vulnerabilidade da pessoa menor de 14 (quatorze) anos nos crimes contra a dignidade sexual, veda a aplicação do instituto do distinguishing e estabelece a inaplicabilidade de causas de exclusão ou redução de culpabilidade nesses casos, alterando o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal).",
+      "data": "2026-02-24T10:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603962"
+    },
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Turismo",
+      "sigla": "CTUR",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Desenvolvimento Urbano",
+      "sigla": "CDU",
+      "cargo": "Titular",
+      "desde": "2026-02-11T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/179000/votacoes-nominais-plenario/2026"
+}

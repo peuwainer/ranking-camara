@@ -1,0 +1,51 @@
+{
+  "id": 74646,
+  "nome": "Aécio Neves",
+  "partido": "PSDB",
+  "uf": "MG",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74646.jpg",
+  "score": 14.23,
+  "rank": 490,
+  "proposicoes": [
+    {
+      "id": 2605055,
+      "tipo": "PL",
+      "numero": 793,
+      "ano": 2026,
+      "ementa": "Estabelece medida excepcional de proteção social a ser adotada no contexto do estado de calamidade pública reconhecido na Zona da Mata do Estado de Minas Gerais em decorrência dos graves eventos climáticos que atingiram a região.",
+      "data": "2026-02-26T12:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605055"
+    },
+    {
+      "id": 2605057,
+      "tipo": "PL",
+      "numero": 794,
+      "ano": 2026,
+      "ementa": "Estabelece medidas excepcionais destinadas às pessoas jurídicas instaladas em cidades da Zona da Mata do Estado de Minas Gerais afetadas pela catástrofe ambiental que assolou a região.",
+      "data": "2026-02-26T12:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605057"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-05T13:04",
+      "fase": "Ordem do Dia",
+      "resumo": "O SR. AÉCIO NEVES (Bloco/PSDB - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Parlamentares, nós iniciaremos a sessão de hoje aprovando um projeto de imensa repercussão para i"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Suplente",
+      "desde": "2026-03-18T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/74646/votacoes-nominais-plenario/2026"
+}

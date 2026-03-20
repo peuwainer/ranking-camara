@@ -1,0 +1,56 @@
+{
+  "id": 220685,
+  "nome": "Paulo Litro",
+  "partido": "PSD",
+  "uf": "PR",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220685.jpg",
+  "score": 26.59,
+  "rank": 354,
+  "proposicoes": [],
+  "discursos": [
+    {
+      "data": "2026-02-24T19:00",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. PAULO LITRO (Bloco/PSD - PR. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente Charles. Quero apenas registrar a presença do Prefeito Volmar e do Vice-Prefeito Nilmar, de Salgado Filho;"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Representação Brasileira no Parlamento do Mercosul",
+      "sigla": "MERCOSUL",
+      "cargo": "Titular",
+      "desde": "2023-08-23T00:00"
+    },
+    {
+      "nome": "Comissão Externa destinada a verificar a situação dos municípios que perderam recursos financeiros do FPM, depois dos cálculos feitos pelo TCU, com base no Censo inacabado do IBGE",
+      "sigla": "CEXFPM",
+      "cargo": "Titular",
+      "desde": "2023-08-31T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1087, de 2025, do Poder Executivo, que \"altera a legislação do imposto sobre a renda para instituir a redução do imposto devido nas bases de cálculo mensal e anual e a tributação mínima para as pessoas físicas que auferem altas rendas, e dá outras providências\"",
+      "sigla": "PL108725",
+      "cargo": "Titular",
+      "desde": "2025-04-29T00:00"
+    },
+    {
+      "nome": "Comissão de Turismo",
+      "sigla": "CTUR",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Comunicação",
+      "sigla": "CCOM",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220685/votacoes-nominais-plenario/2026"
+}

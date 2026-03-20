@@ -1,0 +1,81 @@
+{
+  "id": 218086,
+  "nome": "Ely Santos",
+  "partido": "REPUBLICANOS",
+  "uf": "SP",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/218086.jpg",
+  "score": 34.11,
+  "rank": 165,
+  "proposicoes": [
+    {
+      "id": 2604159,
+      "tipo": "PL",
+      "numero": 708,
+      "ano": 2026,
+      "ementa": "Institui o Protocolo Nacional de Consulta Ginecológica Unificada e Prevenção Integral à Saúde da Mulher no âmbito do Sistema Único de Saúde – SUS, cria o Cadastro Nacional de Prevenção à Saúde da Mulher, estabelecendo deveres da União, dos Estados, do Distrito Federal e dos Municípios, e dá outras providências",
+      "data": "2026-02-24T15:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604159"
+    },
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2606313,
+      "tipo": "PLP",
+      "numero": 41,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o Sistema Nacional de Enfrentamento da Violência contra Meninas e Mulheres e a destinação de recursos às ações de enfrentamento ao feminicídio e de garantia da vida de meninas e mulheres.",
+      "data": "2026-03-03T17:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606313"
+    },
+    {
+      "id": 2607448,
+      "tipo": "PL",
+      "numero": 1011,
+      "ano": 2026,
+      "ementa": "Institui a Lei Trajeto Seguro, que estabelece mecanismos obrigatórios de segurança preventiva em aplicativos de transporte individual de passageiros e cria protocolos tecnológicos de proteção a usuárias, especialmente mulheres, durante corridas intermediadas por plataformas digitais.",
+      "data": "2026-03-06T17:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607448"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Secretaria da Mulher",
+      "sigla": "SEMULHER",
+      "cargo": "Titular",
+      "desde": "2023-07-05T00:00"
+    },
+    {
+      "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
+      "sigla": "BANEGRA",
+      "cargo": "Titular",
+      "desde": "2023-11-02T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
+      "sigla": "CIDOSO",
+      "cargo": "Titular",
+      "desde": "2026-02-10T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Mulher",
+      "sigla": "CMULHER",
+      "cargo": "Titular",
+      "desde": "2026-03-10T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/218086/votacoes-nominais-plenario/2026"
+}

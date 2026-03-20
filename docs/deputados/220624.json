@@ -1,0 +1,32 @@
+{
+  "id": 220624,
+  "nome": "Robinson Faria",
+  "partido": "PP",
+  "uf": "RN",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220624.jpg",
+  "score": 27.75,
+  "rank": 312,
+  "proposicoes": [],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 18, de 2025, do Poder Executivo, que \"altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública\"",
+      "sigla": "PEC01825",
+      "cargo": "Suplente",
+      "desde": "2025-09-03T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 72, de 2023, do Senado Federal, que altera o art. 155 da Constituição Federal para conceder imunidade do Imposto sobre a Propriedade de Veículos Automotores (IPVA) aos veículos que especifica.",
+      "sigla": "PEC07223",
+      "cargo": "Titular",
+      "desde": "2025-10-20T00:00"
+    },
+    {
+      "nome": "Comissão de Turismo",
+      "sigla": "CTUR",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220624/votacoes-nominais-plenario/2026"
+}

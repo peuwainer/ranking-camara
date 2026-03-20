@@ -1,0 +1,48 @@
+{
+  "id": 204531,
+  "nome": "Guilherme Derrite",
+  "partido": "PP",
+  "uf": "SP",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204531.jpg",
+  "score": 17.22,
+  "rank": 478,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-02-24T21:28",
+      "fase": "Ordem do Dia",
+      "resumo": "O SR. GUILHERME DERRITE (Bloco/PP - SP. Para proferir parecer. Sem revisão do orador.) - Obrigado, Presidente. Boa noite a todos os Srs. Deputados. Peço permissão para ir direto ao voto. \"II - Voto do"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Comissão Externa destinada a discutir os atos de pirataria e a agenda do chamado “Brasil Legal”",
+      "sigla": "CEXBRLEG",
+      "cargo": "Titular",
+      "desde": "2026-02-27T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204531/votacoes-nominais-plenario/2026"
+}

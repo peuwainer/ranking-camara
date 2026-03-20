@@ -1,0 +1,60 @@
+{
+  "id": 160561,
+  "nome": "Missionário José Olimpio",
+  "partido": "PL",
+  "uf": "SP",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160561.jpg",
+  "score": 30.47,
+  "rank": 252,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2604947,
+      "tipo": "PL",
+      "numero": 784,
+      "ano": 2026,
+      "ementa": "Fortalece a proteção previdenciária dos vigilantes e demais trabalhadores expostos a risco permanente, assegurando maior rigor na comprovação da periculosidade no Perfil Profissiográfico Previdenciário (PPP).",
+      "data": "2026-02-25T19:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604947"
+    },
+    {
+      "id": 2607684,
+      "tipo": "PL",
+      "numero": 1064,
+      "ano": 2026,
+      "ementa": "Institui programa nacional de reconhecimento à doação de órgãos no âmbito do Sistema Único de Saúde – SUS e cria mecanismo de ressarcimento de despesas funerárias às famílias de doadores de órgãos e tecidos humanos para transplante, alterando a Lei nº 9.434, de 4 de fevereiro de 1997.",
+      "data": "2026-03-10T13:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607684"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-02-24T17:08",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. MISSIONÁRIO JOSÉ OLIMPIO (PL - SP. Pela ordem. Sem revisão do orador.) - Obrigado, meu Presidente, Sras. e Srs. Deputados. Eu quero aqui, neste momento, Sr. Presidente, apresentar nosso Vereador"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",
+      "sigla": "CINDRE",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Previdência, Assistência Social, Infância, Adolescência e Família",
+      "sigla": "CPASF",
+      "cargo": "Titular",
+      "desde": "2026-02-04T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/160561/votacoes-nominais-plenario/2026"
+}

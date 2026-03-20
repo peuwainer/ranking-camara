@@ -190,8 +190,8 @@ TIPOS_PROPOSICAO_RELEVANTES = {
 }
 
 
-def coletar_proposicoes(deputado_id: int, data_inicio: str) -> int:
-    """Conta proposições relevantes apresentadas pelo deputado desde data_inicio.
+def coletar_proposicoes(deputado_id: int, data_inicio: str) -> tuple[int, list[dict]]:
+    """Conta proposições relevantes e retorna detalhes.
 
     Exclui pareceres (PRL, PAR, PPP, PRV, etc.) e declarações de voto,
     que refletem cargo de relator e não iniciativa legislativa própria.
@@ -200,17 +200,37 @@ def coletar_proposicoes(deputado_id: int, data_inicio: str) -> int:
         "idDeputadoAutor": deputado_id,
         "dataApresentacaoInicio": data_inicio,
     })
-    return sum(1 for p in dados if p.get("siglaTipo") in TIPOS_PROPOSICAO_RELEVANTES)
+    relevantes = [p for p in dados if p.get("siglaTipo") in TIPOS_PROPOSICAO_RELEVANTES]
+    detalhes = [
+        {
+            "id": p.get("id"),
+            "siglaTipo": p.get("siglaTipo", ""),
+            "numero": p.get("numero"),
+            "ano": p.get("ano"),
+            "ementa": p.get("ementa", ""),
+            "dataApresentacao": p.get("dataApresentacao", ""),
+        }
+        for p in relevantes
+    ]
+    return len(relevantes), detalhes
 
 
 
-def coletar_discursos(deputado_id: int, data_inicio: str) -> int:
-    """Conta discursos no plenário."""
+def coletar_discursos(deputado_id: int, data_inicio: str) -> tuple[int, list[dict]]:
+    """Conta discursos no plenário e retorna detalhes."""
     dados = get(f"/deputados/{deputado_id}/discursos", {
         "dataInicio": data_inicio,
         "ordenarPor": "dataHoraInicio",
     })
-    return len(dados)
+    detalhes = [
+        {
+            "dataHoraInicio": d.get("dataHoraInicio", ""),
+            "faseEvento": (d.get("faseEvento") or {}).get("titulo", ""),
+            "resumo": (d.get("transcricao") or "")[:200],
+        }
+        for d in dados
+    ]
+    return len(dados), detalhes
 
 
 def coletar_presencas_votacoes(data_inicio: str) -> tuple[int, dict[int, int]]:
@@ -267,8 +287,8 @@ def coletar_presencas_votacoes(data_inicio: str) -> tuple[int, dict[int, int]]:
     return total_votacoes, presencas
 
 
-def coletar_orgaos(deputado_id: int) -> int:
-    """Conta comissões em que o deputado participa atualmente."""
+def coletar_orgaos(deputado_id: int) -> tuple[int, list[dict]]:
+    """Conta comissões e retorna detalhes dos órgãos ativos."""
     dados = get(f"/deputados/{deputado_id}/orgaos")
     # filtra apenas comissões ativas (sem dataFim ou dataFim futura)
     hoje = datetime.today().date()
@@ -278,7 +298,17 @@ def coletar_orgaos(deputado_id: int) -> int:
     ]
     # deduplica por nome do órgão (mesmo órgão pode aparecer com cargos diferentes)
     nomes_unicos = {o.get("nomeOrgao") for o in ativos}
-    return len(nomes_unicos)
+    detalhes = [
+        {
+            "nomeOrgao": o.get("nomeOrgao", ""),
+            "siglaOrgao": o.get("siglaOrgao", ""),
+            "titulo": o.get("titulo", ""),
+            "dataInicio": o.get("dataInicio", ""),
+            "dataFim": o.get("dataFim", ""),
+        }
+        for o in ativos
+    ]
+    return len(nomes_unicos), detalhes
 
 
 
@@ -298,6 +328,7 @@ def main() -> None:
     total_votacoes, presencas_por_deputado = coletar_presencas_votacoes(data_inicio)
 
     resultados = []
+    detalhes_todos: dict[int, dict] = {}
     progresso_inicio(len(deputados_ativos))
 
     for i, dep in enumerate(deputados_ativos, 1):
@@ -315,13 +346,13 @@ def main() -> None:
             continue
 
         progresso(i, nome_curto, "proposições... ")
-        proposicoes = coletar_proposicoes(dep_id, data_inicio)
+        proposicoes, props_detalhes = coletar_proposicoes(dep_id, data_inicio)
 
         progresso(i, nome_curto, "discursos...   ")
-        discursos = coletar_discursos(dep_id, data_inicio)
+        discursos, disc_detalhes = coletar_discursos(dep_id, data_inicio)
 
         progresso(i, nome_curto, "comissões...   ")
-        orgaos = coletar_orgaos(dep_id)
+        orgaos, orgaos_detalhes = coletar_orgaos(dep_id)
 
         presencas = presencas_por_deputado.get(dep_id, 0)
         presenca_pct = round(presencas / total_votacoes * 100, 1) if total_votacoes > 0 else 0.0
@@ -337,14 +368,27 @@ def main() -> None:
             "data_coleta": data_inicio,
         })
 
+        detalhes_todos[dep_id] = {
+            "proposicoes": props_detalhes,
+            "discursos": disc_detalhes,
+            "orgaos": orgaos_detalhes,
+        }
+
     progresso_fim()
 
-    # Salva dados brutos
-    saida = RAW_DIR / f"deputados_{datetime.today().strftime('%Y-%m-%d')}.json"
+    hoje = datetime.today().strftime('%Y-%m-%d')
+
+    # Salva dados brutos (contagens — compatível com scoring)
+    saida = RAW_DIR / f"deputados_{hoje}.json"
     with open(saida, "w", encoding="utf-8") as f:
         json.dump(resultados, f, ensure_ascii=False, indent=2)
-
     log.info("Dados brutos salvos em %s (%d deputados)", saida, len(resultados))
+
+    # Salva detalhes (proposições, discursos, órgãos por deputado)
+    saida_detalhes = RAW_DIR / f"deputados_detalhes_{hoje}.json"
+    with open(saida_detalhes, "w", encoding="utf-8") as f:
+        json.dump(detalhes_todos, f, ensure_ascii=False, indent=2)
+    log.info("Detalhes salvos em %s (%d deputados)", saida_detalhes, len(detalhes_todos))
 
 
 if __name__ == "__main__":

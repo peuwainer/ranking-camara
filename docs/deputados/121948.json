@@ -1,0 +1,48 @@
+{
+  "id": 121948,
+  "nome": "Adriano do Baldy",
+  "partido": "PP",
+  "uf": "GO",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
+  "score": 25.09,
+  "rank": 384,
+  "proposicoes": [
+    {
+      "id": 2610267,
+      "tipo": "PL",
+      "numero": 1252,
+      "ano": 2026,
+      "ementa": "Institui, no âmbito da União, o Dia Nacional do Povo Cigano, inscreve essa efeméride no calendário oficial da República Federativa do Brasil e dá outras providências.",
+      "data": "2026-03-18T14:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610267"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-03-18T15:12",
+      "fase": "Breves Comunicações",
+      "resumo": "O SR. ADRIANO DO BALDY (Bloco/PP - GO. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, quero destacar a importância do Projeto de Lei nº 4.673, de 2024, de minha autoria,"
+    }
+  ],
+  "orgaos": [
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Desenvolvimento Urbano",
+      "sigla": "CDU",
+      "cargo": "Titular",
+      "desde": "2026-02-04T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/121948/votacoes-nominais-plenario/2026"
+}

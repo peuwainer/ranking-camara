@@ -1,0 +1,84 @@
+{
+  "id": 220547,
+  "nome": "Marcos Pollon",
+  "partido": "PL",
+  "uf": "MS",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220547.jpg",
+  "score": 30.41,
+  "rank": 254,
+  "proposicoes": [
+    {
+      "id": 2603167,
+      "tipo": "PL",
+      "numero": 580,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.826, de 22 de dezembro de 2003 para autorizar os atiradores desportivos, caçadores e colecionadores a manter as armas de fogo dos seus respectivos acervos em condições de pronto emprego dentro dos locais de guarda registrados.",
+      "data": "2026-02-18T18:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603167"
+    },
+    {
+      "id": 2603430,
+      "tipo": "PL",
+      "numero": 592,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional Meu Primeiro Carro e dá outras providências.",
+      "data": "2026-02-19T19:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603430"
+    },
+    {
+      "id": 2603431,
+      "tipo": "PL",
+      "numero": 593,
+      "ano": 2026,
+      "ementa": "Institui o Programa Minha Primeira Moto, destinado a promover o acesso subsidiado e responsável à primeira motocicleta por cidadãos brasileiros de baixa renda, e dá outras providências.",
+      "data": "2026-02-19T19:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603431"
+    },
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2605512,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Regulamenta a profissão de instrutor de armamento e tiro.",
+      "data": "2026-03-02T14:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605512"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3080, de 2020, do Senhor Alexandre Frota, que \"Institui a política pública nacional para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autismo, e dá outras providências\", e apensados",
+      "sigla": "PL308020",
+      "cargo": "Titular",
+      "desde": "2025-10-20T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos das Pessoas com Deficiência",
+      "sigla": "CPD",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-02-09T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/220547/votacoes-nominais-plenario/2026"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 204368,
+  "nome": "Fabio Schiochet",
+  "partido": "UNIÃO",
+  "uf": "SC",
+  "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204368.jpg",
+  "score": 30.84,
+  "rank": 245,
+  "proposicoes": [
+    {
+      "id": 2604173,
+      "tipo": "PEC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
+      "data": "2026-02-24T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
+    },
+    {
+      "id": 2604513,
+      "tipo": "PL",
+      "numero": 739,
+      "ano": 2026,
+      "ementa": "Altera o art. 306 da Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para permitir a lavratura de Termo Circunstanciado de Ocorrência nos casos de embriaguez ao volante sem sinistro de trânsito.",
+      "data": "2026-02-25T09:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604513"
+    },
+    {
+      "id": 2607759,
+      "tipo": "PL",
+      "numero": 1077,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.906, de 4 de julho de 1994, para estabelecer impedimentos ao exercício da advocacia por cônjuges, companheiros, parentes e sócios de magistrados e Ministros de Cortes Superiores, fixando penalidades e dispondo sobre normas de transição.",
+      "data": "2026-03-10T16:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607759"
+    }
+  ],
+  "discursos": [],
+  "orgaos": [
+    {
+      "nome": "Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados",
+      "sigla": "COETICA",
+      "cargo": "Presidente",
+      "desde": "2025-07-01T00:00"
+    }
+  ],
+  "url_votacoes": "https://www.camara.leg.br/deputados/204368/votacoes-nominais-plenario/2026"
+}
