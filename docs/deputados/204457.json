@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204457.jpg",
-  "score": 27.06,
-  "rank": 338,
-  "proposicoes": [],
+  "score": 28.31,
+  "rank": 305,
+  "proposicoes": [
+    {
+      "id": 2611065,
+      "tipo": "PL",
+      "numero": 1311,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a produção, circulação e comercialização do vinho e derivados da uva e do vinho, define o vinho como alimento natural e dá outras providências.",
+      "data": "2026-03-20T13:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611065"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
