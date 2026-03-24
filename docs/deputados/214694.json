@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/214694.jpg",
-  "score": 31.47,
-  "rank": 227,
+  "score": 31.83,
+  "rank": 226,
   "proposicoes": [
     {
       "id": 2604015,
@@ -35,7 +35,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607680"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-03-17T19:04",
+      "fase": "Ordem do Dia",
+      "tipo": "ENCAMINHAMENTO DE VOTAÇÃO",
+      "resumo": "O SR. JORGE GOETTEN (Bloco/REPUBLICANOS - SC. Sem revisão do orador.) - Obrigado, Presidente. Eu quero fazer um agradecimento especial, Presidente, a V.Exa. e a todos os Líderes partidários também, qu",
+      "transcricao": "O SR. JORGE GOETTEN (Bloco/REPUBLICANOS - SC. Sem revisão do orador.) - Obrigado, Presidente. Eu quero fazer um agradecimento especial, Presidente, a V.Exa. e a todos os Líderes partidários também, que tiveram essa sensibilidade para pautar hoje o requerimento de regime de urgência para a tramitação deste projeto, que é tão importante, Deputado Edinho, para esse setor que movimenta a economia não só do nosso Estado de Santa Catarina, mas de todo o Brasil. Desde 2018, Presidente, nós não atualizamos o limite do MEI, que tanto contribui para o País. É preciso atualizá-lo. Temos números aqui. Mais de 20 milhões de pessoas serão beneficiadas. Se nós acrescentarmos a possibilidade de o MEI contratar mais um funcionário, nós estaremos falando de mais de 30 milhões de pessoas beneficiadas com a aprovação deste projeto de lei. Então, desde já fica o nosso agradecimento. Nós precisamos também avançar, sim, na atualização do limite da micro e da pequena empresa. Sabemos que, desde 2018, não o atualizamos mais. Está defasado, com toda a inflação. Nós dizemos que esse setor é o que mais emprega. Ele responde por mais de 90% dos CNPJs do País. Então, essa é uma questão de justiça. Eu aproveito o momento para pedir desculpa ao setor do MEI, da micro e da pequena empresa, que há tanto tempo anseia por essa atualização. Agora nós temos a oportunidade, Srs. Parlamentares e Sras. Parlamentares, de fazer justiça, de entregar ao MEI, à micro e à pequena empresa a atualização do limite, com muita responsabilidade fiscal, que temos que ter. Não tenho dúvida nenhuma de que, ao atualizarmos, isso vai movimentar a economia, vai ajudar consideravelmente a nossa economia, o emprego e a renda das pessoas. O meu muito obrigado a todos. É uma etapa, temos muito o que construir ainda. Com muito diálogo, com muita conversa, não tenho dúvida nenhuma de que nós vamos construir um texto, um relatório de comum acordo para a sociedade, para o segmento, e também que atenda a responsabilidade fiscal que devemos ter para com o País. Obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Turismo",

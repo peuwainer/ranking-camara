@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/80815.jpg",
-  "score": 26.67,
-  "rank": 349,
+  "score": 27.03,
+  "rank": 341,
   "proposicoes": [
     {
       "id": 2604173,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-03-10T18:04",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LEO PRATES (PDT - BA. Pela ordem. Sem revisão do orador.) - Sra. Presidente, em nome da Deputada Flávia Morais, que é a autora deste requerimento, eu queria dar a orientação \"sim\", em defesa das",
+      "transcricao": "O SR. LEO PRATES (PDT - BA. Pela ordem. Sem revisão do orador.) - Sra. Presidente, em nome da Deputada Flávia Morais, que é a autora deste requerimento, eu queria dar a orientação \"sim\", em defesa das doulas, mas, sobretudo, em defesa da vida. Elas são tão importantes, como bem disse aqui a Deputada Lídice da Mata. Então, o PDT orienta \"sim\", em defesa da vida."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a acompanhar e monitorar a conclusão das obras públicas paralisadas e inacabadas no país",

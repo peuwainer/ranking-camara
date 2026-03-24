@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220669.jpg",
-  "score": 28.5,
-  "rank": 292,
+  "score": 32.25,
+  "rank": 213,
   "proposicoes": [
     {
       "id": 2604173,
@@ -78,6 +78,33 @@
       "ementa": "Altera a Lei dos Planos de Saúde para vedar às operadoras de planos privados de assistência à saúde a imposição de limites ao número de sessões ou à carga horária semanal de terapias multidisciplinares prescritas pelo profissional assistente.",
       "data": "2026-03-16T18:43",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609096"
+    },
+    {
+      "id": 2611230,
+      "tipo": "PL",
+      "numero": 1324,
+      "ano": 2026,
+      "ementa": "Altera a Lei Maria da Penha para estabelecer requisito de identificação visual dos dispositivos de monitoração eletrônica utilizados por agressores submetidos a medidas protetivas de urgência.",
+      "data": "2026-03-23T12:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611230"
+    },
+    {
+      "id": 2611231,
+      "tipo": "PL",
+      "numero": 1325,
+      "ano": 2026,
+      "ementa": "Altera a Lei que institui a Política Nacional de Prevenção da Automutilação e do Suicídio, para dispor sobre a adoção de medidas de proteção física em pontes, viadutos e demais obras de arte especiais situadas em rodovias.",
+      "data": "2026-03-23T12:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611231"
+    },
+    {
+      "id": 2611232,
+      "tipo": "PL",
+      "numero": 1326,
+      "ano": 2026,
+      "ementa": "Dispõe sobre padrões mínimos de atendimento especializado às mulheres em situação de violência doméstica e familiar, bem como diretrizes para o funcionamento e a expansão das Delegacias Especializadas de Atendimento à Mulher - DEAM",
+      "data": "2026-03-23T12:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611232"
     }
   ],
   "discursos": [],

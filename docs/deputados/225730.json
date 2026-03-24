@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/225730.jpg",
-  "score": 15.24,
-  "rank": 485,
+  "score": 17.74,
+  "rank": 475,
   "proposicoes": [
     {
       "id": 2604328,
@@ -24,6 +24,24 @@
       "ementa": "",
       "data": "2026-03-17T23:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609892"
+    },
+    {
+      "id": 2611251,
+      "tipo": "PL",
+      "numero": 1330,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.498, de 25 de junho de 1986, para dispor sobre a responsabilidade técnica em serviços de Enfermagem.",
+      "data": "2026-03-23T13:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611251"
+    },
+    {
+      "id": 2611252,
+      "tipo": "PL",
+      "numero": 1331,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.498, de 25 de junho de 1986, para dispor sobre o dimensionamento de profissionais de Enfermagem.",
+      "data": "2026-03-23T13:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611252"
     }
   ],
   "discursos": [],

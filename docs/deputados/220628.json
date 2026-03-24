@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220628.jpg",
-  "score": 31.52,
-  "rank": 225,
+  "score": 33.31,
+  "rank": 186,
   "proposicoes": [
     {
       "id": 2604173,
@@ -35,7 +35,43 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609164"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-03-18T21:52",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MAURICIO DO VÔLEI (PL - MG. Pela ordem. Sem revisão do orador.) - Presidente, a Oposição orienta \"não\". Nós queremos deixar bem claro para a população, que está em casa nos assistindo, que aqui ",
+      "transcricao": "O SR. MAURICIO DO VÔLEI (PL - MG. Pela ordem. Sem revisão do orador.) - Presidente, a Oposição orienta \"não\". Nós queremos deixar bem claro para a população, que está em casa nos assistindo, que aqui nós queremos igualdade. Criminoso tem que pagar, ainda mais por um crime absurdo como esse, que é você matar uma criança para prejudicar aquela pessoa com quem você dividiu a vida. Então, tem que ser igual para o homem e para a mulher, tem que ser a mesma pena. Não existe nenhum tipo de distinção nesse caso absurdo. Eu sou totalmente a favor da pena de morte para quem comete esse tipo de atrocidade contra uma criança. Então, o nosso voto é \"não\", Presidente."
+    },
+    {
+      "data": "2026-03-18T21:32",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MAURICIO DO VÔLEI (PL - MG. Pela ordem. Sem revisão do orador.) - Presidente, só quero falar sobre o nosso Deputado que falou anteriormente. Aqui nós estamos votando o projeto. Nós somos a favor",
+      "transcricao": "O SR. MAURICIO DO VÔLEI (PL - MG. Pela ordem. Sem revisão do orador.) - Presidente, só quero falar sobre o nosso Deputado que falou anteriormente. Aqui nós estamos votando o projeto. Nós somos a favor do projeto, mas nós somos a favor da igualdade entre o homem e a mulher. Não pode haver duas penas diferentes para o homem e para a mulher. Então, nós votamos \"sim\" à emenda."
+    },
+    {
+      "data": "2026-03-03T21:48",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MAURICIO DO VÔLEI (PL - MG. Pela ordem. Sem revisão do orador.) - Presidente, eu gostaria de falar sobre a perenidade da Lei de Incentivo ao Esporte, com o Decreto nº 12.861, de 2026, que regula",
+      "transcricao": "O SR. MAURICIO DO VÔLEI (PL - MG. Pela ordem. Sem revisão do orador.) - Presidente, eu gostaria de falar sobre a perenidade da Lei de Incentivo ao Esporte, com o Decreto nº 12.861, de 2026, que regulamenta a Lei Complementar nº 222, de 2025. Agora nós teremos a segurança do esporte no Brasil. A lei mudou a arrecadação da pessoa jurídica de 2% para 3%, chegando a 4% quando destinada para áreas de risco e pessoas com deficiência. Então, foi um avanço importantíssimo para o nosso País, agora com 7% da pessoa física também. Eu queria dizer que estou muito feliz em poder triplicar, quase quadruplicar o orçamento do nosso esporte no Brasil. Tenho certeza absoluta de que muitas crianças terão grandes oportunidades. Talvez não sejam grandes atletas, mas, sem dúvida alguma, por meio da formação no esporte, serão grandes pessoas. É isso que a gente tem que levar para a formação do cidadão de bem. Muito obrigado, Presidente."
+    },
+    {
+      "data": "2026-03-03T21:28",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MAURICIO DO VÔLEI (PL - MG. Pela ordem. Sem revisão do orador.) - Presidente, primeiramente eu queria repudiar a fala do Deputado que disse que quem é contra este projeto é a favor da tortura. I",
+      "transcricao": "O SR. MAURICIO DO VÔLEI (PL - MG. Pela ordem. Sem revisão do orador.) - Presidente, primeiramente eu queria repudiar a fala do Deputado que disse que quem é contra este projeto é a favor da tortura. Isso não existe. Quando você vê que a Esquerda está votando a favor de um projeto que fala em direitos humanos, você lembra que para eles direitos humanos são direitos de bandido. O que eles realmente gostam de defender é bandido. O PL é contra este projeto. Acreditamos que o brasileiro não merece mais nenhum tipo de gasto. Eles dizem aqui que não vai haver gasto, mas na verdade vai sair dinheiro do bolso do povo brasileiro. O que eles mais gostam é de gastos e impostos, e hoje eles estão trazendo mais um projeto para enviar recursos para o Governo daqueles que eles julgam defender, que são os mais pobres. Então, o PL é contra este projeto, Presidente."
+    },
+    {
+      "data": "2026-03-03T20:32",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MAURICIO DO VÔLEI (PL - MG. Pela ordem. Sem revisão do orador.) - Presidente, vou orientar pelo PL. O Brasil não aguenta mais tantos gastos com cargos, ainda mais em uma instituição que não está",
+      "transcricao": "O SR. MAURICIO DO VÔLEI (PL - MG. Pela ordem. Sem revisão do orador.) - Presidente, vou orientar pelo PL. O Brasil não aguenta mais tantos gastos com cargos, ainda mais em uma instituição que não está fazendo o seu trabalho bem feito, não está retribuindo à sociedade brasileira aquilo para que foi criada. Então, o voto do PL é \"não\"."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 234, de 2024, do Sr. Felipe Carreras, que \"dispõe sobre incentivos e benefícios para fomentar as atividades de caráter desportivo e dá outras providências\"",
