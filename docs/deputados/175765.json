@@ -4,10 +4,18 @@
   "partido": "PSD",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/175765.jpg",
-  "score": 22.01,
-  "rank": 440,
+  "score": 22.61,
+  "rank": 432,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-03-24T19:00",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. RIBAMAR SILVA (Bloco/PSD - SP. Sem revisão do orador.) - Presidente Lula, obrigado pela oportunidade. Quero parabenizar V.Exa. pelos trabalhos na condução desta Casa. V.Exa. fica muito bem nessa",
+      "transcricao": "O SR. RIBAMAR SILVA (Bloco/PSD - SP. Sem revisão do orador.) - Presidente Lula, obrigado pela oportunidade. Quero parabenizar V.Exa. pelos trabalhos na condução desta Casa. V.Exa. fica muito bem nessa cadeira. Quero falar da alegria de receber aqui os ilustres Vereadores de Taquaritinga, uma cidade que vem crescendo, que vem se desenvolvendo. O Vereador Raimundo, o Vereador Marcelo e o Vereador Véio Modesto são Vereadores que vieram a Brasília, vieram ao nosso gabinete, Presidente, para buscar recursos para a cidade. A gente sabe da importância que é termos votações na cidade e depois termos a responsabilidade, Presidente, de enviar recursos para a cidade para ajudar a continuar transformando a cidade. É isso que nós estamos fazendo com essa cidade. Esses Vereadores são atuantes  de primeiro mandato, Presidente, mas já estão aqui em Brasília buscando recursos para ajudar a transformar a vida das pessoas. Esta é a importância que eu sempre menciono, Presidente: a política é uma missão de transformação da vida das pessoas quando a temos por missão. É por isto que esses Vereadores estão aqui: porque têm a política por missão. A gente vai ajudar a cidade através do nosso mandato. Sejam bem-vindos os Vereadores. Esta Casa os recebe de braços abertos. Muito obrigado, Presidente Lula."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, que \"regula os serviços de transporte remunerado privado individual de passageiros e de coleta e entrega de bens prestados pelas empresas operadoras de plataforma digital\"",

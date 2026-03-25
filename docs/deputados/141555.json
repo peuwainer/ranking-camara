@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141555.jpg",
-  "score": 37.48,
-  "rank": 104,
+  "score": 38.95,
+  "rank": 93,
   "proposicoes": [
     {
       "id": 2605654,
@@ -51,9 +51,25 @@
       "ementa": "COMISSÃO DE DEFESA DO CONSUMIDOR\n\nPROJETO DE LEI Nº 6.373, DE 2025\n\nCria o Cadastro Nacional de Empresas Reincidentes em Reclamações de Consumo (CNERC) e determina a divulgação pública das empresas com maior índice de reclamações não resolvidas, e dá outras providências.\n\nEMENDA MODIFICATIVA",
       "data": "2026-03-18T19:09",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611062"
+    },
+    {
+      "id": 2611589,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "COMISSÃO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO\n\nPROJETO DE LEI Nº 303, DE 2026.\n\nDispõe sobre a instituição do Cadastro Nacional de Celulares (CNC), do Cadastro Nacional de Celulares com Restrição (CNCR) e a formalização do Programa Celular Seguro, visando o combate ao furto, roubo e receptação de dispositivos móveis, a formalização do mercado de usados e a segurança dos cidadãos.",
+      "data": "2026-03-24T17:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611589"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-03-24T13:55",
+      "fase": "Encerramento",
+      "tipo": "DISCURSO ENCAMINHADO",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO VINICIUS CARVALHO (SEM REGISTRO TAQUIGRÁFICO). Sr. Presidente, Srs. Deputados, demais presentes, caros telespectadores da TV Câmara e ouvintes da Rádi",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO VINICIUS CARVALHO (SEM REGISTRO TAQUIGRÁFICO). Sr. Presidente, Srs. Deputados, demais presentes, caros telespectadores da TV Câmara e ouvintes da Rádio Câmara: A localização geográfica de uma unidade de saúde pode ser determinante para melhor ou pior resultado no tratamento de infecções dentro de um hospital. A conclusão é de um estudo da Universidade Federal de São Paulo, que analisou mais de 30 milhões de internações, no estado, ao longo de 12 anos, expondo fragilidade e desigualdade na saúde. As três principais causas infecciosas de hospitalização são pneumonia, sepse e infecção do trato urinário. A pesquisa mostra que as internações por pneumonia, por exemplo, se distribuem de forma relativamente homogênea entre os municípios, mas as mortes não. Foram identificados aglomerados de letalidade, indicando que determinadas regiões concentram mais óbitos hospitalares. A doença respondeu por 5,1% de todas as internações hospitalares no período, somando 1,57 milhão de hospitalizações. A letalidade hospitalar foi de 17,7%, o que representa quase 280 mil mortes em 12 anos. O percentual está dentro da faixa observada em outros países, mas ainda assim é elevado. A análise aponta para uma combinação complexa de fatores que vão muito além do agente infeccioso. Há diferenças importantes, como acesso a UTI, rapidez no diagnóstico, disponibilidade de exames e antibióticos adequados. Outro ponto a ser considerado é que populações com menos acesso ou menor conhecimento da importância da saúde tendem a chegar mais tarde ao sistema, muitas vezes já em condições mais graves. Nesse contexto, o mais gritante é concluir que as desigualdades se evidenciam dentro dos próprios hospitais. Há diferença entre uma unidade pública localizada em uma capital ou em uma região central de São Paulo e um hospital que atende na periferia, a começar por menos recursos de infraestrutura e maior dificuldade de fixar profissionais mais experientes. É imperativo trabalhar para que a resposta do Sistema Único de Saúde seja semelhante em todas as unidades do país, afinal como dita o Art. 196 da Constituição Federal, a saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que visem a redução do risco de doença e de outros agravos e o acesso universal e igualitário. Obrigado!"
+    },
     {
       "data": "2026-03-18T13:55",
       "fase": "Encerramento",

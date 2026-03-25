@@ -4,8 +4,8 @@
   "partido": "REDE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/234310.jpg",
-  "score": 31.38,
-  "rank": 232,
+  "score": 32.63,
+  "rank": 209,
   "proposicoes": [
     {
       "id": 2606880,
@@ -24,6 +24,15 @@
       "ementa": "",
       "data": "2026-03-18T18:57",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610570"
+    },
+    {
+      "id": 2611366,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Tecnologia e Inovação Social, define suas diretrizes e objetivos, estabelece atribuições para instituições de ciência e tecnologia, cria o Comitê Técnico de Avaliação de Conformidade, disciplina mecanismos de compras públicas e o regime de propriedade intelectual, e dá outras providências.",
+      "data": "2026-03-24T10:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611366"
     }
   ],
   "discursos": [

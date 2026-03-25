@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73701.jpg",
-  "score": 42.7,
-  "rank": 50,
+  "score": 45.0,
+  "rank": 36,
   "proposicoes": [
     {
       "id": 2605145,
@@ -69,6 +69,24 @@
       "ementa": "Altera a Lei nº 7.716, de 8 de janeiro de 1989, para instituir mecanismos de proteção e assistência integral à vítima de crimes resultantes de discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional, com foco no atendimento especializado e na não revitimização.",
       "data": "2026-03-13T13:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608871"
+    },
+    {
+      "id": 2611400,
+      "tipo": "PL",
+      "numero": 1343,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.959, de 29 de junho de 2009, para instituir o Capítulo VII-A, dispondo sobre a Política Nacional de Desenvolvimento Sustentável das Atividades de Mulheres na Pesca Artesanal",
+      "data": "2026-03-24T11:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611400"
+    },
+    {
+      "id": 2611409,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Nacional de Salvaguarda, Fomento e Incentivo ao Samba Brasileiro.",
+      "data": "2026-03-24T11:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611409"
     }
   ],
   "discursos": [

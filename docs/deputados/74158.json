@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74158.jpg",
-  "score": 53.04,
-  "rank": 16,
+  "score": 55.17,
+  "rank": 14,
   "proposicoes": [
     {
       "id": 2604106,
@@ -240,6 +240,33 @@
       "ementa": "Altera o art. 1° da Lei nº 12.227, de 12 de abril de 2010, que “Cria o Relatório Anual Socioeconômico da Mulher”, para dispor sobre a inclusão das taxas de participação de mulheres na composição da população com deficiência em geral e dos percentuais de mulheres vítimas de violência que tenham filhos ou dependentes menores de dezoito anos.",
       "data": "2026-03-20T13:33",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611069"
+    },
+    {
+      "id": 2611412,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui medidas de enfrentamento e repressão aos crimes de pornografia de crianças e adolescentes relacionados ao uso de inteligência artificial e de técnicas de mascaramento de endereço de IP empregadas para viabilizar a prática de crimes relacionados à pornografia infantil na internet, altera a Lei nº 8.069/90 (Estatuto da Criança e do Adolescente), o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), a   Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos) e a Lei nº 12.850/2013 (Lei das Organizações Criminosas) para recrudescer o tratamento penal aos criminosos sexuais.",
+      "data": "2026-03-24T12:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611412"
+    },
+    {
+      "id": 2611554,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Dia Nacional da Mulher Rural.",
+      "data": "2026-03-24T16:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611554"
+    },
+    {
+      "id": 2611602,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015, para dispor sobre a possibilidade de quebra de sigilo bancário e fiscal em ações de alimentos, nas situações de indícios de ocultação de bens pelo alimentante.",
+      "data": "2026-03-24T18:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611602"
     }
   ],
   "discursos": [],
@@ -249,12 +276,6 @@
       "sigla": "CEXMINAS",
       "cargo": "Titular",
       "desde": "2024-12-20T00:00"
-    },
-    {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1087, de 2025, do Poder Executivo, que \"altera a legislação do imposto sobre a renda para instituir a redução do imposto devido nas bases de cálculo mensal e anual e a tributação mínima para as pessoas físicas que auferem altas rendas, e dá outras providências\"",
-      "sigla": "PL108725",
-      "cargo": "Titular",
-      "desde": "2025-04-29T00:00"
     },
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 14, de 2021, do Sr. Dr. Leonardo e outros, que \"altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais\"",

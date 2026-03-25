@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160548.jpg",
-  "score": 56.11,
-  "rank": 11,
+  "score": 60.15,
+  "rank": 9,
   "proposicoes": [
     {
       "id": 2604248,
@@ -195,6 +195,42 @@
       "ementa": "Altera o art. 24 da Lei Complementar nº 123, de 14 de dezembro de 2006, para autorizar os optantes do Simples Nacional a usufruírem da alíquota zero prevista no Programa Emergencial de Retomada do Setor de Eventos (PERSE), instituído pela Lei nº 14.148, de 3 de maio de 2021.",
       "data": "2026-03-18T17:57",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610484"
+    },
+    {
+      "id": 2611542,
+      "tipo": "PL",
+      "numero": 1367,
+      "ano": 2026,
+      "ementa": "Aperfeiçoa o regime de competência dos Juizados Especiais Cíveis para explicitar a incompatibilidade do rito sumaríssimo com causas que demandem produção probatória complexa, especialmente prova pericial.",
+      "data": "2026-03-24T16:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611542"
+    },
+    {
+      "id": 2611545,
+      "tipo": "PL",
+      "numero": 1368,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a organização obrigatória do desembarque de passageiros em aeronaves, assegura a efetividade das prioridades legais e estabelece mecanismos de orientação e responsabilização das companhias aéreas.",
+      "data": "2026-03-24T16:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611545"
+    },
+    {
+      "id": 2611546,
+      "tipo": "PL",
+      "numero": 1369,
+      "ano": 2026,
+      "ementa": "Aperfeiçoa a Lei de Arbitragem para uniformizar o regime de controle judicial da sentença arbitral, fixando prazo único para alegação de nulidade e vedando sua rediscussão fora do prazo legal, em reforço à segurança jurídica e à efetividade da arbitragem.",
+      "data": "2026-03-24T16:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611546"
+    },
+    {
+      "id": 2611602,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015, para dispor sobre a possibilidade de quebra de sigilo bancário e fiscal em ações de alimentos, nas situações de indícios de ocultação de bens pelo alimentante.",
+      "data": "2026-03-24T18:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611602"
     }
   ],
   "discursos": [

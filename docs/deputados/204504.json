@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
-  "score": 32.29,
-  "rank": 211,
+  "score": 32.83,
+  "rank": 201,
   "proposicoes": [
     {
       "id": 2608427,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados",
       "data": "2026-03-17T19:43",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609794"
+    },
+    {
+      "id": 2611403,
+      "tipo": "PL",
+      "numero": 1344,
+      "ano": 2026,
+      "ementa": "Altera o art. 48 da Lei nº 9.472 de 1997 para prever hipótese de não incidência de preço público em ajustes técnicos de estações de radiodifusão.",
+      "data": "2026-03-24T11:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611403"
     }
   ],
   "discursos": [],

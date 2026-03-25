@@ -4,9 +4,19 @@
   "partido": "PODE",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73778.jpg",
-  "score": 28.76,
-  "rank": 288,
-  "proposicoes": [],
+  "score": 29.47,
+  "rank": 276,
+  "proposicoes": [
+    {
+      "id": 2611412,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui medidas de enfrentamento e repressão aos crimes de pornografia de crianças e adolescentes relacionados ao uso de inteligência artificial e de técnicas de mascaramento de endereço de IP empregadas para viabilizar a prática de crimes relacionados à pornografia infantil na internet, altera a Lei nº 8.069/90 (Estatuto da Criança e do Adolescente), o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), a   Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos) e a Lei nº 12.850/2013 (Lei das Organizações Criminosas) para recrudescer o tratamento penal aos criminosos sexuais.",
+      "data": "2026-03-24T12:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611412"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-03-18T20:16",
@@ -73,12 +83,6 @@
     }
   ],
   "orgaos": [
-    {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1087, de 2025, do Poder Executivo, que \"altera a legislação do imposto sobre a renda para instituir a redução do imposto devido nas bases de cálculo mensal e anual e a tributação mínima para as pessoas físicas que auferem altas rendas, e dá outras providências\"",
-      "sigla": "PL108725",
-      "cargo": "Titular",
-      "desde": "2025-04-29T00:00"
-    },
     {
       "nome": "Grupo de Trabalho destinado a discutir e elaborar proposição legislativa que vise ao aperfeiçoamento da Administração Pública",
       "sigla": "GTREFADM",

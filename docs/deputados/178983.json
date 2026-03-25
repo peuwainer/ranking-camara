@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178983.jpg",
-  "score": 20.45,
-  "rank": 460,
+  "score": 21.08,
+  "rank": 452,
   "proposicoes": [
     {
       "id": 2604173,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-03-24T13:55",
+      "fase": "Encerramento",
+      "tipo": "DISCURSO ENCAMINHADO",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO MARCIO ALVINO (SEM REGISTRO TAQUIGRÁFICO). O Sr. MARCIO ALVINO (PLSP) pronuncia o seguinte discurso: Sr. Presidente, Sras. e Srs. Deputados, neste fi",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO MARCIO ALVINO (SEM REGISTRO TAQUIGRÁFICO). O Sr. MARCIO ALVINO (PLSP) pronuncia o seguinte discurso: Sr. Presidente, Sras. e Srs. Deputados, neste final de semana em que tivemos o Dia Internacional da Síndrome de Down, celebrado em 21 de março, considero fundamental registrar, a importância dessa data para toda a sociedade brasileira. Escolhido em razão da trissomia do cromossomo 21, o Dia Internacional da Síndrome de Down é um convite à reflexão e à ação. Não se trata apenas de uma celebração simbólica, mas de um momento para reafirmarmos nosso compromisso com a inclusão, o respeito, a garantia de direitos e a plena participação das pessoas com Síndrome de Down em todos os espaços da vida em sociedade. As APAEs, em todo o Brasil, seguem desempenhando um papel decisivo nesse processo, oferecendo acolhimento às famílias, educação especializada, reabilitação e oportunidades concretas de inclusão social. Como vice-presidente da Frente Parlamentar Mista em Defesa das APAEs, tenho a firme convicção de que apoiar e fortalecer essas instituições significa promover dignidade, autonomia e futuro para as pessoas com deficiência intelectual e múltipla. Ao lado do presidente da Assembleia Legislativa do Estado de São Paulo, deputado estadual André do Prado, reitero o nosso compromisso de continuar atuando para ampliar políticas públicas eficazes, assegurar recursos e garantir condições para que as APAEs possam aprimorar e expandir o trabalho que realizam em todo o País. Não podemos admitir retrocessos nos direitos das pessoas com deficiência. Precisamos avançar na construção de um Brasil verdadeiramente inclusivo, em que o acesso à educação, ao mercado de trabalho, à saúde, à cultura e à vida independente seja uma realidade para todos. O Dia Internacional da Síndrome de Down não deve ser apenas um marco no calendário. Deve ser um chamado permanente para que nós, parlamentares, gestores públicos e a sociedade em geral, assumamos a responsabilidade de transformar o discurso em ações concretas, em políticas consistentes e em resultados reais. A inclusão não é um favor, é um direito constitucional e humano que precisa ser garantido todos os dias. Quero, ainda, registrar e enaltecer o trabalho das Apaes de Bofete, Bragança Paulista, Guapiara, Novo Horizonte, Arujá, Assis, Estiva Gerbi, Pirajuí, Juquiá, Bastos, Brodowski, Monte Alto, Poloni e Taubaté, que neste período comemoram mais um ano de serviços prestados à comunidade. São instituições que se tornaram referência em acolhimento, desenvolvimento e transformação de vidas, promovendo inclusão, oportunidades e esperança para muitas famílias. O empenho de suas equipes, profissionais e voluntários é fundamental para a construção de uma sociedade mais justa, solidária e acessível. Meus parabéns por essa trajetória exemplar e pelo impacto positivo que continuam gerando na vida de tantas pessoas. Sem mais, Muito obrigado!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Defesa dos Direitos das Pessoas com Deficiência",

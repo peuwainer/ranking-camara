@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160569.jpg",
-  "score": 37.78,
-  "rank": 101,
+  "score": 38.72,
+  "rank": 95,
   "proposicoes": [
     {
       "id": 2605568,
@@ -114,6 +114,15 @@
       "ementa": "Emenda de Plenário para instituir o Programa Nacional de Tarifa Zero para o Transporte Urbano.",
       "data": "2026-03-17T16:52",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609535"
+    },
+    {
+      "id": 2611565,
+      "tipo": "PL",
+      "numero": 1371,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos), para dispor sobre a gratuidade dos atos de registro e averbação de documentos necessários ao regular funcionamento das associações sem fins lucrativos.",
+      "data": "2026-03-24T17:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611565"
     }
   ],
   "discursos": [

@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220669.jpg",
-  "score": 32.25,
-  "rank": 213,
+  "score": 33.64,
+  "rank": 182,
   "proposicoes": [
     {
       "id": 2604173,
@@ -105,9 +105,26 @@
       "ementa": "Dispõe sobre padrões mínimos de atendimento especializado às mulheres em situação de violência doméstica e familiar, bem como diretrizes para o funcionamento e a expansão das Delegacias Especializadas de Atendimento à Mulher - DEAM",
       "data": "2026-03-23T12:26",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611232"
+    },
+    {
+      "id": 2611547,
+      "tipo": "PL",
+      "numero": 1370,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a isenção do IRPF incidente sobre a remuneração de professores em efetivo exercício da docência e estabelece medidas de compensação da renúncia fiscal.",
+      "data": "2026-03-24T16:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611547"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-03-24T19:08",
+      "fase": "Breves Comunicações",
+      "tipo": "FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA",
+      "resumo": "O SR. PRESIDENTE (Lula da Fonte. Bloco/PP - PE) - Obrigado, nobre Deputado Cabo Gilberto Silva. Antes de passar a palavra ao Deputado Sargento Fahur e encerrar a sessão de hoje, quero saudar aqui os V",
+      "transcricao": "O SR. PRESIDENTE (Lula da Fonte. Bloco/PP - PE) - Obrigado, nobre Deputado Cabo Gilberto Silva. Antes de passar a palavra ao Deputado Sargento Fahur e encerrar a sessão de hoje, quero saudar aqui os Vereadores do Município de Abreu e Lima, na Região Metropolitana do Estado de Pernambuco, que estão presentes. Vejo aqui o Vereador Pastor Ferreirinha, o Vereador Murilo Filho e também outros valorosos Vereadores que representam muito bem a Câmara de Vereadores desse nobre Município pelo qual eu tenho um carinho enorme. Vou passar a palavra, antes de encerrar a sessão, ao Deputado Sargento Fahur. Saúdo, novamente, esses amigos e estimados Vereadores. Tem a palavra o Deputado Sargento Fahur."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Mesa Diretora da Câmara dos Deputados",

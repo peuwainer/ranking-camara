@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220685.jpg",
-  "score": 26.59,
-  "rank": 354,
+  "score": 26.09,
+  "rank": 362,
   "proposicoes": [],
   "discursos": [
     {
@@ -30,10 +30,10 @@
       "desde": "2023-08-31T00:00"
     },
     {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1087, de 2025, do Poder Executivo, que \"altera a legislação do imposto sobre a renda para instituir a redução do imposto devido nas bases de cálculo mensal e anual e a tributação mínima para as pessoas físicas que auferem altas rendas, e dá outras providências\"",
-      "sigla": "PL108725",
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
       "cargo": "Titular",
-      "desde": "2025-04-29T00:00"
+      "desde": "2026-02-03T00:00"
     },
     {
       "nome": "Comissão de Turismo",
@@ -45,12 +45,6 @@
       "nome": "Comissão de Comunicação",
       "sigla": "CCOM",
       "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
-      "sigla": "CAPADR",
-      "cargo": "Titular",
       "desde": "2026-02-03T00:00"
     }
   ],

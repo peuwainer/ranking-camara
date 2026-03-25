@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204422.jpg",
-  "score": 35.51,
-  "rank": 141,
+  "score": 35.81,
+  "rank": 135,
   "proposicoes": [
     {
       "id": 2603824,
@@ -45,6 +45,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-03-24T19:16",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. OSSESIO SILVA (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Meu amigo Presidente, primeiro quero parabenizá-lo pela condução dos trabalhos. Presidente Lula da Fonte, estamos aq",
+      "transcricao": "O SR. OSSESIO SILVA (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Meu amigo Presidente, primeiro quero parabenizá-lo pela condução dos trabalhos. Presidente Lula da Fonte, estamos aqui representando a nossa cidade e o nosso Estado, Pernambuco. E V.Exa. é também oriundo dali, daquela cidade maravilhosa. Está aqui ao meu lado a Vereadora de Paulista, Marcelly da Aquarela, que está visitando esta Casa e brevemente, com certeza, estará aqui conosco ocupando uma cadeira. Então, quero desejar-lhe as boas-vindas a esta Casa. É uma pessoa que tem feito um trabalho maravilhoso, em Paulista, com idosos, com mulheres e crianças. Ela está nos visitando aqui nesta tarde, quase noite. Então, Marcelly, seja bem-vinda! Esta é a Casa do Povo e será, brevemente, a sua casa também. Obrigado, Presidente, por esta oportunidade."
+    },
     {
       "data": "2026-03-03T18:20",
       "fase": "Ordem do Dia",

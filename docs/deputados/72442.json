@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/72442.jpg",
-  "score": 30.26,
-  "rank": 258,
+  "score": 30.92,
+  "rank": 245,
   "proposicoes": [
     {
       "id": 2604097,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.",
       "data": "2026-02-24T14:13",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604097"
+    },
+    {
+      "id": 2611373,
+      "tipo": "PLP",
+      "numero": 76,
+      "ano": 2026,
+      "ementa": "Inclui o art. 14-B ao texto da Lei Complementar nº 101, de 4 de maio de 2000, para condicionar a concessão de incentivos ou benefícios de natureza tributária à geração de empregos e estabelecer mecanismos de transparência e fiscalização.",
+      "data": "2026-03-24T10:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611373"
     }
   ],
   "discursos": [],
@@ -30,12 +39,6 @@
       "sigla": "CMO",
       "cargo": "Titular",
       "desde": "2025-04-15T00:00"
-    },
-    {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 1087, de 2025, do Poder Executivo, que \"altera a legislação do imposto sobre a renda para instituir a redução do imposto devido nas bases de cálculo mensal e anual e a tributação mínima para as pessoas físicas que auferem altas rendas, e dá outras providências\"",
-      "sigla": "PL108725",
-      "cargo": "Suplente",
-      "desde": "2025-04-29T00:00"
     },
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 234, de 2024, do Sr. Felipe Carreras, que \"dispõe sobre incentivos e benefícios para fomentar as atividades de caráter desportivo e dá outras providências\"",

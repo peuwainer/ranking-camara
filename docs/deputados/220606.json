@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220606.jpg",
-  "score": 43.74,
-  "rank": 42,
+  "score": 45.41,
+  "rank": 35,
   "proposicoes": [
     {
       "id": 2607257,
@@ -51,6 +51,24 @@
       "ementa": "Emenda de Plenário para instituir o Programa Nacional de Tarifa Zero para o Transporte Urbano.",
       "data": "2026-03-17T16:52",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609535"
+    },
+    {
+      "id": 2611352,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator pela aprovação do Projeto de Lei n° 6.748, de 2016, na forma do Substitutivo.",
+      "data": "2026-03-23T16:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611352"
+    },
+    {
+      "id": 2611433,
+      "tipo": "PL",
+      "numero": 1354,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.636, de 15 de maio de 1998, para dispor sobre a concessão de direito real de uso de bens imóveis da União em favor de pescadores artesanais e comunidades tradicionais, para fins de moradia e exercício da atividade pesqueira.",
+      "data": "2026-03-24T12:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611433"
     }
   ],
   "discursos": [
