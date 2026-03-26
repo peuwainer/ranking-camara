@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 52.83,
-  "rank": 17,
+  "score": 53.27,
+  "rank": 16,
   "proposicoes": [
-    {
-      "id": 2603805,
-      "tipo": "PL",
-      "numero": 652,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para estabelecer critérios objetivos e avaliação técnica obrigatória nos casos de realocação prisional fundada em autodeclaração superveniente de identidade de gênero, assegurando a proteção integral das pessoas custodiadas e dos profissionais do sistema penitenciário.",
-      "data": "2026-02-23T13:54",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603805"
-    },
     {
       "id": 2604004,
       "tipo": "SBT",
@@ -159,6 +150,15 @@
       "ementa": "Susta a INSTRUÇÃO NORMATIVA SEGES/MGI n°4, de 2 de fevereiro de 2023, que flexibiliza e estabelece regras complementares para a hipótese de bens passíveis de serem adquiridos com características superiores para estrita atividade do órgão ou entidade pública.",
       "data": "2026-03-23T09:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611346"
+    },
+    {
+      "id": 2611694,
+      "tipo": "PL",
+      "numero": 1383,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Estabelecimentos Parceiros da Segurança Pública (Proneps).",
+      "data": "2026-03-25T09:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611694"
     }
   ],
   "discursos": [

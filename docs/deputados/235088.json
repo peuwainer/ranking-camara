@@ -4,8 +4,8 @@
   "partido": "PRD",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/235088.jpg",
-  "score": 56.88,
-  "rank": 10,
+  "score": 56.29,
+  "rank": 11,
   "proposicoes": [
     {
       "id": 2604173,
@@ -162,6 +162,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-03-25T15:04",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. RIBEIRO NETO (Bloco/PRD - MA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, também quero parabenizar o Líder do bloco, o Deputado Rodrigo Gambale, e saudar a presença da Luiza Calvet, ex",
+      "transcricao": "O SR. RIBEIRO NETO (Bloco/PRD - MA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, também quero parabenizar o Líder do bloco, o Deputado Rodrigo Gambale, e saudar a presença da Luiza Calvet, ex-Vereadora da cidade de Santa Rita, que ficou em segundo lugar nas últimas eleições para Prefeita de Santa Rita  teve 40% dos votos, quase 9 mil votos na cidade. Eu tenho fé em Deus que, com o trabalho que ela realiza e sendo Presidente Estadual do Republicanos Mulher, muito em breve, ela vai estar lá representando o povo de Santa Rita como uma grande Prefeita, assim como foi como Vareadora. Parabéns, Luiza Calvet! Conte com a gente! A gente está lá junto com V.Exa. pelo povo de Santa Rita, pelo povo do Maranhão."
+    },
     {
       "data": "2026-03-18T21:44",
       "fase": "Ordem do Dia",

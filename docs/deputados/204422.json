@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204422.jpg",
-  "score": 35.81,
-  "rank": 135,
+  "score": 34.9,
+  "rank": 155,
   "proposicoes": [
-    {
-      "id": 2603824,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990, para dispor que se aplicam as normas de proteção do consumidor previstas neste código às publicidades feitas por influenciadores digitais ou pessoas que publicam conteúdo em aplicações de internet.",
-      "data": "2026-02-23T13:33",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603824"
-    },
     {
       "id": 2605945,
       "tipo": "SBT",
@@ -42,6 +33,15 @@
       "ementa": "Altera a Lei nº 15.211, de 17 de setembro de 2025, para dispor sobre mecanismos de denúncia por meio de ferramentas de supervisão parental, salvaguardas em processos de moderação de conteúdo, hipótese específica de responsabilização subsidiária e ações de educação digital voltadas à proteção de crianças e adolescentes no ambiente digital.",
       "data": "2026-03-18T10:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610123"
+    },
+    {
+      "id": 2611899,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-03-25T15:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611899"
     }
   ],
   "discursos": [

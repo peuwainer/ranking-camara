@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74060.jpg",
-  "score": 32.87,
-  "rank": 200,
+  "score": 36.4,
+  "rank": 132,
   "proposicoes": [
     {
       "id": 2608574,
@@ -33,6 +33,24 @@
       "ementa": "",
       "data": "2026-03-17T21:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609873"
+    },
+    {
+      "id": 2611891,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, que dispõe sobre a modalidade lotérica denominada apostas de quota fixa, para tratar sobre publicidade e propaganda comercial de apostas, de produtos, serviços ou arranjos a eles assemelhados.",
+      "data": "2026-03-25T09:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611891"
+    },
+    {
+      "id": 2611893,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a adoção de medidas preventivas e corretivas relativas à qualidade do biodiesel adicionado ao óleo diesel, e dá outras providências.",
+      "data": "2026-03-25T12:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611893"
     }
   ],
   "discursos": [
@@ -95,6 +113,18 @@
       "sigla": "CTRAB",
       "cargo": "Suplente",
       "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Subcomissão Permanente para tratar de “Proposições relacionadas ao Fundo de Garantia do Tempo de Serviço – FGTS”",
+      "sigla": "SUBFGTS",
+      "cargo": "Relator",
+      "desde": "2026-03-25T00:00"
+    },
+    {
+      "nome": "Subcomissão Permanente para tratar de “Proposições relacionadas ao Fundo de Garantia do Tempo de Serviço – FGTS”",
+      "sigla": "SUBFGTS",
+      "cargo": "Titular",
+      "desde": "2026-03-25T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/74060/votacoes-nominais-plenario/2026"

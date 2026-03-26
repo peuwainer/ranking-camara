@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220552.jpg",
-  "score": 30.74,
-  "rank": 252,
+  "score": 32.27,
+  "rank": 221,
   "proposicoes": [
     {
       "id": 2604173,
@@ -56,14 +56,14 @@
       "desde": "2025-11-03T00:00"
     },
     {
-      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
-      "sigla": "CAPADR",
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
       "cargo": "Suplente",
       "desde": "2026-02-03T00:00"
     },
     {
-      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
-      "sigla": "CSPCCO",
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
       "cargo": "Suplente",
       "desde": "2026-02-03T00:00"
     },
@@ -72,6 +72,12 @@
       "sigla": "SUB8J",
       "cargo": "Titular",
       "desde": "2026-03-11T00:00"
+    },
+    {
+      "nome": "Comissão de Desenvolvimento Econômico",
+      "sigla": "CDE",
+      "cargo": "Titular",
+      "desde": "2026-03-25T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220552/votacoes-nominais-plenario/2026"

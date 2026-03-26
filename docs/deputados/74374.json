@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74374.jpg",
-  "score": 36.05,
-  "rank": 129,
+  "score": 37.46,
+  "rank": 110,
   "proposicoes": [
     {
       "id": 2605745,
@@ -42,6 +42,15 @@
       "ementa": "Institui o Programa Acompanhante da Pessoa Idosa no âmbito do Sistema Único de Saúde (SUS).",
       "data": "2026-03-24T19:11",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611643"
+    },
+    {
+      "id": 2611847,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Nacional de Inclusão Digital e Tecnologias Assistivas para Jovens Empreendedores com Deficiência (PRONID-Jovem) e dá outras providências.",
+      "data": "2026-03-25T13:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611847"
     }
   ],
   "discursos": [

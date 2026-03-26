@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204416.jpg",
-  "score": 33.71,
-  "rank": 178,
+  "score": 34.22,
+  "rank": 172,
   "proposicoes": [
     {
       "id": 2604173,
@@ -104,6 +104,12 @@
       "sigla": "CFT",
       "cargo": "Titular",
       "desde": "2026-03-18T00:00"
+    },
+    {
+      "nome": "Subcomissão Permanente para tratar de “Proposições relacionadas ao Fundo de Garantia do Tempo de Serviço – FGTS”",
+      "sigla": "SUBFGTS",
+      "cargo": "Titular",
+      "desde": "2026-03-25T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204416/votacoes-nominais-plenario/2026"

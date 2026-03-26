@@ -4,8 +4,8 @@
   "partido": "REDE",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/234253.jpg",
-  "score": 27.47,
-  "rank": 327,
+  "score": 34.49,
+  "rank": 168,
   "proposicoes": [
     {
       "id": 2607961,
@@ -78,6 +78,51 @@
       "ementa": "Institui a Política Nacional de Preservação do Patrimônio Religioso, estabelece diretrizes para sua proteção, valorização e promoção, e dá outras providências.",
       "data": "2026-03-12T10:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608559"
+    },
+    {
+      "id": 2612009,
+      "tipo": "PL",
+      "numero": 1410,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 123 de 14 de dezembro de 2006, para instituir o Regime de Transição do Microempreendedor Individual (RT-MEI), e dá outras providências.",
+      "data": "2026-03-25T18:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612009"
+    },
+    {
+      "id": 2612010,
+      "tipo": "PL",
+      "numero": 1411,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Apoio ao Translado Funerário de Pessoas em Situação de Vulnerabilidade, com diretrizes para concessão de condições diferenciadas no transporte aéreo nacional, e dá outras providências.",
+      "data": "2026-03-25T18:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612010"
+    },
+    {
+      "id": 2612014,
+      "tipo": "PL",
+      "numero": 1412,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação) para ampliar a transparência ativa quanto às filas e demandas por serviços públicos, e dá outras providências.",
+      "data": "2026-03-25T18:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612014"
+    },
+    {
+      "id": 2612016,
+      "tipo": "PL",
+      "numero": 1413,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Reestruturação Financeira das Famílias, com diretrizes para prevenção e tratamento do superendividamento, e dá outras providências.",
+      "data": "2026-03-25T18:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612016"
+    },
+    {
+      "id": 2612020,
+      "tipo": "PL",
+      "numero": 1414,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.656 de 03 de junho de 1998 (lei dos planos de saúde), para estabelecer diretrizes de limitação e transparência nos reajustes dos planos privados de assistência à saúde, e dá outras providências.",
+      "data": "2026-03-25T18:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612020"
     }
   ],
   "discursos": [

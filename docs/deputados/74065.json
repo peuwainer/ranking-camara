@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74065.jpg",
-  "score": 25.73,
-  "rank": 374,
-  "proposicoes": [],
+  "score": 26.04,
+  "rank": 368,
+  "proposicoes": [
+    {
+      "id": 2611650,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "COMISSÃO DE MINAS E ENERGIA \nPROJETO DE LEI Nº 4.621, DE 2025\n\nDispõe sobre a destinação de percentual das receitas públicas oriundas da exploração de petróleo e gás natural na Margem Equatorial Brasileira para investimentos em proteção do meio ambiente, saúde, educação e tecnologia, cria o Fundo Soberano Brasileiro para o Futuro e o Fundo Nacional de Desenvolvimento da Inteligência Artificial Brasileira, e dá outras providências.\nAutor: Deputado RUBENS PEREIRA JÚNIOR\nRelatora: Deputada FATIMA PELAES",
+      "data": "2026-03-24T19:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611650"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

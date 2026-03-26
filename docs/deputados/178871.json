@@ -4,18 +4,9 @@
   "partido": "PP",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178871.jpg",
-  "score": 39.96,
-  "rank": 78,
+  "score": 39.11,
+  "rank": 86,
   "proposicoes": [
-    {
-      "id": 2603754,
-      "tipo": "PRC",
-      "numero": 4,
-      "ano": 2026,
-      "ementa": "Altera o Regimento Interno da Câmara dos Deputados para conferir eficácia normativa ao compromisso formal e ao discurso de posse do Presidente da Câmara dos Deputados.",
-      "data": "2026-02-23T11:09",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603754"
-    },
     {
       "id": 2604173,
       "tipo": "PEC",
@@ -60,6 +51,15 @@
       "ementa": "Altera a Lei nº 15.075, de 26 de dezembro de 2024, a Lei nº 9.478, de 6 de agosto de 1997, e a Lei nº 12.351, de 22 de dezembro de 2010, para dispor sobre bonificações de conteúdo local e seu uso em contratos de exploração e produção de petróleo e gás natural no Brasil e no exterior, com vistas à promoção da indústria nacional de bens e serviços.",
       "data": "2026-03-18T16:35",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610604"
+    },
+    {
+      "id": 2611926,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Milhas Públicas (PNMP), sistema federativo destinado a receber, administrar e destinar milhas e pontos de programas de fidelidade oriundos de passagens aéreas adquiridas com recursos públicos, e dá outras providências.",
+      "data": "2026-03-25T16:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611926"
     }
   ],
   "discursos": [

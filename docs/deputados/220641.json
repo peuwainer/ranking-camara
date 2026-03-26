@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220641.jpg",
-  "score": 37.81,
-  "rank": 103,
+  "score": 37.48,
+  "rank": 109,
   "proposicoes": [
     {
       "id": 2604798,
@@ -62,7 +62,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610943"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-03-25T15:04",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. RODRIGO GAMBALE (Bloco/PODE - SP. Pela ordem. Sem revisão do orador.) - Sr. Presidente, obrigado pela oportunidade. Eu queria fazer brevemente dois registros. O primeiro é de alegria. Um dos dia",
+      "transcricao": "O SR. RODRIGO GAMBALE (Bloco/PODE - SP. Pela ordem. Sem revisão do orador.) - Sr. Presidente, obrigado pela oportunidade. Eu queria fazer brevemente dois registros. O primeiro é de alegria. Um dos dias mais felizes da minha vida foi ontem, quando acabei assumindo a liderança do maior bloco da Câmara com 273 Deputados, bloco composto pelo Podemos, o meu partido, e pelo PP, União, MDB, Republicanos e federação PSDB Cidadania. Então, quero agradecer aos colegas Líderes dos partidos que me concederam essa honra. Quero também fazer o registro da presença dos nossos integrantes, amigos e parceiros da cidade de Salesópolis, cidade importantíssima, que abriga a nascente de um dos principais rios do nosso Brasil, o Rio Tietê. Estou recebendo a visita do Prefeito Rodolfo, do nosso partido também, do Presidente da Câmara, o Lourenço, do Vereador Mineiro, do Vereador Fabrício, do Vereador Tikinho e do Vereador Serginho. Quero ainda agradecer a presença do Claudinho, nosso Conselheiro Tutelar em Ferraz de Vasconcelos. Claudinho, meu amigo de infância, com quem estudei no SESI, hoje é Conselheiro Tutelar lá em Ferraz de Vasconcelos. Presidente, obrigado pela oportunidade. Uma boa tarde a todos."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a elaborar propostas para analisar o enfrentamento da tuberculose como compromisso internacional para a eliminação desta doença como problema de saúde pública até o ano de 2030, conforme preconizado pela Organização das Nações Unidas (ONU)",

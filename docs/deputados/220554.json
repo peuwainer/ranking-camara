@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
-  "score": 36.21,
-  "rank": 127,
+  "score": 38.27,
+  "rank": 94,
   "proposicoes": [
     {
       "id": 2607443,
@@ -50,6 +50,12 @@
       "desde": "2025-07-08T00:00"
     },
     {
+      "nome": "Comissão de Comunicação",
+      "sigla": "CCOM",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
       "nome": "Comissão de Viação e Transportes",
       "sigla": "CVT",
       "cargo": "Suplente",
@@ -58,12 +64,6 @@
     {
       "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
       "sigla": "CSPCCO",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Comunicação",
-      "sigla": "CCOM",
       "cargo": "Titular",
       "desde": "2026-02-03T00:00"
     },
@@ -108,6 +108,18 @@
       "sigla": "SUB8J",
       "cargo": "Titular",
       "desde": "2026-03-11T00:00"
+    },
+    {
+      "nome": "Subcomissão Permanente para tratar de “Proposições relacionadas ao Fundo de Garantia do Tempo de Serviço – FGTS”",
+      "sigla": "SUBFGTS",
+      "cargo": "Titular",
+      "desde": "2026-03-25T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Suplente",
+      "desde": "2026-03-25T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220554/votacoes-nominais-plenario/2026"

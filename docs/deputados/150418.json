@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/150418.jpg",
-  "score": 33.83,
-  "rank": 173,
+  "score": 37.02,
+  "rank": 122,
   "proposicoes": [
     {
       "id": 2604173,
@@ -33,6 +33,24 @@
       "ementa": "Dá nova redação ao §1º do art. 4º da Lei Complementar nº 123, de 14 de dezembro de 2006, para adicionar a verificação biométrica de titularidade e geolocalização para início de funcionamento visando o combate a fraudes e a abertura de empresas de fachada.",
       "data": "2026-03-02T15:39",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605549"
+    },
+    {
+      "id": 2612047,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 2026,
+      "ementa": "Cria o Cadastro Nacional de Empresas Reincidentes em Reclamações de Consumo (CNERC) e determina a divulgação pública das empresas com maior índice de reclamações não resolvidas, e dá outras providências.",
+      "data": "2026-03-25T19:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612047"
+    },
+    {
+      "id": 2612048,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Altera a Lei n.º 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para dispor sobre o prazo máximo para a solução de demandas apresentadas no Serviço de Atendimento ao Consumidor (SAC).",
+      "data": "2026-03-25T19:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612048"
     }
   ],
   "discursos": [

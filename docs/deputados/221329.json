@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/221329.jpg",
-  "score": 25.09,
-  "rank": 389,
+  "score": 27.26,
+  "rank": 347,
   "proposicoes": [
     {
       "id": 2607947,
@@ -35,7 +35,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609679"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-03-25T15:52",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. RICARDO ABRÃO (Bloco/UNIÃO - RJ. Sem revisão do orador.) - Boa tarde, Presidente, demais pares desta Casa. Eu subo a esta tribuna hoje com a responsabilidade de quem nasceu e vive sob o olhar do",
+      "transcricao": "O SR. RICARDO ABRÃO (Bloco/UNIÃO - RJ. Sem revisão do orador.) - Boa tarde, Presidente, demais pares desta Casa. Eu subo a esta tribuna hoje com a responsabilidade de quem nasceu e vive sob o olhar do Redentor. Falo como carioca, como brasileiro e, acima de tudo, como membro da Comissão de Turismo desta Casa. O Cristo Redentor não é apenas uma estrutura de concreto e pedra-sabão: é uma das sete maravilhas do mundo moderno, o maior cartão postal do nosso Brasil e o símbolo máximo da nossa hospitalidade. Mas, para além de beleza que encanta o mundo, precisamos falar de justiça e eficiência. É um fato histórico incontestável que o Cristo Redentor só está no alto do Corcovado porque a igreja católica o idealizou, o projetou, o financiou e o construiu através de doações do povo brasileiro. Se hoje o Brasil é reconhecido por esse ícone, devemos essa honra ao esforço e à gestão eclesiástica que o mantém há quase um século. Srs. Parlamentares, sejamos justos. Defendo, com a convicção de quem busca a melhor gestão para o nosso patrimônio, que o santuário tenha sua gestão integral realizada pela Igreja. Não se trata apenas de questão religiosa, mas de segurança jurídica e eficiência administrativa. O santuário é um local de fé. Misturar sua gestão com burocracias que ignorem sua natureza sagrada é um erro estratégico para o turismo e para a cultura nacional. Por isso, apresentei uma indicação à Presidência da República para que sejam adotadas medidas que reconheçam, em definitivo, o caráter religioso, cultural e histórico do santuário Cristo Redentor. Precisamos blindar este monumento contra instabilidades administrativas e garantir que quem o construiu e o preservou continue a guiá-lo com a mesma excelência. Quero registrar ainda a minha profunda admiração pelo Padre Omar, reitor do Cristo Redentor, que brilhantemente faz um trabalho de gestão impecável deste monumento tão fundamental para o nosso País. Por fim, Sr. Presidente, solicito que este pronunciamento seja dado como lido e que receba a devida divulgação nos órgãos de comunicação da Casa, em especial no programa A Voz do Brasil. Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 733, de 2025, do Sr. Leur Lomanto Júnior, que \"dispõe sobre o Sistema Portuário Brasileiro, regula a exploração dos portos, as atividades de operação portuária, o trabalho portuário e dá outras providências\"",

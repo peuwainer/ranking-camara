@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141470.jpg",
-  "score": 42.78,
-  "rank": 50,
+  "score": 42.12,
+  "rank": 56,
   "proposicoes": [
     {
       "id": 2606313,
@@ -96,6 +96,15 @@
       "ementa": "Dispõe sobre regras relativas a benefícios tributários e despesas obrigatórias no exercício de 2026.",
       "data": "2026-03-23T17:21",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611313"
+    },
+    {
+      "id": 2611658,
+      "tipo": "PL",
+      "numero": 1381,
+      "ano": 2026,
+      "ementa": "Institui o Dia Nacional do Ceará e do Cearense e da Cearense.",
+      "data": "2026-03-25T08:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611658"
     }
   ],
   "discursos": [

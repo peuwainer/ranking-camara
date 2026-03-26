@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178966.jpg",
-  "score": 33.64,
-  "rank": 181,
+  "score": 35.21,
+  "rank": 150,
   "proposicoes": [
     {
       "id": 2604104,
@@ -107,6 +107,12 @@
       "sigla": "PL808514",
       "cargo": "Suplente",
       "desde": "2026-03-18T00:00"
+    },
+    {
+      "nome": "Subcomissão Permanente para tratar de “Proposições relacionadas ao Fundo de Garantia do Tempo de Serviço – FGTS”",
+      "sigla": "SUBFGTS",
+      "cargo": "Titular",
+      "desde": "2026-03-25T00:00"
     },
     {
       "nome": "Subcomissão Especial destinada a “debater e apresentar sugestões ao setor de estética e aprimorar suas relações trabalhistas”",

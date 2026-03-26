@@ -4,8 +4,8 @@
   "partido": "REDE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/234310.jpg",
-  "score": 32.63,
-  "rank": 209,
+  "score": 34.78,
+  "rank": 159,
   "proposicoes": [
     {
       "id": 2606880,
@@ -33,9 +33,34 @@
       "ementa": "Institui a Política Nacional de Tecnologia e Inovação Social, define suas diretrizes e objetivos, estabelece atribuições para instituições de ciência e tecnologia, cria o Comitê Técnico de Avaliação de Conformidade, disciplina mecanismos de compras públicas e o regime de propriedade intelectual, e dá outras providências.",
       "data": "2026-03-24T10:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611366"
+    },
+    {
+      "id": 2611720,
+      "tipo": "PL",
+      "numero": 1386,
+      "ano": 2026,
+      "ementa": "Altera a Lei n° 10.973, de 2 de dezembro de 2004, a Lei n° 8.958, de 20 de dezembro de 1994, e a Lei nº 8.032, de 12 de abril de 1990, para aprimorar a definição e a atuação das ICTs nas atividades de ciência, tecnologia e inovação, e dá outras providências.",
+      "data": "2026-03-25T10:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611720"
+    },
+    {
+      "id": 2611725,
+      "tipo": "PL",
+      "numero": 1387,
+      "ano": 2026,
+      "ementa": "Altera a Lei n° 10.973, de 2 de dezembro de 2004, a Lei n° 8.958, de 20 de dezembro de 1994, e a Lei nº 8.032, de 12 de abril de 1990, para dispor sobre o acesso a recursos públicos pelas ICTs nas atividades de ciência, tecnologia e inovação, o aperfeiçoamento o regime de concessão de bolsas, e dá outras providências.",
+      "data": "2026-03-25T11:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611725"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-03-25T15:12",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. RICARDO GALVÃO (Bloco/REDE - SP. Sem revisão do orador.) - Começo parabenizando o Deputado, os Institutos Federais de Educação, Ciência e Tecnologia do são uma grande conquista da sociedade bras",
+      "transcricao": "O SR. RICARDO GALVÃO (Bloco/REDE - SP. Sem revisão do orador.) - Começo parabenizando o Deputado, os Institutos Federais de Educação, Ciência e Tecnologia do são uma grande conquista da sociedade brasileira, uma obra do Presidente Lula. Sr. Presidente, o Acordo sobre Minerais Críticos e Terras Raras, firmado recentemente entre o Estado de Goiás e os Estados Unidos da América, é uma afronta à Constituição Federal e um golpe ardiloso na capacidade da Nação de orientar seu desenvolvimento com base no domínio soberano de tecnologias estratégicas. A Constituição de 1988, em seu art. 20, é clara: os recursos minerais, inclusive os do subsolo, são bens da União e, no art. 84, estabelece que complete exclusivamente ao Presidente da República estabelecer relações com Estados estrangeiros e celebrar acordos internacionais. O Brasil tem a segunda maior reserva de terras raras do mundo, atrás apenas da China. Esses minerais são essenciais para a fabricação de smartphones, painéis solares, veículos elétricos, etc. Sem eles, a transição energética e a inovação tecnológica simplesmente não acontecem. Mas ter reserva não basta, o valor está na capacidade de processar, agregar conhecimento e gerar tecnologia. Exportar minério bruto é repetir o erro do passado, quando entregamos enorme quantidade de areia monazítica aos americanos, enviada como lastro de navios, sem nenhum processamento no País. Sabemos que extrair, processar e obter produtos finais relevantes, a partir de terras raras, requer grandes investimentos em recursos financeiros e humanos. Mas o Brasil já tem iniciativas valiosas nessa direção com o estabelecimento da Rede Nacional de Materiais Avançados e Terras Raras, da qual participam instituições brasileiras de elevado nível, como o Cetem, a Universidade Federal do Amazonas, o CDTN, em Minas Gerais, o Ipem, em São Paulo, etc. Ao assinar esse acordo, buscando somente exportar mineral bruto e atrair tecnologias elementares nos Estados Unidos da América, o Governador Ronaldo Caiado demonstra enorme desprezo pela ciência e tecnologia nacionais, incluindo instituições de renome de seu próprio Estado. Espero, Sr. Presidente, que o Congresso Nacional não só proteste contra o acordo, mas também tome as providências cabíveis para torná-lo sem efeito. Muito obrigado."
+    },
     {
       "data": "2026-03-18T19:00",
       "fase": "Ordem do Dia",

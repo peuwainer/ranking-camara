@@ -4,9 +4,28 @@
   "partido": "UNIÃO",
   "uf": "RN",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/109429.jpg",
-  "score": 27.46,
-  "rank": 328,
-  "proposicoes": [],
+  "score": 30.82,
+  "rank": 247,
+  "proposicoes": [
+    {
+      "id": 2611992,
+      "tipo": "PLP",
+      "numero": 80,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.301, de 7 de janeiro de 2022, para prorrogar o prazo de vigência da não incidência do Adicional ao Frete para Renovação da Marinha Mercante (AFRMM) prevista no art. 17 da Lei nº 9.432, de 8 de janeiro de 1997, nas navegações de cabotagem, interior fluvial e lacustre, desde que a origem ou o destino seja porto localizado na Região Norte ou Nordeste do País.",
+      "data": "2026-03-25T18:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611992"
+    },
+    {
+      "id": 2611996,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre regras relativas a benefícios tributários e despesas obrigatórias no exercício de 2026.",
+      "data": "2026-03-25T18:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611996"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-03-11T19:24",

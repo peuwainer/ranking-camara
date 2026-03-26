@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/72442.jpg",
-  "score": 30.92,
-  "rank": 245,
+  "score": 32.04,
+  "rank": 228,
   "proposicoes": [
     {
       "id": 2604097,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611373"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-03-25T16:32",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. FELIPE CARRERAS (PSB - PE. Pela ordem. Sem revisão do orador.) - Presidente, o Projeto nº 6.483, de 2025, de autoria do nobre Deputado Lucas Abrahao  que aproveito para parabenizar pelo projeto",
+      "transcricao": "O SR. FELIPE CARRERAS (PSB - PE. Pela ordem. Sem revisão do orador.) - Presidente, o Projeto nº 6.483, de 2025, de autoria do nobre Deputado Lucas Abrahao  que aproveito para parabenizar pelo projeto, pela iniciativa , institui a Política Nacional de Milhas Públicas, que vai ser muito importante para estudantes, para o setor de ciência e tecnologia, para o esporte. Esse é um projeto meritório. Porém, dialogando com a própria Base do Governo, com a Liderança do Governo, com o Deputado Paulão, com o Líder Guimarães, falando com o Deputado Pedro Campos e com o próprio Líder, achamos melhor pedir para retirar de pauta e colocar para votar. O relatório está pronto, mas a gente acha que precisa ter um diálogo maior com os Líderes da Casa, com a própria base do Governo, para outra oportunidade."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Representação Brasileira no Parlamento do Mercosul",
@@ -75,6 +83,12 @@
       "sigla": "CCJC",
       "cargo": "Suplente",
       "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Comissão de Desenvolvimento Econômico",
+      "sigla": "CDE",
+      "cargo": "Titular",
+      "desde": "2026-03-25T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/72442/votacoes-nominais-plenario/2026"
