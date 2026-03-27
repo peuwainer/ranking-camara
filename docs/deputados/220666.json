@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220666.jpg",
-  "score": 35.32,
-  "rank": 147,
+  "score": 36.93,
+  "rank": 145,
   "proposicoes": [
-    {
-      "id": 2604173,
-      "tipo": "PEC",
-      "numero": 3,
-      "ano": 2026,
-      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
-      "data": "2026-02-24T15:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
-    },
     {
       "id": 2605654,
       "tipo": "EMP",
@@ -24,6 +15,15 @@
       "ementa": "Acrescenta art. 149-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de desaparecimento forçado de pessoa, e acrescenta inciso VIII ao art. 1º da Lei nº 8.072, de 25 de julho de 1990, para considerar esse crime hediondo.",
       "data": "2026-03-02T17:39",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605654"
+    },
+    {
+      "id": 2612333,
+      "tipo": "PL",
+      "numero": 1424,
+      "ano": 2026,
+      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "data": "2026-03-26T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
     }
   ],
   "discursos": [

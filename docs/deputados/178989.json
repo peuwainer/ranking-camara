@@ -4,27 +4,9 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178989.jpg",
-  "score": 44.9,
-  "rank": 38,
+  "score": 48.34,
+  "rank": 34,
   "proposicoes": [
-    {
-      "id": 2604097,
-      "tipo": "EMP",
-      "numero": 27,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.",
-      "data": "2026-02-24T14:13",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604097"
-    },
-    {
-      "id": 2604185,
-      "tipo": "EMP",
-      "numero": 44,
-      "ano": 0,
-      "ementa": "Acrescenta o art. 15-E à Lei nº 9.074/1995, para viabilizar a conexão direta entre unidades geradoras e consumidores eletrointensivos, como datacenters.",
-      "data": "2026-02-24T15:56",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604185"
-    },
     {
       "id": 2606798,
       "tipo": "PL",
@@ -150,6 +132,15 @@
       "ementa": "Altera a Lei nº 6.360, de 23 de setembro de 1976, para estabelecer padrões mínimos de legibilidade da data de validade e do número do lote nas embalagens primárias de medicamentos comercializados em cartelas, blisters ou acondicionamentos similares.",
       "data": "2026-03-25T17:37",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611973"
+    },
+    {
+      "id": 2612333,
+      "tipo": "PL",
+      "numero": 1424,
+      "ano": 2026,
+      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "data": "2026-03-26T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
     }
   ],
   "discursos": [],

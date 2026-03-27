@@ -4,18 +4,9 @@
   "partido": "PP",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/123086.jpg",
-  "score": 26.03,
-  "rank": 370,
+  "score": 27.41,
+  "rank": 350,
   "proposicoes": [
-    {
-      "id": 2604173,
-      "tipo": "PEC",
-      "numero": 3,
-      "ano": 2026,
-      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
-      "data": "2026-02-24T15:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
-    },
     {
       "id": 2606317,
       "tipo": "PL",
@@ -24,6 +15,15 @@
       "ementa": "Esta Lei altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940, para tipificar como crime o descumprimento de obrigação estabelecida em medida cautelar diversa da prisão.",
       "data": "2026-03-03T18:06",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606317"
+    },
+    {
+      "id": 2612368,
+      "tipo": "PL",
+      "numero": 1438,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.300, de 6 de janeiro de 2022, que institui o marco legal da microgeração e minigeração distribuída, o Sistema de Compensação de Energia Elétrica (SCEE) e o Programa de Energia Renovável Social (PERS), para garantir a isenção do pagamento de componentes tarifárias pelo uso da rede elétrica por consumidores-geradores de energia solar e outras fontes renováveis.",
+      "data": "2026-03-26T13:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612368"
     }
   ],
   "discursos": [],

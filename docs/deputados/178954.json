@@ -4,36 +4,9 @@
   "partido": "MDB",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178954.jpg",
-  "score": 24.51,
-  "rank": 400,
+  "score": 23.98,
+  "rank": 409,
   "proposicoes": [
-    {
-      "id": 2604090,
-      "tipo": "EMP",
-      "numero": 25,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.",
-      "data": "2026-02-24T14:07",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604090"
-    },
-    {
-      "id": 2604173,
-      "tipo": "PEC",
-      "numero": 3,
-      "ano": 2026,
-      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
-      "data": "2026-02-24T15:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
-    },
-    {
-      "id": 2604362,
-      "tipo": "PLP",
-      "numero": 35,
-      "ano": 2026,
-      "ementa": "Institui Redutor Especial da Contribuição sobre Bens e Serviços – CBS aplicável a produtos da cadeia produtiva de bicicletas fabricados na Zona Franca de Manaus, com o objetivo de preservar o diferencial competitivo constitucionalmente assegurado à região.",
-      "data": "2026-02-24T20:28",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604362"
-    },
     {
       "id": 2608542,
       "tipo": "PL",
@@ -69,6 +42,15 @@
       "ementa": "Altera a Lei Complementar nº 123 de 2006 para reajustar o limite de receita para o transportador autônomo de cargas enquadrado como MEI.",
       "data": "2026-03-19T09:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610690"
+    },
+    {
+      "id": 2612333,
+      "tipo": "PL",
+      "numero": 1424,
+      "ano": 2026,
+      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "data": "2026-03-26T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
     }
   ],
   "discursos": [],

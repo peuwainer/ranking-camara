@@ -4,36 +4,9 @@
   "partido": "PL",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204570.jpg",
-  "score": 30.68,
-  "rank": 252,
+  "score": 30.59,
+  "rank": 267,
   "proposicoes": [
-    {
-      "id": 2603969,
-      "tipo": "PL",
-      "numero": 673,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a obrigatoriedade de afixação de cartazes informativos sobre os sinais e sintomas do Acidente Vascular Cerebral (AVC) e do Infarto Agudo do Miocárdio (IAM) em órgãos públicos e estabelecimentos privados de grande circulação de pessoas, e dá outras providências.",
-      "data": "2026-02-24T10:58",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603969"
-    },
-    {
-      "id": 2603971,
-      "tipo": "PL",
-      "numero": 674,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a obrigatoriedade de inclusão da letra do Hino Nacional Brasileiro na capa dos livros didáticos distribuídos às escolas públicas da educação básica, faculta sua adoção às instituições privadas e dá outras providências.",
-      "data": "2026-02-24T11:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2603971"
-    },
-    {
-      "id": 2604173,
-      "tipo": "PEC",
-      "numero": 3,
-      "ano": 2026,
-      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
-      "data": "2026-02-24T15:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
-    },
     {
       "id": 2605835,
       "tipo": "PL",
@@ -78,6 +51,15 @@
       "ementa": "Dispõe sobre a proibição do acesso, download e utilização de jogos eletrônicos do tipo sandbox, multiplayer online e com interação irrestrita, tais como Roblox e similares, por menores de 18 (dezoito) anos, institui mecanismo obrigatório de verificação de idade, e dá outras providências.",
       "data": "2026-03-25T14:27",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611873"
+    },
+    {
+      "id": 2612333,
+      "tipo": "PL",
+      "numero": 1424,
+      "ano": 2026,
+      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "data": "2026-03-26T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
     }
   ],
   "discursos": [],

@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220534.jpg",
-  "score": 30.63,
-  "rank": 254,
+  "score": 32.51,
+  "rank": 224,
   "proposicoes": [
-    {
-      "id": 2604173,
-      "tipo": "PEC",
-      "numero": 3,
-      "ano": 2026,
-      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
-      "data": "2026-02-24T15:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
-    },
     {
       "id": 2607607,
       "tipo": "PL",
@@ -33,6 +24,15 @@
       "ementa": "Acrescenta o parágrafo § 6º ao art. 39 do Regimento Interno da Câmara dos Deputados, para estabelecer que os cargos de Presidente e de Vice-Presidentes da Comissão de Defesa dos Direitos da Mulher sejam ocupados exclusivamente por Deputadas do sexo feminino.",
       "data": "2026-03-16T11:53",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608967"
+    },
+    {
+      "id": 2612421,
+      "tipo": "PL",
+      "numero": 1445,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006, e a Lei nº 10.826, de 22 de dezembro de 2003, para reforçar as medidas de desarmamento cautelar e de controle institucional do agressor armado nos casos de violência doméstica e familiar contra a mulher, bem como para estabelecer protocolo preventivo de monitoramento institucional e suspensão cautelar do porte, da posse e do acesso a arma de fogo quando agente de segurança for formalmente denunciado por comportamento de risco de natureza sexual ou violenta.",
+      "data": "2026-03-26T14:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612421"
     }
   ],
   "discursos": [],

@@ -4,27 +4,9 @@
   "partido": "SOLIDARIEDADE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
-  "score": 48.5,
+  "score": 50.46,
   "rank": 26,
   "proposicoes": [
-    {
-      "id": 2604028,
-      "tipo": "PL",
-      "numero": 682,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a transparência na formação de preços em aplicativos de transporte individual privado de passageiros, bem como sobre a vedação da utilização de dados pessoais e sensíveis do usuário, como critério para majoração de tarifas.",
-      "data": "2026-02-24T13:19",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604028"
-    },
-    {
-      "id": 2604173,
-      "tipo": "PEC",
-      "numero": 3,
-      "ano": 2026,
-      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
-      "data": "2026-02-24T15:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
-    },
     {
       "id": 2604845,
       "tipo": "PL",
@@ -96,6 +78,15 @@
       "ementa": "Altera a Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), para estender às entidades culturais sem fins lucrativos a imunidade tributária sobre o patrimônio, a renda e os serviços.",
       "data": "2026-03-17T19:17",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609776"
+    },
+    {
+      "id": 2612333,
+      "tipo": "PL",
+      "numero": 1424,
+      "ano": 2026,
+      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "data": "2026-03-26T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RN",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204453.jpg",
-  "score": 34.95,
-  "rank": 154,
+  "score": 38.97,
+  "rank": 112,
   "proposicoes": [
     {
       "id": 2605145,
@@ -60,6 +60,15 @@
       "ementa": "",
       "data": "2026-03-25T19:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612049"
+    },
+    {
+      "id": 2612311,
+      "tipo": "PL",
+      "numero": 1421,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014, para dispor sobre transparência e governança algorítmica, vedar práticas digitais de indução compulsiva e de manipulação abusiva do comportamento do usuário, coibir a amplificação lucrativa de conteúdos ilícitos e a distorção opaca do debate público, e dar outras providências.",
+      "data": "2026-03-26T09:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612311"
     }
   ],
   "discursos": [

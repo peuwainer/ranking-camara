@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/191923.jpg",
-  "score": 37.56,
-  "rank": 105,
+  "score": 42.59,
+  "rank": 70,
   "proposicoes": [
     {
       "id": 2607155,
@@ -42,6 +42,24 @@
       "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro e a Lei nº 12.587, de 2012, que dispõe sobre as diretrizes da Política Nacional de Mobilidade Urbana (PMNU) para disciplinar o uso da faixa preferencial às motocicletas nas vias com alto volume de tráfego.",
       "data": "2026-03-18T09:38",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610146"
+    },
+    {
+      "id": 2612368,
+      "tipo": "PL",
+      "numero": 1438,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.300, de 6 de janeiro de 2022, que institui o marco legal da microgeração e minigeração distribuída, o Sistema de Compensação de Energia Elétrica (SCEE) e o Programa de Energia Renovável Social (PERS), para garantir a isenção do pagamento de componentes tarifárias pelo uso da rede elétrica por consumidores-geradores de energia solar e outras fontes renováveis.",
+      "data": "2026-03-26T13:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612368"
+    },
+    {
+      "id": 2612464,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro e a Lei nº 12.587, de 2012, que dispõe sobre as diretrizes da Política Nacional de Mobilidade Urbana (PMNU) para disciplinar o uso da faixa preferencial às motocicletas nas vias com alto volume de tráfego.",
+      "data": "2026-03-26T15:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612464"
     }
   ],
   "discursos": [

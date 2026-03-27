@@ -4,27 +4,9 @@
   "partido": "PL",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220526.jpg",
-  "score": 28.39,
-  "rank": 314,
+  "score": 28.77,
+  "rank": 316,
   "proposicoes": [
-    {
-      "id": 2604173,
-      "tipo": "PEC",
-      "numero": 3,
-      "ano": 2026,
-      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
-      "data": "2026-02-24T15:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
-    },
-    {
-      "id": 2604351,
-      "tipo": "PL",
-      "numero": 733,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar as penas do crime de estupro de vulnerável e instituir causas de aumento específicas; altera a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para reforçar o tratamento penal do estupro de vulnerável; e altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para prever tratamento hormonal inibidor da libido (castração química), mediante controle judicial e avaliação médica, e monitoramento eletrônico obrigatório como condição na execução penal e no período de egresso, em crimes sexuais contra crianças e adolescentes.",
-      "data": "2026-02-24T19:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604351"
-    },
     {
       "id": 2605904,
       "tipo": "PL",
@@ -42,6 +24,15 @@
       "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados",
       "data": "2026-03-17T19:43",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609794"
+    },
+    {
+      "id": 2612333,
+      "tipo": "PL",
+      "numero": 1424,
+      "ano": 2026,
+      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "data": "2026-03-26T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
     }
   ],
   "discursos": [

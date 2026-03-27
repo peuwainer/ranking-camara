@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220556.jpg",
-  "score": 57.08,
-  "rank": 10,
+  "score": 64.9,
+  "rank": 8,
   "proposicoes": [
-    {
-      "id": 2604378,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Cria o Fundo Nacional dos Profissionais de Saúde com as finalidades e recursos que especifica.",
-      "data": "2026-02-24T19:24",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604378"
-    },
     {
       "id": 2604704,
       "tipo": "PL",
@@ -195,6 +186,24 @@
       "ementa": "Institui a Política Nacional de Atenção Integral ao Climatério e à Menopausa.",
       "data": "2026-03-25T20:37",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612285"
+    },
+    {
+      "id": 2612333,
+      "tipo": "PL",
+      "numero": 1424,
+      "ano": 2026,
+      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "data": "2026-03-26T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
+    },
+    {
+      "id": 2612417,
+      "tipo": "PL",
+      "numero": 1443,
+      "ano": 2026,
+      "ementa": "Dispõe sobre medidas de prevenção e responsabilização no uso de sistemas de in-teligência artificial generativa para a criação de conteúdo sintético não consentido, e dá outras providências.",
+      "data": "2026-03-26T14:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612417"
     }
   ],
   "discursos": [

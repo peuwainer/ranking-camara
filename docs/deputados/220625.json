@@ -4,18 +4,9 @@
   "partido": "AVANTE",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220625.jpg",
-  "score": 36.41,
-  "rank": 131,
+  "score": 38.38,
+  "rank": 121,
   "proposicoes": [
-    {
-      "id": 2604173,
-      "tipo": "PEC",
-      "numero": 3,
-      "ano": 2026,
-      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
-      "data": "2026-02-24T15:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
-    },
     {
       "id": 2607765,
       "tipo": "PL",
@@ -51,17 +42,18 @@
       "ementa": "Altera o art. 39 do Regimento Interno da Câmara dos Deputados, aprovado pela Resolução nº 17, de 1989, para dispor que a Presidência da Comissão de Defesa dos Direitos da Mulher deverá ser exercida por uma Deputada.",
       "data": "2026-03-14T13:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608938"
-    }
-  ],
-  "discursos": [
+    },
     {
-      "data": "2026-02-24T17:16",
-      "fase": "Breves Comunicações",
-      "tipo": "BREVES COMUNICAÇÕES",
-      "resumo": "A SRA. DELEGADA IONE (Bloco/AVANTE - MG. Sem revisão da oradora.) - Sr. Presidente, Sras. e Srs. Parlamentares, subo agora a esta tribuna com o coração profundamente entristecido para falar sobre a tr",
-      "transcricao": "A SRA. DELEGADA IONE (Bloco/AVANTE - MG. Sem revisão da oradora.) - Sr. Presidente, Sras. e Srs. Parlamentares, subo agora a esta tribuna com o coração profundamente entristecido para falar sobre a tragédia que assola a Zona da Mata mineira. As fortes chuvas que atingiram a região deixaram até o momento 22 mortes confirmadas, sendo dezesseis na minha cidade querida de Juiz de Fora e seis em Ubá, tendo sido decretado o estado de calamidade pública. São vidas interrompidas, Presidente, famílias destruídas, sonhos que jamais poderão ser construídos. Já estava em Brasília quando tudo aconteceu e já estou providenciando o meu retorno rapidamente. Não estamos falando aqui apenas de números. Estamos falando de mães, de pais, de filhos, trabalhadores, idosos e crianças que perderam as suas vidas em meio a um cenário de medo, desespero e abandono. Cada uma dessas vítimas representa uma história que foi arrancada de forma brutal pela força das águas. Têm a nossa total solidariedade. É nosso dever enquanto representantes do povo ir além da comoção. Precisamos agir, precisamos discutir políticas estruturais de prevenção, investimento em drenagem urbana, contenção de encostas, planejamento territorial e habitação segura. Reconheço e parabenizo o trabalho incansável da equipe da Defesa Civil, do Corpo de Bombeiros, das forças de segurança, dos profissionais de saúde e de todos os voluntários que estão atuando dia e noite no resgate e no acolhimento das vítimas, mas não podemos continuar reagindo apenas depois que a tragédia aconteceu. Os fenômenos climáticos estão cada vez mais intensos e frequentes. Isso exige planejamento, isso exige responsabilidade e ação coordenada entre Município, Estado e União. Que Deus nos abençoe, Presidente. Muito obrigada."
+      "id": 2612333,
+      "tipo": "PL",
+      "numero": 1424,
+      "ano": 2026,
+      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "data": "2026-03-26T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
     }
   ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

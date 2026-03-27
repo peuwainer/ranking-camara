@@ -4,45 +4,9 @@
   "partido": "PSB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204534.jpg",
-  "score": 43.99,
-  "rank": 40,
+  "score": 44.65,
+  "rank": 55,
   "proposicoes": [
-    {
-      "id": 2604289,
-      "tipo": "EMP",
-      "numero": 62,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.",
-      "data": "2026-02-24T18:15",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604289"
-    },
-    {
-      "id": 2604352,
-      "tipo": "EMP",
-      "numero": 72,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.",
-      "data": "2026-02-24T20:01",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604352"
-    },
-    {
-      "id": 2604353,
-      "tipo": "EMP",
-      "numero": 73,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.",
-      "data": "2026-02-24T20:01",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604353"
-    },
-    {
-      "id": 2604354,
-      "tipo": "EMP",
-      "numero": 74,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.",
-      "data": "2026-02-24T20:01",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604354"
-    },
     {
       "id": 2604664,
       "tipo": "PL",
@@ -96,6 +60,24 @@
       "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, que dispõe sobre a modalidade lotérica denominada apostas de quota fixa, para tratar sobre publicidade e propaganda de apostas em ambiente digital.",
       "data": "2026-03-16T13:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608992"
+    },
+    {
+      "id": 2612333,
+      "tipo": "PL",
+      "numero": 1424,
+      "ano": 2026,
+      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "data": "2026-03-26T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
+    },
+    {
+      "id": 2612340,
+      "tipo": "PL",
+      "numero": 1425,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha) para aprimorar os procedimentos nela previstos e ampliar a disponibilidade de dados para formulação de políticas públicas para coibir a violência doméstica e familiar contra a mulher.",
+      "data": "2026-03-26T10:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612340"
     }
   ],
   "discursos": [],

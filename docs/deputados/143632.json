@@ -4,36 +4,9 @@
   "partido": "PSD",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/143632.jpg",
-  "score": 32.3,
-  "rank": 219,
+  "score": 31.84,
+  "rank": 241,
   "proposicoes": [
-    {
-      "id": 2604171,
-      "tipo": "EMP",
-      "numero": 43,
-      "ano": 0,
-      "ementa": "Dá nova redação ao inciso III, §2º do art. 2º - A da Lei nº 11.508, de 20 de julho de 2007; para modernizar o regime das Zonas de Processamento de Exportação (ZPE), adequando-o às operações de serviços tecnológicos, digitais e vinculados à exportação.",
-      "data": "2026-02-24T15:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604171"
-    },
-    {
-      "id": 2604319,
-      "tipo": "EMP",
-      "numero": 69,
-      "ano": 0,
-      "ementa": "Dá nova redação ao inciso III, §2º do art. 2º - A da Lei nº 11.508, de 20 de julho de 2007 e aos aos arts. 6º-B, 6º-C, 6º-G, 8º, 21-A e 21-C da Lei nº 11.508, de 20 de julho de 2007; acresce os arts. 2º-A e 6º-I; e revoga o § 5º do art. 21-C, para modernizar o regime das Zonas de Processamento de Exportação (ZPE), adequando-o às operações de serviços tecnológicos, digitais e vinculados à exportação.",
-      "data": "2026-02-24T18:52",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604319"
-    },
-    {
-      "id": 2604325,
-      "tipo": "EMP",
-      "numero": 70,
-      "ano": 0,
-      "ementa": "Altera o Projeto de Lei nº 278, de 2026, para reconhecer o Gás Natural, o Biometano como fontes aptas ao atendimento dos critérios de sustentabilidade energética aplicáveis aos serviços de datacenter.",
-      "data": "2026-02-24T19:16",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604325"
-    },
     {
       "id": 2605096,
       "tipo": "PL",
@@ -60,6 +33,15 @@
       "ementa": "Institui a Modalidade de Assistência de Transição de Cuidados no âmbito do Sistema Único de Saúde (SUS), altera a Lei nº 8.080, de 19 de setembro de 1990, e dispõe sobre suas fontes de financiamento e diretrizes de implementação.",
       "data": "2026-03-05T17:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607228"
+    },
+    {
+      "id": 2612532,
+      "tipo": "PL",
+      "numero": 1451,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.433, de 8 de janeiro de 1997, e a Lei nº 11.445, de 5 de janeiro de 2007, e dá outras providências, para ampliar a oferta hídrica e promover a eficiência no uso da água, prioritariamente em regiões com balanço hídrico crítico.",
+      "data": "2026-03-26T18:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612532"
     }
   ],
   "discursos": [

@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74161.jpg",
-  "score": 24.29,
-  "rank": 404,
+  "score": 25.91,
+  "rank": 377,
   "proposicoes": [
     {
       "id": 2608318,
@@ -24,17 +24,18 @@
       "ementa": "Institui a Política Nacional de Programas e Grupos Reflexivos sobre Masculinidades, Prevenção da Violência e Cultura de Paz, estabelece seus princípios, objetivos e diretrizes, e dá outras providências",
       "data": "2026-03-12T12:35",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608574"
-    }
-  ],
-  "discursos": [
+    },
     {
-      "data": "2026-02-24T17:28",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. REGINALDO LOPES (Bloco/PT - MG. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente Charles Fernandes. Quero só dizer que a sociedade brasileira se unifica com o Governo do Presidente Lul",
-      "transcricao": "O SR. REGINALDO LOPES (Bloco/PT - MG. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente Charles Fernandes. Quero só dizer que a sociedade brasileira se unifica com o Governo do Presidente Lula na luta pela redução da escala de trabalho, pelo fim da 6 por 1. É interessante como a sociedade, algumas grandes marcas e empresas perceberam que o trabalhador está pedindo socorro e precisa de qualidade de vida, precisa de vida além do trabalho. São várias marcas. Eu comecei a citar algumas marcas, e agora meu WhatsApp recebe toda hora marcas antecipando a nossa aprovação do fim da escala 6 por 1 e início da 5 por 2 e dizendo que começarão, então, a implementar a escala no mês de março. São várias marcas importantes, como Drogaria Pacheco, Pague Menos, Supernosso, em Minas, vários supermercados. Paraná e Espírito Santo são exemplos. Fecharam aos domingos e organizaram a escala 5 por 2. Portanto, é isto: sociedade civilizada protege a saúde do trabalhador."
+      "id": 2612333,
+      "tipo": "PL",
+      "numero": 1424,
+      "ano": 2026,
+      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "data": "2026-03-26T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
     }
   ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Centro de Estudos e Debates Estratégicos",

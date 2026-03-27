@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220697.jpg",
-  "score": 30.96,
-  "rank": 243,
+  "score": 32.91,
+  "rank": 216,
   "proposicoes": [
-    {
-      "id": 2604173,
-      "tipo": "PEC",
-      "numero": 3,
-      "ano": 2026,
-      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
-      "data": "2026-02-24T15:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
-    },
     {
       "id": 2607414,
       "tipo": "SBT",
@@ -42,6 +33,15 @@
       "ementa": "Dispõe sobre a transparência na utilização de sistemas automatizados de definição ou alteração de preços e estabelece limites ao uso de precificação algorítmica em bens essenciais nas relações de consumo, e altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor).",
       "data": "2026-03-20T12:24",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611053"
+    },
+    {
+      "id": 2612368,
+      "tipo": "PL",
+      "numero": 1438,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.300, de 6 de janeiro de 2022, que institui o marco legal da microgeração e minigeração distribuída, o Sistema de Compensação de Energia Elétrica (SCEE) e o Programa de Energia Renovável Social (PERS), para garantir a isenção do pagamento de componentes tarifárias pelo uso da rede elétrica por consumidores-geradores de energia solar e outras fontes renováveis.",
+      "data": "2026-03-26T13:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612368"
     }
   ],
   "discursos": [],

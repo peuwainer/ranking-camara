@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220654.jpg",
-  "score": 39.42,
-  "rank": 79,
+  "score": 40.71,
+  "rank": 90,
   "proposicoes": [
-    {
-      "id": 2604173,
-      "tipo": "PEC",
-      "numero": 3,
-      "ano": 2026,
-      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
-      "data": "2026-02-24T15:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
-    },
     {
       "id": 2605648,
       "tipo": "SBT",
@@ -42,17 +33,18 @@
       "ementa": "",
       "data": "2026-03-17T19:24",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609779"
-    }
-  ],
-  "discursos": [
+    },
     {
-      "data": "2026-02-24T15:12",
-      "fase": "Breves Comunicações",
-      "tipo": "BREVES COMUNICAÇÕES",
-      "resumo": "O SR. DELEGADO PAULO BILYNSKYJ (PL - SP. Sem revisão do orador.) - Sr. Presidente, amigos Deputados, hoje acontece a audiência de custódia de um lixo humano, um indivíduo de 33 anos que matou uma frei",
-      "transcricao": "O SR. DELEGADO PAULO BILYNSKYJ (PL - SP. Sem revisão do orador.) - Sr. Presidente, amigos Deputados, hoje acontece a audiência de custódia de um lixo humano, um indivíduo de 33 anos que matou uma freira, a Irmã Nadia, que tinha 55 anos de vida religiosa, 55 anos dedicados ao bem da população, única e exclusivamente ao bem da população e ao nosso Senhor Jesus Cristo. Esse lixo humano, com 33 anos de idade, já tinha sido preso por roubo, por porte ilegal de arma de fogo, por violência doméstica diversas vezes. Ele estava preso até o dia 30 de dezembro de 2025. Saiu da cadeia e, no dia 21 de fevereiro, disse que estava com a cabeça cheia de drogas, que estava ouvindo vozes, pulou o muro do convento e matou a Irmã Nadia. Trata-se de um lixo, de um bosta, de um ser humano que não devia estar lá, de forma alguma. Ele devia estar preso e encarcerado pelo resto da vida dele, por todos os crimes que cometeu previamente. Sabem por que ele estava na rua? Sabem por que ele estava solto? Ele estava solto por causa daquele lado ali do Plenário, a Esquerda, que o tempo todo está aqui defendendo bandido, ladrão, criminoso, traficante, estuprador. É isso que eles fazem. No Brasil, o custo do crime é quase zero. O ladrão está aí, está na Presidência, está no Judiciário, está aqui dentro da Câmara. Eles não estão nem aí. Eles querem mais é que o País seja entregue ao crime, à bandidagem, ao crime organizado. Ocorre que esse lixo tirou a vida da Irmã Nadia. Esse lixo que eles tanto defendem, que eles tanto querem que seja ressocializado, que esteja livre, que esteja à disposição da população, devia estar preso, devia estar morto, mas está solto. Um cara que não tem nada, que nunca produziu nada, que nunca fez nada de bom para a sociedade, saiu da cadeia, graças à política da Esquerda, encheu a cabeça de drogas e tirou a vida de uma mulher que dedicou toda a sua existência a fazer o bem. Existe muita coisa injusta na vida  muita! , mas esse tipo de injustiça, Presidente, esse tipo de injustiça não deixa nenhum de nós neste Plenário, não deixa nenhum brasileiro dormir tranquilo, sabendo que, enquanto a Esquerda estiver no poder, esse tipo de episódio vai continuar a se repetir. Ou a gente tira a Esquerda do poder ou a gente entrega o Brasil para o crime. Muito obrigado."
+      "id": 2612291,
+      "tipo": "PL",
+      "numero": 1419,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.009, de 29 de julho de 2009, para modificar requisitos necessários ao exercício das atividades de transporte remunerado de passageiros e de mercadorias, com a utilização de motocicletas e motonetas.",
+      "data": "2026-03-25T22:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612291"
     }
   ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a acompanhar as ações de prevenção e combate ao câncer, ao acidente vascular cerebral (AVC) e às doenças do coração.",

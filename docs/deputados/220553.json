@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220553.jpg",
-  "score": 49.41,
-  "rank": 22,
+  "score": 56.6,
+  "rank": 13,
   "proposicoes": [
     {
       "id": 2605145,
@@ -123,6 +123,24 @@
       "ementa": "Institui a Política Nacional para as Comissões de Apoio à Cinematografia (film commissions).",
       "data": "2026-03-24T12:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611435"
+    },
+    {
+      "id": 2612382,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a criação de espaços de acolhimento para mulheres em eventos culturais, festivais de música e casas de shows.",
+      "data": "2026-03-26T14:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612382"
+    },
+    {
+      "id": 2612399,
+      "tipo": "PL",
+      "numero": 1440,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.192, de 4 de agosto de 2021, para dispor sobre o combate à violência política de gênero e raça, inclusive em meios digitais, e dá outras providências.",
+      "data": "2026-03-26T14:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612399"
     }
   ],
   "discursos": [

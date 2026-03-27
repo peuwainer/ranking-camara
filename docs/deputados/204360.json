@@ -4,18 +4,9 @@
   "partido": "PP",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
-  "score": 41.1,
-  "rank": 61,
+  "score": 41.83,
+  "rank": 77,
   "proposicoes": [
-    {
-      "id": 2604173,
-      "tipo": "PEC",
-      "numero": 3,
-      "ano": 2026,
-      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
-      "data": "2026-02-24T15:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
-    },
     {
       "id": 2605546,
       "tipo": "SBT",
@@ -62,15 +53,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610020"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-02-24T18:56",
-      "fase": "Breves Comunicações",
-      "tipo": "BREVES COMUNICAÇÕES",
-      "resumo": "A SRA. SILVIA CRISTINA (Bloco/PP - RO. Sem revisão da oradora.) - Presidente, o poder de uma mulher não está em ocupar cargos. O poder de nós mulheres não está em ocupar cargos, mas em mudar destinos.",
-      "transcricao": "A SRA. SILVIA CRISTINA (Bloco/PP - RO. Sem revisão da oradora.) - Presidente, o poder de uma mulher não está em ocupar cargos. O poder de nós mulheres não está em ocupar cargos, mas em mudar destinos. Hoje é um dia importante, um dia para lembrarmos que nem sempre nós mulheres tivemos o direito de votar. No início, nós fomos excluídas das decisões mais importantes do nosso País. Não podíamos escolher os nossos representantes e não podíamos participar de decisões que impactavam as nossas próprias vidas. Mas nós lutamos e conquistamos esses direitos. Somente em 1932, no Governo de Getúlio Vargas, é que foi garantido o voto feminino. Foi um passo histórico realmente, fruto do trabalho de mulheres que nos antecederam e que brigaram por isso. Hoje, nós somos a maioria do eleitorado, mas não somos só número: nós temos o poder de decisão. O voto é, sim, a nossa voz. É um instrumento de mudança, uma ferramenta de transformação que realmente acontece. Agora, o seguinte recado, especialmente para todas as mulheres que estão me acompanhando neste momento aqui na tribuna da Câmara Federal: que cada mulher tenha consciência da força que carrega quando aperta a tecla \"confirma\" nas eleições. Participar da política é exercer cidadania, é ocupar espaços, é mostrar que nós mulheres somos iguais, capazes e somos protagonistas da nossa própria história. Aquele foi um dia histórico, porque somente em 24 de fevereiro de 1932 é que tivemos essa conquista: a permissão do voto feminino. Vamos em frente, mulheres, porque, assim como todos os homens  não é briga de sexos , nós podemos trabalhar, mas somos a maioria e temos, sim, o poder de decisão e protagonismo na história política do Brasil. Muito obrigada, Presidente."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a acompanhar as ações de prevenção e combate ao câncer, ao acidente vascular cerebral (AVC) e às doenças do coração.",

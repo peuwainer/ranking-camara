@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220673.jpg",
-  "score": 40.15,
-  "rank": 72,
+  "score": 42.68,
+  "rank": 69,
   "proposicoes": [
-    {
-      "id": 2604173,
-      "tipo": "PEC",
-      "numero": 3,
-      "ano": 2026,
-      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
-      "data": "2026-02-24T15:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
-    },
     {
       "id": 2606914,
       "tipo": "PL",
@@ -69,6 +60,15 @@
       "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer prioridade e presunção de efetiva necessidade na concessão de autorização para aquisição, posse e porte de arma de fogo às mulheres vítimas de violência doméstica e familiar em situação de risco.",
       "data": "2026-03-10T17:46",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607869"
+    },
+    {
+      "id": 2612501,
+      "tipo": "PL",
+      "numero": 1449,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de gravação audiovisual e transmissão em tempo real dos procedimentos licitatórios e dá outras providências.",
+      "data": "2026-03-26T16:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612501"
     }
   ],
   "discursos": [
@@ -169,13 +169,6 @@
       "tipo": "PELA ORDEM",
       "resumo": "O SR. DELEGADO CAVEIRA (PL - PA. Pela ordem. Sem revisão do orador.) - No Brasil, neste final de semana, no dia 1º de março, haverá manifestações em favor da nossa Pátria, da Constituição Federal, bem",
       "transcricao": "O SR. DELEGADO CAVEIRA (PL - PA. Pela ordem. Sem revisão do orador.) - No Brasil, neste final de semana, no dia 1º de março, haverá manifestações em favor da nossa Pátria, da Constituição Federal, bem como para pedirmos a libertação do Presidente Bolsonaro e dos demais presos políticos. Quero convocar todos os patriotas e conservadores para uma grande manifestação em Belém do Pará, a partir das 8h30min, saindo da Escadinha, onde vamos gritar, junto com vários patriotas e conservadores, em alto e bom som: \"Fora, Lula!\", \"Fora, Moraes!\", \"Fora, Dias Toffoli!\". \"Brasil acima de tudo!\"."
-    },
-    {
-      "data": "2026-02-24T18:00",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. DELEGADO CAVEIRA (PL - PA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, há 8 anos a saúde pública do Estado do Pará em nada mudou, muito pelo contrário, vem piorando substancialmente, s",
-      "transcricao": "O SR. DELEGADO CAVEIRA (PL - PA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, há 8 anos a saúde pública do Estado do Pará em nada mudou, muito pelo contrário, vem piorando substancialmente, sob o comando do \"Pinóquio do Norte\", Hélder Barbalho. E o mais grave é que na Calha Norte, na cidade de Óbidos, existe um tomógrafo que está encaixotado há aproximadamente 2 anos. Mas o Prefeito Jaime Silva, o lambanceiro daquela cidade, está deixando o povo morrer em fila de hospitais. Está um caos a cidade toda. As vicinais da cidade são puro buraco. A cidade parece um queijo suíço de tanto problema que tem. E ainda me deixam um tomógrafo deste parado sem dar o mínimo de assistência  para concluir, Presidente  à saúde daquele povo. Mas quero dizer que estive lá na cidade de Óbidos, com o Vereador Nael Vasconcelos Base do Povo, e quero pedir encarecidamente ao Nael Vasconcelos que procure, de todas as formas, que o Prefeito lambanceiro instale o tomógrafo para salvar a vida do povo. Se preciso for, que procure o Ministério Público. Muito obrigado, Presidente."
     }
   ],
   "orgaos": [

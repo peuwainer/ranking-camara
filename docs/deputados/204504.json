@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
-  "score": 33.43,
-  "rank": 195,
+  "score": 36.09,
+  "rank": 157,
   "proposicoes": [
     {
       "id": 2608427,
@@ -33,6 +33,15 @@
       "ementa": "Altera o art. 48 da Lei nº 9.472 de 1997 para prever hipótese de não incidência de preço público em ajustes técnicos de estações de radiodifusão.",
       "data": "2026-03-24T11:37",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611403"
+    },
+    {
+      "id": 2612345,
+      "tipo": "PL",
+      "numero": 1426,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 14.166, de 10 de junho de 2021, e nº 7.827, de 27 de setembro de 1989, para dispor sobre a observância dos critérios do Código de Processo Civil na fixação de honorários advocatícios nas hipóteses de renegociação extraordinária de dívidas no âmbito dos Fundos Constitucionais de Financiamento que se encontrem em cobrança judicial.",
+      "data": "2026-03-26T11:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612345"
     }
   ],
   "discursos": [],

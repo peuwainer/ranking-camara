@@ -4,18 +4,9 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141450.jpg",
-  "score": 37.41,
-  "rank": 111,
+  "score": 40.78,
+  "rank": 88,
   "proposicoes": [
-    {
-      "id": 2604241,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "",
-      "data": "2026-02-24T16:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604241"
-    },
     {
       "id": 2605403,
       "tipo": "SBT",
@@ -96,6 +87,15 @@
       "ementa": "Dispõe sobre os regimes de resolução das instituições autorizadas a funcionar pelo Banco Central do Brasil, pela Superintendência de Seguros Privados e pela Comissão de Valores Mobiliários.",
       "data": "2026-03-18T17:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610431"
+    },
+    {
+      "id": 2612333,
+      "tipo": "PL",
+      "numero": 1424,
+      "ano": 2026,
+      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "data": "2026-03-26T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
     }
   ],
   "discursos": [

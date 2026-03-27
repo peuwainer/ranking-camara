@@ -4,36 +4,9 @@
   "partido": "PSDB",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178966.jpg",
-  "score": 35.21,
-  "rank": 150,
+  "score": 34.3,
+  "rank": 194,
   "proposicoes": [
-    {
-      "id": 2604104,
-      "tipo": "PL",
-      "numero": 690,
-      "ano": 2026,
-      "ementa": "Dispõe sobre medidas de proteção à cadeia produtiva do arroz, estabelecendo restrições temporárias à importação quando o preço de mercado for inferior ao custo de produção.",
-      "data": "2026-02-24T13:53",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604104"
-    },
-    {
-      "id": 2604134,
-      "tipo": "EMP",
-      "numero": 39,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025",
-      "data": "2026-02-24T14:38",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604134"
-    },
-    {
-      "id": 2604173,
-      "tipo": "PEC",
-      "numero": 3,
-      "ano": 2026,
-      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
-      "data": "2026-02-24T15:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
-    },
     {
       "id": 2605944,
       "tipo": "PL",
@@ -42,6 +15,15 @@
       "ementa": "Institui o Programa Empresa Doadora de Sangue, para incentivar a doação regular voluntária de sangue por colaboradores de empresas privadas, e concede benefícios fiscais e institucionais, nos termos que especifica.",
       "data": "2026-03-03T12:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605944"
+    },
+    {
+      "id": 2612333,
+      "tipo": "PL",
+      "numero": 1424,
+      "ano": 2026,
+      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "data": "2026-03-26T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
     }
   ],
   "discursos": [

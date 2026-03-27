@@ -4,9 +4,19 @@
   "partido": "PSB",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204550.jpg",
-  "score": 7.49,
-  "rank": 507,
-  "proposicoes": [],
+  "score": 9.2,
+  "rank": 504,
+  "proposicoes": [
+    {
+      "id": 2612333,
+      "tipo": "PL",
+      "numero": 1424,
+      "ano": 2026,
+      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "data": "2026-03-26T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

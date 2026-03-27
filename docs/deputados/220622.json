@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220622.jpg",
-  "score": 10.95,
-  "rank": 502,
+  "score": 12.07,
+  "rank": 496,
   "proposicoes": [
     {
       "id": 2611606,
@@ -50,15 +50,15 @@
       "desde": "2026-03-19T00:00"
     },
     {
-      "nome": "Comissão de Educação",
-      "sigla": "CE",
-      "cargo": "Suplente",
-      "desde": "2026-03-19T00:00"
-    },
-    {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
       "sigla": "BANEGRA",
       "cargo": "Titular",
+      "desde": "2026-03-19T00:00"
+    },
+    {
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
+      "cargo": "Suplente",
       "desde": "2026-03-19T00:00"
     },
     {
@@ -66,6 +66,12 @@
       "sigla": "CPASF",
       "cargo": "Titular",
       "desde": "2026-03-23T00:00"
+    },
+    {
+      "nome": "Comissão Externa destinada a acompanhar, fiscalizar e propor medidas relativas aos impactos das chuvas intensas ocorridas na Zona da Mata de Minas Gerais",
+      "sigla": "CEXZMATA",
+      "cargo": "Titular",
+      "desde": "2026-03-26T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220622/votacoes-nominais-plenario/2026"

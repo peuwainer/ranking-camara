@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220611.jpg",
-  "score": 40.06,
-  "rank": 73,
+  "score": 43.39,
+  "rank": 60,
   "proposicoes": [
-    {
-      "id": 2604173,
-      "tipo": "PEC",
-      "numero": 3,
-      "ano": 2026,
-      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
-      "data": "2026-02-24T15:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
-    },
     {
       "id": 2608135,
       "tipo": "SBT",
@@ -87,6 +78,15 @@
       "ementa": "Altera a Lei nº 15.075, de 26 de dezembro de 2024, a Lei nº 9.478, de 6 de agosto de 1997, e a Lei nº 12.351, de 22 de dezembro de 2010, para dispor sobre bonificações de conteúdo local e seu uso em contratos de exploração e produção de petróleo e gás natural no Brasil e no exterior, com vistas à promoção da indústria nacional de bens e serviços.",
       "data": "2026-03-24T18:25",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611624"
+    },
+    {
+      "id": 2612333,
+      "tipo": "PL",
+      "numero": 1424,
+      "ano": 2026,
+      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "data": "2026-03-26T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
     }
   ],
   "discursos": [],

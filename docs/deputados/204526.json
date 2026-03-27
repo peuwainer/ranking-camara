@@ -4,27 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204526.jpg",
-  "score": 29.72,
-  "rank": 281,
+  "score": 30.35,
+  "rank": 273,
   "proposicoes": [
-    {
-      "id": 2604173,
-      "tipo": "PEC",
-      "numero": 3,
-      "ano": 2026,
-      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
-      "data": "2026-02-24T15:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
-    },
-    {
-      "id": 2604227,
-      "tipo": "EMP",
-      "numero": 49,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para instituir o Regime Especial de Tributação para Serviços de Datacenter – REDATA, e a Lei nº 15.211, de 17 de setembro de 2025.",
-      "data": "2026-02-24T16:31",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604227"
-    },
     {
       "id": 2605433,
       "tipo": "PL",
@@ -60,17 +42,18 @@
       "ementa": "Altera a Lei Complementar nº 97, de 9 de junho de 1999, para explicitar a competência subsidiária das Forças Armadas no combate ao terrorismo, ao narcotráfico e ao tráfico de pessoas, no âmbito de ações de segurança nacional e de enfrentamento a ameaças transnacionais.",
       "data": "2026-03-23T14:26",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611265"
-    }
-  ],
-  "discursos": [
+    },
     {
-      "data": "2026-02-24T19:28",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. LUIZ PHILIPPE DE ORLEANS E BRAGANÇA (PL - SP. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Eu gostaria de chamar a atenção dos colegas para o voto com relação ao projeto antifacçã",
-      "transcricao": "O SR. LUIZ PHILIPPE DE ORLEANS E BRAGANÇA (PL - SP. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Eu gostaria de chamar a atenção dos colegas para o voto com relação ao projeto antifacção. O que estamos vendo no México são facções criminosas, que se transformaram em cartéis, hoje acabando com o país. O México é terra arrasada, é um Estado fracassado. As suas instituições não têm legitimidade. Ele está totalmente carcomido por grandes cartéis, e as forças de segurança não têm efetividade nenhuma. Por quê? Porque ele não combateu as facções quando elas passaram a existir. Precisamos acabar com as facções no nascedouro. Isso é o preâmbulo de um cartel. Nós já vemos aqui centenas de facções operando livremente. Meus caros, esse projeto é de extrema urgência, de extrema importância para todos os matizes da política, para a Esquerda, para a Direita, para o Centro. Uma vez que há cartel dominando, esqueçam isto aqui, meus caros, esqueçam poder executivo, esqueçam poder judiciário, esqueçam que há uma república. Volta-se a uma guerra feudal, territorial e totalmente destrutiva de qualquer tentativa de criação de uma civilização e de proteção da cidadania. Meus caros, o voto hoje tem que ser favorável a esse plano. O Deputado Guilherme Derrite vai ser o grande Relator desse projeto. Peço, encarecidamente, a atenção de todos, para salvarmos o nosso Brasil. Muito obrigado, Presidente."
+      "id": 2612333,
+      "tipo": "PL",
+      "numero": 1424,
+      "ano": 2026,
+      "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
+      "data": "2026-03-26T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
     }
   ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",

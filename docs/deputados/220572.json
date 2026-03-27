@@ -4,18 +4,9 @@
   "partido": "MDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220572.jpg",
-  "score": 13.39,
-  "rank": 492,
+  "score": 12.49,
+  "rank": 493,
   "proposicoes": [
-    {
-      "id": 2604173,
-      "tipo": "PEC",
-      "numero": 3,
-      "ano": 2026,
-      "ementa": "Altera o art. 155 da Constituição Federal para estabelecer alíquota máxima e base de cálculo exclusiva do Imposto sobre a Propriedade de Veículos Automotores – IPVA, e acrescenta dispositivos ao Ato das Disposições Constitucionais Transitórias para limitar despesas com publicidade institucional e com o Poder Legislativo.",
-      "data": "2026-02-24T15:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604173"
-    },
     {
       "id": 2605145,
       "tipo": "PL",
@@ -26,15 +17,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605145"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-02-24T16:00",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "A SRA. MARUSSA BOLDRIN (Bloco/MDB - GO. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Eu gostaria de registrar a presença muito especial do Município de Caldas Novas nesta cidade, na pe",
-      "transcricao": "A SRA. MARUSSA BOLDRIN (Bloco/MDB - GO. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Eu gostaria de registrar a presença muito especial do Município de Caldas Novas nesta cidade, na pessoa do Vereador Andrei Barbosa, que está aqui com uma comitiva de mulheres empreendedoras daquele Município. Hoje, um dia especial, no qual se comemora a conquista do voto feminino, Presidente, temos aqui uma comitiva de mulheres de Caldas Novas representando o nosso Estado de Goiás e o nosso Brasil. Muito obrigada."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",
