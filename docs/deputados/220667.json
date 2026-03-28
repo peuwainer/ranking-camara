@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220667.jpg",
-  "score": 37.44,
-  "rank": 135,
+  "score": 38.41,
+  "rank": 118,
   "proposicoes": [
     {
       "id": 2607582,
@@ -15,6 +15,15 @@
       "ementa": "Institui a Política de Atenção Integral e Proteção às Mulheres Sobreviventes de Tentativas de Feminicídio",
       "data": "2026-03-09T16:29",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607582"
+    },
+    {
+      "id": 2612588,
+      "tipo": "PL",
+      "numero": 1460,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proteção da identidade pessoal contra a criação e a difusão não autorizadas de réplicas digitais.",
+      "data": "2026-03-27T15:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612588"
     }
   ],
   "discursos": [
@@ -66,13 +75,6 @@
       "tipo": "PELA ORDEM",
       "resumo": "O SR. PEDRO CAMPOS (PSB - PE. Pela ordem. Sem revisão do orador.) - Presidente, boa noite a todas e todos. Eu queria pedir licença aos meus colegas pajeuzeiros, inclusive a Carlos Veras, para recitar ",
       "transcricao": "O SR. PEDRO CAMPOS (PSB - PE. Pela ordem. Sem revisão do orador.) - Presidente, boa noite a todas e todos. Eu queria pedir licença aos meus colegas pajeuzeiros, inclusive a Carlos Veras, para recitar uma poesia de Rogaciano Leite, lá de São José do Egito. Aos Críticos Senhores críticos, basta! Deixa-me passar sem pejo, Que o trovador sertanejo Vai seu pinho dedilhar Eu sou da terra onde as almas São todas de cantadores:  Sou do Pajeú das Flores  Tenho razão de cantar! Não sou um Manuel Bandeira, Drummond, nem Jorge de Lima; Não espereis obra-prima Deste matuto plebeu!... Eles cantam suas praias, Palácios de porcelana, Eu canto a roça, a cabana, Canto o sertão que ele é meu! Viva a cultura do Pajeú! Viva a Poesia do Pajeú! Parabenizo a iniciativa do Deputado Túlio Gadêlha e a relatoria do Deputado Carlos Veras de reconhecer a Poesia do Pajeú como expressão da cultura nacional."
-    },
-    {
-      "data": "2026-02-25T18:24",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. PEDRO CAMPOS (PSB - PE. Pela ordem. Sem revisão do orador.) - Presidente, quero agradecer o tempo de orientação. Hoje, nós vivemos um dia histórico aqui. São mais de 25 anos de negociações entre",
-      "transcricao": "O SR. PEDRO CAMPOS (PSB - PE. Pela ordem. Sem revisão do orador.) - Presidente, quero agradecer o tempo de orientação. Hoje, nós vivemos um dia histórico aqui. São mais de 25 anos de negociações entre o Mercosul e a União Europeia, e é lógico que, num acordo que demorou tanto tempo para ser negociado, seria impossível que todo mundo ficasse satisfeito com todos os pontos que estavam colocados. O esforço de negociação, o esforço diplomático foi no sentido de apontar para um mundo cada vez mais conectado, que não dependa apenas de duas grandes nações, de uma polarização mundial, mas no qual o Brasil e o Mercosul possam acessar novos mercados e ter essa força da relação com a União Europeia, gerando emprego, renda e oportunidade aqui no Brasil. E que a gente possa, à medida que esse acordo seja implementado, aprimorá-lo, para garantir que não atrapalhe a indústria nacional e o desenvolvimento do nosso País em setores nos quais nós ainda estamos atrás da União Europeia."
     }
   ],
   "orgaos": [

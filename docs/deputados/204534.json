@@ -4,18 +4,9 @@
   "partido": "PSB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204534.jpg",
-  "score": 44.65,
-  "rank": 55,
+  "score": 45.08,
+  "rank": 46,
   "proposicoes": [
-    {
-      "id": 2604664,
-      "tipo": "PL",
-      "numero": 746,
-      "ano": 2026,
-      "ementa": "Altera as Leis nºs 7.492, de 16 de junho de 1986, 9.613, de 3 de março de 1998, e 12.850, de 2 de agosto de 2013, para disciplinar a responsabilidade penal na gestão de instituições financeiras e a evasão de divisas mediante ativos virtuais, instituir causas de aumento de pena no crime de lavagem de dinheiro e dispor sobre o acesso a dados cadastrais e o compartilhamento de relatórios de inteligência financeira.",
-      "data": "2026-02-25T12:50",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2604664"
-    },
     {
       "id": 2605145,
       "tipo": "PL",
@@ -78,6 +69,15 @@
       "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha) para aprimorar os procedimentos nela previstos e ampliar a disponibilidade de dados para formulação de políticas públicas para coibir a violência doméstica e familiar contra a mulher.",
       "data": "2026-03-26T10:50",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612340"
+    },
+    {
+      "id": 2612588,
+      "tipo": "PL",
+      "numero": 1460,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proteção da identidade pessoal contra a criação e a difusão não autorizadas de réplicas digitais.",
+      "data": "2026-03-27T15:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612588"
     }
   ],
   "discursos": [],
