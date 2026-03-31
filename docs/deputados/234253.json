@@ -4,8 +4,8 @@
   "partido": "REDE",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/234253.jpg",
-  "score": 40.9,
-  "rank": 76,
+  "score": 29.23,
+  "rank": 264,
   "proposicoes": [
     {
       "id": 2607961,
@@ -132,6 +132,24 @@
       "ementa": "Altera a legislação relativa ao sistema financeiro nacional para dispor sobre a obrigatoriedade de oferta de mecanismo de autenticação em dois fatores com validação por pessoa de confiança para clientes idosos.",
       "data": "2026-03-27T11:53",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612566"
+    },
+    {
+      "id": 2612644,
+      "tipo": "PL",
+      "numero": 1469,
+      "ano": 2026,
+      "ementa": "Institui o Programa de Crédito Emergencial Imediato para Famílias (Socorre Brasil), garantindo acesso rápido a crédito com juros reduzidos para trabalhadores, autônomos e famílias em situação de crise, com proteção contra o superendividamento e mecanismos de responsabilização das instituições financeiras.",
+      "data": "2026-03-30T10:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612644"
+    },
+    {
+      "id": 2612648,
+      "tipo": "PL",
+      "numero": 1470,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para dispor sobre práticas abusivas em interfaces digitais (“dark patterns”), instituir o direito à interface justa e estabelecer sanções.",
+      "data": "2026-03-30T10:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612648"
     }
   ],
   "discursos": [

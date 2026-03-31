@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204391.jpg",
-  "score": 19.19,
-  "rank": 469,
+  "score": 19.17,
+  "rank": 462,
   "proposicoes": [
     {
       "id": 2606946,
@@ -17,7 +17,29 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606946"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-03-17T14:08",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JOSÉ NELTO (Bloco/UNIÃO - GO. Pela ordem. Sem revisão do orador.) - Sr. Presidente, nós queremos condenar o cartel dos postos de combustíveis no Brasil. Não há justificativa para aumentos exager",
+      "transcricao": "O SR. JOSÉ NELTO (Bloco/UNIÃO - GO. Pela ordem. Sem revisão do orador.) - Sr. Presidente, nós queremos condenar o cartel dos postos de combustíveis no Brasil. Não há justificativa para aumentos exagerados. É preciso que o consumidor, quando for abastecer, peça a nota fiscal da distribuidora. Por qual valor o posto comprou da distribuidora? Por qual valor também a distribuidora comprou da Petrobras ou da Shell, da iniciativa privada? O que existe hoje são aproveitadores! Aproveitam-se da guerra dos Estados Unidos e Israel com o o Irã. É muita gente ganhando dinheiro. É preciso uma reação do Governo, através da Polícia Federal, dos órgãos, como o Procon, e também do Ministério Público, para fazer realmente uma investigação para mostrar que há aproveitadores. Como sempre, o cartel dos postos de gasolina ganha dinheiro em cima dos nossos consumidores. Então, eu peço o apoio da Polícia Federal para investigar esse cartel poderoso. Eu peço que seja divulgado este pronunciamento no programa A Voz do Brasil."
+    },
+    {
+      "data": "2026-03-10T17:24",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JOSÉ NELTO (Bloco/UNIÃO - GO. Pela ordem. Sem revisão do orador.) - Quero registrar a presença do ex-Deputado Federal, ex-Deputado Estadual, Carlos Alberto Leréia, que neste plenário foi Deputad",
+      "transcricao": "O SR. JOSÉ NELTO (Bloco/UNIÃO - GO. Pela ordem. Sem revisão do orador.) - Quero registrar a presença do ex-Deputado Federal, ex-Deputado Estadual, Carlos Alberto Leréia, que neste plenário foi Deputado Federal por três mandatos, muito respeitado, hoje é Prefeito da cidade de Minaçu, uma cidade que tem terras raras. O Município tem terras raras. Veja a importância do Município. É banhado também pelo Lago Serra da Mesa, o maior lago artificial do Brasil. O Eduardo está aqui, o Prefeito Eduardo Moreira, de Niquelândia, também um Município banhado pelo Lago Serra da Mesa, que tem muito níquel, muito ouro e tem também terras raras. Que sejam consideradas visitas honrosas a este Parlamento. Vieram buscar recursos para os seus Municípios. Muito obrigado."
+    },
+    {
+      "data": "2026-03-10T17:16",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JOSÉ NELTO (Bloco/UNIÃO - GO. Pela ordem. Sem revisão do orador.) - Sra. Presidente, nós queremos denunciar o cartel dos combustíveis. Passamos por um momento crítico no planeta, devido à invasã",
+      "transcricao": "O SR. JOSÉ NELTO (Bloco/UNIÃO - GO. Pela ordem. Sem revisão do orador.) - Sra. Presidente, nós queremos denunciar o cartel dos combustíveis. Passamos por um momento crítico no planeta, devido à invasão do Irã pelos americanos e israelenses, que eu apoio. O regime tem que ser derrubado. Aquele regime comandado pelos aiatolás precisa ser extirpado do planeta. São pessoas inescrupulosas, é um regime que tira a vida das pessoas. Aproveitando esse momento agora, há um aumento de combustível, principalmente do óleo diesel, em todo o Brasil. Espero que a Polícia Federal, o Cade, o Procon, o Ministério Público possam agir para não permitir esse aumento criminoso do óleo diesel, que irá impactar na inflação do Brasil, no preço dos alimentos, no preço das frutas e também no preço do transporte público e rodoviário. Sr. Presidente, peço que conste no programa A Voz do Brasil e em todas as redes sociais o meu repúdio contra o aumento dos combustíveis."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",

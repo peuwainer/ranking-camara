@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
-  "score": 41.24,
-  "rank": 73,
+  "score": 38.14,
+  "rank": 45,
   "proposicoes": [
     {
       "id": 2605514,
@@ -42,6 +42,15 @@
       "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados",
       "data": "2026-03-17T19:43",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609794"
+    },
+    {
+      "id": 2612651,
+      "tipo": "PL",
+      "numero": 1471,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a instituição do Sistema Nacional de Rastreabilidade do Ouro (SISOURO) e estabelece normas para a comercialização, o transporte, a custódia e a certificação do ouro no território nacional, e dá outras providências.",
+      "data": "2026-03-30T11:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612651"
     }
   ],
   "discursos": [

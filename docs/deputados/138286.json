@@ -4,9 +4,28 @@
   "partido": "PSD",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/138286.jpg",
-  "score": 28.92,
-  "rank": 299,
-  "proposicoes": [],
+  "score": 30.01,
+  "rank": 234,
+  "proposicoes": [
+    {
+      "id": 2612686,
+      "tipo": "PL",
+      "numero": 1474,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição de inserção de anúncios publicitários em planos e serviços de streaming pagos no território nacional e dá outras providências.",
+      "data": "2026-03-30T13:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612686"
+    },
+    {
+      "id": 2612687,
+      "tipo": "PL",
+      "numero": 1475,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição de registro em cartório de protesto de dívidas oriundas de serviços públicos essenciais de água e energia elétrica após o corte do fornecimento e dá outras providências.",
+      "data": "2026-03-30T13:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612687"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-03-25T18:36",

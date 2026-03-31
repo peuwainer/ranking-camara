@@ -4,10 +4,18 @@
   "partido": "UNIÃO",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74554.jpg",
-  "score": 22.49,
-  "rank": 433,
+  "score": 22.79,
+  "rank": 411,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-03-17T21:16",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JOSÉ ROCHA (Bloco/UNIÃO - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu tive a honra de relatar esse projeto na Comissão de Constituição e Justiça e de Cid",
+      "transcricao": "O SR. JOSÉ ROCHA (Bloco/UNIÃO - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu tive a honra de relatar esse projeto na Comissão de Constituição e Justiça e de Cidadania. Trata-se de um projeto da mais alta importância para o nosso País, dentro de uma cultura importante, que é o cacau. Tivemos, no passado, a vassoura-de-bruxa que dizimou o cacau, levando grandes prejuízos a pequenos, médios e grandes produtores. E, agora, estamos vivenciando este momento da importação de cacau da Costa do Marfim, que está trazendo doenças que podem reviver aquele passado que nós não queremos mais. Portanto, é uma proteção à produção desse produto tão importante que nós temos na Bahia, que é a maior produtora de cacau do Brasil, no Pará e no Espírito Santo. Então, nós pedimos a compreensão do NOVO e de todos aqueles que se colocaram contrário para que possam somar no sentido de aprovar essa urgência, a fim de que possamos aprovar depois o PDL."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

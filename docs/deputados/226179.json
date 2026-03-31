@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/226179.jpg",
-  "score": 49.64,
-  "rank": 23,
+  "score": 43.8,
+  "rank": 15,
   "proposicoes": [
     {
       "id": 2608420,
@@ -69,6 +69,15 @@
       "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990, para reconhecer os órgãos de proteção e defesa do consumidor (PROCONs) como integrantes do Sistema Nacional de Defesa do Consumidor.",
       "data": "2026-03-24T18:50",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611613"
+    },
+    {
+      "id": 2612763,
+      "tipo": "PL",
+      "numero": 1488,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990, para dispor sobre o direito do consumidor ao atendimento pós-venda.",
+      "data": "2026-03-30T16:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612763"
     }
   ],
   "discursos": [

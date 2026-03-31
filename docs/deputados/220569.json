@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220569.jpg",
-  "score": 34.28,
-  "rank": 179,
+  "score": 28.45,
+  "rank": 288,
   "proposicoes": [
     {
       "id": 2607391,
@@ -69,6 +69,15 @@
       "ementa": "",
       "data": "2026-03-18T19:43",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610596"
+    },
+    {
+      "id": 2612768,
+      "tipo": "PL",
+      "numero": 1491,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei 2848/1940, Código Penal, para agravar a pena do crime de estupro praticado mediante administração de substâncias que reduzam a capacidade de resistência da vítima, bem como quando houver registro audiovisual e divulgação ou comercialização do material.",
+      "data": "2026-03-30T16:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612768"
     }
   ],
   "discursos": [
