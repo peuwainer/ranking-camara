@@ -4,9 +4,28 @@
   "partido": "PL",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204427.jpg",
-  "score": 25.23,
-  "rank": 369,
-  "proposicoes": [],
+  "score": 26.32,
+  "rank": 338,
+  "proposicoes": [
+    {
+      "id": 2612946,
+      "tipo": "PL",
+      "numero": 1550,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para disciplinar a circulação de equipamentos de mobilidade individual autopropelidos.",
+      "data": "2026-03-31T13:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612946"
+    },
+    {
+      "id": 2612948,
+      "tipo": "PL",
+      "numero": 1551,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 4.119, de 27 de agosto de 1962, que dispõe sobre os cursos de formação em psicologia e regulamenta a profissão de psicólogo, para instituir o piso salarial nacional da categoria.",
+      "data": "2026-03-31T13:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612948"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "RN",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/213762.jpg",
-  "score": 32.37,
-  "rank": 163,
+  "score": 33.46,
+  "rank": 134,
   "proposicoes": [
     {
       "id": 2608967,
@@ -24,6 +24,24 @@
       "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
       "data": "2026-03-26T10:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
+    },
+    {
+      "id": 2613015,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui protocolos de segurança emergencial para festivais e eventos afins e cria o banco de dados com empresas com um histórico de negligência organizacional.",
+      "data": "2026-03-31T16:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613015"
+    },
+    {
+      "id": 2613049,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a prestação de assistência jurídica aos cidadãos brasileiros residentes ou em trânsito no exterior, por meio das missões diplomáticas e repartições consulares do Brasil.",
+      "data": "2026-03-31T17:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613049"
     }
   ],
   "discursos": [

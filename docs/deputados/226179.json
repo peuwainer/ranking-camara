@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/226179.jpg",
-  "score": 43.8,
-  "rank": 15,
+  "score": 45.99,
+  "rank": 10,
   "proposicoes": [
     {
       "id": 2608420,
@@ -78,6 +78,42 @@
       "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990, para dispor sobre o direito do consumidor ao atendimento pós-venda.",
       "data": "2026-03-30T16:22",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612763"
+    },
+    {
+      "id": 2612858,
+      "tipo": "PL",
+      "numero": 1534,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.848, de 25 de junho de 2019, para estabelecer diretrizes de participação institucional qualificada de usuários e consumidores nos processos decisórios das agências reguladoras federais.",
+      "data": "2026-03-30T19:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612858"
+    },
+    {
+      "id": 2613007,
+      "tipo": "PRC",
+      "numero": 13,
+      "ano": 2026,
+      "ementa": "Altera a redação do art. 17, inciso I, alínea “t”, do Regimento Interno da Câmara dos Deputados, para estabelecer prazo mínimo de antecedência na divulgação da Ordem do Dia.",
+      "data": "2026-03-31T16:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613007"
+    },
+    {
+      "id": 2613008,
+      "tipo": "PL",
+      "numero": 1561,
+      "ano": 2026,
+      "ementa": "Acrescenta os incisos XVIII e XIX ao art. 39 da Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para tipificar como práticas abusivas condutas relacionadas a apostas de quota fixa que induzam ao superendividamento.",
+      "data": "2026-03-31T16:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613008"
+    },
+    {
+      "id": 2613009,
+      "tipo": "PL",
+      "numero": 1562,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para estabelecer parâmetros objetivos para a definição do mínimo existencial na prevenção e no tratamento do superendividamento e reforçar o dever de concessão responsável de crédito.",
+      "data": "2026-03-31T16:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613009"
     }
   ],
   "discursos": [

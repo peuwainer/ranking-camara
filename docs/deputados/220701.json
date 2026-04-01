@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220701.jpg",
-  "score": 32.45,
-  "rank": 159,
+  "score": 32.99,
+  "rank": 145,
   "proposicoes": [
     {
       "id": 2607592,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para tornar hediondo o crime de maus-tratos aos animais, quando do evento criminoso resultar a morte do animal.",
       "data": "2026-03-16T18:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609559"
+    },
+    {
+      "id": 2613007,
+      "tipo": "PRC",
+      "numero": 13,
+      "ano": 2026,
+      "ementa": "Altera a redação do art. 17, inciso I, alínea “t”, do Regimento Interno da Câmara dos Deputados, para estabelecer prazo mínimo de antecedência na divulgação da Ordem do Dia.",
+      "data": "2026-03-31T16:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613007"
     }
   ],
   "discursos": [],

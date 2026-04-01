@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204416.jpg",
-  "score": 33.09,
-  "rank": 137,
+  "score": 34.19,
+  "rank": 110,
   "proposicoes": [
     {
       "id": 2609888,
@@ -15,6 +15,24 @@
       "ementa": "",
       "data": "2026-03-17T22:37",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609888"
+    },
+    {
+      "id": 2612993,
+      "tipo": "PL",
+      "numero": 1554,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a inclusão obrigatória de conteúdos relativos ao combate à violência contra mulheres nos currículos da educação básica, e dá outras providências.",
+      "data": "2026-03-31T15:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612993"
+    },
+    {
+      "id": 2612996,
+      "tipo": "PL",
+      "numero": 1556,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade da inclusão de conteúdos de educação para o trânsito no currículo das escolas da educação básica e dá outras providências.",
+      "data": "2026-03-31T15:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612996"
     }
   ],
   "discursos": [

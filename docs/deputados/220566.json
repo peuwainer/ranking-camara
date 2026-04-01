@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220566.jpg",
-  "score": 26.92,
-  "rank": 329,
+  "score": 27.46,
+  "rank": 312,
   "proposicoes": [
     {
       "id": 2606372,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para fortalecer, na educação básica, conteúdos de formação humana, cultura de paz, respeito mútuo, prevenção da violência e proteção das mulheres e meninas.",
       "data": "2026-03-09T12:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607512"
+    },
+    {
+      "id": 2612992,
+      "tipo": "SBT",
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.124, de 16 de junho de 2005, e a Lei nº 11.977, de 7 de julho de 2009, para dispor sobre a garantia do empreiteiro pela solidez e segurança das obras realizadas nos programas habitacionais.",
+      "data": "2026-03-31T12:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612992"
     }
   ],
   "discursos": [

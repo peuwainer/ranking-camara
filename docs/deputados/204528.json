@@ -4,8 +4,8 @@
   "partido": "NOVO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
-  "score": 41.3,
-  "rank": 27,
+  "score": 41.85,
+  "rank": 25,
   "proposicoes": [
     {
       "id": 2606668,
@@ -42,6 +42,15 @@
       "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
       "data": "2026-03-26T10:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
+    },
+    {
+      "id": 2613007,
+      "tipo": "PRC",
+      "numero": 13,
+      "ano": 2026,
+      "ementa": "Altera a redação do art. 17, inciso I, alínea “t”, do Regimento Interno da Câmara dos Deputados, para estabelecer prazo mínimo de antecedência na divulgação da Ordem do Dia.",
+      "data": "2026-03-31T16:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613007"
     }
   ],
   "discursos": [

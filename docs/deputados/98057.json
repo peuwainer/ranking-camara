@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/98057.jpg",
-  "score": 25.27,
-  "rank": 366,
+  "score": 26.91,
+  "rank": 325,
   "proposicoes": [
     {
       "id": 2606287,
@@ -69,6 +69,33 @@
       "ementa": "",
       "data": "2026-03-17T20:04",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609813"
+    },
+    {
+      "id": 2612997,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a proteção da liberdade econômica, da privacidade e da segurança dos cidadãos em relação à emissão e circulação de moedas digitais oficiais pelo Banco Central do Brasil, e dá outras providências.",
+      "data": "2026-03-31T15:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612997"
+    },
+    {
+      "id": 2613023,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o sistema de estatísticas sobre operações aduaneiras como instrumento de fornecimento de dados relativos a operações de comércio exterior.",
+      "data": "2026-03-31T16:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613023"
+    },
+    {
+      "id": 2613025,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-03-31T16:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613025"
     }
   ],
   "discursos": [
