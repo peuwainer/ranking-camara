@@ -4,9 +4,19 @@
   "partido": "PSDB",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141516.jpg",
-  "score": 21.82,
-  "rank": 421,
-  "proposicoes": [],
+  "score": 22.98,
+  "rank": 402,
+  "proposicoes": [
+    {
+      "id": 2613075,
+      "tipo": "PL",
+      "numero": 1572,
+      "ano": 2026,
+      "ementa": "Denomina “Rodovia Prefeito Antônio Carlos Barbosa” o trecho da rodovia BR-146 compreendido entre os Municípios de Guaxupé e São Pedro da União, no Estado de Minas Gerais.",
+      "data": "2026-04-01T11:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613075"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

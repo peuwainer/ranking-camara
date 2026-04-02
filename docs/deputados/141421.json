@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141421.jpg",
-  "score": 29.07,
-  "rank": 267,
+  "score": 33.46,
+  "rank": 123,
   "proposicoes": [
     {
       "id": 2607375,
@@ -114,6 +114,15 @@
       "ementa": "Amplia a estabilidade provisória da empregada após o término da licença-maternidade.",
       "data": "2026-03-25T12:44",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611802"
+    },
+    {
+      "id": 2613261,
+      "tipo": "PL",
+      "numero": 1580,
+      "ano": 2026,
+      "ementa": "Altera as normas da Câmara de Regulação do Mercado de Medicamentos – CMED – de fixação do preço-teto para redução de preços de medicamentos de referência, genéricos e similares",
+      "data": "2026-04-01T15:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613261"
     }
   ],
   "discursos": [],

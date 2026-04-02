@@ -4,27 +4,9 @@
   "partido": "PL",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204479.jpg",
-  "score": 34.92,
+  "score": 34.51,
   "rank": 93,
   "proposicoes": [
-    {
-      "id": 2605541,
-      "tipo": "EMC",
-      "numero": 1,
-      "ano": 2026,
-      "ementa": "Institui o Programa Nacional de Apoio às Famílias dos Servidores da Segurança Pública Vítimas em Serviço e dá outras providências.",
-      "data": "2026-03-02T14:47",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605541"
-    },
-    {
-      "id": 2605560,
-      "tipo": "EMC",
-      "numero": 1,
-      "ano": 2026,
-      "ementa": "Isenta do Imposto sobre a Renda e Proventos de Qualquer Natureza e da apresentação da Declaração de Ajuste Anual os policiais integrantes dos órgãos de que tratam o § 3º do art. 27, o inciso IV do caput do art. 51, o inciso XIII do caput do art. 52, os incisos I a VI do art. 144, da perícia oficial de natureza criminal, os guardas municipais de que trata o § 8º do art. 144, os agentes de segurança socioeducativos e os agentes de trânsito de que trata o inciso II do § 10º do art. 144, todos da Constituição Federal, inclusive os da reserva ou inativos",
-      "data": "2026-03-02T14:47",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605560"
-    },
     {
       "id": 2609170,
       "tipo": "EMC",
@@ -42,6 +24,15 @@
       "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para permitir a dedução da base de cálculo do Imposto de Renda da Pessoa Física das despesas realizadas por profissionais de segurança pública com a aquisição de armamento, munições, equipamentos de proteção balística e cursos de capacitação técnica.",
       "data": "2026-03-17T10:18",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609171"
+    },
+    {
+      "id": 2613287,
+      "tipo": "PFC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Propõe que a Comissão de Viação e Transportes realize ato de fiscalização e controle, com o auxílio do Tribunal de Contas da União (TCU), para avaliar procedimentos administrativos, fiscalizatórios e regulatórios adotados pela Agência Nacional de Transportes Aquaviários (ANTAQ) envolvendo as empresas Zemax Log S.A. e Fednav Brasil Ltda., diante de indícios de afretamento simulado, omissões de fiscalização, favorecimento concorrencial indevido e potenciais danos ao erário.",
+      "data": "2026-03-31T13:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613287"
     }
   ],
   "discursos": [],

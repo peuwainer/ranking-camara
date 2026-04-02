@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/209787.jpg",
-  "score": 35.2,
-  "rank": 86,
+  "score": 36.04,
+  "rank": 66,
   "proposicoes": [
     {
       "id": 2606627,
@@ -42,6 +42,24 @@
       "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para tornar hediondos os crimes de tráfico de pessoas e roubo circunstanciado pelo emprego de explosivo ou de artefato análogo que cause perigo comum.",
       "data": "2026-03-11T14:30",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609016"
+    },
+    {
+      "id": 2613074,
+      "tipo": "PLP",
+      "numero": 86,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 227, de 13 de janeiro de 2026, para vedar a inclusão, na base de cálculo do Imposto sobre Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos – ITCMD, de tributos incidentes na formação do valor da edificação, relativamente a imóveis urbanos edificados.",
+      "data": "2026-04-01T11:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613074"
+    },
+    {
+      "id": 2613091,
+      "tipo": "PL",
+      "numero": 1575,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Pesquisa, Desenvolvimento e Inovação em Prospecção, Lavra, Beneficiamento e Aplicações de Minerais Estratégicos.",
+      "data": "2026-04-01T11:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613091"
     }
   ],
   "discursos": [

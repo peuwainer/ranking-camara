@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
-  "score": 42.51,
-  "rank": 23,
+  "score": 41.93,
+  "rank": 19,
   "proposicoes": [
-    {
-      "id": 2605682,
-      "tipo": "PLP",
-      "numero": 38,
-      "ano": 2026,
-      "ementa": "Dispõe, nos termos do art. 146, III, “a”, da Constituição Federal, sobre normas gerais relativas à dedutibilidade tributária de despesas com educação e dá outras providências.",
-      "data": "2026-03-02T17:55",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605682"
-    },
     {
       "id": 2606287,
       "tipo": "EMP",
@@ -96,6 +87,15 @@
       "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 (Lei Brasileira de Inclusão da Pessoa com Deficiência), a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), e a Lei nº 9.250, de 26 de dezembro de 1995, para permitir a dedução integral, no Imposto de Renda, das despesas com medicamentos, terapias, equipamentos e recursos de acessibilidade destinados a crianças e adolescentes com deficiência.",
       "data": "2026-03-31T11:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612897"
+    },
+    {
+      "id": 2613085,
+      "tipo": "PL",
+      "numero": 1574,
+      "ano": 2026,
+      "ementa": "Acrescenta o art. 8º-A à Lei nº 9.250, de 26 de dezembro de 1995, para permitir a dedução das despesas médicas, terapêuticas e das mensalidades de planos de saúde e odontológicos custeadas por contribuintes em benefício de seus pais, quando estes não sejam declarados como dependentes na declaração de ajuste anual do Imposto sobre a Renda das Pessoas Físicas.",
+      "data": "2026-04-01T11:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613085"
     }
   ],
   "discursos": [

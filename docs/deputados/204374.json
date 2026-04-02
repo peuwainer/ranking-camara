@@ -4,36 +4,9 @@
   "partido": "PL",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204374.jpg",
-  "score": 37.21,
-  "rank": 56,
+  "score": 35.47,
+  "rank": 74,
   "proposicoes": [
-    {
-      "id": 2605579,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Regulamenta o inciso IV do art. 22 da Constituição, para estabelecer a obrigatoriedade da autorização do Congresso Nacional para a importação de energia elétrica de países que possuem débitos vencidos a mais de três meses com a República Federativa do Brasil.",
-      "data": "2026-03-02T16:37",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605579"
-    },
-    {
-      "id": 2605602,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Declara a Marcha para Jesus como Manifestação da Cultura Nacional.",
-      "data": "2026-03-02T16:37",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605602"
-    },
-    {
-      "id": 2605654,
-      "tipo": "EMP",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Acrescenta art. 149-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de desaparecimento forçado de pessoa, e acrescenta inciso VIII ao art. 1º da Lei nº 8.072, de 25 de julho de 1990, para considerar esse crime hediondo.",
-      "data": "2026-03-02T17:39",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605654"
-    },
     {
       "id": 2608967,
       "tipo": "PRC",
@@ -60,6 +33,15 @@
       "ementa": "Altera o Decreto-lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) para tornar mais grave os crimes com o uso de dados pessoais, redes sociais, e-mails e contas online de pessoas falecidas.",
       "data": "2026-03-25T16:56",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612005"
+    },
+    {
+      "id": 2613197,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o art. 28-A do Decreto-Lei nº 3.689, de 3 de outubro de 1941 – Código de Processo Penal, para estabelecer a impossibilidade de aplicação do acordo de não persecução penal aos investigados pela prática do crime de tráfico de drogas, ainda que na modalidade privilegiada.",
+      "data": "2026-04-01T11:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613197"
     }
   ],
   "discursos": [

@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220620.jpg",
-  "score": 31.37,
-  "rank": 200,
-  "proposicoes": [],
+  "score": 31.55,
+  "rank": 182,
+  "proposicoes": [
+    {
+      "id": 2613071,
+      "tipo": "PL",
+      "numero": 1571,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o marco regulatório das relações contratuais de correspondência bancária no País, estabelece diretrizes de proteção econômica, paridade de condições comerciais, transparência e devido processo sancionador, e dá outras providências.",
+      "data": "2026-04-01T10:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613071"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

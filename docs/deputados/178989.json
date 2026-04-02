@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178989.jpg",
-  "score": 34.79,
-  "rank": 96,
+  "score": 33.79,
+  "rank": 115,
   "proposicoes": [
     {
       "id": 2606798,
@@ -141,6 +141,15 @@
       "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
       "data": "2026-03-26T10:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
+    },
+    {
+      "id": 2613059,
+      "tipo": "PL",
+      "numero": 1569,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para estabelecer a responsabilidade civil objetiva dos provedores de aplicações de internet pela veiculação de publicidade e anúncios patrocinados fraudulentos, nos termos que especifica.",
+      "data": "2026-03-31T19:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613059"
     }
   ],
   "discursos": [],

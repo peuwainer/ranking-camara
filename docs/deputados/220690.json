@@ -4,27 +4,9 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 40.81,
+  "score": 39.74,
   "rank": 28,
   "proposicoes": [
-    {
-      "id": 2605540,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Institui a Política Nacional de Atenção Integral à Saúde Mental dos Profissionais de Segurança Pública e Privada, e dá outras providências.",
-      "data": "2026-03-02T11:56",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605540"
-    },
-    {
-      "id": 2605779,
-      "tipo": "PL",
-      "numero": 862,
-      "ano": 2026,
-      "ementa": "Altera o Código Penal para instituir causa de aumento de pena para o \tcrime de estupro praticado por duas  ou mais pessoas, em contexto de estupro coletivo, e dá outras providências.",
-      "data": "2026-03-02T20:59",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605779"
-    },
     {
       "id": 2606301,
       "tipo": "PL",
@@ -123,6 +105,15 @@
       "ementa": "Institui o Programa Nacional de Estabelecimentos Parceiros da Segurança Pública (Proneps).",
       "data": "2026-03-25T09:52",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611694"
+    },
+    {
+      "id": 2613068,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-04-01T10:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613068"
     }
   ],
   "discursos": [

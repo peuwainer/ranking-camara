@@ -4,18 +4,9 @@
   "partido": "SOLIDARIEDADE",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/234673.jpg",
-  "score": 33.14,
+  "score": 32.77,
   "rank": 142,
   "proposicoes": [
-    {
-      "id": 2605531,
-      "tipo": "PL",
-      "numero": 834,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a garantia de divulgação ampla, contínua e acessível da Profilaxia Pré-Exposição (PrEP) ao HIV no âmbito do Sistema Único de Saúde (SUS) e dá outras providências.",
-      "data": "2026-03-02T14:51",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605531"
-    },
     {
       "id": 2605837,
       "tipo": "PL",
@@ -114,6 +105,24 @@
       "ementa": "Institui o Piso Salarial Nacional dos Médicos e estabelece diretrizes para a valorização da carreira médica no Brasil.",
       "data": "2026-03-31T11:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612905"
+    },
+    {
+      "id": 2613301,
+      "tipo": "PL",
+      "numero": 1582,
+      "ano": 2026,
+      "ementa": "Dispõe sobre normas nacionais para licenciamento, implantação, operação, monitoramento e fiscalização de Usinas de Recuperação Energética (URE), que utilizam o tratamento térmico de resíduos sólidos urbanos para geração de energia elétrica, e dá outras providências.",
+      "data": "2026-04-01T17:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613301"
+    },
+    {
+      "id": 2613303,
+      "tipo": "PL",
+      "numero": 1584,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de realização de audiências públicas ampliadas e consulta popular para aprovação de empreendimentos ou atividades potencialmente causadoras de significativo impacto ambiental, e dá outras providências.",
+      "data": "2026-04-01T17:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613303"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 24.71,
-  "rank": 377,
+  "score": 23.1,
+  "rank": 400,
   "proposicoes": [
     {
       "id": 2606281,
@@ -132,6 +132,15 @@
       "ementa": "Institui a Política Nacional de Prioridade Absoluta na Investigação e Julgamento de Crimes contra a Dignidade Sexual de Crianças e Adolescentes, estabelece prazos procedimentais prioritários, mecanismos de produção imediata de prova, responsabilização por atraso injustificado e dá outras providências.",
       "data": "2026-03-30T14:22",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612707"
+    },
+    {
+      "id": 2613177,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Nacional de Alfabetização Funcional em Regime de Colaboração — Alfabetização que Funciona — e dá outras providências",
+      "data": "2026-03-30T13:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613177"
     }
   ],
   "discursos": [],
