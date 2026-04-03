@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220546.jpg",
-  "score": 31.41,
-  "rank": 189,
+  "score": 30.1,
+  "rank": 211,
   "proposicoes": [
-    {
-      "id": 2605861,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 12.651, de 25 de maio de 2012, para esclarecer a aplicação do Cadastro Ambiental Rural (CAR) nos procedimentos de desembargo de imóveis rurais e aprimorar a delimitação de embargos ambientais.",
-      "data": "2026-03-03T10:06",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2605861"
-    },
     {
       "id": 2607460,
       "tipo": "SBT",
@@ -35,15 +26,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608967"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-03-03T21:16",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. RODOLFO NOGUEIRA (PL - MS. Pela ordem. Sem revisão do orador.) - Presidente, estamos recebendo aqui o Vereador Sindoley, de Paranaíba, Mato Grosso do Sul, e o Vereador Bugrão, do PL de Paranaíba",
-      "transcricao": "O SR. RODOLFO NOGUEIRA (PL - MS. Pela ordem. Sem revisão do orador.) - Presidente, estamos recebendo aqui o Vereador Sindoley, de Paranaíba, Mato Grosso do Sul, e o Vereador Bugrão, do PL de Paranaíba. Está muito bem representado o Município, onde o agro é pujante, é muito forte, onde a pecuária é forte, onde o eucalipto está entrando muito forte, assim como a soja e a cana-de-açúcar. Com certeza, eles representam o partido e a Direita conservadora no Município de Paranaíba. Parabéns, Vereadores! Estamos juntos. Vemos o Brasil mudar a partir dos Municípios e o resultado chegar até Brasília. Obrigado, Presidente."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",

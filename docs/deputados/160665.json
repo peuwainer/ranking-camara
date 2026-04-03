@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
-  "score": 28.06,
-  "rank": 284,
+  "score": 27.48,
+  "rank": 293,
   "proposicoes": [
     {
       "id": 2608365,
@@ -62,15 +62,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609763"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-03-03T18:52",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Presidente, eu queria, neste momento, parabenizar o Deputado Túlio Gadêlha e nosso Relator, o Deputado Carlos Ver",
-      "transcricao": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Presidente, eu queria, neste momento, parabenizar o Deputado Túlio Gadêlha e nosso Relator, o Deputado Carlos Veras, pela importante iniciativa. Pernambuco é uma terra que tem sempre em nós pernambucanos uma cultura muito arraigada, e eu acho que esta é a demonstração desta Casa de reconhecimento desta cultura. Portanto, o bloco orienta \"sim\"."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",
