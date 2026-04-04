@@ -4,63 +4,9 @@
   "partido": "PT",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178887.jpg",
-  "score": 64.96,
+  "score": 64.73,
   "rank": 1,
   "proposicoes": [
-    {
-      "id": 2606919,
-      "tipo": "PLP",
-      "numero": 44,
-      "ano": 2026,
-      "ementa": "Cria o regime dos ativos virtuais.",
-      "data": "2026-03-04T17:17",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606919"
-    },
-    {
-      "id": 2606929,
-      "tipo": "PL",
-      "numero": 944,
-      "ano": 2026,
-      "ementa": "Estabelece normas mínimas de segurança, comunicação imediata e responsabilidade civil para excursões e atividades extracurriculares promovidas por instituições de ensino e dá outras providências.",
-      "data": "2026-03-04T17:22",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606929"
-    },
-    {
-      "id": 2606930,
-      "tipo": "PL",
-      "numero": 945,
-      "ano": 2026,
-      "ementa": "Disciplina licitações para concessões multimodais de serviços de saneamento básico e dá outras providências.",
-      "data": "2026-03-04T17:24",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606930"
-    },
-    {
-      "id": 2606931,
-      "tipo": "PL",
-      "numero": 946,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a transparência, documentação e classificação de risco aplicáveis a contratos de financiamento de veículos usados e dá outras providências.",
-      "data": "2026-03-04T17:26",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606931"
-    },
-    {
-      "id": 2606935,
-      "tipo": "PL",
-      "numero": 947,
-      "ano": 2026,
-      "ementa": "Estabelece prazos máximos para decisões administrativas sobre pedidos de liberação de atividade econômica e dá outras providências.",
-      "data": "2026-03-04T17:29",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606935"
-    },
-    {
-      "id": 2606937,
-      "tipo": "PL",
-      "numero": 948,
-      "ano": 2026,
-      "ementa": "Regula o monitoramento eletrônico de empregados em equipamentos, contas e sistemas fornecidos pelo empregador e dá outras providências.",
-      "data": "2026-03-04T17:31",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2606937"
-    },
     {
       "id": 2607155,
       "tipo": "PL",
