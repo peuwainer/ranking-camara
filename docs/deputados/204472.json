@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204472.jpg",
-  "score": 22.69,
-  "rank": 390,
+  "score": 22.02,
+  "rank": 395,
   "proposicoes": [
     {
       "id": 2613007,
@@ -17,15 +17,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613007"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-03-05T13:40",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. JOSÉ MEDEIROS (PL - MT. Pela ordem. Sem revisão do orador.) - Obrigado, Sra. Presidente. Quero aproveitar a oportunidade para agradecer a presença da Vereadora Cássia, do Município de Gaúcha do ",
-      "transcricao": "O SR. JOSÉ MEDEIROS (PL - MT. Pela ordem. Sem revisão do orador.) - Obrigado, Sra. Presidente. Quero aproveitar a oportunidade para agradecer a presença da Vereadora Cássia, do Município de Gaúcha do Norte, que está nos visitando. É a política mato-grossense se renovando, uma grata revelação. É uma Vereadora muito atuante. Nós agradecemos a visita. Ela veio solicitar recursos para o Município. É uma satisfação recebê-la. A Minoria, Sra. Presidente, vota \"sim\"."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a acompanhar, in loco, o processo de intervenção na saúde pública do município de Cuiabá-MT, decretado pelo Tribunal de Justiça do estado de Mato Grosso",
