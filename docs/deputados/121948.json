@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/121948.jpg",
-  "score": 27.51,
-  "rank": 279,
+  "score": 27.18,
+  "rank": 292,
   "proposicoes": [
     {
       "id": 2610267,
@@ -17,15 +17,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610267"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-03-18T15:12",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. ADRIANO DO BALDY (Bloco/PP - GO. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, quero destacar a importância do Projeto de Lei nº 4.673, de 2024, de minha autoria,",
-      "transcricao": "O SR. ADRIANO DO BALDY (Bloco/PP - GO. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, quero destacar a importância do Projeto de Lei nº 4.673, de 2024, de minha autoria, que institui o Programa de Infraestrutura Rural Sustentável para a Construção e Manutenção e Melhoria das Estradas Vicinais em Áreas Rurais, priorizando a tecnologia sustentável. Esse programa é essencial, para melhorar a acessibilidade das comunidades rurais, facilitar o escoamento das produções agrícolas, especialmente da agricultura familiar, e promover o desenvolvimento econômico e social do interior do Brasil, conectando o campo aos centros urbanos com segurança e respeito ao meio ambiente. É com grande satisfação que registro a recente aprovação do projeto na Comissão de Viação e Transportes em caráter conclusivo, um passo decisivo para tramitação nas Comissões. Agradeço especialmente ao Relator, Deputado Neto Carletto, pelo empenho, pelo relatório, pela aprovação, pela sustentabilidade, pelo fortalecimento da proposta, que beneficia diretamente produtores e famílias do campo. Sr. Presidente, gostaria que o meu pronunciamento fosse divulgado no programa A Voz do Brasil. Muito obrigado."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
