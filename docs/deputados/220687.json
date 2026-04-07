@@ -4,9 +4,19 @@
   "partido": "PDT",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220687.jpg",
-  "score": 31.31,
-  "rank": 159,
-  "proposicoes": [],
+  "score": 31.97,
+  "rank": 139,
+  "proposicoes": [
+    {
+      "id": 2613471,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre o reconhecimento da epilepsia como deficiência, para todos os efeitos legais, e altera a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência).",
+      "data": "2026-04-06T15:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613471"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

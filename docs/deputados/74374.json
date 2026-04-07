@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74374.jpg",
-  "score": 34.29,
-  "rank": 76,
+  "score": 36.27,
+  "rank": 47,
   "proposicoes": [
     {
       "id": 2611301,
@@ -33,6 +33,33 @@
       "ementa": "Institui o Programa Nacional de Inclusão Digital e Tecnologias Assistivas para Jovens Empreendedores com Deficiência (PRONID-Jovem) e dá outras providências.",
       "data": "2026-03-25T13:43",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611847"
+    },
+    {
+      "id": 2613375,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Cria o Selo Amigo da Pessoa Autista, destinado a certificar estabelecimentos comerciais que adotem medidas de acolhimento, adaptação sensorial e atendimento especializado.",
+      "data": "2026-04-06T11:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613375"
+    },
+    {
+      "id": 2613382,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera as leis que especifica para atualizar terminologia referente às Pessoas com Transtorno do Espectro Autista (TEA).",
+      "data": "2026-04-06T11:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613382"
+    },
+    {
+      "id": 2613462,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Institui diretrizes gerais para a prevenção, o diagnóstico precoce e o cuidado integral do câncer de pulmão no âmbito do Sistema Único de Saúde (SUS).",
+      "data": "2026-04-06T14:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613462"
     }
   ],
   "discursos": [

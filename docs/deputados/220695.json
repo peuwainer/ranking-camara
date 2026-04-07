@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-  "score": 32.55,
-  "rank": 119,
+  "score": 35.19,
+  "rank": 65,
   "proposicoes": [
     {
       "id": 2608967,
@@ -51,6 +51,42 @@
       "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação, com substitutivo.",
       "data": "2026-03-30T10:46",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612682"
+    },
+    {
+      "id": 2613451,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação  do Projeto de Lei nº 2.6772025, na forma do substitutivo.",
+      "data": "2026-04-06T14:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613451"
+    },
+    {
+      "id": 2613455,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação deste e do Projeto de Lei nº 1.488/2024, apensado, com substitutivo.",
+      "data": "2026-04-06T13:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613455"
+    },
+    {
+      "id": 2613502,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL 3.540/2024.",
+      "data": "2026-04-06T14:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613502"
+    },
+    {
+      "id": 2613506,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL 3.709/2025.",
+      "data": "2026-04-06T14:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613506"
     }
   ],
   "discursos": [],

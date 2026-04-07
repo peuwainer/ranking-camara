@@ -4,29 +4,11 @@
   "partido": "UNIÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220648.jpg",
-  "score": 24.74,
-  "rank": 352,
+  "score": 19.29,
+  "rank": 426,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
-    {
-      "nome": "Comissão Especial para estudo, avaliação e acompanhamento das iniciativas e medidas adotadas para transição energética - Fontes Renováveis e Produção de Hidrogênio Verde no Brasil",
-      "sigla": "CEENERG",
-      "cargo": "Titular",
-      "desde": "2024-02-07T00:00"
-    },
-    {
-      "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",
-      "sigla": "CEDIRDIG",
-      "cargo": "Suplente",
-      "desde": "2024-02-07T00:00"
-    },
-    {
-      "nome": "Comissão Especial destinada a estudar e analisar formas de prevenção e auxílio a desastres e calamidades naturais que vêm assolando o Território Nacional",
-      "sigla": "CEDESNAT",
-      "cargo": "Titular",
-      "desde": "2024-02-07T00:00"
-    },
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",
       "sigla": "PEC00523",
@@ -40,12 +22,6 @@
       "desde": "2025-05-07T00:00"
     },
     {
-      "nome": "Representação Brasileira no Parlamento do Mercosul",
-      "sigla": "MERCOSUL",
-      "cargo": "Suplente",
-      "desde": "2025-06-11T00:00"
-    },
-    {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3080, de 2020, do Senhor Alexandre Frota, que \"Institui a política pública nacional para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autismo, e dá outras providências\", e apensados",
       "sigla": "PL308020",
       "cargo": "Relator",
@@ -56,30 +32,6 @@
       "sigla": "PEC23119",
       "cargo": "2º Vice-Presidente",
       "desde": "2025-11-05T00:00"
-    },
-    {
-      "nome": "Comissão de Viação e Transportes",
-      "sigla": "CVT",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Constituição e Justiça e de Cidadania",
-      "sigla": "CCJC",
-      "cargo": "Titular",
-      "desde": "2026-02-09T00:00"
-    },
-    {
-      "nome": "Comissão de Ciência, Tecnologia e Inovação",
-      "sigla": "CCTI",
-      "cargo": "Suplente",
-      "desde": "2026-03-04T00:00"
-    },
-    {
-      "nome": "Comissão de Finanças e Tributação",
-      "sigla": "CFT",
-      "cargo": "Suplente",
-      "desde": "2026-03-18T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220648/votacoes-nominais-plenario/2026"

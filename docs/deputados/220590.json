@@ -75,12 +75,6 @@
       "desde": "2026-02-03T00:00"
     },
     {
-      "nome": "Comissão de Constituição e Justiça e de Cidadania",
-      "sigla": "CCJC",
-      "cargo": "Suplente",
-      "desde": "2026-02-09T00:00"
-    },
-    {
       "nome": "Comissão do Esporte",
       "sigla": "CESPO",
       "cargo": "Suplente",
@@ -91,6 +85,12 @@
       "sigla": "SUB8J",
       "cargo": "Titular",
       "desde": "2026-03-11T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-04-06T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220590/votacoes-nominais-plenario/2026"

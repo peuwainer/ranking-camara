@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204369.jpg",
-  "score": 30.87,
-  "rank": 178,
+  "score": 31.53,
+  "rank": 155,
   "proposicoes": [
     {
       "id": 2607599,
@@ -51,6 +51,15 @@
       "ementa": "Altera o Código de Processo Penal e a Lei nº 1.579/1952 para permitir a propositura de ação penal privada subsidiária da pública por parlamentar, nos casos de inércia do Ministério Público em face de indícios de crime apurados em CPI ou CPMI.",
       "data": "2026-03-30T16:34",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612765"
+    },
+    {
+      "id": 2613344,
+      "tipo": "PL",
+      "numero": 1590,
+      "ano": 2026,
+      "ementa": "Concede anistia aos caminhoneiros e motoristas penalizados em decorrência de manifestações ocorridas no território nacional no ano de 2022, e dá outras providências.",
+      "data": "2026-04-02T17:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613344"
     }
   ],
   "discursos": [],

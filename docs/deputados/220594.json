@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220594.jpg",
-  "score": 30.9,
-  "rank": 175,
+  "score": 28.17,
+  "rank": 247,
   "proposicoes": [
     {
       "id": 2607657,
@@ -73,34 +73,10 @@
       "desde": "2025-09-09T00:00"
     },
     {
-      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
-      "sigla": "CSPCCO",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Direitos Humanos, Minorias e Igualdade Racial",
-      "sigla": "CDHMIR",
-      "cargo": "Suplente",
-      "desde": "2026-02-04T00:00"
-    },
-    {
-      "nome": "Comissão de Constituição e Justiça e de Cidadania",
-      "sigla": "CCJC",
-      "cargo": "Suplente",
-      "desde": "2026-02-09T00:00"
-    },
-    {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 8085, de 2014, do Senado Federal, que \"altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para instituir a obrigatoriedade da prática de direção veicular em vias públicas para fins de formação de condutores\"",
       "sigla": "PL808514",
       "cargo": "Suplente",
       "desde": "2026-02-27T00:00"
-    },
-    {
-      "nome": "Subcomissão Especial de Fiscalização e Direitos dos Presos do 8 de Janeiro",
-      "sigla": "SUB8J",
-      "cargo": "Titular",
-      "desde": "2026-03-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220594/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220610.jpg",
-  "score": 23.39,
-  "rank": 378,
+  "score": 21.34,
+  "rank": 402,
   "proposicoes": [],
   "discursos": [
     {
@@ -47,24 +47,6 @@
       "sigla": "PL261424",
       "cargo": "Suplente",
       "desde": "2025-04-25T00:00"
-    },
-    {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, que \"regula os serviços de transporte remunerado privado individual de passageiros e de coleta e entrega de bens prestados pelas empresas operadoras de plataforma digital\"",
-      "sigla": "PLP15225",
-      "cargo": "Suplente",
-      "desde": "2025-08-13T00:00"
-    },
-    {
-      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
-      "sigla": "CAPADR",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Defesa dos Direitos das Pessoas com Deficiência",
-      "sigla": "CPD",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220610/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204511.jpg",
-  "score": 22.99,
-  "rank": 383,
+  "score": 19.58,
+  "rank": 423,
   "proposicoes": [
     {
       "id": 2610113,
@@ -43,40 +43,10 @@
       "desde": "2024-02-07T00:00"
     },
     {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",
-      "sigla": "PL233823",
-      "cargo": "Titular",
-      "desde": "2025-04-29T00:00"
-    },
-    {
-      "nome": "Representação Brasileira no Parlamento do Mercosul",
-      "sigla": "MERCOSUL",
-      "cargo": "Titular",
-      "desde": "2025-06-11T00:00"
-    },
-    {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei n. 2614, de 2024, do Poder Executivo, que \"aprova o Plano Nacional de Educação para o decênio 2024-2034\"",
       "sigla": "PL261424",
       "cargo": "Titular",
       "desde": "2025-11-11T00:00"
-    },
-    {
-      "nome": "Comissão de Comunicação",
-      "sigla": "CCOM",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Ciência, Tecnologia e Inovação",
-      "sigla": "CCTI",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Defesa do Consumidor",
-      "sigla": "CDC",
-      "cargo": "Suplente",
-      "desde": "2026-02-04T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204511/votacoes-nominais-plenario/2026"

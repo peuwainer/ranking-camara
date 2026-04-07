@@ -4,7 +4,7 @@
   "partido": "MISSÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204536.jpg",
-  "score": 57.56,
+  "score": 56.86,
   "rank": 3,
   "proposicoes": [
     {
@@ -114,6 +114,15 @@
       "ementa": "Prevê que os recursos do Fundo Nacional de Segurança Pública poderão ser usados na criação e manutenção de Casas Abrigo para mulheres vítimas de violência doméstica.",
       "data": "2026-03-31T16:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613083"
+    },
+    {
+      "id": 2613350,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para prever meios tecnológicos como instrumentos de prevenção e combate à violência doméstica e familiar, e cria obrigação de as instituições financeiras e de pagamento disponibilizarem funcionalidade destinada ao acionamento de emergência.",
+      "data": "2026-04-01T16:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613350"
     }
   ],
   "discursos": [
@@ -540,28 +549,16 @@
   ],
   "orgaos": [
     {
-      "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",
-      "sigla": "CEDIRDIG",
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
       "cargo": "Titular",
-      "desde": "2024-02-07T00:00"
-    },
-    {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",
-      "sigla": "PL233823",
-      "cargo": "Titular",
-      "desde": "2025-04-29T00:00"
+      "desde": "2026-04-06T00:00"
     },
     {
       "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
       "sigla": "CSPCCO",
       "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Finanças e Tributação",
-      "sigla": "CFT",
-      "cargo": "Titular",
-      "desde": "2026-03-18T00:00"
+      "desde": "2026-04-06T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204536/votacoes-nominais-plenario/2026"

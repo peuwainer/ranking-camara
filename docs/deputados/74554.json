@@ -5,7 +5,7 @@
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74554.jpg",
   "score": 21.32,
-  "rank": 412,
+  "rank": 403,
   "proposicoes": [],
   "discursos": [
     {
@@ -36,16 +36,16 @@
       "desde": "2026-02-03T00:00"
     },
     {
-      "nome": "Comissão de Constituição e Justiça e de Cidadania",
-      "sigla": "CCJC",
-      "cargo": "Suplente",
-      "desde": "2026-02-09T00:00"
-    },
-    {
       "nome": "Comissão de Educação",
       "sigla": "CE",
       "cargo": "Suplente",
       "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-04-06T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/74554/votacoes-nominais-plenario/2026"

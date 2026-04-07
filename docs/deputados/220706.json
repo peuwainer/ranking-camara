@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220706.jpg",
-  "score": 21.01,
-  "rank": 415,
+  "score": 18.96,
+  "rank": 429,
   "proposicoes": [],
   "discursos": [
     {
@@ -16,25 +16,6 @@
       "transcricao": "O SR. PADOVANI (Bloco/UNIÃO - PR. Pela ordem. Sem revisão do orador.) - Sempre que tratamos do tema desastres aéreos é muito complicado. Esse projeto é importante, porque ele visa acabar com conflitos de normas que tratam de aeronavegabilidade no Brasil, tanto na aviação comercial como na aviação civil. Nós vimos no Brasil o caso do voo do Legacy, que bateu no avião da Gol, em que pilotos foram condenados e não foram presos porque o crime prescreveu. E não chegamos a eles que estavam nos Estados Unidos. Nós vimos o voo do ATR 72 do Voepass, e até hoje estão em discussão questões de seguro. Por isso é importante esse projeto. Eu ficaria muito feliz com a sua aprovação. Obrigado, Sr. Presidente."
     }
   ],
-  "orgaos": [
-    {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",
-      "sigla": "PL233823",
-      "cargo": "Suplente",
-      "desde": "2025-04-29T00:00"
-    },
-    {
-      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
-      "sigla": "CAPADR",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
-      "sigla": "CREDN",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    }
-  ],
+  "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/220706/votacoes-nominais-plenario/2026"
 }

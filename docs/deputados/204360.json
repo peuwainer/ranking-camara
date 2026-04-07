@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
-  "score": 39.07,
-  "rank": 23,
+  "score": 39.73,
+  "rank": 20,
   "proposicoes": [
     {
       "id": 2608904,
@@ -42,6 +42,15 @@
       "ementa": "",
       "data": "2026-03-18T09:39",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610020"
+    },
+    {
+      "id": 2613443,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a lei nº 9.263, de 12 de janeiro de 1996, a lei nº 11.664, de 29 de abril de 2008, e a lei nº 9.656, de 3 de junho de 1998, para assegurar o acesso à criopreservação de óvulos para mulheres em tratamento oncológico com risco de perda da fertilidade, tanto no sus quanto nos planos privados de saúde.",
+      "data": "2026-04-06T14:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613443"
     }
   ],
   "discursos": [],

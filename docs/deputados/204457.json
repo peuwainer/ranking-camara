@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204457.jpg",
-  "score": 28.93,
-  "rank": 234,
+  "score": 27.57,
+  "rank": 265,
   "proposicoes": [
     {
       "id": 2611065,
@@ -18,19 +18,6 @@
     }
   ],
   "discursos": [],
-  "orgaos": [
-    {
-      "nome": "Comissão de Minas e Energia",
-      "sigla": "CME",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Viação e Transportes",
-      "sigla": "CVT",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    }
-  ],
+  "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/204457/votacoes-nominais-plenario/2026"
 }

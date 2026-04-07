@@ -4,10 +4,17 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
-  "score": 0.0,
-  "rank": 511,
+  "score": 0.68,
+  "rank": 502,
   "proposicoes": [],
   "discursos": [],
-  "orgaos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Titular",
+      "desde": "2026-04-06T00:00"
+    }
+  ],
   "url_votacoes": "https://www.camara.leg.br/deputados/141488/votacoes-nominais-plenario/2026"
 }

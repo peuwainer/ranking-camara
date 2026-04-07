@@ -4,8 +4,8 @@
   "partido": "PV",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220533.jpg",
-  "score": 34.58,
-  "rank": 69,
+  "score": 35.9,
+  "rank": 52,
   "proposicoes": [
     {
       "id": 2609424,
@@ -60,6 +60,24 @@
       "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
       "data": "2026-03-26T10:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
+    },
+    {
+      "id": 2613476,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade de inclusão de conteúdos relacionados à inteligência artificial no currículo da educação básica.",
+      "data": "2026-04-06T14:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613476"
+    },
+    {
+      "id": 2613479,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Estatuto do Estudante da Educação Básica Pública.",
+      "data": "2026-04-06T14:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613479"
     }
   ],
   "discursos": [

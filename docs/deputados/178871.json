@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178871.jpg",
-  "score": 34.19,
-  "rank": 80,
+  "score": 34.85,
+  "rank": 68,
   "proposicoes": [
     {
       "id": 2608967,
@@ -51,6 +51,15 @@
       "ementa": "Altera a redação do art. 17, inciso I, alínea “t”, do Regimento Interno da Câmara dos Deputados, para estabelecer prazo mínimo de antecedência na divulgação da Ordem do Dia.",
       "data": "2026-03-31T16:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613007"
+    },
+    {
+      "id": 2613378,
+      "tipo": "PL",
+      "numero": 1592,
+      "ano": 2026,
+      "ementa": "Estabelece normas gerais para a regularização, gestão e modernização da infraestrutura de redes aéreas de serviços públicos e de interesse coletivo, dispõe sobre a remoção de cabos e fiações em desuso, institui diretrizes para a progressiva adoção de redes subterrâneas em áreas urbanas, e altera a Lei nº 9.427, de 26 de dezembro de 1996.",
+      "data": "2026-04-06T11:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613378"
     }
   ],
   "discursos": [

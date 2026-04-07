@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74428.jpg",
-  "score": 27.52,
-  "rank": 280,
+  "score": 23.43,
+  "rank": 366,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -16,22 +16,10 @@
       "desde": "2023-11-02T00:00"
     },
     {
-      "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",
-      "sigla": "CEDIRDIG",
-      "cargo": "Titular",
-      "desde": "2024-02-07T00:00"
-    },
-    {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei n. 2614, de 2024, do Poder Executivo, que \"aprova o Plano Nacional de Educação para o decênio 2024-2034\"",
       "sigla": "PL261424",
       "cargo": "Suplente",
       "desde": "2025-04-25T00:00"
-    },
-    {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",
-      "sigla": "PL233823",
-      "cargo": "Titular",
-      "desde": "2025-04-29T00:00"
     },
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 234, de 2024, do Sr. Felipe Carreras, que \"dispõe sobre incentivos e benefícios para fomentar as atividades de caráter desportivo e dá outras providências\"",
@@ -44,30 +32,6 @@
       "sigla": "PEC01825",
       "cargo": "Relator",
       "desde": "2025-09-09T00:00"
-    },
-    {
-      "nome": "Comissão de Constituição e Justiça e de Cidadania",
-      "sigla": "CCJC",
-      "cargo": "Titular",
-      "desde": "2026-02-09T00:00"
-    },
-    {
-      "nome": "Comissão de Fiscalização Financeira e Controle",
-      "sigla": "CFFC",
-      "cargo": "Suplente",
-      "desde": "2026-02-10T00:00"
-    },
-    {
-      "nome": "Comissão de Educação",
-      "sigla": "CE",
-      "cargo": "Suplente",
-      "desde": "2026-03-10T00:00"
-    },
-    {
-      "nome": "Comissão de Finanças e Tributação",
-      "sigla": "CFT",
-      "cargo": "Suplente",
-      "desde": "2026-03-18T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/74428/votacoes-nominais-plenario/2026"
