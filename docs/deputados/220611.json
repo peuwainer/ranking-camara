@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220611.jpg",
-  "score": 34.87,
-  "rank": 67,
+  "score": 35.26,
+  "rank": 65,
   "proposicoes": [
     {
       "id": 2608135,
@@ -126,6 +126,12 @@
       "sigla": "CME",
       "cargo": "2º Vice-Presidente",
       "desde": "2026-02-11T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial destinada a acompanhar, avaliar e propor medidas relacionadas à Segurança Privada e aos Bombeiros Civis, no que concerne às matérias afetas à segurança pública, à prevenção de ilícitos, ao combate à clandestinidade e ao fortalecimento da fiscalização do setor",
+      "sigla": "SUBSPBC",
+      "cargo": "Suplente",
+      "desde": "2026-03-31T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220611/votacoes-nominais-plenario/2026"

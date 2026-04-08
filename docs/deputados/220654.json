@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220654.jpg",
-  "score": 35.39,
-  "rank": 57,
+  "score": 39.59,
+  "rank": 22,
   "proposicoes": [
     {
       "id": 2609779,
@@ -24,6 +24,60 @@
       "ementa": "Altera a Lei nº 12.009, de 29 de julho de 2009, para modificar requisitos necessários ao exercício das atividades de transporte remunerado de passageiros e de mercadorias, com a utilização de motocicletas e motonetas.",
       "data": "2026-03-25T22:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612291"
+    },
+    {
+      "id": 2613562,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a inabilitação para o exercício de atividade empresarial quando a empresa for utilizada como meio para a prática de crime organizado.",
+      "data": "2026-04-06T15:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613562"
+    },
+    {
+      "id": 2613572,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Estabelece a exigência de tornar acessíveis os dados dos antecedentes criminais de terceiros armazenados nos sistemas de órgãos públicos para consulta pelas entidades de defesa, assistência e proteção dos direitos da mulher, e adota outras providências.",
+      "data": "2026-04-06T15:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613572"
+    },
+    {
+      "id": 2613579,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Cria o art. 288-B do Código Penal para tipificar a conduta de construir, manter ou utilizar túnel subterrâneo destinado à fuga, depósito de armas, munições, drogas ou à facilitação de atividades de organização criminosa, estabelecendo pena de reclusão e multa.",
+      "data": "2026-04-06T15:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613579"
+    },
+    {
+      "id": 2613611,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a cessão de créditos inscritos em precatório por servidores dos órgãos de segurança pública para pagamentos de financiamentos imobiliários.",
+      "data": "2026-04-06T16:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613611"
+    },
+    {
+      "id": 2613615,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui pensão especial e indenização compensatória aos dependentes de policiais civis, militares, federais, rodoviários federais e guardas civis municipais falecidos no exercício da função ou em decorrência de ato de serviço em operações de combate ao crime organizado, reconhecendo o caráter essencial das forças de segurança pública e assegurando proteção integral a seus filhos menores.",
+      "data": "2026-04-06T16:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613615"
+    },
+    {
+      "id": 2613807,
+      "tipo": "PL",
+      "numero": 1633,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para dispor sobre o trabalho externo do condenado em ações de recuperação de áreas atingidas por desastres naturais ou estado de calamidade pública.",
+      "data": "2026-04-07T14:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613807"
     }
   ],
   "discursos": [],

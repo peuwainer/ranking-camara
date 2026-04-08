@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220629.jpg",
-  "score": 19.77,
-  "rank": 420,
+  "score": 19.7,
+  "rank": 415,
   "proposicoes": [
     {
       "id": 2607582,
@@ -62,7 +62,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612861"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-07T15:00",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. DANDARA (Bloco/PT - MG. Sem revisão da oradora.) - Obrigada, Presidente. Minas Gerais é um dos Estados mais ricos do Brasil e, mesmo assim, o desgovernador Zema saiu da cadeira de Governador pa",
+      "transcricao": "A SRA. DANDARA (Bloco/PT - MG. Sem revisão da oradora.) - Obrigada, Presidente. Minas Gerais é um dos Estados mais ricos do Brasil e, mesmo assim, o desgovernador Zema saiu da cadeira de Governador para ser pré-candidato a Presidente, deixando uma dívida de mais 200 bilhões de reais! O Zema fica falando que \"não tem dinheiro\", mas fez uma renúncia fiscal para os empresários amigos dele, uma lista inclusive secreta, de mais de 7 mil empresas, que gerou um rombo em Minas Gerais de mais de 120 bilhões de reais! O Zema perdoou dívidas de empresários amigos dele de 7 mil empresas! Nós, inclusive, fizemos uma representação na Justiça, para que ela cobre o Zema explicações sobre que empresas são essas e por que houve renúncia fiscal. Há, inclusive, hoje um esquema que envolve a isenção de IPVA de locadoras que financiaram a campanha do Zema. O Zema fica falando que \"não tem dinheiro em Minas Gerais\", mas ele aumentou o salário dele em mais de 300%! Ele é o segundo Governador que mais recebe hoje no Brasil! E 41 mil reais é o salário dele! O salário do Zema é 41 mil reais e ele paga para as professoras 2.900 reais! Além disso, não cumpre o Piso Nacional do Magistério. Os trabalhadores da educação estão agora em greve reivindicando um reajuste salarial de mais de 40%, que é fruto de perdas salariais. No entanto, o Zema apresentou uma proposta de 5%, que nem recomposição é. Quem precariza a educação está desmontando o presente e o futuro. E isso não é por acaso. Nós estamos vivendo também, em Minas Gerais, uma situação muito grave. Recentemente, as pesquisas mostraram que 80% dos Municípios mineiros não estão cumprindo o piso e que 20 mil professores de Minas Gerais não receberam seus salários enquanto professores. Uberlândia, que é a minha cidade, está vivendo essa situação neste momento. Os professores fizeram paralisação e fizeram greve. Eles estão com mais de 40% de defasagem salarial. No entanto, o Prefeito apresentou uma proposta de 5% de recomposição. É um absurdo! O auxílio alimentação dos professores é de 800 reais! Eu queria perguntar para o Prefeito o que ele compra no mercado com 800 reais. Oitocentos reais não compra nem a feira da semana, que dirá as compras do mês! Nós precisamos responsabilizar os gestores municipais e estaduais que não estão cumprindo o piso. Esta Câmara precisa aprovar leis que já tramitam aqui neste momento. Prefeito e Governador que não cumprem o piso dos professores têm que ser responsabilizados por improbidade administrativa. Prefeito e Governador que não cumprem o piso têm que responder por não cumprirem aquilo que a lei prevê de pagamento para os professores trabalhadores da educação. Não dá para gente naturalizar as manobras que estão sendo feitas hoje. Defender a educação é nossa obrigação."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

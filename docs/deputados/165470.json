@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/165470.jpg",
-  "score": 29.57,
-  "rank": 214,
+  "score": 29.71,
+  "rank": 203,
   "proposicoes": [
     {
       "id": 2609794,
@@ -42,6 +42,12 @@
       "sigla": "CEXRIOSF",
       "cargo": "Titular",
       "desde": "2023-03-16T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Titular",
+      "desde": "2026-04-07T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/165470/votacoes-nominais-plenario/2026"

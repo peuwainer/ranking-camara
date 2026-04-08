@@ -4,7 +4,7 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
-  "score": 61.76,
+  "score": 59.98,
   "rank": 2,
   "proposicoes": [
     {
@@ -186,9 +186,34 @@
       "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, que dispõe sobre os Planos de Benefícios da Previdência Social, para isentar de carência a concessão de salário-maternidade.",
       "data": "2026-04-06T14:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613436"
+    },
+    {
+      "id": 2613666,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Acrescenta parágrafo único ao art. 106 da Lei nº 8.213, de 24 de julho de 1991, que dispõe sobre os Planos de Benefícios da Previdência Social, para autorizar a utilização de documentos emitidos em nome do pai ou do cônjuge, como meio de comprovação do exercício de atividade rural pela mulher segurada especial.",
+      "data": "2026-04-07T11:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613666"
+    },
+    {
+      "id": 2613727,
+      "tipo": "PL",
+      "numero": 1624,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Cuidado Integral às Pessoas com Deficiência Acometidas por Doenças Crônicas Acolhidas em Residências Inclusivas; e altera a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social).",
+      "data": "2026-04-07T12:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613727"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-07T13:55",
+      "fase": "Encerramento",
+      "tipo": "DISCURSO ENCAMINHADO",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA LAURA CARNEIRO (SEM REGISTRO TAQUIGRÁFICO). A Sra. LAURA CARNEIRO (PSD-RJ) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Depu",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA LAURA CARNEIRO (SEM REGISTRO TAQUIGRÁFICO). A Sra. LAURA CARNEIRO (PSD-RJ) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Deputados, a Câmara dos Deputados aprovou, no fim do ano passado, o Projeto de Lei 4.334, de 2016, que obriga aplicativos de navegação por GPS a alertar sobre locais perigosos. Fui autora da proposição por entender que se trata de medida que, apesar da simplicidade na implementação, é capaz de trazer muitos benefícios para a segurança pública. O mundo está repleto de cidades de grande extensão territorial sujeitas a dinâmicas bastante complexas, nas quais é muito importante que os motoristas conheçam os ambientes urbanos em que atuam. Hoje, até mesmo os motoristas profissionais com dedicação exclusiva a esse ofício têm na tecnologia de navegação por GPS uma ferramenta utilizada corriqueiramente. O recurso tem sido amplamente empregado por milhões de brasileiros para encontrar o caminho mais rápido, evitar trânsito e chegar ao seu destino com mais facilidade. No entanto, a ferramenta não tem sido devidamente empregada com o objetivo de tornar o trajeto mais seguro. O que o Projeto de Lei que apresentei busca é justamente determinar que os aplicativos de GPS e mapas digitais emitam alertas visuais e sonoros quando o motorista se aproximar de regiões com altos índices de criminalidade. Trata-se, portanto, da incorporação de um serviço muito semelhante a diversos outros já existentes, mas que ainda não foi implementado. Atualmente, não é raro que a busca pela rota mais rápida direcione os motoristas por caminhos desconhecidos ou por áreas onde há grande incidência de crimes. O caso é que os algoritmos tendem a priorizar distância e tempo de viagem, desconsiderando quaisquer fatores relacionados com segurança. Com isso, a mesma tecnologia responsável por notável ganho de conforto pode conduzir a situações trágicas. A confiança cega no aplicativo é até uma tendência compreensível, mas pode se converter em erro com resultado fatal. Desse modo, é imperativo que a própria tecnologia seja aprimorada em benefício da segurança pública. Para tanto, apresentei esse Projeto determinando que os desenvolvedores de aplicativos tenham acesso gratuito a bancos de dados oficiais com estatísticas criminais fornecidas pelo poder público para que as informações sejam integradas nos sistemas já utilizados. Com isso, áreas consideradas de alto risco podem ser automaticamente identificadas, gerando alertas aos usuários antes mesmo de entrarem nesses locais. A matéria já tramitou pelas comissões desta Casa, onde foi aprovada. Desse modo, falta apenas que o mesmo ocorra no Senado, onde tramita como PL 6679/2025, para que seja convertida em importante conquista legislativa voltada para a proteção de nossos cidadãos. Muito obrigada."
+    },
     {
       "data": "2026-03-26T10:00",
       "fase": "Encerramento",

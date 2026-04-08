@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204481.jpg",
-  "score": 26.79,
-  "rank": 297,
+  "score": 27.3,
+  "rank": 284,
   "proposicoes": [
     {
       "id": 2608936,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608967"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-07T19:52",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. DR. JAZIEL (PL - CE. Sem revisão do orador.) - Obrigado, Presidente. Subo a esta tribuna para registrar a aprovação da MP do Seguro-Defeso, que é algo justo: um abono ou um subsídio aos pescador",
+      "transcricao": "O SR. DR. JAZIEL (PL - CE. Sem revisão do orador.) - Obrigado, Presidente. Subo a esta tribuna para registrar a aprovação da MP do Seguro-Defeso, que é algo justo: um abono ou um subsídio aos pescadores que não vão poder praticar as suas atividades durante esse período que é proibido. Isso tudo é muito bom, é importante, se não fosse o dedo do Governo, dessas condições que este Governo cria para burlar e muitas vezes fraudar as melhores intenções. Agora mesmo foi sepultada a CPI do INSS. Pois bem, agora entra em ação um novo plano. Essas entidades que agiram semelhantemente no caso desse escândalo do INSS estão credenciadas e são intermediárias para realizar a concessão desse benefício e atestar quem pode exercer a atividade de pescador. Ora, veja bem, isto aqui é o Governo do PT. Isto aqui são as armadilhas que são criadas dia após dia. Então, fica aqui, meu Presidente, o meu protesto, a minha indignação. Essas instituições deveriam estar totalmente fora. Isto é para o beneficiário, que é o pescador. O cadastramento não precisa de intermediário, não precisa de agentes do mal para trazer prejuízo e fraudar a Nação e essas pessoas. Fica aqui o meu protesto. Muito obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a fiscalizar e acompanhar in loco a atual situação que se encontra a transposição do rio São Francisco",

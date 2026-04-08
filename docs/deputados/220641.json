@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220641.jpg",
-  "score": 31.95,
-  "rank": 143,
+  "score": 32.49,
+  "rank": 120,
   "proposicoes": [
     {
       "id": 2609056,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 15.042, de 11 de dezembro de 2024, para instituir o Selo Nacional de Desempenho Climático.",
       "data": "2026-03-19T16:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610943"
+    },
+    {
+      "id": 2614026,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), e a Lei nº 9.605, de 12 de fevereiro de 1998 (Lei de Crimes Ambientais) para tornar infração de trânsito a conduta de abandono de animais utilizando veículo e para tipificar as condutas de abandono e de abandono material de animal doméstico ou domesticado.",
+      "data": "2026-04-07T18:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614026"
     }
   ],
   "discursos": [
@@ -71,12 +80,6 @@
       "sigla": "PL073325",
       "cargo": "Titular",
       "desde": "2025-07-08T00:00"
-    },
-    {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3080, de 2020, do Senhor Alexandre Frota, que \"Institui a política pública nacional para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autismo, e dá outras providências\", e apensados",
-      "sigla": "PL308020",
-      "cargo": "Titular",
-      "desde": "2025-10-21T00:00"
     },
     {
       "nome": "Comissão de Defesa do Consumidor",

@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
-  "score": 39.73,
-  "rank": 20,
+  "score": 41.58,
+  "rank": 15,
   "proposicoes": [
     {
       "id": 2608904,
@@ -51,9 +51,33 @@
       "ementa": "Altera a lei nº 9.263, de 12 de janeiro de 1996, a lei nº 11.664, de 29 de abril de 2008, e a lei nº 9.656, de 3 de junho de 1998, para assegurar o acesso à criopreservação de óvulos para mulheres em tratamento oncológico com risco de perda da fertilidade, tanto no sus quanto nos planos privados de saúde.",
       "data": "2026-04-06T14:17",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613443"
+    },
+    {
+      "id": 2613573,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade da presença de profissionais capacitados para atendimento neurodivergentes durante públicos e privados de grande porte, denominados Guardiões Atípicos, e estabelece diretrizes acessibilidade sensorial e rotas de fuga adaptadas.",
+      "data": "2026-04-07T09:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613573"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-07T15:36",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. SILVIA CRISTINA (Bloco/PP - RO. Sem revisão da oradora.) - Senhoras e senhores, Deputados e Deputadas, eu venho a esta tribuna para expressar a minha gratidão e alegria por completar 3 anos, po",
+      "transcricao": "A SRA. SILVIA CRISTINA (Bloco/PP - RO. Sem revisão da oradora.) - Senhoras e senhores, Deputados e Deputadas, eu venho a esta tribuna para expressar a minha gratidão e alegria por completar 3 anos, porque nós estamos, hoje, neste mês, completando 3 anos da reabilitação do Hospital de Reabilitação, do Hospital de Amor. Portanto, eu venho a esta tribuna para expressar a minha alegria e o meu contentamento pelos 3 anos de funcionamento do Hospital de Reabilitação, o DREAM da Amazônia, do Hospital de Amor. São 3 anos escrevendo novas histórias, 3 anos resgatando vidas, 3 anos de dignidade, de amor e de cuidado às pessoas com deficiência. Nestes 3 anos, Presidente, já são mais de 88 mil rondonienses que foram atendidos, mais de 354 mil procedimentos realizados. O nosso mandato, em parceria com a Fundação Pio XII, já investiu mais de 60 milhões de reais. Tudo para assegurar o mais completo e equipado centro de reabilitação do País. São modernos equipamentos robóticos que ajudam pacientes a recuperar movimentos, auxiliados por profissionais qualificados e com uma dose extra de amor que faz, sem dúvida, a diferença no nosso Hospital de Pessoas com Deficiência. O Centro de Reabilitação realiza a reabilitação auditiva, física, intelectual, ostomia e múltiplas deficiências. No ano passado, nós entregamos, também em comemoração aos 2 anos, a oficina de prótese e órtese, que faz um trabalho grandioso. Antes, as pessoas não tinham opção e precisavam ir para outros Estados. Hoje, não. Hoje, seguem e continuam lá em Rondônia, com o Centro de Reabilitação, o mais moderno da América Latina. E é assim que é o nosso mandato, é para cuidar de gente. Nós entregamos resultado de fato, olhando para as necessidades da população e fazendo o nosso melhor, que é o que nós podemos e fazemos. E dá para fazer o melhor, sim. E o Centro de Reabilitação do Hospital de Amor, fruto do nosso mandato, é a prova disso. Portanto, hoje comemoramos 3 anos de um grande sonho realizado e de um trabalho concreto. Eu gostaria, Presidente, que o nosso pronunciamento também fosse divulgado nos meios de comunicação desta Casa e especialmente no programa A Voz do Brasil. Muito obrigada."
+    },
+    {
+      "data": "2026-04-07T15:04",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. SILVIA CRISTINA (Bloco/PP - RO. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Hoje, nós celebramos o Dia do Jornalista. Parabéns a todos os jornalistas! Eu presto essa justa home",
+      "transcricao": "A SRA. SILVIA CRISTINA (Bloco/PP - RO. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Hoje, nós celebramos o Dia do Jornalista. Parabéns a todos os jornalistas! Eu presto essa justa homenagem a esses profissionais que têm uma missão importante para a sociedade de assegurar a informação com ética, com verdade e acima de tudo responsabilidade. Em meio a tantas desinformações, fake news, que vivemos hoje, a figura do jornalista assume um papel ainda mais crucial ao assegurar a apuração com ética em uma publicação responsável. Eu tenho orgulho de dizer que sou jornalista e exerci a minha função com muito respeito e responsabilidade durante uma carreira, buscando, com meu trabalho, contribuir de forma positiva para a sociedade. Fui a primeira mulher a apresentar um programa jornalístico policial, o Plantão de Polícia, sempre o fazendo com muita seriedade. Então, parabenizo os profissionais desta Casa e todos os profissionais jornalistas do Brasil. Que todos os jornalistas recebam o nosso reconhecimento e os nossos parabéns nesta data tão importante. Quero que meu pronunciamento fique registrado também no programa A Voz do Brasil. Muito obrigada."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a acompanhar as ações de prevenção e combate ao câncer, ao acidente vascular cerebral (AVC) e às doenças do coração.",

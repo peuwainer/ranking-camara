@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220556.jpg",
-  "score": 44.86,
-  "rank": 9,
+  "score": 48.29,
+  "rank": 8,
   "proposicoes": [
     {
       "id": 2607919,
@@ -177,6 +177,60 @@
       "ementa": "Altera Lei a Lei nº 5.905, de 12 de julho de 1973, para dispor sobre o Exame de Proficiência em Enfermagem.",
       "data": "2026-04-01T11:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613407"
+    },
+    {
+      "id": 2613808,
+      "tipo": "PL",
+      "numero": 1634,
+      "ano": 2026,
+      "ementa": "Altera a Lei n.º 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para incluir expressamente as mulheres transexuais e travestis no âmbito de sua proteção e estabelecer medidas de enfrentamento à violência de gênero; e dá outras providências.",
+      "data": "2026-04-07T14:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613808"
+    },
+    {
+      "id": 2613811,
+      "tipo": "PL",
+      "numero": 1635,
+      "ano": 2026,
+      "ementa": "Altera as Leis n.º 11.668, de 2 de maio de 2008, e n.º 9.998, de 17 de agosto de 2000, para dispor sobre a expansão de franquias postais em pequenos municípios e ampliar as finalidades do Fundo de Universalização dos Serviços de Telecomunicações (Fust).",
+      "data": "2026-04-07T14:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613811"
+    },
+    {
+      "id": 2613812,
+      "tipo": "PL",
+      "numero": 1636,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a transparência e a responsabilidade de plataformas digitais na publicação de anúncios de emprego no Brasil.",
+      "data": "2026-04-07T14:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613812"
+    },
+    {
+      "id": 2613813,
+      "tipo": "PL",
+      "numero": 1637,
+      "ano": 2026,
+      "ementa": "Dispõe sobre medidas de proteção de crianças e adolescentes contra a exploração sexual no ambiente digital mediante a alteração das Leis nos 15.211, de 17 de setembro de 2025 (Estatuto Digital da Criança e do Adolescente) e 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente).",
+      "data": "2026-04-07T14:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613813"
+    },
+    {
+      "id": 2613814,
+      "tipo": "PL",
+      "numero": 1638,
+      "ano": 2026,
+      "ementa": "Altera o art. 83 da Lei n.º 7.210, de 11 de julho de 1984 – Lei de Execução Penal, para permitir que as condenadas possam cuidar de seus filhos, inclusive amamentá-los, no mínimo, até 12 (doze) meses de idade.",
+      "data": "2026-04-07T14:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613814"
+    },
+    {
+      "id": 2613817,
+      "tipo": "PL",
+      "numero": 1639,
+      "ano": 2026,
+      "ementa": "Determina os crimes passíveis de serem cometidos pela mãe contra filho ou dependente para o fim de vedação de substituição de sua prisão preventiva em prisão domiciliar.",
+      "data": "2026-04-07T14:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613817"
     }
   ],
   "discursos": [

@@ -4,9 +4,28 @@
   "partido": "PP",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204450.jpg",
-  "score": 1.36,
-  "rank": 494,
-  "proposicoes": [],
+  "score": 3.58,
+  "rank": 500,
+  "proposicoes": [
+    {
+      "id": 2614048,
+      "tipo": "PL",
+      "numero": 1670,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.468, de 26 de agosto de 2011, que “Regulamenta a profissão de taxista, altera a Lei nº 6.094, de 30 de agosto de 1974; e dá outras providências” para estabelecer a idade máxima dos veículos que podem ser usados no serviço de táxi e prever linhas de financiamento para renovação de frota por instituições financeiras oficiais.",
+      "data": "2026-04-07T19:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614048"
+    },
+    {
+      "id": 2614049,
+      "tipo": "PL",
+      "numero": 1671,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a regulamentação do exercício profissional do Corretor de Planos e Seguros de Saúde, e dá outras providências.",
+      "data": "2026-04-07T19:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614049"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

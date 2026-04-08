@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204472.jpg",
-  "score": 22.02,
-  "rank": 389,
+  "score": 24.52,
+  "rank": 338,
   "proposicoes": [
     {
       "id": 2613007,
@@ -15,9 +15,44 @@
       "ementa": "Altera a redação do art. 17, inciso I, alínea “t”, do Regimento Interno da Câmara dos Deputados, para estabelecer prazo mínimo de antecedência na divulgação da Ordem do Dia.",
       "data": "2026-03-31T16:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613007"
+    },
+    {
+      "id": 2613828,
+      "tipo": "PL",
+      "numero": 1641,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a criação do Aplicativo Nacional de Consulta de Antecedentes para Proteção da Mulher – ANCAPM, a ser desenvolvido e mantido pelo Governo Federal, com o objetivo de permitir a consulta segura e legal de antecedentes criminais relevantes à proteção da mulher, e dá outras providências.",
+      "data": "2026-04-07T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613828"
+    },
+    {
+      "id": 2614050,
+      "tipo": "PL",
+      "numero": 1672,
+      "ano": 2026,
+      "ementa": "Concede anistia às multas aplicadas a pessoas físicas e jurídicas em decorrência de bloqueios de rodovias após as eleições de 2022 e dos eventos ocorridos em 08 de janeiro de 2023.",
+      "data": "2026-04-07T19:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614050"
+    },
+    {
+      "id": 2614055,
+      "tipo": "PLP",
+      "numero": 89,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a alíquota dos Impostos Federais nas saídas e no desembaraço aduaneiro de produtos de perfumaria, beleza ou maquiagem e de preparações capilares.",
+      "data": "2026-04-07T19:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614055"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-07T18:48",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JOSÉ MEDEIROS (PL - MT. Pela ordem. Sem revisão do orador.) - Sr. Presidente, na linha do que disse agora há pouco o nosso Líder da Oposição, o Deputado Cabo Gilberto Silva, ou o Presidente da R",
+      "transcricao": "O SR. JOSÉ MEDEIROS (PL - MT. Pela ordem. Sem revisão do orador.) - Sr. Presidente, na linha do que disse agora há pouco o nosso Líder da Oposição, o Deputado Cabo Gilberto Silva, ou o Presidente da República do Brasil está com alguma dificuldade cognitiva ou a sua saúde não está boa, porque o que ele tem feito com o País tem sido realmente uma coisa impressionante, de forma negativa. Para acabar de arrebentar com tudo, ele, que é o Presidente de honra do partido que diz defender o meio ambiente, está comendo a paca, literalmente. Imagine o exemplo que ele deu ao comer uma paca e anunciar isso nas redes sociais. A paca, que já é um animal em extinção, agora é que vai acabar de vez. A Minoria libera."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a acompanhar, in loco, o processo de intervenção na saúde pública do município de Cuiabá-MT, decretado pelo Tribunal de Justiça do estado de Mato Grosso",
@@ -42,6 +77,12 @@
       "sigla": "CCJC",
       "cargo": "Titular",
       "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial destinada a avaliar e fiscalizar todas as ações que afetam o Direito de Propriedade seja por ação ou omissão do Governo Federal e atividades promovidas por movimentos sociais",
+      "sigla": "SUBPROP",
+      "cargo": "Suplente",
+      "desde": "2026-03-24T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204472/votacoes-nominais-plenario/2026"

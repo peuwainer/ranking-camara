@@ -1,11 +1,11 @@
 {
   "id": 98057,
   "nome": "Lafayette de Andrada",
-  "partido": "REPUBLICANOS",
+  "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/98057.jpg",
-  "score": 21.88,
-  "rank": 392,
+  "score": 23.43,
+  "rank": 364,
   "proposicoes": [
     {
       "id": 2609813,
@@ -42,9 +42,33 @@
       "ementa": "",
       "data": "2026-03-31T16:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613025"
+    },
+    {
+      "id": 2614078,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-04-07T20:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614078"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-07T19:04",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LAFAYETTE DE ANDRADA (PL - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o PL orienta \"sim\", parabeniza o autor do projeto, o Deputado Alceu Moreira. Ele autoriza que a ANP tenha ace",
+      "transcricao": "O SR. LAFAYETTE DE ANDRADA (PL - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o PL orienta \"sim\", parabeniza o autor do projeto, o Deputado Alceu Moreira. Ele autoriza que a ANP tenha acesso aos dados de nota fiscal de entrada e saída de combustível para justamente fiscalizar se há algum tipo de contrabando, descaminho, etc. É necessário que a ANP tenha essa possibilidade. Portanto, parabenizamos o Deputado Alceu Moreira pelo projeto. O PL orienta \"sim\", Sr. Presidente."
+    },
+    {
+      "data": "2026-04-07T18:44",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LAFAYETTE DE ANDRADA (PL - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o PL orienta \"sim\", porque há uma dúvida que precisa ser sanada. O projeto de lei diz que dispõe sobre o aces",
+      "transcricao": "O SR. LAFAYETTE DE ANDRADA (PL - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o PL orienta \"sim\", porque há uma dúvida que precisa ser sanada. O projeto de lei diz que dispõe sobre o acesso da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis  ANP às informações fiscais dos agentes regulados. O que é que a ANP tem que ter acesso a informações fiscais? Quem tem que ter é a Receita Federal, é o COAF. A ANP tem que fiscalizar se o combustível está adulterado ou se não está, se a quantidade está correta ou se não está. Agora, o fiscal da ANP ter acessos fiscais... A gente tem que estudar isso com mais critério, porque a pauta foi lançada só agora no final da tarde. Por isso o PL pondera pela retirada de pauta e pede um voto favorável."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 41.57,
-  "rank": 15,
+  "score": 45.8,
+  "rank": 10,
   "proposicoes": [
     {
       "id": 2607573,
@@ -132,6 +132,42 @@
       "ementa": "Altera a Lei nº 8.078 de 1990 para vedar expressamente práticas discriminatórias por motivo de nacionalidade, origem ou convicção política nas relações de consumo.",
       "data": "2026-04-06T15:59",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613496"
+    },
+    {
+      "id": 2613557,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Dispõe sobre reparação às vítimas de violações de direitos humanos praticadas por agentes do Estado após o período fixado no art. 8º do Ato das Disposições Constitucionais Transitórias e dá outras providências.",
+      "data": "2026-04-06T16:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613557"
+    },
+    {
+      "id": 2613589,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.303, de 30 de junho de 2016, dispondo sobre a exigência de resultado primário superavitário como condicionante na celebração de convênio ou contrato de patrocínio pelas estatais federais.",
+      "data": "2026-04-06T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613589"
+    },
+    {
+      "id": 2613592,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Capitão Alden (PL-BA), pela aprovação do PL nº 3.391/2024, bem como dos PLs nº 328/2025 e nº 2.833/2025, apensados, na forma do substitutivo.",
+      "data": "2026-04-06T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613592"
+    },
+    {
+      "id": 2613603,
+      "tipo": "PLP",
+      "numero": 88,
+      "ano": 2026,
+      "ementa": "Altera a Lei de Responsabilidade Fiscal para vedar despesas com eventos festivos quando o ente federativo estiver em situação de irregularidade fiscal, e a Lei de Improbidade Administrativa, para tipificar como ato de improbidade a realização dessas despesas em detrimento de serviços essenciais.",
+      "data": "2026-04-07T10:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613603"
     }
   ],
   "discursos": [
@@ -181,12 +217,6 @@
       "desde": "2026-02-24T00:00"
     },
     {
-      "nome": "Comissão de Administração e Serviço Público",
-      "sigla": "CASP",
-      "cargo": "Titular",
-      "desde": "2026-02-26T00:00"
-    },
-    {
       "nome": "Subcomissão Especial de Fiscalização e Direitos dos Presos do 8 de Janeiro",
       "sigla": "SUB8J",
       "cargo": "Suplente",
@@ -197,6 +227,30 @@
       "sigla": "CFT",
       "cargo": "Suplente",
       "desde": "2026-03-18T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial para a fiscalização da implementação da Lei Orgânica Nacional das Polícias Militares e Corpos de Bombeiros Militares, Lei nº 14.751/23, e da Lei Orgânica Nacional das Polícias Civis, Lei nº 14.735/23",
+      "sigla": "SUBLOR",
+      "cargo": "Titular",
+      "desde": "2026-03-26T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial destinada a acompanhar, avaliar e propor medidas relacionadas à Segurança Privada e aos Bombeiros Civis, no que concerne às matérias afetas à segurança pública, à prevenção de ilícitos, ao combate à clandestinidade e ao fortalecimento da fiscalização do setor",
+      "sigla": "SUBSPBC",
+      "cargo": "Titular",
+      "desde": "2026-03-31T00:00"
+    },
+    {
+      "nome": "Comissão de Administração e Serviço Público",
+      "sigla": "CASP",
+      "cargo": "Suplente",
+      "desde": "2026-04-07T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "Titular",
+      "desde": "2026-04-07T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220690/votacoes-nominais-plenario/2026"

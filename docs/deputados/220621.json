@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RN",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220621.jpg",
-  "score": 37.66,
-  "rank": 31,
+  "score": 37.38,
+  "rank": 41,
   "proposicoes": [
     {
       "id": 2608432,
@@ -36,6 +36,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-07T20:16",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. SARGENTO GONÇALVES (PL - RN. Sem revisão do orador.) - Presidente, vou falar sobre segurança pública no Estado do Rio Grande do Norte. Esse é um dos temas que mais afligem o povo potiguar, e por",
+      "transcricao": "O SR. SARGENTO GONÇALVES (PL - RN. Sem revisão do orador.) - Presidente, vou falar sobre segurança pública no Estado do Rio Grande do Norte. Esse é um dos temas que mais afligem o povo potiguar, e por isso nos preocupamos tanto. Segurança pública passa obrigatoriamente pela valorização dos operadores de segurança pública. Por isso, nós temos um mandato aqui voltado à valorização, ao respeito e à dignidade do operador, daquele que está na ponta de lança, da tropa, o policial militar, o bombeiro militar, o policial civil, o policial penal, o policial científico e os guardas municipais ou as polícias municipais do Estado do Rio Grande do Norte. Há alguns dias, eu lancei um desafio à Governadora do Estado do Rio Grande do Norte sobre o processo seletivo que ela prometeu instalar para o CHOE  Curso de Habilitação de Oficiais Especialistas da Polícia Militar. Gerou expectativa e não abriu concurso interno. O desafio foi: \"Governadora, se isso é falta de dinheiro para o processo seletivo, eu vou reafirmar aqui, faço a indicação, segundo informações, de 300 mil reais\". O mandato do Deputado Sargento Gonçalves se coloca mais uma vez à disposição para fazer essa indicação de 300 mil reais. E eu vou dobrar a aposta, Sr. Presidente, porque a Oposição parece que não gostou de ter um Deputado aqui que defende a segurança pública. A Turma T3, do concurso de praças da Polícia Militar, está aguardando para ser chamada. Se a Governadora quiser atender e chamar esses concursados, eu me coloco aqui à disposição para nós podermos fazer outra indicação. Segurança pública é prioridade. Precisamos investir com toda a nossa dedicação, porque quem paga na ponta é o cidadão, que sofre com a insegurança. Deus abençoe o Estado do Rio Grande do Norte!"
+    },
     {
       "data": "2026-03-19T12:28",
       "fase": "Breves Comunicações",
@@ -163,6 +170,18 @@
       "sigla": "CE",
       "cargo": "Suplente",
       "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial para a fiscalização da implementação da Lei Orgânica Nacional das Polícias Militares e Corpos de Bombeiros Militares, Lei nº 14.751/23, e da Lei Orgânica Nacional das Polícias Civis, Lei nº 14.735/23",
+      "sigla": "SUBLOR",
+      "cargo": "Suplente",
+      "desde": "2026-03-26T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "Titular",
+      "desde": "2026-04-07T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220621/votacoes-nominais-plenario/2026"

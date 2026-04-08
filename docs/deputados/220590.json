@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "AC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220590.jpg",
-  "score": 31.93,
-  "rank": 146,
+  "score": 33.1,
+  "rank": 110,
   "proposicoes": [
     {
       "id": 2610696,
@@ -85,6 +85,12 @@
       "sigla": "SUB8J",
       "cargo": "Titular",
       "desde": "2026-03-11T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial destinada a acompanhar, avaliar e propor medidas relacionadas à Segurança Privada e aos Bombeiros Civis, no que concerne às matérias afetas à segurança pública, à prevenção de ilícitos, ao combate à clandestinidade e ao fortalecimento da fiscalização do setor",
+      "sigla": "SUBSPBC",
+      "cargo": "Titular",
+      "desde": "2026-03-31T00:00"
     },
     {
       "nome": "Comissão de Constituição e Justiça e de Cidadania",

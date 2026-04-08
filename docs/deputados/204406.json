@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204406.jpg",
-  "score": 30.59,
-  "rank": 182,
+  "score": 31.63,
+  "rank": 148,
   "proposicoes": [
     {
       "id": 2609794,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609794"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-07T16:36",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. PEDRO WESTPHALEN (Bloco/PP - RS. Pela ordem. Sem revisão do orador.) - Presidente, é uma tarde de uma riqueza histórica muito grande. Assume o Parlamento o filho de Francisco Turra, o Sérgio Tur",
+      "transcricao": "O SR. PEDRO WESTPHALEN (Bloco/PP - RS. Pela ordem. Sem revisão do orador.) - Presidente, é uma tarde de uma riqueza histórica muito grande. Assume o Parlamento o filho de Francisco Turra, o Sérgio Turra, que vem de uma história familiar brilhante. Meu caro Deputado Ricardo Barros, o Sérgio Turra teve uma grandeza tão grande que ele, nessa tradição, conseguiu ser ele mesmo, tendo sempre exemplos basilares de uma história política ilibada. Muito bem-vindo, Deputado Sérgio Turra. Parabéns, Deputado Covatti, pela tua atitude de Presidente de partido, compreendendo a importância que tinha de o Turra. S.Exa. assume neste momento junto com a Any Ortiz, outra grande Deputada. O Partido Progressista está em festa aqui em Brasília e no Rio Grande do Sul. Seja muito bem-vindo a este Parlamento. V.Exa. merece, e o Rio Grande do Sul precisa de homens como V.Exa. Parabéns!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a elaborar propostas para analisar o enfrentamento da tuberculose como compromisso internacional para a eliminação desta doença como problema de saúde pública até o ano de 2030, conforme preconizado pela Organização das Nações Unidas (ONU)",

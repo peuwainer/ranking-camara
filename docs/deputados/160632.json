@@ -4,10 +4,18 @@
   "partido": "UNIÃO",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160632.jpg",
-  "score": 16.51,
-  "rank": 444,
+  "score": 19.62,
+  "rank": 416,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-07T14:04",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ZÉ SILVA (Bloco/UNIÃO - MG. Pela ordem. Sem revisão do orador.) - Caro Presidente, colegas Parlamentares, amanhã está pautado o meu projeto que proíbe o consumo no Brasil de leite e derivados im",
+      "transcricao": "O SR. ZÉ SILVA (Bloco/UNIÃO - MG. Pela ordem. Sem revisão do orador.) - Caro Presidente, colegas Parlamentares, amanhã está pautado o meu projeto que proíbe o consumo no Brasil de leite e derivados importados, já que a importação de leite, fazendo triangulação na Argentina, especialmente no Uruguai, cada dia que passa derrama mais leite no nosso País e o produtor rural, o produtor de leite brasileiro, especialmente da agricultura familiar, paga a conta. O Deputado Welter, que é o Relator deste projeto, conhece, como eu, em profundidade, a necessidade de o Brasil suspender essa importação, até que seja concluída a investigação de dumping, que é uma maneira ilegal de colocar o leite e o soro em pó aqui no Brasil, o que está prejudicando os produtores brasileiros. Dei início também à iniciativa de um abaixo-assinado digital para que o Presidente da República implante essa medida de proibir essa importação. Presidente, solicito que V.Exa. veicule este pronunciamento nos meios de comunicação desta Casa. Obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a fiscalizar os rompimentos de barragens, em especial acompanhar a repactuação do acordo de Mariana e a reparação do crime de Brumadinho",
@@ -44,6 +52,12 @@
       "sigla": "CEXZMATA",
       "cargo": "Titular",
       "desde": "2026-03-04T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial destinada a avaliar e fiscalizar todas as ações que afetam o Direito de Propriedade seja por ação ou omissão do Governo Federal e atividades promovidas por movimentos sociais",
+      "sigla": "SUBPROP",
+      "cargo": "Titular",
+      "desde": "2026-03-24T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/160632/votacoes-nominais-plenario/2026"

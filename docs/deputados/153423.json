@@ -4,9 +4,19 @@
   "partido": "MDB",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
-  "score": 15.83,
-  "rank": 452,
-  "proposicoes": [],
+  "score": 14.99,
+  "rank": 459,
+  "proposicoes": [
+    {
+      "id": 2613749,
+      "tipo": "PL",
+      "numero": 1627,
+      "ano": 2026,
+      "ementa": "Institui, no âmbito da Política Nacional de Mobilidade Urbana, o Programa Transporte Seguro para Elas, destinado à promoção de espaços seguros de prevenção à violência, ao assédio e a outras formas de abuso contra mulheres no serviço de transporte coletivo público de passageiros, e dá outras providências.",
+      "data": "2026-04-07T13:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613749"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

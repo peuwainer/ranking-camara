@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204511.jpg",
-  "score": 19.58,
-  "rank": 423,
+  "score": 21.35,
+  "rank": 399,
   "proposicoes": [
     {
       "id": 2610113,
@@ -24,6 +24,15 @@
       "ementa": "Altera as Leis nº 10.406, de 10 de janeiro de 2002, nº 12.965, de 23 de abril de 2014, e nº 13.709, de 14 de agosto de 2018, para dispor sobre a sucessão de conteúdos, bens e contas digitais.",
       "data": "2026-03-24T14:42",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611730"
+    },
+    {
+      "id": 2613850,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre a proteção dos direitos dos consumidores no uso de produtos e serviços que utilizam Inteligência Artificial (IA), estabelecendo diretrizes para garantir transparência, equidade e o respeito à privacidade dos usuários.",
+      "data": "2026-04-07T15:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613850"
     }
   ],
   "discursos": [
@@ -47,6 +56,18 @@
       "sigla": "PL261424",
       "cargo": "Titular",
       "desde": "2025-11-11T00:00"
+    },
+    {
+      "nome": "Comissão de Ciência, Tecnologia e Inovação",
+      "sigla": "CCTI",
+      "cargo": "Titular",
+      "desde": "2026-04-07T00:00"
+    },
+    {
+      "nome": "Comissão de Comunicação",
+      "sigla": "CCOM",
+      "cargo": "Suplente",
+      "desde": "2026-04-07T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204511/votacoes-nominais-plenario/2026"

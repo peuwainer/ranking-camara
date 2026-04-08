@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141408.jpg",
-  "score": 32.95,
-  "rank": 106,
+  "score": 34.96,
+  "rank": 71,
   "proposicoes": [
     {
       "id": 2610587,
@@ -24,9 +24,34 @@
       "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para estabelecer deveres de cuidado às aplicações de internet quanto à prevenção e combate à incitação, à automutilação e ao suicídio envolvendo crianças e adolescentes.",
       "data": "2026-03-31T10:12",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613353"
+    },
+    {
+      "id": 2613612,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Propõe ações de Combate a atuação em Território Nacional dos Jogos Ilegais na Internet",
+      "data": "2026-04-07T09:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613612"
+    },
+    {
+      "id": 2613788,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 12.212, de 20 de janeiro de 2010, para estender a isenção da tarifa de energia elétrica a idosos e pessoas com Transtorno do Espectro Autista (TEA), cadastrados em programas de transferência de renda, desde que o consumo mensal não ultrapasse 80 kWh.",
+      "data": "2026-04-07T09:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613788"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-07T17:16",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. CLEBER VERDE (Bloco/MDB - MA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, permita-me falar pelo MDB, registrar a importância dessa MP e, principalmente, ressaltar que, no texto aprovad",
+      "transcricao": "O SR. CLEBER VERDE (Bloco/MDB - MA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, permita-me falar pelo MDB, registrar a importância dessa MP e, principalmente, ressaltar que, no texto aprovado na Comissão, o Relator fala da importância de poder as entidades, ou seja, os presidentes de associação, de cooperativa, de sindicato, de colônia de pescadores, que conhecem o pescador por apelido ou pelo nome. É fundamental que o Ministério do Trabalho possa estabelecer também acordo de cooperação técnica, justamente com o propósito de fortalecer a instituição e, eventualmente, os associados, porque entendemos que a instituição, através de uma ACT, pode, de forma direta, ajudar no combate às fraudes. Isso ocorre porque o presidente da instituição, além do CPF, tem o CNPJ da instituição, que vai estar respaldado, identificando o pescador, identificando aquele que realmente é trabalhador e que faz direito, faz justiça, garantindo a ele o seguro-defeso. Esse é o benefício importante. Eu peço... (Desligamento do microfone.)"
+    },
     {
       "data": "2026-03-25T11:52",
       "fase": null,

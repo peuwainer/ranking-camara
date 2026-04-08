@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
-  "score": 15.43,
-  "rank": 457,
+  "score": 17.84,
+  "rank": 438,
   "proposicoes": [
     {
       "id": 2607582,
@@ -18,6 +18,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-07T16:16",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. HEITOR SCHUCH (Bloco/PSD - RS. Sem revisão do orador.) - Sr. Presidente, colegas Deputados e Deputadas, estimado povo brasileiro, a manchete de hoje é \"Governo eleva tributação sobre cigarros pa",
+      "transcricao": "O SR. HEITOR SCHUCH (Bloco/PSD - RS. Sem revisão do orador.) - Sr. Presidente, colegas Deputados e Deputadas, estimado povo brasileiro, a manchete de hoje é \"Governo eleva tributação sobre cigarros para compensar a desoneração de combustíveis em pacote de 31 bilhões de reais. De acordo com o Ministro da Fazenda, Dario Durigan, a isenção do PIS/Cofins tanto para biodiesel quanto para querosene de aviação será compensada pelo ajuste da alíquota dos cigarros\". Pasmem, Srs. Parlamentares! Então, isso quer dizer que, para os doutores, os Deputados, os Senadores, os empresários e os comerciantes viajarem de avião, o produtor de tabaco vai ter que pagar a conta? O trabalhador da indústria vai ter que pagar a conta? Essa gente simples e humilde que levanta às cinco da manhã para cuidar do processo produtivo, seja na indústria, seja na agricultura, é chamada a pagar a conta, para baixar o custo das empresas aéreas. Olha, com toda sinceridade, quem deve estar contente e faceiro, aplaudindo, é o contrabando, é o pessoal que faz descaminho, que importa produtos sem origem, sem qualidade sanitária, que certamente vai, além dos trinta e poucos porcento de contrabando que já existe, engordar ainda mais os seus cofres. Isso significa expansão do comércio legal, perda da arrecadação tributária, fortalecimento das organizações criminosas, que certamente vão estar felizes da vida com essa notícia. Srs. Deputados e Deputadas, eu queria encerrar esta minha fala fazendo uma pergunta para todos: afinal, onde é que nós vamos chegar com isso, com mais contrabando, com mais contravenção, com mais produto no mercado pela metade do preço do produto legal? A propósito, por que se penaliza a produção do tabaco, a indústria do tabaco, o trabalhador do tabaco? Esqueceu-se das bets? Esqueceu-se das bebidas alcoólicas e de outros mais? Ora, Ministro Dario Nurigan, V.Exa. começou no Ministério há poucos dias, mas começou com o pé errado, com o pé trocado, e está começando um trabalho que, com certeza, vai ser muito ruim para quem trabalha e quem produz nesse setor do tabaco no Brasil."
+    },
     {
       "data": "2026-03-18T14:28",
       "fase": "Breves Comunicações",
@@ -62,6 +69,12 @@
       "sigla": "CCTI",
       "cargo": "Suplente",
       "desde": "2026-03-04T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial destinada a avaliar e fiscalizar todas as ações que afetam o Direito de Propriedade seja por ação ou omissão do Governo Federal e atividades promovidas por movimentos sociais",
+      "sigla": "SUBPROP",
+      "cargo": "Titular",
+      "desde": "2026-03-24T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178964/votacoes-nominais-plenario/2026"

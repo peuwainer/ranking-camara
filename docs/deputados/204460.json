@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg",
-  "score": 34.3,
-  "rank": 77,
+  "score": 35.73,
+  "rank": 58,
   "proposicoes": [
     {
       "id": 2608967,
@@ -15,9 +15,34 @@
       "ementa": "Acrescenta o parágrafo § 6º ao art. 39 do Regimento Interno da Câmara dos Deputados, para estabelecer que os cargos de Presidente e de Vice-Presidentes da Comissão de Defesa dos Direitos da Mulher sejam ocupados exclusivamente por Deputadas do sexo feminino.",
       "data": "2026-03-16T11:53",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608967"
+    },
+    {
+      "id": 2613995,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre as medidas relativas à realização da Copa do Mundo Feminina da Fédération Internationale de Football Association – FIFA 2027 na República Federativa do Brasil e sobre a concessão de prêmio às jogadoras da seleção brasileira do 1988 FIFA Women's Invitation Tournament.",
+      "data": "2026-04-07T18:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613995"
+    },
+    {
+      "id": 2614069,
+      "tipo": "PLP",
+      "numero": 90,
+      "ano": 2026,
+      "ementa": "Dispõe sobre os critérios para caracterização do patrimônio, da renda e dos serviços vinculados às finalidades essenciais dos templos de qualquer culto, para fins de aplicação da imunidade tributária prevista no art. 150, §4º, da Constituição Federal.",
+      "data": "2026-04-07T20:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614069"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-07T17:32",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. CARLOS JORDY (PL - RJ. Pela ordem. Sem revisão do orador.) - Presidente, o escândalo do INSS se mostrou um dos maiores escândalos da nossa história. A CPMI do INSS identificou diversas entidades",
+      "transcricao": "O SR. CARLOS JORDY (PL - RJ. Pela ordem. Sem revisão do orador.) - Presidente, o escândalo do INSS se mostrou um dos maiores escândalos da nossa história. A CPMI do INSS identificou diversas entidades sindicais que, em conluio com o PT, roubaram aposentados, fraudaram aposentados através de consignados irregulares. É isto o que eles estão aqui fazendo: uma premiação a essas entidades que, historicamente, roubam aposentados, roubam da Previdência. Agora, com o Seguro-Defeso, querem alimentar entidades que fazem essas práticas e, muitas vezes, fazem esquemas. Hoje, nós estamos vendo que o IBGE relata que são 300 mil pescadores e 2 milhões de recebedores, beneficiários do Seguro-Defeso, evidentemente devido a fraudes como essas, envolvendo as entidades de pesca. Por isso, nós pedimos que votem \"não\" e retiremos essa... (Desligamento do microfone.)"
+    },
     {
       "data": "2026-03-25T14:32",
       "fase": "Breves Comunicações",

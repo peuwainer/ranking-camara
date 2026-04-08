@@ -4,7 +4,7 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/221338.jpg",
-  "score": 29.88,
+  "score": 29.97,
   "rank": 199,
   "proposicoes": [
     {
@@ -74,16 +74,16 @@
       "desde": "2026-03-10T00:00"
     },
     {
-      "nome": "Comissão de Defesa dos Direitos da Mulher",
-      "sigla": "CMULHER",
-      "cargo": "Suplente",
-      "desde": "2026-03-10T00:00"
-    },
-    {
       "nome": "Comissão de Finanças e Tributação",
       "sigla": "CFT",
       "cargo": "Suplente",
       "desde": "2026-03-18T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Mulher",
+      "sigla": "CMULHER",
+      "cargo": "Titular",
+      "desde": "2026-04-07T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/221338/votacoes-nominais-plenario/2026"

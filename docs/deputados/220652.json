@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220652.jpg",
-  "score": 28.93,
-  "rank": 224,
+  "score": 29.98,
+  "rank": 198,
   "proposicoes": [
     {
       "id": 2609794,
@@ -30,6 +30,12 @@
       "sigla": "SUB8J",
       "cargo": "Titular",
       "desde": "2026-03-11T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial para a fiscalização da implementação da Lei Orgânica Nacional das Polícias Militares e Corpos de Bombeiros Militares, Lei nº 14.751/23, e da Lei Orgânica Nacional das Polícias Civis, Lei nº 14.735/23",
+      "sigla": "SUBLOR",
+      "cargo": "Suplente",
+      "desde": "2026-03-26T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220652/votacoes-nominais-plenario/2026"

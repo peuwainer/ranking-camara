@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/221329.jpg",
-  "score": 18.85,
-  "rank": 430,
+  "score": 21.09,
+  "rank": 405,
   "proposicoes": [
     {
       "id": 2607947,
@@ -33,6 +33,24 @@
       "ementa": "Emenda com o objetivo de assegurar transparência, controle institucional e acompanhamento parlamentar das medidas de resolução e supervisão do sistema financeiro nacional.",
       "data": "2026-03-17T18:05",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609679"
+    },
+    {
+      "id": 2614072,
+      "tipo": "PL",
+      "numero": 1679,
+      "ano": 2026,
+      "ementa": "Institui o Dia Nacional da Causa de Amor aos Animais e dispõe sobre a terminologia oficial em comunicações públicas.",
+      "data": "2026-04-07T20:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614072"
+    },
+    {
+      "id": 2614073,
+      "tipo": "PL",
+      "numero": 1680,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para dispor sobre a vedação de restrições cadastrais com base exclusivamente em dívida já integralmente quitada.",
+      "data": "2026-04-07T20:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614073"
     }
   ],
   "discursos": [

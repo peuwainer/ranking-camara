@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204485.jpg",
-  "score": 28.19,
-  "rank": 245,
+  "score": 28.22,
+  "rank": 257,
   "proposicoes": [
     {
       "id": 2609036,
@@ -44,12 +44,6 @@
       "sigla": "CTRAB",
       "cargo": "Titular",
       "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Constituição e Justiça e de Cidadania",
-      "sigla": "CCJC",
-      "cargo": "Suplente",
-      "desde": "2026-02-24T00:00"
     },
     {
       "nome": "Comissão de Educação",

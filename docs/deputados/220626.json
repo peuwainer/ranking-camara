@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220626.jpg",
-  "score": 26.16,
-  "rank": 317,
+  "score": 24.01,
+  "rank": 351,
   "proposicoes": [],
   "discursos": [
     {
@@ -47,6 +47,12 @@
       "sigla": "CSAUDE",
       "cargo": "3º Vice-Presidente",
       "desde": "2026-03-11T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial destinada a avaliar e fiscalizar todas as ações que afetam o Direito de Propriedade seja por ação ou omissão do Governo Federal e atividades promovidas por movimentos sociais",
+      "sigla": "SUBPROP",
+      "cargo": "Suplente",
+      "desde": "2026-03-24T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220626/votacoes-nominais-plenario/2026"

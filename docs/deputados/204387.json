@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204387.jpg",
-  "score": 38.28,
-  "rank": 25,
+  "score": 40.64,
+  "rank": 20,
   "proposicoes": [
     {
       "id": 2608967,
@@ -42,6 +42,15 @@
       "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para estabelecer o ponto médio como referência inicial na fixação da pena-base, e dá outras providências.",
       "data": "2026-04-06T16:29",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613509"
+    },
+    {
+      "id": 2613725,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Selo Nacional “Comunidade Segura”, destinado a condomínios residenciais e comerciais, associações de moradores, instituições empresariais, agências bancárias e demais pessoas jurídicas que aderirem, de forma voluntária, ao compartilhamento de imagens de seus sistemas de videomonitoramento com os órgãos de segurança pública, e dá outras providências.",
+      "data": "2026-04-07T11:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613725"
     }
   ],
   "discursos": [
@@ -196,6 +205,24 @@
       "sigla": "SUB8J",
       "cargo": "Suplente",
       "desde": "2026-03-11T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial para a fiscalização da implementação da Lei Orgânica Nacional das Polícias Militares e Corpos de Bombeiros Militares, Lei nº 14.751/23, e da Lei Orgânica Nacional das Polícias Civis, Lei nº 14.735/23",
+      "sigla": "SUBLOR",
+      "cargo": "Titular",
+      "desde": "2026-04-07T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial destinada a acompanhar, avaliar e propor medidas relacionadas à Segurança Privada e aos Bombeiros Civis, no que concerne às matérias afetas à segurança pública, à prevenção de ilícitos, ao combate à clandestinidade e ao fortalecimento da fiscalização do setor",
+      "sigla": "SUBSPBC",
+      "cargo": "Suplente",
+      "desde": "2026-04-07T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "Titular",
+      "desde": "2026-04-07T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204387/votacoes-nominais-plenario/2026"

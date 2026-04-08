@@ -4,10 +4,17 @@
   "partido": "UNIÃO",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220576.jpg",
-  "score": 13.75,
-  "rank": 467,
+  "score": 15.14,
+  "rank": 458,
   "proposicoes": [],
   "discursos": [
+    {
+      "data": "2026-04-07T18:12",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ALFREDO GASPAR (Bloco/UNIÃO - AL. Pela ordem. Sem revisão do orador.) - Sr. Presidente, esse PL foi feito sob medida para o Presidente Lula, pois ele está fazendo o Brasil dançar, dançar na corr",
+      "transcricao": "O SR. ALFREDO GASPAR (Bloco/UNIÃO - AL. Pela ordem. Sem revisão do orador.) - Sr. Presidente, esse PL foi feito sob medida para o Presidente Lula, pois ele está fazendo o Brasil dançar, dançar na corrupção, dançar na inflação, dançar nos juros altos, na falta de perspectiva; dançar, porque o filho dele meteu a mão com força no dinheiro dos aposentados e pensionistas. Essa \"dança\" generalizada, provocada por Lula, em detrimento do povo honesto brasileiro, merece um sonoro \"não\" nosso."
+    },
     {
       "data": "2026-03-18T22:00",
       "fase": "Ordem do Dia",
@@ -40,6 +47,12 @@
       "sigla": "CEXBRLEG",
       "cargo": "Titular",
       "desde": "2026-02-27T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-04-07T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220576/votacoes-nominais-plenario/2026"

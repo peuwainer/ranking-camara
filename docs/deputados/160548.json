@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160548.jpg",
-  "score": 37.47,
-  "rank": 32,
+  "score": 42.04,
+  "rank": 14,
   "proposicoes": [
     {
       "id": 2609187,
@@ -141,6 +141,60 @@
       "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015, para dispor sobre a possibilidade de quebra de sigilo bancário e fiscal em ações de alimentos, nas situações de indícios de ocultação de bens pelo alimentante.",
       "data": "2026-03-24T18:21",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611602"
+    },
+    {
+      "id": 2614015,
+      "tipo": "PL",
+      "numero": 1658,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.233, de 5 de junho de 2001, que dispõe sobre a reestruturação dos transportes aquaviário e terrestre, cria o Conselho Nacional de Integração de Políticas de Transporte, a Agência Nacional de Transportes Terrestres, a Agência Nacional de Transportes Aquaviários e o Departamento Nacional de Infra-Estrutura de Transportes, e dá outras providências, para disciplinar a sobre-estadia de contêineres.",
+      "data": "2026-04-07T18:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614015"
+    },
+    {
+      "id": 2614016,
+      "tipo": "PL",
+      "numero": 1659,
+      "ano": 2026,
+      "ementa": "Altera o Código Civil Brasileiro para estabelecer a ineficácia da renúncia à herança realizada após a citação em processo de execução em relação ao credor.",
+      "data": "2026-04-07T18:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614016"
+    },
+    {
+      "id": 2614017,
+      "tipo": "PL",
+      "numero": 1660,
+      "ano": 2026,
+      "ementa": "Amplia o direito real de habitação para assegurar ao cônjuge ou companheiro sobrevivente a escolha do imóvel residencial entre aqueles utilizados pelo casal.",
+      "data": "2026-04-07T18:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614017"
+    },
+    {
+      "id": 2614018,
+      "tipo": "PL",
+      "numero": 1661,
+      "ano": 2026,
+      "ementa": "Fortalece a proteção da mulher em situação de violência doméstica, assegurando o direito de recorrer de decisões que revoguem ou indefiram medidas protetivas de urgência.",
+      "data": "2026-04-07T18:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614018"
+    },
+    {
+      "id": 2614019,
+      "tipo": "PL",
+      "numero": 1662,
+      "ano": 2026,
+      "ementa": "Aperfeiçoa o Código de Trânsito Brasileiro para assegurar que infrações de natureza exclusivamente administrativa não impeçam a emissão da Carteira Nacional de Habilitação definitiva.",
+      "data": "2026-04-07T18:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614019"
+    },
+    {
+      "id": 2614021,
+      "tipo": "PL",
+      "numero": 1663,
+      "ano": 2026,
+      "ementa": "Autoriza o sepultamento de animais domésticos de estimação em jazigos, campas ou sepulturas pertencentes às famílias de seus tutores, em todo o território nacional, e dá outras providências.",
+      "data": "2026-04-07T18:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614021"
     }
   ],
   "discursos": [],

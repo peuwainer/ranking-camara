@@ -1,11 +1,11 @@
 {
   "id": 62881,
   "nome": "Danilo Forte",
-  "partido": "UNIÃO",
+  "partido": "PP",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/62881.jpg",
-  "score": 24.13,
-  "rank": 351,
+  "score": 26.37,
+  "rank": 306,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -20,6 +20,18 @@
       "sigla": "CEENERG",
       "cargo": "Titular",
       "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-04-07T00:00"
+    },
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Titular",
+      "desde": "2026-04-07T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/62881/votacoes-nominais-plenario/2026"

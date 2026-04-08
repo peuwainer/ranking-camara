@@ -4,10 +4,18 @@
   "partido": "PP",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204355.jpg",
-  "score": 24.45,
-  "rank": 344,
+  "score": 25.76,
+  "rank": 316,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-07T18:28",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DA VITORIA (Bloco/PP - ES. Pela ordem. Sem revisão do orador.) - Presidente, o Brasil não pode ficar assistindo à escalada da violência contra as mulheres. Na semana passada, no meu Estado do Es",
+      "transcricao": "O SR. DA VITORIA (Bloco/PP - ES. Pela ordem. Sem revisão do orador.) - Presidente, o Brasil não pode ficar assistindo à escalada da violência contra as mulheres. Na semana passada, no meu Estado do Espírito Santo, mais uma universitária foi morta brutalmente à facada. Um pouco antes, a Comandante da Guarda Municipal de Vitória também foi violentamente morta. Aqui, nesta Casa, nós precisamos fazer com que os instrumentos das regras não deem privilégios a bandidos que tiram a vida, que ameaçam e que agridem as mulheres. Temos um pacote de projetos aqui, proposto pelo nosso mandato, que dá celeridade e que vai colocar esses bandidos no lugar que temos que colocá-los. Não podemos passar a mão nessas pessoas, que estão sempre a postos para cometer crime contra as mulheres no Brasil. Portanto, eu peço a V.Exa. que também coloque energia no avanço de penas duras para quem comete crime contra as mulheres. Reafirmo, aqui, que temos que ter penalidades sérias para esses brutos, que cometem crime contra as mulheres. Mais do que isso, esse é um ponto zero, para afastarmos, de vez, a criminalidade no nosso País em relação às nossas vidas, às nossas mulheres. Peço, aqui, a todos os nossos Parlamentares que coloquemos energia na defesa da vida."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

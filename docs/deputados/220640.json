@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220640.jpg",
-  "score": 32.49,
-  "rank": 118,
+  "score": 34.28,
+  "rank": 80,
   "proposicoes": [
     {
       "id": 2607582,
@@ -69,6 +69,15 @@
       "ementa": "Altera a Lei nº 9.394 de 1996 para tornar o ensino da língua Tupi e outras nativas da região obrigatórias.",
       "data": "2026-03-30T11:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612880"
+    },
+    {
+      "id": 2614047,
+      "tipo": "PL",
+      "numero": 1669,
+      "ano": 2026,
+      "ementa": "Institui o Marco Legal dos Esportes Indígenas no Brasil e dá outras providências.",
+      "data": "2026-04-07T19:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614047"
     }
   ],
   "discursos": [
@@ -123,6 +132,18 @@
       "sigla": "CFT",
       "cargo": "Suplente",
       "desde": "2026-03-18T00:00"
+    },
+    {
+      "nome": "Comissão de Cultura",
+      "sigla": "CCULT",
+      "cargo": "Suplente",
+      "desde": "2026-04-07T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Mulher",
+      "sigla": "CMULHER",
+      "cargo": "Suplente",
+      "desde": "2026-04-07T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220640/votacoes-nominais-plenario/2026"

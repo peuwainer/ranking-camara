@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178954.jpg",
-  "score": 19.16,
-  "rank": 428,
+  "score": 18.34,
+  "rank": 432,
   "proposicoes": [
     {
       "id": 2608542,
@@ -51,9 +51,26 @@
       "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
       "data": "2026-03-26T10:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
+    },
+    {
+      "id": 2614068,
+      "tipo": "PL",
+      "numero": 1678,
+      "ano": 2026,
+      "ementa": "Veda a aplicação de penalidade administrativa e aplicação de multas por não pagamento de pedágio em sistema de livre passagem (free flow).",
+      "data": "2026-04-07T19:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614068"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-07T19:32",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LUCIO MOSQUINI (PL - RO. Pela ordem. Sem revisão do orador.) - Sr. Presidente, mais uma vez eu quero apelar à Justiça Federal do Estado de Rondônia. Nós temos um processo tramitando, pedindo à J",
+      "transcricao": "O SR. LUCIO MOSQUINI (PL - RO. Pela ordem. Sem revisão do orador.) - Sr. Presidente, mais uma vez eu quero apelar à Justiça Federal do Estado de Rondônia. Nós temos um processo tramitando, pedindo à Justiça Federal que faça a revisão do preço do pedágio na BR-364. Houve um erro muito grave no processo licitatório, porque a base de veículos que serviu para calcular o preço do pedágio foi contada em 2020, quando nós estávamos no auge da pandemia. Hoje, em 2026, temos o dobro de veículos circulando pela BR-364. O pedágio foi calculado em 19 centavos por quilômetro, considerando o fluxo de veículos que passaram pela BR-364, no ano de 2020, no auge da pandemia. Atualmente, esse número dobrou. A questão está nas mãos da Justiça Federal, e faço um apelo para que ela decida o nosso processo. Obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a acompanhar as autoridades competentes na investigação e apuração da crise humanitária dos indígenas Yanomami, na região Norte do país",

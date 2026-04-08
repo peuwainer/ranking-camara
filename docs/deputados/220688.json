@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220688.jpg",
-  "score": 26.11,
-  "rank": 320,
+  "score": 28.54,
+  "rank": 242,
   "proposicoes": [
     {
       "id": 2608574,
@@ -24,6 +24,24 @@
       "ementa": "Altera a Lei nº 14.300, de 6 de janeiro de 2022, que institui o marco legal da microgeração e minigeração distribuída, o Sistema de Compensação de Energia Elétrica (SCEE) e o Programa de Energia Renovável Social (PERS), para garantir a isenção do pagamento de componentes tarifárias pelo uso da rede elétrica por consumidores-geradores de energia solar e outras fontes renováveis.",
       "data": "2026-03-26T13:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612368"
+    },
+    {
+      "id": 2613849,
+      "tipo": "PL",
+      "numero": 1646,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Capacitação e Gestão Financeira dos Agricultores Familiares (PNCGFAF), com o objetivo de promover a adoção de práticas agrícolas sustentáveis e eficientes, e fortalecer as habilidades em gestão financeira dos agricultores familiares.",
+      "data": "2026-04-07T15:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613849"
+    },
+    {
+      "id": 2613996,
+      "tipo": "PL",
+      "numero": 1656,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para incluir na relação de despesas dedutíveis do Imposto de Renda da Pessoa Física os gastos com saúde de animais domésticos, e dá outras providências.",
+      "data": "2026-04-07T18:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613996"
     }
   ],
   "discursos": [],

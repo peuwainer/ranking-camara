@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160535.jpg",
-  "score": 28.4,
-  "rank": 235,
+  "score": 30.51,
+  "rank": 184,
   "proposicoes": [
     {
       "id": 2607582,
@@ -45,6 +45,20 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-07T18:00",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MAURICIO MARCON (PL - RS. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente Hugo Motta. Quero só chamar a atenção do público, que nos acompanha de casa, que paga nosso salário, que está",
+      "transcricao": "O SR. MAURICIO MARCON (PL - RS. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente Hugo Motta. Quero só chamar a atenção do público, que nos acompanha de casa, que paga nosso salário, que está vendo a sessão da Câmara dos Deputados. O projeto anterior que nós aprovamos institui o Dia Nacional da Capoeira, fundamental para o desenvolvimento desta Nação. Agora, nós estamos votando o ofício do profissional da dança, também imprescindível. Enquanto isso, o Ministro da Suprema Corte, segundo O Estadão, tem 21 milhões, senão mais, em imóveis, sendo que recebe a mesma coisa que um Deputado recebe. Enquanto nós instituímos, colegas, o Dia da Capoeira, a Suprema Corte bota dinheiro no bolso. Nós deveríamos parar este Congresso até que o Ministro Alexandre de Moraes saísse do Supremo Tribunal Federal. A Oposição orienta \"não\"."
+    },
+    {
+      "data": "2026-04-07T14:48",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. MARCON (Bloco/PT - RS. Sem revisão do orador.) - Obrigado, Sr. Presidente. Hoje, no Dia Internacional da Saúde, quero referendar o nosso compromisso com o Sistema Único de Saúde, que é o SUS, o ",
+      "transcricao": "O SR. MARCON (Bloco/PT - RS. Sem revisão do orador.) - Obrigado, Sr. Presidente. Hoje, no Dia Internacional da Saúde, quero referendar o nosso compromisso com o Sistema Único de Saúde, que é o SUS, o maior sistema de saúde público do mundo e que tem atendido em torno de 90% da nossa população brasileira. Quero referendar um programa do Presidente Lula que é o Agora tem especialista. Esse programa é colocado à disposição do nosso povo brasileiro via os hospitais públicos e os hospitais filantrópicos que atendem pelo SUS. O Governo paga cirurgias no valor de três a quatro vezes maior que a tabela SUS. Isso tem liberado muitas filas de cirurgias no Estado do Rio Grande do Sul. Há consulta de especialista, exames e cirurgias. E nós estamos conversando com o Ministério da Saúde para que se faça um programa desta natureza para os nossos agricultores familiares, seja ele pequeno agricultor, assentado, quilombola, indígena e pescador, para que sejam atendidos o mais rápido possível. Obrigado. Solicito que meu pronunciamento seja divulgado no programa A Voz do Brasil."
+    },
     {
       "data": "2026-03-24T16:08",
       "fase": "Breves Comunicações",
@@ -119,6 +133,12 @@
       "sigla": "CINDRE",
       "cargo": "Suplente",
       "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial destinada a avaliar e fiscalizar todas as ações que afetam o Direito de Propriedade seja por ação ou omissão do Governo Federal e atividades promovidas por movimentos sociais",
+      "sigla": "SUBPROP",
+      "cargo": "Suplente",
+      "desde": "2026-03-24T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/160535/votacoes-nominais-plenario/2026"

@@ -4,10 +4,18 @@
   "partido": "PSD",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/215043.jpg",
-  "score": 25.13,
-  "rank": 334,
+  "score": 22.78,
+  "rank": 375,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-07T20:24",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. JOSIVALDO JP (Bloco/PSD - MA. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, no último domingo, nós comemoramos a Páscoa. E aqui eu quero trazer uma pequena reflexão sobre o q",
+      "transcricao": "O SR. JOSIVALDO JP (Bloco/PSD - MA. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, no último domingo, nós comemoramos a Páscoa. E aqui eu quero trazer uma pequena reflexão sobre o que ela representa para a humanidade. Quando a gente olha para as histórias sagradas, a gente percebe que havia uma promessa em que o filho do Deus vivo precisava ser crucificado para poder dar vida para a humanidade. Mas a mesma promessa que dizia que o nosso Salvador teria que morrer para dar vida para os pecadores também falava que, ao terceiro dia, ele ressuscitaria. No Livro de Lucas, segundo a história, quando chegou o terceiro dia, foram ao sepulcro onde Cristo estava sepultado e ali não encontraram mais o corpo dele porque ele já tinha ressuscitado. Lembro que, quando Jesus foi crucificado, a história diz que dois discípulos voltavam pelo caminho de Emaús, mas eles voltavam preocupados e cabisbaixos porque a maior esperança deles tinha sido crucificada. Naquele mesmo momento, chegou um homem ao lado deles, e começaram a andar por aquele caminho. Eu me alegro por ele ter feito uma pergunta para aqueles dois homens: \"Por que estais preocupados?\" E aqueles homens respondem para ele: \"Mas você não sabe o que aconteceu aqui em Jerusalém? O nosso Cristo Jesus foi crucificado na cruz do calvário\". E, quando a história acaba, ele vai embora. O que eu aprendo com isso? Muitas das vezes, nós andamos muito preocupados, muito cabisbaixos, mas eu quero dizer uma coisa para você: Jesus está do seu lado. Então, quando você se sentir preocupado, cabisbaixo, lembre que o nosso Cristo ressuscitou ao terceiro dia para nos dar vida, e vida eterna. Que Deus abençoe o povo brasileiro! Uma Páscoa maravilhosa para todos nós!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

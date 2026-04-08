@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220547.jpg",
-  "score": 23.43,
-  "rank": 365,
-  "proposicoes": [],
+  "score": 25.88,
+  "rank": 315,
+  "proposicoes": [
+    {
+      "id": 2613723,
+      "tipo": "PL",
+      "numero": 1623,
+      "ano": 2026,
+      "ementa": "Altera a Lei 10.826 de 22 de dezembro de 2003 para dispor sobre o porte de arma das Guarda Civis dos Municípios.",
+      "data": "2026-04-07T12:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613723"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
@@ -32,6 +42,12 @@
       "sigla": "CCJC",
       "cargo": "Titular",
       "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial destinada a acompanhar, avaliar e propor medidas relacionadas à Segurança Privada e aos Bombeiros Civis, no que concerne às matérias afetas à segurança pública, à prevenção de ilícitos, ao combate à clandestinidade e ao fortalecimento da fiscalização do setor",
+      "sigla": "SUBSPBC",
+      "cargo": "Titular",
+      "desde": "2026-03-31T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220547/votacoes-nominais-plenario/2026"

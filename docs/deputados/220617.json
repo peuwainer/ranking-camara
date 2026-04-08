@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220617.jpg",
-  "score": 24.02,
-  "rank": 357,
+  "score": 25.43,
+  "rank": 324,
   "proposicoes": [
     {
       "id": 2608288,
@@ -44,7 +44,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612042"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-07T15:20",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. MURILLO GOUVEA (Bloco/UNIÃO - RJ. Sem revisão do orador.) - Boa tarde, Sr. Presidente e colegas Deputados. Estou aqui hoje nesta tribuna com muita tranquilidade, Sr. Presidente, para falar  e, ",
+      "transcricao": "O SR. MURILLO GOUVEA (Bloco/UNIÃO - RJ. Sem revisão do orador.) - Boa tarde, Sr. Presidente e colegas Deputados. Estou aqui hoje nesta tribuna com muita tranquilidade, Sr. Presidente, para falar  e, ao mesmo tempo, com preocupação  sobre o nosso Estado do Rio de Janeiro. O nosso Estado vive uma crise política muito intensa e, hoje, eu quero parabenizar o Presidente do Tribunal de Justiça, Ricardo Couto, Governador interino, que está fazendo um belo trabalho, sem perseguição, com muita clareza. Ele tem uma história de vida naquele tribunal. Eu não poderia deixar de dar apoio a ele em um momento difícil de sua vida, para o qual nem mesmo ele se preparou: estar governando interinamente o nosso Estado do Rio de Janeiro. Também peço que olhe para os Municípios, para o interior do Estado, assim como vem olhando com tranquilidade para todo o Rio de Janeiro. Eu sei em que condições ele assumiu o Estado interinamente e conheço as dificuldades enfrentadas, especialmente na segurança pública, principalmente nas regiões norte e noroeste, onde a criminalidade está crescendo. Estamos aqui para dar apoio, apoio institucional, porque ele é um homem com bagagem, um Desembargador preparado, que hoje representa o nosso Estado. Reitero também o pedido para que olhe para o DER e para as estradas RJ, que estão abandonadas, onde o produtor rural enfrenta dificuldades para escoar o seu leite em toda aquela região. Fica aqui o nosso agradecimento e reforço o pedido para que olhe o interior do Estado com clareza. Parabenizo-o pelas mudanças e pelas ações que tem realizado, porque é assim, com apoio, que se fortalece alguém que não foi preparado para estar ali, mas Deus o preparou para estar ali interinamente para representar o nosso Estado do Rio de Janeiro. Fica aqui a nossa gratidão e o apelo: \"Governador, olhe para o interior do Estado, pois está abandonado. Estamos aqui para lhe dar apoio. Forte abraço\". Sr. Presidente, peço que o meu pronunciamento conste no programa A Voz do Brasil."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",

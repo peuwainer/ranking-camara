@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178970.jpg",
-  "score": 27.69,
-  "rank": 264,
+  "score": 28.65,
+  "rank": 234,
   "proposicoes": [
     {
       "id": 2607582,
@@ -108,6 +108,12 @@
       "sigla": "CLP",
       "cargo": "Titular",
       "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial destinada a avaliar e fiscalizar todas as ações que afetam o Direito de Propriedade seja por ação ou omissão do Governo Federal e atividades promovidas por movimentos sociais",
+      "sigla": "SUBPROP",
+      "cargo": "Titular",
+      "desde": "2026-03-24T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178970/votacoes-nominais-plenario/2026"

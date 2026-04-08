@@ -4,9 +4,19 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220643.jpg",
-  "score": 1.36,
-  "rank": 496,
-  "proposicoes": [],
+  "score": 5.65,
+  "rank": 488,
+  "proposicoes": [
+    {
+      "id": 2614047,
+      "tipo": "PL",
+      "numero": 1669,
+      "ano": 2026,
+      "ementa": "Institui o Marco Legal dos Esportes Indígenas no Brasil e dá outras providências.",
+      "data": "2026-04-07T19:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614047"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

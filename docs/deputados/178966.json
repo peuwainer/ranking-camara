@@ -4,7 +4,7 @@
   "partido": "PSDB",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178966.jpg",
-  "score": 32.32,
+  "score": 32.31,
   "rank": 125,
   "proposicoes": [
     {
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-07T14:28",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. GEOVANIA DE SÁ (Bloco/PSDB - SC. Sem revisão da oradora.) - Boa tarde, Sr. Presidente Icaro de Valmir, colegas Deputados e Deputadas. Eu venho a esta tribuna para falar de dois assuntos. Primei",
+      "transcricao": "A SRA. GEOVANIA DE SÁ (Bloco/PSDB - SC. Sem revisão da oradora.) - Boa tarde, Sr. Presidente Icaro de Valmir, colegas Deputados e Deputadas. Eu venho a esta tribuna para falar de dois assuntos. Primeiro, é uma alegria e um sonho dos catarinenses a conclusão do trecho da BR-285, na Serra da Rocinha, que fará a interligação entre os Estados de Santa Catarina, Rio Grande do Sul e muitos países da América do Sul. Isso vai encurtar distâncias, movimentar o turismo e fazer com que a região sul de Santa Catarina se desenvolva cada vez mais, promovendo o desenvolvimento social, econômico e a geração de emprego e renda. É claro que ainda falta parte do Rio Grande do Sul, uma ponte, que, quando isso tudo ficar concluído, será um grande crescimento para toda a nossa região. Lembro que temos o porto com um dos maiores calados do Brasil: o Porto de Imbituba. Esse é um momento emocionante. Eu participei, por muito tempo, da Comissão Especial que tratava das obras inacabadas no País. Realizamos visitas técnicas. Eu acompanhei mensalmente, como fiscalizadora  é o meu papel , o desenvolvimento, toda a construção. Nós tínhamos ali uma obra complexa, uma obra de arte: a contenção da Serra da Rocinha. O trecho de Santa Catarina, finalizado, está sendo entregue à população, não só de Santa Catarina, mas também de todo o Brasil. É um momento emocionante. Esse é um momento emocionante, porque acompanhei o projeto desde o seu início, em 2015, e a obra desde 2017, até a sua finalização, agora, neste mês. Sr. Presidente, eu venho à tribuna para falar de outra coisa que alegra o meu coração. Eu estive na cidade de Maringá  \"Mas como, Geovania?! Você é de Santa Catarina\" , no Paraná, para uma convenção da Igreja Evangélica Só o Senhor é Deus, que tem como Presidente mundial o Bispo Amorim. Estava junto com ele o Bispo Marciano; o meu Vereador o Pastor André Pagnussat, da cidade de Chapecó, que coordena toda a região do oeste; e o Pastor Walter, do litoral de Santa Catarina. Em Maringá, eu pude louvar a Deus, com Oseias de Paula e Mara Lima, nessa convenção, que realmente alegra o meu coração. Nós mostramos que trabalhamos para o Reino. Bendita seja esta Nação, que é do Senhor Jesus, graças a essas igrejas que levam às cidades esperança, palavra de fé e de amor, com um projeto social arrojado! O meu Prefeito dizia: \"É melhor uma igreja em cada esquina do que um bar\". É isso, porque no bar o indivíduo pode até entrar são, mas sai torto. Na igreja, não: ele pode entrar torto, mas sai transformado. Esse é o papel da igreja, pois ela chega muitas vezes aonde o poder público não chega. Por mais igrejas neste Brasil, para trazer esperança à nossa Nação, fé e expectativa de dias melhores! Parabéns à Igreja Só o Senhor é Deus! Muito obrigada, Sr. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

@@ -4,9 +4,19 @@
   "partido": "PDT",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220578.jpg",
-  "score": 32.33,
-  "rank": 122,
-  "proposicoes": [],
+  "score": 33.46,
+  "rank": 103,
+  "proposicoes": [
+    {
+      "id": 2614033,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a coleta e divulgação de dados referentes à aprovação de estudantes com deficiência em universidades públicas federais e estaduais.",
+      "data": "2026-04-07T16:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614033"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-03-18T16:28",
