@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/98057.jpg",
-  "score": 23.43,
-  "rank": 364,
+  "score": 25.37,
+  "rank": 309,
   "proposicoes": [
     {
       "id": 2609813,
@@ -51,9 +51,25 @@
       "ementa": "",
       "data": "2026-04-07T20:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614078"
+    },
+    {
+      "id": 2614080,
+      "tipo": "SBT",
+      "numero": 4,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-04-08T07:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614080"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-08T19:32",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LAFAYETTE DE ANDRADA (PL - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, a Minoria orienta \"sim\". É um projeto importante que faz uma vinculação orçamentária à assistência social. É ",
+      "transcricao": "O SR. LAFAYETTE DE ANDRADA (PL - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, a Minoria orienta \"sim\". É um projeto importante que faz uma vinculação orçamentária à assistência social. É desnecessário dizer aqui da importância da assistência social nos Municípios, nos Estados, na União: é um socorro aos mais necessitados. Mas o que fica da Minoria aqui é a expectativa de que esse 1% de vinculação não se transforme em teto, ou seja, a partir do momento em que há vinculação de 1%, que o Governo Federal não utilize isso como desculpa para que seja um teto e só vincule apenas 1% à assistência social. A Minoria encaminha \"sim\", Sr. Presidente."
+    },
     {
       "data": "2026-04-07T19:04",
       "fase": "Ordem do Dia",

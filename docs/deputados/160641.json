@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160641.jpg",
-  "score": 33.04,
-  "rank": 111,
+  "score": 32.08,
+  "rank": 112,
   "proposicoes": [
     {
       "id": 2608131,
@@ -71,7 +71,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614005"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-08T13:12",
+      "fase": "Comissão Geral",
+      "tipo": "COMISSÃO GERAL",
+      "resumo": "A SRA. PROFESSORA MARCIVANIA (Bloco/PCdoB - AP) - Obrigada, Presidente Lídice da Mata. Quero cumprimentar a Ministra Márcia Lopes, que está aqui presente, e a Ìyá Sandrali. Srs. e Sras. Parlamentares ",
+      "transcricao": "A SRA. PROFESSORA MARCIVANIA (Bloco/PCdoB - AP) - Obrigada, Presidente Lídice da Mata. Quero cumprimentar a Ministra Márcia Lopes, que está aqui presente, e a Ìyá Sandrali. Srs. e Sras. Parlamentares e representantes das instituições da sociedade civil, nós não estamos aqui hoje porque queremos cumprir um protocolo institucional. Estamos aqui porque mulheres continuam sendo assassinadas. E é preciso dizer, com todas as letras, que o feminicídio não é só tragédia, não é acaso e não é crime passional. O feminicídio é a expressão extrema da violência estrutural baseada no ódio, no controle e na desigualdade histórica entre homens e mulheres. O Brasil vive uma verdadeira epidemia da violência de gênero. Todos os dias, mulheres são perseguidas, ameaçadas, agredidas e mortas simplesmente por existirem como mulheres. No Estado do Amapá, quatro mulheres foram mortas em menos de 15 dias. Esses crimes não são episódios isolados, eles revelam algo profundamente grave. Mulheres continuam morrendo mesmo quando trabalham, mesmo quando denunciam e até mesmo quando procuram o amparo do próprio Estado. O feminicídio não começa no assassinato, começa no silêncio, começa na ameaça ignorada, começa na violência naturalizada, começa quando a proteção falha. Por isso, esta Comissão Geral não é apenas um momento de debate, mas também um chamado nacional de responsabilidade institucional. Não basta lamentar mortes, é preciso mudar estruturas e é exatamente nesse sentido que apresentamos iniciativas legislativas concretas para enfrentar as falhas que continuam colocando mulheres em risco. Diante dessa realidade, apresentei o Projeto de Lei nº 1.444, de 2026, que institui a Política Nacional Integrada de Prevenção e Enfrentamento ao Feminicídio, uma proposta estruturante que reconhece que o feminicídio não é apenas um problema penal, mas também social, econômico e institucional. O projeto organiza uma política nacional baseada em seis eixos fundamentais: prevenção e educação, fortalecimento da rede de proteção, assistência integral às vítimas, autonomia econômica das mulheres, participação no setor privado e rigor penal contra agressores. Penas mais duras são necessárias, mas são insuficientes. O Estado precisa chegar antes do crime. Além dessa proposta estruturante, apresentei outras iniciativas legislativas para enfrentar lacunas graves do sistema de proteção. Enfrentar o feminicídio exige ação coordenada, legislação firme e responsabilidade permanente. Romper o silêncio é o primeiro passo, construir políticas públicas eficazes é o segundo, fortalecer a rede de proteção é o compromisso que deve nos unir. Que esta Comissão Geral marque não apenas mais um debate, mas também um ponto de virada. Que nenhuma mulher precise morrer para que o Estado funcione. Muito obrigada."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

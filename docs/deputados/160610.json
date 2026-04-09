@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160610.jpg",
-  "score": 31.72,
-  "rank": 144,
+  "score": 30.24,
+  "rank": 164,
   "proposicoes": [
-    {
-      "id": 2607582,
-      "tipo": "PL",
-      "numero": 1042,
-      "ano": 2026,
-      "ementa": "Institui a Política de Atenção Integral e Proteção às Mulheres Sobreviventes de Tentativas de Feminicídio",
-      "data": "2026-03-09T16:29",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607582"
-    },
     {
       "id": 2608238,
       "tipo": "PL",
@@ -63,6 +54,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-08T15:52",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. VALMIR ASSUNÇÃO (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. Deputadas, Srs. Deputados, hoje, iniciou-se uma marcha dos sem-terra de Feira de Santana a Salvador. S",
+      "transcricao": "O SR. VALMIR ASSUNÇÃO (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. Deputadas, Srs. Deputados, hoje, iniciou-se uma marcha dos sem-terra de Feira de Santana a Salvador. São 120 quilômetros. Os sem-terra vão chegar a Salvador no próximo dia 16. São mais ou menos 2.500 pessoas sem-terra, acampados e assentados, caminhando. Participei hoje pela manhã. A grande expectativa nossa é durante esse período a gente estabelecer um processo de negociação para podermos, tanto o Governador Jerônimo quanto o Presidente Lula, viabilizar e ter agilidade em uma série de ações que achamos fundamental para os assentados e os acampados. Isso está relacionado a créditos, estrada, água, infraestrutura, desapropriação, novos assentamentos, elementos fundamentais. A marcha tem o objetivo de caminhar pela memória, pela justiça e pela reforma agrária popular. Acreditamos que isso é fundamental. É uma caminhada com muita tranquilidade. Há dez 10 regionais do MST organizadas participando. É uma caminhada que vem aos poucos debatendo, discutindo, para a sociedade compreender a importância da reforma agrária para a produção de alimentos para a população brasileira."
+    },
     {
       "data": "2026-04-07T14:48",
       "fase": "Breves Comunicações",

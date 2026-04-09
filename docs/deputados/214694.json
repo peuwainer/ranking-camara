@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/214694.jpg",
-  "score": 30.95,
-  "rank": 170,
+  "score": 30.27,
+  "rank": 162,
   "proposicoes": [
     {
       "id": 2607680,
@@ -15,6 +15,15 @@
       "ementa": "Cria linha especial de crédito rural para os apicultores e os meliponicultores, com foco em fortalecer a cadeia produtiva, especialmente no âmbito da agricultura familiar.",
       "data": "2026-03-10T12:47",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607680"
+    },
+    {
+      "id": 2614624,
+      "tipo": "EMP",
+      "numero": 7,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.847, de 26 de outubro de 1999, para dispor sobre penalidades relativas à comercialização de combustíveis e biocombustíveis.",
+      "data": "2026-04-08T15:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614624"
     }
   ],
   "discursos": [

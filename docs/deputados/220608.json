@@ -1,11 +1,11 @@
 {
   "id": 220608,
   "nome": "Cristiane Lopes",
-  "partido": "UNIÃO",
+  "partido": "PODE",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220608.jpg",
-  "score": 26.81,
-  "rank": 296,
+  "score": 25.71,
+  "rank": 302,
   "proposicoes": [
     {
       "id": 2608328,
@@ -17,7 +17,22 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608328"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-08T18:48",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. CRISTIANE LOPES (Bloco/UNIÃO - RO. Pela ordem. Sem revisão da oradora.) - Presidente, eu quero só para falar da importância da aprovação desta PEC. Tenho destinado muitos recursos, através das ",
+      "transcricao": "A SRA. CRISTIANE LOPES (Bloco/UNIÃO - RO. Pela ordem. Sem revisão da oradora.) - Presidente, eu quero só para falar da importância da aprovação desta PEC. Tenho destinado muitos recursos, através das nossas emendas parlamentares, para fortalecer a assistência social nos nossos Municípios no Estado de Rondônia. Eu ouvi a fala de uma Secretária de um Município que, chorando, agradecia o recurso que nós encaminhamos, todos os móveis, veículos que foram adquiridos, para que a assistência pudesse chegar à ponta, aos que mais precisam. E a fala dela chamou muito a minha atenção, porque ela disse que a Secretaria de Assistência Social só recebia o que sobrava das outras secretarias. Quando trocavam os móveis das outras secretarias, pegavam o velho, o que não prestava e mandavam para a assistência social. Eu falei para ela que, enquanto eu estiver como Deputada Federal, é pauta do meu mandato fortalecer a assistência social, porque eu sei o quanto a população precisa dela. Então, quero reafirmar meu compromisso com a assistência social do nosso País, com aqueles que, de fato, mais precisam dela, que estão nas linhas rurais, nas cidades, nos becos, nas favelas, nos bairros menos favorecidos. Este valor é fundamental, para que o atendimento possa chegar até essas pessoas. Muito obrigada, meu Presidente."
+    },
+    {
+      "data": "2026-04-08T17:12",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. CRISTIANE LOPES (Bloco/UNIÃO - RO. Pela ordem. Sem revisão da oradora.) - Presidente, eu quero agradecer imensamente a aprovação por todos os colegas do requerimento de urgência, que foi aprova",
+      "transcricao": "A SRA. CRISTIANE LOPES (Bloco/UNIÃO - RO. Pela ordem. Sem revisão da oradora.) - Presidente, eu quero agradecer imensamente a aprovação por todos os colegas do requerimento de urgência, que foi aprovado agora há pouco, do meu projeto de lei que é tão importante para a Região Norte do País. O Projeto de Lei nº 539, de 2024, vai dar a possibilidade de abrir o espaço aéreo na Amazônia Legal, para que empresas sul-americanas possam atuar na nossa região. Todos sabemos o quanto nós sofremos com os poucos voos, com os preços absurdos das passagens. Então, é uma vitória muito grande a gente conseguir aprovar o requerimento para que o Projeto de Lei nº 539, de 2024, venha o mais rápido possível aqui para o plenário, para que a gente possa aprová-lo de fato e possa solucionar o problema da malha aérea no Estado de Rondônia e em toda a Região Norte do País. Muito obrigada a todos os colegas. Agora a gente segue firme para trazer para cá a aprovação de fato do PL 539/2024. Muito obrigada, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

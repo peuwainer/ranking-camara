@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-  "score": 38.58,
-  "rank": 30,
+  "score": 39.43,
+  "rank": 21,
   "proposicoes": [
     {
       "id": 2608967,
@@ -123,9 +123,42 @@
       "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do Projeto de Lei nº 2.677/2025, na forma do substitutivo.",
       "data": "2026-04-07T15:10",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613820"
+    },
+    {
+      "id": 2614088,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do Projeto de Lei nº 342/2024, na forma do substitutivo.",
+      "data": "2026-04-07T20:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614088"
+    },
+    {
+      "id": 2614581,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do Projeto de Lei nº 10.125/2018, na forma do substitutivo.",
+      "data": "2026-04-08T12:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614581"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-08T16:04",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. ROGÉRIA SANTOS (Bloco/REPUBLICANOS - BA. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, muito obrigada. Eu serei muito breve. Aproveito este tempinho para anunciar a visita do nosso Ver",
+      "transcricao": "A SRA. ROGÉRIA SANTOS (Bloco/REPUBLICANOS - BA. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, muito obrigada. Eu serei muito breve. Aproveito este tempinho para anunciar a visita do nosso Vereador baiano, Roberio Marambaia, representando a cidade de Gandu. Ele traz as as demandas da grande Gandu para a nossa Brasília. Seja muito bem-vindo! Obrigada, Presidente."
+    },
+    {
+      "data": "2026-04-08T15:48",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. ROGÉRIA SANTOS (Bloco/REPUBLICANOS - BA. Sem revisão da oradora.) - Sr. Presidente, demais colegas, eu quero aproveitar este espaço, inclusive, Deputado Eli Borges, mediante o pronunciamento qu",
+      "transcricao": "A SRA. ROGÉRIA SANTOS (Bloco/REPUBLICANOS - BA. Sem revisão da oradora.) - Sr. Presidente, demais colegas, eu quero aproveitar este espaço, inclusive, Deputado Eli Borges, mediante o pronunciamento que V.Exa. acaba de fazer em desrespeito à Bíblia sagrada, eu quero trazer aqui o grande evento que aconteceu na última sexta-feira, Sexta-feira Santa, no calendário do nosso País, em que a Igreja Universal do Reino de Deus, no Brasil e no mundo, realizou uma grande concentração de fé, intitulada A Família ao Pé da Cruz, em que milhares de cristãos espalhados por todo o Brasil e mundo estavam ali reunidos, utilizando-se, sim, da fé, para abençoar as famílias brasileiras, num momento em que as famílias são destruídas diuturnamente, num momento em que nossas famílias, em cada cantinho do Brasil, têm sofrido com os mais tipos diversos de mazelas, mazelas como as das mulheres que ainda sofrem com o feminicídio, com as das crianças e adolescentes que sofrem, sim, com todo tipo de violência contra elas. Nós cristãos brasileiros reunimo-nos na Semana Santa, um dia solene, um dia em que se comemora, sim, o sacrifício de Cristo na cruz, mas a sua ressurreição, para orar pelo Brasil. E é disso que o Brasil precisa. O Brasil precisa, sim, de Deus. O Brasil precisa, sim, de coerência. Hoje, quando a gente observa a nossa juventude, a gente se pergunta quem estará adiante deste País em um futuro bem próximo, porque todos nós vamos passar. E qual é o Brasil que nós estamos deixando lá para a frente, para um futuro bem próximo? Então, eu parabenizo aqui a Igreja Universal do Reino de Deus por essa grande concentração. Tive a oportunidade de estar na Arena Fonte Nova. Aproximadamente 60 mil pessoas se reuniram para ali, juntas, buscar a Deus. Eu tenho certeza que a presença de Deus inundou a Bahia e o Brasil. Muito obrigada, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

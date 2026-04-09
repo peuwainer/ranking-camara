@@ -4,18 +4,9 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220615.jpg",
-  "score": 37.91,
-  "rank": 35,
+  "score": 37.21,
+  "rank": 38,
   "proposicoes": [
-    {
-      "id": 2607582,
-      "tipo": "PL",
-      "numero": 1042,
-      "ano": 2026,
-      "ementa": "Institui a Política de Atenção Integral e Proteção às Mulheres Sobreviventes de Tentativas de Feminicídio",
-      "data": "2026-03-09T16:29",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607582"
-    },
     {
       "id": 2608871,
       "tipo": "PL",
@@ -78,6 +69,24 @@
       "ementa": "Altera a redação do art. 17, inciso I, alínea “t”, do Regimento Interno da Câmara dos Deputados, para estabelecer prazo mínimo de antecedência na divulgação da Ordem do Dia.",
       "data": "2026-03-31T16:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613007"
+    },
+    {
+      "id": 2614419,
+      "tipo": "PLP",
+      "numero": 91,
+      "ano": 2026,
+      "ementa": "Dispõe sobre normas gerais de organização, funcionamento e responsabilidade na gestão dos Regimes Próprios de Previdência Social, especialmente quanto ao modelo de aplicação dos recursos, nos termos do art. 40, §22, inciso II da Constituição Federal, e altera a Lei nº 9.717, de 27 de novembro de 1998.",
+      "data": "2026-04-08T12:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614419"
+    },
+    {
+      "id": 2614740,
+      "tipo": "PL",
+      "numero": 1712,
+      "ano": 2026,
+      "ementa": "Institui a obrigação de reparação civil mínima, proporcional à situação econômica do condenado, em favor dos filhos e demais beneficiários de mulheres vítimas de feminicídio, a ser fixada na sentença penal condenatória, e dispõe sobre sua relação com as demais responsabilidades civis e previdenciárias.",
+      "data": "2026-04-08T18:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614740"
     }
   ],
   "discursos": [

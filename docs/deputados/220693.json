@@ -4,9 +4,28 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220693.jpg",
-  "score": 26.05,
-  "rank": 310,
-  "proposicoes": [],
+  "score": 26.79,
+  "rank": 269,
+  "proposicoes": [
+    {
+      "id": 2614735,
+      "tipo": "PL",
+      "numero": 1707,
+      "ano": 2026,
+      "ementa": "Institui o Dia Nacional do Adventista do Sétimo Dia.",
+      "data": "2026-04-08T17:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614735"
+    },
+    {
+      "id": 2614737,
+      "tipo": "PL",
+      "numero": 1709,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a regulamentação do transporte turístico terrestre de passageiros em veículos de pequeno porte e dá outras providências.",
+      "data": "2026-04-08T17:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614737"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-03-24T17:16",

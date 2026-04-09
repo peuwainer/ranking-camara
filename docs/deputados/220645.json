@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220645.jpg",
-  "score": 28.59,
-  "rank": 241,
+  "score": 28.53,
+  "rank": 210,
   "proposicoes": [
     {
       "id": 2608871,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 14.192, de 4 de agosto de 2021, para dispor sobre o combate à violência política de gênero e raça, inclusive em meios digitais, e dá outras providências.",
       "data": "2026-03-26T14:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612399"
+    },
+    {
+      "id": 2614419,
+      "tipo": "PLP",
+      "numero": 91,
+      "ano": 2026,
+      "ementa": "Dispõe sobre normas gerais de organização, funcionamento e responsabilidade na gestão dos Regimes Próprios de Previdência Social, especialmente quanto ao modelo de aplicação dos recursos, nos termos do art. 40, §22, inciso II da Constituição Federal, e altera a Lei nº 9.717, de 27 de novembro de 1998.",
+      "data": "2026-04-08T12:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614419"
     }
   ],
   "discursos": [],

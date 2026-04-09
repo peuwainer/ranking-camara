@@ -4,10 +4,18 @@
   "partido": "REPUBLICANOS",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220544.jpg",
-  "score": 29.78,
-  "rank": 202,
+  "score": 28.82,
+  "rank": 198,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-08T17:12",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ANTONIO ANDRADE (Bloco/REPUBLICANOS - TO. Pela ordem. Sem revisão do orador.) - Gostaria de registrar, Presidente, a alegria de receber aqui na Casa o nosso amigo, o grande Prefeito Matheuzinho,",
+      "transcricao": "O SR. ANTONIO ANDRADE (Bloco/REPUBLICANOS - TO. Pela ordem. Sem revisão do orador.) - Gostaria de registrar, Presidente, a alegria de receber aqui na Casa o nosso amigo, o grande Prefeito Matheuzinho, lá da cidade de Silvanópolis, do nosso Estado do Tocantins, e o sempre Vereador Cristiano Correia, todos nós sob o comando do nosso pré-candidato a Governador o Deputado Vicentinho Júnior, com quem nós iremos levar as melhores propostas para o nosso Estado do Tocantins. Queria pedir a V.Exa. que fosse registrada nos meios de comunicação da Casa a visita ilustre dos nossos amigos lá do Tocantins."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

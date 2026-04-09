@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220656.jpg",
-  "score": 6.74,
-  "rank": 483,
+  "score": 8.74,
+  "rank": 477,
   "proposicoes": [
     {
       "id": 2613477,
@@ -51,6 +51,12 @@
       "sigla": "SEMULHER",
       "cargo": "Titular",
       "desde": "2026-04-03T00:00"
+    },
+    {
+      "nome": "Representação Brasileira no Parlamento do Mercosul",
+      "sigla": "MERCOSUL",
+      "cargo": "Titular",
+      "desde": "2026-04-08T00:00"
     },
     {
       "nome": "Subcomissão Especial destinada a “debater e apresentar sugestões ao setor de estética e aprimorar suas relações trabalhistas”",

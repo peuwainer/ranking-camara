@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220534.jpg",
-  "score": 30.59,
-  "rank": 181,
+  "score": 29.27,
+  "rank": 187,
   "proposicoes": [
-    {
-      "id": 2607607,
-      "tipo": "PL",
-      "numero": 1050,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) e a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), estabelecer causa de aumento de pena para o crime de estupro praticado mediante concurso de dois ou mais agentes (estupro coletivo) e quando o agente se aproveita de relação de confiança ou proximidade com a vítima",
-      "data": "2026-03-09T18:32",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607607"
-    },
     {
       "id": 2608967,
       "tipo": "PRC",
@@ -42,6 +33,15 @@
       "ementa": "Dispõe sobre as providências a serem adotadas pela autoridade policial em  inquérito que conclua por suicídio de mulher",
       "data": "2026-04-07T11:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613659"
+    },
+    {
+      "id": 2614779,
+      "tipo": "PL",
+      "numero": 1718,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica), e a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para afastar o caráter pessoal e intransferível absoluto da passagem aérea, assegurar a cessão de titularidade sob condições objetivas e vedar práticas e cláusulas abusivas nas relações de consumo.",
+      "data": "2026-04-08T19:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614779"
     }
   ],
   "discursos": [],

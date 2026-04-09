@@ -4,10 +4,18 @@
   "partido": "PSD",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160621.jpg",
-  "score": 0.0,
-  "rank": 512,
+  "score": 1.89,
+  "rank": 510,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-08T15:36",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. SANDRO ALEX (Bloco/PSD - PR. Pela ordem. Sem revisão do orador.) - Muito obrigado, Sr. Presidente. Estou retornando ao meu mandato como Deputado Federal pelo Estado do Paraná, após cumprir traba",
+      "transcricao": "O SR. SANDRO ALEX (Bloco/PSD - PR. Pela ordem. Sem revisão do orador.) - Muito obrigado, Sr. Presidente. Estou retornando ao meu mandato como Deputado Federal pelo Estado do Paraná, após cumprir trabalho na Secretaria de infraestrutura do Estado do Paraná, ao lado do Governador Ratinho Junior, com o maior volume de obras da história do Paraná. São obras que eram aguardadas há quarenta, cinquenta anos, Sr. Presidente, entre viadutos, obras de arte, duplicações, pontes. A ponte de Guaratuba, tão sonhada, agora será inaugurada no próximo dia 29, no aniversário da cidade, pelo governo transformador do Ratinho. Retorno a este Parlamento vendo o Governo Federal novamente nas páginas policiais, nos escândalos, e me mantenho como aqui cheguei: na linha de oposição ao PT. Para que o Brasil possa retomar a sua linha de crescimento, me sigo na oposição a este Governo. Obrigado, Sr. Presidente."
+    }
+  ],
   "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/160621/votacoes-nominais-plenario/2026"
 }

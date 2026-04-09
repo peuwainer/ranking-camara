@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220566.jpg",
-  "score": 24.79,
-  "rank": 334,
+  "score": 23.96,
+  "rank": 335,
   "proposicoes": [
-    {
-      "id": 2607512,
-      "tipo": "PL",
-      "numero": 1021,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para fortalecer, na educação básica, conteúdos de formação humana, cultura de paz, respeito mútuo, prevenção da violência e proteção das mulheres e meninas.",
-      "data": "2026-03-09T12:49",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607512"
-    },
     {
       "id": 2612992,
       "tipo": "SBT",
@@ -27,6 +18,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-08T17:48",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. LÊDA BORGES (Bloco/REPUBLICANOS - GO. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, como ex-Secretária de Estado da Assistência Social, eu quero colocar para nós todos a importância de",
+      "transcricao": "A SRA. LÊDA BORGES (Bloco/REPUBLICANOS - GO. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, como ex-Secretária de Estado da Assistência Social, eu quero colocar para nós todos a importância deste projeto. A assistência social é a porta de entrada de todas as questões das pessoas mais vulneráveis. É necessária a aprovação deste projeto. Portanto, eu quero externar a todos que o Republicanos, na minha pessoa, na Deputada Federal Lêda Borges, vota \"sim\" para o projeto da assistência social, que prevê um percentual constitucional para as Prefeituras e para as Secretarias Estaduais e Municipais. É importante este projeto para o País. É importante para o povo."
+    },
     {
       "data": "2026-03-11T22:04",
       "fase": "Encerramento",

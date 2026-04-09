@@ -4,27 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220638.jpg",
-  "score": 28.64,
-  "rank": 235,
+  "score": 27.03,
+  "rank": 262,
   "proposicoes": [
-    {
-      "id": 2607551,
-      "tipo": "PL",
-      "numero": 1035,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 10.257, de 10 de julho de 2001, e a Lei nº 13.146, de 6 de julho de 2015, para dispor sobre a implantação de espaços de acomodação sensorial em áreas e equipamentos públicos urbanos.",
-      "data": "2026-03-09T15:24",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607551"
-    },
-    {
-      "id": 2607568,
-      "tipo": "PL",
-      "numero": 1036,
-      "ano": 2026,
-      "ementa": "Cria a rota Turística “Rota da Cana”, no Estado de São Paulo, e dá outras providências.",
-      "data": "2026-03-09T15:26",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607568"
-    },
     {
       "id": 2611714,
       "tipo": "PL",
@@ -33,6 +15,15 @@
       "ementa": "Institui a Política Nacional de Conscientização e Orientação sobre o Uso de Telas por Crianças e Adolescentes, com o objetivo de promover o uso saudável e equilibrado de dispositivos digitais e prevenir prejuízos à saúde mental, ao desenvolvimento e ao bem-estar.",
       "data": "2026-03-25T10:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611714"
+    },
+    {
+      "id": 2614766,
+      "tipo": "PL",
+      "numero": 1715,
+      "ano": 2026,
+      "ementa": "A presente proposta institui a Política Nacional de Economia Circular para Baterias (PNECB) como resposta estruturante ao crescimento acelerado da frota de veículos eletrificados, da geração distribuída e do armazenamento estacionário de energia, que, sem regulação específica, pode converter soluções energéticas em grave passivo ambiental.",
+      "data": "2026-04-08T19:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614766"
     }
   ],
   "discursos": [

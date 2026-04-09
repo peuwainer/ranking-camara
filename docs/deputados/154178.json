@@ -4,10 +4,18 @@
   "partido": "REPUBLICANOS",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/154178.jpg",
-  "score": 1.83,
-  "rank": 508,
+  "score": 3.51,
+  "rank": 504,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-08T14:24",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MILTON VIEIRA (Bloco/REPUBLICANOS - SP. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente. Presidente, eu queria apenas registrar aqui que na cidade de Sorocaba, no Estado de São Pa",
+      "transcricao": "O SR. MILTON VIEIRA (Bloco/REPUBLICANOS - SP. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente. Presidente, eu queria apenas registrar aqui que na cidade de Sorocaba, no Estado de São Paulo, uma briga de trânsito levou à morte de uma pessoa muito querida na cidade, que é o Alê Aparecido, lá da Dragões de Sorocaba. Então, nós queremos registrar aqui o nosso profundo pesar à família, aos amigos, e lamentar que, por uma simples briga, uma discussão no trânsito, um cidadão disparou dois tiros, atingindo a esposa do Alê e ele veio a óbito. Então, fica aqui o nosso profundo pesar. Também quero registrar aqui a presença do meu amigo Vereador Professor Edson, da cidade de Taubaté, juntamente com a sua esposa, a ex-Vereadora Graça. É sempre um prazer tê-los aqui na Câmara dos Deputados. Obrigado, Sr. Presidente."
+    }
+  ],
   "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/154178/votacoes-nominais-plenario/2026"
 }

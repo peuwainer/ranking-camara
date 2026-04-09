@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74171.jpg",
-  "score": 33.77,
-  "rank": 94,
+  "score": 33.49,
+  "rank": 87,
   "proposicoes": [
     {
       "id": 2608898,
@@ -60,9 +60,25 @@
       "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para estabelecer teto em salários mínimos para as doações e contribuições eleitorais realizadas por pessoas físicas.",
       "data": "2026-04-06T12:25",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613397"
+    },
+    {
+      "id": 2614419,
+      "tipo": "PLP",
+      "numero": 91,
+      "ano": 2026,
+      "ementa": "Dispõe sobre normas gerais de organização, funcionamento e responsabilidade na gestão dos Regimes Próprios de Previdência Social, especialmente quanto ao modelo de aplicação dos recursos, nos termos do art. 40, §22, inciso II da Constituição Federal, e altera a Lei nº 9.717, de 27 de novembro de 1998.",
+      "data": "2026-04-08T12:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614419"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-08T19:24",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. CHICO ALENCAR (Bloco/PSOL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, a fome tem pressa, o sofrimento precisa ser enfrentado, a injustiça social, tributária e orçamentária deste ",
+      "transcricao": "O SR. CHICO ALENCAR (Bloco/PSOL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, a fome tem pressa, o sofrimento precisa ser enfrentado, a injustiça social, tributária e orçamentária deste País é secular e aguda. O PSOL, evidentemente, vota \"sim\", e o nosso \"sim\" vem com esse sentido de urgência. Nós sabemos que o 1% de receita corrente líquida corresponderia, nesse ano, a 16,5 bi. Já juros e serviços da dívida, mais de 1 trilhão. A gente tem que enfrentar essa ganância do capital financeiro e teimar, insistir, não desistir dos recursos para a área social, para a assistência, para os CRAs. É muito importante dar esse ainda pequeno passo, mas é um passo no sentido da justiça social neste País. O PSOL orienta \"sim\". Vamos em frente!"
+    },
     {
       "data": "2026-04-07T18:32",
       "fase": "Ordem do Dia",

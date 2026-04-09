@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
-  "score": 38.67,
-  "rank": 28,
+  "score": 38.19,
+  "rank": 31,
   "proposicoes": [
     {
       "id": 2607663,
@@ -89,7 +89,22 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613007"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-08T17:20",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. DUDA SALABERT (PDT - MG. Pela ordem. Sem revisão da oradora.) - Muito obrigada, Presidente. Quero aqui mandar um grande abraço à cidade de Caetanópolis, da nossa querida e rainha Clara Nunes. H",
+      "transcricao": "A SRA. DUDA SALABERT (PDT - MG. Pela ordem. Sem revisão da oradora.) - Muito obrigada, Presidente. Quero aqui mandar um grande abraço à cidade de Caetanópolis, da nossa querida e rainha Clara Nunes. Hoje, representando Caetanópolis, está aqui o Vereador Luizão, que faz um trabalho extremamente importante para o esporte, reconhecido não só em Caetanópolis, mas em Minas Gerais. Tenho certeza de que a sua vinda trará grandes recursos para a cidade. Quem sabe, fica aqui a provocação, V.Exa. será o novo Prefeito de Caetanópolis, porque seu trabalho no esporte e saúde são referências para o Brasil. A sua presença, Luizão, na política enobrece a política brasileira. Você é um patrimônio da política de Minas Gerais e merece todo o aplauso desta Casa. Logo logo, você estará aqui conosco. Obrigada, Presidente Hugo Motta."
+    },
+    {
+      "data": "2026-04-08T16:04",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. DUDA SALABERT (PDT - MG. Sem revisão da oradora.) - Muito obrigada, Presidente. Parabenizo os novos Deputados. Que briguem as ideias e nunca as pessoas! E que busquemos, neste espaço, sempre co",
+      "transcricao": "A SRA. DUDA SALABERT (PDT - MG. Sem revisão da oradora.) - Muito obrigada, Presidente. Parabenizo os novos Deputados. Que briguem as ideias e nunca as pessoas! E que busquemos, neste espaço, sempre consenso e equilíbrio. Sejam bem-vindos! Mulheres do Brasil, atenção: a Câmara dos Deputados está dizendo que não vai votar o PL da misoginia, ou melhor, a Câmara dos Deputados está dizendo que combater a violência e o ódio contra as mulheres é algo polêmico  exatamente isso. Os Deputados fizeram um acordo para não votar o PL da misoginia, e qual foi a justificativa? \"É algo polêmico\". Vejam, a polêmica verdadeira de fato é um Congresso Nacional composto por mais de 80% de homens omissos ao fato de que a cada ano que passa o número de feminicídios só cresce no Brasil. Vejam que absurdo, Minas Gerais é o segundo Estado com maior número de feminicídios no nosso País. E o que o Governador fez? Omisso, também não assinou o Pacto Nacional de Prevenção aos Feminicídios  PNPF, porque, segundo ele, também é algo polêmico. Eu sou professora de língua portuguesa, \"polêmico\" em sua etimologia significa \"guerra\". Então, a polêmica verdadeira  a guerra verdadeira  já existe, que é o número de feminicídios no Brasil, que se assemelha a números de guerra, que nós temos que enfrentar. Então, o que esse PL propõe é justamente criminalizar o ódio estruturado contra as mulheres, que se articula no mundo real, no mundo virtual, e ao qual esta Casa tem o dever de dar uma resposta. Porém, colocaram a eleição como prioridade: \"Vamos discutir depois da eleição\". Então mais uma vez o direito e a vida das mulheres é colocado em segundo plano, porque o mais importante agora é discutir eleição e se esquivar da verdadeira polêmica. Muito obrigada, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a fiscalizar os rompimentos de barragens, em especial acompanhar a repactuação do acordo de Mariana e a reparação do crime de Brumadinho",

@@ -4,10 +4,18 @@
   "partido": "AVANTE",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/235712.jpg",
-  "score": 4.31,
-  "rank": 496,
+  "score": 5.82,
+  "rank": 492,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-08T16:32",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. VAVÁ (Bloco/AVANTE - MG. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, vim a esta tribuna me apresentar. Tomei posse na semana passada, e vim de uma região muito simples, mui",
+      "transcricao": "O SR. VAVÁ (Bloco/AVANTE - MG. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, vim a esta tribuna me apresentar. Tomei posse na semana passada, e vim de uma região muito simples, muito humilde, mas de um povo muito determinado: o Vale de Jequitinhonha, no Nordeste de Minas, o Vale do Mucuri. Lá temos, por longo tempo, muitas riquezas que são extraídas, exportadas, e o nosso povo pisa na riqueza e vive na pobreza. Venho convocar vocês e pedir ajuda, porque as ideologias são importantes, o debate é muito importante, mas peço união para diminuirmos as desigualdades, e fazer com que aquele povo mais do que sobreviva, evolua. Portanto, a nossa responsabilidade, a responsabilidade desta Casa é imensa, porque ainda tem gente lá padecendo, por falta de comida, por falta de água, e certamente o papel desta Casa, com a união de todos nós, é levar um pouco mais de dignidade àquela região. No mais, quero lhes agradecer a acolhida e agradecer ao Sr. Presidente a oportunidade e o tempo a mim concedido. Quero parabenizar também o Deputado Bruno Farias, da minha região, pela luta da enfermagem. Hoje tivemos uma conquista enorme, Deputado Bruno. Certamente a população está orgulhosa de você pelo seu trabalho. Sr. Presidente, Sras. e Srs. Deputados, obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Saúde",

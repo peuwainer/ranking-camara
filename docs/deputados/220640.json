@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220640.jpg",
-  "score": 34.28,
-  "rank": 80,
+  "score": 34.25,
+  "rank": 70,
   "proposicoes": [
-    {
-      "id": 2607582,
-      "tipo": "PL",
-      "numero": 1042,
-      "ano": 2026,
-      "ementa": "Institui a Política de Atenção Integral e Proteção às Mulheres Sobreviventes de Tentativas de Feminicídio",
-      "data": "2026-03-09T16:29",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607582"
-    },
     {
       "id": 2608238,
       "tipo": "PL",
@@ -78,9 +69,34 @@
       "ementa": "Institui o Marco Legal dos Esportes Indígenas no Brasil e dá outras providências.",
       "data": "2026-04-07T19:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614047"
+    },
+    {
+      "id": 2614736,
+      "tipo": "PL",
+      "numero": 1708,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para incluir medidas voltadas à autonomia econômica da mulher em situação de violência doméstica e familiar.",
+      "data": "2026-04-08T17:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614736"
+    },
+    {
+      "id": 2614739,
+      "tipo": "PL",
+      "numero": 1710,
+      "ano": 2026,
+      "ementa": "Acrescenta o art. 259-A à Lei nº 6.015, de 31 de dezembro de 1973, para dispor sobre a isenção de emolumentos e tributos na averbação de alteração de denominação de logradouros públicos em hipóteses relacionadas a graves violações de direitos humanos e crimes.",
+      "data": "2026-04-08T18:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614739"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-08T18:00",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. JULIANA CARDOSO (Bloco/PT - SP. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Eu fico mais horrorizada com o fato de que muitos desses Deputados que falam que vão retirar o proje",
+      "transcricao": "A SRA. JULIANA CARDOSO (Bloco/PT - SP. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Eu fico mais horrorizada com o fato de que muitos desses Deputados que falam que vão retirar o projeto do Suas de 1% não têm ideia do que significa a política de assistência social. V.Exas. acham que a assistência social só tem relação com a cesta básica do Suas? Eu sou produto de uma política do Sistema Único de Assistência Social. Eu sou menina de Osem, que era do contraturno. Eu era aquela que saía da sua escola e ia para o contraturno para poder ter música, teatro, dança, e para organizar principalmente a educação do meu território. Eu sou produto daquela política que poderia fazer  e fez  a diferença no meu território e na minha região. Portanto, senhoras e senhores que estão aqui querendo tirar de pauta esse projeto tão importante para todo o Brasil, pensem! Os senhores estão retrocedendo numa política de assistência social. Obrigada."
+    },
     {
       "data": "2026-03-17T16:52",
       "fase": "Breves Comunicações",

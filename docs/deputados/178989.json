@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178989.jpg",
-  "score": 37.0,
-  "rank": 45,
+  "score": 37.39,
+  "rank": 36,
   "proposicoes": [
     {
       "id": 2607868,
@@ -123,6 +123,24 @@
       "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para estabelecer a responsabilidade civil objetiva dos provedores de aplicações de internet pela veiculação de publicidade e anúncios patrocinados fraudulentos, nos termos que especifica.",
       "data": "2026-03-31T19:09",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613059"
+    },
+    {
+      "id": 2614617,
+      "tipo": "PL",
+      "numero": 1696,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.419, de 19 de dezembro de 2006, com o objetivo de garantir maior segurança àqueles que participam de processos judiciais eletrônicos, mediante a limitação de acesso a seus dados pessoais.",
+      "data": "2026-04-08T15:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614617"
+    },
+    {
+      "id": 2614674,
+      "tipo": "PL",
+      "numero": 1702,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.105/2015 (Código de Processo Civil) e a Lei nº 9.099/95 para dispensar a audiência de conciliação quando houver manifestação de desinteresse por qualquer das partes.",
+      "data": "2026-04-08T17:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614674"
     }
   ],
   "discursos": [],

@@ -4,10 +4,18 @@
   "partido": "UNIÃO",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204496.jpg",
-  "score": 25.44,
-  "rank": 323,
+  "score": 24.6,
+  "rank": 326,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-08T17:12",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. CELSO SABINO (Bloco/UNIÃO - PA. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. O Estado do Pará tem historicamente recebido brasileiros e brasileiras de diversas regiões do País que",
+      "transcricao": "O SR. CELSO SABINO (Bloco/UNIÃO - PA. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. O Estado do Pará tem historicamente recebido brasileiros e brasileiras de diversas regiões do País que acreditam no Estado, mas que vêm também pelas nossas terras, pelo nosso clima, pela nossa localização geográfica, investindo no agronegócio, produzindo soja e milho, criando gado. Assim, temos recebido brasileiros do Rio Grande do Sul, do Mato Grosso, do Paraná. Já por duas tentativas, Presidente, frustradas pelo Supremo Tribunal Federal, outro Estado tentou se apropriar de terras do Estado do Pará. Mais recentemente, o Estado do Mato Grosso tentou, na Justiça, passar parte das terras do oeste do Pará para ele. A Justiça vetou. Hoje houve mais uma audiência no Supremo Tribunal Federal a fim de buscar uma conciliação. Eu vim aqui hoje, Presidente, em nome do povo do Estado do Pará, deixar bem claro que aqueles que amam o Pará, aqueles que defendem o Estado do Pará não vão jamais abrir mão de meio centímetro do Estado do Pará. Todos que queiram investir no Estado do Pará são muito bem-vindos, mas nunca vão levar 1 centímetro de terra do Estado do Pará para nenhum outro Estado da Federação. E nós, da bancada do Pará, vamos ficar vigilantes."
+    }
+  ],
   "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/204496/votacoes-nominais-plenario/2026"
 }

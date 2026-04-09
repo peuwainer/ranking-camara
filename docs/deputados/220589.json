@@ -4,8 +4,8 @@
   "partido": "SOLIDARIEDADE",
   "uf": "AC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220589.jpg",
-  "score": 23.15,
-  "rank": 371,
+  "score": 23.37,
+  "rank": 346,
   "proposicoes": [
     {
       "id": 2611524,
@@ -15,9 +15,26 @@
       "ementa": "Altera a Lei nº 7.410, de 27 de novembro de 1985, que dispõe sobre a Especialização de Engenheiros e Arquitetos em Engenharia de Segurança do Trabalho, a Profissão de Técnico de Segurança do Trabalho, e dá outras Providências",
       "data": "2026-03-24T15:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611524"
+    },
+    {
+      "id": 2614753,
+      "tipo": "PLP",
+      "numero": 97,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes para a diferenciação de alíquotas do Imposto sobre a Propriedade de Veículos Automotores – IPVA pelos Estados e pelo Distrito Federal, com base em critérios ambientais, econômicos e sociais.",
+      "data": "2026-04-08T18:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614753"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-08T15:52",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. EDUARDO VELLOSO (Bloco/SOLIDARIEDADE - AC. Sem revisão do orador.) - Obrigado, Presidente. Senhoras e senhores, eu quero aqui falar para o Brasil que hoje nós estamos com a Governadora Mailza, a",
+      "transcricao": "O SR. EDUARDO VELLOSO (Bloco/SOLIDARIEDADE - AC. Sem revisão do orador.) - Obrigado, Presidente. Senhoras e senhores, eu quero aqui falar para o Brasil que hoje nós estamos com a Governadora Mailza, a segunda Governadora do Estado do Acre. Quero dar as boas vindas a ela, que era a nossa Vice-Governadora. O nosso atual Governador saiu para concorrer a uma vaga ao Senado. Minha Governadora, como Deputado Federal, representando a Saúde, quero deixar para V.Exa. um legado histórico. Um deles é o tratamento do câncer que nós iremos revolucionar a partir do mês que vem. Alocamos uma emenda para levar o que há de mais moderno na cirurgia especializada no nosso País e no mundo: o famoso robô. Aqui quero contar para V.Exa. O meu pai passou por dois cânceres e, no segundo câncer, um câncer de próstata, eu escutei de alguns médicos que ele não poderia operar porque o seu coração não iria aguentar. Só que nós não sabíamos que existia uma cirurgia para o câncer de próstata feita por robô. Eu tive que viajar com meu pai, procurar recursos, porque havia duas opções: fazer um tratamento paliativo, com hormônio, deixando o câncer ou fazer uma cirurgia que o curasse. Assim nós fizemos. Fomos para São Paulo. Lá ele foi operado com um robô. A cirurgia foi um sucesso, pois ele teve alta com 1 dia de internação. Eu me comovo com isso. Penso em como poderia também levar a cirurgia ao cidadão acriano que sofre na fila com um câncer de próstata, à mulher que sofre com uma endometriose. Essas são as maiores causas de fila lá no nosso Estado. Então, resolvemos alocar o robô. Aqui eu quero parabenizar a Presidente da Fundação Hospital Estadual do Acre, a Soron, que nos chamou para levarmos o robô. Prontamente, nós conseguimos o recurso, através de emenda. Serão aplicados 7 milhões de reais para que o Estado do Acre seja o primeiro Estado a fazer tratamento com cirurgia por robô na Região Norte. Esse é um marco que vai ficar na história do nosso mandato e da nossa Governadora Mailza. A partir deste mês, já estará disponível o treinamento para os médicos através do simulador. A partir deste mês já estará disponível o simulador para que os médicos possam fazer seu treinamento. A partir do mês que vem, maio, nós faremos as primeiras cirurgias através de robô. Gostaria de agradecer, Presidente, por mais esse tempo e pedir para que meu pronunciamento saia nos meios de comunicação desta Casa."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 8085, de 2014, do Senado Federal, que \"altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para instituir a obrigatoriedade da prática de direção veicular em vias públicas para fins de formação de condutores\"",

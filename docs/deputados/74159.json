@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74159.jpg",
-  "score": 28.15,
-  "rank": 260,
+  "score": 27.31,
+  "rank": 251,
   "proposicoes": [
     {
       "id": 2608574,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608574"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-08T19:32",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ODAIR CUNHA (Bloco/PT - MG. Pela ordem. Sem revisão do orador.) - Presidente, esta matéria traz em seu conteúdo uma questão central, e os partidos da Maioria compreenderam isto: nós precisamos f",
+      "transcricao": "O SR. ODAIR CUNHA (Bloco/PT - MG. Pela ordem. Sem revisão do orador.) - Presidente, esta matéria traz em seu conteúdo uma questão central, e os partidos da Maioria compreenderam isto: nós precisamos fortalecer a rede de proteção social Brasil afora. E aqui nós temos um sistema que garante essa rede de proteção: um sistema de financiamento. É disto que nós estamos falando: garantir que sistematicamente as pessoas em vulnerabilidade social tenham acesso a programas permanentes, para que nós não tenhamos nunca mais o Brasil no mapa da fome. Para isso, nós precisamos de políticas duráveis. Este projeto é fundamental. Por isso, orientamos \"sim\". Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa, sem ônus para a Câmara dos Deputados, destinada a acompanhar os impactos sociais, ambientais e econômicos na região do Município de Conceição do Pará, no estado de Minas Gerais, em função de um deslizamento de pilha de rejeitos de minério da mineradora Jaguar Mining",

@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178993.jpg",
-  "score": 32.24,
-  "rank": 129,
+  "score": 31.79,
+  "rank": 122,
   "proposicoes": [
     {
       "id": 2613424,
@@ -15,6 +15,15 @@
       "ementa": "Institui Programa Nacional de Teledermatologia no âmbito do Sistema Único de Saúde (SUS), e estabelece diretrizes gerais para sua implementação.",
       "data": "2026-04-06T13:10",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613424"
+    },
+    {
+      "id": 2614754,
+      "tipo": "PLP",
+      "numero": 98,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para prorrogar para 1º de janeiro de 2035 o prazo de efetivação do pedido de registro do parcelamento do solo que autoriza a opção pelo regime de transição de recolhimento do IBS e da CBS com base na receita bruta recebida.",
+      "data": "2026-04-08T18:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614754"
     }
   ],
   "discursos": [],

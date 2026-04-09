@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
-  "score": 35.17,
-  "rank": 67,
+  "score": 35.56,
+  "rank": 51,
   "proposicoes": [
     {
       "id": 2608574,
@@ -33,6 +33,24 @@
       "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
       "data": "2026-03-26T10:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
+    },
+    {
+      "id": 2614174,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a regularização documental de imóveis das ocupações incidentes em terras situadas em áreas rurais de domínio particular, fora da Amazônia Legal, e dá outras providências.",
+      "data": "2026-04-07T19:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614174"
+    },
+    {
+      "id": 2614756,
+      "tipo": "EMP",
+      "numero": 8,
+      "ano": 0,
+      "ementa": "ltera a Lei nº 9.847, de 26 de outubro de 1999, para dispor sobre penalidades relativas à comercialização de combustíveis e biocombustíveis.",
+      "data": "2026-04-08T18:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614756"
     }
   ],
   "discursos": [],

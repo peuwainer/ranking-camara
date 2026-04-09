@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74158.jpg",
-  "score": 33.88,
-  "rank": 91,
+  "score": 33.49,
+  "rank": 88,
   "proposicoes": [
     {
       "id": 2607876,
@@ -195,6 +195,15 @@
       "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015, para dispor sobre a possibilidade de quebra de sigilo bancário e fiscal em ações de alimentos, nas situações de indícios de ocultação de bens pelo alimentante.",
       "data": "2026-03-24T18:21",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611602"
+    },
+    {
+      "id": 2614756,
+      "tipo": "EMP",
+      "numero": 8,
+      "ano": 0,
+      "ementa": "ltera a Lei nº 9.847, de 26 de outubro de 1999, para dispor sobre penalidades relativas à comercialização de combustíveis e biocombustíveis.",
+      "data": "2026-04-08T18:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614756"
     }
   ],
   "discursos": [],

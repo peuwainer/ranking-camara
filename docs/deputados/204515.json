@@ -4,10 +4,18 @@
   "partido": "REDE",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204515.jpg",
-  "score": 27.05,
-  "rank": 290,
+  "score": 26.1,
+  "rank": 288,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-08T19:28",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ANDRÉ JANONES (Bloco/REDE - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, tenho muito orgulho em dizer que, antes de exercer o mandato de Deputado Federal, sou fruto de um programa d",
+      "transcricao": "O SR. ANDRÉ JANONES (Bloco/REDE - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, tenho muito orgulho em dizer que, antes de exercer o mandato de Deputado Federal, sou fruto de um programa de políticas sociais para pessoas carentes. Hoje, emocionado, tenho orgulho e a honra de orientar o voto da Rede Sustentabilidade pela aprovação da PEC 383/2017. \"Sim\" ao Suas; \"sim\" ao acolhimento das pessoas em situação de vulnerabilidade e das pessoas em situação de rua; \"sim\" à valorização dos profissionais de assistência social; \"sim\" a uma melhor estrutura para os Cras dos mais de 5 mil Municípios brasileiros em situação extremamente precária; \"sim\" por um atendimento digno às pessoas que realmente necessitam de um Estado forte que ampare as pessoas mais vulneráveis. A Rede Sustentabilidade orienta \"sim\", Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Trabalho",

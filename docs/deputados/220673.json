@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220673.jpg",
-  "score": 31.44,
-  "rank": 158,
+  "score": 31.35,
+  "rank": 132,
   "proposicoes": [
-    {
-      "id": 2607498,
-      "tipo": "PL",
-      "numero": 1020,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 10.826, de 22 de dezembro de 2003 (Estatuto do Desarmamento), para autorizar a \tposse e o porte de arma de fogo a empresários e empreendedores no exercício de suas atividades profissionais.",
-      "data": "2026-03-09T12:24",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607498"
-    },
     {
       "id": 2607665,
       "tipo": "PL",
@@ -42,9 +33,34 @@
       "ementa": "Dispõe sobre a obrigatoriedade de gravação audiovisual e transmissão em tempo real dos procedimentos licitatórios e dá outras providências.",
       "data": "2026-03-26T16:45",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612501"
+    },
+    {
+      "id": 2614560,
+      "tipo": "PL",
+      "numero": 1687,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a ampliação da autorização de embarque armado em aeronaves civis para policiais civis dos Estados e do Distrito Federal, nos termos da regulamentação da aviação civil.",
+      "data": "2026-04-08T14:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614560"
+    },
+    {
+      "id": 2614561,
+      "tipo": "PL",
+      "numero": 1688,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a ampliação da autorização de embarque armado em aeronaves civis para policiais militares dos Estados e do Distrito Federal, nos termos da regulamentação da aviação civil.",
+      "data": "2026-04-08T14:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614561"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-08T14:40",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DELEGADO CAVEIRA (PL - PA. Pela ordem. Sem revisão do orador.) - Sr. Presidente Charles Fernandes, muito obrigado pela oportunidade. Quero agradecer ao Estado do Pará, à cidade de Tucumã, por te",
+      "transcricao": "O SR. DELEGADO CAVEIRA (PL - PA. Pela ordem. Sem revisão do orador.) - Sr. Presidente Charles Fernandes, muito obrigado pela oportunidade. Quero agradecer ao Estado do Pará, à cidade de Tucumã, por ter elegido o Vereador Jerry Adriano, Vereador do Partido Liberal e que defende as nossas pautas de Deus, Pátria, Família e Liberdade. É com muito orgulho que o recebemos aqui, mais uma vez, na Casa do Povo, no Congresso Nacional, na Câmara dos Deputados. Neste momento, quero deixar claro aqui, para a PA-279, para a cidade de Tucumã, bem como para o Estado do Pará, que Jerry Adriano é pré-candidato a Deputado Estadual pelo Partido Liberal. Defenderá as nossas bandeiras e fará a campanha de Flávio Bolsonaro. Muito obrigado, Tucumã. Vamos para cima e estamos juntos! Valeu, Jerry Adriano! Vamos para a luta!"
+    },
     {
       "data": "2026-04-07T19:32",
       "fase": "Breves Comunicações",

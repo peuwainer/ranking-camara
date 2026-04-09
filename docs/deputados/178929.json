@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178929.jpg",
-  "score": 32.29,
-  "rank": 126,
+  "score": 33.0,
+  "rank": 98,
   "proposicoes": [
     {
       "id": 2608967,
@@ -24,9 +24,25 @@
       "ementa": "Altera a Lei nº 9.249, de 26 de dezembro de 1995 e a Lei 9.250, de 26 de dezembro de 1995.",
       "data": "2026-04-07T13:43",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613763"
+    },
+    {
+      "id": 2614659,
+      "tipo": "PL",
+      "numero": 1699,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.249, de 26 de dezembro de 1995, e a Lei 9.250, de 26 de dezembro de 1995.",
+      "data": "2026-04-08T16:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614659"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-08T15:36",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DIEGO GARCIA (Bloco/REPUBLICANOS - PR. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Queria registrar a presença do Vereador Thiago Fontes, da cidade de Cianorte-PR, grande Vereado",
+      "transcricao": "O SR. DIEGO GARCIA (Bloco/REPUBLICANOS - PR. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Queria registrar a presença do Vereador Thiago Fontes, da cidade de Cianorte-PR, grande Vereador e parceiro nosso. Juntos, destinamos muitos recursos à cidade de Cianorte para a saúde, para o esporte, para a educação. Quero agradecer ao Vereador pela presença. Ele está hoje aqui em uma agenda extensa, em vários Ministérios e, agora, no meu gabinete. Vereador, seja bem-vindo. O senhor está fazendo um brilhante trabalho. A força jovem vem renovando nossas Câmaras de Vereadores em todo o País, Presidente, e o Thiago é a inspiração de que ventos novos estão soprando sobre o nosso Brasil. Obrigado."
+    },
     {
       "data": "2026-03-18T20:52",
       "fase": "Ordem do Dia",

@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204559.jpg",
-  "score": 31.81,
-  "rank": 139,
+  "score": 32.96,
+  "rank": 100,
   "proposicoes": [
-    {
-      "id": 2607513,
-      "tipo": "PL",
-      "numero": 1022,
-      "ano": 2026,
-      "ementa": "Altera a Lei n° 15.046, de 17 de dezembro de 2024 (do Cadastro Nacional de Animais Domésticos) para criar um Disque Denúncia de combate à violência e maus tratos de animais.",
-      "data": "2026-03-09T12:50",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607513"
-    },
     {
       "id": 2608574,
       "tipo": "PL",
@@ -24,9 +15,52 @@
       "ementa": "Institui a Política Nacional de Programas e Grupos Reflexivos sobre Masculinidades, Prevenção da Violência e Cultura de Paz, estabelece seus princípios, objetivos e diretrizes, e dá outras providências",
       "data": "2026-03-12T12:35",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608574"
+    },
+    {
+      "id": 2614481,
+      "tipo": "PLP",
+      "numero": 92,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para reconhecer o calçado como bem essencial e prever tratamento tributário diferenciado no âmbito da CBS e do IBS.",
+      "data": "2026-04-08T13:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614481"
+    },
+    {
+      "id": 2614483,
+      "tipo": "PLP",
+      "numero": 93,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para incluir a atividade de representação comercial no Anexo III do Simples Nacional.",
+      "data": "2026-04-08T13:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614483"
+    },
+    {
+      "id": 2614484,
+      "tipo": "PLP",
+      "numero": 94,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para reconhecer os óculos de grau como bem essencial e prever tratamento tributário diferenciado no âmbito da CBS e do IBS.",
+      "data": "2026-04-08T13:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614484"
+    },
+    {
+      "id": 2614485,
+      "tipo": "PLP",
+      "numero": 95,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para prever redução de 40% das alíquotas da CBS e do IBS aplicáveis à atividade de representação comercial.",
+      "data": "2026-04-08T13:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614485"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-08T20:16",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ZÉ NETO (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Sra. Presidenta, eu queria aqui parabenizar a assistência social de todo o Brasil, especialmente as assistentes e os assistentes soc",
+      "transcricao": "O SR. ZÉ NETO (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Sra. Presidenta, eu queria aqui parabenizar a assistência social de todo o Brasil, especialmente as assistentes e os assistentes sociais que estão aqui hoje, mulheres e homens, que trabalharam, e muito, para que este momento acontecesse, um momento de grande importância. Nós estamos ampliando recursos: é 1% da receita corrente líquida para que tenhamos condição de avançar nos CREAS, nos CRAS, nas políticas de assistência, de atenção ao ser humano e de valorização da vida. Quero aqui, neste instante, dizer que este é um momento histórico para o nosso País e para esse novo sistema, que vem muito mais, eu diria, com combustão e com condição de fazer mais e melhor por quem mais precisa. Viva este momento e viva este Parlamento, que deu um exemplo grande e de muita importância para todo o País, principalmente para os mais humildes!"
+    },
     {
       "data": "2026-04-07T16:04",
       "fase": "Breves Comunicações",
