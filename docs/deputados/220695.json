@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-  "score": 39.43,
-  "rank": 21,
+  "score": 40.24,
+  "rank": 16,
   "proposicoes": [
     {
       "id": 2608967,
@@ -141,6 +141,24 @@
       "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do Projeto de Lei nº 10.125/2018, na forma do substitutivo.",
       "data": "2026-04-08T12:33",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614581"
+    },
+    {
+      "id": 2614862,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do Projeto de Lei nº 2038/2022, na forma do substitutivo.",
+      "data": "2026-04-08T18:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614862"
+    },
+    {
+      "id": 2615136,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL 691/2025, com substitutivo.",
+      "data": "2026-04-09T14:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615136"
     }
   ],
   "discursos": [

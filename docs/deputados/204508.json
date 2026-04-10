@@ -4,10 +4,18 @@
   "partido": "PSD",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204508.jpg",
-  "score": 27.48,
-  "rank": 244,
+  "score": 27.13,
+  "rank": 243,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-08T19:48",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. IGOR TIMO (Bloco/PSD - MG. Pela ordem. Sem revisão do orador.) - Deputada Rosangela, Deus quis que neste momento estivesse à frente da Presidência desta Casa uma mulher ilustre, com um grande le",
+      "transcricao": "O SR. IGOR TIMO (Bloco/PSD - MG. Pela ordem. Sem revisão do orador.) - Deputada Rosangela, Deus quis que neste momento estivesse à frente da Presidência desta Casa uma mulher ilustre, com um grande legado e uma grande trajetória. Eu venho aqui nesta data especial  gosto de ressaltar que é importante ver mulheres em lugares de destaque  para prestar uma homenagem muito justa a uma das grandes mulheres que representam o nosso Estado de Minas Gerais, em especial a minha região, que é o Vale do Jequitinhonha. Quando eu falo que ela é uma celebridade, ela fala que não é, que a celebridade é Deus e que ela é famosa. Refiro-me à nossa Mamusca, a Dona Elair de Fátima Ferreira Lopes, uma mulher que se casou muito jovem, aos 17 anos de idade, e que desde então tem tido uma vida que serve de exemplo para muitos. Essa mulher brilhante, que durante a sua trajetória cuidou dos filhos e dos pais, trabalhou também em Apaes e em creches, sempre colocando em primeiro lugar o outro e demonstrando que isso não é uma obrigação, mas uma vocação. Então, eu quero render hoje uma homenagem distinta à Mamusca, uma placa homenageando a sua bela trajetória, para representar todo o carinho do povo mineiro e do povo brasileiro, porque ela já estendeu sua ação aos limites do nosso País. Mamusca, receba essa homenagem distinta. Peço uma salva de palmas a ela, gente, porque ela fez por merecer."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a fiscalizar os rompimentos de barragens, em especial acompanhar a repactuação do acordo de Mariana e a reparação do crime de Brumadinho",

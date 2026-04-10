@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220538.jpg",
-  "score": 28.68,
-  "rank": 204,
+  "score": 28.62,
+  "rank": 192,
   "proposicoes": [
     {
       "id": 2611950,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 11.346, de 15 de setembro de 2006, para instituir o Programa Nacional Armazém Solidário (Pronas) e dá outras providências.",
       "data": "2026-03-26T12:09",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612359"
+    },
+    {
+      "id": 2614903,
+      "tipo": "PL",
+      "numero": 1727,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a definição geral de pesca esportiva, proíbe a intermediação obrigatória, estabelece a prioridade da pesca artesanal e dá outras providências.",
+      "data": "2026-04-09T12:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614903"
     }
   ],
   "discursos": [],

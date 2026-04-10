@@ -4,18 +4,9 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220669.jpg",
-  "score": 27.0,
-  "rank": 263,
+  "score": 26.52,
+  "rank": 267,
   "proposicoes": [
-    {
-      "id": 2607867,
-      "tipo": "PL",
-      "numero": 1079,
-      "ano": 2026,
-      "ementa": "Institui a Política Pública de Saúde Digital – PPSD, reconhece a saúde digital como dimensão do direito fundamental à saúde e estabelece objetivos, princípios, diretrizes, instrumentos e competências para a integração e o uso estratégico da informação e das tecnologias digitais no âmbito do Sistema Único de Saúde – SUS",
-      "data": "2026-03-10T17:43",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607867"
-    },
     {
       "id": 2608298,
       "tipo": "PL",
@@ -123,6 +114,24 @@
       "ementa": "Dispõe sobre a vinculação de parcela do reajuste anual dos planos privados de assistência à saúde à qualidade do serviço prestado, aferida por indicadores de reclamações dos usuários.",
       "data": "2026-04-07T16:59",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613918"
+    },
+    {
+      "id": 2615027,
+      "tipo": "PL",
+      "numero": 1739,
+      "ano": 2026,
+      "ementa": "Altera o Código Penal para dispor sobre a inaplicabilidade da exclusão de punibilidade em crimes patrimoniais praticados em contexto de violência doméstica e familiar contra a mulher.",
+      "data": "2026-04-09T17:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615027"
+    },
+    {
+      "id": 2615067,
+      "tipo": "PL",
+      "numero": 1742,
+      "ano": 2026,
+      "ementa": "Prevê a obrigatoriedade de os Municípios implantarem centros de atendimento integral e multidisciplinar para mulheres e respectivos dependentes em situação de violência doméstica e familiar e prevê o financiamento com recursos do Fundo Nacional de Segurança Pública.",
+      "data": "2026-04-09T17:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615067"
     }
   ],
   "discursos": [

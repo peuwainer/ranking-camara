@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
-  "score": 41.09,
-  "rank": 15,
+  "score": 41.96,
+  "rank": 13,
   "proposicoes": [
     {
       "id": 2608904,
@@ -69,6 +69,24 @@
       "ementa": "CVO apresentado na reunião de 08/04/2026",
       "data": "2026-04-08T14:50",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614579"
+    },
+    {
+      "id": 2615005,
+      "tipo": "PL",
+      "numero": 1738,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para dispor sobre os procedimentos para a incorporação de tecnologias no SUS e sobre a Comissão Nacional de Incorporação de Tecnologias no SUS – Conitec.",
+      "data": "2026-04-09T17:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615005"
+    },
+    {
+      "id": 2615037,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.146, de 2015, Lei Brasileira de Inclusão da Pessoa com Deficiência, para dispor sobre a reserva de veículos para pessoas com deficiência nas frotas de locadoras de veículos e de empresas de turismo e de transporte de passageiros sob o regime de fretamento.",
+      "data": "2026-04-09T17:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615037"
     }
   ],
   "discursos": [

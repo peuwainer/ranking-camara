@@ -4,18 +4,9 @@
   "partido": "CIDADANIA",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
-  "score": 33.04,
-  "rank": 97,
+  "score": 34.36,
+  "rank": 65,
   "proposicoes": [
-    {
-      "id": 2607943,
-      "tipo": "PL",
-      "numero": 1087,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar a incitação à violência ou discriminação contra a mulher por meio de conteúdo misógino organizado, inclusive em ambiente digital, e dá outras providências.",
-      "data": "2026-03-10T19:52",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607943"
-    },
     {
       "id": 2607982,
       "tipo": "PL",
@@ -87,6 +78,33 @@
       "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
       "data": "2026-03-26T10:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
+    },
+    {
+      "id": 2614992,
+      "tipo": "PL",
+      "numero": 1731,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.426, de 30 de março de 2017, para integrar as ações de vacinação preventiva de cães e gatos ao Programa Nacional de Proteção e Manejo Populacional Ético de Cães e Gatos (ProPatinhas), e dá outras providências.",
+      "data": "2026-04-09T16:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614992"
+    },
+    {
+      "id": 2615126,
+      "tipo": "PL",
+      "numero": 1744,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.764/2012 para dispor sobre medidas de apoio à preparação para o acesso ao ensino superior no âmbito de políticas públicas educacionais.",
+      "data": "2026-04-09T18:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615126"
+    },
+    {
+      "id": 2615127,
+      "tipo": "PL",
+      "numero": 1745,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.146/2015 para explicitar parâmetros de acessibilidade cognitiva em processos seletivos e concursos públicos.",
+      "data": "2026-04-09T18:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615127"
     }
   ],
   "discursos": [],

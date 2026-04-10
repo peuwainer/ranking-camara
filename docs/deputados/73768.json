@@ -4,9 +4,19 @@
   "partido": "PP",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73768.jpg",
-  "score": 33.28,
-  "rank": 93,
-  "proposicoes": [],
+  "score": 33.88,
+  "rank": 78,
+  "proposicoes": [
+    {
+      "id": 2614876,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a regulamentação da rotulagem de carne bovina em relação à indicação de raça e estabelece diretrizes para a participação de profissionais qualificados no processo de certificação",
+      "data": "2026-04-08T16:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614876"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

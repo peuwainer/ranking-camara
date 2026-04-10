@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220614.jpg",
-  "score": 8.46,
-  "rank": 478,
+  "score": 9.57,
+  "rank": 476,
   "proposicoes": [
     {
       "id": 2614061,
@@ -42,6 +42,15 @@
       "ementa": "Institui o Programa de Eficiência e Combate ao Desperdício de Medicamentos, Insumos e Exames no âmbito do Sistema Único de Saúde – SUS, cria mecanismos de monitoramento, reaproveitamento e gestão inteligente de recursos em saúde, e dá outras providências.",
       "data": "2026-04-07T19:39",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614064"
+    },
+    {
+      "id": 2614854,
+      "tipo": "PL",
+      "numero": 1723,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para dispor sobre a identificação individual do usuário nos registros de produção ambulatorial do Sistema Único de Saúde (SUS).",
+      "data": "2026-04-09T10:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614854"
     }
   ],
   "discursos": [

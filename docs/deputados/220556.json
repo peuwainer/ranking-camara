@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220556.jpg",
-  "score": 49.01,
-  "rank": 7,
+  "score": 48.41,
+  "rank": 8,
   "proposicoes": [
-    {
-      "id": 2607919,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei 12.288, de 20 de julho de 2010 (Estatuto da Igualdade Racial) para acrescentar a ''Violência Racial''.",
-      "data": "2026-03-10T09:26",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607919"
-    },
     {
       "id": 2608192,
       "tipo": "SBT",
@@ -234,6 +225,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-08T20:20",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. ANA PAULA LIMA (Bloco/PT - SC. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Eu não podia deixar de saudar os assistentes sociais do Brasil por toda essa luta. Saúdo principalmen",
+      "transcricao": "A SRA. ANA PAULA LIMA (Bloco/PT - SC. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Eu não podia deixar de saudar os assistentes sociais do Brasil por toda essa luta. Saúdo principalmente o Deputado Danilo, que fez a proposição dessa PEC que estamos votando no dia de hoje. Isso é uma questão de justiça na área da assistência social, que sempre tem o menor orçamento do Estado e que agora vai garantir 1% do Orçamento para fazer essas ações, para tratar, inclusive, das pessoas mais vulneráveis do nosso País e garantir a dignidade da vida. O SUS tem orçamento na área da saúde, a área da educação tem orçamento, e, agora, no dia histórico de hoje, nós estamos votando, em primeiro turno, claro  na semana que vem, votaremos o segundo turno , essa justa luta dos assistentes sociais do nosso País, com a garantia de vários Parlamentares aqui que aprovam este projeto. Parabéns!"
+    },
     {
       "data": "2026-04-08T10:40",
       "fase": "Comissão Geral",

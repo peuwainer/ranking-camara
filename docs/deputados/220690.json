@@ -4,36 +4,9 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 44.95,
+  "score": 43.17,
   "rank": 10,
   "proposicoes": [
-    {
-      "id": 2607673,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984, que Institui a Lei de Execução Penal, para prever o uso de câmera corporal pelo apenado.",
-      "data": "2026-03-10T12:24",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607673"
-    },
-    {
-      "id": 2607764,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Parecer do Relator, Dep. Capitão Alden (PL-BA), pela aprovação deste, com substitutivo.",
-      "data": "2026-03-10T12:24",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607764"
-    },
-    {
-      "id": 2607946,
-      "tipo": "PL",
-      "numero": 1088,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer regime especial de responsabilização socioeducativa para ato infracional análogo ao crime de estupro de vulnerável e outros crimes sexuais graves.",
-      "data": "2026-03-10T20:05",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2607946"
-    },
     {
       "id": 2608537,
       "tipo": "PL",
@@ -168,6 +141,15 @@
       "ementa": "Altera o Decreto-Lei nº 4.657, de 4 de setembro de 1942 (Lei de Introdução às Normas do Direito Brasileiro), para dispor sobre a aplicação de sanções, na hipótese de reiteração de infrações administrativas.",
       "data": "2026-04-07T10:13",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614158"
+    },
+    {
+      "id": 2614834,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.826, de 22 de dezembro de 2003 para autorizar os atiradores desportivos, caçadores e colecionadores a manter as armas de fogo dos seus respectivos acervos em condições de pronto emprego dentro dos locais de guarda registrados.",
+      "data": "2026-04-08T20:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614834"
     }
   ],
   "discursos": [

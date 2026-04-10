@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220648.jpg",
-  "score": 18.83,
-  "rank": 424,
+  "score": 19.28,
+  "rank": 414,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -28,16 +28,16 @@
       "desde": "2025-11-05T00:00"
     },
     {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3080, de 2020, do Senhor Alexandre Frota, que \"Institui a política pública nacional para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autismo, e dá outras providências\", e apensados",
-      "sigla": "PL308020",
-      "cargo": "Titular",
-      "desde": "2026-04-07T00:00"
-    },
-    {
       "nome": "Comissão de Finanças e Tributação",
       "sigla": "CFT",
       "cargo": "Titular",
       "desde": "2026-04-07T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3080, de 2020, do Senhor Alexandre Frota, que \"Institui a política pública nacional para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autismo, e dá outras providências\", e apensados",
+      "sigla": "PL308020",
+      "cargo": "Relator",
+      "desde": "2026-04-09T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220648/votacoes-nominais-plenario/2026"
