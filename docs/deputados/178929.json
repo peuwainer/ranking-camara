@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178929.jpg",
-  "score": 32.54,
-  "rank": 102,
+  "score": 33.43,
+  "rank": 92,
   "proposicoes": [
     {
       "id": 2608967,
@@ -33,6 +33,15 @@
       "ementa": "Altera a Lei nº 9.249, de 26 de dezembro de 1995, e a Lei 9.250, de 26 de dezembro de 1995.",
       "data": "2026-04-08T16:45",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614659"
+    },
+    {
+      "id": 2615186,
+      "tipo": "PL",
+      "numero": 1749,
+      "ano": 2026,
+      "ementa": "Institui a Semana Nacional da Cultura Católica.",
+      "data": "2026-04-10T10:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615186"
     }
   ],
   "discursos": [

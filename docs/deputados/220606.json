@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220606.jpg",
-  "score": 33.34,
-  "rank": 87,
+  "score": 36.4,
+  "rank": 44,
   "proposicoes": [
     {
       "id": 2608574,
@@ -60,6 +60,24 @@
       "ementa": "Autoriza ao Poder Executivo Federal promover a criação e o funcionamento ininterrupto de Delegacia de Crimes Raciais e Delitos de Intolerância.",
       "data": "2026-04-06T16:09",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613609"
+    },
+    {
+      "id": 2615287,
+      "tipo": "PL",
+      "numero": 1754,
+      "ano": 2026,
+      "ementa": "Institui a TerraBras, empresa pública destinada à defesa da soberania nacional e ao aproveitamento dos minerais críticos ou estratégicos; estabelece o regime de partilha da produção mineral; altera o Decreto-Lei nº 227, de 28 de fevereiro de 1967, a Lei nº 8.970, de 28 de dezembro de 1994, e a Lei nº 13.575, de 26 de dezembro de 2017; e dá outras providências.",
+      "data": "2026-04-10T14:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615287"
+    },
+    {
+      "id": 2615292,
+      "tipo": "PL",
+      "numero": 1755,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.478, de 6 de agosto de 1997 e a Lei nº 9.847, de 26 de outubro de 1999, para dispor sobre a obrigatoriedade de transparência na identificação da titularidade e responsabilidade empresarial nos postos revendedores de combustíveis.",
+      "data": "2026-04-10T14:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615292"
     }
   ],
   "discursos": [

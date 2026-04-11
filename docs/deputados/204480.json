@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204480.jpg",
-  "score": 33.17,
-  "rank": 92,
+  "score": 33.64,
+  "rank": 89,
   "proposicoes": [
-    {
-      "id": 2608238,
-      "tipo": "PL",
-      "numero": 1107,
-      "ano": 2026,
-      "ementa": "Institui pensão especial para pessoas com deficiência decorrente de violência doméstica e familiar; altera a Lei nº 8.213, de 24 de julho de 1991, para dispensar do cumprimento de carência o requerente de auxílio por incapacidade temporária e aposentadoria por incapacidade permanente decorrente de violência doméstica e familiar; e altera a Lei nº 11.340, de 7 de agosto de 2006, a fim de dispor sobre determinação judicial de avaliação médica, para fins de instrução do pedido de pensão especial, em caso de violência doméstica e familiar que resulte em aquisição de deficiência permanente pela ofendida ou pelo ofendido.",
-      "data": "2026-03-11T13:53",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608238"
-    },
     {
       "id": 2608574,
       "tipo": "PL",
@@ -51,6 +42,15 @@
       "ementa": "Dispõe sobre o reconhecimento, valorização, proteção previdenciária e salvaguarda do ofício, saberes e práticas das parteiras tradicionais como atividade essencial à reprodução social, cultural e comunitária, e dá outras providências, nos termos da Constituição Federal.",
       "data": "2026-03-30T20:34",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612861"
+    },
+    {
+      "id": 2615287,
+      "tipo": "PL",
+      "numero": 1754,
+      "ano": 2026,
+      "ementa": "Institui a TerraBras, empresa pública destinada à defesa da soberania nacional e ao aproveitamento dos minerais críticos ou estratégicos; estabelece o regime de partilha da produção mineral; altera o Decreto-Lei nº 227, de 28 de fevereiro de 1967, a Lei nº 8.970, de 28 de dezembro de 1994, e a Lei nº 13.575, de 26 de dezembro de 2017; e dá outras providências.",
+      "data": "2026-04-10T14:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615287"
     }
   ],
   "discursos": [
@@ -72,8 +72,8 @@
       "data": "2026-04-08T13:40",
       "fase": "Comissão Geral",
       "tipo": "COMISSÃO GERAL",
-      "resumo": "O SR. ROGÉRIO CORREIA (Bloco/PT - MG) - Ministra Márcia Lopes, é um prazer tê-la aqui. Agradecemos muito a sua vinda e parabenizamos pelo trabalho belíssimo que tem feito no Ministério das Mulheres, e",
-      "transcricao": "O SR. ROGÉRIO CORREIA (Bloco/PT - MG) - Ministra Márcia Lopes, é um prazer tê-la aqui. Agradecemos muito a sua vinda e parabenizamos pelo trabalho belíssimo que tem feito no Ministério das Mulheres, essencial para a gente. Queria também cumprimentar a Deputada Lídice da Mata, nossa Presidenta, e dizer que concordo com a Deputada Maria Arraes, porque, se não houver pressão, o Projeto de Lei da Misoginia não será votado. Sei que não há consenso, e o consenso custa a ser construído  já vimos pessoas aqui falarem contra , mas se não houver muita pressão, o Projeto de Lei da Misoginia não entra em pauta. Ele precisa entrar, porque é um marco fundamental na luta das mulheres e vai dar outro contorno a essa luta, colocando-a em um patamar acima. Então, ficam aqui a minha solidariedade, o meu apoio a todos e todas que estão aqui e, principalmente, a minha luta para que o Presidente paute o Projeto de Lei da Misoginia. (Palmas.) Presidenta, visto que também estive presente no lançamento do Pacto Nacional de Prevenção ao Feminicídio, eu queria trazer um assunto que parece específico, mas é geral. No mês passado, um guarda civil municipal de Belo Horizonte tentou matar a ex-companheira com gasolina e, posteriormente, ameaçou as guardas do grupamento especializado em proteção à mulher que foram responsáveis pela sua prisão. Esse grupamento chegou e, antes que o agressor pudesse colocar fogo na ex-companheira, prendeu-o, ele que também era guarda. Só que agora ele foi solto e voltou a trabalhar na Guarda Municipal, expondo, evidentemente, as agentes que o prenderam e que agora correm risco diante desse agressor. Esse grupamento exerce um papel muito importante e, por isso, junto com o Vereador Bruno Pedralva, apresentei uma série de reivindicações, às quais peço o apoio desta Presidência, das companheiras e também do Ministério: que haja um espaço físico exclusivo, adequado e seguro para esse grupamento; que haja protocolo específico de proteção a essas agentes, especialmente em casos que envolvam membros da própria corporação, como foi o caso; e, por fim, que seja feita uma avaliação rigorosa sobre a permanência e a circulação do agressor. Queria parabenizar esse grupamento pelo trabalho e dizer que agora é hora de a Prefeitura de Belo Horizonte garantir a proteção de quem protege. Esse é o apelo que a gente faz. Eu não poderia deixar de colocar isso aqui publicamente para que esse grupamento seja protegido e continue com a sua função de prevenção ao feminicídio e de segurança para a mulher. Obrigado."
+      "resumo": "O SR. ROGÉRIO CORREIA (Bloco/PT - MG) - Ministra Márcia Lopes, é um prazer tê-la aqui. Agradecemos muito a sua vinda e a parabenizamos pelo trabalho belíssimo que tem feito no Ministério das Mulheres,",
+      "transcricao": "O SR. ROGÉRIO CORREIA (Bloco/PT - MG) - Ministra Márcia Lopes, é um prazer tê-la aqui. Agradecemos muito a sua vinda e a parabenizamos pelo trabalho belíssimo que tem feito no Ministério das Mulheres, que é essencial para a gente. Quero cumprimentar a Deputada Lídice da Mata, nossa Presidenta, e dizer que concordo com a Deputada Maria Arraes, porque, se não houver pressão, o Projeto de Lei da Misoginia não será votado. Não há consenso, o consenso custa a ser construído  já vimos pessoas aqui falarem contra o projeto , e, se não houver muita pressão, o Projeto de Lei da Misoginia não entrará em pauta. Ele precisa entrar, porque é um marco fundamental na luta das mulheres e vai dar outro contorno a essa luta, colocando-a em um patamar superior. Então, ficam aqui a minha solidariedade, o meu apoio a todos e todas que estão aqui e, principalmente, a minha luta para que o Presidente paute o Projeto de Lei da Misoginia. (Palmas.) Presidenta, visto que eu também estive presente no lançamento do Pacto Nacional de Prevenção aos Feminicídios, eu queria trazer um assunto que parece específico, mas é geral. No mês passado, um guarda civil municipal de Belo Horizonte tentou matar a ex-companheira com gasolina e, posteriormente, ameaçou as guardas do Grupamento de Proteção à Mulher Guardiã Maria da Penha da Guarda Civil Municipal de Belo Horizonte, que foram responsáveis pela sua prisão. Esse grupamento chegou e, antes que o agressor pudesse colocar fogo na ex-companheira, prendeu-o  ele também era guarda municipal. Só que agora ele foi solto e voltou a trabalhar na Guarda Municipal, expondo, evidentemente, as agentes que o prenderam e que agora correm risco diante desse agressor. Esse grupamento exerce um papel muito importante, e, por isso, junto com o Vereador Bruno Pedralva, eu apresentei uma série de reivindicações, às quais peço o apoio desta Presidência, das companheiras e também do Ministério: que haja um espaço físico exclusivo, adequado e seguro para esse grupamento; que haja protocolo específico de proteção a essas agentes, especialmente em casos que envolvam membros da própria corporação, como foi o caso; e, por fim, que seja feita uma avaliação rigorosa sobre a permanência e a circulação do agressor. Queria parabenizar esse grupamento pelo seu trabalho e dizer que agora é hora de a Prefeitura de Belo Horizonte garantir proteção a quem protege. Esse é o apelo que a gente faz. Eu não poderia deixar de colocar isso aqui publicamente, para que esse grupamento seja protegido e continue com a sua função de prevenção ao feminicídio e de segurança para a mulher. Obrigado."
     },
     {
       "data": "2026-03-25T19:16",

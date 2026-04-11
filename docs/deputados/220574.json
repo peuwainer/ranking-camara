@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220574.jpg",
-  "score": 49.32,
-  "rank": 7,
+  "score": 51.22,
+  "rank": 5,
   "proposicoes": [
     {
       "id": 2608967,
@@ -78,6 +78,15 @@
       "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para dispor sobre a prevenção da violência praticada por adolescentes, a corresponsabilização educativa de pais e responsáveis e a adoção de medidas socioeducativas proporcionais a natureza do direito violado pelo ato infracional.",
       "data": "2026-03-31T17:29",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613034"
+    },
+    {
+      "id": 2615169,
+      "tipo": "PL",
+      "numero": 1746,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.429, de 2 de junho de 1992, para qualificar como ato de improbidade administrativa a inauguração de obra pública parcial ou inacabada, ainda que para fins simbólicos.",
+      "data": "2026-04-10T09:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615169"
     }
   ],
   "discursos": [
