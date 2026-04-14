@@ -4,9 +4,19 @@
   "partido": "PSDB",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74646.jpg",
-  "score": 13.36,
-  "rank": 462,
-  "proposicoes": [],
+  "score": 14.04,
+  "rank": 458,
+  "proposicoes": [
+    {
+      "id": 2615379,
+      "tipo": "PL",
+      "numero": 1769,
+      "ano": 2026,
+      "ementa": "Declara o Município de São João del Rei, no Estado de Minas Gerais, Capital Nacional da Arte Sacra.",
+      "data": "2026-04-13T11:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615379"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

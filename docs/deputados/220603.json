@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220603.jpg",
-  "score": 24.37,
-  "rank": 327,
+  "score": 25.06,
+  "rank": 313,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -20,6 +20,12 @@
       "sigla": "PEC00523",
       "cargo": "Titular",
       "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Titular",
+      "desde": "2026-04-13T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220603/votacoes-nominais-plenario/2026"

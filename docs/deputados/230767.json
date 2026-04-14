@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/230767.jpg",
-  "score": 32.16,
-  "rank": 114,
+  "score": 32.83,
+  "rank": 100,
   "proposicoes": [
     {
       "id": 2614774,
@@ -24,6 +24,15 @@
       "ementa": "Acrescenta o art. 68-A à Lei nº 9.784, de 29 de janeiro de 1999, para dispor sobre a infração administrativa continuada no âmbito do processo administrativo sancionador federal.",
       "data": "2026-04-08T19:24",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614776"
+    },
+    {
+      "id": 2615421,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Medida Provisória no 2.200-2, de 24 de agosto de 2001, que institui a Infra-Estrutura de Chaves Públicas Brasileira - ICP-Brasil, para normatizar o uso da ferramenta blockchain.",
+      "data": "2026-04-13T11:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615421"
     }
   ],
   "discursos": [

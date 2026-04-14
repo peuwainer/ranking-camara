@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178947.jpg",
-  "score": 16.32,
-  "rank": 448,
+  "score": 17.0,
+  "rank": 441,
   "proposicoes": [
     {
       "id": 2609530,
@@ -65,6 +65,13 @@
       "transcricao": "O SR. SÓSTENES CAVALCANTE (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero registrar minha solidariedade aos familiares, aos amigos do nosso querido Deputado Professor Paulo Fernando. No meu primeiro mandato, quando aqui cheguei, presidi uma Comissão Especial logo no primeiro mês de mandato e não tinha conhecimento do Regimento Interno. Ele me deu aula de Regimento Interno. Era um servidor desta Casa, um cristão. Em nome da Frente Cristã, ele católico, nós evangélicos, vimos na figura singela e ímpar do Paulo Fernando um lutador pela vida. Ele era um pró-vida, ele deixou um legado, uma marca nesta Casa, e nós temos que agradecer aos seus familiares, sua esposa, seus quatro filhos. Estive agora no sepultamento. A gente fica com o legado e com as boas lembranças de um ser humano. Ele era muito mais que um Parlamentar, ele foi um ser humano. Que Deus o tenha e a sua memória fique guardada para sempre aqui em todos seus colegas de Parlamento, de trabalho, desta Casa. Convivemos com um ser humano distinto. Eu tenho certeza de que Deus gosta de coisa boa. Por isso, ele está descansando."
     }
   ],
-  "orgaos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Titular",
+      "desde": "2026-04-13T00:00"
+    }
+  ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178947/votacoes-nominais-plenario/2026"
 }

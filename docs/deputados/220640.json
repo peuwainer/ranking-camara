@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220640.jpg",
-  "score": 33.48,
-  "rank": 85,
+  "score": 32.8,
+  "rank": 102,
   "proposicoes": [
     {
       "id": 2610970,
@@ -124,12 +124,6 @@
       "sigla": "CPOVOS",
       "cargo": "Titular",
       "desde": "2026-02-04T00:00"
-    },
-    {
-      "nome": "Comissão de Finanças e Tributação",
-      "sigla": "CFT",
-      "cargo": "Suplente",
-      "desde": "2026-03-18T00:00"
     },
     {
       "nome": "Comissão de Cultura",

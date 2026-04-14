@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74374.jpg",
-  "score": 37.21,
-  "rank": 32,
+  "score": 37.89,
+  "rank": 31,
   "proposicoes": [
     {
       "id": 2611301,
@@ -87,6 +87,15 @@
       "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para dispor sobre os procedimentos para a incorporação de tecnologias no SUS e sobre a Comissão Nacional de Incorporação de Tecnologias no SUS – Conitec.",
       "data": "2026-04-09T17:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615005"
+    },
+    {
+      "id": 2615408,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Obriga as instituições financeiras e entidades congêneres a colher a assinatura física de pessoas com idade igual ou superior a sessenta anos para a contratação de operações de crédito.",
+      "data": "2026-03-30T11:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615408"
     }
   ],
   "discursos": [

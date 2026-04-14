@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74400.jpg",
-  "score": 30.43,
-  "rank": 153,
+  "score": 32.45,
+  "rank": 112,
   "proposicoes": [
     {
       "id": 2609057,
@@ -24,6 +24,33 @@
       "ementa": "Institui a TerraBras, empresa pública destinada à defesa da soberania nacional e ao aproveitamento dos minerais críticos ou estratégicos; estabelece o regime de partilha da produção mineral; altera o Decreto-Lei nº 227, de 28 de fevereiro de 1967, a Lei nº 8.970, de 28 de dezembro de 1994, e a Lei nº 13.575, de 26 de dezembro de 2017; e dá outras providências.",
       "data": "2026-04-10T14:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615287"
+    },
+    {
+      "id": 2615646,
+      "tipo": "PL",
+      "numero": 1793,
+      "ano": 2026,
+      "ementa": "Acrescenta o art. 29-D à Lei nº 11.445, de 5 de janeiro de 2007, que estabelece as diretrizes nacionais para o saneamento básico e para a política federal de saneamento básico, para vedar a cobrança de tarifa comercial de água e esgoto em imóvel com hidrômetro único que sirva simultaneamente como residência habitual e local de atividade comercial ou de prestação de serviços. Esta Lei é conhecida como \"Lei do Hidrômetro Único\".",
+      "data": "2026-04-13T19:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615646"
+    },
+    {
+      "id": 2615647,
+      "tipo": "PL",
+      "numero": 1794,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Autonomia e Proteção à Mulher em Situação de Violência Doméstica e Familiar – “Recomeçar Mulher” –, cria o Benefício Assistencial Temporário de Proteção à Mulher e autoriza a concessão de parcela emergencial em favor de mulheres vítimas de violência doméstica e familiar.",
+      "data": "2026-04-13T19:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615647"
+    },
+    {
+      "id": 2615648,
+      "tipo": "PL",
+      "numero": 1795,
+      "ano": 2026,
+      "ementa": "Acrescenta os arts. 209-B, 209-C e 209-D à Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), e o art. 15-A à Lei nº 8.987, de 13 de fevereiro de 1995 (Lei de Concessões), para estabelecer normas de transparência, notificação prévia e acessibilidade nos sistemas de pedágio de livre passagem (free flow), determinar o cancelamento de multas aplicadas sem notificação prévia, a restituição dos valores pagos e a anulação dos pontos na Carteira Nacional de Habilitação, e dá outras providências.",
+      "data": "2026-04-13T19:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615648"
     }
   ],
   "discursos": [],

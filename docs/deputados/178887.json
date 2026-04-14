@@ -4,7 +4,7 @@
   "partido": "PT",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178887.jpg",
-  "score": 63.69,
+  "score": 64.7,
   "rank": 1,
   "proposicoes": [
     {
@@ -478,6 +478,13 @@
   ],
   "discursos": [
     {
+      "data": "2026-04-08T21:08",
+      "fase": "Encerramento",
+      "tipo": "OUTROS",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO RUBENS PEREIRA JÚNIOR (SEM REGISTRO TAQUIGRÁFICO). Sr. Presidente, Sras. e Srs. Deputados, nos termos do Regimento Interno, e dada a impossibilidade d",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO RUBENS PEREIRA JÚNIOR (SEM REGISTRO TAQUIGRÁFICO). Sr. Presidente, Sras. e Srs. Deputados, nos termos do Regimento Interno, e dada a impossibilidade de leitura em plenário, solicito a V.Exa. que seja dado como lido, para efeito de registro nos Anais desta Casa, este discurso de minha autoria. Senhoras e senhores parlamentares, neste momento de desafios econômicos que enfrentamos, é imperativo que o governo brasileiro adote medidas decisivas para conter a escalada dos preços dos combustíveis. O aumento constante dos custos dos combustíveis não apenas afeta diretamente o bolso dos cidadãos, mas também repercute em toda a cadeia produtiva, impactando o transporte, a indústria e o comércio. É fundamental reconhecer que a estabilidade dos preços dos combustíveis é crucial para a manutenção da atividade econômica e para o bem-estar da população. Por isso, o governo tem implementado uma série de ações estratégicas para mitigar os efeitos dessa alta. Entre estas medidas, destacam-se a revisão de impostos sobre os combustíveis, a negociação com distribuidoras para garantir preços justos e a busca por alternativas energéticas que possam reduzir a dependência de combustíveis fósseis. Além disso, é essencial promover a transparência no mercado de combustíveis, garantindo que os preços reflitam de forma justa os custos de produção e distribuição. A fiscalização rigorosa e a punição de práticas abusivas são instrumentos indispensáveis para assegurar que os consumidores não sejam prejudicados por especulações ou manipulações de mercado. O governo também tem investido em infraestrutura para melhorar a eficiência do transporte de combustíveis, reduzindo custos logísticos e, consequentemente, os preços finais ao consumidor. A modernização dos portos, a ampliação da rede de oleodutos e a otimização dos sistemas de distribuição são passos fundamentais nesse sentido. É importante ressaltar que, embora estas ações sejam cruciais, a solução definitiva para a estabilidade dos preços dos combustíveis passa pela diversificação da matriz energética brasileira. O investimento em fontes renováveis, como a energia solar, eólica e a produção de biocombustíveis, não apenas reduzirá a dependência de combustíveis importados, mas também contribuirá para a sustentabilidade ambiental e para a criação de empregos verdes. Neste contexto, o papel do legislativo é fundamental para apoiar e aperfeiçoar as políticas do executivo, garantindo que as medidas adotadas sejam eficazes e atendam aos anseios da sociedade. É preciso que trabalhemos juntos, em diálogo permanente, para encontrar soluções que equilibrem o crescimento econômico com a justiça social e a preservação ambiental. Por fim, quero enfatizar que a estabilidade dos preços dos combustíveis não é apenas uma questão econômica, mas um compromisso do governo com o bem-estar e a qualidade de vida de todos os brasileiros. Continuaremos atentos e proativos, buscando sempre as melhores alternativas para garantir um futuro próspero e sustentável para o nosso país. Muito Obrigado. Era o que tinha a dizer."
+    },
+    {
       "data": "2026-03-25T16:12",
       "fase": "Breves Comunicações",
       "tipo": "PELA ORDEM",
@@ -544,6 +551,12 @@
       "sigla": "CCJC",
       "cargo": "Titular",
       "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Suplente",
+      "desde": "2026-04-13T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178887/votacoes-nominais-plenario/2026"

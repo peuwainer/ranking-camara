@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160548.jpg",
-  "score": 42.85,
-  "rank": 12,
+  "score": 45.55,
+  "rank": 9,
   "proposicoes": [
     {
       "id": 2609187,
@@ -204,6 +204,42 @@
       "ementa": "ltera a Lei nº 9.847, de 26 de outubro de 1999, para dispor sobre penalidades relativas à comercialização de combustíveis e biocombustíveis.",
       "data": "2026-04-08T18:56",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614756"
+    },
+    {
+      "id": 2615389,
+      "tipo": "PL",
+      "numero": 1771,
+      "ano": 2026,
+      "ementa": "Veda a veiculação, nas plataformas de streaming e na programação dos canais de televisão aberta e TV por assinatura, de chamada promocional de obras audiovisuais que forem incompatíveis com o perfil do usuário.",
+      "data": "2026-04-13T11:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615389"
+    },
+    {
+      "id": 2615390,
+      "tipo": "PL",
+      "numero": 1772,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a restituição em dobro em caso de cobrança de dívida já paga.",
+      "data": "2026-04-13T11:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615390"
+    },
+    {
+      "id": 2615391,
+      "tipo": "PL",
+      "numero": 1773,
+      "ano": 2026,
+      "ementa": "Assegura o acesso à tutela provisória de urgência, vedando a exigência de garantia do juízo como condição para sua concessão.",
+      "data": "2026-04-13T11:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615391"
+    },
+    {
+      "id": 2615393,
+      "tipo": "PL",
+      "numero": 1774,
+      "ano": 2026,
+      "ementa": "Altera a Consolidação das Leis do Trabalho – CLT, para dispor a obrigação de aviso de rescisão do contrato de trabalho da gestante antes do fim do prazo de estabilidade no emprego.",
+      "data": "2026-04-13T11:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615393"
     }
   ],
   "discursos": [

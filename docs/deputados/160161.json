@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160161.jpg",
-  "score": 23.7,
-  "rank": 342,
+  "score": 23.02,
+  "rank": 356,
   "proposicoes": [],
   "discursos": [
     {
@@ -35,12 +35,6 @@
       "sigla": "CCOM",
       "cargo": "Titular",
       "desde": "2026-03-02T00:00"
-    },
-    {
-      "nome": "Comissão de Finanças e Tributação",
-      "sigla": "CFT",
-      "cargo": "Titular",
-      "desde": "2026-03-19T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/160161/votacoes-nominais-plenario/2026"

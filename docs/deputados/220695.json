@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-  "score": 41.55,
-  "rank": 14,
+  "score": 43.57,
+  "rank": 12,
   "proposicoes": [
     {
       "id": 2608967,
@@ -159,6 +159,33 @@
       "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL 691/2025, com substitutivo.",
       "data": "2026-04-09T14:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615136"
+    },
+    {
+      "id": 2615381,
+      "tipo": "PL",
+      "numero": 1770,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Prevenção de Enchentes e Convivência com a Seca – PRONECS e estabelece diretrizes para a prevenção de desastres hidrológicos e adaptação climática no território nacional.",
+      "data": "2026-04-13T11:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615381"
+    },
+    {
+      "id": 2615604,
+      "tipo": "PL",
+      "numero": 1785,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, para dispor sobre a realização de perícia médica federal por meio de telemedicina, com vistas à ampliação do acesso, à interiorização e à organização regional do atendimento no âmbito do Instituto Nacional do Seguro Social.",
+      "data": "2026-04-13T16:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615604"
+    },
+    {
+      "id": 2615612,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL 2.015/2025 e do PL 5.853/2025, apensado, com substitutivo.",
+      "data": "2026-04-13T12:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615612"
     }
   ],
   "discursos": [

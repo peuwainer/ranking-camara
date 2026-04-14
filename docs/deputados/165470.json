@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/165470.jpg",
-  "score": 28.37,
-  "rank": 217,
+  "score": 29.05,
+  "rank": 197,
   "proposicoes": [
     {
       "id": 2609794,
@@ -33,6 +33,15 @@
       "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
       "data": "2026-03-26T10:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
+    },
+    {
+      "id": 2615512,
+      "tipo": "PL",
+      "numero": 1779,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.754, de 12 de dezembro de 2023, para excluir da apuração dos lucros de controladas no exterior os resultados decorrentes da avaliação a valor justo de ativos e passivos.",
+      "data": "2026-04-13T14:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615512"
     }
   ],
   "discursos": [],

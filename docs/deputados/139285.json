@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/139285.jpg",
-  "score": 36.12,
-  "rank": 46,
+  "score": 38.14,
+  "rank": 26,
   "proposicoes": [
     {
       "id": 2610295,
@@ -33,6 +33,33 @@
       "ementa": "Altera o art. 19-J da Lei nº 8.080, de 19 de setembro de 1990, que \"dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências\", para incluir a obrigatoriedade de obediência às diretrizes e orientações técnicas e o oferecimento de condições que possibilitem a ocorrência do parto humanizado nos estabelecimentos de saúde do Sistema Único de Saúde (SUS).",
       "data": "2026-03-19T11:59",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610910"
+    },
+    {
+      "id": 2615530,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-04-13T14:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615530"
+    },
+    {
+      "id": 2615601,
+      "tipo": "PL",
+      "numero": 1783,
+      "ano": 2026,
+      "ementa": "Altera os arts. 36 e 57-A da Lei nº 9.504, de 30 de setembro de 1997, para ampliar para 60 (sessenta) dias anteriores ao pleito o início da propaganda eleitoral.",
+      "data": "2026-04-13T15:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615601"
+    },
+    {
+      "id": 2615602,
+      "tipo": "PL",
+      "numero": 1784,
+      "ano": 2026,
+      "ementa": "Altera o art. 9º da Lei nº 9.504, de 30 de setembro de 1997, para ampliar para 1 (um) ano o prazo mínimo de filiação partidária.",
+      "data": "2026-04-13T15:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615602"
     }
   ],
   "discursos": [
