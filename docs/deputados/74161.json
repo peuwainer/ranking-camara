@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74161.jpg",
-  "score": 19.86,
-  "rank": 410,
+  "score": 20.82,
+  "rank": 395,
   "proposicoes": [
     {
       "id": 2612333,
@@ -24,9 +24,26 @@
       "ementa": "Institui a TerraBras, empresa pública destinada à defesa da soberania nacional e ao aproveitamento dos minerais críticos ou estratégicos; estabelece o regime de partilha da produção mineral; altera o Decreto-Lei nº 227, de 28 de fevereiro de 1967, a Lei nº 8.970, de 28 de dezembro de 1994, e a Lei nº 13.575, de 26 de dezembro de 2017; e dá outras providências.",
       "data": "2026-04-10T14:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615287"
+    },
+    {
+      "id": 2615935,
+      "tipo": "PL",
+      "numero": 1808,
+      "ano": 2026,
+      "ementa": "Proíbe a exploração, a oferta, a promoção e a facilitação de apostas de quota fixa em todo o território nacional, revoga dispositivos das Leis nº 13.756, de 12 de dezembro de 2018, e nº 14.790, de 29 de dezembro de 2023, estabelece medidas de bloqueio de acesso, remoção de aplicações, interrupção de fluxos financeiros, responsabilização de intermediários e proteção de conteúdos de interesse público, e dá outras providências.",
+      "data": "2026-04-14T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615935"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-14T20:40",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. REGINALDO LOPES (Bloco/PT - MG. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Eu gostaria de registrar nesta Casa que a luta pelo fim da escala 6 por 1 ganha hoje um fortíssimo ali",
+      "transcricao": "O SR. REGINALDO LOPES (Bloco/PT - MG. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Eu gostaria de registrar nesta Casa que a luta pelo fim da escala 6 por 1 ganha hoje um fortíssimo aliado, um aliado histórico, que é o Presidente Lula, ao enviar o seu projeto de lei que propõe a redução da jornada de 44 para 40 horas semanais e o fim da escala 6 por 1, somando-se à nossa iniciativa, a PEC de 2019. Quero aqui convidar os Deputados e Deputadas para a reunião de amanhã, às 10 horas, na CCJ, onde vamos apreciar o relatório do Deputado Paulo Azi, em relação à admissibilidade e à constitucionalidade dessa proposta de emenda à Constituição de minha autoria. Quem ganha, Presidente, neste momento, é toda a sociedade brasileira, porque, de fato, a rotatividade, a ausência, os acidentes de trabalho e o afastamento de meio milhão de trabalhadores por ano custam muito ao País; e, se a gente não fizer nada pela qualidade de vida do trabalhador, vamos ter um apagão de mão de obra no País. Em nome de toda a economia, em nome da saúde do trabalhador, das famílias, vamos colocar um ponto final nisso. Amanhã será um dia histórico para o fim da escala 6 por 1."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Centro de Estudos e Debates Estratégicos",

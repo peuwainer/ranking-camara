@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73768.jpg",
-  "score": 33.77,
-  "rank": 83,
+  "score": 34.09,
+  "rank": 84,
   "proposicoes": [
     {
       "id": 2614876,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614876"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-14T20:40",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DILCEU SPERAFICO (Bloco/PP - PR. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu queria aproveitar este momento aqui na Câmara dos Deputados para dizer que o Vet",
+      "transcricao": "O SR. DILCEU SPERAFICO (Bloco/PP - PR. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu queria aproveitar este momento aqui na Câmara dos Deputados para dizer que o Veteran Car Club da cidade de Toledo, no Estado do Paraná, promoverá, nos dias 18 e 19, o 5º Encontro Internacional de Veículos Antigos, um evento de grande proporção, para o qual virão veículos de toda a América Latina e de todos os Estados brasileiros, fazendo uma grande festa lá na nossa cidade. O Veteran Car Club, que organiza o evento, realmente está de parabéns, porque as edições, até o presente momento, tiveram sucesso total e, ao final, o resultado também é revertido para entidades filantrópicas da nossa cidade. Por isso, fica estendido o convite a todos para que participem, de modo especial, em Toledo, Paraná, desse grande encontro de veículos antigos, nos próximos dias 18 e 19. Obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Representação Brasileira no Parlamento do Mercosul",

@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160569.jpg",
-  "score": 26.06,
-  "rank": 283,
+  "score": 26.98,
+  "rank": 269,
   "proposicoes": [
     {
       "id": 2609535,
@@ -51,9 +51,25 @@
       "ementa": "Institui a Estratégia Nacional “Eles por Elas” de Engajamento de Homens na Prevenção da Violência contra Mulheres.",
       "data": "2026-04-13T15:14",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615559"
+    },
+    {
+      "id": 2615935,
+      "tipo": "PL",
+      "numero": 1808,
+      "ano": 2026,
+      "ementa": "Proíbe a exploração, a oferta, a promoção e a facilitação de apostas de quota fixa em todo o território nacional, revoga dispositivos das Leis nº 13.756, de 12 de dezembro de 2018, e nº 14.790, de 29 de dezembro de 2023, estabelece medidas de bloqueio de acesso, remoção de aplicações, interrupção de fluxos financeiros, responsabilização de intermediários e proteção de conteúdos de interesse público, e dá outras providências.",
+      "data": "2026-04-14T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615935"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-14T17:56",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. WALDENOR PEREIRA (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, acabei de participar, no Palácio do Planalto, da solenidade de sanção presidencial do novo Plano Nacional d",
+      "transcricao": "O SR. WALDENOR PEREIRA (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, acabei de participar, no Palácio do Planalto, da solenidade de sanção presidencial do novo Plano Nacional de Educação. É um plano composto de 19 objetivos, 8 temáticas, 73 metas e 372 estratégias. O plano tem como compromisso ampliar, de forma crescente, os investimentos para a educação brasileira, universalizar o acesso à escola, à conectividade, expandir os recursos destinados à valorização dos profissionais e também ampliar a educação em tempo integral. Parabéns ao Presidente Lula, parabéns ao Ministro Camilo Santana e a todas as entidades, em nome da CNTE, que construíram de forma democrática esse novo Plano Nacional de Educação, que será fundamental para a promoção do desenvolvimento nacional! Obrigado, Presidente."
+    },
     {
       "data": "2026-03-17T16:44",
       "fase": "Breves Comunicações",

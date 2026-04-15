@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74253.jpg",
-  "score": 27.14,
-  "rank": 253,
+  "score": 27.79,
+  "rank": 235,
   "proposicoes": [
     {
       "id": 2612333,
@@ -89,6 +89,12 @@
       "sigla": "CEXBRLEG",
       "cargo": "Titular",
       "desde": "2026-02-27T00:00"
+    },
+    {
+      "nome": "Comissão de Indústria, Comércio e Serviços",
+      "sigla": "CICS",
+      "cargo": "Suplente",
+      "desde": "2026-04-14T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/74253/votacoes-nominais-plenario/2026"

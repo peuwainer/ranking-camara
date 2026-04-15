@@ -4,9 +4,18 @@
   "partido": "PT",
   "uf": "RN",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204453.jpg",
-  "score": 24.38,
-  "rank": 328,
+  "score": 25.65,
+  "rank": 300,
   "proposicoes": [
+    {
+      "id": 2611028,
+      "tipo": "PL",
+      "numero": 1307,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e o Decreto-Lei nº 1.001, de 21 de outubro de 1969 (Código Penal Militar), para estabelecer a competência da Justiça Comum para o processamento e julgamento do crime de feminicídio cometido por militares (Lei Gisele Alves Santana).",
+      "data": "2026-03-20T11:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611028"
+    },
     {
       "id": 2612049,
       "tipo": "SBT",
@@ -42,6 +51,15 @@
       "ementa": "Institui a TerraBras, empresa pública destinada à defesa da soberania nacional e ao aproveitamento dos minerais críticos ou estratégicos; estabelece o regime de partilha da produção mineral; altera o Decreto-Lei nº 227, de 28 de fevereiro de 1967, a Lei nº 8.970, de 28 de dezembro de 1994, e a Lei nº 13.575, de 26 de dezembro de 2017; e dá outras providências.",
       "data": "2026-04-10T14:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615287"
+    },
+    {
+      "id": 2615935,
+      "tipo": "PL",
+      "numero": 1808,
+      "ano": 2026,
+      "ementa": "Proíbe a exploração, a oferta, a promoção e a facilitação de apostas de quota fixa em todo o território nacional, revoga dispositivos das Leis nº 13.756, de 12 de dezembro de 2018, e nº 14.790, de 29 de dezembro de 2023, estabelece medidas de bloqueio de acesso, remoção de aplicações, interrupção de fluxos financeiros, responsabilização de intermediários e proteção de conteúdos de interesse público, e dá outras providências.",
+      "data": "2026-04-14T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615935"
     }
   ],
   "discursos": [

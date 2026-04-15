@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220647.jpg",
-  "score": 20.04,
-  "rank": 406,
+  "score": 20.71,
+  "rank": 400,
   "proposicoes": [
     {
       "id": 2611055,
@@ -30,6 +30,12 @@
       "sigla": "CVT",
       "cargo": "Titular",
       "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Indústria, Comércio e Serviços",
+      "sigla": "CICS",
+      "cargo": "Suplente",
+      "desde": "2026-04-14T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220647/votacoes-nominais-plenario/2026"

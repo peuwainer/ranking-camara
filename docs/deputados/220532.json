@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220532.jpg",
-  "score": 20.0,
-  "rank": 408,
+  "score": 20.68,
+  "rank": 402,
   "proposicoes": [],
   "discursos": [
     {
@@ -22,6 +22,12 @@
       "sigla": "CCJC",
       "cargo": "Suplente",
       "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Comissão de Indústria, Comércio e Serviços",
+      "sigla": "CICS",
+      "cargo": "Suplente",
+      "desde": "2026-04-14T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220532/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
-  "score": 28.11,
-  "rank": 220,
+  "score": 29.38,
+  "rank": 190,
   "proposicoes": [
     {
       "id": 2609530,
@@ -60,6 +60,15 @@
       "ementa": "",
       "data": "2026-04-07T19:05",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614054"
+    },
+    {
+      "id": 2616098,
+      "tipo": "PL",
+      "numero": 1833,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar, no âmbito dos crimes contra a incolumidade pública, a conduta de acionamento indevido do Serviço de Atendimento Móvel de Urgência (SAMU), do serviço de emergência policial e do Corpo de Bombeiros, mediante comunicação falsa, enganosa ou abusiva, bem como para estabelecer regras específicas relativas à substituição da pena e aos efeitos da condenação, com vistas à proteção da regularidade e da eficiência dos serviços públicos de emergência e à salvaguarda da vida e da integridade física da coletividade.",
+      "data": "2026-04-14T19:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616098"
     }
   ],
   "discursos": [
@@ -74,8 +83,8 @@
       "data": "2026-04-09T10:20",
       "fase": "Ordem do Dia",
       "tipo": "PELA ORDEM",
-      "resumo": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Deputado Hildo Rocha, nós encaminhamos não à matéria. A gente quer que volte o texto original. Acho que o Senad",
-      "transcricao": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Deputado Hildo Rocha, nós encaminhamos não à matéria. A gente quer que volte o texto original. Acho que o Senado fez mudanças que não são boas para o texto. Portanto, o bloco todo encaminha não, pois já recebemos diversos companheiros que têm vínculo a esse setor e que acham que a medida provisória veio piorada do Senado. Portanto, a gente quer que volte o texto original. Encaminhamos não, Sr. Presidente."
+      "resumo": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Deputado Hildo Rocha, nós orientamos não à matéria. Nós queremos que volte o texto original. Acho que o Senado ",
+      "transcricao": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Deputado Hildo Rocha, nós orientamos não à matéria. Nós queremos que volte o texto original. Acho que o Senado fez mudanças que não são boas para o texto. Portanto, o bloco todo orienta não, já recebemos diversos companheiros que têm vínculo com este setor e acham que a medida provisória veio piorada do Senado. Portanto, queremos que volte o texto original. Nós orientamos não."
     }
   ],
   "orgaos": [
@@ -108,6 +117,12 @@
       "sigla": "CME",
       "cargo": "Suplente",
       "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Comissão de Indústria, Comércio e Serviços",
+      "sigla": "CICS",
+      "cargo": "Titular",
+      "desde": "2026-04-14T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/160665/votacoes-nominais-plenario/2026"

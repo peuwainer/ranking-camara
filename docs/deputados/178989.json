@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178989.jpg",
-  "score": 34.17,
-  "rank": 74,
+  "score": 36.67,
+  "rank": 47,
   "proposicoes": [
     {
       "id": 2610665,
@@ -42,6 +42,15 @@
       "ementa": "Altera a Lei nº 9.514, de 20 de novembro de 1997, para explicitar o alcance subjetivo do art. 38 quanto à formalização de atos e contratos por instrumento particular com efeitos de escritura pública.",
       "data": "2026-03-19T09:43",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610689"
+    },
+    {
+      "id": 2611028,
+      "tipo": "PL",
+      "numero": 1307,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e o Decreto-Lei nº 1.001, de 21 de outubro de 1969 (Código Penal Militar), para estabelecer a competência da Justiça Comum para o processamento e julgamento do crime de feminicídio cometido por militares (Lei Gisele Alves Santana).",
+      "data": "2026-03-20T11:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611028"
     },
     {
       "id": 2611932,
@@ -105,6 +114,33 @@
       "ementa": "Altera a Lei nº 13.105/2015 (Código de Processo Civil) e a Lei nº 9.099/95 para dispensar a audiência de conciliação quando houver manifestação de desinteresse por qualquer das partes.",
       "data": "2026-04-08T17:09",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614674"
+    },
+    {
+      "id": 2615736,
+      "tipo": "PL",
+      "numero": 1802,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes para a atenção ao climatério e à menopausa no âmbito das políticas públicas de saúde e de promoção da qualidade de vida da mulher.",
+      "data": "2026-04-14T11:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615736"
+    },
+    {
+      "id": 2615894,
+      "tipo": "PL",
+      "numero": 1803,
+      "ano": 2026,
+      "ementa": "Institui o Sistema Nacional Antifraude (SNAF), dispõe sobre o intercâmbio de dados para prevenir, detectar e coibir fraudes e irregularidades no acesso a benefícios ou programas federais de natureza social, inclusive trabalhista, previdenciária ou assistencial, e dá outras providências.",
+      "data": "2026-04-14T14:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615894"
+    },
+    {
+      "id": 2616001,
+      "tipo": "PL",
+      "numero": 1818,
+      "ano": 2026,
+      "ementa": "Acrescenta parágrafo ao art. 63 da Lei Brasileira de Inclusão da Pessoa com Deficiência para dispor sobre a disponibilização de sistemas de autenticação de identidade compatíveis com variadas condições de deficiência e mobilidade reduzida.",
+      "data": "2026-04-14T17:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616001"
     }
   ],
   "discursos": [],

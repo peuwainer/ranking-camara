@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220701.jpg",
-  "score": 31.44,
-  "rank": 131,
+  "score": 32.08,
+  "rank": 126,
   "proposicoes": [
     {
       "id": 2609559,
@@ -72,6 +72,12 @@
       "sigla": "CMADS",
       "cargo": "Titular",
       "desde": "2026-03-03T00:00"
+    },
+    {
+      "nome": "Comissão de Indústria, Comércio e Serviços",
+      "sigla": "CICS",
+      "cargo": "Titular",
+      "desde": "2026-04-14T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220701/votacoes-nominais-plenario/2026"

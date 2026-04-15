@@ -4,9 +4,18 @@
   "partido": "PP",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
-  "score": 28.83,
-  "rank": 199,
+  "score": 30.45,
+  "rank": 158,
   "proposicoes": [
+    {
+      "id": 2610310,
+      "tipo": "PL",
+      "numero": 1256,
+      "ano": 2026,
+      "ementa": "Reconhece a situação de insegurança hídrica da Metade Sul do Estado do Rio Grande do Sul e institui a Programa de Estruturação das Regiões em Situação de Insegurança Hídrica da Metade Sul do Rio Grande do Sul (PERSIH-SulRS).",
+      "data": "2026-03-18T15:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610310"
+    },
     {
       "id": 2610647,
       "tipo": "PL",
@@ -24,9 +33,25 @@
       "ementa": "Dispõe sobre a anistia às infrações de trânsito cometidas pelos condutores de veículos utilizados para ajuda humanitária ao Estado do Rio Grande do Sul, durante o período do estado de calamidade pública.",
       "data": "2026-04-07T20:24",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614077"
+    },
+    {
+      "id": 2616100,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-04-14T20:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616100"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-14T18:00",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. AFONSO HAMM (Bloco/PP - RS. Sem revisão do orador.) - Presidente, eu queria dar conhecimento aqui de uma importante reunião que participei como coordenador da bancada gaúcha junto ao Ministério ",
+      "transcricao": "O SR. AFONSO HAMM (Bloco/PP - RS. Sem revisão do orador.) - Presidente, eu queria dar conhecimento aqui de uma importante reunião que participei como coordenador da bancada gaúcha junto ao Ministério dos Transportes, com o Ministro George Santoro, e também ao DNIT, com o Diretor-Geral. Fomos, a pedido também do Ministro Augusto Nardes, do TCU - Tribunal de Contas da União, solicitar esclarecimento sobre os recursos para concluir a ponte na BR-285, em São José dos Ausentes, e mais oito quilômetros. Isto porque o lado de Santa Catarina está concluído. Inclusive a Deputada Geovania de Sá havia nos solicitado as informações para comunicar o Rio Grande do Sul e Santa Catarina pela região da Serra, muito importante. Até o final do ano, teremos a conclusão deste trecho e, até março, a conclusão da pavimentação, inclusive da ponte. Era isso, Presidente. Muito obrigado. Peço divulgação do meu pronunciamento nos meios de comunicação da Casa e no programa A Voz do Brasil."
+    },
     {
       "data": "2026-04-07T15:44",
       "fase": "Breves Comunicações",

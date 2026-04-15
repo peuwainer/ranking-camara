@@ -4,7 +4,7 @@
   "partido": "NOVO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
-  "score": 40.04,
+  "score": 40.67,
   "rank": 20,
   "proposicoes": [
     {
@@ -254,6 +254,12 @@
       "sigla": "CE",
       "cargo": "Suplente",
       "desde": "2026-03-17T00:00"
+    },
+    {
+      "nome": "Comissão de Indústria, Comércio e Serviços",
+      "sigla": "CICS",
+      "cargo": "Suplente",
+      "desde": "2026-04-14T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204528/votacoes-nominais-plenario/2026"

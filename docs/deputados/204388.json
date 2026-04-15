@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
-  "score": 38.12,
-  "rank": 27,
+  "score": 39.02,
+  "rank": 25,
   "proposicoes": [
     {
       "id": 2608967,
@@ -69,9 +69,25 @@
       "ementa": "Altera a Lei nº 9.249, de 26 de dezembro de 1995.",
       "data": "2026-04-08T17:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614726"
+    },
+    {
+      "id": 2615946,
+      "tipo": "PL",
+      "numero": 1810,
+      "ano": 2026,
+      "ementa": "Confere ao Município de Lindolfo Collor, no Estado do Rio Grande do Sul, o título de Capital Nacional do Tapete de Couro.",
+      "data": "2026-04-14T15:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615946"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-14T17:44",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. BIBO NUNES (PL - RS. Pela ordem. Sem revisão do orador.) - Digníssimo Presidente Charles Fernandes, o Senado está votando neste momento, na CPI do Crime Organizado, o indiciamento, por suspeita ",
+      "transcricao": "O SR. BIBO NUNES (PL - RS. Pela ordem. Sem revisão do orador.) - Digníssimo Presidente Charles Fernandes, o Senado está votando neste momento, na CPI do Crime Organizado, o indiciamento, por suspeita de crime, de três Ministros do STF  para quem não sabe, o Ministro Alexandre de Moraes, o Ministro Gilmar Mendes e o \"Noites Toffoli\". Esses três têm que ser impichados, e, depois, tornozeleira e, de preferência, prisão, porque o Brasil precisa de uma justificativa, de uma explicação. Esses Ministros envergonham o STF, e a CPI do Crime Organizado vai dar a punição que eles merecem, porque o Brasil é um dos poucos países do mundo que nunca puniu um Ministro do STF. Só para concluir, digníssimo Presidente, eu cito aqui o Chile, onde três Ministros foram afastados e um Ministro foi preso, há dois meses. A punição é por cometerem crimes de responsabilidade. Brasil, você que está desesperançoso, tenha calma, porque teremos o indiciamento de três Ministros do STF. Queremos justiça. Queremos uma Justiça que não vote politicamente e vote de acordo com o que manda o Judiciário. Estamos aí! Acreditem no Brasil!"
+    },
     {
       "data": "2026-04-08T16:16",
       "fase": "Breves Comunicações",

@@ -4,10 +4,27 @@
   "partido": "UNIÃO",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220626.jpg",
-  "score": 20.05,
-  "rank": 405,
-  "proposicoes": [],
+  "score": 21.04,
+  "rank": 391,
+  "proposicoes": [
+    {
+      "id": 2615943,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a regulação da importação de leite, leite em pó, queijo mussarela e derivados, estabelece limites proporcionais ao consumo interno e proíbe a reidratação de leite em pó importado no território nacional.",
+      "data": "2026-04-14T15:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615943"
+    }
+  ],
   "discursos": [
+    {
+      "data": "2026-04-14T16:08",
+      "fase": null,
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. RAFAEL SIMOES (Bloco/UNIÃO - MG. Pela ordem. Sem revisão do orador.) - Presidente Hildo Rocha, eu queria registrar aqui a presença do nosso Prefeito de Monte Sião, a Capital Nacional do Tricô, J",
+      "transcricao": "O SR. RAFAEL SIMOES (Bloco/UNIÃO - MG. Pela ordem. Sem revisão do orador.) - Presidente Hildo Rocha, eu queria registrar aqui a presença do nosso Prefeito de Monte Sião, a Capital Nacional do Tricô, Juninho Zucato. Juninho Zucato está aqui hoje, Presidente, por um motivo extremamente importante que atingiu já várias cidades: Monte Sião sofreu lá um estelionato cibernético e o Município teve mais de 7 milhões furtados da conta da Caixa Econômica Federal. E o que impressiona é o seguinte: as operações, mais de 60 operações,  3 horas fazendo operações, ou seja, transferindo recurso público para compra de joia, compra de vinho, compra de carro  e sabe o que acontece? A Caixa Econômica vem e fala assim: \"Eu não tenho nada com isso; isso é problema do Município\". Isso é uma vergonha! A Caixa Econômica Federal, se faz isso com o Município, eu fico imaginando o que ela vai fazer com aqueles que são ali pobres, que têm um pouco de dinheiro na Caixa Econômica Federal, e que estão sujeitos a esse tipo de estelionato, Deputado Luiz. Isso é uma vergonha! E nós estamos nessa luta já há bastante tempo. Dinheiro de emendas foi perdido nesse estelionato, e nós não conseguimos chegar ainda ao objetivo, que é retornar o dinheiro ao Município. E, agora, sabe o que acontece? Chega o ano eleitoral e começam a dizer que o Prefeito pegou dinheiro para ele. E como o povo gosta da mentira, começa a propagar. Então, eu quero aqui registrar a seriedade com que o Juninho tem tomado conta do Município de Monte Sião, e quero chamar à responsabilidade a Caixa Econômica Federal."
+    },
     {
       "data": "2026-03-17T20:40",
       "fase": "Ordem do Dia",

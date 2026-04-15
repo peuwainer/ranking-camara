@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220655.jpg",
-  "score": 18.7,
-  "rank": 426,
+  "score": 19.33,
+  "rank": 421,
   "proposicoes": [
     {
       "id": 2608967,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados",
       "data": "2026-03-17T19:43",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609794"
+    },
+    {
+      "id": 2616025,
+      "tipo": "PL",
+      "numero": 1825,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.211, de 17 de setembro de 2025 (Estatuto Digital da Criança e do Adolescente), para vedar mecanismos de censura prévia, assegurar a liberdade de expressão, preservar a livre iniciativa e garantir o devido processo legal.",
+      "data": "2026-04-14T18:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616025"
     }
   ],
   "discursos": [],

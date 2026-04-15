@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "AC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/104552.jpg",
-  "score": 30.87,
-  "rank": 142,
+  "score": 31.74,
+  "rank": 137,
   "proposicoes": [
     {
       "id": 2609679,
@@ -15,6 +15,15 @@
       "ementa": "Emenda com o objetivo de assegurar transparência, controle institucional e acompanhamento parlamentar das medidas de resolução e supervisão do sistema financeiro nacional.",
       "data": "2026-03-17T18:05",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609679"
+    },
+    {
+      "id": 2611028,
+      "tipo": "PL",
+      "numero": 1307,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e o Decreto-Lei nº 1.001, de 21 de outubro de 1969 (Código Penal Militar), para estabelecer a competência da Justiça Comum para o processamento e julgamento do crime de feminicídio cometido por militares (Lei Gisele Alves Santana).",
+      "data": "2026-03-20T11:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611028"
     },
     {
       "id": 2611060,
@@ -90,6 +99,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-14T18:04",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. SOCORRO NERI (Bloco/PP - AC. Pela ordem. Sem revisão da oradora.) - Presidente, quero registrar com muita alegria a presença de cinco Vereadores do Município de Acrelândia, no Acre: Vereador Vi",
+      "transcricao": "A SRA. SOCORRO NERI (Bloco/PP - AC. Pela ordem. Sem revisão da oradora.) - Presidente, quero registrar com muita alegria a presença de cinco Vereadores do Município de Acrelândia, no Acre: Vereador Vitor Martineli, Vereador Rozeno, Vereador Cleuson, Vereadora Rosa e Vereador Renato Patrãozinho. Aqui estou ao lado do nosso Deputado Zezinho Barbary, do PP do Acre, e do Vice-Presidente do PP do Acre, Lívio Veras. É uma alegria imensa estarmos recebendo esses companheiros, progressistas, inclusive de outros partidos também mais à direita, para estarem aqui conosco hoje conhecendo o Plenário. Muito obrigada por esta oportunidade, Presidente."
+    },
     {
       "data": "2026-04-08T12:36",
       "fase": "Comissão Geral",

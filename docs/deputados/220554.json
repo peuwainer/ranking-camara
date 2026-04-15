@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
-  "score": 35.92,
-  "rank": 49,
+  "score": 37.86,
+  "rank": 34,
   "proposicoes": [
     {
       "id": 2611099,
@@ -51,6 +51,24 @@
       "ementa": "Institui a TerraBras, empresa pública destinada à defesa da soberania nacional e ao aproveitamento dos minerais críticos ou estratégicos; estabelece o regime de partilha da produção mineral; altera o Decreto-Lei nº 227, de 28 de fevereiro de 1967, a Lei nº 8.970, de 28 de dezembro de 1994, e a Lei nº 13.575, de 26 de dezembro de 2017; e dá outras providências.",
       "data": "2026-04-10T14:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615287"
+    },
+    {
+      "id": 2615923,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde, para proibir o cancelamento unilateral de contratos de usuários em situação de vulnerabilidade — pessoas idosas, com deficiência, ostomizadas, com câncer ou doenças raras — e institui a Política Nacional de Proteção Continuada à Pessoa em Tratamento de Saúde (PNPCS).",
+      "data": "2026-04-14T12:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615923"
+    },
+    {
+      "id": 2615935,
+      "tipo": "PL",
+      "numero": 1808,
+      "ano": 2026,
+      "ementa": "Proíbe a exploração, a oferta, a promoção e a facilitação de apostas de quota fixa em todo o território nacional, revoga dispositivos das Leis nº 13.756, de 12 de dezembro de 2018, e nº 14.790, de 29 de dezembro de 2023, estabelece medidas de bloqueio de acesso, remoção de aplicações, interrupção de fluxos financeiros, responsabilização de intermediários e proteção de conteúdos de interesse público, e dá outras providências.",
+      "data": "2026-04-14T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615935"
     }
   ],
   "discursos": [],
@@ -138,6 +156,12 @@
       "sigla": "CREDN",
       "cargo": "Suplente",
       "desde": "2026-03-25T00:00"
+    },
+    {
+      "nome": "Comissão de Indústria, Comércio e Serviços",
+      "sigla": "CICS",
+      "cargo": "Suplente",
+      "desde": "2026-04-14T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220554/votacoes-nominais-plenario/2026"

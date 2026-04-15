@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220616.jpg",
-  "score": 18.43,
-  "rank": 428,
+  "score": 18.73,
+  "rank": 425,
   "proposicoes": [
     {
       "id": 2609058,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613181"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-14T20:24",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LUCIANO VIEIRA (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Presidente, quero registrar a presença aqui do nosso craque de bola, ídolo do Vasco da Gama, Edmundo, o Edmundo Animal, que",
+      "transcricao": "O SR. LUCIANO VIEIRA (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Presidente, quero registrar a presença aqui do nosso craque de bola, ídolo do Vasco da Gama, Edmundo, o Edmundo Animal, que nos honra hoje em plenário. Ele está lá atrás. Quero registrar a presença dele aqui, que muito nos orgulha. Obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, avaliação e acompanhamento das iniciativas e medidas adotadas para transição energética - Fontes Renováveis e Produção de Hidrogênio Verde no Brasil",

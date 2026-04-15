@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220662.jpg",
-  "score": 30.1,
-  "rank": 167,
+  "score": 30.78,
+  "rank": 150,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -44,6 +44,12 @@
       "sigla": "PL808514",
       "cargo": "Titular",
       "desde": "2026-02-27T00:00"
+    },
+    {
+      "nome": "Comissão de Indústria, Comércio e Serviços",
+      "sigla": "CICS",
+      "cargo": "Titular",
+      "desde": "2026-04-14T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220662/votacoes-nominais-plenario/2026"

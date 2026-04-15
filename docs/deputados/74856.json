@@ -4,7 +4,7 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
-  "score": 61.66,
+  "score": 63.32,
   "rank": 2,
   "proposicoes": [
     {
@@ -42,6 +42,15 @@
       "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para recrudescer o tratamento penal dispensado ao autor de crime praticado contra profissional de saúde.",
       "data": "2026-03-18T18:07",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610501"
+    },
+    {
+      "id": 2611028,
+      "tipo": "PL",
+      "numero": 1307,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e o Decreto-Lei nº 1.001, de 21 de outubro de 1969 (Código Penal Militar), para estabelecer a competência da Justiça Comum para o processamento e julgamento do crime de feminicídio cometido por militares (Lei Gisele Alves Santana).",
+      "data": "2026-03-20T11:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611028"
     },
     {
       "id": 2611237,
@@ -231,6 +240,24 @@
       "ementa": "Altera dispositivos da Lei nº 9.099, de 26 de setembro de 1995, para regulamentar, no âmbito dos Juizados Especiais Cíveis, a representação do réu em audiências e o uso da videoconferência ou de recursos tecnológicos análogos na prática de atos processuais.",
       "data": "2026-04-10T15:57",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615326"
+    },
+    {
+      "id": 2616064,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Institui diretrizes básicas para melhoria da saúde das pessoas com doença de Crohn; inclui a doença de Crohn com manifestação incapacitante no rol de doenças que independe de carência para a concessão de auxílio-doença e de aposentadoria por invalidez, e dá outras providências.",
+      "data": "2026-04-14T18:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616064"
+    },
+    {
+      "id": 2616085,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Institui diretrizes básicas para melhoria da saúde das mulheres com adenomiose; inclui a adenomiose com manifestação incapacitante no rol de doenças que independe de carência para a concessão de auxílio-doença e de aposentadoria por invalidez, e dá outras providências.",
+      "data": "2026-04-14T18:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616085"
     }
   ],
   "discursos": [

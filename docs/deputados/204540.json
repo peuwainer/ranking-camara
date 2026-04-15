@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204540.jpg",
-  "score": 34.84,
-  "rank": 63,
+  "score": 36.78,
+  "rank": 43,
   "proposicoes": [
     {
       "id": 2610865,
@@ -33,6 +33,33 @@
       "ementa": "Reconhece como manifestação da cultura nacional o evento “Família ao Pé da Cruz”, realizado anualmente em diversas capitais no país, durante a semana santa.",
       "data": "2026-04-10T17:01",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615332"
+    },
+    {
+      "id": 2615715,
+      "tipo": "PL",
+      "numero": 1798,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes para a atenção à saúde das mulheres no climatério e na menopausa, no âmbito do Sistema Único de Saúde.",
+      "data": "2026-04-14T10:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615715"
+    },
+    {
+      "id": 2615979,
+      "tipo": "PL",
+      "numero": 1815,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Autonomia e Prevenção da Violência contra a Mulher (Recomeçar), e dá outras providências.",
+      "data": "2026-04-14T16:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615979"
+    },
+    {
+      "id": 2615980,
+      "tipo": "PL",
+      "numero": 1816,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Autonomia e Prevenção da Violência contra a Mulher (Recomeçar), e dá outras providências.",
+      "data": "2026-04-14T16:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615980"
     }
   ],
   "discursos": [

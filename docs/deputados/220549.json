@@ -4,8 +4,8 @@
   "partido": "CIDADANIA",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220549.jpg",
-  "score": 34.17,
-  "rank": 73,
+  "score": 34.15,
+  "rank": 82,
   "proposicoes": [
     {
       "id": 2614335,
@@ -79,12 +79,6 @@
       "desde": "2024-02-07T00:00"
     },
     {
-      "nome": "Comissão de Indústria, Comércio e Serviços",
-      "sigla": "CICS",
-      "cargo": "1º Vice-Presidente",
-      "desde": "2025-03-25T00:00"
-    },
-    {
       "nome": "Comissão Externa destinada a acompanhar os graves casos de feminicídios ocorridos no Estado do Rio Grande do Sul",
       "sigla": "CEXRSFEM",
       "cargo": "Subcoordenador",
@@ -131,6 +125,12 @@
       "sigla": "CMULHER",
       "cargo": "Suplente",
       "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Comissão de Indústria, Comércio e Serviços",
+      "sigla": "CICS",
+      "cargo": "Titular",
+      "desde": "2026-04-14T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220549/votacoes-nominais-plenario/2026"

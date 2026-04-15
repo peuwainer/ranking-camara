@@ -4,8 +4,8 @@
   "partido": "PRD",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204427.jpg",
-  "score": 21.43,
-  "rank": 379,
+  "score": 22.06,
+  "rank": 372,
   "proposicoes": [
     {
       "id": 2612946,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 4.119, de 27 de agosto de 1962, que dispõe sobre os cursos de formação em psicologia e regulamenta a profissão de psicólogo, para instituir o piso salarial nacional da categoria.",
       "data": "2026-03-31T13:25",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612948"
+    },
+    {
+      "id": 2616019,
+      "tipo": "PL",
+      "numero": 1823,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade da oferta de professor de apoio especializado e de sala especial para o atendimento educacional especializado a estudantes com Transtorno do Espectro Autista (TEA) nas redes públicas de ensino, institui o Adicional de Valorização do Professor de Apoio e Sala TEA, e dá outras providências.",
+      "data": "2026-04-14T17:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616019"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 21.15,
-  "rank": 384,
+  "score": 21.65,
+  "rank": 379,
   "proposicoes": [
     {
       "id": 2609074,
@@ -159,6 +159,12 @@
       "sigla": "CE",
       "cargo": "Titular",
       "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Comissão de Indústria, Comércio e Serviços",
+      "sigla": "CICS",
+      "cargo": "Suplente",
+      "desde": "2026-04-14T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220540/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220571.jpg",
-  "score": 31.46,
-  "rank": 129,
+  "score": 32.12,
+  "rank": 124,
   "proposicoes": [
     {
       "id": 2614865,
@@ -66,6 +66,12 @@
       "sigla": "CIDOSO",
       "cargo": "Suplente",
       "desde": "2026-02-10T00:00"
+    },
+    {
+      "nome": "Comissão de Indústria, Comércio e Serviços",
+      "sigla": "CICS",
+      "cargo": "Suplente",
+      "desde": "2026-04-14T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220571/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220641.jpg",
-  "score": 31.12,
-  "rank": 138,
+  "score": 31.76,
+  "rank": 135,
   "proposicoes": [
     {
       "id": 2609056,
@@ -86,6 +86,12 @@
       "sigla": "CDC",
       "cargo": "Suplente",
       "desde": "2026-02-25T00:00"
+    },
+    {
+      "nome": "Comissão de Indústria, Comércio e Serviços",
+      "sigla": "CICS",
+      "cargo": "Titular",
+      "desde": "2026-04-14T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220641/votacoes-nominais-plenario/2026"

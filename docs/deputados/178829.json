@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
-  "score": 30.48,
-  "rank": 150,
+  "score": 31.08,
+  "rank": 145,
   "proposicoes": [
     {
       "id": 2610128,
@@ -42,6 +42,15 @@
       "ementa": "Altera o art. 22 da Lei nº 14.751, de 12 de dezembro de 2023, que institui a Lei Orgânica Nacional das Polícias Militares, para prever o direito de averbação do tempo de exercício de mandato eletivo para fins de inatividade dos militares estaduais a quem esteja exercendo o mandato ou tenha exercido.",
       "data": "2026-04-07T10:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613586"
+    },
+    {
+      "id": 2615718,
+      "tipo": "PL",
+      "numero": 1799,
+      "ano": 2026,
+      "ementa": "Institui a categoria \"Veículo Off-Road de Uso Misto\" no Código de Trânsito Brasileiro, regulamenta a elevação da suspensão de caminhonetes, jipes e veículos utilitários e dá outras providências.",
+      "data": "2026-04-14T11:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615718"
     }
   ],
   "discursos": [],

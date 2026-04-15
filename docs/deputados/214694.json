@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/214694.jpg",
-  "score": 29.74,
-  "rank": 176,
+  "score": 30.41,
+  "rank": 162,
   "proposicoes": [
     {
       "id": 2614624,
@@ -50,6 +50,12 @@
       "sigla": "CCTI",
       "cargo": "Suplente",
       "desde": "2026-03-04T00:00"
+    },
+    {
+      "nome": "Comissão de Indústria, Comércio e Serviços",
+      "sigla": "CICS",
+      "cargo": "Titular",
+      "desde": "2026-04-14T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/214694/votacoes-nominais-plenario/2026"

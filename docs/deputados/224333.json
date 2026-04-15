@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/224333.jpg",
-  "score": 31.39,
-  "rank": 134,
+  "score": 32.33,
+  "rank": 122,
   "proposicoes": [
     {
       "id": 2610262,
@@ -42,9 +42,25 @@
       "ementa": "Institui a TerraBras, empresa pública destinada à defesa da soberania nacional e ao aproveitamento dos minerais críticos ou estratégicos; estabelece o regime de partilha da produção mineral; altera o Decreto-Lei nº 227, de 28 de fevereiro de 1967, a Lei nº 8.970, de 28 de dezembro de 1994, e a Lei nº 13.575, de 26 de dezembro de 2017; e dá outras providências.",
       "data": "2026-04-10T14:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615287"
+    },
+    {
+      "id": 2615935,
+      "tipo": "PL",
+      "numero": 1808,
+      "ano": 2026,
+      "ementa": "Proíbe a exploração, a oferta, a promoção e a facilitação de apostas de quota fixa em todo o território nacional, revoga dispositivos das Leis nº 13.756, de 12 de dezembro de 2018, e nº 14.790, de 29 de dezembro de 2023, estabelece medidas de bloqueio de acesso, remoção de aplicações, interrupção de fluxos financeiros, responsabilização de intermediários e proteção de conteúdos de interesse público, e dá outras providências.",
+      "data": "2026-04-14T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615935"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-14T18:28",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. WELTER (Bloco/PT - PR. Pela ordem. Sem revisão do orador.) - Presidente, o País está praticamente em pleno emprego. O Brasil se articulou no mundo com mais de 500 mercados da agricultura. Nós vo",
+      "transcricao": "O SR. WELTER (Bloco/PT - PR. Pela ordem. Sem revisão do orador.) - Presidente, o País está praticamente em pleno emprego. O Brasil se articulou no mundo com mais de 500 mercados da agricultura. Nós votamos aqui, em março de 2023, a correção do salário mínimo acima da inflação. Decisão recente: isentamos o Imposto de Renda quem ganha até 5 mil reais. A nossa oposição parece que está no mundo da lua. Não acredito em estatística. O pleno emprego é em todos os lugares praticamente do País. As empresas estão adotando a estratégia de importar imigrantes para cobrir os turnos; senão, têm que fechar turnos de serviço, porque, realmente, o País está com a economia crescendo, gerando empregos, inflação controlada, dólar abaixo de 5 reais no dia de hoje e a Bolsa batendo recorde. Só não vê quem não quer. Esta é a política real. Isso é economia; o resto é estupidez."
+    },
     {
       "data": "2026-04-08T20:20",
       "fase": "Ordem do Dia",

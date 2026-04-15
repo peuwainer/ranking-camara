@@ -4,8 +4,8 @@
   "partido": "PV",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
-  "score": 10.69,
-  "rank": 470,
+  "score": 11.37,
+  "rank": 467,
   "proposicoes": [],
   "discursos": [
     {
@@ -28,6 +28,12 @@
       "sigla": "CMO",
       "cargo": "Titular",
       "desde": "2025-09-01T00:00"
+    },
+    {
+      "nome": "Comissão de Indústria, Comércio e Serviços",
+      "sigla": "CICS",
+      "cargo": "Titular",
+      "desde": "2026-04-14T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178927/votacoes-nominais-plenario/2026"

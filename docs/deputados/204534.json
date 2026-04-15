@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204534.jpg",
-  "score": 34.5,
-  "rank": 69,
+  "score": 35.11,
+  "rank": 66,
   "proposicoes": [
     {
       "id": 2608992,
@@ -42,6 +42,15 @@
       "ementa": "Dispõe sobre a proteção da identidade pessoal contra a criação e a difusão não autorizadas de réplicas digitais.",
       "data": "2026-03-27T15:27",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612588"
+    },
+    {
+      "id": 2616055,
+      "tipo": "PL",
+      "numero": 1827,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.211, de 17 de setembro de 2025, para instituir a Política Nacional de Parentalidade Digital e, estabelecer restrições ao acesso de menores de 16 anos a redes sociais.",
+      "data": "2026-04-14T19:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616055"
     }
   ],
   "discursos": [],
