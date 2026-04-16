@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160604.jpg",
-  "score": 50.92,
-  "rank": 5,
+  "score": 51.92,
+  "rank": 4,
   "proposicoes": [
     {
       "id": 2609483,
@@ -168,9 +168,34 @@
       "ementa": "Proíbe a exploração, a oferta, a promoção e a facilitação de apostas de quota fixa em todo o território nacional, revoga dispositivos das Leis nº 13.756, de 12 de dezembro de 2018, e nº 14.790, de 29 de dezembro de 2023, estabelece medidas de bloqueio de acesso, remoção de aplicações, interrupção de fluxos financeiros, responsabilização de intermediários e proteção de conteúdos de interesse público, e dá outras providências.",
       "data": "2026-04-14T15:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615935"
+    },
+    {
+      "id": 2616663,
+      "tipo": "PL",
+      "numero": 1853,
+      "ano": 2026,
+      "ementa": "Autoriza a União a instituir empresa estatal, ou subsidiária de sociedade de economia mista federal, para atuar na distribuição de combustíveis, biocombustíveis e gás liquefeito de petróleo (GLP), autoriza a recomposição da presença pública em ativos estratégicos do abastecimento nacional, e estabelece diretrizes para a soberania energética, a segurança do abastecimento, a modicidade de preços e a defesa do consumidor.",
+      "data": "2026-04-15T15:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616663"
+    },
+    {
+      "id": 2616960,
+      "tipo": "EMP",
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+      "data": "2026-04-15T20:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616960"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-15T20:48",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. PEDRO UCZAI (Bloco/PT - SC. Pela ordem. Sem revisão do orador.) - Nossa bancada, da mesma forma, em relação às enchentes no Rio Grande do Sul, todos nós  catarinenses e brasileiros  nos solida",
+      "transcricao": "O SR. PEDRO UCZAI (Bloco/PT - SC. Pela ordem. Sem revisão do orador.) - Nossa bancada, da mesma forma, em relação às enchentes no Rio Grande do Sul, todos nós  catarinenses e brasileiros  nos solidarizamos e apoiamos. Mas, quando se trata de outro ato histórico, ligado ao Estado Democrático de Direito e ao rompimento da democracia, não concordamos e queremos registrar publicamente aqui que nos opomos ao mérito."
+    },
     {
       "data": "2026-04-14T20:44",
       "fase": "Ordem do Dia",

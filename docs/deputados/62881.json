@@ -4,9 +4,19 @@
   "partido": "PP",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/62881.jpg",
-  "score": 26.39,
-  "rank": 278,
-  "proposicoes": [],
+  "score": 28.33,
+  "rank": 225,
+  "proposicoes": [
+    {
+      "id": 2616664,
+      "tipo": "PL",
+      "numero": 1854,
+      "ano": 2026,
+      "ementa": "Institui o Dia Nacional do Corredor de Rua.",
+      "data": "2026-04-15T15:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616664"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-04-14T21:16",

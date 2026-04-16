@@ -4,10 +4,18 @@
   "partido": "REPUBLICANOS",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178881.jpg",
-  "score": 27.41,
-  "rank": 247,
+  "score": 28.07,
+  "rank": 231,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-15T16:24",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. ALUISIO MENDES (Bloco/REPUBLICANOS - MA. Sem revisão do orador.) - Muito obrigado, Presidente Charles. Eu subo a esta tribuna hoje, Presidente, para fazer uma cobrança, uma cobrança ao Senado Fe",
+      "transcricao": "O SR. ALUISIO MENDES (Bloco/REPUBLICANOS - MA. Sem revisão do orador.) - Muito obrigado, Presidente Charles. Eu subo a esta tribuna hoje, Presidente, para fazer uma cobrança, uma cobrança ao Senado Federal, que tem sido um verdadeiro coveiro de bons projetos da área de segurança pública. Votamos aqui, na Câmara Federal, no último dia 4 de março, por uma votação expressiva de mais de 461 votos, a PEC da Segurança Pública, um clamor da sociedade brasileira. Nós estávamos muito cobrados pela sociedade e pela imprensa, que todo dia cobrava do Presidente Hugo Motta e desta Casa a votação da PEC da Segurança Pública, um anseio de toda a sociedade brasileira. Pois bem, a Câmara fez o seu trabalho. Eu tenho muito orgulho de ter presidido a Comissão Especial da PEC da Segurança Pública, PEC que teve como Relator o Deputado Mendonça Filho, que fez um trabalho primoroso e entregou à sociedade brasileira um projeto que vai ao encontro do grande anseio da sociedade, que é mais segurança pública. Desde o dia 4 de março, esse projeto foi remetido ao Senado Federal, nem Relator há ainda. O Presidente Davi Alcolumbre não nomeou nenhum Relator para esse projeto. Nós temos que cobrar todos os dias do Presidente do Senado que a PEC da Segurança Pública tramite naquela Casa. Nós não podemos permitir, Presidente, que eles façam com a PEC da Segurança Pública o que fizeram com a PEC da Maioridade Penal, que nós votamos quando eu cheguei a esta Casa, em 2015. Passou 10 anos no Senado Federal sem ser apreciada, passou 10 anos. Hoje, ela caducou, não pode mais ser aprovada. Nós não podemos permitir que isso aconteça novamente. Hoje, o maior problema da sociedade brasileira é a segurança pública. A PEC não vai resolver todos os problemas, mas é um grande caminho para a gente começar a resolver o problema de segurança do nosso País. Ela traz mais investimentos, penas mais duras, ela acaba com a sensação de impunidade neste País. Ela proíbe o voto do preso, que não pode ter esse direito e tem vários outros avanços. A imprensa cobrou tanto da Câmara Federal a votação da PEC da Segurança Pública, que hoje está no Senado, mas não fala mais sobre isso. Nós precisamos cobrar, a sociedade precisa cobrar, esta Casa precisa cobrar que o Senado faça essa votação, o mais rápido possível, para que o Brasil possa viver tempos melhores e a paz social possa atingir nossa população. Sr. Presidente, gostaria que meu pronunciamento fosse divulgado nos meios de comunicação da Casa."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",

@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74060.jpg",
-  "score": 36.03,
-  "rank": 55,
+  "score": 35.69,
+  "rank": 53,
   "proposicoes": [
     {
       "id": 2609873,
@@ -63,6 +63,20 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-15T17:20",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DANIEL ALMEIDA (Bloco/PCdoB - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, a empresa Azul, que opera no nosso País, anunciou que vai fazer modificações em rotas, entre elas a de Vit",
+      "transcricao": "O SR. DANIEL ALMEIDA (Bloco/PCdoB - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, a empresa Azul, que opera no nosso País, anunciou que vai fazer modificações em rotas, entre elas a de Vitória da Conquista e a de Guanambi, diminuindo o fluxo de voos e substituindo aeronaves. As aeronaves já não são boas  um ATR que transporta 70 pessoas , e eles querem colocar um aviãozinho de 9 lugares, com voos esporádicos. Um absurdo, um desrespeito! Passagens caríssimas! Nós não podemos aceitar isso. A população de Guanambi e a de Vitória da Conquista, todos, estão apavorados e não aceitam isso. Eu pedi uma audiência pública na Comissão de Defesa do Consumidor, fiz um requerimento hoje. Pedi também uma audiência na ANAC para que a gente possa tratar desse problema, que não é só de Guanambi, de Vitória da Conquista; é um problema do Brasil inteiro. Eles estão desrespeitando o povo brasileiro. Voo regional é um desastre: o valor só aumenta e o serviço é de péssima qualidade. Então, eu quero avisar ao povo de Guanambi, ao povo de Vitória da Conquista, àqueles usuários que dependem desse transporte para movimentar a sua economia, que nós não vamos aceitar isso. Vamos fazer uma grande mobilização para impedir que esse absurdo se mantenha."
+    },
+    {
+      "data": "2026-04-15T16:44",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. DANIEL ALMEIDA (Bloco/PCdoB - BA. Sem revisão do orador.) - Sr. Presidente, Sras. Deputadas e Srs. Deputados, milhares de trabalhadores brasileiros se encontram em Brasília na marcha da Conferên",
+      "transcricao": "O SR. DANIEL ALMEIDA (Bloco/PCdoB - BA. Sem revisão do orador.) - Sr. Presidente, Sras. Deputadas e Srs. Deputados, milhares de trabalhadores brasileiros se encontram em Brasília na marcha da Conferência da Classe Trabalhadora do Brasil. As centrais sindicais e sindicatos trouxeram a agenda dos trabalhadores para entregar ao Poder Legislativo. Ainda há pouco, o Presidente Hugo Motta recebeu as centrais sindicais. Neste momento, estão no Palácio do Planalto. O Presidente Lula está recebendo essa agenda, também levando a agenda ao Poder Judiciário. No centro dessa agenda está a valorização do trabalho. Sem trabalho não há riqueza, não há geração de renda para nenhum cidadão, e o trabalho está precarizado no nosso País. Os trabalhadores estão perdendo direitos no nosso país, e isso não pode prevalecer. No centro está a redução da jornada de trabalho. Quando a Constituição de 1988 foi promulgada, estávamos no início da utilização de tecnologias eletrônicas no processo produtivo, ainda numa atividade muito rudimentar dessas tecnologias. Evoluiu para tecnologias digitais. Hoje estamos na era da Inteligência Artificial. A produtividade aumentou extraordinariamente, e o ser humano está cada vez mais sendo exigido para se manter conectado 24 horas por dia. Não é possível mais pensar numa jornada de 44 horas semanais e nessa escala 6 por 1. Essa coisa malvada, perversa, faz com que, em várias atividades  e acompanho de perto vários comerciários pelo Brasil afora , muitas vezes as mães não consigam encontrar seus filhos, porque só há um descanso na semana, e esse descanso às vezes ocorre numa segunda, numa terça ou numa quinta-feira, quando a criança está na escola. Portanto, não é possível mais permitir essa jornada. As pessoas precisam descansar, se divertir, mas também se qualificar permanentemente. É preciso estar sempre preparado para a utilização de novas tecnologias e cuidar da saúde mental. O principal problema hoje é o adoecimento mental que está afetando os trabalhadores. Por isso, temos certeza, Sr. Presidente, de que essa matéria será aprovada. Ela está tramitando e, apesar de haver gente querendo fazer manobra, vai ser aprovada nesta Casa. Como o Presidente Lula mandou um projeto em regime de urgência para a Câmara dos Deputados  são 45 dias para ele ser votado aqui , se a PEC não tramitar na velocidade necessária, esse projeto vai tramitar e os trabalhadores vão ter a jornada reduzida e o fim da escala 6 por 1. Sr. Presidente, é necessário cuidar, ao mesmo tempo, dos trabalhadores que estão prestando serviço nas plataformas digitais, os trabalhadores por aplicativo. Trata-se de uma escorcha, uma exploração, absolutamente inaceitável! Estão fazendo manobra, mas os trabalhadores estão atentos. Fizeram um relatório. Os trabalhadores foram para a rua, se mobilizaram, e o relatório foi retirado. Ele tem que voltar com a garantia de direitos daqueles que trabalham por aplicativo, como previdência, remuneração mínima, enfim, com garantias minimamente necessárias. Vamos à luta! Vivam os trabalhadores!"
+    },
     {
       "data": "2026-04-08T15:44",
       "fase": "Breves Comunicações",
@@ -126,12 +140,6 @@
       "desde": "2026-02-03T00:00"
     },
     {
-      "nome": "Comissão de Defesa do Consumidor",
-      "sigla": "CDC",
-      "cargo": "Titular",
-      "desde": "2026-02-04T00:00"
-    },
-    {
       "nome": "Comissão de Trabalho",
       "sigla": "CTRAB",
       "cargo": "Suplente",
@@ -148,6 +156,12 @@
       "sigla": "SUBFGTS",
       "cargo": "Titular",
       "desde": "2026-03-25T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa do Consumidor",
+      "sigla": "CDC",
+      "cargo": "1º Vice-Presidente",
+      "desde": "2026-04-15T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/74060/votacoes-nominais-plenario/2026"

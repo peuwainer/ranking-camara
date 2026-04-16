@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220620.jpg",
-  "score": 30.81,
-  "rank": 149,
+  "score": 32.59,
+  "rank": 115,
   "proposicoes": [
     {
       "id": 2613071,
@@ -24,6 +24,24 @@
       "ementa": "Institui o Programa Nacional de Apoio à Recuperação de Mulheres Submetidas a Cirurgias Reparadoras no âmbito do Sistema Único de Saúde (SUS), para garantir o fornecimento de insumos pós-cirúrgicos essenciais, e dá outras providências. (Lei Ester Pontes)",
       "data": "2026-04-07T15:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613830"
+    },
+    {
+      "id": 2616617,
+      "tipo": "PL",
+      "numero": 1850,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), e a Lei nº 13.140, de 26 de junho de 2015 (Lei de Mediação), para dispor sobre a remuneração de conciliadores e mediadores judiciais, autorizar a criação de Varas de Conciliação no âmbito da Justiça Estadual e da Justiça Federal, e dá outras providências.",
+      "data": "2026-04-15T14:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616617"
+    },
+    {
+      "id": 2616618,
+      "tipo": "PL",
+      "numero": 1851,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de cobertura, pelos planos privados de assistência à saúde, de cirurgias robóticas indicadas para tratamento de neoplasias malignas (câncer), independentemente de previsão no rol de procedimentos da Agência Nacional de Saúde Suplementar (ANS), e dá outras providências.",
+      "data": "2026-04-15T14:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616618"
     }
   ],
   "discursos": [],

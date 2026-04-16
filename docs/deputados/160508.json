@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160508.jpg",
-  "score": 3.99,
-  "rank": 501,
+  "score": 4.75,
+  "rank": 503,
   "proposicoes": [
     {
       "id": 2615287,
@@ -33,9 +33,26 @@
       "ementa": "Proíbe a exploração, a oferta, a promoção e a facilitação de apostas de quota fixa em todo o território nacional, revoga dispositivos das Leis nº 13.756, de 12 de dezembro de 2018, e nº 14.790, de 29 de dezembro de 2023, estabelece medidas de bloqueio de acesso, remoção de aplicações, interrupção de fluxos financeiros, responsabilização de intermediários e proteção de conteúdos de interesse público, e dá outras providências.",
       "data": "2026-04-14T15:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615935"
+    },
+    {
+      "id": 2616663,
+      "tipo": "PL",
+      "numero": 1853,
+      "ano": 2026,
+      "ementa": "Autoriza a União a instituir empresa estatal, ou subsidiária de sociedade de economia mista federal, para atuar na distribuição de combustíveis, biocombustíveis e gás liquefeito de petróleo (GLP), autoriza a recomposição da presença pública em ativos estratégicos do abastecimento nacional, e estabelece diretrizes para a soberania energética, a segurança do abastecimento, a modicidade de preços e a defesa do consumidor.",
+      "data": "2026-04-15T15:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616663"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-15T15:20",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. AFONSO FLORENCE (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Sras. Deputadas, Srs. Deputados, Presidente, quero dirigir-me ao povo da Bahia para dizer que o Prefeito de Salvador Bruno R",
+      "transcricao": "O SR. AFONSO FLORENCE (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Sras. Deputadas, Srs. Deputados, Presidente, quero dirigir-me ao povo da Bahia para dizer que o Prefeito de Salvador Bruno Reis, e o ex-Prefeito ACM, derrotado em 2022, estão nervosos. Por quê? Criticavam a saúde; inauguramos 26 policlínicas, há mais seis em construção, 32 policlínicas, mais de 3 mil leitos de hospital, mais de 100 escolas de tempo integral, iniciadas e inauguradas no Governo de Jerônimo, o melhor Governador da história da Bahia. E, ao mesmo tempo, iniciamos a obra do VLT, que anda rápido, a obra do metrô lá para Campo Grande, a nova rodoviária e em 4 de junho inicia a obra da ponte. O Prefeito Bruno Reis está com o alvará na mão para entregar; e ACM disse que não sabe de obra. Não sabe de obra porque nunca fez nada do mesmo quilate. Estão desesperados e vão ser derrotados este ano na eleição de outubro. Obrigado. Peço divulgação no programa A Voz do Brasil."
+    }
+  ],
   "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/160508/votacoes-nominais-plenario/2026"
 }

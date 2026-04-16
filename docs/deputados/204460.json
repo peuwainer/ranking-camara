@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg",
-  "score": 36.61,
-  "rank": 48,
+  "score": 35.3,
+  "rank": 61,
   "proposicoes": [
-    {
-      "id": 2608967,
-      "tipo": "PRC",
-      "numero": 9,
-      "ano": 2026,
-      "ementa": "Acrescenta o parágrafo § 6º ao art. 39 do Regimento Interno da Câmara dos Deputados, para estabelecer que os cargos de Presidente e de Vice-Presidentes da Comissão de Defesa dos Direitos da Mulher sejam ocupados exclusivamente por Deputadas do sexo feminino.",
-      "data": "2026-03-16T11:53",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608967"
-    },
     {
       "id": 2613995,
       "tipo": "EMP",
@@ -36,6 +27,20 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-15T20:28",
+      "fase": "Ordem do Dia",
+      "tipo": "ENCAMINHAMENTO DE VOTAÇÃO",
+      "resumo": "O SR. CARLOS JORDY (PL - RJ. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, eu estava até conversando ali com alguns Deputados para tentar esclarecer um pouco sobre esse projeto, que é um p",
+      "transcricao": "O SR. CARLOS JORDY (PL - RJ. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, eu estava até conversando ali com alguns Deputados para tentar esclarecer um pouco sobre esse projeto, que é um pouco complexo e gera algumas dúvidas. Eu peço a atenção aqui porque isso é algo que está, inclusive, sendo alvo de uma ação do STJ, o que acabou gerando uma grande cobrança indevida, grandes prejuízos para condomínios, As concessionárias de água, antes, cobravam daqueles condomínios que tinham apenas um hidrômetro o consumo que era feito pelo prédio inteiro, dividido por todas as unidades. Eles passaram depois a arbitrar uma tarifa mínima por cada unidade, que é muito acima do que foi consumido e do que deveria ser cobrado de cada uma delas. Existem unidades, por exemplo, que estão vazias. Há apartamentos, salas comerciais que estão vazias e estão tendo que pagar, às vezes, 3 vezes mais pela tarifa de água que deveria ser cobrado se fosse pela regra anterior. Para condomínios que têm apenas um hidrômetro, apenas um medidor de água, nesse caso, a cobrança deve ser distribuída entre todos os apartamentos, todas as salas comerciais, todas as unidades, e não com uma cobrança exagerada, excessiva, uma tarifa mínima que, na verdade, acaba sendo um valor excessivamente alto, que onera as famílias. Eu vejo na minha cidade muitos prédios, condomínios comerciais, inclusive, falirem por conta desse arbítrio de concessionárias que acabam abusando do poder que foi delegado a elas pelo poder público e, assim, gerando muitos transtornos às famílias. Por isso, eu peço que aprovemos esta urgência."
+    },
+    {
+      "data": "2026-04-15T20:16",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. CARLOS JORDY (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, a Minoria libera. E eu quero dizer, Presidente, que caiu por terra uma narrativa: a narrativa que o Governo vinha faz",
+      "transcricao": "O SR. CARLOS JORDY (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, a Minoria libera. E eu quero dizer, Presidente, que caiu por terra uma narrativa: a narrativa que o Governo vinha fazendo de que Ramagem tinha sido preso graças a uma cooperação mútua entre a Polícia Federal e o Immigration and Customs Enforcement's  ICE. Hoje, comprova-se, na verdade, que essa narrativa não passou de lorota. Ramagem já está solto. Tudo foi um problema de imigração e, portanto, nada tem a ver com o problema fictício jurídico que ele vive aqui no País. Essa ditadura do Judiciário não é endossada pelos Estados Unidos. Por isso, agora, Ramagem já está em segurança em sua casa nos Estados Unidos. Caiu por terra a mentira. E nós vamos, com certeza, fazer prevalecer a verdade, ganhando a eleição este ano e tirando do poder essa tirania, esse pessoal que defende a ditadura do Judiciário. A Oposição libera também."
+    },
     {
       "data": "2026-04-14T17:52",
       "fase": "Breves Comunicações",

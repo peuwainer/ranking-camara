@@ -4,18 +4,9 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220669.jpg",
-  "score": 25.93,
-  "rank": 288,
+  "score": 24.76,
+  "rank": 319,
   "proposicoes": [
-    {
-      "id": 2609096,
-      "tipo": "PL",
-      "numero": 1190,
-      "ano": 2026,
-      "ementa": "Altera a Lei dos Planos de Saúde para vedar às operadoras de planos privados de assistência à saúde a imposição de limites ao número de sessões ou à carga horária semanal de terapias multidisciplinares prescritas pelo profissional assistente.",
-      "data": "2026-03-16T18:43",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609096"
-    },
     {
       "id": 2611230,
       "tipo": "PL",
@@ -123,6 +114,15 @@
       "ementa": "Altera o Código de Defesa do Consumidor para dispor sobre a responsabilidade das instituições financeiras por fraudes decorrentes da não interrupção de operações atípicas",
       "data": "2026-04-14T19:26",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616076"
+    },
+    {
+      "id": 2616797,
+      "tipo": "PL",
+      "numero": 1870,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Proteção Integral a Crianças e Adolescentes em Situação de Orfandade por Feminicídio.",
+      "data": "2026-04-15T19:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616797"
     }
   ],
   "discursos": [

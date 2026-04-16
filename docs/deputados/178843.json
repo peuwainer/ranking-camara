@@ -4,10 +4,18 @@
   "partido": "PP",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178843.jpg",
-  "score": 18.04,
-  "rank": 431,
+  "score": 18.27,
+  "rank": 430,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-15T21:52",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MARX BELTRÃO (Bloco/PP - AL. Pela ordem. Sem revisão do orador.) - Só quero agradecer, Presidente, pelas suas colocações. O Deputado Passarinho, em nome do Partido Liberal, propôs-nos um acordo ",
+      "transcricao": "O SR. MARX BELTRÃO (Bloco/PP - AL. Pela ordem. Sem revisão do orador.) - Só quero agradecer, Presidente, pelas suas colocações. O Deputado Passarinho, em nome do Partido Liberal, propôs-nos um acordo junto à Presidência para que, amanhã, fizéssemos um diálogo com o Ministério da Justiça, a fim de tratar de alguns pontos divergentes. Entendo o posicionamento do Ministério da Justiça de que qualquer tipo de mudança deve ser feito em comum acordo com a Casa Civil, e o Relator irá atender a isso. Caso o Ministério da Justiça e a Casa Civil se posicionem contra as propostas apresentadas pelo Deputado Passarinho, que é Presidente da Comissão de Minas e Energia, o próprio Deputado apoiará o nosso projeto e retirará a obstrução do Partido Liberal."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a acompanhar e fiscalizar os danos sociais, ambientais e econômicos, dentre outros, causados pelo afundamento do solo na cidade de Maceió-AL",

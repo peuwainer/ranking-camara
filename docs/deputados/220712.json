@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220712.jpg",
-  "score": 24.09,
-  "rank": 333,
+  "score": 25.47,
+  "rank": 305,
   "proposicoes": [
     {
       "id": 2609682,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 11.738, de 16 de julho de 2008, para vedar a alteração da carga horária dos profissionais do magistério público por meio de ato infralegal e dá outras providências.",
       "data": "2026-03-17T18:51",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609756"
+    },
+    {
+      "id": 2616635,
+      "tipo": "PLP",
+      "numero": 104,
+      "ano": 2026,
+      "ementa": "Autoriza, no prazo que especifica, o retorno ao Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional) dos optantes excluídos desse regime tributário em 1º de janeiro de 2026.",
+      "data": "2026-04-15T14:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616635"
     }
   ],
   "discursos": [],

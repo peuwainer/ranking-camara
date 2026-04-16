@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220666.jpg",
-  "score": 32.43,
-  "rank": 118,
+  "score": 33.02,
+  "rank": 103,
   "proposicoes": [
     {
       "id": 2612333,
@@ -35,7 +35,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614916"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-15T19:48",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. CORONEL MEIRA (PL - PE. Pela ordem. Sem revisão do orador.) - Boa noite, Brasil. Estou muito feliz aqui. Ramagem está em casa. Está aí, Brasil! Ramagem está em casa. Eu quero aqui agradecer a es",
+      "transcricao": "O SR. CORONEL MEIRA (PL - PE. Pela ordem. Sem revisão do orador.) - Boa noite, Brasil. Estou muito feliz aqui. Ramagem está em casa. Está aí, Brasil! Ramagem está em casa. Eu quero aqui agradecer a este guerreiro Eduardo Bolsonaro, que não abandonou o nosso grande amigo e irmão Ramagem. Quero agradecer ao Paulo Figueiredo, quero agradecer à Ludmila, enfim, à Justiça americana. Lula, você não estava dizendo que Ramagem ia chegar preso? Lula, espera um pouquinho mais. Lindbergh Farias, chupa que é de uva! Nós estamos mudando, a chave está virando, e é isso o que a gente coloca com muita clareza. Dárcio Bracarense está aqui ao meu lado, um grande guerreiro também. A gente não vai abrir mão... Vamos vencer e vamos vencer no voto, no voto limpo, no voto conservador do povo brasileiro. Basta de corrupção, o Brasil não aguenta mais essa corrupção desenfreada desse Governo que aí está. E o povo está clamando por segurança pública. Vamos em frente, Brasil!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a fiscalizar e acompanhar in loco a atual situação que se encontra a transposição do rio São Francisco",

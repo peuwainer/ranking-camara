@@ -4,10 +4,27 @@
   "partido": "UNIÃO",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204391.jpg",
-  "score": 17.72,
-  "rank": 434,
-  "proposicoes": [],
+  "score": 18.64,
+  "rank": 424,
+  "proposicoes": [
+    {
+      "id": 2616685,
+      "tipo": "PL",
+      "numero": 1856,
+      "ano": 2026,
+      "ementa": "Institui o Regime Especial de Transporte Público Coletivo do Entorno do Distrito Federal e dá outras providências.",
+      "data": "2026-04-15T16:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616685"
+    }
+  ],
   "discursos": [
+    {
+      "data": "2026-04-15T17:28",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. JOSÉ NELTO (Bloco/UNIÃO - GO. Sem revisão do orador.) - Sr. Presidente, Srs. Parlamentares, imprensa brasileira, eu quero falar de um projeto de lei do nosso colega, Deputado Federal Domingos Ne",
+      "transcricao": "O SR. JOSÉ NELTO (Bloco/UNIÃO - GO. Sem revisão do orador.) - Sr. Presidente, Srs. Parlamentares, imprensa brasileira, eu quero falar de um projeto de lei do nosso colega, Deputado Federal Domingos Neto, que é o Projeto de Lei nº 5.122/2023. Esse projeto de lei trata de perdoar parte das dívidas dos produtores rurais para que eles possam se recuperar das perdas por secas, enchentes e outros desastres, reduzindo o risco da falência e o êxodo rural. Esse projeto tem como Relator no Senado da República o Senador Renan Calheiros. Ontem, eu tive uma conversa com o Senador Calheiros. Nós precisamos ampliar esse projeto. Já que o Governo Federal está perdoando dívidas, refinanciando dívidas do cartão de crédito e também do cheque especial, Srs. Parlamentares, hoje os produtores rurais estão falidos. Quem não faliu vai falir, diante dos juros astronômicos. Os maiores juros hoje cobrados no planeta acontecem aqui no Brasil, pelo Banco do Brasil e também pela Caixa Econômica Federal. A agricultura brasileira está falida, produtores perdendo as suas propriedades rurais, pequenos produtores, médios produtores, grandes produtores. É preciso que o Ministro, que o nosso Senador da República possam ter um encontro com a Frente Parlamentar da Agropecuária para que a gente possa fazer um projeto amplo. Sr. Deputado, no período do ex-Presidente Fernando Henrique Cardoso, houve o perdão de grande parte das dívidas, porque é juros sobre juros. Vejam, Srs. Parlamentares, que a Constituição Brasileira garante juros de 12%. Mas, no Brasil, pasmem, Srs. Parlamentares, juros são compostos, chegando de 16% a 20%. Srs. Deputados, há juros chegando a 20%! A conta não fecha! O Governo já está preocupado com endividamento pessoal, cartão de crédito e também cheque especial, porque os juros chegam a 350%. Nós não podemos aceitar o que acontece no Brasil. O Brasil é o País dos banqueiros. Quem manda no Brasil são os banqueiros. O Presidente da República, o inquilino do Palácio do Planalto, e o Ministro da Fazenda também são comandados pelos banqueiros, que ditam as normas. Então, Srs. Parlamentares, vamos agir na defesa dos produtores rurais endividados. Gostaria que meu pronunciamento constasse no programa A Voz do Brasil."
+    },
     {
       "data": "2026-04-07T18:20",
       "fase": "Ordem do Dia",

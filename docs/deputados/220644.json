@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220644.jpg",
-  "score": 33.0,
-  "rank": 106,
+  "score": 34.03,
+  "rank": 82,
   "proposicoes": [
-    {
-      "id": 2608967,
-      "tipo": "PRC",
-      "numero": 9,
-      "ano": 2026,
-      "ementa": "Acrescenta o parágrafo § 6º ao art. 39 do Regimento Interno da Câmara dos Deputados, para estabelecer que os cargos de Presidente e de Vice-Presidentes da Comissão de Defesa dos Direitos da Mulher sejam ocupados exclusivamente por Deputadas do sexo feminino.",
-      "data": "2026-03-16T11:53",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608967"
-    },
     {
       "id": 2609224,
       "tipo": "PL",
@@ -60,9 +51,34 @@
       "ementa": "Institui o Sistema Nacional de Alerta e Visibilidade de Crianças e Adolescentes Desaparecidos, estabelecendo a obrigatoriedade de difusão de imagens em veículos de comunicação, e dá outras providências.",
       "data": "2026-04-07T16:29",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613882"
+    },
+    {
+      "id": 2616736,
+      "tipo": "PL",
+      "numero": 1859,
+      "ano": 2026,
+      "ementa": "Estabelece impedimentos à concessão, renovação ou manutenção de incentivos, benefícios, isenções, subvenções, ou créditos presumidos de natureza fiscal ou creditícia e doações ou empréstimos a pessoas jurídicas cujos sócios ou administradores possuam condenações por atos de corrupção, crimes contra a ordem tributária e participação em organizações criminosas ou milícias; altera a Lei nº 12.846, de 1º de agosto de 2013, e dá outras providências.",
+      "data": "2026-04-15T17:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616736"
+    },
+    {
+      "id": 2616737,
+      "tipo": "PL",
+      "numero": 1860,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para aumentar a pena do crime de estelionato e estabelecer agravante quando a conduta envolver a utilização de dados processuais ou a falsa identidade de profissionais da justiça, bem como para majorar a punição do crime de falsidade ideológica em documentos de origem processual, judicial ou advocatícia.",
+      "data": "2026-04-15T17:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616737"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-15T14:56",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. ROSANGELA MORO (PL - SP. Sem revisão da oradora.) - Obrigada, Sr. Presidente. Hoje subo a esta tribuna, Sr. Presidente, para falar como a sociedade brasileira está sofrendo. Além dos juros altí",
+      "transcricao": "A SRA. ROSANGELA MORO (PL - SP. Sem revisão da oradora.) - Obrigada, Sr. Presidente. Hoje subo a esta tribuna, Sr. Presidente, para falar como a sociedade brasileira está sofrendo. Além dos juros altíssimos, as pessoas que precisam do Benefício de Prestação Continuada do INSS, que são os idosos e as pessoas com deficiência, tiveram a bela notícia de que, há 6 meses, a análise dos procedimentos está suspensa. Assim não bastasse, a fila para as perícias, que não do BPC no INSS, está em 2,7 milhões de pessoas, tanto que essa inoperância foi motivo da substituição do dirigente desse órgão. A Selic está altíssima. E a cereja do bolo desta desgraça do Governo do PT é o endividamento das famílias. Temos 80% das famílias endividadas, com quase 50% da renda de tudo que essa família ganha, ou seja, metade dessa renda, comprometida para pagar dívida. Antes mesmo de chegar a conta, os recursos vão para o pagamento de dívidas. E o que o Governo Federal está fazendo, Sr. Presidente, para melhorar a situação de vida dessas pessoas? E não adianta ele colocar a culpa dos juros altos no Banco Central, porque a fixação da Selic, da taxa de juros, é um reflexo da economia e da contabilidade da União Federal. Há exatamente 1 ano, a Ministra do Planejamento, Simone Tebet, deu entrevista e disse que independentemente de quem seja o Presidente, em 2027, ele não conseguirá governar, porque este Governo não corta gastos. Agora mesmo está levando uma super comitiva para a Europa, com despesas absolutamente desnecessárias. Mas para o brasileiro endividado, em menos de 4 anos, e esse é o segundo programa que o Governo lança para amenizar a situação das pessoas, o que o Governo faz? Ele dá ao brasileiro um presente grego: vai liberar o FGTS, que já é uma poupança compulsória dessas pessoas, dos trabalhadores, que o partido do Governo Federal diz defender, mas vai lá e praticamente usa o dinheiro que já é do trabalhador, do seu Fundo de Garantia, da sua poupança compulsória. Portanto, meus caros, o Brasil não aguenta mais 4 anos de PT. Se em três mandatos ao todo, mais dois de outra Presidente do PT, a gente tem essa experiência de que a nossa economia não cresce, de que o nosso País não se desenvolve, nós não podemos permitir mais 4 anos de Governo Lula ou do PT. Obrigada, Presidente."
+    },
     {
       "data": "2026-03-25T17:20",
       "fase": "Ordem do Dia",

@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204501.jpg",
-  "score": 32.07,
-  "rank": 127,
+  "score": 32.99,
+  "rank": 105,
   "proposicoes": [
     {
       "id": 2612935,
@@ -51,6 +51,15 @@
       "ementa": "Dispõe sobre a prorrogação do prazo para pagamento de multas relacionadas ao sistema de cobrança automática de pedágios free flow, estabelece medidas de caráter educativo e dá outras providências.",
       "data": "2026-04-14T17:56",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616018"
+    },
+    {
+      "id": 2616663,
+      "tipo": "PL",
+      "numero": 1853,
+      "ano": 2026,
+      "ementa": "Autoriza a União a instituir empresa estatal, ou subsidiária de sociedade de economia mista federal, para atuar na distribuição de combustíveis, biocombustíveis e gás liquefeito de petróleo (GLP), autoriza a recomposição da presença pública em ativos estratégicos do abastecimento nacional, e estabelece diretrizes para a soberania energética, a segurança do abastecimento, a modicidade de preços e a defesa do consumidor.",
+      "data": "2026-04-15T15:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616663"
     }
   ],
   "discursos": [

@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204396.jpg",
-  "score": 21.08,
-  "rank": 386,
+  "score": 23.17,
+  "rank": 352,
   "proposicoes": [
     {
       "id": 2610602,
@@ -15,6 +15,24 @@
       "ementa": "Altera o Decreto-lei nº 227, de 28 de fevereiro de 1967, a fim de estabelecer prazo de 60 (sessenta) dias para o órgão competente realizar leilão de área desonerada de até 50 (cinquenta) hectares e sua disponibilidade por meio de requerimento simples após exaurimento do prazo estipulado para leilão.",
       "data": "2026-03-18T19:46",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610602"
+    },
+    {
+      "id": 2616615,
+      "tipo": "PL",
+      "numero": 1848,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, a fim de instituir atualização anual da base de cálculo da tributação do Imposto sobre a Renda das Pessoas Físicas.",
+      "data": "2026-04-15T14:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616615"
+    },
+    {
+      "id": 2616665,
+      "tipo": "PLP",
+      "numero": 105,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 224, de 26 de dezembro de 2025, para retirar o regime de lucro presumido da redução dos incentivos e benefícios federais de natureza tributária.",
+      "data": "2026-04-15T15:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616665"
     }
   ],
   "discursos": [],

@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 44.06,
+  "score": 43.23,
   "rank": 13,
   "proposicoes": [
-    {
-      "id": 2608995,
-      "tipo": "PL",
-      "numero": 1174,
-      "ano": 2026,
-      "ementa": "Institui a Lei Mariana Ferreira, que cria o Programa Nacional de Escuta, Monitoramento e Acompanhamento Psicossocial das Mães Atípicas, no âmbito do Sistema Único de Saúde (SUS) e do Sistema Único de Assistência Social (SUAS), e dá outras providências.",
-      "data": "2026-03-16T13:41",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2608995"
-    },
     {
       "id": 2610158,
       "tipo": "PL",
@@ -159,6 +150,15 @@
       "ementa": "Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para dispor sobre a não aplicação da cota de aprendizagem às empresas de segurança privada.",
       "data": "2026-04-14T11:34",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615733"
+    },
+    {
+      "id": 2616216,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Determina que colaboradores eventuais sejam obrigados a elaborar relatório de atividades das missões junto aos Ministros de Estado.",
+      "data": "2026-04-14T18:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616216"
     }
   ],
   "discursos": [

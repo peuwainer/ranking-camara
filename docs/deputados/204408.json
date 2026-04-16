@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204408.jpg",
-  "score": 27.37,
-  "rank": 254,
+  "score": 28.0,
+  "rank": 235,
   "proposicoes": [
     {
       "id": 2612889,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612893"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-15T15:52",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. GUSTINHO RIBEIRO (Bloco/PP - SE. Pela ordem. Sem revisão do orador.) - Presidente, eu gostaria de fazer um registro muito importante para o Estado de Sergipe. O Presidente Lula assinou hoje a or",
+      "transcricao": "O SR. GUSTINHO RIBEIRO (Bloco/PP - SE. Pela ordem. Sem revisão do orador.) - Presidente, eu gostaria de fazer um registro muito importante para o Estado de Sergipe. O Presidente Lula assinou hoje a ordem de serviço para o início de uma obra de fundamental importância para o nosso Estado, uma obra de mais de 82 milhões de reais, que vai construir praticamente uma nova estação de tratamento de água para atender a nossa Capital, Aracaju, e os Municípios no seu entorno. Eu quero também parabenizar o Governo do Estado e o Governador Fábio Mitidieri, que desde o início esteve preocupado. Ele me acionou aqui alguns meses atrás para que a gente articulasse e viabilizasse recurso junto ao Ministério das Cidades. Hoje o Presidente Lula assinou a ordem de serviço, e eu tenho que fazer justiça, fazer este registro aqui. Aproveito para registrar também o nosso Deputado Rubens Júnior, esse grande amigo do PT do Maranhão. Como eu dizia, Presidente, aquela obra vai resolver o problema que está acontecendo lá em nosso Estado, o abastecimento de água. O Governo do Estado, preocupado com essa situação, veio a nos acionar, e hoje eu comemoro e celebro aqui a conquista dessa grande obra, desses 82 milhões de reais que estão sendo investidos em Aracaju para resolver o problema de Barra dos Coqueiros e de Nossa Senhora do Socorro, cidades grandes ali no entorno da nossa Capital. Nós iremos triplicar a produção de água para atender Aracaju e a Grande Aracaju. Eu peço a V.Exa. que encaminhe este registro para os meios de comunicação, inclusive para programa A Voz do Brasil. Muito obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados",
