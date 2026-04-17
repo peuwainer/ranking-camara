@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160545.jpg",
-  "score": 25.48,
-  "rank": 301,
-  "proposicoes": [],
+  "score": 25.79,
+  "rank": 266,
+  "proposicoes": [
+    {
+      "id": 2617171,
+      "tipo": "PL",
+      "numero": 1884,
+      "ano": 2026,
+      "ementa": "Dá nova redação ao art. 528 da Lei nº 13.105, de 16 de março de 2015 - Código de Processo Civil.",
+      "data": "2026-04-16T15:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617171"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

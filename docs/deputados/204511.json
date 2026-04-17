@@ -4,18 +4,9 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204511.jpg",
-  "score": 23.21,
-  "rank": 350,
+  "score": 23.58,
+  "rank": 327,
   "proposicoes": [
-    {
-      "id": 2610113,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre transmissão de informes educativos sobre o sistema político brasileiro pelas emissoras de televisão.",
-      "data": "2026-03-17T19:08",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610113"
-    },
     {
       "id": 2611730,
       "tipo": "SBT",
@@ -80,15 +71,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615337"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-03-17T14:32",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. DAVID SOARES (Bloco/UNIÃO - SP. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, hoje, tivemos a triste notícia do falecimento do neto da Deborah Colker, uma pessoa muito ex",
-      "transcricao": "O SR. DAVID SOARES (Bloco/UNIÃO - SP. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, hoje, tivemos a triste notícia do falecimento do neto da Deborah Colker, uma pessoa muito experiente na área da cultura. Ele morreu, aos 14 anos de idade, por causa de uma doença rara que, assim como outras que afetam milhares de brasileiros, não tem cura. Eu acho que esta Casa tem que fazer o dever de casa e colocar, de uma vez por todas, um fundo turbinado para pesquisa no Orçamento. O Ministério da Saúde já tomou a grande ação de permitir a incorporação do Zolgesma no SUS, um remédio que custa entre 7 milhões a 11 milhões de reais e está salvando a vida de muitas crianças. São mais de 130 doses deste medicamento que serão aplicadas em 2027. Sr. Presidente, além deste clamor, eu quero fazer um apelo ao Secretário de Saúde Eleuses Paiva para que ele olhe com muito carinho o Hospital Geral São Mateus, na Zona Leste de São Paulo, que está numa situação terrível e precisa de toda a atenção tanto no que se refere às bolsas de plasma, que ficam abertas; ao risco de infecção, que está gravíssimo; e ao atendimento, que não está bom. Sr. Governador Tarcísio, a quem nós encaminhamos este vídeo, e Sr. Secretário Eleuses Paiva, muita atenção ao Hospital São Mateus, que está passando por uma grande necessidade e precisa da decência dos senhores de olhá-lo com carinho. Peço que este discurso, Sr. Presidente, seja divulgado no programa A Voz do Brasil."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",

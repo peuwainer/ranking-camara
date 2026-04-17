@@ -4,18 +4,9 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg",
-  "score": 39.59,
-  "rank": 25,
+  "score": 41.0,
+  "rank": 15,
   "proposicoes": [
-    {
-      "id": 2609668,
-      "tipo": "PL",
-      "numero": 1227,
-      "ano": 2026,
-      "ementa": "Institui o Sistema Nacional de Transparência e Monitoramento de Preços de Combustíveis, cria o Portal Nacional de Preços dos Combustíveis e estabelece mecanismos de detecção de variações abusivas nos preços dos combustíveis no país.",
-      "data": "2026-03-17T17:53",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609668"
-    },
     {
       "id": 2610649,
       "tipo": "SBT",
@@ -60,6 +51,15 @@
       "ementa": "Altera o Código Tributário Nacional para vedar a concessão de benefícios tributários a pessoas condenadas por submissão de trabalhadores a condições análogas às de escravo, por assédio moral ou por contratação de adolescentes nos casos vedados pela legislação trabalhista.",
       "data": "2026-04-15T19:07",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616799"
+    },
+    {
+      "id": 2617262,
+      "tipo": "PL",
+      "numero": 1892,
+      "ano": 2026,
+      "ementa": "Institui o Protocolo Nacional de Abordagem Humanizada em Casas Religiosas.",
+      "data": "2026-04-16T18:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617262"
     }
   ],
   "discursos": [

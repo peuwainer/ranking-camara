@@ -4,8 +4,8 @@
   "partido": "PRD",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204427.jpg",
-  "score": 22.9,
-  "rank": 358,
+  "score": 21.45,
+  "rank": 368,
   "proposicoes": [
     {
       "id": 2612946,
@@ -35,7 +35,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616019"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-16T12:16",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. FERNANDO RODOLFO (Bloco/PRD - PE. Pela ordem. Sem revisão do orador.) - Vou falar por 1 minuto, Presidente. Eu gostaria aqui, Presidente, de comunicar a todos os professores que o nosso projeto ",
+      "transcricao": "O SR. FERNANDO RODOLFO (Bloco/PRD - PE. Pela ordem. Sem revisão do orador.) - Vou falar por 1 minuto, Presidente. Eu gostaria aqui, Presidente, de comunicar a todos os professores que o nosso projeto de lei, o PL 6.399/2025, alcançou ontem o número necessário de assinaturas de outros Deputados para que ele possa tramitar em regime de urgência. Esse projeto de lei é aquele que trata dos juros do precatório do Fundef. Muitos professores receberam o rateio dos precatórios do Fundef, graças a toda a mobilização que fizemos aqui, ainda no nosso primeiro mandato  isso se tornou uma regra constitucional , mas muitos Prefeitos Brasil afora estão repassando os 60% dos professores e tirando os juros, o que nós entendemos que é um erro que fere mortalmente a Constituição Federal. Este projeto de lei corrige esse erro e nós já tratamos com o Presidente Hugo Motta para ser pautado nas próximas sessões aqui e tramitar em regime de urgência. Muito obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

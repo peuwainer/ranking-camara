@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220546.jpg",
-  "score": 30.31,
-  "rank": 173,
+  "score": 30.14,
+  "rank": 145,
   "proposicoes": [
     {
       "id": 2615370,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para disciplinar a aplicação de sanções administrativas e medidas restritivas baseadas em sensoriamento remoto.",
       "data": "2026-04-13T10:47",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615370"
+    },
+    {
+      "id": 2617117,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Acrescenta os parágrafos 1º a 5º ao art. 24 do Decreto-Lei nº 667, de 2 de julho de 1969, para assegurar aos policiais militares e bombeiros militares a carga horária de 144 horas mensais, bem como a remuneração extraordinária no trabalho realizado que extrapole a carga horária vigente, remuneração em dobro nos feriados e dá outras providências.",
+      "data": "2026-04-16T12:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617117"
     }
   ],
   "discursos": [],

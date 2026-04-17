@@ -4,10 +4,18 @@
   "partido": "PP",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204524.jpg",
-  "score": 7.41,
-  "rank": 493,
+  "score": 7.69,
+  "rank": 492,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-14T21:20",
+      "fase": "Encerramento",
+      "tipo": "OUTROS",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO PINHEIRINHO (SEM REGISTRO TAQUIGRÁFICO). Discurso de homenagem ao dia mundial da obesidade em 15/04/2026, no plenário ulysses guimarães. Senhor(a) Pre",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO PINHEIRINHO (SEM REGISTRO TAQUIGRÁFICO). Discurso de homenagem ao dia mundial da obesidade em 15/04/2026, no plenário ulysses guimarães. Senhor(a) Presidente(a), Senhoras e Senhores Deputados, Subo hoje a esta tribuna para tratar de um tema que exige atenção urgente: a obesidade como um dos maiores desafios de saúde pública do nosso tempo. Não estamos falando apenas de estética ou de escolhas individuais. Estamos falando de uma condição crônica, multifatorial, que impacta profundamente a qualidade de vida da população e sobrecarrega o sistema de saúde. Hoje, mais da metade dos brasileiros está acima do peso, e cerca de 1 em cada 4 adultos já vive com obesidade. Esse cenário é alarmante. A obesidade, Senhor(a) Presidente(a), não vem sozinha. Ela é uma porta de entrada para uma série de doenças crônicas que comprometem não apenas a saúde individual, mas também o desenvolvimento social e econômico do país. Entre essas doenças, destaco o aumento do colesterol e o diabetes. Aliás, me orgulho, juntamente com a deputada Flávia Morais, de compormos como presidenta e vice-presidente, respectivamente, da Frente Parlamentar Mista para a Prevenção, Diagnóstico e Tratamento do Diabetes - quando eu exercia a presidência da Comissão de Saúde em 2022. Desde lá, seguimos firmes nesta causa! As consequências, Senhor(a) Presidente(a), são conhecidas e preocupantes: infarto, acidente vascular cerebral, hipertensão e outras doenças cardiovasculares, que hoje são a principal causa de morte no Brasil e no mundo. Além do sofrimento humano, isso gera custos altíssimos para o sistema público de saúde. Trata-se de um ciclo que precisa ser interrompido. E é por isso que estamos aqui, Senhor(a) Presidente(a), no Congresso Nacional, para avançarmos em políticas públicas estruturantes. É fundamental investir em prevenção, com ações que promovam alimentação saudável, acesso a alimentos de qualidade, rotulagem clara e educação alimentar desde a infância. Também é essencial estimular a prática de atividade física, com cidades mais seguras e espaços adequados para a população que não pode pagar por isso. E, para aqueles que já convivem com a obesidade, é indispensável garantir acesso ao tratamento adequado, com acompanhamento multiprofissional e acesso a medicamentos, quando necessário. Senhoras e Senhores, não podemos tratar esse tema com superficialidade. Estamos falando de salvar vidas e de reduzir desigualdades na saúde brasileira. Combater a obesidade é investir no futuro do Brasil. É reduzir a incidência de doenças crônicas, é melhorar a qualidade de vida da população e garantir sustentabilidade ao nosso sistema de saúde. E por último, e não menos importante, gostaria de agradecer a iniciativa desta Solene junto ao meu gabinete, do Instituto Cordial, centro independente de articulação e pesquisa voltado aos Objetivos de Desenvolvimento Sustentável da ONU, que lidera o Painel Brasileiro da Obesidade. Muito obrigado!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178986.jpg",
-  "score": 39.19,
-  "rank": 27,
+  "score": 38.12,
+  "rank": 29,
   "proposicoes": [
-    {
-      "id": 2609535,
-      "tipo": "EMP",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Emenda de Plenário para instituir o Programa Nacional de Tarifa Zero para o Transporte Urbano.",
-      "data": "2026-03-17T16:52",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609535"
-    },
     {
       "id": 2611059,
       "tipo": "SBT",
@@ -80,22 +71,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616663"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-03-17T17:20",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. NILTO TATTO (Bloco/PT - SP. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Eu venho aqui, na verdade, para alertar a sociedade brasileira do risco de um projeto de lei apresentado p",
-      "transcricao": "O SR. NILTO TATTO (Bloco/PT - SP. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Eu venho aqui, na verdade, para alertar a sociedade brasileira do risco de um projeto de lei apresentado pelo Deputado Capitão Augusto, de São Paulo, o Projeto de Lei nº 1.003/2026, que, na verdade, quer acabar com o Conselho Nacional de Direitos Humanos e passar as prerrogativas para o Ministério dos Direitos Humanos. Parece que ele não está entendendo o que é uma conquista. Eu estou falando da humanidade no âmbito internacional e aqui no Brasil, por muito esforço, muita luta, principalmente da sociedade civil organizada, para criar esse espaço de participação e de diálogo e de intervenção, monitoramento, por parte da sociedade civil em várias áreas das políticas públicas, em especial, principalmente, dos direitos humanos. Eu acho que ele não está entendendo nada do que significa um conselho no âmbito de participação da sociedade, do seu papel de independência, e papel do Executivo."
-    },
-    {
-      "data": "2026-03-17T14:12",
-      "fase": "Breves Comunicações",
-      "tipo": "BREVES COMUNICAÇÕES",
-      "resumo": "O SR. NILTO TATTO (Bloco/PT - SP. Sem revisão do orador.) - Obrigado, Presidente. Eu venho a esta tribuna para chamar a atenção não só deste Parlamento, mas também do povo brasileiro. Ontem, foi aprov",
-      "transcricao": "O SR. NILTO TATTO (Bloco/PT - SP. Sem revisão do orador.) - Obrigado, Presidente. Eu venho a esta tribuna para chamar a atenção não só deste Parlamento, mas também do povo brasileiro. Ontem, foi aprovado o regime de urgência de um projeto que é, novamente, mais um projeto da devastação. O Projeto de Lei nº 2.564, de 2025, acaba com um instrumento que o Ibama utiliza de sensoriamento remoto com imagens via satélite, para monitorar e controlar o desmatamento ilegal, o desmatamento criminoso, que, portanto, agora tem um projeto de lei patrocinado pela bancada ruralista, ou seja, daqueles que, inclusive, colocam que o objetivo deles neste ano é derrotar esse Brasil que está dando certo, é derrotar o Presidente Lula. Por isso, quero chamar a atenção que, quando o Governo brasileiro faz a sua lição de Casa, mostra para o mundo que é possível enfrentar crise climática, diminui o desmatamento, faz a política positiva  e estou falando do desmatamento ilegal, do desmatamento que é criminoso , ou quando paralelamente, por exemplo, o País utiliza tecnologia ou sistema que são utilizados para capturar gente que é condenada e que a polícia não consegue encontrar e que por meio de imagem consegue capturá-la, quando usa essa tecnologia, ela é válida. Mas, quando o Ministério do Meio Ambiente ou o Ibama utilizam dessa mesma tecnologia para perseguir o bandido que vai lá e desmata ilegalmente, agora existe um projeto de lei para tirar esse instrumento do Ibama. Eu quero chamar a atenção porque isso mostra claramente que, se aprovado esse projeto de lei, vai tirar um instrumento importante do Ibama de fiscalização, com prejuízo sério para o Brasil, inclusive para o agro, para exportação. O Acordo União Europeia-Mercosul vem no sentido de valorizar aquilo que é produzido de forma ambientalmente correta, que não seja produzido em área de desmatamento ilegal, que não seja em em área indígena, que não seja em território quilombola. Portanto, trata-se de uma minoria, daqueles que querem perseguir o Governo brasileiro, perseguir o Brasil, trabalhar contra o Brasil, trabalhar contra o Presidente Lula, trabalhar contra tudo aquilo de bom que o Brasil está fazendo, e querem aprovar o projeto de lei para mostrar que é o retrocesso o que eles querem, mas não vão conseguir. Eu chamo a atenção da sociedade brasileira para não deixar aprovar projetos dessa natureza, que vão contra o meio ambiente, contra o Brasil, contra o planeta, contra a vida no planeta. Muito obrigado."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, avaliação e acompanhamento das iniciativas e medidas adotadas para transição energética - Fontes Renováveis e Produção de Hidrogênio Verde no Brasil",

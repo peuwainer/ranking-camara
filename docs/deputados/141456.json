@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141456.jpg",
-  "score": 26.71,
-  "rank": 268,
+  "score": 25.43,
+  "rank": 273,
   "proposicoes": [
-    {
-      "id": 2609535,
-      "tipo": "EMP",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Emenda de Plenário para instituir o Programa Nacional de Tarifa Zero para o Transporte Urbano.",
-      "data": "2026-03-17T16:52",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609535"
-    },
     {
       "id": 2612540,
       "tipo": "PLP",
@@ -80,15 +71,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616663"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-03-17T19:16",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. JILMAR TATTO (Bloco/PT - SP. Pela ordem. Sem revisão do orador.) - Nós orientamos \"sim\", Sr. Presidente, porque 83% dos empregos no Brasil são justamente das micro e pequenas empresas. E eu quer",
-      "transcricao": "O SR. JILMAR TATTO (Bloco/PT - SP. Pela ordem. Sem revisão do orador.) - Nós orientamos \"sim\", Sr. Presidente, porque 83% dos empregos no Brasil são justamente das micro e pequenas empresas. E eu quero aqui parabenizar o Líder do Governo, o Presidente Lula, que concordou com a urgência deste projeto de lei, deste PLP, que vai permitir que façamos um debate sincero, profundo e vai valorizar quem gera emprego neste País. E quem gera emprego neste País são justamente as micro e pequenas empresas. Por isso, está de parabéns a bancada do PT! A Federação é favorável à urgência. E nós vamos discutir de forma muito séria e responsável, para que possamos aumentar inclusive o valor do faturamento dessas microempresas. É por isso que nós somos favoráveis, Sr. Presidente."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão de Comunicação",

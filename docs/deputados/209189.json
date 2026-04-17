@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/209189.jpg",
-  "score": 22.81,
-  "rank": 359,
+  "score": 20.43,
+  "rank": 395,
   "proposicoes": [
     {
       "id": 2615287,
@@ -35,22 +35,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616663"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-03-17T21:24",
-      "fase": "Ordem do Dia",
-      "tipo": "ENCAMINHAMENTO DE VOTAÇÃO",
-      "resumo": "O SR. JOSEILDO RAMOS (Bloco/PT - BA. Sem revisão do orador.) - Sr. Presidente, o Brasil é signatário dessa matéria pela ONU. É preciso ajustar o arcabouço legal deste País para dar seguimento a essa m",
-      "transcricao": "O SR. JOSEILDO RAMOS (Bloco/PT - BA. Sem revisão do orador.) - Sr. Presidente, o Brasil é signatário dessa matéria pela ONU. É preciso ajustar o arcabouço legal deste País para dar seguimento a essa matéria tão importante. Por isso, o pedido de requerimento de urgência."
-    },
-    {
-      "data": "2026-03-17T20:40",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. JOSEILDO RAMOS (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o Governo apoia essa matéria, mesmo porque haverá manifestação dos moradores dos dois Municípios. Não está ha",
-      "transcricao": "O SR. JOSEILDO RAMOS (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o Governo apoia essa matéria, mesmo porque haverá manifestação dos moradores dos dois Municípios. Não está havendo emancipação alguma, e sim uma adequação, que não vai mudar em nada, do ponto de vista de custos, do ponto de vista de outras situações. Portanto, \"sim\"."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

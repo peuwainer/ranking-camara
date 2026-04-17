@@ -4,18 +4,9 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141450.jpg",
-  "score": 30.95,
-  "rank": 150,
+  "score": 31.15,
+  "rank": 124,
   "proposicoes": [
-    {
-      "id": 2609763,
-      "tipo": "EMP",
-      "numero": 3,
-      "ano": 0,
-      "ementa": "Institui o marco legal do transporte público coletivo urbano e altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), a Lei nº 10.336, de 19 de dezembro de 2001, a Lei nº 10.636, de 30 de dezembro de 2002, e a Lei nº 12.587, de 3 de janeiro de 2012 (Lei de Mobilidade Urbana).",
-      "data": "2026-03-17T19:04",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2609763"
-    },
     {
       "id": 2609925,
       "tipo": "PL",
@@ -69,6 +60,15 @@
       "ementa": "",
       "data": "2026-04-15T09:29",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616280"
+    },
+    {
+      "id": 2617154,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.503, de 1997, para dispor sobre o registrador instantâneo inalterável de velocidade e de tempo.",
+      "data": "2026-04-15T09:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617154"
     }
   ],
   "discursos": [
