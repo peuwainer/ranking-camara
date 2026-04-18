@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220638.jpg",
-  "score": 26.34,
-  "rank": 252,
+  "score": 29.75,
+  "rank": 185,
   "proposicoes": [
     {
       "id": 2611714,
@@ -26,15 +26,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614766"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-03-18T15:00",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. ANTONIO CARLOS RODRIGUES (PL - SP. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente. Estou aqui com o meu amigo, Presidente da Câmara de Jales, uma das maiores cidades do Estado ",
-      "transcricao": "O SR. ANTONIO CARLOS RODRIGUES (PL - SP. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente. Estou aqui com o meu amigo, Presidente da Câmara de Jales, uma das maiores cidades do Estado de São Paulo. É o Vereador Bruno. Muito obrigado, Presidente."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Mesa Diretora da Câmara dos Deputados",
@@ -65,6 +57,12 @@
       "sigla": "CFFC",
       "cargo": "Titular",
       "desde": "2026-02-24T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 8085, de 2014, do Senado Federal, que \"altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para instituir a obrigatoriedade da prática de direção veicular em vias públicas para fins de formação de condutores\"",
+      "sigla": "PL808514",
+      "cargo": "Suplente",
+      "desde": "2026-04-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220638/votacoes-nominais-plenario/2026"

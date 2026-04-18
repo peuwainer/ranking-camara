@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220630.jpg",
-  "score": 27.42,
-  "rank": 221,
+  "score": 29.39,
+  "rank": 199,
   "proposicoes": [
     {
       "id": 2612333,
@@ -20,16 +20,22 @@
   "discursos": [],
   "orgaos": [
     {
-      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
-      "sigla": "CAPADR",
-      "cargo": "Titular",
-      "desde": "2026-03-03T00:00"
-    },
-    {
       "nome": "Comissão Especial destinada a estudar e analisar formas de prevenção e auxílio a desastres e calamidades naturais que vêm assolando o Território Nacional",
       "sigla": "CEDESNAT",
       "cargo": "Suplente",
       "desde": "2026-03-03T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Titular",
+      "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão Externa destinada a fiscalizar os rompimentos de barragens, em especial acompanhar a repactuação do acordo de Mariana e a reparação do crime de Brumadinho",
+      "sigla": "CEXMABRU",
+      "cargo": "Titular",
+      "desde": "2026-04-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220630/votacoes-nominais-plenario/2026"

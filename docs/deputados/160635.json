@@ -4,18 +4,9 @@
   "partido": "PODE",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160635.jpg",
-  "score": 24.64,
-  "rank": 296,
+  "score": 26.5,
+  "rank": 271,
   "proposicoes": [
-    {
-      "id": 2610130,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "",
-      "data": "2026-03-18T10:54",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610130"
-    },
     {
       "id": 2610691,
       "tipo": "PL",
@@ -42,13 +33,6 @@
       "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO RUY CARNEIRO (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, senhoras e senhores deputados, Quero compartilhar com esta Casa uma conquista que, tenho certeza, vai fazer diferença na vida de milhões de brasileiros. Conseguimos aprovar, na Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, o Projeto de Lei nº 2.395/2025, do qual tive a honra de ser o relator. A matéria trata de algo simples, mas que vai garantir transparência e fazer uma grande diferença na vida de milhões de brasileiros. O direito de um trabalhador, de uma viúva, de um aposentado saber o que está acontecendo com o pedido que fez ao INSS. Hoje, esses beneficiários esperam meses por uma resposta do Instituto, sem saber em que etapa está o processo, sem saber quem está analisando, sem saber quando vai acabar. Essa angústia tem nome. Ela se chama abandono. E não podemos admitir que o Estado abandone quem trabalhou a vida inteira. Com este projeto, isso muda. O INSS passa a ser obrigado a disponibilizar, no portal e no aplicativo oficial, informações claras e acessíveis sobre cada pedido em andamento: o número do protocolo, o setor responsável pela análise, a data da última movimentação e a previsão estimada de conclusão. Mais do que transparência, estamos falando de respeito. Respeito à história de quem contribuiu por décadas para a Previdência Social. Respeito à dignidade de quem depende de um benefício para sobreviver. E há outro ponto importante. Quando um benefício for negado, o INSS será obrigado a apresentar uma decisão completa e fundamentada. O cidadão terá direito ao acesso integral ao processo administrativo. Isso não é favor. É o mínimo que o Estado democrático de direito deve a cada pessoa. Ao garantir mais transparência, também estamos ajudando a reduzir a judicialização excessiva. Quando as pessoas recebem respostas claras e fundamentadas, diminui a necessidade de recorrer à Justiça, o que alivia os tribunais e economiza recursos públicos que podem ser aplicados em mais serviços para a população. Não existe cidadania plena sem acesso à informação. E não existe respeito ao trabalhador quando o Estado esconde dele o que está fazendo com o seu processo. Esta aprovação é uma vitória do povo brasileiro. É a prova de que o Congresso Nacional pode e deve ser o lugar onde os direitos dos mais humildes são defendidos com seriedade e compromisso. Agradeço aos colegas que apoiaram esta iniciativa e peço empenho para que a matéria chegue com celeridade a este plenário. Muito obrigado."
     }
   ],
-  "orgaos": [
-    {
-      "nome": "Comissão de Saúde",
-      "sigla": "CSAUDE",
-      "cargo": "Titular",
-      "desde": "2026-03-02T00:00"
-    }
-  ],
+  "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/160635/votacoes-nominais-plenario/2026"
 }

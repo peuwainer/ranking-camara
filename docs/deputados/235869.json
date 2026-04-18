@@ -4,10 +4,23 @@
   "partido": "REPUBLICANOS",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/235869.jpg",
-  "score": 3.45,
-  "rank": 509,
+  "score": 6.37,
+  "rank": 501,
   "proposicoes": [],
   "discursos": [],
-  "orgaos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Titular",
+      "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão da Amazônia e dos Povos Originários e Tradicionais",
+      "sigla": "CPOVOS",
+      "cargo": "Titular",
+      "desde": "2026-04-17T00:00"
+    }
+  ],
   "url_votacoes": "https://www.camara.leg.br/deputados/235869/votacoes-nominais-plenario/2026"
 }

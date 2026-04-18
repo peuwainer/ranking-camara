@@ -4,27 +4,9 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74156.jpg",
-  "score": 32.43,
-  "rank": 94,
+  "score": 30.47,
+  "rank": 164,
   "proposicoes": [
-    {
-      "id": 2610262,
-      "tipo": "PL",
-      "numero": 1250,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Desenvolvimento da Cadeia Produtiva dos Medicamentos Fitoterápicos, e altera a Lei nº 13.021, de 8 de agosto de 2014.",
-      "data": "2026-03-18T13:47",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610262"
-    },
-    {
-      "id": 2610264,
-      "tipo": "PL",
-      "numero": 1251,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para incluir, nas diretrizes curriculares do curso de graduação em medicina, conteúdo obrigatório sobre fitoterapia.",
-      "data": "2026-03-18T13:49",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610264"
-    },
     {
       "id": 2611565,
       "tipo": "PL",
@@ -80,15 +62,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616663"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-03-18T17:00",
-      "fase": "Breves Comunicações",
-      "tipo": "BREVES COMUNICAÇÕES",
-      "resumo": "O SR. LEONARDO MONTEIRO (Bloco/PT - MG. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, toda a população que está nos assistindo, sobretudo a população de Minas Gerais, a campanha da",
-      "transcricao": "O SR. LEONARDO MONTEIRO (Bloco/PT - MG. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, toda a população que está nos assistindo, sobretudo a população de Minas Gerais, a campanha da fraternidade deste ano nos convida a olhar para um tema fundamental, humano e cristão: o direito à moradia digna. Inspirada pelo Evangelho e pela doutrina social da Igreja, ela nos recorda que a casa não é apenas um teto, é um lugar de proteção, de afeto, de dignidade e de esperança para as famílias. Em sua mensagem, o Papa Leão XIV destaca que a falta de moradia adequada fere a dignidade da pessoa humana e exige compromisso concreto da sociedade e de nós políticos e governadores. A Conferência Nacional dos Bispos do Brasil reforça esse chamado ao lançar a Campanha da Fraternidade 2026 com foco na moradia, lembrando que milhões de brasileiros e brasileiras ainda vivem em condições precárias, em áreas de risco e sem acesso adequado a serviços básicos. A palavra de Deus nos ilumina neste momento. No Evangelho de Mateus, Capítulo 25, Versículo 35, Jesus nos ensina: \"Eu estava sem casa e me acolhestes\". Este ensinamento nos mostra que garantir abrigo e dignidade ao próximo não é apenas uma política pública, é um compromisso moral, social, humano e cristão, e que a moradia digna é uma casa segura, com acesso à água, saneamento, energia, transporte, escola, saúde e direito ao trabalho. É viver sem medo de a chuva levar o barraco, sem sofrimento do aluguel que consome a renda, sem a angústia da incerteza do amanhã. Portanto, Sras. e Srs. Deputados, quando o Estado assume sua responsabilidade social e dialoga com a sociedade organizada, vidas humanas mudam. A casa própria não é apenas uma obra de engenharia, é estabilidade para a família, é segurança para as crianças, é tranquilidade, é desenvolvimento para a comunidade e para a economia local. Sr. Presidente, nós gostaríamos que V.Exa. desse como lido o nosso pronunciamento nos órgãos de comunicação da Casa. Muito obrigado, Sr. Presidente."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a fiscalizar os rompimentos de barragens, em especial acompanhar a repactuação do acordo de Mariana e a reparação do crime de Brumadinho",

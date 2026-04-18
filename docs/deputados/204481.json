@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204481.jpg",
-  "score": 26.21,
-  "rank": 258,
-  "proposicoes": [],
+  "score": 27.94,
+  "rank": 241,
+  "proposicoes": [
+    {
+      "id": 2617400,
+      "tipo": "PL",
+      "numero": 1898,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para atualizar os valores das deduções calculadas por dependente, bem como das deduções de despesas com educação, da base de cálculo do Imposto sobre a Renda das Pessoas Físicas.",
+      "data": "2026-04-17T14:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617400"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-04-15T18:24",

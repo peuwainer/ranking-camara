@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178943.jpg",
-  "score": 14.54,
-  "rank": 455,
+  "score": 15.37,
+  "rank": 456,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -14,6 +14,18 @@
       "sigla": "PEC00523",
       "cargo": "Titular",
       "desde": "2024-02-07T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "Suplente",
+      "desde": "2026-04-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178943/votacoes-nominais-plenario/2026"

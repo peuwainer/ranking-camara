@@ -4,8 +4,8 @@
   "partido": "CIDADANIA",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220549.jpg",
-  "score": 32.94,
-  "rank": 86,
+  "score": 33.03,
+  "rank": 93,
   "proposicoes": [
     {
       "id": 2614335,
@@ -31,13 +31,6 @@
       "tipo": "PELA ORDEM",
       "resumo": "A SRA. ANY ORTIZ (Bloco/CIDADANIA - RS. Pela ordem. Sem revisão da oradora.) - Boa tarde, Presidente. Eu quero aqui fazer uma fala em relação ao Deputado Sérgio Turra, para dar boas-vindas a ele a est",
       "transcricao": "A SRA. ANY ORTIZ (Bloco/CIDADANIA - RS. Pela ordem. Sem revisão da oradora.) - Boa tarde, Presidente. Eu quero aqui fazer uma fala em relação ao Deputado Sérgio Turra, para dar boas-vindas a ele a esta Casa. Eu tive a grata satisfação e o orgulho de ser colega do Deputado Sérgio Turra na Assembleia Legislativa do Estado do Rio Grande do Sul durante 8 anos. Foram 8 anos em que nós atuamos conjuntamente, lutando pelas mesmas bandeiras, trabalhando pelo nosso Rio Grande do Sul. O Deputado Turra faz a diferença, com certeza, dentro do Parlamento. É um Deputado combativo, aguerrido, que vai nos ajudar aqui lutando pelo Brasil. Agora, Sérgio Turra, como sua colega aqui, partidária dentro do Progressistas, para mim é um orgulho muito grande estar contigo, com o Deputado Pedro Westphalen e o nosso Presidente, o Deputado Covatti Filho. Muito obrigada, Presidente Hugo Motta. Seja bem-vindo, meu querido amigo e agora Deputado Federal Sérgio Turra."
-    },
-    {
-      "data": "2026-03-18T17:24",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "A SRA. ANY ORTIZ (Bloco/CIDADANIA - RS. Pela ordem. Sem revisão da oradora.) - Presidente, eu quero dizer que é um grande equívoco a gente discutir este assunto em regime de urgência aqui na Casa. O G",
-      "transcricao": "A SRA. ANY ORTIZ (Bloco/CIDADANIA - RS. Pela ordem. Sem revisão da oradora.) - Presidente, eu quero dizer que é um grande equívoco a gente discutir este assunto em regime de urgência aqui na Casa. O Governo sabe disso. Nós temos o PL 2.768 na CDE, do qual eu sou Relatora, que trata exatamente do mesmo tema. Eu não entendo por que esse PL não foi apensado ao 2.768. Nós realizamos uma série de audiências públicas, realizamos um seminário, uma consulta pública e temos um riquíssimo material para observarmos o que está sendo discutido no resto do mundo e, assim, discutirmos o que nós queremos aqui no Brasil. Inclusive, Presidente, eu conversei com o Relator que V.Exa. indicou, e ele disse que nós precisávamos debater com tempo esse PL. Nós não precisamos votar agora o regime de urgência. A gente precisa criar uma Comissão Especial para debater este assunto, que é muito importante, fala do futuro e precisa ser discutido."
     }
   ],
   "orgaos": [
@@ -114,16 +107,16 @@
       "desde": "2026-02-27T00:00"
     },
     {
-      "nome": "Comissão de Defesa dos Direitos da Mulher",
-      "sigla": "CMULHER",
-      "cargo": "Suplente",
-      "desde": "2026-03-10T00:00"
-    },
-    {
       "nome": "Comissão de Indústria, Comércio e Serviços",
       "sigla": "CICS",
       "cargo": "Titular",
       "desde": "2026-04-14T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Mulher",
+      "sigla": "CMULHER",
+      "cargo": "Suplente",
+      "desde": "2026-04-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220549/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220672.jpg",
-  "score": 24.91,
-  "rank": 287,
+  "score": 22.82,
+  "rank": 342,
   "proposicoes": [
     {
       "id": 2612909,
@@ -43,30 +43,6 @@
       "desde": "2023-11-02T00:00"
     },
     {
-      "nome": "Comissão Especial destinada a acompanhar as ações de prevenção e combate ao câncer, ao acidente vascular cerebral (AVC) e às doenças do coração.",
-      "sigla": "CECANCER",
-      "cargo": "Suplente",
-      "desde": "2024-02-07T00:00"
-    },
-    {
-      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 18, de 2025, do Poder Executivo, que \"altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública\"",
-      "sigla": "PEC01825",
-      "cargo": "Titular",
-      "desde": "2025-09-03T00:00"
-    },
-    {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3080, de 2020, do Senhor Alexandre Frota, que \"Institui a política pública nacional para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autismo, e dá outras providências\", e apensados",
-      "sigla": "PL308020",
-      "cargo": "Titular",
-      "desde": "2025-10-20T00:00"
-    },
-    {
-      "nome": "Comissão de Viação e Transportes",
-      "sigla": "CVT",
-      "cargo": "Suplente",
-      "desde": "2026-02-04T00:00"
-    },
-    {
       "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
       "sigla": "CAPADR",
       "cargo": "Titular",
@@ -76,7 +52,13 @@
       "nome": "Comissão de Finanças e Tributação",
       "sigla": "CFT",
       "cargo": "Suplente",
-      "desde": "2026-03-18T00:00"
+      "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "Suplente",
+      "desde": "2026-04-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220672/votacoes-nominais-plenario/2026"

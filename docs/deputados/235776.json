@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/235776.jpg",
-  "score": 11.74,
-  "rank": 473,
+  "score": 17.88,
+  "rank": 415,
   "proposicoes": [],
   "discursos": [
     {
@@ -29,6 +29,18 @@
       "sigla": "MERCOSUL",
       "cargo": "Titular",
       "desde": "2026-04-07T00:00"
+    },
+    {
+      "nome": "Comissão de Indústria, Comércio e Serviços",
+      "sigla": "CICS",
+      "cargo": "Suplente",
+      "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-04-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/235776/votacoes-nominais-plenario/2026"

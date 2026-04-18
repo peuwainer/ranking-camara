@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
-  "score": 9.63,
-  "rank": 481,
+  "score": 13.37,
+  "rank": 473,
   "proposicoes": [
     {
       "id": 2615287,
@@ -40,8 +40,14 @@
     {
       "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
       "sigla": "CAPADR",
+      "cargo": "Suplente",
+      "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
       "cargo": "Titular",
-      "desde": "2026-04-06T00:00"
+      "desde": "2026-04-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/141488/votacoes-nominais-plenario/2026"

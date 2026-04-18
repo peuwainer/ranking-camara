@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
-  "score": 14.69,
-  "rank": 453,
+  "score": 9.39,
+  "rank": 487,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -22,18 +22,6 @@
       "desde": "2023-05-04T00:00"
     },
     {
-      "nome": "Comissão Especial destinada a acompanhar as ações de prevenção e combate ao câncer, ao acidente vascular cerebral (AVC) e às doenças do coração.",
-      "sigla": "CECANCER",
-      "cargo": "Suplente",
-      "desde": "2024-02-07T00:00"
-    },
-    {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei n. 2614, de 2024, do Poder Executivo, que \"aprova o Plano Nacional de Educação para o decênio 2024-2034\"",
-      "sigla": "PL261424",
-      "cargo": "Titular",
-      "desde": "2025-04-28T00:00"
-    },
-    {
       "nome": "Centro de Estudos e Debates Estratégicos",
       "sigla": "CEDES",
       "cargo": "Titular",
@@ -43,19 +31,7 @@
       "nome": "Comissão de Comunicação",
       "sigla": "CCOM",
       "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Turismo",
-      "sigla": "CTUR",
-      "cargo": "Suplente",
-      "desde": "2026-02-04T00:00"
-    },
-    {
-      "nome": "Comissão de Defesa dos Direitos da Mulher",
-      "sigla": "CMULHER",
-      "cargo": "Titular",
-      "desde": "2026-03-11T00:00"
+      "desde": "2026-04-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220651/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/210989.jpg",
-  "score": 12.65,
-  "rank": 464,
+  "score": 17.41,
+  "rank": 421,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -38,6 +38,12 @@
       "sigla": "CASP",
       "cargo": "Titular",
       "desde": "2026-02-23T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Titular",
+      "desde": "2026-04-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/210989/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
-  "score": 39.31,
-  "rank": 21,
+  "score": 37.53,
+  "rank": 40,
   "proposicoes": [
     {
       "id": 2611240,
@@ -132,6 +132,15 @@
       "ementa": "",
       "data": "2026-04-14T14:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615904"
+    },
+    {
+      "id": 2617413,
+      "tipo": "PL",
+      "numero": 1900,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.730, de 10 de novembro de 1993, e a Lei nº 8.429, de 2 de junho de 1992, para aperfeiçoar o regime de transparência patrimonial de agentes públicos, com foco na prevenção de conflitos de interesses e no fortalecimento da integridade administrativa.",
+      "data": "2026-04-17T16:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617413"
     }
   ],
   "discursos": [],
@@ -171,30 +180,6 @@
       "sigla": "CPD",
       "cargo": "Suplente",
       "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Ciência, Tecnologia e Inovação",
-      "sigla": "CCTI",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Saúde",
-      "sigla": "CSAUDE",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",
-      "sigla": "CINDRE",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Meio Ambiente e Desenvolvimento Sustentável",
-      "sigla": "CMADS",
-      "cargo": "Suplente",
-      "desde": "2026-03-03T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220715/votacoes-nominais-plenario/2026"

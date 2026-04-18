@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
-  "score": 31.86,
-  "rank": 108,
+  "score": 31.45,
+  "rank": 136,
   "proposicoes": [
     {
       "id": 2612588,
@@ -99,12 +99,6 @@
       "sigla": "PEC01421",
       "cargo": "Suplente",
       "desde": "2025-05-21T00:00"
-    },
-    {
-      "nome": "Comissão de Meio Ambiente e Desenvolvimento Sustentável",
-      "sigla": "CMADS",
-      "cargo": "Suplente",
-      "desde": "2026-03-03T00:00"
     },
     {
       "nome": "Comissão de Finanças e Tributação",

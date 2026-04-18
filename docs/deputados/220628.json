@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220628.jpg",
-  "score": 26.17,
-  "rank": 260,
+  "score": 24.74,
+  "rank": 307,
   "proposicoes": [
     {
       "id": 2613707,
@@ -53,22 +53,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616016"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-03-18T21:52",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. MAURICIO DO VÔLEI (PL - MG. Pela ordem. Sem revisão do orador.) - Presidente, a Oposição orienta \"não\". Nós queremos deixar bem claro para a população, que está em casa nos assistindo, que aqui ",
-      "transcricao": "O SR. MAURICIO DO VÔLEI (PL - MG. Pela ordem. Sem revisão do orador.) - Presidente, a Oposição orienta \"não\". Nós queremos deixar bem claro para a população, que está em casa nos assistindo, que aqui nós queremos igualdade. Criminoso tem que pagar, ainda mais por um crime absurdo como esse, que é você matar uma criança para prejudicar aquela pessoa com quem você dividiu a vida. Então, tem que ser igual para o homem e para a mulher, tem que ser a mesma pena. Não existe nenhum tipo de distinção nesse caso absurdo. Eu sou totalmente a favor da pena de morte para quem comete esse tipo de atrocidade contra uma criança. Então, o nosso voto é \"não\", Presidente."
-    },
-    {
-      "data": "2026-03-18T21:32",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. MAURICIO DO VÔLEI (PL - MG. Pela ordem. Sem revisão do orador.) - Presidente, só quero falar sobre o nosso Deputado que falou anteriormente. Aqui nós estamos votando o projeto. Nós somos a favor",
-      "transcricao": "O SR. MAURICIO DO VÔLEI (PL - MG. Pela ordem. Sem revisão do orador.) - Presidente, só quero falar sobre o nosso Deputado que falou anteriormente. Aqui nós estamos votando o projeto. Nós somos a favor do projeto, mas nós somos a favor da igualdade entre o homem e a mulher. Não pode haver duas penas diferentes para o homem e para a mulher. Então, nós votamos \"sim\" à emenda."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 234, de 2024, do Sr. Felipe Carreras, que \"dispõe sobre incentivos e benefícios para fomentar as atividades de caráter desportivo e dá outras providências\"",

@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220608.jpg",
-  "score": 21.4,
-  "rank": 372,
+  "score": 21.6,
+  "rank": 366,
   "proposicoes": [],
   "discursos": [
     {
@@ -53,6 +53,12 @@
       "sigla": "CPASF",
       "cargo": "Suplente",
       "desde": "2026-04-07T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Titular",
+      "desde": "2026-04-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220608/votacoes-nominais-plenario/2026"

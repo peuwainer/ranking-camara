@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220656.jpg",
-  "score": 11.67,
-  "rank": 475,
+  "score": 15.41,
+  "rank": 455,
   "proposicoes": [
     {
       "id": 2613477,
@@ -57,6 +57,12 @@
       "sigla": "MERCOSUL",
       "cargo": "Titular",
       "desde": "2026-04-08T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
+      "desde": "2026-04-17T00:00"
     },
     {
       "nome": "Subcomissão Especial destinada a “debater e apresentar sugestões ao setor de estética e aprimorar suas relações trabalhistas”",

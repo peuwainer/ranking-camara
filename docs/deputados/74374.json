@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74374.jpg",
-  "score": 37.7,
-  "rank": 32,
+  "score": 38.91,
+  "rank": 30,
   "proposicoes": [
     {
       "id": 2611301,
@@ -119,8 +119,8 @@
       "data": "2026-04-14T18:24",
       "fase": "Breves Comunicações",
       "tipo": "PELA ORDEM",
-      "resumo": "O SR. GERALDO RESENDE (Bloco/PSDB - MS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, acabo de sair do Palácio do Planalto, onde estive com o Presidente Luiz Inácio Lula da Silva, com o Govern",
-      "transcricao": "O SR. GERALDO RESENDE (Bloco/PSDB - MS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, acabo de sair do Palácio do Planalto, onde estive com o Presidente Luiz Inácio Lula da Silva, com o Governador do Estado Eduardo Riedel, três Ministros do Presidente e a Bancada do Mato Grosso do Sul. O Presidente autorizou o Mato Grosso do Sul a fazer um financiamento no Banco Interamericano de Desenvolvimento  BID de 200 milhões de dólares, com a contrapartida do Estado no valor de 50 milhões de dólares. Isso vai possibilitar a recuperação da malha rodoviária do Mato Grosso do Sul, principalmente na região do Vale do Ivinhema e em regiões de fronteira, já que as estradas se encontram extremamente deterioradas, com a sua meia-vida já vencida. Assim, nós haveremos de ter estradas seguras com o tráfico das nossas riquezas, principalmente num Estado exportador e produtor de commodities, o que é muito importante. Com esse caminho, o Presidente mostrou claramente quão estadista ele é, porque não faz distinção partidária. Avalizou, o Senado Federal tem que aprovar esse financiamento, e haveremos de ter quase 1 bilhão e 200 milhões para recuperar as estradas do Mato Grosso do Sul. Obrigado, Sr. Presidente."
+      "resumo": "O SR. GERALDO RESENDE (Bloco/PSDB - MS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, acabo de sair do Palácio do Planalto, onde estive com o Presidente Luiz Inácio Lula da Silva; com o Govern",
+      "transcricao": "O SR. GERALDO RESENDE (Bloco/PSDB - MS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, acabo de sair do Palácio do Planalto, onde estive com o Presidente Luiz Inácio Lula da Silva; com o Governador do Estado do Mato Grosso do Sul, Eduardo Riedel; com três Ministros do Presidente e com a bancada do Mato Grosso do Sul. O Presidente autorizou o Mato Grosso do Sul a fazer um financiamento de 200 milhões de dólares no Banco Interamericano de Desenvolvimento  BID, com a contrapartida do Estado no valor de 50 milhões de dólares. Isso vai possibilitar a recuperação da malha rodoviária do Mato Grosso do Sul, principalmente na região do Vale do Ivinhema e em regiões de fronteira, já que as estradas se encontram extremamente deterioradas, com a sua meia-vida já vencida. Assim, nós haveremos de ter estradas seguras para o tráfego das nossas riquezas, o que é muito importante, principalmente num Estado exportador e produtor de commodities. Com esse caminho, o Presidente mostrou claramente o estadista que é, porque não faz distinção partidária. Avalizou o financiamento, que o Senado Federal tem que aprovar, e haveremos de ter quase 1 bilhão e 200 milhões para recuperar as estradas do Mato Grosso do Sul. Obrigado, Sr. Presidente."
     },
     {
       "data": "2026-04-08T17:56",
@@ -199,16 +199,16 @@
       "desde": "2026-02-03T00:00"
     },
     {
-      "nome": "Comissão de Saúde",
-      "sigla": "CSAUDE",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
       "sigla": "CIDOSO",
       "cargo": "Titular",
       "desde": "2026-02-10T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Titular",
+      "desde": "2026-04-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/74374/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220668.jpg",
-  "score": 35.43,
-  "rank": 51,
+  "score": 36.42,
+  "rank": 49,
   "proposicoes": [
     {
       "id": 2614746,
@@ -76,10 +76,16 @@
       "desde": "2024-02-07T00:00"
     },
     {
+      "nome": "Comissão de Defesa dos Direitos da Mulher",
+      "sigla": "CMULHER",
+      "cargo": "Suplente",
+      "desde": "2026-04-17T00:00"
+    },
+    {
       "nome": "Comissão de Constituição e Justiça e de Cidadania",
       "sigla": "CCJC",
       "cargo": "Titular",
-      "desde": "2026-02-09T00:00"
+      "desde": "2026-04-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220668/votacoes-nominais-plenario/2026"

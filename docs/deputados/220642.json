@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220642.jpg",
-  "score": 29.69,
-  "rank": 154,
+  "score": 30.75,
+  "rank": 157,
   "proposicoes": [
     {
       "id": 2615374,
@@ -32,12 +32,6 @@
       "desde": "2025-09-03T00:00"
     },
     {
-      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
-      "sigla": "CREDN",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
       "sigla": "CSPCCO",
       "cargo": "Suplente",
@@ -54,12 +48,6 @@
       "sigla": "CMADS",
       "cargo": "Titular",
       "desde": "2026-03-03T00:00"
-    },
-    {
-      "nome": "Comissão de Defesa dos Direitos da Mulher",
-      "sigla": "CMULHER",
-      "cargo": "Suplente",
-      "desde": "2026-03-10T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220642/votacoes-nominais-plenario/2026"

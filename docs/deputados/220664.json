@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220664.jpg",
-  "score": 17.45,
-  "rank": 425,
+  "score": 17.39,
+  "rank": 423,
   "proposicoes": [
     {
       "id": 2611838,
@@ -53,16 +53,10 @@
       "desde": "2025-10-20T00:00"
     },
     {
-      "nome": "Comissão de Viação e Transportes",
-      "sigla": "CVT",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
       "sigla": "CREDN",
       "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
+      "desde": "2026-04-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220664/votacoes-nominais-plenario/2026"

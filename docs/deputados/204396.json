@@ -4,18 +4,9 @@
   "partido": "PP",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204396.jpg",
-  "score": 21.57,
-  "rank": 366,
+  "score": 20.75,
+  "rank": 380,
   "proposicoes": [
-    {
-      "id": 2610602,
-      "tipo": "PL",
-      "numero": 1276,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-lei nº 227, de 28 de fevereiro de 1967, a fim de estabelecer prazo de 60 (sessenta) dias para o órgão competente realizar leilão de área desonerada de até 50 (cinquenta) hectares e sua disponibilidade por meio de requerimento simples após exaurimento do prazo estipulado para leilão.",
-      "data": "2026-03-18T19:46",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610602"
-    },
     {
       "id": 2616615,
       "tipo": "PL",
@@ -42,12 +33,6 @@
       "sigla": "MERCOSUL",
       "cargo": "Titular",
       "desde": "2023-08-23T00:00"
-    },
-    {
-      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
-      "sigla": "CAPADR",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
     },
     {
       "nome": "Comissão de Saúde",

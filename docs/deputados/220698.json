@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220698.jpg",
-  "score": 9.09,
-  "rank": 487,
+  "score": 13.6,
+  "rank": 469,
   "proposicoes": [],
   "discursos": [
     {
@@ -30,6 +30,13 @@
       "transcricao": "O SR. BETO PRETO (Bloco/PSD - PR. Pela ordem. Sem revisão do orador.) - Presidente Charles, quero aqui cumprimentar V.Exa. e informar que estou retomando o mandato na data de hoje. Estava no Paraná cumprindo a função de Secretário de Estado da Saúde do Governador Ratinho Júnior, e agora, com motivação, com muita expectativa positiva, retorno a esta Casa e quero deixar aqui o meu agradecimento à bancada do PSD, que me acolheu, mais uma vez, de maneira muito vibrante. Muito obrigado."
     }
   ],
-  "orgaos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Titular",
+      "desde": "2026-04-17T00:00"
+    }
+  ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220698/votacoes-nominais-plenario/2026"
 }

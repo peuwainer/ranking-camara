@@ -4,27 +4,9 @@
   "partido": "MDB",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 23.5,
-  "rank": 330,
+  "score": 17.41,
+  "rank": 422,
   "proposicoes": [
-    {
-      "id": 2610393,
-      "tipo": "PL",
-      "numero": 1263,
-      "ano": 2026,
-      "ementa": "Institui o Sistema Nacional de Competitividade Econômica das Cadeias Produtivas Estratégicas da Amazônia Legal, cria mecanismos de garantia de renda, crédito, agregação de valor, compras públicas, incentivo logístico e acesso a mercados, e dá outras providências.",
-      "data": "2026-03-18T17:10",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610393"
-    },
-    {
-      "id": 2610396,
-      "tipo": "PL",
-      "numero": 1264,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Equalização do Custo dos Combustíveis em Áreas Remotas, cria mecanismo federal de compensação logística para combustíveis destinados ao consumo final em regiões de elevado custo estrutural de abastecimento, estabelece diretrizes de repasse ao consumidor e dá outras providências.",
-      "data": "2026-03-18T17:10",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610396"
-    },
     {
       "id": 2610862,
       "tipo": "PL",
@@ -114,24 +96,6 @@
       "sigla": "CEXFPM",
       "cargo": "Titular",
       "desde": "2023-08-10T00:00"
-    },
-    {
-      "nome": "Comissão Especial para estudo, avaliação e acompanhamento das iniciativas e medidas adotadas para transição energética - Fontes Renováveis e Produção de Hidrogênio Verde no Brasil",
-      "sigla": "CEENERG",
-      "cargo": "Titular",
-      "desde": "2024-02-07T00:00"
-    },
-    {
-      "nome": "Comissão de Trabalho",
-      "sigla": "CTRAB",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Educação",
-      "sigla": "CE",
-      "cargo": "Titular",
-      "desde": "2026-03-10T00:00"
     },
     {
       "nome": "Comissão de Indústria, Comércio e Serviços",

@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220617.jpg",
-  "score": 27.12,
-  "rank": 227,
+  "score": 28.91,
+  "rank": 211,
   "proposicoes": [
     {
       "id": 2611066,
@@ -66,6 +66,18 @@
       "sigla": "CINDRE",
       "cargo": "Suplente",
       "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Suplente",
+      "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Titular",
+      "desde": "2026-04-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220617/votacoes-nominais-plenario/2026"

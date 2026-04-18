@@ -4,19 +4,9 @@
   "partido": "PODE",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220674.jpg",
-  "score": 20.71,
-  "rank": 389,
-  "proposicoes": [
-    {
-      "id": 2610379,
-      "tipo": "PL",
-      "numero": 1261,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para estabelecer causa de aumento de pena no crime de feminicídio quando houver histórico de violência doméstica e familiar contra a vítima.",
-      "data": "2026-03-18T17:02",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610379"
-    }
-  ],
+  "score": 16.36,
+  "rank": 444,
+  "proposicoes": [],
   "discursos": [],
   "orgaos": [
     {
@@ -26,22 +16,10 @@
       "desde": "2023-05-04T00:00"
     },
     {
-      "nome": "Comissão Especial para estudo das razões do aumento de denúncias de violência obstétrica e a alta taxa de morte materna no Brasil",
-      "sigla": "CEOBSTET",
-      "cargo": "Suplente",
-      "desde": "2024-02-07T00:00"
-    },
-    {
-      "nome": "Comissão de Defesa dos Direitos das Pessoas com Deficiência",
-      "sigla": "CPD",
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
       "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Defesa dos Direitos da Mulher",
-      "sigla": "CMULHER",
-      "cargo": "Titular",
-      "desde": "2026-03-10T00:00"
+      "desde": "2026-04-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220674/votacoes-nominais-plenario/2026"

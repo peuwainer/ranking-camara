@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178832.jpg",
-  "score": 7.46,
-  "rank": 493,
+  "score": 11.48,
+  "rank": 480,
   "proposicoes": [],
   "discursos": [
     {
@@ -28,6 +28,18 @@
       "sigla": "CPASF",
       "cargo": "Suplente",
       "desde": "2026-04-07T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Titular",
+      "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
+      "sigla": "CIDOSO",
+      "cargo": "Titular",
+      "desde": "2026-04-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178832/votacoes-nominais-plenario/2026"

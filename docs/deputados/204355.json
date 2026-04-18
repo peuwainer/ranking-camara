@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204355.jpg",
-  "score": 25.0,
-  "rank": 283,
+  "score": 25.49,
+  "rank": 292,
   "proposicoes": [],
   "discursos": [
     {
@@ -40,6 +40,12 @@
       "sigla": "CFT",
       "cargo": "Titular",
       "desde": "2026-03-18T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Suplente",
+      "desde": "2026-04-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204355/votacoes-nominais-plenario/2026"

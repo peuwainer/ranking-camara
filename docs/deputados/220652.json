@@ -4,29 +4,10 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220652.jpg",
-  "score": 27.43,
-  "rank": 218,
+  "score": 26.67,
+  "rank": 270,
   "proposicoes": [],
   "discursos": [],
-  "orgaos": [
-    {
-      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
-      "sigla": "CSPCCO",
-      "cargo": "Titular",
-      "desde": "2026-02-10T00:00"
-    },
-    {
-      "nome": "Subcomissão Especial de Fiscalização e Direitos dos Presos do 8 de Janeiro",
-      "sigla": "SUB8J",
-      "cargo": "Titular",
-      "desde": "2026-03-11T00:00"
-    },
-    {
-      "nome": "Subcomissão Especial para a fiscalização da implementação da Lei Orgânica Nacional das Polícias Militares e Corpos de Bombeiros Militares, Lei nº 14.751/23, e da Lei Orgânica Nacional das Polícias Civis, Lei nº 14.735/23",
-      "sigla": "SUBLOR",
-      "cargo": "Suplente",
-      "desde": "2026-03-26T00:00"
-    }
-  ],
+  "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/220652/votacoes-nominais-plenario/2026"
 }

@@ -4,10 +4,17 @@
   "partido": "PP",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220706.jpg",
-  "score": 16.14,
-  "rank": 443,
+  "score": 14.0,
+  "rank": 466,
   "proposicoes": [],
   "discursos": [],
-  "orgaos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Titular",
+      "desde": "2026-04-17T00:00"
+    }
+  ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220706/votacoes-nominais-plenario/2026"
 }

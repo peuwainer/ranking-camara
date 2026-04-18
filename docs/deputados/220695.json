@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-  "score": 42.87,
-  "rank": 12,
+  "score": 43.43,
+  "rank": 13,
   "proposicoes": [
     {
       "id": 2611788,
@@ -204,6 +204,15 @@
       "ementa": "Emenda modificativa ao PL nº 5.789 DE 2025  - Institui a Política Nacional de Enfrentamento Integrado ao HIV e à Aids (PNEI-HIV), com foco em prevenção combinada, diagnóstico precoce, inovação tecnológica, combate à discriminação e ampliação do acesso a tratamentos e estratégias de imunização, e dá outras providências.",
       "data": "2026-04-16T10:56",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617077"
+    },
+    {
+      "id": 2617351,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL 273/2025, com substitutivo.",
+      "data": "2026-04-16T15:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617351"
     }
   ],
   "discursos": [

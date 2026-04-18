@@ -4,27 +4,9 @@
   "partido": "SOLIDARIEDADE",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/234673.jpg",
-  "score": 31.53,
-  "rank": 116,
+  "score": 30.8,
+  "rank": 154,
   "proposicoes": [
-    {
-      "id": 2610136,
-      "tipo": "PL",
-      "numero": 1245,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a transparência, a motivação, o contraditório mínimo e as penalidades aplicáveis ao encerramento unilateral de contas por instituições financeiras e instituições de pagamento, e dá outras providências",
-      "data": "2026-03-18T11:12",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610136"
-    },
-    {
-      "id": 2610138,
-      "tipo": "PL",
-      "numero": 1246,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a possibilidade de substituição da cessão obrigatória de áreas públicas em parcelamentos do solo urbano por compensação financeira destinada ao Fundo Municipal de Desenvolvimento Urbano, e dá outras providências",
-      "data": "2026-03-18T11:12",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2610138"
-    },
     {
       "id": 2612872,
       "tipo": "PL",
@@ -153,6 +135,19 @@
     }
   ],
   "discursos": [],
-  "orgaos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Meio Ambiente e Desenvolvimento Sustentável",
+      "sigla": "CMADS",
+      "cargo": "Suplente",
+      "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Comunicação",
+      "sigla": "CCOM",
+      "cargo": "Suplente",
+      "desde": "2026-04-17T00:00"
+    }
+  ],
   "url_votacoes": "https://www.camara.leg.br/deputados/234673/votacoes-nominais-plenario/2026"
 }
