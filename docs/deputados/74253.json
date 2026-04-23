@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74253.jpg",
-  "score": 24.58,
-  "rank": 308,
+  "score": 26.68,
+  "rank": 274,
   "proposicoes": [
     {
       "id": 2612333,
@@ -24,6 +24,24 @@
       "ementa": "Parecer ao PL 4790/2025, que \"Dispõe medidas de fomento à geração de energia elétrica a partir de fontes renováveis em áreas da União destinadas à reforma agrária, sob gestão do Instituto Nacional de Colonização e Reforma Agrária (INCRA).\"",
       "data": "2026-03-30T11:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612666"
+    },
+    {
+      "id": 2617536,
+      "tipo": "PL",
+      "numero": 1916,
+      "ano": 2026,
+      "ementa": "Altera o art. 3º da Lei nº 13.848, de 25 de julho de 2019, para detalhar a autonomia administrativa das agências reguladoras federais.",
+      "data": "2026-04-22T13:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617536"
+    },
+    {
+      "id": 2617538,
+      "tipo": "PLP",
+      "numero": 111,
+      "ano": 2026,
+      "ementa": "Altera o art. 9º da Lei Complementar nº 101, de 4 de maio de 2000, para ressalvar despesas das agências reguladoras federais da limitação de empenho e movimentação financeira.",
+      "data": "2026-04-22T13:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617538"
     }
   ],
   "discursos": [

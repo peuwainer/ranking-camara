@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220528.jpg",
-  "score": 30.31,
-  "rank": 164,
+  "score": 26.18,
+  "rank": 288,
   "proposicoes": [],
   "discursos": [
     {
@@ -77,12 +77,6 @@
       "sigla": "PEC01825",
       "cargo": "Suplente",
       "desde": "2025-10-15T00:00"
-    },
-    {
-      "nome": "Comissão de Constituição e Justiça e de Cidadania",
-      "sigla": "CCJC",
-      "cargo": "Titular",
-      "desde": "2026-02-09T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220528/votacoes-nominais-plenario/2026"

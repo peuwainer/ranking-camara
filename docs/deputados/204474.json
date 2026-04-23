@@ -4,10 +4,23 @@
   "partido": "REPUBLICANOS",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204474.jpg",
-  "score": 21.66,
-  "rank": 364,
+  "score": 25.12,
+  "rank": 311,
   "proposicoes": [],
   "discursos": [],
-  "orgaos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
+    }
+  ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204474/votacoes-nominais-plenario/2026"
 }

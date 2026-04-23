@@ -4,18 +4,9 @@
   "partido": "UNIÃO",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220530.jpg",
-  "score": 28.25,
-  "rank": 228,
+  "score": 29.87,
+  "rank": 194,
   "proposicoes": [
-    {
-      "id": 2611325,
-      "tipo": "PL",
-      "numero": 1340,
-      "ano": 2026,
-      "ementa": "Acrescenta o art. 20-E à Lei nº 8.036, de 11 de maio de 1990, para garantir a utilização pelo trabalhador dos recursos do Fundo de Garantia do Tempo de Serviço (FGTS) no âmbito da modalidade de saque-aniversário regulamentada pelo art. 20-D da referida Lei, mediante a cessão ou alienação junto a instituições financeiras, e dá outras providências.",
-      "data": "2026-03-23T17:59",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611325"
-    },
     {
       "id": 2611412,
       "tipo": "EMP",
@@ -51,6 +42,15 @@
       "ementa": "Denomina “Rodovia Pastor Gedelti Victalino Teixeira Gueiros” o trecho da rodovia federal BR-447 compreendido entre os Municípios de Viana e Vila Velha, no Estado do Espirito Santo.",
       "data": "2026-04-14T16:25",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615973"
+    },
+    {
+      "id": 2617687,
+      "tipo": "PL",
+      "numero": 1928,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a apreensão, o processo administrativo de perdimento e a destinação de bens, mercadorias e meios de transporte utilizados em infrações à defesa agropecuária federal, e dá outras providências.",
+      "data": "2026-04-22T16:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617687"
     }
   ],
   "discursos": [
@@ -88,22 +88,10 @@
       "desde": "2025-11-25T00:00"
     },
     {
-      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
-      "sigla": "CAPADR",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
       "sigla": "CSPCCO",
       "cargo": "Titular",
       "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Direitos Humanos, Minorias e Igualdade Racial",
-      "sigla": "CDHMIR",
-      "cargo": "Titular",
-      "desde": "2026-02-04T00:00"
     },
     {
       "nome": "Subcomissão Especial de Fiscalização e Direitos dos Presos do 8 de Janeiro",
@@ -116,6 +104,18 @@
       "sigla": "CPASF",
       "cargo": "Suplente",
       "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão de Direitos Humanos, Minorias e Igualdade Racial",
+      "sigla": "CDHMIR",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220530/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "RN",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/213762.jpg",
-  "score": 32.59,
-  "rank": 104,
+  "score": 36.87,
+  "rank": 40,
   "proposicoes": [
     {
       "id": 2612333,
@@ -42,6 +42,42 @@
       "ementa": "Regulamenta o artigo 12, inciso I, alínea c da Constituição da República Federativa do Brasil, com o intuito de proteger os direitos humanos de crianças e adolescentes brasileiras interfronteiras que ficam sob a guarda e responsabilidade do Estado emigrado em virtude de um ou ambos os genitores terem sido repatriados, deportados ou expulsos do país estrangeiro.",
       "data": "2026-04-06T17:31",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613537"
+    },
+    {
+      "id": 2617611,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre o tratamento do paciente com Retinopatia diabética.",
+      "data": "2026-04-22T14:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617611"
+    },
+    {
+      "id": 2617671,
+      "tipo": "PL",
+      "numero": 1924,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o Protocolo Individualizado de Avaliação (PIA) para alunos com Transtornos Globais do Desenvolvimento (TGD), incluindo o Transtorno do Espectro Autista (TEA), no sistema de ensino público e privado de todo o território nacional",
+      "data": "2026-04-22T15:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617671"
+    },
+    {
+      "id": 2617672,
+      "tipo": "PL",
+      "numero": 1925,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade do ensino sobre o Holocausto e o antissemitismo na educação básica nacional, institui o Dia Nacional em Memória das Vítimas do Holocausto e altera a Lei nº 7.716, de 5 de janeiro de 1989, para equiparar o antissemitismo ao crime de racismo",
+      "data": "2026-04-22T15:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617672"
+    },
+    {
+      "id": 2617673,
+      "tipo": "PL",
+      "numero": 1926,
+      "ano": 2026,
+      "ementa": "Estabelece a Política Nacional de Atenção e Apoio à Mãe Atípica, institui incentivos ao cuidado compartilhado e à valorização da experiência da maternidade atípica no mercado de trabalho.",
+      "data": "2026-04-22T15:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617673"
     }
   ],
   "discursos": [

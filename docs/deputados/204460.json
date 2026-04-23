@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg",
-  "score": 32.96,
-  "rank": 92,
+  "score": 34.25,
+  "rank": 80,
   "proposicoes": [
     {
       "id": 2613995,
@@ -123,6 +123,12 @@
       "sigla": "CFFC",
       "cargo": "Suplente",
       "desde": "2026-02-10T00:00"
+    },
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204460/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160642.jpg",
-  "score": 30.76,
-  "rank": 154,
+  "score": 31.7,
+  "rank": 140,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -28,15 +28,15 @@
       "desde": "2025-09-02T00:00"
     },
     {
-      "nome": "Comissão de Direitos Humanos, Minorias e Igualdade Racial",
-      "sigla": "CDHMIR",
-      "cargo": "Titular",
-      "desde": "2026-02-04T00:00"
-    },
-    {
       "nome": "Comissão de Previdência, Assistência Social, Infância, Adolescência e Família",
       "sigla": "CPASF",
       "cargo": "Suplente",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Direitos Humanos, Minorias e Igualdade Racial",
+      "sigla": "CDHMIR",
+      "cargo": "Titular",
       "desde": "2026-02-04T00:00"
     },
     {
@@ -44,6 +44,18 @@
       "sigla": "CMULHER",
       "cargo": "Suplente",
       "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/160642/votacoes-nominais-plenario/2026"

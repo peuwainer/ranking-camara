@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/143632.jpg",
-  "score": 25.47,
-  "rank": 291,
+  "score": 21.92,
+  "rank": 375,
   "proposicoes": [
     {
       "id": 2612532,
@@ -53,6 +53,12 @@
       "sigla": "CCJC",
       "cargo": "Titular",
       "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",
+      "sigla": "PL233823",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/143632/votacoes-nominais-plenario/2026"

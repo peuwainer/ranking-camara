@@ -4,10 +4,18 @@
   "partido": "UNIÃO",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178860.jpg",
-  "score": 21.37,
-  "rank": 368,
+  "score": 22.96,
+  "rank": 358,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-22T19:08",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. PAULO AZI (Bloco/UNIÃO - BA. Pela ordem. Sem revisão do orador.) - Presidente Hugo Motta, eu agradeço as palavras de V.Exa., mas me sinto na obrigação de fazer um registro por questão de justiça",
+      "transcricao": "O SR. PAULO AZI (Bloco/UNIÃO - BA. Pela ordem. Sem revisão do orador.) - Presidente Hugo Motta, eu agradeço as palavras de V.Exa., mas me sinto na obrigação de fazer um registro por questão de justiça. Essa matéria, tão relevante, tão cara aos trabalhadores do nosso País, tem sido debatida praticamente pela primeira vez na história deste Parlamento pela determinação de V.Exa. Foi V.Exa. que tomou a decisão de colocar a pauta como uma prioridade deste ano legislativo e só a sua condução nos permite antever a construção de um consenso amplo dentro da sociedade brasileira, que vai, sem dúvida alguma, ser refletido aqui no conjunto dos Líderes e dos diversos Parlamentares. Quero crer, Sr. Presidente, que, com a condução de V.Exa., nós haveremos de, ainda neste semestre, no mês de maio, ter um texto que reproduza esse consenso e que traga ganhos efetivos ao conjunto da classe trabalhadora do nosso País. Portanto, quero registrar o empenho, a dedicação e a liderança de V.Exa. na condução dessa matéria aqui na Câmara dos Deputados."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Constituição e Justiça e de Cidadania",

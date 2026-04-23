@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/235869.jpg",
-  "score": 6.37,
-  "rank": 501,
+  "score": 12.04,
+  "rank": 486,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -20,6 +20,12 @@
       "sigla": "CPOVOS",
       "cargo": "Titular",
       "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Comunicação",
+      "sigla": "CCOM",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/235869/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220616.jpg",
-  "score": 31.42,
-  "rank": 139,
+  "score": 31.86,
+  "rank": 134,
   "proposicoes": [
     {
       "id": 2613181,
@@ -15,6 +15,15 @@
       "ementa": "Institui a Política Nacional de Prevenção e Cuidados contra AVC, “Lei João Diniz” de Prevenção, Orientação, Atendimento, Reabilitação, Reinserção Social e Apoio às Pessoas em Recuperação de Acidente Vascular Cerebral (AVC), e cria o “Cordão Nacional de Identificação do AVC”.",
       "data": "2026-04-01T15:07",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613181"
+    },
+    {
+      "id": 2617510,
+      "tipo": "PL",
+      "numero": 1914,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a portabilidade e o refinanciamento das operações de Cartão de Crédito Consignado - RMC e de Cartão Consignado de Benefício - RCC, com possibilidade de conversão em empréstimo consignado, e dá outras providências.",
+      "data": "2026-04-22T12:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617510"
     }
   ],
   "discursos": [

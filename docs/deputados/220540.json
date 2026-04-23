@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 16.74,
-  "rank": 438,
+  "score": 14.93,
+  "rank": 471,
   "proposicoes": [
     {
       "id": 2611961,
@@ -93,6 +93,12 @@
       "sigla": "CICS",
       "cargo": "Suplente",
       "desde": "2026-04-14T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220540/votacoes-nominais-plenario/2026"

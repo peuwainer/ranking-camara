@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220698.jpg",
-  "score": 13.6,
-  "rank": 469,
+  "score": 14.95,
+  "rank": 470,
   "proposicoes": [],
   "discursos": [
     {
@@ -36,6 +36,12 @@
       "sigla": "CSAUDE",
       "cargo": "Titular",
       "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220698/votacoes-nominais-plenario/2026"

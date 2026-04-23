@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220655.jpg",
-  "score": 8.7,
-  "rank": 490,
+  "score": 7.72,
+  "rank": 502,
   "proposicoes": [
     {
       "id": 2616025,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 15.211, de 17 de setembro de 2025 (Estatuto Digital da Criança e do Adolescente), para vedar mecanismos de censura prévia, assegurar a liberdade de expressão, preservar a livre iniciativa e garantir o devido processo legal.",
       "data": "2026-04-14T18:18",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616025"
+    },
+    {
+      "id": 2617748,
+      "tipo": "EMP",
+      "numero": 11,
+      "ano": 0,
+      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+      "data": "2026-04-22T17:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617748"
     }
   ],
   "discursos": [],

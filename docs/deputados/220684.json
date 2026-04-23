@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220684.jpg",
-  "score": 18.83,
-  "rank": 404,
+  "score": 17.51,
+  "rank": 441,
   "proposicoes": [],
   "discursos": [
     {
@@ -36,16 +36,16 @@
       "desde": "2026-02-03T00:00"
     },
     {
-      "nome": "Comissão de Meio Ambiente e Desenvolvimento Sustentável",
-      "sigla": "CMADS",
-      "cargo": "Suplente",
-      "desde": "2026-03-03T00:00"
-    },
-    {
       "nome": "Comissão de Constituição e Justiça e de Cidadania",
       "sigla": "CCJC",
       "cargo": "Titular",
       "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Meio Ambiente e Desenvolvimento Sustentável",
+      "sigla": "CMADS",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220684/votacoes-nominais-plenario/2026"

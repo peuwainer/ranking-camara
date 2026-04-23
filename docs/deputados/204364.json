@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204364.jpg",
-  "score": 29.07,
-  "rank": 203,
+  "score": 31.37,
+  "rank": 148,
   "proposicoes": [
     {
       "id": 2612333,
@@ -108,6 +108,12 @@
       "sigla": "CMULHER",
       "cargo": "Titular",
       "desde": "2026-03-11T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204364/votacoes-nominais-plenario/2026"

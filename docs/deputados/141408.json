@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141408.jpg",
-  "score": 40.54,
-  "rank": 19,
+  "score": 39.42,
+  "rank": 26,
   "proposicoes": [
     {
       "id": 2613353,
@@ -33,6 +33,15 @@
       "ementa": "Altera a Lei nº 12.212, de 20 de janeiro de 2010, para estender a isenção da tarifa de energia elétrica a idosos e pessoas com Transtorno do Espectro Autista (TEA), cadastrados em programas de transferência de renda, desde que o consumo mensal não ultrapasse 80 kWh.",
       "data": "2026-04-07T09:56",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613788"
+    },
+    {
+      "id": 2617702,
+      "tipo": "EMP",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986, que institui o Código Brasileiro de Aeronáutica, para estabelecer hipóteses de autorização da realização de serviços aéreos de transporte doméstico por empresas sul-americanas na Amazônia Legal.",
+      "data": "2026-04-22T16:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617702"
     }
   ],
   "discursos": [

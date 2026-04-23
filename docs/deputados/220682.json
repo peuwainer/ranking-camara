@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220682.jpg",
-  "score": 28.06,
-  "rank": 237,
+  "score": 29.35,
+  "rank": 212,
   "proposicoes": [
     {
       "id": 2615287,
@@ -92,6 +92,12 @@
       "sigla": "CDHMIR",
       "cargo": "2º Vice-Presidente",
       "desde": "2026-03-25T00:00"
+    },
+    {
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220682/votacoes-nominais-plenario/2026"

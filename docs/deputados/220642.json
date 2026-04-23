@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220642.jpg",
-  "score": 30.75,
-  "rank": 155,
+  "score": 30.91,
+  "rank": 161,
   "proposicoes": [
     {
       "id": 2615374,
@@ -42,12 +42,6 @@
       "sigla": "CLP",
       "cargo": "Titular",
       "desde": "2026-02-04T00:00"
-    },
-    {
-      "nome": "Comissão de Meio Ambiente e Desenvolvimento Sustentável",
-      "sigla": "CMADS",
-      "cargo": "Titular",
-      "desde": "2026-03-03T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220642/votacoes-nominais-plenario/2026"

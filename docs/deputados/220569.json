@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220569.jpg",
-  "score": 21.12,
-  "rank": 372,
+  "score": 22.47,
+  "rank": 365,
   "proposicoes": [
     {
       "id": 2612768,
@@ -24,6 +24,24 @@
       "ementa": "Dispõe sobre a vedação à nomeação para cargos em comissão, funções de confiança e à contratação com a Administração Pública de pessoas condenadas por crimes de violência doméstica e familiar contra a mulher, bem como por crimes praticados contra crianças, adolescentes, idosos e pessoas com deficiência.",
       "data": "2026-04-14T14:48",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615911"
+    },
+    {
+      "id": 2617702,
+      "tipo": "EMP",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986, que institui o Código Brasileiro de Aeronáutica, para estabelecer hipóteses de autorização da realização de serviços aéreos de transporte doméstico por empresas sul-americanas na Amazônia Legal.",
+      "data": "2026-04-22T16:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617702"
+    },
+    {
+      "id": 2617763,
+      "tipo": "PL",
+      "numero": 1932,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.605/1998 para dispor sobre a comunicação obrigatória de indícios de maus-tratos a animais e estabelecer penalidades.",
+      "data": "2026-04-22T18:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617763"
     }
   ],
   "discursos": [],

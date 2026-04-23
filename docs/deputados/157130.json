@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/157130.jpg",
-  "score": 33.22,
-  "rank": 87,
+  "score": 31.48,
+  "rank": 145,
   "proposicoes": [],
   "discursos": [
     {
@@ -54,12 +54,6 @@
       "desde": "2026-02-03T00:00"
     },
     {
-      "nome": "Comissão de Constituição e Justiça e de Cidadania",
-      "sigla": "CCJC",
-      "cargo": "Titular",
-      "desde": "2026-02-10T00:00"
-    },
-    {
       "nome": "Comissão de Cultura",
       "sigla": "CCULT",
       "cargo": "Suplente",
@@ -70,6 +64,12 @@
       "sigla": "CE",
       "cargo": "Suplente",
       "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/157130/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220572.jpg",
-  "score": 9.02,
-  "rank": 489,
+  "score": 9.55,
+  "rank": 495,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -14,6 +14,18 @@
       "sigla": "SEMULHER",
       "cargo": "Titular",
       "desde": "2023-05-04T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220572/votacoes-nominais-plenario/2026"

@@ -4,36 +4,9 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141421.jpg",
-  "score": 32.46,
-  "rank": 105,
+  "score": 30.69,
+  "rank": 170,
   "proposicoes": [
-    {
-      "id": 2611230,
-      "tipo": "PL",
-      "numero": 1324,
-      "ano": 2026,
-      "ementa": "Altera a Lei Maria da Penha para estabelecer requisito de identificação visual dos dispositivos de monitoração eletrônica utilizados por agressores submetidos a medidas protetivas de urgência.",
-      "data": "2026-03-23T12:26",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611230"
-    },
-    {
-      "id": 2611231,
-      "tipo": "PL",
-      "numero": 1325,
-      "ano": 2026,
-      "ementa": "Altera a Lei que institui a Política Nacional de Prevenção da Automutilação e do Suicídio, para dispor sobre a adoção de medidas de proteção física em pontes, viadutos e demais obras de arte especiais situadas em rodovias.",
-      "data": "2026-03-23T12:26",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611231"
-    },
-    {
-      "id": 2611232,
-      "tipo": "PL",
-      "numero": 1326,
-      "ano": 2026,
-      "ementa": "Dispõe sobre padrões mínimos de atendimento especializado às mulheres em situação de violência doméstica e familiar, bem como diretrizes para o funcionamento e a expansão das Delegacias Especializadas de Atendimento à Mulher - DEAM",
-      "data": "2026-03-23T12:26",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611232"
-    },
     {
       "id": 2611547,
       "tipo": "PL",
@@ -123,6 +96,15 @@
       "ementa": "Institui o Programa Nacional de Proteção Integral a Crianças e Adolescentes em Situação de Orfandade por Feminicídio.",
       "data": "2026-04-15T19:06",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616797"
+    },
+    {
+      "id": 2617705,
+      "tipo": "PL",
+      "numero": 1930,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o dever das concessionárias de serviço público de ressarcir os danos materiais e morais, inclusive lucros cessantes e os danos morais coletivos, decorrentes de falhas na prestação de serviços.",
+      "data": "2026-04-22T16:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617705"
     }
   ],
   "discursos": [],

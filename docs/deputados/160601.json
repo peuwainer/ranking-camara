@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160601.jpg",
-  "score": 26.75,
-  "rank": 264,
-  "proposicoes": [],
+  "score": 29.07,
+  "rank": 220,
+  "proposicoes": [
+    {
+      "id": 2617764,
+      "tipo": "PL",
+      "numero": 1933,
+      "ano": 2026,
+      "ementa": "Altera o art. 4º da Lei nº 6.932, de 07 de julho de 1981, e o art. 13 da Lei nº 11.129, de 30 de junho de 2005, para alterar o valor da bolsa do médico-residente.",
+      "data": "2026-04-22T18:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617764"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

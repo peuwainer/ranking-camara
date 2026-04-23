@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
-  "score": 36.18,
-  "rank": 47,
+  "score": 34.91,
+  "rank": 66,
   "proposicoes": [
-    {
-      "id": 2611258,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 12.651, de 25 de maio de 2012, para incluir nas Áreas de Preservação Permanente (APPs) os igarapés de 1ª a 3ª ordens.",
-      "data": "2026-03-23T14:02",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611258"
-    },
     {
       "id": 2611503,
       "tipo": "SBT",
@@ -162,6 +153,30 @@
       "sigla": "CPD",
       "cargo": "Suplente",
       "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Ciência, Tecnologia e Inovação",
+      "sigla": "CCTI",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",
+      "sigla": "CINDRE",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão de Meio Ambiente e Desenvolvimento Sustentável",
+      "sigla": "CMADS",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220715/votacoes-nominais-plenario/2026"

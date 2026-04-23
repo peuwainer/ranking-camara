@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220576.jpg",
-  "score": 10.49,
-  "rank": 484,
+  "score": 15.02,
+  "rank": 469,
   "proposicoes": [],
   "discursos": [
     {
@@ -42,16 +42,16 @@
       "desde": "2026-02-27T00:00"
     },
     {
-      "nome": "Comissão de Constituição e Justiça e de Cidadania",
-      "sigla": "CCJC",
-      "cargo": "Suplente",
-      "desde": "2026-04-07T00:00"
-    },
-    {
       "nome": "Comissão de Finanças e Tributação",
       "sigla": "CFT",
       "cargo": "Suplente",
       "desde": "2026-04-13T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220576/votacoes-nominais-plenario/2026"

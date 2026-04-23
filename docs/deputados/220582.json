@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220582.jpg",
-  "score": 22.74,
-  "rank": 346,
+  "score": 24.65,
+  "rank": 318,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -32,6 +32,12 @@
       "sigla": "CE",
       "cargo": "1º Vice-Presidente",
       "desde": "2026-03-18T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220582/votacoes-nominais-plenario/2026"

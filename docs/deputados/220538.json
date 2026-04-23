@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220538.jpg",
-  "score": 29.13,
-  "rank": 201,
+  "score": 27.84,
+  "rank": 251,
   "proposicoes": [
     {
       "id": 2611950,
@@ -35,7 +35,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614903"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-22T17:36",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ALBUQUERQUE (Bloco/REPUBLICANOS - RR. Pela ordem. Sem revisão do orador.) - Presidente, agradeço a oportunidade e parabenizo-o pela passagem do seu aniversário. Hoje, quero aqui deixar registrad",
+      "transcricao": "O SR. ALBUQUERQUE (Bloco/REPUBLICANOS - RR. Pela ordem. Sem revisão do orador.) - Presidente, agradeço a oportunidade e parabenizo-o pela passagem do seu aniversário. Hoje, quero aqui deixar registrado que neste final de semana eu estive nas comunidades indígenas no meu Estado de Roraima, em especial a comunidade Wai-wai, cujas lideranças são nossos amigos Levi, Paulinho e o Professor Alexandre. Fomos recebidos com muito carinho, com muita dança e com muito folclore. Presidente, eu quero também deixar registrado o meu voto naquela oportunidade em que votei no Marco Temporal. Nós conversamos com as comunidades que ali... Eu não fiz o melhor caminho. Hoje, o caminho do equilíbrio não passa por uma linha de corte arbitrário no Marco Temporal e no tempo. O verdadeiro equilíbrio entre a propriedade e justiça no campo, produção e proteção da floresta e dos direitos dos indígenas só vai acontecer se a gente parar de decidir, sobretudo sobre aquele Brasil que vive na floresta. Presidente, quero aqui deixar registrada a minha alegria de poder participar das comemorações do 19 de abril, Dia do Índio, e o meu descontentamento com o meu voto no Marco Temporal. Muito obrigado pela oportunidade, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",

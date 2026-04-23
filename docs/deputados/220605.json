@@ -4,8 +4,8 @@
   "partido": "PV",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220605.jpg",
-  "score": 29.4,
-  "rank": 190,
+  "score": 29.66,
+  "rank": 199,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -32,6 +32,12 @@
       "sigla": "CESPO",
       "cargo": "Titular",
       "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220605/votacoes-nominais-plenario/2026"

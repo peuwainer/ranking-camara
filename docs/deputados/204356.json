@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204356.jpg",
-  "score": 29.4,
-  "rank": 189,
+  "score": 28.98,
+  "rank": 222,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -22,16 +22,16 @@
       "desde": "2025-09-03T00:00"
     },
     {
-      "nome": "Comissão de Ciência, Tecnologia e Inovação",
-      "sigla": "CCTI",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Comunicação",
       "sigla": "CCOM",
       "cargo": "Titular",
       "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Ciência, Tecnologia e Inovação",
+      "sigla": "CCTI",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204356/votacoes-nominais-plenario/2026"

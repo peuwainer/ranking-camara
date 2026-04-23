@@ -4,27 +4,9 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
-  "score": 58.11,
-  "rank": 3,
+  "score": 64.14,
+  "rank": 2,
   "proposicoes": [
-    {
-      "id": 2611237,
-      "tipo": "PL",
-      "numero": 1329,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a regulamentação da profissão de agente de saneamento.",
-      "data": "2026-03-23T12:37",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611237"
-    },
-    {
-      "id": 2611305,
-      "tipo": "PL",
-      "numero": 1336,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o enfrentamento do feminicídio como política pública de Estado e positiva, em lei, a existência, as competências, a composição, o funcionamento e a manutenção em caráter permanente do Comitê Interinstitucional de Gestão do Pacto Brasil entre os Três Poderes para Enfrentamento do Feminicídio, instituído pelo Decreto Federal nº 12.839, de 4 de fevereiro de 2026.",
-      "data": "2026-03-23T16:32",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611305"
-    },
     {
       "id": 2611465,
       "tipo": "SBT",
@@ -231,6 +213,123 @@
       "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, para assegurar a assistência de equipes especializadas multidisciplinares que necessariamente contem com fisioterapeutas nos serviços de saúde onde o parto for realizado.",
       "data": "2026-04-17T14:38",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617394"
+    },
+    {
+      "id": 2617630,
+      "tipo": "PL",
+      "numero": 1920,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para aprimorar a notificação da vítima de violência doméstica e familiar quanto aos atos processuais realizados no curso do processo.",
+      "data": "2026-04-22T15:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617630"
+    },
+    {
+      "id": 2617641,
+      "tipo": "PL",
+      "numero": 1922,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer a realização de audiência admonitória no caso de revogação de prisão preventiva ou liberdade provisória.",
+      "data": "2026-04-22T15:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617641"
+    },
+    {
+      "id": 2617650,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986, que institui o Código Brasileiro de Aeronáutica, para estabelecer hipóteses de autorização da realização de serviços aéreos de transporte doméstico por empresas sul-americanas na Amazônia Legal.",
+      "data": "2026-04-22T15:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617650"
+    },
+    {
+      "id": 2617711,
+      "tipo": "EMP",
+      "numero": 6,
+      "ano": 0,
+      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+      "data": "2026-04-22T17:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617711"
+    },
+    {
+      "id": 2617713,
+      "tipo": "EMP",
+      "numero": 7,
+      "ano": 0,
+      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+      "data": "2026-04-22T17:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617713"
+    },
+    {
+      "id": 2617717,
+      "tipo": "EMP",
+      "numero": 8,
+      "ano": 0,
+      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+      "data": "2026-04-22T17:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617717"
+    },
+    {
+      "id": 2617722,
+      "tipo": "EMP",
+      "numero": 9,
+      "ano": 0,
+      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+      "data": "2026-04-22T17:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617722"
+    },
+    {
+      "id": 2617735,
+      "tipo": "EMP",
+      "numero": 10,
+      "ano": 0,
+      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+      "data": "2026-04-22T17:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617735"
+    },
+    {
+      "id": 2617748,
+      "tipo": "EMP",
+      "numero": 11,
+      "ano": 0,
+      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+      "data": "2026-04-22T17:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617748"
+    },
+    {
+      "id": 2617771,
+      "tipo": "EMP",
+      "numero": 12,
+      "ano": 0,
+      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+      "data": "2026-04-22T18:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617771"
+    },
+    {
+      "id": 2617780,
+      "tipo": "EMP",
+      "numero": 13,
+      "ano": 0,
+      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+      "data": "2026-04-22T18:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617780"
+    },
+    {
+      "id": 2617789,
+      "tipo": "EMP",
+      "numero": 14,
+      "ano": 0,
+      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+      "data": "2026-04-22T18:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617789"
+    },
+    {
+      "id": 2617813,
+      "tipo": "EMP",
+      "numero": 15,
+      "ano": 0,
+      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
+      "data": "2026-04-22T19:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617813"
     }
   ],
   "discursos": [

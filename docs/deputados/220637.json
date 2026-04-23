@@ -4,8 +4,8 @@
   "partido": "REDE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220637.jpg",
-  "score": 14.55,
-  "rank": 459,
+  "score": 16.63,
+  "rank": 452,
   "proposicoes": [],
   "discursos": [
     {
@@ -41,6 +41,18 @@
       "sigla": "CMADS",
       "cargo": "Titular",
       "desde": "2026-04-07T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220637/votacoes-nominais-plenario/2026"

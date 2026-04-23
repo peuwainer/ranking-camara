@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220594.jpg",
-  "score": 32.01,
-  "rank": 117,
+  "score": 31.99,
+  "rank": 133,
   "proposicoes": [],
   "discursos": [
     {
@@ -60,12 +60,6 @@
       "sigla": "PL808514",
       "cargo": "Suplente",
       "desde": "2026-02-27T00:00"
-    },
-    {
-      "nome": "Comissão de Finanças e Tributação",
-      "sigla": "CFT",
-      "cargo": "Titular",
-      "desde": "2026-04-13T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220594/votacoes-nominais-plenario/2026"

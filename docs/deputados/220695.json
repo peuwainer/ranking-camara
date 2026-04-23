@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-  "score": 43.43,
-  "rank": 12,
+  "score": 46.17,
+  "rank": 8,
   "proposicoes": [
     {
       "id": 2611788,
@@ -213,6 +213,33 @@
       "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL 273/2025, com substitutivo.",
       "data": "2026-04-16T15:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617351"
+    },
+    {
+      "id": 2617464,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Emenda modificativa ao PL nº  6615/2025 - Institui o Mapa do Caminho Brasileiro da Transição Justa para a Economia de Baixo Carbono e o Desmatamento Zero, como instrumento da Política Nacional sobre Mudança do Clima, e altera as Leis nºs 12.114, de 9 de dezembro de 2009, que cria o Fundo Nacional sobre Mudança do Clima; 12.187, de 29 de dezembro de 2009, que institui a Política Nacional sobre Mudança do Clima; e 12.351, de 22 de dezembro de 2010, que cria o Fundo Social, para compatibilizá-las ao novo instrumento e para viabilizá-lo financeiramente.",
+      "data": "2026-04-20T15:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617464"
+    },
+    {
+      "id": 2617465,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 2026,
+      "ementa": "Emenda aditiva ao PL nº 66152025 - Institui o Mapa do Caminho Brasileiro da Transição Justa para a Economia de Baixo Carbono e o Desmatamento Zero, como instrumento da Política Nacional sobre Mudança do Clima, e altera as Leis nºs 12.114, de 9 de dezembro de 2009, que cria o Fundo Nacional sobre Mudança do Clima; 12.187, de 29 de dezembro de 2009, que institui a Política Nacional sobre Mudança do Clima; e 12.351, de 22 de dezembro de 2010, que cria o Fundo Social, para compatibilizá-las ao novo instrumento e para viabilizá-lo financeiramente.",
+      "data": "2026-04-20T15:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617465"
+    },
+    {
+      "id": 2617773,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Emenda de Plenário  para alterar os incisos II, X e XI do art. 21-V do Projeto de Resolução nº 22, de 2026, que altera o Regimento Interno da Câmara dos Deputados para criar a Secretaria de Monitoramento e Fiscalização das Decisões do Sistema Interamericano de Direitos Humanos.",
+      "data": "2026-04-22T18:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617773"
     }
   ],
   "discursos": [

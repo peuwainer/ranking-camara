@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220566.jpg",
-  "score": 19.49,
-  "rank": 396,
+  "score": 20.79,
+  "rank": 393,
   "proposicoes": [
     {
       "id": 2612992,
@@ -59,6 +59,18 @@
       "sigla": "CDU",
       "cargo": "Suplente",
       "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220566/votacoes-nominais-plenario/2026"

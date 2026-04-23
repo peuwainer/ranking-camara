@@ -4,9 +4,28 @@
   "partido": "REPUBLICANOS",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178945.jpg",
-  "score": 25.54,
-  "rank": 288,
-  "proposicoes": [],
+  "score": 25.92,
+  "rank": 294,
+  "proposicoes": [
+    {
+      "id": 2617690,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Emenda Modificativa ao PL 533 de 2024",
+      "data": "2026-04-22T16:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617690"
+    },
+    {
+      "id": 2617691,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Emenda Supressiva ao PL 533 de 2024",
+      "data": "2026-04-22T16:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617691"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-04-16T12:08",

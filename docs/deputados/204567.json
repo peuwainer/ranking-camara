@@ -4,9 +4,28 @@
   "partido": "PSD",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204567.jpg",
-  "score": 20.38,
-  "rank": 385,
-  "proposicoes": [],
+  "score": 17.13,
+  "rank": 446,
+  "proposicoes": [
+    {
+      "id": 2617552,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-04-22T13:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617552"
+    },
+    {
+      "id": 2617603,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 10.779, de 25 de novembro de 2003, para prever a integração do seguro-desemprego do pescador artesanal com programas de qualificação profissional e diversificação de renda durante o período de defeso.",
+      "data": "2026-04-22T13:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617603"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

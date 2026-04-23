@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "AC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/104552.jpg",
-  "score": 26.77,
-  "rank": 259,
+  "score": 32.11,
+  "rank": 130,
   "proposicoes": [
     {
       "id": 2612575,
@@ -78,6 +78,24 @@
       "ementa": "Altera o Anexo II da Lei nº 11.091, de 12 de janeiro de 2005, para incluir o Curso Superior de Tecnologia em Processos Escolares entre os requisitos de ingresso no cargo de Técnico em Assuntos Educacionais.",
       "data": "2026-04-15T18:24",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616774"
+    },
+    {
+      "id": 2617500,
+      "tipo": "PL",
+      "numero": 1910,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a implantação do Hospital Universitário da Universidade Federal do Acre – HU-UFAC, no Estado do Acre.",
+      "data": "2026-04-22T11:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617500"
+    },
+    {
+      "id": 2617750,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a dispensa do uso obrigatório de uniforme escolar para estudantes com Transtorno do Espectro Autista (TEA), considerando suas sensibilidades sensoriais e necessidades específicas, e dá outras providências.",
+      "data": "2026-04-22T17:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617750"
     }
   ],
   "discursos": [

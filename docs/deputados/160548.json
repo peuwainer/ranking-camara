@@ -4,7 +4,7 @@
   "partido": "PSB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160548.jpg",
-  "score": 39.06,
+  "score": 39.56,
   "rank": 25,
   "proposicoes": [
     {
@@ -141,6 +141,15 @@
       "ementa": "Altera a Consolidação das Leis do Trabalho – CLT, para dispor a obrigação de aviso de rescisão do contrato de trabalho da gestante antes do fim do prazo de estabilidade no emprego.",
       "data": "2026-04-13T11:34",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615393"
+    },
+    {
+      "id": 2617694,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Modifique-se o art. 1º do Projeto de Lei nº 539, de 2024, para acrescer o § 3º ao art. 216 do Código Brasileiro de Aeronáutica, com a seguinte redação:\n\t\t“Art. 216. ....................................................................................\n§ 3º Nos serviços aéreos de transporte público doméstico operados por empresas estrangeiras nos termos deste artigo, a tripulação de voo e de cabine deverá ser composta exclusivamente por aeronautas brasileiros, nos termos da Lei nº 13.475, de 28 de agosto de 2017, aplicando-se integralmente a legislação trabalhista brasileira, incluídas as convenções e acordos coletivos de trabalho celebrados pelo sindicato representativo da categoria.” (NR)",
+      "data": "2026-04-22T16:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617694"
     }
   ],
   "discursos": [
@@ -174,12 +183,6 @@
       "desde": "2025-11-03T00:00"
     },
     {
-      "nome": "Comissão de Viação e Transportes",
-      "sigla": "CVT",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
       "sigla": "CREDN",
       "cargo": "Titular",
@@ -190,6 +193,12 @@
       "sigla": "PL808514",
       "cargo": "Suplente",
       "desde": "2026-02-27T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/160548/votacoes-nominais-plenario/2026"

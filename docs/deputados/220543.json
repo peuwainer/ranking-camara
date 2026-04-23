@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220543.jpg",
-  "score": 36.95,
-  "rank": 41,
+  "score": 38.54,
+  "rank": 29,
   "proposicoes": [
     {
       "id": 2613006,
@@ -33,6 +33,24 @@
       "ementa": "Altera as Leis nº 14.129, de 29 de março de 2021, e nº 12.527, de 18 de novembro de 2011, para assegurar ao cidadão o direito de optar pelo recebimento de comunicações e documentos da Administração Pública da União, dos Estados, do Distrito Federal e dos Municípios em formato digital.",
       "data": "2026-04-07T15:18",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613829"
+    },
+    {
+      "id": 2617570,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o benefício do Passe Livre Nacional do Professor, garantindo gratuidade no transporte público urbano, intermunicipal e interestadual aos profissionais da educação básica e superior mediante apresentação da Carteira Nacional Docente do Brasil (CNDB), e integra o programa à plataforma Mais Professores do Ministério da Educação, para valorização e mobilidade docente em todo o território nacional.",
+      "data": "2026-04-22T11:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617570"
+    },
+    {
+      "id": 2617702,
+      "tipo": "EMP",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986, que institui o Código Brasileiro de Aeronáutica, para estabelecer hipóteses de autorização da realização de serviços aéreos de transporte doméstico por empresas sul-americanas na Amazônia Legal.",
+      "data": "2026-04-22T16:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617702"
     }
   ],
   "discursos": [

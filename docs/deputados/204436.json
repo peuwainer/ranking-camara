@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204436.jpg",
-  "score": 4.4,
-  "rank": 509,
+  "score": 4.66,
+  "rank": 511,
   "proposicoes": [
     {
       "id": 2616782,
@@ -36,6 +36,12 @@
       "sigla": "CSAUDE",
       "cargo": "Suplente",
       "desde": "2026-03-04T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204436/votacoes-nominais-plenario/2026"

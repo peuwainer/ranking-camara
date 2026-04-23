@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204358.jpg",
-  "score": 27.72,
-  "rank": 245,
+  "score": 29.08,
+  "rank": 219,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -32,6 +32,18 @@
       "sigla": "PL808514",
       "cargo": "Suplente",
       "desde": "2026-02-27T00:00"
+    },
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão do Esporte",
+      "sigla": "CESPO",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204358/votacoes-nominais-plenario/2026"

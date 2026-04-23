@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
-  "score": 34.71,
-  "rank": 65,
+  "score": 40.09,
+  "rank": 24,
   "proposicoes": [
     {
       "id": 2613360,
@@ -33,6 +33,60 @@
       "ementa": "Institui a categoria \"Veículo Off-Road de Uso Misto\" no Código de Trânsito Brasileiro, regulamenta a elevação da suspensão de caminhonetes, jipes e veículos utilitários e dá outras providências.",
       "data": "2026-04-14T11:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615718"
+    },
+    {
+      "id": 2617487,
+      "tipo": "PL",
+      "numero": 1907,
+      "ano": 2026,
+      "ementa": "Institui o Regime Simplificado de Contribuição Previdenciária para Artistas e Trabalhadores Circenses Itinerantes, assegura direitos trabalhistas básicos adaptados à natureza itinerante da atividade circense e dá outras providências.",
+      "data": "2026-04-22T11:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617487"
+    },
+    {
+      "id": 2617496,
+      "tipo": "PL",
+      "numero": 1909,
+      "ano": 2026,
+      "ementa": "Institui normas federais padronizadas para o licenciamento de segurança contra incêndio e pânico em circos itinerantes, disciplina a emissão do Auto de Vistoria do Corpo de Bombeiros – AVCB em todo o território nacional e dá outras providências.",
+      "data": "2026-04-22T11:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617496"
+    },
+    {
+      "id": 2617508,
+      "tipo": "PL",
+      "numero": 1913,
+      "ano": 2026,
+      "ementa": "Estabelece percentual mínimo obrigatório de programação destinada a espetáculos de circos itinerantes em espaços culturais públicos de temática circense, disciplina os critérios de contratação e cachês, e dá outras providências.",
+      "data": "2026-04-22T12:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617508"
+    },
+    {
+      "id": 2617595,
+      "tipo": "PL",
+      "numero": 1918,
+      "ano": 2026,
+      "ementa": "Reconhece o Japan Fest de Marília, realizado no Município de Marília, Estado de São Paulo, como manifestação da cultura nacional de matriz nipo-brasileira, inclui o evento no Calendário Turístico Oficial do País e dá outras providências.",
+      "data": "2026-04-22T14:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617595"
+    },
+    {
+      "id": 2617640,
+      "tipo": "PL",
+      "numero": 1921,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a comercialização e o consumo responsável de bebidas alcoólicas em arenas esportivas, estádios e eventos esportivos de grande público, estabelece normas gerais de segurança, controle e responsabilidade, e dá outras providências.",
+      "data": "2026-04-22T15:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617640"
+    },
+    {
+      "id": 2617653,
+      "tipo": "PL",
+      "numero": 1923,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a instalação, exploração e funcionamento de camarotes provisórios em arenas esportivas e estádios de futebol, autoriza a comercialização de bebidas alcoólicas em áreas privativas, estabelece regras de segurança, responsabilidade civil e administrativa, e dá outras providências.",
+      "data": "2026-04-22T15:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617653"
     }
   ],
   "discursos": [
@@ -100,6 +154,12 @@
       "sigla": "CIDOSO",
       "cargo": "Titular",
       "desde": "2026-02-10T00:00"
+    },
+    {
+      "nome": "Comissão do Esporte",
+      "sigla": "CESPO",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178829/votacoes-nominais-plenario/2026"

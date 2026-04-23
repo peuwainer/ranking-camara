@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
-  "score": 15.59,
-  "rank": 454,
+  "score": 19.9,
+  "rank": 404,
   "proposicoes": [
     {
       "id": 2615994,
@@ -69,6 +69,12 @@
       "sigla": "CAPADR",
       "cargo": "Titular",
       "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Indústria, Comércio e Serviços",
+      "sigla": "CICS",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178964/votacoes-nominais-plenario/2026"

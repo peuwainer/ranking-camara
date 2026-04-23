@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220649.jpg",
-  "score": 24.17,
-  "rank": 313,
+  "score": 24.98,
+  "rank": 315,
   "proposicoes": [
     {
       "id": 2617097,
@@ -62,12 +62,6 @@
       "desde": "2025-09-10T00:00"
     },
     {
-      "nome": "Comissão do Esporte",
-      "sigla": "CESPO",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Constituição e Justiça e de Cidadania",
       "sigla": "CCJC",
       "cargo": "Suplente",
@@ -78,6 +72,12 @@
       "sigla": "CSPCCO",
       "cargo": "Titular",
       "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão do Esporte",
+      "sigla": "CESPO",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220649/votacoes-nominais-plenario/2026"

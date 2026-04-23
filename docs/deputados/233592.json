@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/233592.jpg",
-  "score": 18.54,
-  "rank": 410,
+  "score": 19.11,
+  "rank": 420,
   "proposicoes": [
     {
       "id": 2615287,
@@ -54,6 +54,12 @@
       "sigla": "CASP",
       "cargo": "Titular",
       "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/233592/votacoes-nominais-plenario/2026"

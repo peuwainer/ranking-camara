@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204570.jpg",
-  "score": 23.07,
-  "rank": 336,
+  "score": 28.0,
+  "rank": 246,
   "proposicoes": [
     {
       "id": 2611850,
@@ -42,6 +42,33 @@
       "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
       "data": "2026-03-26T10:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
+    },
+    {
+      "id": 2617781,
+      "tipo": "PL",
+      "numero": 1934,
+      "ano": 2026,
+      "ementa": "Altera o Código Penal e o Estatuto da Criança e do Adolescente para agravar as penas dos crimes de maus-tratos e delitos correlatos praticados contra criança ou adolescente em ambiente escolar, estabelecer o afastamento cautelar imediato do agente denunciado e criar responsabilidade penal para superior hierárquico que deixar de determinar o afastamento.",
+      "data": "2026-04-22T18:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617781"
+    },
+    {
+      "id": 2617795,
+      "tipo": "PL",
+      "numero": 1935,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre a obrigatoriedade de identificação do agente de trânsito responsável pela autuação, a responsabilidade pessoal do agente notificador e a exigência de imagens e vídeos claros, nítidos e inequívocos como condição de validade das notificações de infrações de trânsito, inclusive aquelas realizadas por sistemas automatizados e inteligência artificial.",
+      "data": "2026-04-22T18:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617795"
+    },
+    {
+      "id": 2617806,
+      "tipo": "PL",
+      "numero": 1937,
+      "ano": 2026,
+      "ementa": "Altera dispositivo da Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para endurecer as penalidades aplicáveis aos crimes de racha, competição, exibição e manobras perigosas em vias públicas, bem como para responsabilizar penal e administrativamente quem incentiva, promove, organiza ou participa direta ou indiretamente dessas condutas.",
+      "data": "2026-04-22T19:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617806"
     }
   ],
   "discursos": [],

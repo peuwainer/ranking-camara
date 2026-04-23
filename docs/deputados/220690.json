@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 42.71,
+  "score": 41.89,
   "rank": 13,
   "proposicoes": [
-    {
-      "id": 2611346,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Susta a INSTRUÇÃO NORMATIVA SEGES/MGI n°4, de 2 de fevereiro de 2023, que flexibiliza e estabelece regras complementares para a hipótese de bens passíveis de serem adquiridos com características superiores para estrita atividade do órgão ou entidade pública.",
-      "data": "2026-03-23T09:41",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611346"
-    },
     {
       "id": 2611694,
       "tipo": "PL",
@@ -150,6 +141,33 @@
       "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para permitir a dedução de despesas com segurança pessoal e patrimonial da base de cálculo do Imposto de Renda da Pessoa Física, e dá outras providências.",
       "data": "2026-04-16T15:37",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617201"
+    },
+    {
+      "id": 2617439,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Permite aos servidores públicos, empregados de empresas públicas e comissionados a escolha de qualquer instituição financeira para a abertura de conta bancária destinada ao recebimento de vencimentos, proventos e salários.",
+      "data": "2026-04-17T13:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617439"
+    },
+    {
+      "id": 2617507,
+      "tipo": "PL",
+      "numero": 1912,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.977, de 7 de julho de 2009, para instituir prioridade no atendimento a profissionais integrantes do Sistema Único de Segurança Pública (Susp) e a militares das Forças Armadas que residam em áreas de risco, no âmbito do Programa Minha Casa, Minha Vida – PMCMV",
+      "data": "2026-04-22T12:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617507"
+    },
+    {
+      "id": 2617803,
+      "tipo": "PL",
+      "numero": 1936,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a aquisição, a posse e o porte de arma de fogo no território nacional, institui o Sistema Nacional de Registro de Armas de Fogo (SINRAF) e revoga dispositivos da Lei nº 10.826, de 22 de dezembro de 2003.",
+      "data": "2026-04-22T18:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617803"
     }
   ],
   "discursos": [

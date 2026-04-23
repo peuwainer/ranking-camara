@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220664.jpg",
-  "score": 17.39,
-  "rank": 421,
+  "score": 18.5,
+  "rank": 429,
   "proposicoes": [
     {
       "id": 2611838,
@@ -57,6 +57,12 @@
       "sigla": "CREDN",
       "cargo": "Suplente",
       "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220664/votacoes-nominais-plenario/2026"

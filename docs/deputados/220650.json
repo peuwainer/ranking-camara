@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220650.jpg",
-  "score": 31.44,
-  "rank": 134,
+  "score": 32.96,
+  "rank": 103,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -62,6 +62,12 @@
       "sigla": "CVT",
       "cargo": "Titular",
       "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220650/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204486.jpg",
-  "score": 27.87,
-  "rank": 241,
+  "score": 27.75,
+  "rank": 254,
   "proposicoes": [],
   "discursos": [
     {
@@ -25,12 +25,6 @@
   ],
   "orgaos": [
     {
-      "nome": "Comissão de Saúde",
-      "sigla": "CSAUDE",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão Especial destinada a acompanhar as ações de prevenção e combate ao câncer, ao acidente vascular cerebral (AVC) e às doenças do coração.",
       "sigla": "CECANCER",
       "cargo": "Suplente",
@@ -40,7 +34,13 @@
       "nome": "Comissão de Finanças e Tributação",
       "sigla": "CFT",
       "cargo": "Titular",
-      "desde": "2026-03-18T00:00"
+      "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204486/votacoes-nominais-plenario/2026"

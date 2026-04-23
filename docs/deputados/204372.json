@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204372.jpg",
-  "score": 32.46,
-  "rank": 106,
+  "score": 34.4,
+  "rank": 75,
   "proposicoes": [
     {
       "id": 2613355,
@@ -33,6 +33,15 @@
       "ementa": "Institui a garantia de permanência de linha móvel sob a modalidade pré-pago em nome do consumidor e estabelece sanções administrativas para as prestadoras de serviços de telecomunicações em caso de cancelamento unilateral indevido.",
       "data": "2026-04-15T20:57",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617012"
+    },
+    {
+      "id": 2617702,
+      "tipo": "EMP",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986, que institui o Código Brasileiro de Aeronáutica, para estabelecer hipóteses de autorização da realização de serviços aéreos de transporte doméstico por empresas sul-americanas na Amazônia Legal.",
+      "data": "2026-04-22T16:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617702"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220617.jpg",
-  "score": 28.24,
-  "rank": 230,
+  "score": 27.86,
+  "rank": 249,
   "proposicoes": [
     {
       "id": 2612025,
@@ -52,12 +52,6 @@
     }
   ],
   "orgaos": [
-    {
-      "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",
-      "sigla": "CINDRE",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
     {
       "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
       "sigla": "CAPADR",

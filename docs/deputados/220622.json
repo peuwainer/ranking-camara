@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220622.jpg",
-  "score": 36.17,
-  "rank": 48,
+  "score": 35.75,
+  "rank": 51,
   "proposicoes": [
     {
       "id": 2611606,
@@ -74,12 +74,6 @@
       "desde": "2026-03-19T00:00"
     },
     {
-      "nome": "Comissão de Defesa dos Direitos da Mulher",
-      "sigla": "CMULHER",
-      "cargo": "Suplente",
-      "desde": "2026-03-19T00:00"
-    },
-    {
       "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
       "sigla": "CIDOSO",
       "cargo": "Suplente",
@@ -108,6 +102,12 @@
       "sigla": "CEXZMATA",
       "cargo": "Titular",
       "desde": "2026-03-26T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Mulher",
+      "sigla": "CMULHER",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220622/votacoes-nominais-plenario/2026"

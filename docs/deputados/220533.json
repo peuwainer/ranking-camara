@@ -4,8 +4,8 @@
   "partido": "PV",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220533.jpg",
-  "score": 29.87,
-  "rank": 179,
+  "score": 29.64,
+  "rank": 203,
   "proposicoes": [
     {
       "id": 2612333,
@@ -33,6 +33,15 @@
       "ementa": "Institui o Estatuto do Estudante da Educação Básica Pública.",
       "data": "2026-04-06T14:30",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613479"
+    },
+    {
+      "id": 2617746,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade de realização de visitas regulares ao dentista como requisito para a manutenção e concessão de benefícios sociais, cria a Caderneta Odontológica, estabelece exigência para matrícula escolar e dá outras providências.",
+      "data": "2026-04-22T15:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617746"
     }
   ],
   "discursos": [
