@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220558.jpg",
-  "score": 38.27,
-  "rank": 30,
+  "score": 38.93,
+  "rank": 27,
   "proposicoes": [
     {
       "id": 2613100,
@@ -51,6 +51,15 @@
       "ementa": "Altera a Lei no 9.985, de 18 de julho de 2000, com o objetivo de estabelecer diretrizes e limites para a criação de Unidades de Conservação.",
       "data": "2026-04-08T17:17",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614727"
+    },
+    {
+      "id": 2618127,
+      "tipo": "PL",
+      "numero": 1953,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.078 de 1990 para incluir as operações de crédito consignado no regime de prevenção e tratamento do superendividamento.",
+      "data": "2026-04-23T14:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618127"
     }
   ],
   "discursos": [

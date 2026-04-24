@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
-  "score": 40.09,
-  "rank": 24,
+  "score": 42.01,
+  "rank": 16,
   "proposicoes": [
     {
       "id": 2613360,
@@ -87,6 +87,33 @@
       "ementa": "Dispõe sobre a instalação, exploração e funcionamento de camarotes provisórios em arenas esportivas e estádios de futebol, autoriza a comercialização de bebidas alcoólicas em áreas privativas, estabelece regras de segurança, responsabilidade civil e administrativa, e dá outras providências.",
       "data": "2026-04-22T15:38",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617653"
+    },
+    {
+      "id": 2617995,
+      "tipo": "PL",
+      "numero": 1940,
+      "ano": 2026,
+      "ementa": "Determina que artistas, grupos e companhias de temática circense contemplados por programas federais de fomento cultural cumpram suas contrapartidas obrigatoriamente em circos itinerantes, veda o cumprimento em casas de cultura, teatros e espaços similares, e dá outras providências.",
+      "data": "2026-04-23T10:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617995"
+    },
+    {
+      "id": 2618027,
+      "tipo": "PL",
+      "numero": 1942,
+      "ano": 2026,
+      "ementa": "Garante preferência e simplificação no processo de concessão de uso de áreas e espaços públicos para instalação de circos itinerantes, reconhece o caráter cultural e social da atividade circense itinerante, estabelece prazos máximos para análise dos pedidos, limita as taxas de ocupação e dá outras providências.",
+      "data": "2026-04-23T11:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618027"
+    },
+    {
+      "id": 2618165,
+      "tipo": "PL",
+      "numero": 1960,
+      "ano": 2026,
+      "ementa": "Disciplina o fornecimento de energia elétrica temporária a circos itinerantes pelas concessionárias e permissionárias do serviço público de distribuição de energia elétrica, institui prazo máximo de quarenta e oito horas para a ligação, cria a Declaração de Responsabilidade Elétrica Circense como documento provisório substituto do alvará municipal, e dá outras providências.",
+      "data": "2026-04-23T16:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618165"
     }
   ],
   "discursos": [

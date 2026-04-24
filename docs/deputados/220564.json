@@ -5,7 +5,7 @@
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220564.jpg",
   "score": 5.44,
-  "rank": 508,
+  "rank": 506,
   "proposicoes": [
     {
       "id": 2617240,
@@ -53,16 +53,16 @@
       "desde": "2025-10-20T00:00"
     },
     {
-      "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",
-      "sigla": "CINDRE",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
       "sigla": "CREDN",
       "cargo": "Titular",
       "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",
+      "sigla": "CINDRE",
+      "cargo": "Suplente",
+      "desde": "2026-04-23T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220564/votacoes-nominais-plenario/2026"

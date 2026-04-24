@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220597.jpg",
-  "score": 19.08,
-  "rank": 422,
+  "score": 21.76,
+  "rank": 371,
   "proposicoes": [
     {
       "id": 2617460,
@@ -15,6 +15,33 @@
       "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para criar causa de aumento de pena para o caso de o crime de feminicídio ter sido cometido nas dependências de instituição de ensino.",
       "data": "2026-04-22T10:30",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617460"
+    },
+    {
+      "id": 2618003,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera as Leis nº 8.899, de 29 de junho de 1994, nº 13.444, de 11 de maio de 2017, nº 7.116, de 29 de agosto de 1983, e nº 9.049, de 18 de maio de 1995, para dispor sobre a inclusão de informação acerca da condição de pessoa com deficiência no Documento Nacional de Identidade (DNI).",
+      "data": "2026-04-22T19:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618003"
+    },
+    {
+      "id": 2618198,
+      "tipo": "PL",
+      "numero": 1963,
+      "ano": 2026,
+      "ementa": "Estabelece critérios de extrafiscalidade tributária para as alíquotas da Tabela de Incidência do Imposto sobre Produtos Industrializados (TIPI) incidentes sobre produtos alimentícios, visando desincentivar o consumo de gorduras hidrogenadas e açúcares em excesso, fomentar a produção de alimentos saudáveis, os derivados da agricultura familiar, e o desenvolvimento sustentável da cadeia do cacau",
+      "data": "2026-04-23T17:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618198"
+    },
+    {
+      "id": 2618199,
+      "tipo": "PL",
+      "numero": 1964,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de os estabelecimentos de saúde públicos e privados garantirem condições para o acompanhamento de pacientes crianças, adolescentes e pessoas com deficiência durante a realização de consultas, exames e procedimentos clínicos",
+      "data": "2026-04-23T18:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618199"
     }
   ],
   "discursos": [],

@@ -4,9 +4,55 @@
   "partido": "UNIÃO",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220576.jpg",
-  "score": 15.02,
-  "rank": 469,
-  "proposicoes": [],
+  "score": 18.26,
+  "rank": 432,
+  "proposicoes": [
+    {
+      "id": 2618074,
+      "tipo": "PLP",
+      "numero": 112,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 4.595, de 31 de dezembro de 1964, que dispõe sobre a Política e as Instituições Monetárias, Bancárias e Creditícias, para incluir entre as competências do Conselho Monetário Nacional a regulação da contratação de correspondentes no País,  para estabelecer diretrizes sobre a consideração da vulnerabilidade dos clientes na disciplina do crédito e sobre as normas de conduta aplicáveis às instituições no relacionamento com seus clientes e usuários, e para atribuir ao Banco Central do Brasil a competência de exercer permanente vigilância sobre os correspondentes no País.",
+      "data": "2026-04-23T12:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618074"
+    },
+    {
+      "id": 2618076,
+      "tipo": "PL",
+      "numero": 1946,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 1.579, de 18 de março de 1952, para fortalecer as prerrogativas e poderes das Comissões Parlamentares de Inquérito.",
+      "data": "2026-04-23T13:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618076"
+    },
+    {
+      "id": 2618077,
+      "tipo": "PL",
+      "numero": 1947,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.429, de 2 de junho de 1992, a Lei nº 8.213, de 24 de julho de 1991, a Lei nº 10.820, de 17 de dezembro de 2003, e a Lei nº 12.846, de 1º de agosto de 2013, para dispor sobre operações de crédito consignado incidentes sobre benefícios pagos pelo Instituto Nacional do Seguro Social (INSS).",
+      "data": "2026-04-23T13:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618077"
+    },
+    {
+      "id": 2618086,
+      "tipo": "PL",
+      "numero": 1949,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.506, de 13 de novembro de 2017, que dispõe sobre o processo administrativo sancionador na esfera de atuação do Banco Central do Brasil e da Comissão de Valores Mobiliários, para considerar como infração passível de sanção o descumprimento de normas legais e regulamentares relativas à contratação de correspondentes no País, bem como para incluir no rol de infrações graves condutas que causem danos a clientes e usuários de serviços e produtos financeiros, especialmente aqueles considerados vulneráveis, tais como os titulares de benefícios previdenciários ou assistenciais de que trata o art. 6º da Lei nº 10.820, de 17 de dezembro de 2003.",
+      "data": "2026-04-23T13:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618086"
+    },
+    {
+      "id": 2618087,
+      "tipo": "PL",
+      "numero": 1950,
+      "ano": 2026,
+      "ementa": "Altera o art. 171 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para estabelecer qualificadora nos casos de estelionato cometido em detrimento ou por intermédio de entidade de direito público ou instituto de economia popular, assistência social ou beneficência, e para tornar a ação penal pública incondicionada para vítima maior de 60 (sessenta) anos.",
+      "data": "2026-04-23T13:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618087"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-04-07T18:12",
@@ -52,6 +98,12 @@
       "sigla": "CCJC",
       "cargo": "Titular",
       "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Suplente",
+      "desde": "2026-04-23T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220576/votacoes-nominais-plenario/2026"

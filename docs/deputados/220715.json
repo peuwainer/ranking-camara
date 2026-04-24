@@ -4,36 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
-  "score": 34.91,
-  "rank": 66,
+  "score": 33.11,
+  "rank": 101,
   "proposicoes": [
-    {
-      "id": 2611503,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "",
-      "data": "2026-03-24T15:11",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611503"
-    },
-    {
-      "id": 2611505,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "",
-      "data": "2026-03-24T15:18",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611505"
-    },
-    {
-      "id": 2611641,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "",
-      "data": "2026-03-24T20:01",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611641"
-    },
     {
       "id": 2612333,
       "tipo": "PL",
@@ -114,6 +87,15 @@
       "ementa": "Altera a Lei nº 8.730, de 10 de novembro de 1993, e a Lei nº 8.429, de 2 de junho de 1992, para aperfeiçoar o regime de transparência patrimonial de agentes públicos, com foco na prevenção de conflitos de interesses e no fortalecimento da integridade administrativa.",
       "data": "2026-04-17T16:56",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617413"
+    },
+    {
+      "id": 2618093,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Esta lei determina que os cuidados com a saúde mental das pessoas só poderão ser exercidos por profissional com curso superior nas áreas de psicologia e psiquiatria e dá outras providências.",
+      "data": "2026-04-23T10:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618093"
     }
   ],
   "discursos": [],

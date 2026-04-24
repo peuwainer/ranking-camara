@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178945.jpg",
-  "score": 25.92,
-  "rank": 294,
+  "score": 27.61,
+  "rank": 251,
   "proposicoes": [
     {
       "id": 2617690,
@@ -54,6 +54,12 @@
       "sigla": "BANEGRA",
       "cargo": "Titular",
       "desde": "2026-03-25T00:00"
+    },
+    {
+      "nome": "Comissão de Previdência, Assistência Social, Infância, Adolescência e Família",
+      "sigla": "CPASF",
+      "cargo": "Suplente",
+      "desde": "2026-04-23T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178945/votacoes-nominais-plenario/2026"

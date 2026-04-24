@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204533.jpg",
-  "score": 17.3,
-  "rank": 443,
+  "score": 18.68,
+  "rank": 424,
   "proposicoes": [],
   "discursos": [
     {
@@ -22,6 +22,12 @@
       "sigla": "CE",
       "cargo": "Titular",
       "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Ciência, Tecnologia e Inovação",
+      "sigla": "CCTI",
+      "cargo": "Suplente",
+      "desde": "2026-04-23T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204533/votacoes-nominais-plenario/2026"

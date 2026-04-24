@@ -4,18 +4,9 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220598.jpg",
-  "score": 41.89,
-  "rank": 14,
+  "score": 40.36,
+  "rank": 21,
   "proposicoes": [
-    {
-      "id": 2611554,
-      "tipo": "EMP",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Institui o Dia Nacional da Mulher Rural.",
-      "data": "2026-03-24T16:32",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611554"
-    },
     {
       "id": 2613007,
       "tipo": "PRC",
@@ -298,12 +289,6 @@
       "sigla": "CE",
       "cargo": "Titular",
       "desde": "2026-03-10T00:00"
-    },
-    {
-      "nome": "Comissão de Constituição e Justiça e de Cidadania",
-      "sigla": "CCJC",
-      "cargo": "Suplente",
-      "desde": "2026-04-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220598/votacoes-nominais-plenario/2026"

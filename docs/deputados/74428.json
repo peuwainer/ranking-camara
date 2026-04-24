@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74428.jpg",
-  "score": 22.74,
-  "rank": 361,
+  "score": 23.65,
+  "rank": 340,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -32,6 +32,18 @@
       "sigla": "PEC01825",
       "cargo": "Relator",
       "desde": "2025-09-09T00:00"
+    },
+    {
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
+      "cargo": "Suplente",
+      "desde": "2026-04-23T00:00"
+    },
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Suplente",
+      "desde": "2026-04-23T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/74428/votacoes-nominais-plenario/2026"

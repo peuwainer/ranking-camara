@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/98057.jpg",
-  "score": 24.89,
-  "rank": 316,
+  "score": 26.93,
+  "rank": 264,
   "proposicoes": [
     {
       "id": 2612997,
@@ -130,6 +130,18 @@
       "sigla": "CEXBRLEG",
       "cargo": "Titular",
       "desde": "2026-02-27T00:00"
+    },
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Suplente",
+      "desde": "2026-04-23T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-04-23T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/98057/votacoes-nominais-plenario/2026"

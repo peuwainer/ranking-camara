@@ -4,9 +4,37 @@
   "partido": "REPUBLICANOS",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220563.jpg",
-  "score": 30.02,
-  "rank": 189,
-  "proposicoes": [],
+  "score": 31.89,
+  "rank": 132,
+  "proposicoes": [
+    {
+      "id": 2618167,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 12.587, de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana, para dispor sobre treinamento dos profissionais do transporte público coletivo.",
+      "data": "2026-04-23T16:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618167"
+    },
+    {
+      "id": 2618207,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Obriga a instalação infraestrutura de telecomunicações, para acesso a telefonia e internet móvel, nos municípios do interior do Brasil.",
+      "data": "2026-04-23T16:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618207"
+    },
+    {
+      "id": 2618208,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-04-23T18:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618208"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-04-08T16:48",

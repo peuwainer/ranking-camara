@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220573.jpg",
-  "score": 21.7,
-  "rank": 379,
+  "score": 23.79,
+  "rank": 338,
   "proposicoes": [
     {
       "id": 2611790,
@@ -24,6 +24,42 @@
       "ementa": "Dispõe sobre a proteção da identidade pessoal contra a criação e a difusão não autorizadas de réplicas digitais.",
       "data": "2026-03-27T15:27",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612588"
+    },
+    {
+      "id": 2618146,
+      "tipo": "PL",
+      "numero": 1956,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Prevenção, Controle e Eliminação da Malária (PNCEM) como política permanente de saúde de Estado e dá outras providências.",
+      "data": "2026-04-23T15:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618146"
+    },
+    {
+      "id": 2618147,
+      "tipo": "PL",
+      "numero": 1957,
+      "ano": 2026,
+      "ementa": "Altera o art. 3º da Lei Complementar nº 140, de 08 de dezembro de 2011, para incluir o combate à malária como objetivo fundamental da União, dos Estados, do Distrito Federal e dos Municípios como competência comum.",
+      "data": "2026-04-23T15:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618147"
+    },
+    {
+      "id": 2618149,
+      "tipo": "PL",
+      "numero": 1958,
+      "ano": 2026,
+      "ementa": "Altera o art. 47 da Lei nº 12.351, de 22 de dezembro de 2010, para incluir o Combate à Malária na Amazônia Legal dentre programas e projetos beneficiados pelo Fundo Social",
+      "data": "2026-04-23T15:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618149"
+    },
+    {
+      "id": 2618150,
+      "tipo": "PL",
+      "numero": 1959,
+      "ano": 2026,
+      "ementa": "Institui o Dia Nacional de combate à Malária e da Campanha Permanente de Prevenção e Controle.",
+      "data": "2026-04-23T15:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618150"
     }
   ],
   "discursos": [],

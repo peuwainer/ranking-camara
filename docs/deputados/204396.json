@@ -4,7 +4,7 @@
   "partido": "PP",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204396.jpg",
-  "score": 15.9,
+  "score": 15.8,
   "rank": 460,
   "proposicoes": [
     {
@@ -45,6 +45,12 @@
       "sigla": "CFT",
       "cargo": "2º Vice-Presidente",
       "desde": "2026-03-19T00:00"
+    },
+    {
+      "nome": "Comissão de Turismo",
+      "sigla": "CTUR",
+      "cargo": "Suplente",
+      "desde": "2026-04-23T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204396/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220654.jpg",
-  "score": 41.52,
-  "rank": 16,
+  "score": 42.2,
+  "rank": 15,
   "proposicoes": [
     {
       "id": 2612291,
@@ -135,6 +135,12 @@
       "sigla": "SUB8J",
       "cargo": "Suplente",
       "desde": "2026-03-11T00:00"
+    },
+    {
+      "nome": "Comissão de Turismo",
+      "sigla": "CTUR",
+      "cargo": "Suplente",
+      "desde": "2026-04-23T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220654/votacoes-nominais-plenario/2026"

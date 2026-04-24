@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204412.jpg",
-  "score": 14.11,
-  "rank": 475,
-  "proposicoes": [],
+  "score": 15.25,
+  "rank": 466,
+  "proposicoes": [
+    {
+      "id": 2618111,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.265, de 2006, para dispor sobre a comercialização e propaganda dos compostos lácteos.",
+      "data": "2026-04-23T12:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618111"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-04-14T16:48",

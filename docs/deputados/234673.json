@@ -4,8 +4,8 @@
   "partido": "SOLIDARIEDADE",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/234673.jpg",
-  "score": 33.29,
-  "rank": 95,
+  "score": 34.96,
+  "rank": 62,
   "proposicoes": [
     {
       "id": 2612872,
@@ -147,6 +147,12 @@
       "sigla": "CCOM",
       "cargo": "Suplente",
       "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Trabalho",
+      "sigla": "CTRAB",
+      "cargo": "Suplente",
+      "desde": "2026-04-23T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/234673/votacoes-nominais-plenario/2026"

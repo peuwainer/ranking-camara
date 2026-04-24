@@ -4,10 +4,18 @@
   "partido": "PP",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220707.jpg",
-  "score": 21.71,
-  "rank": 378,
+  "score": 21.48,
+  "rank": 377,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-22T21:52",
+      "fase": "Ordem do Dia",
+      "tipo": "PARECER",
+      "resumo": "A SRA. AMANDA GENTIL (Bloco/PP - MA. Para proferir parecer. Sem revisão da oradora.) - Presidente, queria pedir licença para ir direto ao voto. \"II. Voto da Relatora O Projeto de Resolução nº 22, de 2",
+      "transcricao": "A SRA. AMANDA GENTIL (Bloco/PP - MA. Para proferir parecer. Sem revisão da oradora.) - Presidente, queria pedir licença para ir direto ao voto. \"II. Voto da Relatora O Projeto de Resolução nº 22, de 2026, que propõe a criação da Secretaria de Monitoramento e Fiscalização das Decisões do Sistema Interamericano de Direitos Humanos, reveste-se da mais alta conveniência e relevância. O projeto representa um avanço institucional indispensável para que esta Casa exerça, com plenitude, sua competência normativa e fiscalizatória no âmbito da proteção aos direitos fundamentais, além de revelar o compromisso concreto de nossa República com a eficácia das decisões e recomendações emanadas de órgãos internacionais de direitos humanos proferidas contra o Estado brasileiro. A nova secretaria terá a missão vital de monitorar o cumprimento das sentenças da Corte Interamericana de Direitos Humanos, atuando para prevenir novas violações e garantir que o poder público observe as obrigações internacionais assumidas. Entre suas atribuições, destaca-se o acompanhamento da implementação de parâmetros de direitos humanos nos próprios processos legislativos em curso na Câmara dos Deputados, assegurando que nossas leis estejam em plena conformidade com a jurisprudência interamericana. É urgente registrar que esta secretaria será um instrumento poderoso no combate às violações históricas que atingem, de forma mais cruel, as mulheres e as crianças brasileiras. O Sistema Interamericano tem sido, muitas vezes, o último recurso para vítimas de violência doméstica e exploração infantil que não encontraram justiça célere em solo nacional. Ao institucionalizar a fiscalização dessas decisões, este Parlamento passa a monitorar diretamente as sentenças e medidas provisórias que exigem proteção integral à dignidade da mulher e o resguardo absoluto dos direitos da infância, transformando recomendações internacionais em ações legislativas e políticas públicas efetivas. Além da fiscalização, a Secretaria promoverá a educação e a cultura de direitos humanos dentro do Poder Legislativo, oferecendo cursos de capacitação sobre o impacto das decisões internacionais e o controle de convencionalidade. Através da divulgação oficial das sentenças e do fomento ao uso de tecnologias digitais e inteligência artificial, buscaremos universalizar o acesso à justiça e modernizar a defesa dos vulneráveis conforme os padrões globais. Essa atuação educativa é o que garantirá que as futuras gerações de Parlamentares legislem com o olhar atento à preservação da vida e da integridade de cada cidadão brasileiro. Por fim, ressalto que a viabilização deste projeto é um exemplo de responsabilidade administrativa, pois a Secretaria será instalada sem qualquer aumento de despesa, aproveitando a estrutura e os cargos já existentes nesta Casa. Trata-se de uma reorganização inteligente para conferir autoridade e foco a um tema que não pode mais esperar. Votar favoravelmente ao PRC 22/2026, é votar pela segurança de nossas mulheres, pelo futuro de nossas crianças e pela consolidação definitiva do Brasil como uma democracia que respeita, vigia e cumpre os direitos humanos em sua totalidade. II.3. Conclusão do voto Ante o exposto, enaltecendo a presente iniciativa, no âmbito da Comissão de Constituição e Justiça e de Cidadania, somos pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Resolução nº 22, de 2026, e, no mérito, por sua aprovação.\""
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220656.jpg",
-  "score": 19.16,
-  "rank": 419,
+  "score": 20.43,
+  "rank": 399,
   "proposicoes": [
     {
       "id": 2613477,
@@ -42,6 +42,15 @@
       "ementa": "Dispõe sobre a manutenção do plano de saúde após o falecimento do titular.",
       "data": "2026-04-06T15:53",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613490"
+    },
+    {
+      "id": 2618180,
+      "tipo": "PL",
+      "numero": 1961,
+      "ano": 2026,
+      "ementa": "Institui a política de geração livre de tabaco no Brasil, com a proibição progressiva da comercialização de produtos fumígenos para indivíduos nascidos a partir de 1º de janeiro de 2009, e dá outras providências.",
+      "data": "2026-04-23T17:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618180"
     }
   ],
   "discursos": [],

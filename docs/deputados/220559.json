@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
-  "score": 26.65,
-  "rank": 276,
+  "score": 26.8,
+  "rank": 271,
   "proposicoes": [
     {
       "id": 2612769,
@@ -112,10 +112,16 @@
       "desde": "2026-02-19T00:00"
     },
     {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
+      "desde": "2026-04-23T00:00"
+    },
+    {
       "nome": "Comissão de Defesa dos Direitos da Mulher",
       "sigla": "CMULHER",
-      "cargo": "Suplente",
-      "desde": "2026-03-11T00:00"
+      "cargo": "Titular",
+      "desde": "2026-04-23T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220559/votacoes-nominais-plenario/2026"
