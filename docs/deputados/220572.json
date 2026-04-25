@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220572.jpg",
-  "score": 9.88,
-  "rank": 493,
+  "score": 13.32,
+  "rank": 477,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -26,6 +26,12 @@
       "sigla": "CFT",
       "cargo": "Suplente",
       "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
+      "desde": "2026-04-24T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220572/votacoes-nominais-plenario/2026"

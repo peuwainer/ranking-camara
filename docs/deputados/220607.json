@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220607.jpg",
-  "score": 27.69,
-  "rank": 248,
+  "score": 25.8,
+  "rank": 281,
   "proposicoes": [
     {
       "id": 2615526,
@@ -15,6 +15,24 @@
       "ementa": "Altera o art. 1º da Lei nº 11.438, de 29 de dezembro de 2006, que dispõe sobre incentivos e benefícios para fomentar as atividades de caráter desportivo, para aumentar os percentuais dos incisos I e II quando os aportes forem destinados a projetos paradesportivos.",
       "data": "2026-04-13T14:35",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615526"
+    },
+    {
+      "id": 2618229,
+      "tipo": "PL",
+      "numero": 1966,
+      "ano": 2026,
+      "ementa": "Dispõe sobre pensão especial aos filhos e dependentes crianças ou adolescentes, órfãos em razão do crime de feminicídio.",
+      "data": "2026-04-23T19:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618229"
+    },
+    {
+      "id": 2618234,
+      "tipo": "PL",
+      "numero": 1967,
+      "ano": 2026,
+      "ementa": "Institui a criação de Programa na Educação para Prevenção e Combate à Violência contra a Mulher no âmbito das instituições públicas e privadas de ensino, e dá outras providências.",
+      "data": "2026-04-23T20:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618234"
     }
   ],
   "discursos": [],

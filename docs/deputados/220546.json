@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220546.jpg",
-  "score": 30.21,
-  "rank": 173,
+  "score": 36.11,
+  "rank": 43,
   "proposicoes": [
     {
       "id": 2615370,
@@ -66,6 +66,12 @@
       "sigla": "SUBPROP",
       "cargo": "Suplente",
       "desde": "2026-03-24T00:00"
+    },
+    {
+      "nome": "Comissão de Meio Ambiente e Desenvolvimento Sustentável",
+      "sigla": "CMADS",
+      "cargo": "Suplente",
+      "desde": "2026-04-24T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220546/votacoes-nominais-plenario/2026"

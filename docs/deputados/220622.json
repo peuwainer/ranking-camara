@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220622.jpg",
-  "score": 34.93,
-  "rank": 63,
+  "score": 34.22,
+  "rank": 67,
   "proposicoes": [
     {
       "id": 2613065,
@@ -42,6 +42,15 @@
       "ementa": "A Altera a Lei nº 12.816, de 5 de junho de 2013, para possibilitar o reaproveitamento ou alienação de veículos de transporte de estudantes adquiridos no âmbito de programa federal, após uma vida útil de dez anos e dá outras providências.",
       "data": "2026-04-15T15:36",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616700"
+    },
+    {
+      "id": 2618371,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a incorporação da técnica de crioablação para o tratamento do câncer de mama no âmbito do Sistema Único de Saúde (SUS)",
+      "data": "2026-04-24T10:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618371"
     }
   ],
   "discursos": [],

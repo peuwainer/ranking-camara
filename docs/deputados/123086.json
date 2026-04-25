@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/123086.jpg",
-  "score": 24.96,
-  "rank": 312,
+  "score": 25.94,
+  "rank": 276,
   "proposicoes": [
     {
       "id": 2612368,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 14.300, de 6 de janeiro de 2022, que institui o marco legal da microgeração e minigeração distribuída, o Sistema de Compensação de Energia Elétrica (SCEE) e o Programa de Energia Renovável Social (PERS), para garantir a isenção do pagamento de componentes tarifárias pelo uso da rede elétrica por consumidores-geradores de energia solar e outras fontes renováveis.",
       "data": "2026-03-26T13:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612368"
+    },
+    {
+      "id": 2618387,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Plano Nacional de Inclusão Digital (PNID).",
+      "data": "2026-04-24T14:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618387"
     }
   ],
   "discursos": [],

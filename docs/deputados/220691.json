@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220691.jpg",
-  "score": 30.55,
-  "rank": 163,
+  "score": 29.86,
+  "rank": 161,
   "proposicoes": [],
   "discursos": [
     {
@@ -42,15 +42,15 @@
       "desde": "2025-04-10T00:00"
     },
     {
-      "nome": "Comissão de Defesa dos Direitos das Pessoas com Deficiência",
-      "sigla": "CPD",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Minas e Energia",
       "sigla": "CME",
       "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos das Pessoas com Deficiência",
+      "sigla": "CPD",
+      "cargo": "Suplente",
       "desde": "2026-02-03T00:00"
     },
     {
@@ -58,6 +58,12 @@
       "sigla": "CCJC",
       "cargo": "Suplente",
       "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Suplente",
+      "desde": "2026-04-24T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220691/votacoes-nominais-plenario/2026"

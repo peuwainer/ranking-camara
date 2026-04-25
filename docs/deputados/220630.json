@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220630.jpg",
-  "score": 29.43,
-  "rank": 209,
+  "score": 29.18,
+  "rank": 178,
   "proposicoes": [
     {
       "id": 2612333,
@@ -30,6 +30,12 @@
       "sigla": "CEXMABRU",
       "cargo": "Titular",
       "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Titular",
+      "desde": "2026-04-24T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220630/votacoes-nominais-plenario/2026"

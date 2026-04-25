@@ -4,27 +4,9 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220669.jpg",
-  "score": 17.94,
-  "rank": 435,
+  "score": 10.29,
+  "rank": 489,
   "proposicoes": [
-    {
-      "id": 2611801,
-      "tipo": "PL",
-      "numero": 1391,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 6.019, de 3 de janeiro de 1974, para assegurar expressamente a estabilidade provisória da empregada gestante no contrato de trabalho temporário.",
-      "data": "2026-03-25T12:44",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611801"
-    },
-    {
-      "id": 2611802,
-      "tipo": "PL",
-      "numero": 1392,
-      "ano": 2026,
-      "ementa": "Amplia a estabilidade provisória da empregada após o término da licença-maternidade.",
-      "data": "2026-03-25T12:44",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2611802"
-    },
     {
       "id": 2613261,
       "tipo": "PL",
@@ -98,22 +80,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617705"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-03-25T20:00",
-      "fase": "Ordem do Dia",
-      "tipo": "FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA",
-      "resumo": "O SR. PRESIDENTE (Lula da Fonte. Bloco/PP - PE) - Perfeito. Registro a presença do Vereador Beto da Ambulância, de Pombos, Estado de Pernambuco, que aqui está, e também do jornalista pernambucano Rica",
-      "transcricao": "O SR. PRESIDENTE (Lula da Fonte. Bloco/PP - PE) - Perfeito. Registro a presença do Vereador Beto da Ambulância, de Pombos, Estado de Pernambuco, que aqui está, e também do jornalista pernambucano Ricardo Antunes. Sejam muito bem-vindos à Câmara dos Deputados! É uma honra enorme tê-los presentes aqui. Declaro encerrada a discussão. Passa-se à votação. Em votação o Projeto de Lei nº 5.405, de 2025. Aqueles que forem pela aprovação permaneçam como se acham. (Pausa.) Aprovado. Orientação de bancadas."
-    },
-    {
-      "data": "2026-03-25T19:40",
-      "fase": "Ordem do Dia",
-      "tipo": "FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA",
-      "resumo": "O SR. PRESIDENTE (Lula da Fonte. Bloco/PP - PE) - Obrigado, Deputada Erika Kokay. Convido à tribuna a Deputada Soraya Santos, para que ela discuta a favor do projeto. Antes, registro a presença do Pre",
-      "transcricao": "O SR. PRESIDENTE (Lula da Fonte. Bloco/PP - PE) - Obrigado, Deputada Erika Kokay. Convido à tribuna a Deputada Soraya Santos, para que ela discuta a favor do projeto. Antes, registro a presença do Presidente da Câmara Municipal de Igarassu, Vereador Maguila, e também do articulador político Mário Júnior. É uma alegria tê-los aqui na Câmara dos Deputados. Tem a palavra a Deputada Soraya Santos, para discutir a favor."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Mesa Diretora da Câmara dos Deputados",

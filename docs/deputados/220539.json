@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220539.jpg",
-  "score": 25.94,
-  "rank": 288,
+  "score": 27.4,
+  "rank": 242,
   "proposicoes": [],
   "discursos": [
     {
@@ -46,6 +46,12 @@
       "sigla": "CCJC",
       "cargo": "Titular",
       "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão do Esporte",
+      "sigla": "CESPO",
+      "cargo": "Suplente",
+      "desde": "2026-04-24T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220539/votacoes-nominais-plenario/2026"

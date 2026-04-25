@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204372.jpg",
-  "score": 34.92,
-  "rank": 64,
+  "score": 34.21,
+  "rank": 68,
   "proposicoes": [
     {
       "id": 2613355,
@@ -51,6 +51,15 @@
       "ementa": "Acrescenta dispositivo à Lei nº 9.784, 29 de janeiro de 1999.",
       "data": "2026-04-13T11:07",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618024"
+    },
+    {
+      "id": 2618272,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a instituição do Cadastro Nacional de Celulares (CNC), do Cadastro Nacional de Celulares com Restrição (CNCR) e a formalização do Programa Celular Seguro, visando o combate ao furto, roubo e receptação de dispositivos móveis, a formalização do mercado de usados e a segurança dos cidadãos.",
+      "data": "2026-04-24T10:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618272"
     }
   ],
   "discursos": [],

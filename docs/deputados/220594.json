@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220594.jpg",
-  "score": 33.3,
-  "rank": 98,
+  "score": 33.05,
+  "rank": 88,
   "proposicoes": [],
   "discursos": [
     {
@@ -80,6 +80,12 @@
       "sigla": "CCJC",
       "cargo": "Titular",
       "desde": "2026-04-23T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Suplente",
+      "desde": "2026-04-24T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220594/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "AVANTE",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220625.jpg",
-  "score": 32.69,
-  "rank": 109,
+  "score": 31.06,
+  "rank": 134,
   "proposicoes": [
     {
       "id": 2612333,
@@ -110,6 +110,12 @@
       "sigla": "CEXZMATA",
       "cargo": "Titular",
       "desde": "2026-03-04T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Mulher",
+      "sigla": "CMULHER",
+      "cargo": "Suplente",
+      "desde": "2026-04-24T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220625/votacoes-nominais-plenario/2026"

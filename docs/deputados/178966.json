@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178966.jpg",
-  "score": 31.39,
-  "rank": 144,
+  "score": 29.75,
+  "rank": 170,
   "proposicoes": [
     {
       "id": 2612333,
@@ -15,6 +15,15 @@
       "ementa": "Define antissemitismo com a finalidade de instruir as políticas públicas nacionais.",
       "data": "2026-03-26T10:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612333"
+    },
+    {
+      "id": 2618284,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o “Dia Nacional de Valorização da Família”, a ser comemorado anualmente no dia 12 de outubro.",
+      "data": "2026-04-24T11:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618284"
     }
   ],
   "discursos": [

@@ -4,9 +4,28 @@
   "partido": "PSDB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220650.jpg",
-  "score": 32.84,
-  "rank": 107,
-  "proposicoes": [],
+  "score": 33.26,
+  "rank": 82,
+  "proposicoes": [
+    {
+      "id": 2618427,
+      "tipo": "PL",
+      "numero": 1975,
+      "ano": 2026,
+      "ementa": "Confere ao Município de Ibirá, no Estado de São Paulo, o título de Capital Nacional das Águas Medicinais.",
+      "data": "2026-04-24T16:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618427"
+    },
+    {
+      "id": 2618433,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Acessibilidade Veicular Sustentável para Pessoas com Deficiência – PNAVS, estabelece incentivos e mecanismos de isenção e subsídio para manutenção e troca de baterias de veículos elétricos utilizados por pessoas com deficiência, e dá outras providências. Parecer pela aprovação na forma do substitutivo apresentado.",
+      "data": "2026-04-24T16:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618433"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
