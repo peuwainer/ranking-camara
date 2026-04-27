@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-04-26T08:03:21.939078+00:00",
+  "atualizado_em": "2026-04-27T08:50:16.956979+00:00",
   "legislatura": 57,
   "deputados": [
     {
@@ -35,8 +35,8 @@
       "partido": "PL",
       "uf": "PB",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220574.jpg",
-      "score": 52.79,
-      "proposicoes": 5,
+      "score": 52.11,
+      "proposicoes": 4,
       "presenca_votacoes": 70.6,
       "discursos": 55,
       "orgaos": 12
@@ -74,8 +74,8 @@
       "partido": "MISSÃO",
       "uf": "SP",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204536.jpg",
-      "score": 45.23,
-      "proposicoes": 12,
+      "score": 43.86,
+      "proposicoes": 10,
       "presenca_votacoes": 82.4,
       "discursos": 30,
       "orgaos": 2
@@ -406,19 +406,6 @@
       "orgaos": 9
     },
     {
-      "id": 220623,
-      "nome": "DUDA SALABERT ROSA",
-      "nome_urna": "Duda Salabert",
-      "partido": "PSOL",
-      "uf": "MG",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
-      "score": 36.78,
-      "proposicoes": 3,
-      "presenca_votacoes": 82.4,
-      "discursos": 5,
-      "orgaos": 12
-    },
-    {
       "id": 160548,
       "nome": "JONAS DONIZETTE FERREIRA",
       "nome_urna": "Jonas Donizette",
@@ -456,19 +443,6 @@
       "presenca_votacoes": 100.0,
       "discursos": 1,
       "orgaos": 7
-    },
-    {
-      "id": 220548,
-      "nome": "CAMILA BAZACHI JARA MARZOCHI",
-      "nome_urna": "Camila Jara",
-      "partido": "PT",
-      "uf": "MS",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
-      "score": 36.37,
-      "proposicoes": 13,
-      "presenca_votacoes": 82.4,
-      "discursos": 0,
-      "orgaos": 4
     },
     {
       "id": 213762,
@@ -536,6 +510,19 @@
       "orgaos": 9
     },
     {
+      "id": 220623,
+      "nome": "DUDA SALABERT ROSA",
+      "nome_urna": "Duda Salabert",
+      "partido": "PSOL",
+      "uf": "MG",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
+      "score": 36.09,
+      "proposicoes": 2,
+      "presenca_votacoes": 82.4,
+      "discursos": 5,
+      "orgaos": 12
+    },
+    {
       "id": 204460,
       "nome": "Carlos Roberto Jordy Coelho de Mattos",
       "nome_urna": "Carlos Jordy",
@@ -586,6 +573,19 @@
       "presenca_votacoes": 88.2,
       "discursos": 3,
       "orgaos": 7
+    },
+    {
+      "id": 220548,
+      "nome": "CAMILA BAZACHI JARA MARZOCHI",
+      "nome_urna": "Camila Jara",
+      "partido": "PT",
+      "uf": "MS",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
+      "score": 35.68,
+      "proposicoes": 12,
+      "presenca_votacoes": 82.4,
+      "discursos": 0,
+      "orgaos": 4
     },
     {
       "id": 141485,
@@ -835,19 +835,6 @@
       "orgaos": 9
     },
     {
-      "id": 220686,
-      "nome": "HILDELIS SILVA DUARTE JUNIOR",
-      "nome_urna": "Duarte Jr.",
-      "partido": "AVANTE",
-      "uf": "MA",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220686.jpg",
-      "score": 34.11,
-      "proposicoes": 5,
-      "presenca_votacoes": 82.4,
-      "discursos": 7,
-      "orgaos": 5
-    },
-    {
       "id": 178970,
       "nome": "JOAO SOMARIVA DANIEL",
       "nome_urna": "João Daniel",
@@ -939,19 +926,6 @@
       "orgaos": 8
     },
     {
-      "id": 220667,
-      "nome": "PEDRO HENRIQUE DE A. L. C. CAMPOS",
-      "nome_urna": "Pedro Campos",
-      "partido": "PSB",
-      "uf": "PE",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220667.jpg",
-      "score": 33.65,
-      "proposicoes": 1,
-      "presenca_votacoes": 88.2,
-      "discursos": 1,
-      "orgaos": 9
-    },
-    {
       "id": 204501,
       "nome": "ALENCAR SANTANA BRAGA",
       "nome_urna": "Alencar Santana",
@@ -1015,6 +989,19 @@
       "presenca_votacoes": 76.5,
       "discursos": 12,
       "orgaos": 3
+    },
+    {
+      "id": 220686,
+      "nome": "HILDELIS SILVA DUARTE JUNIOR",
+      "nome_urna": "Duarte Jr.",
+      "partido": "AVANTE",
+      "uf": "MA",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220686.jpg",
+      "score": 33.42,
+      "proposicoes": 4,
+      "presenca_votacoes": 82.4,
+      "discursos": 7,
+      "orgaos": 5
     },
     {
       "id": 220650,
@@ -1119,6 +1106,19 @@
       "presenca_votacoes": 88.2,
       "discursos": 1,
       "orgaos": 8
+    },
+    {
+      "id": 220667,
+      "nome": "PEDRO HENRIQUE DE A. L. C. CAMPOS",
+      "nome_urna": "Pedro Campos",
+      "partido": "PSB",
+      "uf": "PE",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220667.jpg",
+      "score": 32.96,
+      "proposicoes": 0,
+      "presenca_votacoes": 88.2,
+      "discursos": 1,
+      "orgaos": 9
     },
     {
       "id": 157130,
@@ -1914,19 +1914,6 @@
       "orgaos": 8
     },
     {
-      "id": 204534,
-      "nome": "TABATA CLAUDIA AMARAL DE PONTES",
-      "nome_urna": "Tabata Amaral",
-      "partido": "PSB",
-      "uf": "SP",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204534.jpg",
-      "score": 30.46,
-      "proposicoes": 2,
-      "presenca_votacoes": 76.5,
-      "discursos": 0,
-      "orgaos": 9
-    },
-    {
       "id": 220625,
       "nome": "IONE MARIA MOREIRA DIAS BARBOSA",
       "nome_urna": "Delegada Ione",
@@ -2172,6 +2159,19 @@
       "presenca_votacoes": 76.5,
       "discursos": 0,
       "orgaos": 10
+    },
+    {
+      "id": 204534,
+      "nome": "TABATA CLAUDIA AMARAL DE PONTES",
+      "nome_urna": "Tabata Amaral",
+      "partido": "PSB",
+      "uf": "SP",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204534.jpg",
+      "score": 29.77,
+      "proposicoes": 1,
+      "presenca_votacoes": 76.5,
+      "discursos": 0,
+      "orgaos": 9
     },
     {
       "id": 178929,
@@ -2954,19 +2954,6 @@
       "orgaos": 6
     },
     {
-      "id": 141456,
-      "nome": "JILMAR AUGUSTINHO TATTO",
-      "nome_urna": "Jilmar Tatto",
-      "partido": "PT",
-      "uf": "SP",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141456.jpg",
-      "score": 27.62,
-      "proposicoes": 7,
-      "presenca_votacoes": 64.7,
-      "discursos": 0,
-      "orgaos": 5
-    },
-    {
       "id": 220671,
       "nome": "DILVANDA FURTADO FARO",
       "nome_urna": "Dilvanda Faro",
@@ -3277,6 +3264,19 @@
       "presenca_votacoes": 64.7,
       "discursos": 2,
       "orgaos": 10
+    },
+    {
+      "id": 141456,
+      "nome": "JILMAR AUGUSTINHO TATTO",
+      "nome_urna": "Jilmar Tatto",
+      "partido": "PT",
+      "uf": "SP",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141456.jpg",
+      "score": 26.94,
+      "proposicoes": 6,
+      "presenca_votacoes": 64.7,
+      "discursos": 0,
+      "orgaos": 5
     },
     {
       "id": 204496,
@@ -5593,19 +5593,6 @@
       "orgaos": 6
     },
     {
-      "id": 220573,
-      "nome": "DORINALDO BARBOSA MALAFAIA",
-      "nome_urna": "Dorinaldo Malafaia",
-      "partido": "PDT",
-      "uf": "AP",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220573.jpg",
-      "score": 18.11,
-      "proposicoes": 5,
-      "presenca_votacoes": 35.3,
-      "discursos": 0,
-      "orgaos": 6
-    },
-    {
       "id": 74295,
       "nome": "INÁCIO FRANCISCO DE ASSIS NUNES ARRUDA",
       "nome_urna": "Inácio Arruda",
@@ -5747,6 +5734,19 @@
       "presenca_votacoes": 41.2,
       "discursos": 1,
       "orgaos": 3
+    },
+    {
+      "id": 220573,
+      "nome": "DORINALDO BARBOSA MALAFAIA",
+      "nome_urna": "Dorinaldo Malafaia",
+      "partido": "PDT",
+      "uf": "AP",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220573.jpg",
+      "score": 17.43,
+      "proposicoes": 4,
+      "presenca_votacoes": 35.3,
+      "discursos": 0,
+      "orgaos": 6
     },
     {
       "id": 178895,
@@ -5944,19 +5944,6 @@
       "orgaos": 3
     },
     {
-      "id": 204574,
-      "nome": "JOSE LOURENÇO BOMFIM JUNIOR",
-      "nome_urna": "Junior Lourenço",
-      "partido": "MDB",
-      "uf": "MA",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204574.jpg",
-      "score": 15.1,
-      "proposicoes": 2,
-      "presenca_votacoes": 41.2,
-      "discursos": 0,
-      "orgaos": 2
-    },
-    {
       "id": 220631,
       "nome": "SAMUEL JOSÉ RODRIGUES DE VIANA",
       "nome_urna": "Samuel Viana",
@@ -6137,6 +6124,19 @@
       "presenca_votacoes": 41.2,
       "discursos": 2,
       "orgaos": 1
+    },
+    {
+      "id": 204574,
+      "nome": "JOSE LOURENÇO BOMFIM JUNIOR",
+      "nome_urna": "Junior Lourenço",
+      "partido": "MDB",
+      "uf": "MA",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204574.jpg",
+      "score": 13.72,
+      "proposicoes": 0,
+      "presenca_votacoes": 41.2,
+      "discursos": 0,
+      "orgaos": 2
     },
     {
       "id": 166402,
