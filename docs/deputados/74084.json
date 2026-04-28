@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74084.jpg",
-  "score": 36.72,
-  "rank": 33,
+  "score": 37.41,
+  "rank": 30,
   "proposicoes": [
     {
       "id": 2615672,
@@ -78,6 +78,15 @@
       "ementa": "Dispõe sobre a adoção de medidas que assegurem a circulação segura de animais silvestres no território nacional, com a redução de acidentes envolvendo pessoas e animais nas estradas, rodovias e ferrovias brasileiras",
       "data": "2026-04-22T14:14",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617585"
+    },
+    {
+      "id": 2618495,
+      "tipo": "PL",
+      "numero": 1983,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional Permanente de Literatura para Crianças e Jovens, com a finalidade de promover a leitura e incentivar a produção editorial infantojuvenil no País.",
+      "data": "2026-04-24T21:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618495"
     }
   ],
   "discursos": [],

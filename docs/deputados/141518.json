@@ -4,9 +4,19 @@
   "partido": "SOLIDARIEDADE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141518.jpg",
-  "score": 13.72,
-  "rank": 474,
-  "proposicoes": [],
+  "score": 14.41,
+  "rank": 465,
+  "proposicoes": [
+    {
+      "id": 2618559,
+      "tipo": "PL",
+      "numero": 1988,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para dispor sobre o reconhecimento, como gastos eleitorais, de despesas de apoio à candidatura de mulheres com dependentes, destinadas à viabilização do exercício da atividade eleitoral, com vistas à promoção da participação feminina na política.",
+      "data": "2026-04-27T12:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618559"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -18,12 +18,6 @@
   ],
   "orgaos": [
     {
-      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
-      "sigla": "CAPADR",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Desenvolvimento Econômico",
       "sigla": "CDE",
       "cargo": "Suplente",
@@ -34,6 +28,12 @@
       "sigla": "CIDOSO",
       "cargo": "Suplente",
       "desde": "2026-02-10T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Titular",
+      "desde": "2026-04-27T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204449/votacoes-nominais-plenario/2026"

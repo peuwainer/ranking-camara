@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220643.jpg",
-  "score": 28.51,
-  "rank": 196,
+  "score": 29.19,
+  "rank": 176,
   "proposicoes": [
     {
       "id": 2614047,
@@ -30,6 +30,12 @@
       "sigla": "CPOVOS",
       "cargo": "Titular",
       "desde": "2026-04-06T00:00"
+    },
+    {
+      "nome": "Comissão de Cultura",
+      "sigla": "CCULT",
+      "cargo": "Suplente",
+      "desde": "2026-04-27T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220643/votacoes-nominais-plenario/2026"

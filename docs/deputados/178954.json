@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178954.jpg",
-  "score": 12.69,
-  "rank": 479,
+  "score": 13.37,
+  "rank": 474,
   "proposicoes": [
     {
       "id": 2614068,
@@ -39,6 +39,12 @@
       "sigla": "CEXYANOM",
       "cargo": "Titular",
       "desde": "2024-05-14T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Titular",
+      "desde": "2026-04-27T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178954/votacoes-nominais-plenario/2026"

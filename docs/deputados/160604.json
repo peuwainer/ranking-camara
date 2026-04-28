@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160604.jpg",
-  "score": 43.83,
-  "rank": 7,
+  "score": 44.51,
+  "rank": 6,
   "proposicoes": [
     {
       "id": 2614756,
@@ -123,6 +123,15 @@
       "ementa": "Altera o caput do art. 14 do Projeto de Lei n. 2780/2024",
       "data": "2026-04-22T19:34",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617863"
+    },
+    {
+      "id": 2618550,
+      "tipo": "PL",
+      "numero": 1987,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.202, de 11 de setembro de 2025, para assegurar aos professores aposentados da educação pública e privada, o direito à expedição da Carteira Nacional de Docente no Brasil (CNDB).",
+      "data": "2026-04-27T11:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618550"
     }
   ],
   "discursos": [

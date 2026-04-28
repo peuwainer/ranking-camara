@@ -4,10 +4,17 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204425.jpg",
-  "score": 12.36,
-  "rank": 481,
+  "score": 13.04,
+  "rank": 479,
   "proposicoes": [],
   "discursos": [],
-  "orgaos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Trabalho",
+      "sigla": "CTRAB",
+      "cargo": "Titular",
+      "desde": "2026-04-27T00:00"
+    }
+  ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204425/votacoes-nominais-plenario/2026"
 }

@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220622.jpg",
-  "score": 34.29,
-  "rank": 64,
+  "score": 34.97,
+  "rank": 53,
   "proposicoes": [
     {
       "id": 2613065,
@@ -74,6 +74,12 @@
       "desde": "2026-03-19T00:00"
     },
     {
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
+      "cargo": "Suplente",
+      "desde": "2026-03-19T00:00"
+    },
+    {
       "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
       "sigla": "CIDOSO",
       "cargo": "Suplente",
@@ -83,12 +89,6 @@
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
       "sigla": "BANEGRA",
       "cargo": "Titular",
-      "desde": "2026-03-19T00:00"
-    },
-    {
-      "nome": "Comissão de Educação",
-      "sigla": "CE",
-      "cargo": "Suplente",
       "desde": "2026-03-19T00:00"
     },
     {
@@ -108,6 +108,12 @@
       "sigla": "CMULHER",
       "cargo": "Titular",
       "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados",
+      "sigla": "COETICA",
+      "cargo": "Titular",
+      "desde": "2026-04-27T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220622/votacoes-nominais-plenario/2026"

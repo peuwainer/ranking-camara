@@ -4,8 +4,8 @@
   "partido": "NOVO",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204455.jpg",
-  "score": 39.98,
-  "rank": 16,
+  "score": 40.34,
+  "rank": 15,
   "proposicoes": [
     {
       "id": 2616776,
@@ -45,6 +45,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-22T22:52",
+      "fase": "Encerramento",
+      "tipo": "OUTROS",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO LUIZ LIMA (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, Senhoras e Senhores Deputados, Subo a esta tribuna para fazer um registro simples, mas neces",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO LUIZ LIMA (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, Senhoras e Senhores Deputados, Subo a esta tribuna para fazer um registro simples, mas necessário: reconhecer a coragem do governador Romeu Zema. Em um momento em que muitos se calam, em que poucos têm a disposição de enfrentar estruturas consolidadas de poder, Zema escolheu não se omitir. Escolheu questionar, cobrar e se posicionar diante de decisões do Supremo Tribunal Federal que, muitas vezes, parecem se colocar acima de qualquer contestação. Não se trata de atacar instituições  trata-se de defender o equilíbrio entre os Poderes. Numa democracia sólida, ninguém é intocável. Autoridade não é sinônimo de ausência de limites. É disso que o Brasil precisa: homens públicos que não abaixem a cabeça, que tenham firmeza de caráter e compromisso com o país. Fica aqui o meu reconhecimento ao governador Romeu Zema pela postura, pela coragem e pela disposição de fazer o que muitos evitam. Muito obrigado."
+    },
     {
       "data": "2026-04-16T11:56",
       "fase": "Ordem do Dia",
