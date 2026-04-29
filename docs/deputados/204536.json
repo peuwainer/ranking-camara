@@ -4,7 +4,7 @@
   "partido": "MISSÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204536.jpg",
-  "score": 43.86,
+  "score": 44.28,
   "rank": 7,
   "proposicoes": [
     {
@@ -322,6 +322,12 @@
       "sigla": "CSPCCO",
       "cargo": "Suplente",
       "desde": "2026-04-06T00:00"
+    },
+    {
+      "nome": "Comissão de Administração e Serviço Público",
+      "sigla": "CASP",
+      "cargo": "Suplente",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204536/votacoes-nominais-plenario/2026"

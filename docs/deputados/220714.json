@@ -4,10 +4,18 @@
   "partido": "MDB",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220714.jpg",
-  "score": 27.82,
-  "rank": 220,
+  "score": 28.59,
+  "rank": 222,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-28T17:08",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ADAIL FILHO (Bloco/MDB - AM. Pela ordem. Sem revisão do orador.) - Sr. Presidente, mais uma vez, tentam travar o desenvolvimento do povo do Estado do Amazonas. A decisão de hoje, que suspende os",
+      "transcricao": "O SR. ADAIL FILHO (Bloco/MDB - AM. Pela ordem. Sem revisão do orador.) - Sr. Presidente, mais uma vez, tentam travar o desenvolvimento do povo do Estado do Amazonas. A decisão de hoje, que suspende os editais de licitação da BR-319, é um completo retrocesso para o nosso Estado. A BR - 319 não é somente uma estrada, ela representa dignidade para a nossa população, ela representa acesso à saúde de qualidade, à educação. Ela representa a geração de emprego e renda, a integralidade do nosso Estado, a integração do Estado do Amazonas com o restante do nosso País. Portanto, eu estou extremamente revoltado com a decisão de hoje. Vou seguir firme na luta pela BR - 319. Nós não podemos aceitar essas decisões que ignoram a nossa realidade, a realidade do povo do Estado do Amazonas. Portanto, eu defendo o desenvolvimento com responsabilidade ambiental, mas sem impedir o progresso e o desenvolvimento do Estado do Amazonas e do povo do meu Estado. Portanto, nós vamos seguir firmes, na luta da BR - 319, com muito respeito ao Estado do Amazonas, à nossa população. Chega de atraso, chega de retrocesso. BR - 319 já! O Estado do Amazonas precisa avançar, e a gente vai seguir firme nessa luta, que é constante e permanente, pelo progresso e desenvolvimento do Estado do Amazonas."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

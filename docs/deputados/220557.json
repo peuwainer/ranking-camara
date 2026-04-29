@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220557.jpg",
-  "score": 31.14,
-  "rank": 125,
+  "score": 32.89,
+  "rank": 100,
   "proposicoes": [
     {
       "id": 2615399,
@@ -15,6 +15,24 @@
       "ementa": "Altera a Lei nº 14.865, de 28 de maio de 2024, que cria o Calendário Turísticos Oficial do Brasil para estabelecer que o evento realizado há mais de 5 (cinco) anos de forma contínua serão considerados permanentes no Calendário Turístico Oficial do Brasil.",
       "data": "2026-04-13T11:48",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615399"
+    },
+    {
+      "id": 2618736,
+      "tipo": "PL",
+      "numero": 2007,
+      "ano": 2026,
+      "ementa": "Reconhece o Município de Major Vieira, no Estado de Santa Catarina, como a Capital Nacional do Canudinho de Abóbora.",
+      "data": "2026-04-28T09:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618736"
+    },
+    {
+      "id": 2618737,
+      "tipo": "PL",
+      "numero": 2008,
+      "ano": 2026,
+      "ementa": "Reconhece o Município de Papanduva, no Estado de Santa Catarina, como a Capital Nacional do Pirogue.",
+      "data": "2026-04-28T09:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618737"
     }
   ],
   "discursos": [],

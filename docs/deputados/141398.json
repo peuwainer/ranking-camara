@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141398.jpg",
-  "score": 29.87,
-  "rank": 158,
+  "score": 31.32,
+  "rank": 131,
   "proposicoes": [
     {
       "id": 2615287,
@@ -36,6 +36,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-28T18:40",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. CARLOS ZARATTINI (Bloco/PT - SP. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados e Sras. Deputadas, estamos esperando alguma atitude do Governador Tarcísio, de São Paulo, em",
+      "transcricao": "O SR. CARLOS ZARATTINI (Bloco/PT - SP. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados e Sras. Deputadas, estamos esperando alguma atitude do Governador Tarcísio, de São Paulo, em relação à Sabesp. A situação do abastecimento de água em São Paulo é um verdadeiro absurdo. A água é suja, é fedorenta. E, mais do que isso, nós estamos vendo a troca de hidrômetros, os reloginhos, o que tem feito com que a conta de água se eleve enormemente. É um verdadeiro assalto à população de São Paulo, que é servida pela Sabesp. É bom lembrar que a Sabesp foi privatizada pelo Governador Tarcísio. E a agência reguladora, que deveria fiscalizar e garantir a qualidade e o preço da água, ao contrário, faz vista grossa. A gente está vendo a população da Grande São Paulo e da Região Metropolitana de Campinas ser prejudicada. A gente exige que o Governador tome providências quanto a esse descalabro que está acontecendo em São Paulo."
+    },
     {
       "data": "2026-04-07T15:12",
       "fase": "Breves Comunicações",
@@ -68,6 +75,12 @@
       "sigla": "CREDN",
       "cargo": "Titular",
       "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Titular",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/141398/votacoes-nominais-plenario/2026"

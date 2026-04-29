@@ -4,10 +4,27 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178947.jpg",
-  "score": 15.95,
-  "rank": 452,
-  "proposicoes": [],
+  "score": 19.83,
+  "rank": 414,
+  "proposicoes": [
+    {
+      "id": 2619329,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Emenda de Plenário ao Projeto de Lei nº 1.625 de 2026.",
+      "data": "2026-04-28T22:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619329"
+    }
+  ],
   "discursos": [
+    {
+      "data": "2026-04-28T18:28",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. SÓSTENES CAVALCANTE (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu quero deixar consignado o meu repúdio à decisão do Supremo Tribunal Federal em tornar o Pastor Silas Malafa",
+      "transcricao": "O SR. SÓSTENES CAVALCANTE (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu quero deixar consignado o meu repúdio à decisão do Supremo Tribunal Federal em tornar o Pastor Silas Malafaia réu por uma ação inescrupulosa. É absurda a censura que o Supremo Tribunal Federal está impondo ao Brasil. E quero registrar, claro, que esta é uma decisão da Primeira Turma, não de todos os Ministros. É um absurdo que tenham indiciado a fala do Pastor Silas Malafaia, que não citou nome de General algum. O Procurador-Geral da República diz que ele teria citado nomes, sem citação de nomes. Ele disse claramente, na Avenida Paulista, que \"os Generais Quatro Estrelas, vendo o que estava acontecendo, eram frouxos\". Por isso, ele se tornar réu é crime de opinião! Fica aqui o meu repúdio à Primeira Turma do STF em torná-lo réu. Eu tenho certeza de que a Justiça ainda há de prevalecer porque não podemos viver em um País de censura. A Justiça deveria estar ao lado da liberdade de expressão em um País democrático, mas, tristemente, está produzindo perseguição a quem é religioso, a quem é conservador e a quem é de Direita. Minha solidariedade ao Pastor Silas Malafaia."
+    },
     {
       "data": "2026-04-22T20:40",
       "fase": "Ordem do Dia",
@@ -44,6 +61,13 @@
       "transcricao": "O SR. SÓSTENES CAVALCANTE (PL - RJ. Pela ordem. Sem revisão do orador.) - Ilustre Presidente, inicialmente quero agradecer ao Deputado Helio Lopes, que, atendendo a um pedido do Senador Flávio Bolsonaro, abriu mão da candidatura para a Deputada Soraya Santos, nossa candidata ao TCU, que hoje abriu mão da sua candidatura. Como Líder, quero orientar toda a minha bancada para fazermos o voto útil contra o PT, e o voto útil contra o PT é o voto no Deputado Elmar Nascimento. Como nunca um petista chegou ao TCU, nós temos certeza de que o Deputado Elmar, dos candidatos, é o que pode fazer que isso se repita. Então, quero reiterar o voto útil em Elmar Nascimento. Quero parabenizar todas as mulheres que, junto com a Deputada Soraya, junto com a nossa eterna Presidente do PL Mulher, a Michelle Bolsonaro, fizeram um trabalho hercúleo em todo o País para que a mulher possa ter sua representatividade. Eu, que sempre fui contra cotas, quero aqui reconhecer que é legítima a luta das mulheres e não é admissível, num Estado Democrático de Direito, termos instituições tão sérias como o Tribunal de Contas da União sem a presença feminina. Quero aqui reiterar que o atual Presidente da República, o descondenado Lula, substituiu sete mulheres ministras por sete homens. O PT e a Esquerda só usam as mulheres. Na hora de empoderá-las, eles não as empoderam, eles as substituem com a maior facilidade por outros homens. Nós queremos mostrar a diferença e o respeito à mulher. É por isso que nós suscitamos este debate nesta Casa. Portanto, Sr. Presidente, queremos aqui agradecer à Deputada Soraya e a todas as mulheres pelo belo trabalho feito até aqui e dizer que a gente tem que ter grandeza para se unir a aliados, no momento necessário e oportuno, para que a gente possa derrotar o \"Partido das Trevas\". Por último, Presidente, quero aqui, ao lado do meu colega Deputado Bibo Nunes, do Rio Grande do Sul, dizer que a gente chega ao final de um ano de legislatura cansado, esgotado. E, no final do ano passado, nós tivemos aqui um pequeno desentendimento no plenário, mas o PL e o Bibo são muito maiores do que qualquer desentendimento. Naquele momento, eu tomei uma decisão, que já foi corrigida, mas eu quero torná-la pública hoje. Quero dizer a todo o Rio Grande do Sul que o Deputado Bibo Nunes continua Vice-Líder do PL. Ele é um aliado de primeira hora. Jamais haverá divisões na bancada do Partido Liberal. Nós somos um só time, e o Deputado Bibo Nunes é um craque, camisa 22 desse time. Jamais nós o deixaremos de lado por circunstâncias passageiras. Deputado Bibo Nunes, parabéns pelo seu trabalho, pela sua lealdade e pela sua retidão com este Líder. Quero terminar minha fala pedindo a cada colega do Partido Liberal: agora é a hora do voto útil contra o PT. E voto útil contra o PT é nós elegermos Elmar Nascimento para o Tribunal de Contas da União. Muito obrigado, Sr. Presidente."
     }
   ],
-  "orgaos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Titular",
+      "desde": "2026-04-28T00:00"
+    }
+  ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178947/votacoes-nominais-plenario/2026"
 }

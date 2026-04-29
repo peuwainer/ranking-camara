@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RN",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204453.jpg",
-  "score": 18.2,
-  "rank": 429,
+  "score": 21.88,
+  "rank": 381,
   "proposicoes": [
     {
       "id": 2615274,
@@ -51,6 +51,15 @@
       "ementa": "Reconhece o wrestling (luta olímpica) como patrimônio cultural e esportivo do Brasil e estabelece diretrizes para o seu fomento.",
       "data": "2026-04-27T12:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618580"
+    },
+    {
+      "id": 2619274,
+      "tipo": "PL",
+      "numero": 2054,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional dos Direitos das Pessoas LGBTQIA+ e dá outras providências.",
+      "data": "2026-04-28T19:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619274"
     }
   ],
   "discursos": [
@@ -80,6 +89,12 @@
       "sigla": "CDHMIR",
       "cargo": "Suplente",
       "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Suplente",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204453/votacoes-nominais-plenario/2026"

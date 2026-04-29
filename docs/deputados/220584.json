@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220584.jpg",
-  "score": 33.65,
-  "rank": 74,
+  "score": 34.31,
+  "rank": 71,
   "proposicoes": [
     {
       "id": 2613084,
@@ -83,6 +83,12 @@
       "sigla": "CFT",
       "cargo": "Titular",
       "desde": "2026-03-18T00:00"
+    },
+    {
+      "nome": "Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados",
+      "sigla": "COETICA",
+      "cargo": "Suplente",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220584/votacoes-nominais-plenario/2026"

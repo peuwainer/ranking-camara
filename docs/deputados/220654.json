@@ -4,7 +4,7 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220654.jpg",
-  "score": 42.31,
+  "score": 41.97,
   "rank": 9,
   "proposicoes": [
     {
@@ -80,7 +80,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618487"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-28T14:44",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. DELEGADO PAULO BILYNSKYJ (PL - SP. Sem revisão do orador.) - Muito obrigado, Presidente. Ladrão! Eu quero agradecer o trabalho dos grandes moradores de Presidente Prudente por falar a verdade. N",
+      "transcricao": "O SR. DELEGADO PAULO BILYNSKYJ (PL - SP. Sem revisão do orador.) - Muito obrigado, Presidente. Ladrão! Eu quero agradecer o trabalho dos grandes moradores de Presidente Prudente por falar a verdade. Numa manifestação totalmente lógica, receber Lula em Presidente Prudente, nosso grande oeste paulista, é um absurdo. Ele não tinha nada que fazer lá. O Lula não tem que botar o pé no Estado de São Paulo. O oeste de São Paulo não pertence a Luiz Inácio Lula da Silva, não pertence a corja do PT. Ladrão! E, quando dizem a verdade, ainda têm que receber os lacaios do Lula, que vão lá tirar satisfação: \"Veja bem, é porque esses cartazes são ofensivos\". Ofensivo por quê? A carapuça serviu? Foi exatamente isso que aconteceu. A carapuça de ladrão serviu. E é óbvio, o Brasil sabe e o Estado de São Paulo sabe qual é a natureza do Lula. Todo mundo sabe. Fica tranquilo. Lula, você vai ser muito bem recebido em São Paulo, viu? Pode vir. Venha! Venha para o oeste. Venha para São José do Rio Preto, na minha cidade, para o senhor ver como o senhor vai ser bem recebido. Vai, acredita no seu potencial. Antes de terminar meu tempo aqui, Presidente, quero mandar uma mensagem para todos os Senadores que vão votar na sabatina do Messias. Eu quero deixar uma coisa bem clara para vocês, e é para o Messias também. Quando você chegar à frente de nosso Senhor Jesus Cristo no julgamento, não adianta você dizer que cumpriu ordens, Messias, na hora de autorizar a morte de bebezinhos dentro da barriga da mãe deles. Não adianta você dizer que cumpriu ordens. Não adianta você dizer que a virtude naquele momento não era conveniente, porque a verdade é uma só: quem é responsável pela sua alma é você mesmo. É sua responsabilidade cumprir com os seus valores, independentemente do foro em que você se encontre. Você, como advogado, como homem público, tem que sustentar os seus valores. Se você diz que é cristão, sustente os valores cristãos, porque, na hora do julgamento, não vai adiantar você dizer que estava cumprindo ordem do Lula. Muito obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a acompanhar as ações de prevenção e combate ao câncer, ao acidente vascular cerebral (AVC) e às doenças do coração.",

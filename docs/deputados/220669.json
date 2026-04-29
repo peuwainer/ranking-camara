@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220669.jpg",
-  "score": 10.39,
-  "rank": 489,
+  "score": 15.48,
+  "rank": 469,
   "proposicoes": [
     {
       "id": 2613261,
@@ -78,6 +78,24 @@
       "ementa": "Dispõe sobre o dever das concessionárias de serviço público de ressarcir os danos materiais e morais, inclusive lucros cessantes e os danos morais coletivos, decorrentes de falhas na prestação de serviços.",
       "data": "2026-04-22T16:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617705"
+    },
+    {
+      "id": 2619055,
+      "tipo": "PLP",
+      "numero": 117,
+      "ano": 2026,
+      "ementa": "Prevê a não incidência do ICMS e da Contribuição para o PIS/Pasep e da Cofins sobre a venda de tampões higiênicos, absorventes higiênicos internos ou externos, descartáveis ou reutilizáveis, calcinhas absorventes e coletores menstruais.",
+      "data": "2026-04-28T15:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619055"
+    },
+    {
+      "id": 2619062,
+      "tipo": "PL",
+      "numero": 2027,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a distribuição gratuita, pelo SUS, de bomba de insulina e de dispositivos análogos destinados ao tratamento do diabetes, com prioridade para crianças e adolescentes.",
+      "data": "2026-04-28T15:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619062"
     }
   ],
   "discursos": [],

@@ -4,9 +4,19 @@
   "partido": "PSD",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204404.jpg",
-  "score": 32.0,
-  "rank": 101,
-  "proposicoes": [],
+  "score": 33.26,
+  "rank": 90,
+  "proposicoes": [
+    {
+      "id": 2618861,
+      "tipo": "PL",
+      "numero": 2022,
+      "ano": 2026,
+      "ementa": "Confere ao Município de Novo Hamburgo, no Estado do Rio Grande do Sul, o título de Capital Nacional do Punhobol.",
+      "data": "2026-04-28T13:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618861"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-04-15T14:00",
@@ -46,6 +56,12 @@
       "sigla": "CCJC",
       "cargo": "Titular",
       "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Titular",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204404/votacoes-nominais-plenario/2026"

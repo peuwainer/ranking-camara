@@ -4,8 +4,8 @@
   "partido": "NOVO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
-  "score": 36.14,
-  "rank": 40,
+  "score": 37.11,
+  "rank": 36,
   "proposicoes": [
     {
       "id": 2613007,
@@ -36,6 +36,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-28T18:40",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. ADRIANA VENTURA (NOVO - SP. Sem revisão da oradora.) - Obrigada, Presidente. Na verdade, eu subo a esta tribuna, para variar, indignada. Indignada. Vou começar pela primeira indignação: 12, 13 ",
+      "transcricao": "A SRA. ADRIANA VENTURA (NOVO - SP. Sem revisão da oradora.) - Obrigada, Presidente. Na verdade, eu subo a esta tribuna, para variar, indignada. Indignada. Vou começar pela primeira indignação: 12, 13 bilhões de reais pagos pelo Governo como compra de apoio para Senadores. E quando você olha a lista dos beneficiados, assim, da destinação das emendas, você vê Senador com quase 80 milhões, vários Senadores com 50 milhões. Por quê? Porque vão votar a aprovação do Bessias, isso, esse mesmo Bessias que censura mulheres, censura jornalistas, foi omisso nas fraudes do INSS, não contratou nenhum escritório de advocacia, pé atrás da roubalheira dos aposentados, não foi para cima de sindicato. Eu tenho vários requerimentos que eu estou esperando para terem resposta ainda da AGU. Estou esperando notícias dessa pessoa que querem aprovar. Mas a compra de apoio rolando solta, rolando solta, Deputado Carlos Zarattini. Oitenta milhões para Senador de destinação de emenda e outros tantos 50. Realmente uma vergonha! A outra questão que eu trago aqui com muita indignação: a perseguição do STF com o nosso Governador Romeu Zema. Realmente é uma pouca vergonha! A gente vê tanta gente sem coragem, porque tem rabo preso, que não vai contra o abuso de poder do Supremo Tribunal Federal, que tem passado do limite. Ministro Gilmar Mendes está passando vergonha. Eu estou passando vergonha, porque a gente vê que é o uso do cargo de uma maneira inadequada. São pessoas que se julgam intocáveis. Então, todo o meu apoio ao Governador Romeu Zema, porque rabo preso pode apertar muitos aqui, mas, no caso do Governador, ele quer que a lei seja aplicada. Minha terceira indignação aqui: e o Banco Master? E o Banco Master, gente? O escândalo, a corrupção que todo mundo está pondo embaixo do tapete, que envolve 4 Ministros do STF, que envolve um monte de gente do Executivo, que envolve um monte de Parlamentar aqui dentro. Cadê a CPI do Banco Master? Cadê a CPMI do Banco Master? Eu não estou vendo ninguém fazer esforço para isso. Um monte de roubalheira e tudo embaixo do tapete. Já tem CPMI assinada, CPI assinada, e nada aconteceu. Por que será, né? Agora, será que os brasileiros vão acordar em ano eleitoral, e não votar em quem está forçando que vá para baixo do tapete? Eu espero que o Senador Davi Alcolumbre tome uma atitude e realmente instale essa CPMI. E, minha última indignação, Presidente, com isso eu finalizo, é ver a perseguição política que foi feita aqui contra os três Parlamentares que se encontram aqui, o Zé Trovão, o Pollon e, em especial, o Deputado Marcel van Hattem, que é um Deputado exemplar, que é corajoso, que enfrenta um sistema que todos sabem aqui que não é fácil. E 2 meses de suspensão. É engraçado, gente. Um monte de gente com roubalheira, vendendo emenda parlamentar, enfiando dinheiro na cueca, com assessor com mala de dinheiro; nada acontece. Agora, quem trabalha a sério e denuncia, vai para o prego. Lamentável."
+    },
     {
       "data": "2026-04-08T21:04",
       "fase": "Ordem do Dia",
@@ -146,6 +153,12 @@
       "sigla": "CICS",
       "cargo": "Suplente",
       "desde": "2026-04-14T00:00"
+    },
+    {
+      "nome": "Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados",
+      "sigla": "COETICA",
+      "cargo": "Suplente",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204528/votacoes-nominais-plenario/2026"

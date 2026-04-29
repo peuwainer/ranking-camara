@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74398.jpg",
-  "score": 37.75,
-  "rank": 27,
+  "score": 40.89,
+  "rank": 18,
   "proposicoes": [
     {
       "id": 2612861,
@@ -69,9 +69,43 @@
       "ementa": "Autoriza a União a instituir empresa estatal, ou subsidiária de sociedade de economia mista federal, para atuar na distribuição de combustíveis, biocombustíveis e gás liquefeito de petróleo (GLP), autoriza a recomposição da presença pública em ativos estratégicos do abastecimento nacional, e estabelece diretrizes para a soberania energética, a segurança do abastecimento, a modicidade de preços e a defesa do consumidor.",
       "data": "2026-04-15T15:34",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616663"
+    },
+    {
+      "id": 2618811,
+      "tipo": "PL",
+      "numero": 2015,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Fortalecimento da Cadeia Produtiva da Moda Urbana (Streetwear) e dá outras providências",
+      "data": "2026-04-28T11:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618811"
+    },
+    {
+      "id": 2618814,
+      "tipo": "PL",
+      "numero": 2016,
+      "ano": 2026,
+      "ementa": "Declara a Parada Livre de Porto Alegre como Patrimônio Cultural Imaterial do Brasil.",
+      "data": "2026-04-28T11:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618814"
+    },
+    {
+      "id": 2619274,
+      "tipo": "PL",
+      "numero": 2054,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional dos Direitos das Pessoas LGBTQIA+ e dá outras providências.",
+      "data": "2026-04-28T19:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619274"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-28T18:12",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. MARIA DO ROSÁRIO (Bloco/PT - RS. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, muito obrigada pela oportunidade de dizer ao Brasil que hoje nós podemos ter a votação de uma das pautas ",
+      "transcricao": "A SRA. MARIA DO ROSÁRIO (Bloco/PT - RS. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, muito obrigada pela oportunidade de dizer ao Brasil que hoje nós podemos ter a votação de uma das pautas mais importantes, que é a garantia efetiva do 1% para o Sistema Único de Assistência Social da Receita Corrente Líquida do Brasil. A assistência social é política pública de primeira grandeza, que define um dos aspectos fundamentais da nossa Constituição: a superação da pobreza e das desigualdades regionais. Quero homenagear quem atua nos Cras, Creas e, sobretudo, os usuários, aqueles que protegem as crianças, os adolescentes, as pessoas com deficiência e, principalmente, os idosos do nosso País. Carrego no peito dois adesivos: do Suas e do Fim da escala 6x1. O fim da jornada 6x1 é direito do povo."
+    },
     {
       "data": "2026-04-14T16:56",
       "fase": "Breves Comunicações",
@@ -186,6 +220,12 @@
       "sigla": "CE",
       "cargo": "Suplente",
       "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Titular",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/74398/votacoes-nominais-plenario/2026"

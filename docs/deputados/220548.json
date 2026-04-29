@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
-  "score": 35.68,
-  "rank": 46,
+  "score": 41.41,
+  "rank": 13,
   "proposicoes": [
     {
       "id": 2612861,
@@ -114,6 +114,69 @@
       "ementa": "Dispõe sobre a adoção de medidas que assegurem a circulação segura de animais silvestres no território nacional, com a redução de acidentes envolvendo pessoas e animais nas estradas, rodovias e ferrovias brasileiras",
       "data": "2026-04-22T14:14",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617585"
+    },
+    {
+      "id": 2619067,
+      "tipo": "PL",
+      "numero": 2028,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a nomeação de dirigentes de instituições federais de ensino superior (Ifes) vinculada a processo democrático realizado previamente na comunidade acadêmica, garantido o voto paritário de docentes, discentes e de técnicos administrativos",
+      "data": "2026-04-28T16:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619067"
+    },
+    {
+      "id": 2619068,
+      "tipo": "PL",
+      "numero": 2029,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), para dispor sobre o fornecimento regular e gratuito de transporte coletivo aquaviário nos dias de votação.",
+      "data": "2026-04-28T16:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619068"
+    },
+    {
+      "id": 2619071,
+      "tipo": "PL",
+      "numero": 2031,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990, para dispor sobre a contratação de fornecimento de produtos e serviços fora do estabelecimento comercial por pessoa idosa.",
+      "data": "2026-04-28T16:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619071"
+    },
+    {
+      "id": 2619072,
+      "tipo": "PL",
+      "numero": 2032,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 4.117, de 27 de agosto de 1962, para dispor sobre o horário de retransmissão do programa oficial de informações dos Poderes da República pelas emissoras vinculadas aos Poderes Legislativos.",
+      "data": "2026-04-28T16:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619072"
+    },
+    {
+      "id": 2619081,
+      "tipo": "PL",
+      "numero": 2033,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº?4.829, de 5 de novembro de 1965, para prever a redução das taxas de juros do crédito rural em linhas de financiamento destinadas à recomposição e manutenção de Áreas de Preservação Permanente e Reserva Legal.",
+      "data": "2026-04-28T16:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619081"
+    },
+    {
+      "id": 2619085,
+      "tipo": "PL",
+      "numero": 2034,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de disponibilização de mecanismo de verificação colaborativa de fatos por provedores de redes sociais.",
+      "data": "2026-04-28T16:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619085"
+    },
+    {
+      "id": 2619176,
+      "tipo": "PL",
+      "numero": 2047,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para vedar que pessoas condenadas por crimes praticados contra integrantes de sua própria família sejam beneficiárias de herança, disposições testamentárias ou doações gratuitas.",
+      "data": "2026-04-28T18:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619176"
     }
   ],
   "discursos": [],
@@ -141,6 +204,12 @@
       "sigla": "CFT",
       "cargo": "Titular",
       "desde": "2026-03-18T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Suplente",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220548/votacoes-nominais-plenario/2026"

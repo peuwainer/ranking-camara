@@ -4,8 +4,8 @@
   "partido": "SOLIDARIEDADE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
-  "score": 39.61,
-  "rank": 20,
+  "score": 41.54,
+  "rank": 11,
   "proposicoes": [
     {
       "id": 2614899,
@@ -51,6 +51,15 @@
       "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para dispor sobre a obrigatoriedade de inclusão da opção “outras opções” e do atendimento humano nos menus eletrônicos de atendimento telefônico ao consumidor.",
       "data": "2026-04-23T12:47",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618217"
+    },
+    {
+      "id": 2619289,
+      "tipo": "PL",
+      "numero": 2056,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de indicação da cor predominante, por extenso ou código de simbologia tátil/visual, nas etiquetas de produtos têxteis e de vestuário comercializados no Brasil.",
+      "data": "2026-04-28T20:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619289"
     }
   ],
   "discursos": [],
@@ -186,6 +195,18 @@
       "sigla": "CFT",
       "cargo": "Suplente",
       "desde": "2026-03-18T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 108, de 2021, do Senado Federal, que \"altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados\"",
+      "sigla": "PLP10821",
+      "cargo": "Titular",
+      "desde": "2026-04-28T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Titular",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/160512/votacoes-nominais-plenario/2026"

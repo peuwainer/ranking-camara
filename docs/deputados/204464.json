@@ -4,10 +4,27 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204464.jpg",
-  "score": 23.31,
-  "rank": 340,
-  "proposicoes": [],
+  "score": 26.69,
+  "rank": 279,
+  "proposicoes": [
+    {
+      "id": 2619274,
+      "tipo": "PL",
+      "numero": 2054,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional dos Direitos das Pessoas LGBTQIA+ e dá outras providências.",
+      "data": "2026-04-28T19:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619274"
+    }
+  ],
   "discursos": [
+    {
+      "data": "2026-04-28T16:56",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. TALÍRIA PETRONE (Bloco/PSOL - RJ. Sem revisão da oradora.) - Obrigada, Presidente. No último domingo, nós celebramos o aniversário da nossa futura Senadora Benedita da Silva, uma mulher que foi",
+      "transcricao": "A SRA. TALÍRIA PETRONE (Bloco/PSOL - RJ. Sem revisão da oradora.) - Obrigada, Presidente. No último domingo, nós celebramos o aniversário da nossa futura Senadora Benedita da Silva, uma mulher que foi trabalhadora doméstica e veio da favela. Aqui, como Deputada Constituinte, se consolidou como um pilar que abriu caminho para a nossa democracia. A Deputada Benedita foi Relatora e peça fundamental da aprovação da PEC das Domésticas, que garantiu direitos, férias, 13º Salário para essas trabalhadoras. Aliás, direitos garantidos muito tardiamente. O que isso nos mostra? Que a democracia brasileira só é possível, de verdade, quando nós, mulheres negras, quando mulheres como Benedita ocuparem, de fato, espaços de poder para olharem para a maioria do povo brasileiro. E por que trago isso? Porque, um dia depois do aniversário da nossa Bené, a gente celebrou, na segunda-feira, o Dia Nacional da Trabalhadora Doméstica. Essa data expressa um contraste que evidencia as desigualdades do nosso País, contraste esse que nós queremos deixar para trás. Quem nunca entrou em um apartamento gigante, inclusive o nosso apartamento funcional, e viu um quartinho de empregado, um quarto de serviço, sem sequer uma janela? Quantas trabalhadoras domésticas sem nenhum direito? O contraste está evidenciado nisso. Também já está sendo construído um outro Brasil por mulheres, como a Deputada Benedita, que ocupam este Parlamento. Se o nosso passado foi forjado na exploração dessas mãos, eu não tenho dúvida de que o futuro deste País também só será possível se for liderado por elas. E, vejam, a Organização Internacional do Trabalho mostra que o trabalho do cuidado sustenta a economia global. No nosso País, se o trabalho doméstico fosse contabilizado, ele representaria 11% do nosso PIB, mais do que a indústria. Se essas mãos pararem, o Brasil para. Essas mãos cuidam para que o Brasil possa produzir, mas, raramente, este País produz cuidado para essas mãos. Presidente, para concluir, eu queria dizer que, além da exploração que ainda chega às trabalhadoras domésticas, infelizmente, há mais. Nós ainda convivemos com um trabalho análogo à escravidão, como o caso de Sônia Maria de Jesus, mulher negra, surda, não alfabetizada, que foi resgatada de um trabalho análogo à escravidão, em junho de 2023, por uma ação conjunta do Ministério Público do Trabalho, Defensoria Pública e da Polícia Federal. Mas, veja, a Justiça possibilitou ela voltasse para a Casa do Desembargador, eu vou dar o nome dele, Jorge Luiz de Borba, que foi aquele que impediu que ela estudasse, que ela tivesse convívio social. Veja que País é esse! Eu juro que eu vou concluir, Presidente. Eu sei que tem muita gente para falar, porque esse é um tema de muita importância. Esse dia, então, ele é mais do que uma celebração de exaltar essas mulheres que sustentam com seu trabalho o nosso País. Esse é um dia para a gente mais do que homenagear essas mulheres, exigir um compromisso de todo o Congresso Nacional, de todo o povo brasileiro, para erradicar o trabalho análogo à escravidão, para efetivar, definitivamente, o direito das trabalhadoras domésticas e para acabar com o racismo que chega ao nosso corpo todos os dias. Viva a Benedita da Silva! Obrigada."
+    },
     {
       "data": "2026-04-14T18:16",
       "fase": "Breves Comunicações",
@@ -103,12 +120,6 @@
       "desde": "2026-02-04T00:00"
     },
     {
-      "nome": "Comissão de Direitos Humanos, Minorias e Igualdade Racial",
-      "sigla": "CDHMIR",
-      "cargo": "Suplente",
-      "desde": "2026-02-04T00:00"
-    },
-    {
       "nome": "Comissão de Legislação Participativa",
       "sigla": "CLP",
       "cargo": "Suplente",
@@ -119,6 +130,18 @@
       "sigla": "CCJC",
       "cargo": "Suplente",
       "desde": "2026-04-23T00:00"
+    },
+    {
+      "nome": "Comissão de Direitos Humanos, Minorias e Igualdade Racial",
+      "sigla": "CDHMIR",
+      "cargo": "Titular",
+      "desde": "2026-04-28T00:00"
+    },
+    {
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
+      "cargo": "Suplente",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204464/votacoes-nominais-plenario/2026"

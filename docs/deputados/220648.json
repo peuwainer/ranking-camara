@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220648.jpg",
-  "score": 19.28,
-  "rank": 414,
-  "proposicoes": [],
+  "score": 17.3,
+  "rank": 449,
+  "proposicoes": [
+    {
+      "id": 2619128,
+      "tipo": "PL",
+      "numero": 2037,
+      "ano": 2026,
+      "ementa": "Cria a Rota Turística da Fé de Santo Expedito, no Estado de São Paulo.",
+      "data": "2026-04-28T17:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619128"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

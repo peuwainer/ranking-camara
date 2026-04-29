@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204396.jpg",
-  "score": 11.15,
-  "rank": 486,
+  "score": 10.52,
+  "rank": 490,
   "proposicoes": [
     {
       "id": 2616615,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei Complementar nº 224, de 26 de dezembro de 2025, para retirar o regime de lucro presumido da redução dos incentivos e benefícios federais de natureza tributária.",
       "data": "2026-04-15T15:36",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616665"
+    },
+    {
+      "id": 2619266,
+      "tipo": "PL",
+      "numero": 2053,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.906, de 4 de julho de 1994, que “dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil (OAB)”, para converter hipótese de incompatibilidade em impedimento ao exercício da advocacia para ocupantes de cargos do Fisco.",
+      "data": "2026-04-28T19:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619266"
     }
   ],
   "discursos": [],

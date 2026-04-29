@@ -4,10 +4,18 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74585.jpg",
-  "score": 24.59,
-  "rank": 318,
+  "score": 24.46,
+  "rank": 332,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-28T17:56",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LINCOLN PORTELA (PL - MG. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente Charles. Obrigado também ao Deputado Roberto. Sras. e Srs. Parlamentares, esse ciclo vai passar. O mundo é fe",
+      "transcricao": "O SR. LINCOLN PORTELA (PL - MG. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente Charles. Obrigado também ao Deputado Roberto. Sras. e Srs. Parlamentares, esse ciclo vai passar. O mundo é feito de ciclos e esse ciclo do atual Governo passará, com certeza absoluta. O pessoal costuma dizer que certeza absoluta é tolice, neste caso, não. Existe uma música que diz: \"Nosso amor estava escrito nas estrelas\". E a realidade é que as estrelas deste Governo estão caindo, e a estrela deste Governo está caindo. E a luz voltará a brilhar, porque essa estrela está ofuscando o sol da justiça, e o sol da justiça não tolera ser ofuscado por muito tempo. Vai cair este Governo, e um novo ciclo e um novo Governo virão! Obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 14, de 2021, do Sr. Dr. Leonardo e outros, que \"altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais\"",

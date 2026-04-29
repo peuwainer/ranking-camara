@@ -4,10 +4,18 @@
   "partido": "PODE",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/143084.jpg",
-  "score": 23.91,
-  "rank": 333,
+  "score": 25.34,
+  "rank": 315,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-28T18:28",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. TIAGO DIMAS (Bloco/PODE - TO. Pela ordem. Sem revisão do orador.) - Sr. Presidente, obrigado pelo aparte. Eu quero só destacar a presença dos Vereadores, durante a Marcha dos Gestores e Legislat",
+      "transcricao": "O SR. TIAGO DIMAS (Bloco/PODE - TO. Pela ordem. Sem revisão do orador.) - Sr. Presidente, obrigado pelo aparte. Eu quero só destacar a presença dos Vereadores, durante a Marcha dos Gestores e Legislativos Municipais, aqui, em Brasília, que buscam se capacitar como uma forma de melhor representar cada vez mais a população. De modo especial, saúdo os Vereadores do meu querido Tocantins, os Vereadores de Araguaína, que estão aqui, o Soldado Alcivan, o Robert Delmondes, o Thalles Alencar, o Luciano Santana e também o Vereador da nossa capital, Palmas, Miguel Barros e o Vereador Thiago Costa. Destaco a presença deles e o respeito do nosso mandato às demandas e à forma como eles sempre defendem a população. Muito daquilo que a gente consegue realizar e consegue trazer é fruto da articulação que eles fazem. Portanto, em nome deles, quero saudar e cumprimentar todos aqueles Vereadores que estão presentes nesta marcha e que respeitam e trabalham em prol da população. Isso é importantíssimo para a democracia e para o desenvolvimento do nosso Estado e, é claro, do meu querido Tocantins. Sejam sempre bem-vindos."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Minas e Energia",

@@ -4,9 +4,28 @@
   "partido": "PSDB",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204560.jpg",
-  "score": 15.49,
-  "rank": 454,
-  "proposicoes": [],
+  "score": 19.1,
+  "rank": 427,
+  "proposicoes": [
+    {
+      "id": 2619258,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Emenda de plenário.",
+      "data": "2026-04-28T19:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619258"
+    },
+    {
+      "id": 2619288,
+      "tipo": "EMP",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Emenda de plenário.",
+      "data": "2026-04-28T20:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619288"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

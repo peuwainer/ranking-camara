@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204407.jpg",
-  "score": 34.29,
-  "rank": 65,
+  "score": 35.93,
+  "rank": 43,
   "proposicoes": [
     {
       "id": 2613007,
@@ -51,6 +51,15 @@
       "ementa": "Torna obrigatória a formação de Brigadistas Voluntários nos estabelecimentos de ensino públicos e privados.",
       "data": "2026-04-16T14:43",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617251"
+    },
+    {
+      "id": 2619274,
+      "tipo": "PL",
+      "numero": 2054,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional dos Direitos das Pessoas LGBTQIA+ e dá outras providências.",
+      "data": "2026-04-28T19:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619274"
     }
   ],
   "discursos": [
@@ -142,6 +151,12 @@
       "sigla": "CMULHER",
       "cargo": "Titular",
       "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Suplente",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204407/votacoes-nominais-plenario/2026"

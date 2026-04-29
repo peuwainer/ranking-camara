@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178970.jpg",
-  "score": 34.79,
-  "rank": 55,
+  "score": 36.67,
+  "rank": 40,
   "proposicoes": [
     {
       "id": 2615287,
@@ -51,9 +51,34 @@
       "ementa": "Institui normas gerais sobre identidade digital, identificação responsável, sigilo legítimo, segurança da informação, pseudonimato, conteúdos sintéticos e responsabilização no ambiente digital.",
       "data": "2026-04-27T17:29",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618698"
+    },
+    {
+      "id": 2618777,
+      "tipo": "PL",
+      "numero": 2014,
+      "ano": 2026,
+      "ementa": "Institui regime de tutela jurisdicional urgente para ilícitos informacionais de dano democrático e dá outras providências.",
+      "data": "2026-04-28T10:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618777"
+    },
+    {
+      "id": 2618844,
+      "tipo": "PL",
+      "numero": 2019,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Transição Laboral, Supervisão Humana e Limites à Substituição Automatizada no Mercado de Trabalho, estabelece parâmetros mínimos de proteção em face da automação e dá outras providências.",
+      "data": "2026-04-28T12:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618844"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-28T17:08",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. JOÃO DANIEL (Bloco/PT - SE. Sem revisão do orador.) - Obrigado, Presidente Charles Fernandes. Desta tribuna, saudamos todos e todas que nos acompanham neste momento. Eu queria parabenizar todos ",
+      "transcricao": "O SR. JOÃO DANIEL (Bloco/PT - SE. Sem revisão do orador.) - Obrigado, Presidente Charles Fernandes. Desta tribuna, saudamos todos e todas que nos acompanham neste momento. Eu queria parabenizar todos os trabalhadores e trabalhadoras da saúde no Brasil, os Agentes Comunitários de Saúde e Agentes de Combate às Endemias do Brasil inteiro, que sempre tiveram do nosso mandato, da nossa bancada, do nosso partido total apoio. Quero parabenizar o Ministro Padilha e toda sua equipe, liderados pelo Presidente Lula, pelo grande projeto de saúde, neste País, de equipar os Municípios, liberar recursos, criar programas e projetos, a exemplo do Projeto Mais Médicos Especialistas, que estão ajudando a resolver a questão das filas e melhorar o atendimento à população brasileira, que lamentavelmente enfrentou, durante o Governo anterior e o Governo Temer, o enfraquecimento do SUS e das políticas de saúde. Quero parabenizar o Ministério do Governo do Presidente Lula por liberar equipamentos para os Municípios, a exemplo de ônibus, micro-ônibus, ambulâncias, vans, todos os equipamentos para ajudar os Municípios. Vários Municípios em Sergipe estão sendo contemplados, mas quero parabenizar os Municípios de Estância, de Gararu, de Laranjeiras, de Maruim, de Monte Alegre de Sergipe, de Nossa Senhora da Glória, Nossa Senhora de Lourdes, de Pacatuba, de Pedra Mole, de Poço Redondo, de Porto da Folha, de Arauá, de Feira Nova, de São Domingos. Agradeço em nome de todos os Municípios que estão recebendo equipamentos importantes para ajudar e melhorar a saúde dos Municípios. Quero parabenizar toda a equipe do Ministério e todos os trabalhadores e trabalhadoras do Brasil inteiro que fazem o maior programa de saúde deste País, que é o Sistema Único de Saúde, fundamental, importante para dar à nossa população dignidade. Sr. Presidente, peço que seja divulgado no programa A Voz do Brasil e nos demais meios de comunicação os nossos parabéns e nosso compromisso com a saúde pública e com todos aqueles Municípios do Estado e da UNIÃO que fazem o SUS neste País. Obrigado, Presidente."
+    },
     {
       "data": "2026-04-16T12:28",
       "fase": "Ordem do Dia",

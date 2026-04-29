@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
-  "score": 28.86,
-  "rank": 182,
+  "score": 31.65,
+  "rank": 121,
   "proposicoes": [
     {
       "id": 2614992,
@@ -87,6 +87,24 @@
       "ementa": "Esta lei determina que os cuidados com a saúde mental das pessoas só poderão ser exercidos por profissional com curso superior nas áreas de psicologia e psiquiatria e dá outras providências.",
       "data": "2026-04-23T10:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618093"
+    },
+    {
+      "id": 2618759,
+      "tipo": "PL",
+      "numero": 2010,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Vacinação Preventiva de Cães e Gatos contra Zoonoses e estabelece diretrizes para sua implementação em regime de cooperação federativa.",
+      "data": "2026-04-28T10:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618759"
+    },
+    {
+      "id": 2618761,
+      "tipo": "PL",
+      "numero": 2011,
+      "ano": 2026,
+      "ementa": "Dispõe sobre normas gerais de transparência e prestação de contas do exercício do mandato de Vereador, mediante a instituição de Relatório de Metas do Mandato, e dá outras providências.",
+      "data": "2026-04-28T10:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618761"
     }
   ],
   "discursos": [],

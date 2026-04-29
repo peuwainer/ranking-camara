@@ -4,10 +4,25 @@
   "partido": "UNIÃO",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74554.jpg",
-  "score": 14.0,
-  "rank": 469,
+  "score": 17.3,
+  "rank": 448,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-28T18:44",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JOSÉ ROCHA (Bloco/UNIÃO - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, primeiro, quero aqui discordar totalmente do colega Deputado Zarattini, porque Tarcísio é considerado o melhor",
+      "transcricao": "O SR. JOSÉ ROCHA (Bloco/UNIÃO - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, primeiro, quero aqui discordar totalmente do colega Deputado Zarattini, porque Tarcísio é considerado o melhor Governador do nosso País. Ele realiza realmente um grande trabalho em São Paulo. Com certeza, ele vai ser reeleito, com uma margem grande de diferença em relação ao seu opositor. Sr. Presidente, também quero, neste instante, registrar a presença da Vereadora Nice, do Município de Correntina, do nosso Estado, e do Vereador Maradona. Eles estão participando de um encontro de Vereadores aqui em Brasília e nos dão o prazer desta visita à Câmara dos Deputados."
+    },
+    {
+      "data": "2026-04-28T18:08",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JOSÉ ROCHA (Bloco/UNIÃO - BA. Pela ordem. Sem revisão do orador.) - Meu pedido é rápido, só para reforçar aqui o anúncio que foi feito pelo colega Márcio Marinho, dos nossos dois Vereadores de B",
+      "transcricao": "O SR. JOSÉ ROCHA (Bloco/UNIÃO - BA. Pela ordem. Sem revisão do orador.) - Meu pedido é rápido, só para reforçar aqui o anúncio que foi feito pelo colega Márcio Marinho, dos nossos dois Vereadores de Brumado, o Harley e o Alípio, que lá formam com o Prefeito Fabrício uma grande parceria na gestão daquele Município, conduzida pelo Fabrício. Enquanto isso, na Câmara, eles estão dando todo o apoio para que Brumado seja sempre uma Brumado cada vez melhor."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/66828.jpg",
-  "score": 21.33,
-  "rank": 380,
+  "score": 24.06,
+  "rank": 340,
   "proposicoes": [
     {
       "id": 2617236,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617237"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-28T18:48",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. FAUSTO PINATO (Bloco/PP - SP. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu venho aqui mais num tom de desespero e apelo a esta Casa para dizer ao Estado de São Paulo, do qual eu sou ",
+      "transcricao": "O SR. FAUSTO PINATO (Bloco/PP - SP. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu venho aqui mais num tom de desespero e apelo a esta Casa para dizer ao Estado de São Paulo, do qual eu sou Deputado, no meu terceiro mandato. Hoje vejo alguns Deputados, mas venho aqui fazer um grito de socorro, porque ainda dá tempo de se costurar uma terceira via neste País, com um projeto de País. Nós sabemos que hoje temos uma Esquerda com o Presidente Lula. Ele veio, de certa forma, até para evitar uma ditadura. Mas, infelizmente, nós vemos que hoje o Governo sobrevive não por maestria, mas sim pela burrice da ultradireita, que, pasmem, sufocou Centro e Centro-direita, colocando o filho do Bolsonaro. Na verdade, os dois não têm projeto de País. Está em tempo de construir um projeto de País, porque, entre direita e esquerda, eu prefiro um País para frente. Nós temos uma esquerda \"desmodernizada\" e uma direita totalmente fora da casinha. Presidente, Deus é maior! Tomara que surjam juízes, principalmente desses países de centro-direita e de centro-esquerda, que possam, juntos, fazer uma nova história, porque o Brasil tem pressa e precisa de um nome que realmente pacifique este País. Obrigado, Sr. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 14, de 2021, do Sr. Dr. Leonardo e outros, que \"altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais\"",
@@ -63,6 +71,12 @@
       "sigla": "CREDN",
       "cargo": "Suplente",
       "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 108, de 2021, do Senado Federal, que \"altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados\"",
+      "sigla": "PLP10821",
+      "cargo": "Titular",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/66828/votacoes-nominais-plenario/2026"

@@ -4,7 +4,7 @@
   "partido": "PT",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178887.jpg",
-  "score": 64.63,
+  "score": 65.66,
   "rank": 1,
   "proposicoes": [
     {
@@ -465,6 +465,15 @@
       "ementa": "Autoriza a União a instituir empresa estatal, ou subsidiária de sociedade de economia mista federal, para atuar na distribuição de combustíveis, biocombustíveis e gás liquefeito de petróleo (GLP), autoriza a recomposição da presença pública em ativos estratégicos do abastecimento nacional, e estabelece diretrizes para a soberania energética, a segurança do abastecimento, a modicidade de preços e a defesa do consumidor.",
       "data": "2026-04-15T15:34",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616663"
+    },
+    {
+      "id": 2619103,
+      "tipo": "PL",
+      "numero": 2036,
+      "ano": 2026,
+      "ementa": "Revoga o artigo 54 do Decreto?Lei nº 3.199, de 1941, e dá outras providências destinadas a eliminar norma discriminatória sobre práticas esportivas supostamente \"incompatíveis com a natureza feminina\", consolidando a igualdade de gênero no ordenamento jurídico.",
+      "data": "2026-04-28T16:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619103"
     }
   ],
   "discursos": [
@@ -535,6 +544,12 @@
       "sigla": "CCJC",
       "cargo": "Titular",
       "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Suplente",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178887/votacoes-nominais-plenario/2026"

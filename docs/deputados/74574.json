@@ -4,10 +4,18 @@
   "partido": "PSD",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74574.jpg",
-  "score": 23.5,
-  "rank": 337,
+  "score": 25.09,
+  "rank": 319,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-28T18:04",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. PAULO MAGALHÃES (Bloco/PSD - BA. Pela ordem. Sem revisão do orador.) - Presidente Charles, é com prazer que eu anuncio a presença, nesta Casa, de uma comitiva do Município de Itacaré, na Bahia, ",
+      "transcricao": "O SR. PAULO MAGALHÃES (Bloco/PSD - BA. Pela ordem. Sem revisão do orador.) - Presidente Charles, é com prazer que eu anuncio a presença, nesta Casa, de uma comitiva do Município de Itacaré, na Bahia, a belíssima Itacaré, que manda aqui o Vice-Prefeito, José Washington; o Presidente da Câmara de Vereadores, Renilson De Milton Ramos; os Vereadores Djones, Jionez; Breno Kadina; Gilberto; Tonho do Bicho; Pedrão e Nego Day, além do Secretário Albert Queiroz, que tanto trabalha pela administração daquela terra. Eu não poderia deixar, Sr. Presidente, de fazer um elogio a uma dupla de gestores que comandam o destino de Itacaré. Ontem, Antônio de Anízio, um grande Prefeito, e hoje o Prefeito Nego de Saronga, o Prefeito do coração do povo de Itacaré, que tem mudado a feição do Município e tem dado continuidade ao trabalho de Antônio de Anízio. Nego e Antônio são as duas grandes figuras, as grandes lideranças daquela terra. E eu não podia deixar, como Deputado votado naquele Município, de dizer que Itacaré é um exemplo de administração pública da Bahia para o Brasil. Obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",

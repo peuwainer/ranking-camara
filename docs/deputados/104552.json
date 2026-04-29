@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "AC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/104552.jpg",
-  "score": 37.32,
-  "rank": 31,
+  "score": 37.64,
+  "rank": 32,
   "proposicoes": [
     {
       "id": 2613118,
@@ -114,6 +114,15 @@
       "ementa": "Altera a Lei nº 9.795, de 27 de abril de 1999, para dispor sobre a empatia aos animais no âmbito da educação ambiental.",
       "data": "2026-04-27T12:27",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618603"
+    },
+    {
+      "id": 2619130,
+      "tipo": "PL",
+      "numero": 2038,
+      "ano": 2026,
+      "ementa": "Altera o art. 153 da Lei nº 14.597, de 14 de junho de 2023, para disciplinar critérios de transparência, publicidade, motivação e proporcionalidade nas cobranças exigidas para autorização e supervisão de eventos esportivos realizados em vias públicas.",
+      "data": "2026-04-28T17:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619130"
     }
   ],
   "discursos": [
@@ -205,6 +214,12 @@
       "sigla": "CFT",
       "cargo": "Suplente",
       "desde": "2026-03-18T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Suplente",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/104552/votacoes-nominais-plenario/2026"

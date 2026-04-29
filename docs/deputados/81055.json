@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/81055.jpg",
-  "score": 28.59,
-  "rank": 192,
+  "score": 31.19,
+  "rank": 135,
   "proposicoes": [
     {
       "id": 2616663,
@@ -18,6 +18,20 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-28T15:24",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MÁRCIO JERRY (Bloco/PCdoB - MA. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Quero saudar a 25ª Marcha dos Vereadores e Vereadoras a Brasília e, muito especialmente, os Vereadores",
+      "transcricao": "O SR. MÁRCIO JERRY (Bloco/PCdoB - MA. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Quero saudar a 25ª Marcha dos Vereadores e Vereadoras a Brasília e, muito especialmente, os Vereadores e Vereadoras do Maranhão, recebendo aqui a Vereadora Josemara, de São Raimundo das Mangabeiras; o Vereador Ricardo Lucena, Presidente da Câmara Municipal de Presidente Dutra; e o Vereador Franklin Torres, também de Presidente Dutra. Em nome deles, mando um grande abraço e saúdo a delegação maranhense que está presente na 25ª Marcha dos nossos colegas Parlamentares, Vereadores e Vereadoras. Muito obrigado pela visita. Obrigado, Presidente Charles Fernandes"
+    },
+    {
+      "data": "2026-04-28T15:00",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. MÁRCIO JERRY (Bloco/PCdoB - MA. Sem revisão do orador.) - Presidente Charles Fernandes, boa tarde. Boa tarde aos colegas Parlamentares, aos que nos acompanham pelas redes da Casa e, muito especi",
+      "transcricao": "O SR. MÁRCIO JERRY (Bloco/PCdoB - MA. Sem revisão do orador.) - Presidente Charles Fernandes, boa tarde. Boa tarde aos colegas Parlamentares, aos que nos acompanham pelas redes da Casa e, muito especialmente, ao nosso querido povo do Maranhão, meu Estado. Presidente, antes de falar aqui sobre um dos problemas que são recorrentes na Casa, nos discursos que são proferidos, eu queria fazer um parêntese para mandar um abraço muito especial à população de Morros, no Maranhão, cidade que hoje completa 128 anos. Um abraço à nossa querida companheira Alzerina, à companheira Vereadora Detinha e a todo o povo de Morros. Presidente, é constitutivo, é parte indissociável dessa corrente política do bolsonarismo o apego a mentiras, o apego a fake news. Isso faz parte dessa corrente política em nosso País. E, ao mesmo tempo em que recorrem insistentemente a mentiras, utilizam-se de um deslavado baixo nível. Ao invés de fazerem o debate político de conteúdo, todos os dias a gente vê aqui Parlamentares fazendo agressões absurdas ao Presidente Lula e ao Governo do Presidente Lula. Enquanto isso, a caravana das realizações vai passando. Alguns vão ladrando, e a caravana vai passando, porque o Governo do Presidente Lula é o Governo que recolocou o nosso País de pé e que está passo a passo, resolutamente, reconstruindo o Brasil, é o Governo que assegura a plenitude democrática, que assegura caminhos de desenvolvimento, que voltou a fazer com que o Estado brasileiro tivesse atenção com as políticas sociais, que voltou a fazer investimentos fortes na educação, na saúde, com entregas todos os dias. O nosso País voltou a crescer e está sendo visto pelo mundo inteiro de uma maneira diferente de como era visto há 5 anos. O mundo respeita o Brasil, estabelece parcerias estratégicas com o nosso País. Isso, certamente, Sr. Presidente, incomoda os inconformados com o desenvolvimento do País, com o êxito, com os avanços do Governo do Presidente Lula. E eles vão ter que se acostumar por mais um quadriênio, reclamando, porque a caravana continuará passando. O Presidente Lula tem um estoque gigantesco de entregas, de realizações, para prestar contas ao povo brasileiro e para, novamente, ser eleito Presidente da República. O Brasil não pode retroceder. A democracia precisa, a cada dia, ser fortalecida. O Presidente Lula assegura isso, assegura o funcionamento das nossas instituições, do Estado brasileiro, de forma democrática, assegura atenção aos que mais precisam, o que é a marca do Presidente Lula. E isso faz com que, todos os dias, no Brasil inteiro, nós tenhamos realizações, nós enxerguemos as mudanças substantivas, fundamentais, de um Brasil cada vez melhor para todos. Viva o Presidente Lula! Muito obrigado, Presidente."
+    },
     {
       "data": "2026-04-22T22:52",
       "fase": "Encerramento",
@@ -99,6 +113,18 @@
       "sigla": "GTCL",
       "cargo": "Titular",
       "desde": "2025-04-30T00:00"
+    },
+    {
+      "nome": "Comissão de Fiscalização Financeira e Controle",
+      "sigla": "CFFC",
+      "cargo": "Titular",
+      "desde": "2026-04-28T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos das Pessoas com Deficiência",
+      "sigla": "CPD",
+      "cargo": "Titular",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/81055/votacoes-nominais-plenario/2026"

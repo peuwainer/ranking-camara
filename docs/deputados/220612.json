@@ -4,10 +4,37 @@
   "partido": "PP",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220612.jpg",
-  "score": 31.23,
-  "rank": 118,
-  "proposicoes": [],
-  "discursos": [],
+  "score": 33.06,
+  "rank": 97,
+  "proposicoes": [
+    {
+      "id": 2619163,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.987, de 13 de fevereiro de 1995, que dispõe sobre o regime de concessão e permissão da prestação de serviço público previsto no art. 175 da Constituição Federal.",
+      "data": "2026-04-28T14:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619163"
+    },
+    {
+      "id": 2619170,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 10.048, de 2000, para estabelecer regras de ocupação de assentos por pessoas obesas em veículos de transporte coletivo e em aeronaves.",
+      "data": "2026-04-28T14:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619170"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-04-28T18:44",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. BEBETO (Bloco/PP - RJ. Sem revisão do orador.) - Presidente, eu uso esta tribuna, mais uma vez, para falar da minha atuação na Comissão de Viação e Transportes, presidida pelo competente Deputad",
+      "transcricao": "O SR. BEBETO (Bloco/PP - RJ. Sem revisão do orador.) - Presidente, eu uso esta tribuna, mais uma vez, para falar da minha atuação na Comissão de Viação e Transportes, presidida pelo competente Deputado Claudio Cajado. Semana passada, eu presidi uma audiência pública para tratar do abandono da BR-393. Nós tivemos um êxito muito grande nessa audiência, que contou com a participação de diversos Prefeitos da região sul fluminense, do DNIT, do Ministério dos Transportes, do Ministério Público Federal, de diversos Deputados. Saímos dali com a conclusão e com o resumo de tudo o que foi debatido. Fomos direto ao Ministro George Santoro para discutir o problema grave daquela Rodovia do Aço, que hoje está sendo apelidada de Rodovia da Morte. O Ministro esteve na sexta-feira na cidade de Barra do Piraí e adiantou um valor de 30 milhões de reais para fazer a revitalização daquela rodovia que teve uma caducidade no contrato. Lá o povo está sofrendo com acidentes constantes, aumento de trânsito, falta de balança, falta de fiscalização. Enfim, eu venho bater nesse tema de transporte e mobilidade urbana nesta Casa. Falei aqui da duplicação da Rodovia Presidente Dutra, das entradas e saídas dos Municípios da Baixada, onde nós conseguimos abrir uma agulha de entrada em São João de Miriti, fechada há 8 anos. Falei aqui de uma torre da Light que está atrapalhando a construção do viaduto que vai desafogar o trânsito da Baixada Fluminense. Eu estive lá com o Presidente da Light, o Alexandre Nogueira, e até este momento nada foi resolvido. Estou reiterando o meu pedido à Light para que tire aquela torre para construir o viaduto, uma alça que liga a Linha Vermelha à Via Expressa da Rodovia Presidente Dutra, para acabar com os engarrafamentos. O povo da Baixada Fluminense fica 2 horas retido nesses engarrafamentos. Com esse avanço, com as obras das Ecovias Rio Minas de duplicação, de construção de viaduto, de alça, com certeza, terão fim, em parte, esses engarrafamentos. A nossa atuação tem sido para melhorar a mobilidade urbana, acabar com os acidentes, dar paz ao povo do sul fluminense, da Baixada Fluminense. Eu gostaria que esta minha fala fosse registrada no programa A Voz do Brasil e nos veículos de comunicação desta Casa. Muito obrigado. Deus abençoe a todos."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",

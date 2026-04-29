@@ -4,9 +4,28 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220667.jpg",
-  "score": 32.96,
-  "rank": 89,
-  "proposicoes": [],
+  "score": 34.94,
+  "rank": 57,
+  "proposicoes": [
+    {
+      "id": 2619323,
+      "tipo": "PL",
+      "numero": 2058,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.113, de 25 de dezembro de 2020 para instituir mecanismo de antecipação de recursos destinados à expansão de matrículas em creche na educação infantil.",
+      "data": "2026-04-28T22:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619323"
+    },
+    {
+      "id": 2619325,
+      "tipo": "PL",
+      "numero": 2059,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993, para instituir parcela anual adicional aos beneficiários do Benefício de Prestação Continuada, e a Lei nº 14.601, de 19 de junho de 2023, para instituir parcela anual complementar às famílias beneficiárias do Programa Bolsa Família.",
+      "data": "2026-04-28T22:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619325"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-04-15T20:32",
@@ -70,6 +89,12 @@
       "sigla": "CFFC",
       "cargo": "Titular",
       "desde": "2026-02-25T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 108, de 2021, do Senado Federal, que \"altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados\"",
+      "sigla": "PLP10821",
+      "cargo": "Suplente",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220667/votacoes-nominais-plenario/2026"

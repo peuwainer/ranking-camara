@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220598.jpg",
-  "score": 37.72,
-  "rank": 28,
+  "score": 37.49,
+  "rank": 33,
   "proposicoes": [
     {
       "id": 2613007,
@@ -87,6 +87,15 @@
       "ementa": "Altera o caput do art. 14 do Projeto de Lei n. 2780/2024",
       "data": "2026-04-22T19:34",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617863"
+    },
+    {
+      "id": 2619274,
+      "tipo": "PL",
+      "numero": 2054,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional dos Direitos das Pessoas LGBTQIA+ e dá outras providências.",
+      "data": "2026-04-28T19:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619274"
     }
   ],
   "discursos": [
@@ -273,12 +282,6 @@
       "desde": "2025-08-12T00:00"
     },
     {
-      "nome": "Comissão de Direitos Humanos, Minorias e Igualdade Racial",
-      "sigla": "CDHMIR",
-      "cargo": "Titular",
-      "desde": "2026-02-04T00:00"
-    },
-    {
       "nome": "Comissão de Cultura",
       "sigla": "CCULT",
       "cargo": "Titular",
@@ -289,6 +292,12 @@
       "sigla": "CE",
       "cargo": "Titular",
       "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Comissão de Direitos Humanos, Minorias e Igualdade Racial",
+      "sigla": "CDHMIR",
+      "cargo": "Suplente",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220598/votacoes-nominais-plenario/2026"

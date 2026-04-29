@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/154178.jpg",
-  "score": 26.05,
-  "rank": 272,
+  "score": 28.0,
+  "rank": 242,
   "proposicoes": [
     {
       "id": 2616113,
@@ -33,9 +33,25 @@
       "ementa": "Altera a Lei nº 14.620, de 13 de julho de 2023, para vedar a utilização exclusiva de registros em cadastros de inadimplentes como critério impeditivo ao acesso a programas habitacionais de interesse social.",
       "data": "2026-04-15T14:14",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616616"
+    },
+    {
+      "id": 2618847,
+      "tipo": "PL",
+      "numero": 2020,
+      "ano": 2026,
+      "ementa": "Institui medidas de proteção contra a evasão acadêmica feminina no âmbito das instituições de ensino superior e dá outras providências.",
+      "data": "2026-04-28T12:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618847"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-28T16:04",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MILTON VIEIRA (Bloco/REPUBLICANOS - SP. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero aqui cumprimentar a cidade de Santo Antônio de Posse, que fica a 30 quilômetros da cidade de C",
+      "transcricao": "O SR. MILTON VIEIRA (Bloco/REPUBLICANOS - SP. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero aqui cumprimentar a cidade de Santo Antônio de Posse, que fica a 30 quilômetros da cidade de Campinas, na região metropolitana de Campinas. Estamos aqui recebendo o Vereador Guilherme, a jovem Vereadora Cidinha, também o Vereador Douglas, e o Chefe de Gabinete da Câmara, o Tiago. Santo Antônio de Posse hoje está aqui representada para conhecer o Parlamento Brasileiro, levando daqui os sinais das nossas lutas e dos combates que fazemos neste Plenário, em favor do povo brasileiro. Sejam muito bem-vindos! Obrigado pela visita aqui no Congresso Nacional. Obrigado, Sr. Presidente."
+    },
     {
       "data": "2026-04-08T14:24",
       "fase": "Breves Comunicações",

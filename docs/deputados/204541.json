@@ -4,8 +4,8 @@
   "partido": "PV",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204541.jpg",
-  "score": 26.09,
-  "rank": 269,
+  "score": 27.76,
+  "rank": 246,
   "proposicoes": [
     {
       "id": 2616663,
@@ -17,13 +17,27 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616663"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-28T16:20",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. EDUARDO BISMARCK (Bloco/PV - CE. Sem revisão do orador.) - Caro Presidente, Deputado Charles Fernandes, que ora preside esta sessão, Queria agradecer, mais uma vez, por estar aqui ao seu lado e ",
+      "transcricao": "O SR. EDUARDO BISMARCK (Bloco/PV - CE. Sem revisão do orador.) - Caro Presidente, Deputado Charles Fernandes, que ora preside esta sessão, Queria agradecer, mais uma vez, por estar aqui ao seu lado e ao lado de tantos colegas no dia de hoje, no Congresso Nacional e na Câmara dos Deputados. Quero dizer da minha alegria de estar aqui depois de mais de 1 ano e 3 meses sem subir à tribuna, em razão de ter ficado licenciado para o cargo de Secretário de Estado de Turismo do Estado do Ceará, cargo que me honrou muito. Fiquei muito satisfeito em assumi-lo e venho publicamente, junto a esta Casa, agradecer o convite do nosso Governador Elmano Freitas, que vem fazendo um belíssimo e extraordinário trabalho à frente do Governo do Estado do Ceará. Para mim, mais uma vez, foi uma honra ter cumprido esse tempo à frente da Secretaria de Turismo, onde  muito rapidamente, pretendo falar disso em outras oportunidades em que voltarei a esta tribuna  acredito que deixamos, sob a liderança do Governador Elmano, um legado muito interessante na Secretaria de Estado de Turismo do Ceará. Quero mencionar, principalmente, o aumento do número de voos domésticos e internacionais, que foi expressivo no Aeroporto de Fortaleza, mas também nos outros dois aeroportos, de Jericoacoara e Juazeiro do Norte, que também recebem voos comerciais. Também, só no ano de 2025, anunciamos quatro novas rotas internacionais para o aeroporto de Fortaleza. Ainda em 2025, graças à parceria do nosso Governador com o Presidente Lula e o Ministério de Portos e Aeroportos  quero agradecer ao então Ministro Sílvio e também ao Secretário e atual Ministro Tomé Franca  nós concedemos os aeroportos de Jericoacoara e Aracati à iniciativa privada, por meio do programa Ampliar. Eu também considero isso um grande legado, porque os aeroportos do Ceará não estavam incluídos, inicialmente, no Ampliar. A partir do pedido da nossa Secretaria e do Governador Elmano, o Ministro se sensibilizou e os incluiu. Tivemos, então, a concessionária de Guarulhos assumindo o Aeroporto de Aracati, no Ceará, que retomará seus voos comerciais com uma rota, a partir de outubro, ligando Confins a Aracati e Aracati a Confins  portanto, em Belo Horizonte  e também Fortaleza a Aracati e Aracati a Fortaleza, com aeronaves Embraer a jato. O Aeroporto de Jericoacoara, que foi concedido para a Fraport, que administra o aeroporto de Fortaleza, muito em breve será internacionalizado. Trata-se de mais um aeroporto internacional do Ceará. Grande parte dos turistas internacionais chega através do aeroporto de Fortaleza e depois se desloca para a Região Norte. Assim, faz-se necessária a internacionalização do aeroporto, que já tem pista apta a receber, por exemplo, o A321XLR, aeronave com a qual a Iberia opera a rota de Madri-Fortaleza. Esse será o futuro da Região Norte, da Rota das Emoções, que integra o Maranhão, o Piauí e o Ceará através desse aeroporto. Eu quero parabenizar todos os Vereadores e as Câmaras de Vereadores do Brasil que enviaram representantes a Brasília para a Marcha dos Vereadores. Eles estão fazendo o seu dever como grandes Parlamentares, buscando capacitar-se melhor e compreender o funcionamento da Federação, dos Ministérios e do Congresso Nacional. Registro, nas pessoas de muitos que estão aqui, a presença do meu amigo, Vereador Guilherme Nunes, de Itaiçaba, que está presente neste plenário. Sr. Presidente, peço que autorize a divulgação do meu pronunciamento no programa A Voz do Brasil. Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Turismo",
       "sigla": "CTUR",
       "cargo": "Titular",
       "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "Titular",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204541/votacoes-nominais-plenario/2026"

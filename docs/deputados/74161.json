@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74161.jpg",
-  "score": 19.83,
-  "rank": 400,
+  "score": 23.02,
+  "rank": 366,
   "proposicoes": [
     {
       "id": 2615287,
@@ -27,6 +27,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-28T18:16",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. REGINALDO LOPES (Bloco/PT - MG. Sem revisão do orador.) - Obrigado, Presidente Charles Fernandes. É uma alegria poder, neste dia tão emblemático, votar uma política de Estado para a assistência ",
+      "transcricao": "O SR. REGINALDO LOPES (Bloco/PT - MG. Sem revisão do orador.) - Obrigado, Presidente Charles Fernandes. É uma alegria poder, neste dia tão emblemático, votar uma política de Estado para a assistência social, garantindo a aplicação de 1% da receita corrente líquida nos Municípios, nos Estados, na União. Apenas na União, vai passar de 2,6 bilhões para quase 40 bilhões de reais em investimentos para o Sistema Único de Saúde. É super importante enfrentar a pobreza e as desigualdades, criar uma política de emancipação e qualificação profissional, permitir política de prosperidade e garantir novos investimentos e novas qualificações profissionais e apoio às pessoas que mais precisam. O segundo ponto importante de hoje é a criação da Comissão Especial da PEC 221, de 2019, de minha autoria, que propõe acabar com a escravidão moderna que se tornou a escala 6x1. Chegou a hora! O Brasil está maduro. A regra é trabalhar 5 dias e descansar 2 dias e trabalhar numa jornada menor do que 40 horas. Quem trabalha na escala 6x1 e de 44 horas  aqueles que trabalham mais  ganha menos. De acordo com o Ipea, essas pessoas recebem 58% a menos de remuneração do que aqueles que trabalham menos. Então, é paradoxal, mas não é: quem trabalha menos horas também é mais produtivo e entrega as obrigações operacionais dentro do prazo. Portanto, toda a economia vai ganhar com o fim da escravidão moderna: trabalhar 6 dias e ter apenas 1 dia de descanso. Quero aqui também reafirmar o nosso compromisso com essa matéria. Vamos fazer o bom debate, o bom combate; tirar as desinformações, as fake news. E o primeiro ato nosso na Comissão Especial será trazer o acordo e o projeto do Presidente Lula para dentro da proposta de emenda à Constituição: 40 horas de jornada e escala de 5 dias. O Brasil está preparado. Os impactos econômicos são pequenos, mas com certeza daremos mais qualidade ao maior patrimônio de uma empresa, ao maior patrimônio de uma Nação, que é a saúde mental. Nós hoje temos afastamento de mais de meio milhão de trabalhadores adoecidos. É isso que prejudica uma economia. Chegou a hora das mulheres, chegou a hora dos 31,7 milhões de brasileiros e brasileiras que trabalham mais e ganham menos, que têm menor qualificação. Chegou a hora de garantir esse direito para que eles possam se requalificar dentro do sistema S  da indústria, do comércio, do turismo , dentro das escolas técnicas e dos institutos federais. Chegou a hora de garantir mais dignidade ao grande patrimônio deste País, que são os trabalhadores e trabalhadoras."
+    },
     {
       "data": "2026-04-14T20:40",
       "fase": "Ordem do Dia",
@@ -101,6 +108,12 @@
       "sigla": "CE",
       "cargo": "Suplente",
       "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Titular",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/74161/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220645.jpg",
-  "score": 25.15,
-  "rank": 301,
+  "score": 28.49,
+  "rank": 225,
   "proposicoes": [
     {
       "id": 2614419,
@@ -33,6 +33,24 @@
       "ementa": "Institui o Programa Nacional do Afro-empreendedorismo.",
       "data": "2026-04-17T15:26",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618630"
+    },
+    {
+      "id": 2619159,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Dispõe sobre a proteção do emprego às pessoas negras.",
+      "data": "2026-04-28T17:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619159"
+    },
+    {
+      "id": 2619274,
+      "tipo": "PL",
+      "numero": 2054,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional dos Direitos das Pessoas LGBTQIA+ e dá outras providências.",
+      "data": "2026-04-28T19:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619274"
     }
   ],
   "discursos": [],
@@ -78,6 +96,12 @@
       "sigla": "CMULHER",
       "cargo": "Presidente",
       "desde": "2026-03-11T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Titular",
+      "desde": "2026-04-28T00:00"
     },
     {
       "nome": "Subcomissão Especial destinada a “debater e apresentar sugestões ao setor de estética e aprimorar suas relações trabalhistas”",

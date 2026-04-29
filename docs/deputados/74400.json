@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74400.jpg",
-  "score": 34.34,
-  "rank": 63,
+  "score": 35.99,
+  "rank": 42,
   "proposicoes": [
     {
       "id": 2615287,
@@ -69,6 +69,24 @@
       "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
       "data": "2026-04-23T17:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618177"
+    },
+    {
+      "id": 2619258,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Emenda de plenário.",
+      "data": "2026-04-28T19:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619258"
+    },
+    {
+      "id": 2619288,
+      "tipo": "EMP",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Emenda de plenário.",
+      "data": "2026-04-28T20:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619288"
     }
   ],
   "discursos": [

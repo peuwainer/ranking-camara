@@ -4,9 +4,19 @@
   "partido": "PRD",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
-  "score": 19.58,
-  "rank": 407,
-  "proposicoes": [],
+  "score": 19.17,
+  "rank": 426,
+  "proposicoes": [
+    {
+      "id": 2619322,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-04-28T22:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619322"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

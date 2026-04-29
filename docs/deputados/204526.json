@@ -4,10 +4,18 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204526.jpg",
-  "score": 24.31,
-  "rank": 321,
+  "score": 24.09,
+  "rank": 339,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-28T18:04",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LUIZ PHILIPPE DE ORLEANS E BRAGANÇA (PL - SP. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Eu gostaria de chamar a atenção para dois temas. Primeiro, a questão da dosimetria. Vamo",
+      "transcricao": "O SR. LUIZ PHILIPPE DE ORLEANS E BRAGANÇA (PL - SP. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Eu gostaria de chamar a atenção para dois temas. Primeiro, a questão da dosimetria. Vamos votar a favor da questão da dosimetria. No entanto, meu Presidente, essa questão está sendo mal usada. Porque há muitos Deputados que estão no toma lá, dá cá, inclusas lideranças partidárias, lideranças até das Casas, estão no toma lá, dá cá, falando que vão votar a favor da dosimetria para aprovar um desqualificado para o STF. Temos que fazer uma nota de repúdio ao toma lá, dá cá, que continua imperando nas duas Casas. Temos que olhar essa agenda pelo que diz o mérito. Temos uma questão aqui de justiça, que foi mal conduzida. Na Comissão de Relações Exteriores, já pontuamos que foi um julgamento político. Então, temos que votar a favor da dosimetria em qualquer mecanismo. De outro lado, temos que rechaçar esse tipo de nomeação, completamente partidária, desqualificada, de militante para o STF. Não é o momento de fazer essa nomeação e sequer botar isso a voto, Presidente. É um absurdo! O STF precisaria estar falando de reforma. Nós, da Câmara, precisamos estar falando de reforma do Judiciário e não de nomeação de mais um militante para entrar naquele calabouço. Muito obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",

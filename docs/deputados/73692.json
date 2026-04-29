@@ -4,10 +4,18 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73692.jpg",
-  "score": 28.81,
-  "rank": 189,
+  "score": 29.59,
+  "rank": 178,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-28T18:20",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. OSMAR TERRA (PL - RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu queria fazer aqui um registro para os Anais da Câmara de uma visita muito honrosa de Vereadores da minha cidade, Sa",
+      "transcricao": "O SR. OSMAR TERRA (PL - RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu queria fazer aqui um registro para os Anais da Câmara de uma visita muito honrosa de Vereadores da minha cidade, Santa Rosa, que são Aurio Spengler, Enzo Fontana, Rafael Rufino e Jocemar Gerhardt. Eles estão nos dando a honra da visita, acompanhados de Taina Zanchetti, que é Vereadora de Roca Sales, Município dos mais atingidos pelas enxurradas, onde morreram 54 pessoas. Taina Zanchetti é uma lutadora pela reparação da cidade, pela reparação do que for possível reparar para as famílias enlutadas, e para que não aconteçam mais tragédias. Eu queria deixar este registro. Muito obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a apurar e acompanhar os danos causados pelas enchentes de 2023 e 2024, que atingiram o estado do Rio Grande do Sul",

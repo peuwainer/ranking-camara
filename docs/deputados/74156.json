@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74156.jpg",
-  "score": 32.52,
-  "rank": 96,
+  "score": 34.72,
+  "rank": 61,
   "proposicoes": [
     {
       "id": 2612861,
@@ -60,9 +60,35 @@
       "ementa": "Dispõe sobre a obrigatoriedade de retorno ao candidato ao término de processos seletivos realizados por empresas privadas e estabelece normas de transparência no recrutamento.",
       "data": "2026-04-23T16:38",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618267"
+    },
+    {
+      "id": 2618964,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre proteção contra despedida arbitrária por denúncia de assédio sexual na relação de emprego.",
+      "data": "2026-04-27T18:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618964"
+    },
+    {
+      "id": 2619136,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 14.601, de 19 de junho de 2023 (Programa Bolsa Família), para instituir ações de qualificação profissional destinadas a beneficiários de programas de transferência de renda, com concessão de bolsa adicional para custeio de transporte e alimentação durante a formação.",
+      "data": "2026-04-28T15:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619136"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-28T16:28",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LEONARDO MONTEIRO (Bloco/PT - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero registrar a presença de duas Vereadoras aqui conosco, Sarah e Jéssica, do Município de Coroaci, no V",
+      "transcricao": "O SR. LEONARDO MONTEIRO (Bloco/PT - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero registrar a presença de duas Vereadoras aqui conosco, Sarah e Jéssica, do Município de Coroaci, no Vale do Rio Doce, no leste de Minas Gerais. Elas estão em Brasília participando da Marcha dos Vereadores. Estão também buscando recursos para melhorar a qualidade de vida da população de Coroaci. Quero desejar a elas boas-vindas a Brasília e à Câmara dos Deputados, e colocar o nosso mandato à disposição do Município de Coroaci, para a gente poder continuar melhorando a vida da sua população. Muito obrigado, Sr. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a fiscalizar os rompimentos de barragens, em especial acompanhar a repactuação do acordo de Mariana e a reparação do crime de Brumadinho",

@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 9.7,
-  "rank": 492,
+  "score": 10.84,
+  "rank": 489,
   "proposicoes": [
     {
       "id": 2612699,
@@ -51,6 +51,24 @@
       "ementa": "Institui a Política Nacional de Integração Econômica do Norte – PNIEN, cria o Sistema Nacional de Corredores Econômicos Internacionais do Norte, estabelece diretrizes para facilitação de comércio, desenvolvimento produtivo e governança interfederativa, e dá outras providências.",
       "data": "2026-04-08T17:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614730"
+    },
+    {
+      "id": 2619057,
+      "tipo": "PL",
+      "numero": 2026,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Kit Bebê Essencial para Gestantes inscritas no Cadastro Único em Áreas Remotas, estabelece diretrizes para fornecimento de enxoval mínimo, orientação e acompanhamento, e dá outras providências.",
+      "data": "2026-04-28T15:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619057"
+    },
+    {
+      "id": 2619101,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a qualidade da infraestrutura escolar dos estabelecimentos públicos de ensino.",
+      "data": "2026-04-28T16:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619101"
     }
   ],
   "discursos": [],
@@ -78,6 +96,12 @@
       "sigla": "CCTI",
       "cargo": "Suplente",
       "desde": "2026-04-27T00:00"
+    },
+    {
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
+      "cargo": "Titular",
+      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220540/votacoes-nominais-plenario/2026"

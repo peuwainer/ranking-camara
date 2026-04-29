@@ -4,9 +4,19 @@
   "partido": "PP",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/235776.jpg",
-  "score": 29.91,
-  "rank": 154,
-  "proposicoes": [],
+  "score": 30.85,
+  "rank": 147,
+  "proposicoes": [
+    {
+      "id": 2618785,
+      "tipo": "PLP",
+      "numero": 116,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para incluir, no Anexo IX do art. 138, os itens destinados à irrigação, inclusive aqueles utilizados em piscinas artificiais, no âmbito do IBS e da CBS.",
+      "data": "2026-04-28T11:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618785"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-04-14T17:00",
