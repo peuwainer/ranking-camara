@@ -1,13 +1,21 @@
 {
   "id": 74270,
   "nome": "Gilberto Nascimento",
-  "partido": "PSD",
+  "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74270.jpg",
-  "score": 9.75,
-  "rank": 495,
+  "score": 9.73,
+  "rank": 496,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-28T21:52",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. GILBERTO NASCIMENTO (Bloco/PSD - SP. Pela ordem. Sem revisão do orador.) - Meu querido Presidente, Deputado Cabo Gilberto Silva, nosso paraibano de verdade, eu quero, com muita alegria, anunciar",
+      "transcricao": "O SR. GILBERTO NASCIMENTO (Bloco/PSD - SP. Pela ordem. Sem revisão do orador.) - Meu querido Presidente, Deputado Cabo Gilberto Silva, nosso paraibano de verdade, eu quero, com muita alegria, anunciar a presença nesta Casa, hoje, do nosso querido Prefeito Odair Silva, da cidade de Barretos, São Paulo, que se faz acompanhado do Marcelo Jamal, Secretário de Agricultura, Meio Ambiente e Sustentabilidade, e também do Nilson Andrade, Superintendente do Serviço Autônomo de Água e Esgoto de Barretos  Saae Barretos. Barretos, Presidente, tem se denotado não por ser simplesmente a cidade do rodeio, mas também a cidade do Hospital de Amor. Pessoas do Brasil todo vão a Barretos, repito, não só para participar do rodeio, mas também para tratar do câncer. O Hospital de Amor tem feito uma grande diferença neste País, principalmente para aqueles que mais sofrem. Aqui fica o meu reconhecimento a eles e também ao meu querido amigo Prata. Que realmente possam continuar construindo este grande trabalho do Hospital de Amor, em Barretos! Portanto, parabéns ao nosso Prefeito, que está aqui hoje em Brasília, juntamente com seus secretários, para ir aos Ministérios e aos gabinetes, em busca de recursos para aquela cidade. Muito obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",

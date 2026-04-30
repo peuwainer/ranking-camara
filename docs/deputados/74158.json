@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74158.jpg",
-  "score": 29.51,
-  "rank": 182,
+  "score": 31.85,
+  "rank": 148,
   "proposicoes": [
     {
       "id": 2614756,
@@ -78,6 +78,15 @@
       "ementa": "Altera o caput do art. 14 do Projeto de Lei n. 2780/2024",
       "data": "2026-04-22T19:34",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617863"
+    },
+    {
+      "id": 2620144,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para agravar a punição contra quem pratica delitos envolvendo carga.",
+      "data": "2026-04-29T19:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620144"
     }
   ],
   "discursos": [],

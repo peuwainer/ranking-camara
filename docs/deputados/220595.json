@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220595.jpg",
-  "score": 30.67,
-  "rank": 150,
+  "score": 32.28,
+  "rank": 137,
   "proposicoes": [
     {
       "id": 2615951,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 15.383, de 10 de abril de 2026, que dispõe sobre o monitoramento eletrônico de agressores em casos de violência doméstica e familiar contra a mulher, para estabelecer a identificação visual padronizada dos dispositivos utilizados.",
       "data": "2026-04-14T15:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615951"
+    },
+    {
+      "id": 2620133,
+      "tipo": "PL",
+      "numero": 2094,
+      "ano": 2026,
+      "ementa": "Regulamenta o apoio ao transporte de estudantes do ensino superior em deslocamentos intermunicipais e interestaduais, e dá outras providências.",
+      "data": "2026-04-29T18:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620133"
     }
   ],
   "discursos": [],

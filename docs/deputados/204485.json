@@ -4,7 +4,7 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204485.jpg",
-  "score": 27.12,
+  "score": 28.03,
   "rank": 264,
   "proposicoes": [],
   "discursos": [],
@@ -38,6 +38,12 @@
       "sigla": "CCJC",
       "cargo": "Suplente",
       "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Titular",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204485/votacoes-nominais-plenario/2026"

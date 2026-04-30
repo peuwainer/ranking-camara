@@ -4,10 +4,17 @@
   "partido": "PP",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/235800.jpg",
-  "score": 16.98,
-  "rank": 456,
+  "score": 18.88,
+  "rank": 435,
   "proposicoes": [],
   "discursos": [
+    {
+      "data": "2026-04-29T15:00",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. JORGE ARAÚJO (Bloco/PP - BA. Sem revisão do orador.) - Sr. Presidente Charles, muito obrigado. Eu venho a esta tribuna para chamar a atenção do cidadão brasileiro, principalmente do nosso povo d",
+      "transcricao": "O SR. JORGE ARAÚJO (Bloco/PP - BA. Sem revisão do orador.) - Sr. Presidente Charles, muito obrigado. Eu venho a esta tribuna para chamar a atenção do cidadão brasileiro, principalmente do nosso povo da Bahia, nosso Estado. O INSS restringe pedidos de aposentadoria, pensão e BPC para reduzir a fila. A gente fica se perguntando: como é que ficam os aposentados, a partir de agora? O cara trabalha anos e anos, sendo fiel, cumprindo os seus deveres, as suas obrigações, pagando direitinho, e, na hora de se aposentar, quando procura o INSS, não encontra mais. Porque, segundo o próprio INSS, a fila está grande, a fila está enorme. A mesma coisa acontece para as pessoas que precisam também pedir a pensão e pedir o BPC. Fica a pergunta: por que o INSS não cria mutirões espalhados pelo Brasil para reduzir essa fila? Porque o cidadão aposentado quer descansar. Esse aposentado, esse cidadão que necessita desses serviços não entra em absolutamente nada nessa roubalheira que fizeram com o INSS! Uma coisa é uma coisa, como dizia minha mãe, e outra coisa é outra coisa. Quer dizer, é um sofrimento! O cidadão trabalha incansavelmente a vida inteira e, quando vai procurar um serviço no INSS, não encontra, porque o INSS entendeu e tem alegado assim. Inclusive, impondo uma nova regra, porque 40% dos pedidos que estão ali já são um segundo pedido. Claro, se o cara está querendo se aposentar, tem o pedido negado, o pedido está em análise, ele procura mais uma vez. E vai procurar quantas vezes forem necessárias. Então, essa é a realidade do nosso País, do sofrimento do nosso povo que necessita do INSS. Não dá para essa fatura chegar ao bolso de quem não tem nada a ver com isso, que são os contribuintes, que são os trabalhadores. É inadmissível, Sr. Presidente, que um cidadão tenha um pedido negado ou que esse pedido demore tanto! O cidadão trabalha, está numa empresa, e tem que se encostar pelo INSS. Há cidadão que espera, aguarda esse atendimento, por 1 ano, e não encontra. Vai encontrar com quem? Como é que ele vai resolver essa pendência? Portanto, o INSS está numa situação que, infelizmente, vai de mal a pior. E, para piorar, quem sofre com isso é quem precisa, é quem procura esse tipo de atendimento. Muito obrigado."
+    },
     {
       "data": "2026-04-28T17:24",
       "fase": "Breves Comunicações",
@@ -43,6 +50,18 @@
       "sigla": "BANEGRA",
       "cargo": "Titular",
       "desde": "2026-04-08T00:00"
+    },
+    {
+      "nome": "Comissão de Ciência, Tecnologia e Inovação",
+      "sigla": "CCTI",
+      "cargo": "Titular",
+      "desde": "2026-04-29T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
+      "sigla": "CIDOSO",
+      "cargo": "Titular",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/235800/votacoes-nominais-plenario/2026"

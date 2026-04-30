@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160600.jpg",
-  "score": 19.0,
-  "rank": 431,
-  "proposicoes": [],
+  "score": 20.59,
+  "rank": 410,
+  "proposicoes": [
+    {
+      "id": 2620001,
+      "tipo": "PL",
+      "numero": 2074,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, que dispõe sobre a modalidade lotérica denominada apostas de quota fixa, para vedar a publicidade, a propaganda, o patrocínio e a cessão de direitos de uso do nome relacionados à exploração de apostas de quota fixa.",
+      "data": "2026-04-29T14:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620001"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

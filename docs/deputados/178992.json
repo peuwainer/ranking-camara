@@ -4,9 +4,19 @@
   "partido": "PSD",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178992.jpg",
-  "score": 24.12,
-  "rank": 338,
-  "proposicoes": [],
+  "score": 25.52,
+  "rank": 327,
+  "proposicoes": [
+    {
+      "id": 2619988,
+      "tipo": "PLP",
+      "numero": 121,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir regime especial de importação de serviços técnicos destinados à pesquisa, desenvolvimento e inovação em saúde.",
+      "data": "2026-04-29T14:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619988"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

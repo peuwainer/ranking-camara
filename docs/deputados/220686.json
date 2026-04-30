@@ -4,8 +4,8 @@
   "partido": "AVANTE",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220686.jpg",
-  "score": 34.03,
-  "rank": 76,
+  "score": 35.67,
+  "rank": 68,
   "proposicoes": [
     {
       "id": 2615396,
@@ -45,6 +45,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-29T16:32",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ROBERTO DUARTE (Bloco/REPUBLICANOS - AC. Pela ordem. Sem revisão do orador.) - Boa tarde, Sr. Presidente. Quero só fazer o registro da presença do nosso amigo Vereador Eber Machado, da capital R",
+      "transcricao": "O SR. ROBERTO DUARTE (Bloco/REPUBLICANOS - AC. Pela ordem. Sem revisão do orador.) - Boa tarde, Sr. Presidente. Quero só fazer o registro da presença do nosso amigo Vereador Eber Machado, da capital Rio Branco, no Estado do Acre. Ele está fazendo uma visita ao plenário da Casa, buscando reivindicar melhorias e também emendas para o nosso querido Estado do Acre, para a nossa capital, Rio Branco. O Vereador Eber Machado é pré-candidato a Deputado Federal e, se Deus quiser, no ano que vem vai estar na Casa com a gente. Quero lhe desejar boas-vindas ao plenário da Câmara Federal e dizer que aqui, se Deus quiser, será sua futura Casa também. Muito obrigado pela visita e que leve boas recordações à nossa capital, Rio Branco. Muito obrigado, Sr. Presidente."
+    },
     {
       "data": "2026-04-23T10:00",
       "fase": "Encerramento",
@@ -132,6 +139,12 @@
       "sigla": "CDC",
       "cargo": "Suplente",
       "desde": "2026-03-05T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Titular",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220686/votacoes-nominais-plenario/2026"

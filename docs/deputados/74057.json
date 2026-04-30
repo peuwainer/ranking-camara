@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
-  "score": 24.47,
-  "rank": 331,
+  "score": 26.04,
+  "rank": 317,
   "proposicoes": [
     {
       "id": 2613754,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613810"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-28T21:08",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. ALICE PORTUGAL (Bloco/PCdoB - BA. Pela ordem. Sem revisão da oradora.) - Presidente Hugo Motta, dirijo-me hoje a um médico que faz história. O nosso Ministro Wellington Dias, autor da matéria, ",
+      "transcricao": "A SRA. ALICE PORTUGAL (Bloco/PCdoB - BA. Pela ordem. Sem revisão da oradora.) - Presidente Hugo Motta, dirijo-me hoje a um médico que faz história. O nosso Ministro Wellington Dias, autor da matéria, querido Deputado Danilo Cabral. São muitos anos de espera, muita luta, mas foi na última Conferência Nacional de Assistência Social que esse martelo foi batido, Ministro Wellington. Essa é uma vitória do Sistema Único de Assistência Social, que pilota todas as políticas públicas na área social, que faz parte do tripé da Seguridade Social. Quero saudar todos os assistentes sociais, todos os agentes da área social no Brasil, que estão nos Cras, nos Creas, em todas as áreas de todas as cidades brasileiras, abraçando socialmente o nosso povo. Esta é uma vitória histórica, com orçamento seguro, para que ninguém se aproveite da política pública, para que o povo possa usufruir do seu direito. Parabéns, Deputado!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

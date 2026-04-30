@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74156.jpg",
-  "score": 34.72,
-  "rank": 61,
+  "score": 37.95,
+  "rank": 45,
   "proposicoes": [
-    {
-      "id": 2612861,
-      "tipo": "PL",
-      "numero": 1537,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o reconhecimento, valorização, proteção previdenciária e salvaguarda do ofício, saberes e práticas das parteiras tradicionais como atividade essencial à reprodução social, cultural e comunitária, e dá outras providências, nos termos da Constituição Federal.",
-      "data": "2026-03-30T20:34",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612861"
-    },
     {
       "id": 2615287,
       "tipo": "PL",
@@ -78,6 +69,15 @@
       "ementa": "Altera a Lei nº 14.601, de 19 de junho de 2023 (Programa Bolsa Família), para instituir ações de qualificação profissional destinadas a beneficiários de programas de transferência de renda, com concessão de bolsa adicional para custeio de transporte e alimentação durante a formação.",
       "data": "2026-04-28T15:54",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619136"
+    },
+    {
+      "id": 2620167,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre proteção contra despedida arbitrária por denúncia de assédio sexual na relação de emprego.",
+      "data": "2026-04-29T20:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620167"
     }
   ],
   "discursos": [
@@ -137,6 +137,12 @@
       "sigla": "CMADS",
       "cargo": "Suplente",
       "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 108, de 2021, do Senado Federal, que \"altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados\"",
+      "sigla": "PLP10821",
+      "cargo": "Suplente",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/74156/votacoes-nominais-plenario/2026"

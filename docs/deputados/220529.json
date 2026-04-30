@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220529.jpg",
-  "score": 43.13,
-  "rank": 8,
+  "score": 43.83,
+  "rank": 16,
   "proposicoes": [
     {
       "id": 2614978,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para estabelecer a suspensão de prazo processual em razão do primeiro pedido de habilitação de advogado em processos que tramitam sob segredo de justiça.",
       "data": "2026-04-09T16:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614978"
+    },
+    {
+      "id": 2620100,
+      "tipo": "PRC",
+      "numero": 25,
+      "ano": 2026,
+      "ementa": "Institui, no âmbito da Câmara dos Deputados o “Selo Câmara de Respeito à Voz do Cidadão”.",
+      "data": "2026-04-29T17:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620100"
     }
   ],
   "discursos": [

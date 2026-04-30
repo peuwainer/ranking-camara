@@ -4,9 +4,46 @@
   "partido": "PODE",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73778.jpg",
-  "score": 24.52,
-  "rank": 329,
-  "proposicoes": [],
+  "score": 29.22,
+  "rank": 217,
+  "proposicoes": [
+    {
+      "id": 2620092,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.795, de 8 de outubro de 2008, para dispor sobre a natureza jurídica do grupo de consórcio, flexibilizar a utilização da carta de crédito, disciplinar encargos contratuais e fortalecer a regulação do sistema de consórcios.",
+      "data": "2026-04-29T15:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620092"
+    },
+    {
+      "id": 2620093,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 2026,
+      "ementa": "Ementa\nAltera a Lei nº 11.795, de 8 de outubro de 2008, para dispor sobre a natureza jurídica do grupo de consórcio, flexibilizar a utilização da carta de crédito, disciplinar encargos contratuais e fortalecer a regulação do sistema de consórcios.",
+      "data": "2026-04-29T15:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620093"
+    },
+    {
+      "id": 2620094,
+      "tipo": "EMC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Ementa\nAltera a Lei nº 11.795, de 8 de outubro de 2008, para dispor sobre a natureza jurídica do grupo de consórcio, flexibilizar a utilização da carta de crédito, disciplinar encargos contratuais e fortalecer a regulação do sistema de consórcios.",
+      "data": "2026-04-29T15:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620094"
+    },
+    {
+      "id": 2620095,
+      "tipo": "EMC",
+      "numero": 4,
+      "ano": 2026,
+      "ementa": "Ementa\nAltera a Lei nº 11.795, de 8 de outubro de 2008, para dispor sobre a natureza jurídica do grupo de consórcio, flexibilizar a utilização da carta de crédito, disciplinar encargos contratuais e fortalecer a regulação do sistema de consórcios.",
+      "data": "2026-04-29T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620095"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-04-15T17:16",
@@ -54,6 +91,12 @@
       "sigla": "CFT",
       "cargo": "Titular",
       "desde": "2026-03-18T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 108, de 2021, do Senado Federal, que \"altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados\"",
+      "sigla": "PLP10821",
+      "cargo": "Suplente",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/73778/votacoes-nominais-plenario/2026"

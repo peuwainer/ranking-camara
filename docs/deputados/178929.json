@@ -1,11 +1,11 @@
 {
   "id": 178929,
   "nome": "Diego Garcia",
-  "partido": "REPUBLICANOS",
+  "partido": "UNIÃO",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178929.jpg",
-  "score": 31.34,
-  "rank": 130,
+  "score": 34.29,
+  "rank": 94,
   "proposicoes": [
     {
       "id": 2613763,
@@ -63,6 +63,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-29T15:08",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DIEGO GARCIA (Bloco/REPUBLICANOS - PR. Pela ordem. Sem revisão do orador.) - Obrigado. Presidente, eu queria registrar que, nesse último domingo, na cidade de Ribeirão Claro, uma cidade turístic",
+      "transcricao": "O SR. DIEGO GARCIA (Bloco/REPUBLICANOS - PR. Pela ordem. Sem revisão do orador.) - Obrigado. Presidente, eu queria registrar que, nesse último domingo, na cidade de Ribeirão Claro, uma cidade turística, aconteceu o 15º Shekinah, um evento que reuniu mais de 10 mil jovens, evento organizado pelo movimento da Renovação Carismática Católica. Eu tive o prazer de participar dos três primeiros eventos Shekinah, quando eu ainda era coordenador da diocese, e, agora, chegamos ao 15º. Foi um encontro maravilhoso com jovens que passaram o dia todo, cujo encerramento foi feito com chave de ouro, com o show da Colo de Deus. Pessoas ali estiveram num encontro pessoal com Deus. Eu quero parabenizar o Marcelo, Coordenador e Presidente do Conselho Diocesano da Renovação; o Bispo Diocesano, Dom Antônio Braz; e o Padre Yuri, que é o padre responsável pelos jovens na Diocese de Jacarezinho. Viva a Diocese de Jacarezinho! Parabéns ao movimento da Renovação Carismática Católica e ao Ministério Jovem pela valorização da juventude! Eu quero cumprimentar também o Prefeito de Ribeirão Claro e o Vice-Prefeito, que deram total apoio, promovendo o turismo religioso em Ribeirão Claro. Obrigado, Presidente. Eu peço que este pronunciamento seja registrado nos Anais da Casa e no programa A Voz do Brasil."
+    },
     {
       "data": "2026-04-15T20:00",
       "fase": "Ordem do Dia",
@@ -132,6 +139,12 @@
       "sigla": "CCJC",
       "cargo": "Suplente",
       "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Suplente",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178929/votacoes-nominais-plenario/2026"

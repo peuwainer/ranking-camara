@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204387.jpg",
-  "score": 34.07,
-  "rank": 75,
+  "score": 35.04,
+  "rank": 83,
   "proposicoes": [
     {
       "id": 2613508,
@@ -44,7 +44,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615655"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-29T21:48",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. SARGENTO FAHUR (PL - PR. Pela ordem. Sem revisão do orador.) - Presidente eu adentrei nas fileiras da Polícia Militar do Paraná em 28 de junho de 1983. Servi por 35 anos no serviço ativo da Polí",
+      "transcricao": "O SR. SARGENTO FAHUR (PL - PR. Pela ordem. Sem revisão do orador.) - Presidente eu adentrei nas fileiras da Polícia Militar do Paraná em 28 de junho de 1983. Servi por 35 anos no serviço ativo da Polícia Militar. Sempre tive horário para assumir o serviço  e, dentro da Polícia Militar, 5 minutos de atraso geram medidas administrativas, punições administrativas , mas eu nunca tive horário para sair do serviço. Cansei de estar escalado das 19 horas às 7 horas da manhã, às 6 horas ou 6h30min da manhã pegar ocorrências graves, roubos, homicídios, tráfico de drogas, e ficar até as 12, 13 ou 14 horas. Nunca recebi hora extra  nada! Sei que, no Brasil, homens e mulheres dignos que servem nas fileiras das Polícias Militares e dos Corpos de Bombeiros Militares têm horário para assumir o serviço, mas não têm horário para largar o serviço. Por isso, nós, aqui na Câmara dos Deputados, representantes desses trabalhadores, desses profissionais, estamos trabalhando esse projeto de 144 horas mensais de serviço. O que passar disso vai para um banco de horas para que posteriormente o policial possa gozar dessa folga junto com a sua família. Querendo, o Governador pode pagar de forma financeira. Isso dependerá do Governador. É importante estar aqui junto com o Deputado Cabo Gilberto, o Deputado Sargento Gonçalves, o Deputado Coronel Meira, entre outros Deputados, como o nosso grande amigo, o Deputado Igor Timo e o Deputado Sargento Portugal, que é o cabeça disso tudo. Nós somos coautores. É importante dizer: chega de explorar o policial militar, o bombeiro militar! Chega! Uma palavra pesada: chega de escravidão para o profissional de segurança pública! Hoje nós arrebentamos essa corrente! Força e honra! O PL orienta \"sim\"!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 18, de 2025, do Poder Executivo, que \"altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública\"",
@@ -81,12 +89,6 @@
       "sigla": "SUBSPBC",
       "cargo": "Suplente",
       "desde": "2026-04-07T00:00"
-    },
-    {
-      "nome": "Comissão de Viação e Transportes",
-      "sigla": "CVT",
-      "cargo": "Titular",
-      "desde": "2026-04-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204387/votacoes-nominais-plenario/2026"

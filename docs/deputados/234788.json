@@ -4,8 +4,8 @@
   "partido": "REDE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/234788.jpg",
-  "score": 33.24,
-  "rank": 92,
+  "score": 35.7,
+  "rank": 66,
   "proposicoes": [
     {
       "id": 2614419,
@@ -69,6 +69,15 @@
       "ementa": "Dispõe sobre a adoção de medidas de prevenção à colisão de aves em superfícies transparentes e translúcidas ou refletivas em edificações e estruturas urbanas.",
       "data": "2026-04-28T18:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619177"
+    },
+    {
+      "id": 2620026,
+      "tipo": "PL",
+      "numero": 2080,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a transparência e o controle no uso de aeronaves privadas por autoridades públicas, estabelece obrigações de declaração, submissão a procedimentos de segurança e alfandegários, e dá outras providências.",
+      "data": "2026-04-29T15:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620026"
     }
   ],
   "discursos": [

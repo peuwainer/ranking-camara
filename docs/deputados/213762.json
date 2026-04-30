@@ -1,11 +1,11 @@
 {
   "id": 213762,
   "nome": "Carla Dickson",
-  "partido": "UNIÃO",
+  "partido": "PL",
   "uf": "RN",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/213762.jpg",
-  "score": 36.69,
-  "rank": 39,
+  "score": 40.77,
+  "rank": 30,
   "proposicoes": [
     {
       "id": 2613015,
@@ -100,6 +100,13 @@
   ],
   "discursos": [
     {
+      "data": "2026-04-29T16:24",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. CARLA DICKSON (Bloco/UNIÃO - RN. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, em nome dos agentes de saúde e de combate às endemias, eu quero solicitar que a Presidência desta Casa co",
+      "transcricao": "A SRA. CARLA DICKSON (Bloco/UNIÃO - RN. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, em nome dos agentes de saúde e de combate às endemias, eu quero solicitar que a Presidência desta Casa coloque em votação, o mais rápido possível, o PLP 185, que garante dignidade aos agentes de saúde e de combate às endemias de todo o Brasil. Venho aqui, em nome da Conacs, pedir que a aposentadoria especial desta classe seja respeitada. Nós já aprovamos uma PEC que garante os direitos deles e agora estamos regulamentando essa PEC com o PLP 185. Vamos votar já a aposentadoria especial para os agentes de saúde e de combate às endemias. Eu quero deixar aqui um abraço a todos que fazem a Conacs e a todos os agentes de saúde do nosso Brasil."
+    },
+    {
       "data": "2026-04-08T12:56",
       "fase": "Comissão Geral",
       "tipo": "COMISSÃO GERAL",
@@ -167,6 +174,12 @@
       "sigla": "CMULHER",
       "cargo": "Titular",
       "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho para analisar a questão do tráfico internacional de seres humanos e seus desdobramentos.",
+      "sigla": "GTRAFHUM",
+      "cargo": "Coordenador",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/213762/votacoes-nominais-plenario/2026"

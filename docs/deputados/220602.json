@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220602.jpg",
-  "score": 31.02,
-  "rank": 141,
+  "score": 33.45,
+  "rank": 114,
   "proposicoes": [
     {
       "id": 2615287,
@@ -68,15 +68,15 @@
       "desde": "2025-10-20T00:00"
     },
     {
-      "nome": "Comissão de Saúde",
-      "sigla": "CSAUDE",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Comunicação",
       "sigla": "CCOM",
       "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
       "desde": "2026-02-03T00:00"
     },
     {
@@ -84,6 +84,18 @@
       "sigla": "CFFC",
       "cargo": "1º Vice-Presidente",
       "desde": "2026-02-11T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 108, de 2021, do Senado Federal, que \"altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados\"",
+      "sigla": "PLP10821",
+      "cargo": "Suplente",
+      "desde": "2026-04-29T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Suplente",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220602/votacoes-nominais-plenario/2026"

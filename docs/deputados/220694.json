@@ -4,10 +4,17 @@
   "partido": "MDB",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220694.jpg",
-  "score": 26.11,
-  "rank": 301,
+  "score": 26.47,
+  "rank": 310,
   "proposicoes": [],
   "discursos": [
+    {
+      "data": "2026-04-29T15:40",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. RICARDO MAIA (Bloco/MDB - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero parabenizar a 25ª Marcha dos Gestores, com a participação de Vereadores de todo o nosso País. Aqui estam",
+      "transcricao": "O SR. RICARDO MAIA (Bloco/MDB - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero parabenizar a 25ª Marcha dos Gestores, com a participação de Vereadores de todo o nosso País. Aqui estamos recebendo cinco Vereadores da minha terra, Ribeira do Pombal, meu torrão: Presidente Roni, Vereador Vitor, Vereador Zé Rodrigo, Vereador Beto, Vereador Sérgio. Tenho a honra de ter ser sido colega deles na Casa legislativa da minha cidade, onde foi meu ensinamento político, onde comecei a fazer a política. Em nome de vocês, eu quero repudiar aqui a fala de um colega que diz que Vereador não presta para nada. Aqui está um ex-Vereador, aprendi a ser legislador, aprendi a ser gestor e cheguei à Câmara Federal, porque eu venho da escola de Vereador, que é, sim, a ponta e a lança da política do nosso País. Muito obrigado, Presidente."
+    },
     {
       "data": "2026-04-15T18:56",
       "fase": "Breves Comunicações",
@@ -69,10 +76,10 @@
       "desde": "2026-02-04T00:00"
     },
     {
-      "nome": "Comissão de Fiscalização Financeira e Controle",
-      "sigla": "CFFC",
-      "cargo": "Titular",
-      "desde": "2026-02-10T00:00"
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Suplente",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220694/votacoes-nominais-plenario/2026"

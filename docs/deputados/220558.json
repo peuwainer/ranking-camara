@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220558.jpg",
-  "score": 39.23,
-  "rank": 25,
+  "score": 43.73,
+  "rank": 17,
   "proposicoes": [
     {
       "id": 2613100,
@@ -72,6 +72,20 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-29T14:40",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ZÉ TROVÃO (PL - SC. Pela ordem. Sem revisão do orador.) - Sr. Presidente, hoje o Brasil tem a oportunidade de olhar no fundo dos olhos de cada Senador da República que votar favoravelmente à ind",
+      "transcricao": "O SR. ZÉ TROVÃO (PL - SC. Pela ordem. Sem revisão do orador.) - Sr. Presidente, hoje o Brasil tem a oportunidade de olhar no fundo dos olhos de cada Senador da República que votar favoravelmente à indicação de um dos maiores covardes da história deste País, chamado Jorge Messias. E por que eu chamo Jorge Messias de covarde? Porque, quando ele viu, diante dos seus olhos, homens e mulheres aposentados sendo roubados pelo desgoverno e pela militância, ele simplesmente cruzou os braços e ficou calado. Portanto, Srs. Senadores da República Federativa do Brasil, para aquele que votar favoravelmente a essa indicação, eu espero que o povo brasileiro lhes dê \"tchau, querida\". Assim como nós fizemos em 2016 para tirar uma mulher que não conseguia governar este País, nós iremos fazer com a carinha de cada Senador nesta votação. \"Ah, Deputado, mas o voto é secreto\". A gente sabe que o voto é secreto, mas a gente sabe que 12 bilhões de reais estão comprando uma cadeira na mais alta Corte brasileira hoje. E tudo isso para servir a quem? Ao PT, ao Lula e aos seus caprichos. Muito obrigado."
+    },
+    {
+      "data": "2026-04-28T20:24",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ZÉ TROVÃO (PL - SC. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu fico me perguntando todos os dias por que a Esquerda sempre é contrária a projetos que endurecem penas. Por que a Esq",
+      "transcricao": "O SR. ZÉ TROVÃO (PL - SC. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu fico me perguntando todos os dias por que a Esquerda sempre é contrária a projetos que endurecem penas. Por que a Esquerda está sempre com um discurso, mas, na prática, age completamente diferente? Eles querem criminalizar quem vai receber uma anistia humanitária na quinta-feira, mas esquecem que foram beneficiados por uma anistia para bandidos, para sequestradores, para homens-bomba, que explodiram bombas em São Paulo. Agora, senhores, façam-me o favor: o maior bandido deste País está sentado na cadeira presidencial, depois de ser condenado por três instâncias e ter o seu processo arrolado pela Suprema Corte, da qual ele se vê beneficiado todos os dias. Então, Sr. Presidente, a democracia deles é diferente."
+    },
     {
       "data": "2026-04-28T18:32",
       "fase": "Breves Comunicações",
@@ -142,6 +156,12 @@
       "sigla": "CCJC",
       "cargo": "Titular",
       "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Suplente",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220558/votacoes-nominais-plenario/2026"

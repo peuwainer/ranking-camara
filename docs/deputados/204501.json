@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204501.jpg",
-  "score": 33.23,
-  "rank": 93,
+  "score": 35.68,
+  "rank": 67,
   "proposicoes": [
     {
       "id": 2612935,
@@ -72,6 +72,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-29T19:28",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ALENCAR SANTANA (Bloco/PT - SP. Pela ordem. Sem revisão do orador.) - Obrigado, Presidenta. Hoje foi um dia muito especial e extremamente importante para esta Câmara, pois instalamos a Comissão ",
+      "transcricao": "O SR. ALENCAR SANTANA (Bloco/PT - SP. Pela ordem. Sem revisão do orador.) - Obrigado, Presidenta. Hoje foi um dia muito especial e extremamente importante para esta Câmara, pois instalamos a Comissão Especial para debater o projeto que prevê o fim da jornada 6 por 1. Houve, também, o compromisso feito pelo Presidente Hugo Motta de votarmos essa matéria no mês de maio, em homenagem ao trabalhador brasileiro. Inclusive, agradeço ao Presidente Hugo Motta pela minha indicação para presidir a Comissão, assim como, logicamente, agradeço aos colegas que ali votaram. O Deputado Leo Prates foi designado Relator, e vamos juntos fazer um grande trabalho para que a gente possa, Presidenta, acabar de uma vez com essa escala degradante e exploratória, que gera problemas de saúde em vários dos nossos trabalhadores, reduzindo a jornada, acabando com a escala 6 por 1 e sem redução salarial trazendo vida digna, de qualidade, garantindo um convívio familiar aos trabalhadores e às trabalhadoras do Brasil, que merecem essa aprovação por parte da Câmara."
+    },
     {
       "data": "2026-04-22T20:44",
       "fase": "Ordem do Dia",
@@ -140,8 +147,8 @@
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
       "sigla": "PEC22119",
-      "cargo": "Titular",
-      "desde": "2026-04-28T00:00"
+      "cargo": "Presidente",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204501/votacoes-nominais-plenario/2026"

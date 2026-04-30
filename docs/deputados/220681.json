@@ -4,9 +4,19 @@
   "partido": "PODE",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220681.jpg",
-  "score": 21.62,
-  "rank": 388,
-  "proposicoes": [],
+  "score": 23.02,
+  "rank": 375,
+  "proposicoes": [
+    {
+      "id": 2620031,
+      "tipo": "PL",
+      "numero": 2081,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.250, de 1995, para atualizar o limite de isenção do imposto de renda das pessoas físicas sobre ganho de capital na alienação de bens e direitos de pequeno valor e adota o IGP-M como indexador para atualização monetária futura do referido limite.",
+      "data": "2026-04-29T15:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620031"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

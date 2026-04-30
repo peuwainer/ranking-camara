@@ -1,11 +1,11 @@
 {
   "id": 74374,
   "nome": "Geraldo Resende",
-  "partido": "PSDB",
+  "partido": "UNIÃO",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74374.jpg",
-  "score": 41.27,
-  "rank": 15,
+  "score": 45.29,
+  "rank": 10,
   "proposicoes": [
     {
       "id": 2613375,
@@ -62,15 +62,6 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615005"
     },
     {
-      "id": 2615408,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Obriga as instituições financeiras e entidades congêneres a colher a assinatura física de pessoas com idade igual ou superior a sessenta anos para a contratação de operações de crédito.",
-      "data": "2026-03-30T11:08",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615408"
-    },
-    {
       "id": 2616746,
       "tipo": "PLP",
       "numero": 106,
@@ -117,6 +108,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-29T16:28",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. GERALDO RESENDE (Bloco/PSDB - MS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu participei no sábado passado de uma visita a um ambulatório pela Sesai e Dsei-MS para o enfrentamento d",
+      "transcricao": "O SR. GERALDO RESENDE (Bloco/PSDB - MS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu participei no sábado passado de uma visita a um ambulatório pela Sesai e Dsei-MS para o enfrentamento de uma epidemia de chikungunya, que está acontecendo em Dourados, mais precisamente na reserva indígena de Dourados. Fiquei bastante contente por essa iniciativa, mesmo lamentando e cobrando atitude para evitarmos mais mortes, principalmente dos indígenas de Dourados. Já são quase dez mortes na aldeia e precisamos urgentemente verificar o que pode ser feito para evitar esse aumento de mortes. Mas mais importante, Sr. Presidente, é que visitei lá duas Unidades Básicas de Saúde, que nós viabilizamos e que já estão bastante avançadas. Visite ainda trezentas casas, trezentos sonhos, para a população indígena e participei, ao lado também, do processo licitatório  para terminar, Sr. Presidente  para a instalação da reserva e distribuição de água potável para a comunidade de Dourados."
+    },
     {
       "data": "2026-04-28T18:20",
       "fase": "Breves Comunicações",
@@ -225,6 +223,18 @@
       "sigla": "CSAUDE",
       "cargo": "Titular",
       "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Titular",
+      "desde": "2026-04-29T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 8085, de 2014, do Senado Federal, que \"altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para instituir a obrigatoriedade da prática de direção veicular em vias públicas para fins de formação de condutores\"",
+      "sigla": "PL808514",
+      "cargo": "Suplente",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/74374/votacoes-nominais-plenario/2026"

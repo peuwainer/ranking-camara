@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160161.jpg",
-  "score": 28.73,
-  "rank": 207,
+  "score": 30.21,
+  "rank": 189,
   "proposicoes": [
     {
       "id": 2618034,
@@ -18,6 +18,20 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-28T22:56",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MARCELO QUEIROZ (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Eu queria fazer o encaminhamento. O Blocão vota \"sim\". Aproveito aqui para saudar a Deputada Gleisi. Trata-se de um evento",
+      "transcricao": "O SR. MARCELO QUEIROZ (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Eu queria fazer o encaminhamento. O Blocão vota \"sim\". Aproveito aqui para saudar a Deputada Gleisi. Trata-se de um evento muito importante. Eu represento o Rio de Janeiro. Esse é um projeto que vai revolucionar o esporte feminino no Brasil, principalmente na capital. Eu queria também aqui parabenizar quem trouxe este projeto junto com o Governo Federal: o ex-Prefeito Eduardo Paes, o atual Prefeito Eduardo Cavaliere, o ex-Secretário de Esportes Guilherme Schleder e o atual Secretário Bruno Ramos. Lá no Rio de Janeiro, foi criado o projeto Rio: Capital do Futebol Feminino, que vai agregar cerca de 2 mil meninas, para desenvolver o futebol feminino no Estado. Parabéns à Deputada Gleisi! Parabéns ao Governo Federal! O Blocão vota \"sim\"."
+    },
+    {
+      "data": "2026-04-28T22:08",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MARCELO QUEIROZ (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Primeiro, queria, em nome de todos os Parlamentares, saudar meu querido amigo Deputado Fred Costa, que hoje tem a segunda ",
+      "transcricao": "O SR. MARCELO QUEIROZ (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Primeiro, queria, em nome de todos os Parlamentares, saudar meu querido amigo Deputado Fred Costa, que hoje tem a segunda vitória. A primeira, como o Deputado Luiz Lima falou, foi a vitória da causa animal na Comissão de Justiça  V.Exa. foi o responsável , e agora numa luta que a gente tem junto. Eu sou o autor deste projeto e queria saudar também os coautores: Deputado Bruno Lima, Deputado Saullo Vianna, Deputado Raimundo Santos, Deputado Matheus Laiola, Deputado Gilvan Maximo e Deputada Yandra Moura. Queria aproveitar para falar que este projeto tem um simbolismo incrível para o Rio de Janeiro. Eu sou Botafogo, mas este projeto está no coração de todo torcedor vascaíno, porque a gente carinhosamente apelidou o projeto do seu líder maior, que é o Gui, que ganhou o Prêmio Torcedor da Fifa e é o nosso vascaíno mais querido no Estado do Rio de Janeiro. E é para o Gui que a gente está aprovando este projeto. Queria também parabenizar a mãe do Gui, a Tayane Gandra, que é minha correligionária do PSDB. Quero saudar também o Presidente Estadual do PSDB, meu querido amigo Luciano Vieira, que lutou para este projeto chegar à pauta. Eu acho que este é um projeto com que a gente vai fazer história no Brasil. A gente está corrigindo uma injustiça, e eu acho que este é o primeiro de muitos que a gente vai conseguir aprovar. Hoje o futebol brasileiro está em festa, a Fifa está em festa, e é por isso que o Blocão vota \"sim\"."
+    },
     {
       "data": "2026-04-23T12:12",
       "fase": "Ordem do Dia",
@@ -57,6 +71,12 @@
       "sigla": "CFT",
       "cargo": "Suplente",
       "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Titular",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/160161/votacoes-nominais-plenario/2026"

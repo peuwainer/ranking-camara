@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178989.jpg",
-  "score": 30.09,
-  "rank": 169,
+  "score": 33.92,
+  "rank": 102,
   "proposicoes": [
     {
       "id": 2613059,
@@ -69,16 +69,28 @@
       "ementa": "Altera a Lei nº 13.019, de 31 de julho de 2014, para ampliar as possibilidades de fomento às organizações da sociedade civil, permitindo a utilização de recursos para investimentos em infraestrutura, repasses diretos e custeio de pessoal.",
       "data": "2026-04-16T13:30",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617118"
+    },
+    {
+      "id": 2620044,
+      "tipo": "PL",
+      "numero": 2082,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, e a Lei nº 13.756, de 12 de dezembro de 2018, para reconhecer a atividade dos profissionais de segurança pública e defesa social como de natureza permanente de risco e estabelecer diretrizes de valorização e proteção, com critérios de priorização na transferência de recursos do Fundo Nacional de Segurança Pública.",
+      "data": "2026-04-29T16:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620044"
+    },
+    {
+      "id": 2620082,
+      "tipo": "PL",
+      "numero": 2085,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a prioridade à empregada gestante na alocação em vagas de teletrabalho ou trabalho remoto e institui o direito ao regime de teletrabalho ou trabalho remoto para a empregada grávida em comprovada situação de risco clínico à gestação.",
+      "data": "2026-04-29T17:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620082"
     }
   ],
   "discursos": [],
   "orgaos": [
-    {
-      "nome": "Representação Brasileira no Parlamento do Mercosul",
-      "sigla": "MERCOSUL",
-      "cargo": "Titular",
-      "desde": "2023-08-23T00:00"
-    },
     {
       "nome": "Secretaria da Mulher",
       "sigla": "SEMULHER",

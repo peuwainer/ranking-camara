@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/214694.jpg",
-  "score": 30.8,
-  "rank": 148,
+  "score": 31.86,
+  "rank": 147,
   "proposicoes": [
     {
       "id": 2614624,
@@ -48,6 +48,18 @@
       "sigla": "CICS",
       "cargo": "Titular",
       "desde": "2026-04-14T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 108, de 2021, do Senado Federal, que \"altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados\"",
+      "sigla": "PLP10821",
+      "cargo": "Relator",
+      "desde": "2026-04-29T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 108, de 2021, do Senado Federal, que \"altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados\"",
+      "sigla": "PLP10821",
+      "cargo": "Titular",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/214694/votacoes-nominais-plenario/2026"

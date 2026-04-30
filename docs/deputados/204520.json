@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204520.jpg",
-  "score": 32.1,
-  "rank": 114,
+  "score": 32.64,
+  "rank": 130,
   "proposicoes": [
     {
       "id": 2619329,
@@ -18,6 +18,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-29T20:00",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JUNIO AMARAL (PL - MG. Pela ordem. Sem revisão do orador.) - Tanto faz. Presidente, primeiro, eu quero já deixar no painel que a orientação é \"não\", o mesmo \"não\" que Jorge Messias recebeu hoje,",
+      "transcricao": "O SR. JUNIO AMARAL (PL - MG. Pela ordem. Sem revisão do orador.) - Tanto faz. Presidente, primeiro, eu quero já deixar no painel que a orientação é \"não\", o mesmo \"não\" que Jorge Messias recebeu hoje, para lavar a alma do brasileiro honrado, que defende a liberdade. Hoje, a gente retoma a tripartição de Poderes; hoje, a gente retoma a independência: inicia-se a mudança do Brasil. Todos os brasileiros de honra, neste momento, estão agradecidos aos Senadores que enfim fizeram o gosto do povo, fizeram valer a sua representação aqui no Congresso, Deputado Sargento Fahur, representação que o senhor sabe muito bem como se faz. E eu estou sabendo que tem muita carne para churrasco sobrando, muita bebida. Se vender pela metade do preço, a gente compra, porque nós, hoje, precisamos comemorar pelo Brasil. Liberdade já para os presos do 8 de Janeiro e para todos os cidadãos do País."
+    },
     {
       "data": "2026-04-14T18:16",
       "fase": "Breves Comunicações",

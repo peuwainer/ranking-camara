@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178884.jpg",
-  "score": 30.45,
-  "rank": 155,
+  "score": 31.49,
+  "rank": 157,
   "proposicoes": [
     {
       "id": 2615685,
@@ -27,6 +27,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-29T18:28",
+      "fase": "Ordem do Dia",
+      "tipo": "DISCUSSÃO",
+      "resumo": "O SR. HILDO ROCHA (Bloco/MDB - MA. Sem revisão do orador.) - Sra. Presidente desta sessão Deputada Laura Carneiro, é sempre importante lembrar que esta é a Casa do Parlamento brasileiro, e o Parlament",
+      "transcricao": "O SR. HILDO ROCHA (Bloco/MDB - MA. Sem revisão do orador.) - Sra. Presidente desta sessão Deputada Laura Carneiro, é sempre importante lembrar que esta é a Casa do Parlamento brasileiro, e o Parlamentar é para parlar, para falar. Para apreciação desses projetos de lei, está sendo costumeiro ultrapassar a fase da discussão. Isso não está correto, e eu quero fazer um protesto porque o nosso Regimento permite isso, protege isso, mas isso está virando rotina. Se não pode, mas queremos melhorar a produtividade da Casa, vamos ter sessão de segunda a sexta-feira, e não atrapalhar e acelerar a aprovação, a apreciação de matérias que são importantes, como esta. Eu me inscrevi para falar a favor porque eu entendo que ela é de fundamental importância, tendo em vista que eu aqui represento o povo do Maranhão. Parte do Maranhão está na região da Amazônia Legal, e sei que o custo para o fornecimento da merenda escolar em Municípios da Região Amazônica é muito mais alto, muito mais elevado que em outros Municípios de outras regiões. Estou aqui defendendo porque eu sei que, se não se levar em consideração o custo do fator amazônico na hora de pagar a merenda escolar, na hora de transferir o recurso para os Estados e para os Municípios, a merenda que vai chegar às crianças da região amazônica vai ser de nutrição inferior à que é entregue lá no Rio de Janeiro, nas cidades que a Deputada Laura Carneiro defende aqui; e as que eu defendo, no Maranhão, precisam ter o valor da merenda aumentado. Nós tivemos um problema muito sério no Ministério das Cidades. Eu tive a oportunidade de ser, durante 1 ano e 5 meses, Secretário-Executivo daquele Ministério. Não se fazia casa na Região Norte, principalmente na região mais profunda da Amazônia, porque o custo para se fazer casa lá é muito maior. Se apresentavam editais, lançavam editais, apareciam propostas, mas não havia execução. Depois que o Ministro Jader Filho atualizou o valor para a construção de casas no Norte, passamos a ter construção de casas e apartamentos no Amapá, no Acre, em Rondônia, em Roraima, no Amazonas, no Maranhão, na Região Amazônica. Então, nós temos que corrigir esse erro. Por isso que eu estou aqui e quero pedir aos Deputados e às Deputadas: vamos votar a favor e não vamos deixar de fazer o debate."
+    },
     {
       "data": "2026-04-28T16:28",
       "fase": "Breves Comunicações",
@@ -147,6 +154,12 @@
       "sigla": "CFT",
       "cargo": "Titular",
       "desde": "2026-03-18T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Suplente",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178884/votacoes-nominais-plenario/2026"

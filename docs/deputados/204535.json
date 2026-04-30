@@ -4,18 +4,9 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg",
-  "score": 38.66,
-  "rank": 26,
+  "score": 41.38,
+  "rank": 27,
   "proposicoes": [
-    {
-      "id": 2612861,
-      "tipo": "PL",
-      "numero": 1537,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o reconhecimento, valorização, proteção previdenciária e salvaguarda do ofício, saberes e práticas das parteiras tradicionais como atividade essencial à reprodução social, cultural e comunitária, e dá outras providências, nos termos da Constituição Federal.",
-      "data": "2026-03-30T20:34",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612861"
-    },
     {
       "id": 2613196,
       "tipo": "SBT",
@@ -87,6 +78,15 @@
       "ementa": "Institui a Política Nacional dos Direitos das Pessoas LGBTQIA+ e dá outras providências.",
       "data": "2026-04-28T19:33",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619274"
+    },
+    {
+      "id": 2620026,
+      "tipo": "PL",
+      "numero": 2080,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a transparência e o controle no uso de aeronaves privadas por autoridades públicas, estabelece obrigações de declaração, submissão a procedimentos de segurança e alfandegários, e dá outras providências.",
+      "data": "2026-04-29T15:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620026"
     }
   ],
   "discursos": [

@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/98148.jpg",
-  "score": 30.2,
-  "rank": 162,
+  "score": 32.88,
+  "rank": 124,
   "proposicoes": [
     {
       "id": 2614860,
@@ -51,6 +51,15 @@
       "ementa": "Institui o Prêmio Câmara Ambiental e Desenvolvimento Sustentável e dá outras providências.",
       "data": "2026-04-16T14:30",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617160"
+    },
+    {
+      "id": 2620160,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-04-29T19:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620160"
     }
   ],
   "discursos": [

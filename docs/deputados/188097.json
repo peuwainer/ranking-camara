@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/188097.jpg",
-  "score": 33.26,
-  "rank": 91,
+  "score": 33.94,
+  "rank": 101,
   "proposicoes": [
-    {
-      "id": 2612861,
-      "tipo": "PL",
-      "numero": 1537,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o reconhecimento, valorização, proteção previdenciária e salvaguarda do ofício, saberes e práticas das parteiras tradicionais como atividade essencial à reprodução social, cultural e comunitária, e dá outras providências, nos termos da Constituição Federal.",
-      "data": "2026-03-30T20:34",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612861"
-    },
     {
       "id": 2615287,
       "tipo": "PL",
@@ -54,6 +45,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-29T16:24",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MERLONG SOLANO (Bloco/PT - PI. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu quero registrar, aqui, com satisfação, o avanço da escola pública de tempo integral em todo o Brasil. Essa",
+      "transcricao": "O SR. MERLONG SOLANO (Bloco/PT - PI. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu quero registrar, aqui, com satisfação, o avanço da escola pública de tempo integral em todo o Brasil. Essa revolução começou com o Presidente Lula em 2007, 2008. No Piauí, por decisão do nosso Governador, o Rafael Fonteles, toda a rede de ensino médio já está em tempo integral. E muitas Prefeituras avançam nisso de forma célere, com a assistência técnica e financeira do nosso Governo Federal, do nosso Ministério da Educação. Esta semana, por exemplo, estive em José de Freitas participando da inauguração de duas escolas públicas de tempo integral na zona rural, na comunidade Ema e na comunidade Porteira Velha. É um sinal claro de que esse avanço, de que essa mudança altamente qualitativa na educação brasileira, não se restringe apenas às zonas urbanas e está chegando também à nossa juventude da população rural."
+    },
     {
       "data": "2026-04-28T18:56",
       "fase": "Breves Comunicações",

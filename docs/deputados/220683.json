@@ -4,9 +4,19 @@
   "partido": "PSDB",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220683.jpg",
-  "score": 28.88,
-  "rank": 202,
-  "proposicoes": [],
+  "score": 30.61,
+  "rank": 176,
+  "proposicoes": [
+    {
+      "id": 2619968,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para vedar a limitação de empenho e movimentação financeira das despesas relativas ao Instituto Nacional da Propriedade Industrial – INPI e das despesas indispensáveis à manutenção e proteção internacional de ativos estratégicos de propriedade intelectual de Instituições Científicas, Tecnológicas e de Inovação públicas; institui o Fundo Nacional de Manutenção de Patentes Estratégicas; e altera a Lei nº 9.279, de 14 de maio de 1996 (Lei de Propriedade Industrial), para instituir mecanismo de ajuste do prazo de vigência de patentes em caso de atraso administrativo não imputável ao titular.",
+      "data": "2026-04-29T14:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619968"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
@@ -32,6 +42,12 @@
       "sigla": "PL073325",
       "cargo": "Titular",
       "desde": "2026-04-28T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 108, de 2021, do Senado Federal, que \"altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados\"",
+      "sigla": "PLP10821",
+      "cargo": "Titular",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220683/votacoes-nominais-plenario/2026"

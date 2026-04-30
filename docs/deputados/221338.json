@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/221338.jpg",
-  "score": 25.55,
-  "rank": 314,
+  "score": 26.93,
+  "rank": 294,
   "proposicoes": [
     {
       "id": 2615287,
@@ -17,7 +17,22 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615287"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-29T16:08",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. PROFESSORA LUCIENE CAVALCANTE (Bloco/PSOL - SP. Pela ordem. Sem revisão da oradora.) - Presidente, eu quero aqui, mais uma vez, fazer um apelo a V.Exa., ao Presidente desta Casa, da Câmara Fede",
+      "transcricao": "A SRA. PROFESSORA LUCIENE CAVALCANTE (Bloco/PSOL - SP. Pela ordem. Sem revisão da oradora.) - Presidente, eu quero aqui, mais uma vez, fazer um apelo a V.Exa., ao Presidente desta Casa, da Câmara Federal, que faça a apensação da PEC 6 à PEC 555. Essas PECs tratam do fim do confisco dos aposentados de todo o Brasil. É só no Brasil que essa violência, essa crueldade, esse ataque à dignidade da pessoa humana acontece, que é confiscar quem já passou a vida toda pagando por sua previdência. É ilegal, é inconstitucional esse confisco. Então, eu faço aqui um apelo para que a PEC 6 possa tramitar junto à PEC 555 e assim a gente possa, com celeridade, tratar, aqui no plenário, dessa pauta. E peço a divulgação da minha fala no programa A Voz do Brasil, Presidente. Obrigada."
+    },
+    {
+      "data": "2026-04-29T15:12",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. PROFESSORA LUCIENE CAVALCANTE (Bloco/PSOL - SP. Sem revisão da oradora.) - Obrigada, Presidente. Quero aqui me solidarizar com toda a rede municipal da cidade de São Paulo, a maior rede municip",
+      "transcricao": "A SRA. PROFESSORA LUCIENE CAVALCANTE (Bloco/PSOL - SP. Sem revisão da oradora.) - Obrigada, Presidente. Quero aqui me solidarizar com toda a rede municipal da cidade de São Paulo, a maior rede municipal deste País, que, desde a data de ontem, está em greve, porque, lá em São Paulo, a gente tem o Prefeito Ricardo Nunes, que se recusa a dialogar, que se recusa a cumprir o que manda a Constituição, a valorizar seus profissionais. Ele é um Prefeito desumano que ataca professores que estão doentes, retirando até 40% dos seus salários, um Prefeito desumano que ataca aposentados e pensionistas, confiscando em 14% os seus rendimentos, um Prefeito que não convoca os concursados, deixando as escolas à míngua, sem pessoal, sem profissional de educação, sem RH, sem condição de funcionamento. Teve ainda a ousadia e a covardia de oferecer uma revisão geral anual de 3,51%, menor que a inflação e ainda parcelada em duas vezes  é uma piada, é um deboche. Seriam 2% este ano e 1,5% ano que vem. Isso é um absurdo. Trata-se de um dos maiores orçamentos do Brasil, do Sul Global do planeta. Ele não valoriza os seus profissionais, e é por isso que a rede municipal está em greve. Nós estamos juntos com o nosso coletivo Educação em Primeiro Lugar. Sr. Presidente, também quero aproveitar aqui a oportunidade para me solidarizar com outro Município, Louveiras, que também está em luta, está em greve, por várias questões. Uma delas é a implementação imediata da Lei nº 15.326, da qual sou autora, a Lei Somos Todas Professoras, que garante o reconhecimento e o enquadramento de todo mundo que está na função docente no chão das creches, na carreira do magistério. Lá também não foi aplicada ainda a minha lei, a lei do Descongela, que garante, além da devolução imediata dos 583 dias, todo o pagamento retroativo. Lá em Louveiras, há mais de 2 anos não há sequer a reposição da inflação. Então, o Município está em luta. Hoje, vai acontecer uma importante audiência pública na Assembleia Legislativa do Estado de São Paulo, organizada pelo professor e Deputado Estadual Carlos Giannazi. O nosso coletivo Educação em Primeiro Lugar está em luta, junto com todos os servidores públicos de Louveiras. Os Prefeitos precisam cumprir a Constituição e fazer a reposição da inflação e a valorização dos seus profissionais. Presidente, peço que este pronunciamento seja divulgado no programa A Voz do Brasil. Muito obrigada."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220632.jpg",
-  "score": 39.76,
-  "rank": 21,
+  "score": 41.74,
+  "rank": 25,
   "proposicoes": [
-    {
-      "id": 2612861,
-      "tipo": "PL",
-      "numero": 1537,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o reconhecimento, valorização, proteção previdenciária e salvaguarda do ofício, saberes e práticas das parteiras tradicionais como atividade essencial à reprodução social, cultural e comunitária, e dá outras providências, nos termos da Constituição Federal.",
-      "data": "2026-03-30T20:34",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612861"
-    },
     {
       "id": 2613345,
       "tipo": "SBT",
@@ -78,6 +69,15 @@
       "ementa": "Altera a lei nº 14.819, de 16 de janeiro de 2024, para dispor sobre plataforma digital nacional para teleatendimento psicológico.",
       "data": "2026-04-27T21:21",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618747"
+    },
+    {
+      "id": 2620175,
+      "tipo": "PL",
+      "numero": 2099,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes gerais para a proteção da autonomia das universidades estaduais e municipais frente a interferências políticas locais; institui parâmetros mínimos para os procedimentos de escolha de dirigentes universitários no âmbito dos sistemas estaduais e municipais de ensino superior; altera dispositivos da Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e dá outras providências.",
+      "data": "2026-04-29T20:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620175"
     }
   ],
   "discursos": [

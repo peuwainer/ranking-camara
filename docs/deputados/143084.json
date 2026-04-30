@@ -4,10 +4,17 @@
   "partido": "PODE",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/143084.jpg",
-  "score": 25.34,
-  "rank": 315,
+  "score": 26.48,
+  "rank": 309,
   "proposicoes": [],
   "discursos": [
+    {
+      "data": "2026-04-29T17:44",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. TIAGO DIMAS (Bloco/PODE - TO. Pela ordem. Sem revisão do orador.) - Presidente, acho que todos aqui concordamos, e é evidente que precisamos implementar mudanças nesse sentido e aumentar essa pu",
+      "transcricao": "O SR. TIAGO DIMAS (Bloco/PODE - TO. Pela ordem. Sem revisão do orador.) - Presidente, acho que todos aqui concordamos, e é evidente que precisamos implementar mudanças nesse sentido e aumentar essa punição. Então, o bloco, é lógico, encaminha \"sim\". Mas eu quero aproveitar este momento para cumprimentar todos os pares e repercutir o momento especial que Araguaína, minha cidade, vai viver amanhã com a reinauguração da Clínica Escola Mundo Autista. Esse espaço foi reformado com recursos que o nosso mandato destinou através de emenda parlamentar, e representa, acima de tudo, o cuidado, o respeito, a dignidade para centenas de famílias. E eu venho aqui a esta tribuna para reafirmar, muito claramente, o apoio à causa autista, não só através de discurso, mas com o compromisso com resultados. Nós temos atuado aqui em diversas frentes, passamos por grandes debates, desde o fortalecimento de iniciativas lá atrás. Passamos por iniciativas como de carteirinha de identificação, de sessões de cinema especiais, de prioridades no atendimento e até do que é mais importante, a construção de políticas públicas estruturantes. Essas famílias não precisam só das leis, dos papéis, elas precisam desse atendimento de verdade. E é por isso que nós temos atuado na defesa e na criação desses programas que direcionam diretamente recursos para os Municípios, permitindo a implementação de equipamentos públicos, como o dessa clínica escola, que oferece o diagnóstico, oferece terapias especializadas e, principalmente, o acolhimento. Então, quero fortalecer isso e saudar o Prefeito Wagner Rodrigues, um parceiro firme do nosso mandato que, nesse trabalho conjunto, atua com responsabilidade, com compromisso, conseguindo transformar projetos como esse em realidade. Então, a Clínica Escola Mundo Autista, em Araguaína, inclusive já premiada aqui pela Câmara dos Deputados, não é apenas uma obra; ela é um símbolo de um caminho que o Brasil precisa seguir: mais inclusão, mais estrutura e mais respeito às famílias."
+    },
     {
       "data": "2026-04-28T18:28",
       "fase": "Breves Comunicações",
@@ -40,6 +47,12 @@
       "sigla": "CFT",
       "cargo": "Suplente",
       "desde": "2026-03-18T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 108, de 2021, do Senado Federal, que \"altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados\"",
+      "sigla": "PLP10821",
+      "cargo": "Titular",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/143084/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "NOVO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
-  "score": 37.11,
-  "rank": 36,
+  "score": 39.79,
+  "rank": 34,
   "proposicoes": [
     {
       "id": 2613007,
@@ -33,6 +33,15 @@
       "ementa": "Dispõe sobre o Programa de Promoção da Autonomia Econômica das Mulheres (PPAEM) em situação de violência doméstica e familiar.",
       "data": "2026-04-23T14:38",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618125"
+    },
+    {
+      "id": 2620174,
+      "tipo": "PL",
+      "numero": 2098,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal) para agravar os critérios para progressão de regime.",
+      "data": "2026-04-29T20:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620174"
     }
   ],
   "discursos": [
@@ -159,6 +168,24 @@
       "sigla": "COETICA",
       "cargo": "Suplente",
       "desde": "2026-04-28T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 108, de 2021, do Senado Federal, que \"altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados\"",
+      "sigla": "PLP10821",
+      "cargo": "1º Vice-Presidente",
+      "desde": "2026-04-29T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 108, de 2021, do Senado Federal, que \"altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados\"",
+      "sigla": "PLP10821",
+      "cargo": "Titular",
+      "desde": "2026-04-29T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Suplente",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204528/votacoes-nominais-plenario/2026"

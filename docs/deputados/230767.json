@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/230767.jpg",
-  "score": 35.8,
-  "rank": 46,
+  "score": 38.02,
+  "rank": 43,
   "proposicoes": [
     {
       "id": 2614774,
@@ -45,6 +45,20 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-29T19:00",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. RODRIGO DA ZAELI (PL - MT. Pela ordem. Sem revisão do orador.) - Sra. Presidente, eu gostaria de apresentar o Vereador Dr. Marcos Vinicius, lá de Sinop, no nortão de Mato Grosso. Ele é advogado ",
+      "transcricao": "O SR. RODRIGO DA ZAELI (PL - MT. Pela ordem. Sem revisão do orador.) - Sra. Presidente, eu gostaria de apresentar o Vereador Dr. Marcos Vinicius, lá de Sinop, no nortão de Mato Grosso. Ele é advogado e tem um grande trabalho contra a corrupção, fazendo um bom trabalho naquela cidade. É um exemplo de pessoa que luta por um País melhor. Marcos Vinicius, obrigado pela presença. Seja sempre bem-vindo a esta Casa. A orientação do partido é \"sim\", Presidente."
+    },
+    {
+      "data": "2026-04-28T23:16",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. RODRIGO DA ZAELI (PL - MT. Pela ordem. Sem revisão do orador.) - Sr. Presidente, acho que existem diversas formas de premiar as pioneiras que jogaram a Copa do Mundo Feminina. Mulheres que se ar",
+      "transcricao": "O SR. RODRIGO DA ZAELI (PL - MT. Pela ordem. Sem revisão do orador.) - Sr. Presidente, acho que existem diversas formas de premiar as pioneiras que jogaram a Copa do Mundo Feminina. Mulheres que se arriscaram num esporte totalmente masculino hoje são referência para todas as esportistas mulheres. Mas um valor financeiro tão vultoso, de 500 mil reais por atleta, totalizando 15 milhões de reais, para apenas algumas? Não foi porque elas começaram que elas são melhores do que as que estão hoje. Existe toda uma história, existem tantas formas de homenagear, formas simbólicas, mas homenagear financeiramente eu acho que é contrário àquelas que vieram depois e não tiveram a mesma oportunidade. Então, por que não pegam esse recurso e dividem entre todas que já representaram o Brasil em todas as Copas do Mundo Femininas que já aconteceram, e não só apenas algumas? Sabe-se lá por que somente elas, que estão há quase 40 anos... Muitas delas já estão de idade avançada até. Eu acho que era preciso valorizar, sim, mas então todas, não só um grupo seleto ou algumas. Por isso votamos contra. Obrigado, Sr. Presidente."
+    },
     {
       "data": "2026-04-28T17:56",
       "fase": "Breves Comunicações",
@@ -134,6 +148,12 @@
       "sigla": "CFT",
       "cargo": "Suplente",
       "desde": "2026-03-18T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
+      "sigla": "PEC22119",
+      "cargo": "Titular",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/230767/votacoes-nominais-plenario/2026"

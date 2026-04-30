@@ -4,10 +4,36 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/98615.jpg",
-  "score": 25.68,
-  "rank": 310,
-  "proposicoes": [],
+  "score": 28.06,
+  "rank": 261,
+  "proposicoes": [
+    {
+      "id": 2619982,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Reutilização, Circulação Solidária e Sustentável de Livros Didáticos na Educação Básica, assegura o direito ao reaproveitamento de material escolar em boas condições, estabelece deveres às instituições de ensino e editoras, e dá outras providências.",
+      "data": "2026-04-29T13:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619982"
+    },
+    {
+      "id": 2619987,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa “Olhe por Eles” e a “Urna do Desabafo”, voltados à escuta ativa, acolhimento e combate à violência contra crianças e adolescentes, no âmbito das escolas públicas e privadas de educação básica, e dá outras providências.",
+      "data": "2026-04-29T14:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619987"
+    }
+  ],
   "discursos": [
+    {
+      "data": "2026-04-29T14:40",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. ISMAEL (PL - SC. Sem revisão do orador.) - Obrigado, Presidente Charles, é uma satisfação estar presente a esta sessão nesta tarde. Sr. Presidente, eu venho hoje a esta tribuna para fazer uma de",
+      "transcricao": "O SR. ISMAEL (PL - SC. Sem revisão do orador.) - Obrigado, Presidente Charles, é uma satisfação estar presente a esta sessão nesta tarde. Sr. Presidente, eu venho hoje a esta tribuna para fazer uma denúncia: uma tentativa grave de desrespeitar o processo democrático e enfraquecer o debate sobre políticas públicas neste País. E eu falo aqui na condição de Presidente da Frente Parlamentar em Defesa das Comunidades Terapêuticas na nossa Nação. São mais de duas mil comunidades. Ocorre que, durante a última reunião do Conad, houve algo inaceitável. Um grupo que historicamente se posiciona contra as comunidades terapêuticas diz ser representante da sociedade civil no Conad, mas eles não nos representam, porque na sua maioria são apologistas das drogas, lutam pela liberação das drogas. Este grupo abandonou  olha só, tática de esquerda, não é?  o plenário ao perceber que seria derrotado em uma votação legítima, fugindo do debate e desrespeitando não apenas o colegiado, mas também o dinheiro público investido na participação desses conselheiros. Esse mesmo grupo procurou imediatamente distorcer os fatos, invertendo a narrativa e deslegitimando uma decisão tomada dentro das quatro linhas, dentro das regras. Eu quero deixar claro que a reunião seguiu todos os trâmites legais, mantendo-se o quórum e encerrando no tempo legítimo. Portanto, nós não aceitaremos que tentem invalidar no grito aquilo que eles perderam no voto. Reafirmo a minha solidariedade aos conselheiros que atuam pelas comunidades terapêuticas. O meu respeito aos dirigentes, aos voluntários que estão em mais de duas mil comunidades terapêuticas, atendendo, cuidando, salvando vidas diariamente. Eu aproveito, Sr. Presidente, para registrar meu reconhecimento e meu agradecimento à Secretária Marta, Secretária Nacional de Políticas sobre Drogas, que está sendo incansável no enfrentamento às drogas no nosso País. Sigamos firmes, sigamos muito conscientes e na convicção de que é preciso defender quem faz aquilo que o próprio Estado não faz e não consegue fazer, que é resgatar vidas, proporcionar um espaço acolhedor para quem quer superar a dependência química. Tenho dito. Muito obrigado."
+    },
     {
       "data": "2026-04-28T17:04",
       "fase": "Breves Comunicações",

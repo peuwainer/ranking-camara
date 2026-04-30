@@ -4,27 +4,9 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220640.jpg",
-  "score": 38.25,
-  "rank": 28,
+  "score": 39.06,
+  "rank": 38,
   "proposicoes": [
-    {
-      "id": 2612861,
-      "tipo": "PL",
-      "numero": 1537,
-      "ano": 2026,
-      "ementa": "Dispõe sobre o reconhecimento, valorização, proteção previdenciária e salvaguarda do ofício, saberes e práticas das parteiras tradicionais como atividade essencial à reprodução social, cultural e comunitária, e dá outras providências, nos termos da Constituição Federal.",
-      "data": "2026-03-30T20:34",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612861"
-    },
-    {
-      "id": 2612880,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 9.394 de 1996 para tornar o ensino da língua Tupi e outras nativas da região obrigatórias.",
-      "data": "2026-03-30T11:55",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612880"
-    },
     {
       "id": 2614047,
       "tipo": "PL",
@@ -90,6 +72,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-28T21:08",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. JULIANA CARDOSO (Bloco/PT - SP. Pela ordem. Sem revisão da oradora.) - Obrigada Presidente. Que alegria, nobres Deputados e Deputadas. Eu, que sou uma mulher que fui atendida pelo Suas e fazia ",
+      "transcricao": "A SRA. JULIANA CARDOSO (Bloco/PT - SP. Pela ordem. Sem revisão da oradora.) - Obrigada Presidente. Que alegria, nobres Deputados e Deputadas. Eu, que sou uma mulher que fui atendida pelo Suas e fazia o contraturno, Ministro, na região de Sapopemba, na Zona Leste de São Paulo, tive a honra de fazer música, dança, teatro. Eu fiz até mesmo cursos de Internet naquele período inicial da rede. E hoje eu estou aqui, feliz por ser Deputada Federal e poder votar a favor de recursos, com financiamento, com justiça, para que o Suas um dia consiga atingir o mesmo formato do Sistema Único de Saúde. Eu creio que a gente um dia vai conseguir entender, neste Brasilzão, que o Suas não fornece apenas cesta básica, pois esse programa gera transformação social na vida de quem mais precisa. Esse Sistema Único de Assistência Social vai ser financiado pelo Governo do Presidente Lula. Neste Governo eu acredito, e não naquele a que são favoráveis o Partido Novo, o Partido Liberal ou o Partido Missão. Esses partidos sempre votam contrariamente. Então, entendam: Governos são Governos que constroem a partir da assistência social. Muito obrigada, Presidente."
+    },
     {
       "data": "2026-04-28T17:56",
       "fase": "Breves Comunicações",

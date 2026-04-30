@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220669.jpg",
-  "score": 15.48,
-  "rank": 469,
+  "score": 19.81,
+  "rank": 424,
   "proposicoes": [
     {
       "id": 2613261,
@@ -98,7 +98,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619062"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-28T21:52",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LULA DA FONTE (Bloco/PP - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente e colegas Parlamentares, vou ser muito breve. Quero elogiar a iniciativa da Câmara dos Deputados e agradecer ao",
+      "transcricao": "O SR. LULA DA FONTE (Bloco/PP - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente e colegas Parlamentares, vou ser muito breve. Quero elogiar a iniciativa da Câmara dos Deputados e agradecer ao Presidente Hugo Motta e a toda a Mesa Diretora, da qual eu faço parte, por pautar este importante Projeto de Lei nº 4.820, de 2023, relatado pelo brilhante Deputado Fred Costa, do qual eu tenho a honra também de ser coautor, que oferta uma pensão especial para todos os pacientes do Brasil que possuem epidermólise bolhosa, doença para a qual, embora não tenha cura, há tratamento. A inspiração deste projeto  e conforme o Deputado Fred Costa construiu o relatório, de forma muito competente , foi o menino Gui, do Rio de Janeiro, que convive com a epidermólise bolhosa. Ele é apenas um retrato dessa doença que acomete tantos pacientes de todo o Brasil. Então, parabéns à Câmara dos Deputados! Na condição de coautor deste projeto, eu louvo a iniciativa e o brilhante parecer do Relator. Certamente este projeto irá ofertar dignidade, saúde e respeito do Estado aos pacientes de todo o Brasil que possuem epidermólise bolhosa. Parabéns, Sr. Presidente! Parabéns à Câmara dos Deputados! Este projeto de lei, sem dúvida, irá ofertar saúde a todos aqueles que precisam. Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Mesa Diretora da Câmara dos Deputados",

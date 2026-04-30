@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220643.jpg",
-  "score": 29.55,
-  "rank": 180,
+  "score": 31.22,
+  "rank": 168,
   "proposicoes": [
     {
       "id": 2614047,
@@ -15,9 +15,26 @@
       "ementa": "Institui o Marco Legal dos Esportes Indígenas no Brasil e dá outras providências.",
       "data": "2026-04-07T19:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614047"
+    },
+    {
+      "id": 2620026,
+      "tipo": "PL",
+      "numero": 2080,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a transparência e o controle no uso de aeronaves privadas por autoridades públicas, estabelece obrigações de declaração, submissão a procedimentos de segurança e alfandegários, e dá outras providências.",
+      "data": "2026-04-29T15:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620026"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-29T19:04",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. SÔNIA GUAJAJARA (Bloco/PSOL - SP. Pela ordem. Sem revisão da oradora.) - Obrigada, Sra. Presidenta. Eu quero, primeiro, saudar a Deputada Meire Serafim pela iniciativa de trazer esse projeto de",
+      "transcricao": "A SRA. SÔNIA GUAJAJARA (Bloco/PSOL - SP. Pela ordem. Sem revisão da oradora.) - Obrigada, Sra. Presidenta. Eu quero, primeiro, saudar a Deputada Meire Serafim pela iniciativa de trazer esse projeto de lei que considera o fator amazônico. É fundamental que este Parlamento reconheça as complexidades regionais, as diferenças regionais que existem no nosso País. Considerar o fator amazônico, nesse caso, para garantir uma educação de qualidade é considerar a garantia da alimentação, as dificuldades logísticas e o difícil acesso que nós temos na realidade amazônica. Portanto, a Federação PSOL REDE orienta \"sim\", porque isso não é um privilégio, é a garantia de equidade na educação, que é um direito constitucional no nosso País, para que todos tenham acesso à educação. Portanto, nosso encaminhamento é favorável. Muito obrigada."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

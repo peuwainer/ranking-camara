@@ -1,10 +1,10 @@
 {
   "id": 220648,
   "nome": "Marangoni",
-  "partido": "UNIÃO",
+  "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220648.jpg",
-  "score": 17.3,
+  "score": 17.57,
   "rank": 449,
   "proposicoes": [
     {
@@ -48,6 +48,12 @@
       "sigla": "PL308020",
       "cargo": "Relator",
       "desde": "2026-04-09T00:00"
+    },
+    {
+      "nome": "Representação Brasileira no Parlamento do Mercosul",
+      "sigla": "MERCOSUL",
+      "cargo": "Titular",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220648/votacoes-nominais-plenario/2026"

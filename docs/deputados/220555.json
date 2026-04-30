@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220555.jpg",
-  "score": 34.33,
-  "rank": 69,
+  "score": 35.89,
+  "rank": 64,
   "proposicoes": [
     {
       "id": 2613364,
@@ -45,6 +45,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-28T21:28",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. DAIANA SANTOS (Bloco/PCdoB - RS. Pela ordem. Sem revisão da oradora.) - Presidente, a Maioria orienta \"sim\". Eu faço um registro importante: ressalto novamente, com meu histórico como educadora",
+      "transcricao": "A SRA. DAIANA SANTOS (Bloco/PCdoB - RS. Pela ordem. Sem revisão da oradora.) - Presidente, a Maioria orienta \"sim\". Eu faço um registro importante: ressalto novamente, com meu histórico como educadora social de rua, que sei muito bem como isso tem impacto, como é importante o Estado que se responsabiliza e investe. É com muita alegria que hoje eu celebro essa vitória, que representa um avanço na justiça social e um impacto real no desenvolvimento da nossa sociedade. Países que tratam da sua população e cuidam da sua soberania investem nas pessoas. É o que fazemos hoje pelos trabalhadores e pelas trabalhadoras do Suas, mas, principalmente, pela dignidade do povo brasileiro. É uma grande vitória, que eu celebro com muita alegria, principalmente por fazer parte deste momento histórico. Viva o SUAS! Vivam os trabalhadores da assistência! Vivam todos os educadores e educadoras sociais! Vivam aqueles que acreditam e compartilham deste que é, definitivamente, o processo de ascensão do povo brasileiro!"
+    },
     {
       "data": "2026-04-08T20:16",
       "fase": "Ordem do Dia",
@@ -149,8 +156,8 @@
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
       "sigla": "PEC22119",
-      "cargo": "Titular",
-      "desde": "2026-04-28T00:00"
+      "cargo": "1º Vice-Presidente",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220555/votacoes-nominais-plenario/2026"

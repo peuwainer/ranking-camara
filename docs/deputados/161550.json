@@ -4,10 +4,18 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/161550.jpg",
-  "score": 23.75,
-  "rank": 349,
+  "score": 24.35,
+  "rank": 348,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-29T14:00",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. EMIDINHO MADEIRA (PL - MG. Sem revisão do orador.) - Eu quero cumprimentar todos os meus amigos Parlamentares e agradecer ao Sr. Presidente que está conduzindo os trabalhos. Quero também fazer u",
+      "transcricao": "O SR. EMIDINHO MADEIRA (PL - MG. Sem revisão do orador.) - Eu quero cumprimentar todos os meus amigos Parlamentares e agradecer ao Sr. Presidente que está conduzindo os trabalhos. Quero também fazer um agradecimento aqui muito especial ao Vereadores lá de Monte Santo de Minas e, em nome de vocês cumprimentar todos os Vereadores do Estado de Minas Gerais e do nosso País, que estão em Brasília esta semana. Cumprimento o Babalu, o Rafael, o Geovane, lá de Milagres. Muito obrigado ao Vereadores lá de Monte Santo de Minas. Hoje na minha fala desta tribuna eu queria convidar todo o povo brasileiro para esta semana fazer uma visita a Uberaba para visitar a ExpoZebu, a maior feira agropecuária do mundo, a maior feira agropecuária do planeta, e quero convidar vocês para participarem. São mais de 40 países que confirmaram sua presença, e a estimativa de público é de 400 mil pessoas visitando a feira. Neste momento, eu queria agradecer toda a diretoria lá da ExpoZebu, da ABCZ pela minha escolha como político homenageado em 2026. Eu fico muito honrado de ser reconhecido o nosso trabalho, o Mais Genética, o Mais Vacina, o Mais Produção, os projetos nossos que estão dando certo. Eu queria agradecer ao Governador Romeu Zema, ao Mateus Simões, ao Thales, Secretário de Agricultura e, em especial, ao Secretário de Governo, Marcelo Aro; e também queria agradecer muito à EMATER, ao Cláudio Bortolini, a todos os extensionistas da EMATER. Se os programas nossos têm dado certo é porque temos a parceria certa, e a EMATER é uma grande parceira do Mais Genética, que se transformou no maior programa de melhoramento genético do mundo. Agradeço ao Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas/Campus Muzambinho também, porque foi muito parceiro. Ao Leandrinho, o nosso assessor e coordenador do projeto, que comanda todo o projeto. Leandrinho, muito obrigado por tanto compromisso e tanta lealdade. E a todos os inseminadores do Mais Genética, eu queria agradecer. Sexta-feira, eu vou estar, às 19h, em Uberaba, recebendo esse prêmio lá na Megaleite. Fico muito honrado, demais da conta, e devo toda essa honraria também ao meu pai, um sertanejo, mineiro de Nova Resende, à minha mãe, D. Efigênia, e a toda a minha família dos Madeira e dos Boa Sorte, e à maneira como o meu pai nos criou e nos incentivou muito, o meu pai, meu saudoso pai. Ele ficava o ano inteirinho esperando a data da Megaleite. Ele faleceu em 2021, e hoje o seu filho está sendo homenageado. É graças ao senhor, meu pai, Emídio Madeira, mineiro de Nova Resende, a quem eu sou muito grato por tudo na minha vida. Um grande abraço."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",

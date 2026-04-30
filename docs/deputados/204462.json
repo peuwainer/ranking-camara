@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204462.jpg",
-  "score": 36.3,
-  "rank": 41,
+  "score": 36.86,
+  "rank": 55,
   "proposicoes": [
     {
       "id": 2619224,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619224"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-28T22:36",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. CHRIS TONIETTO (PL - RJ. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Faço coro às palavras do Deputado Eli. Depois do acatamento da emenda do Deputado, obviamente, nos concorda",
+      "transcricao": "A SRA. CHRIS TONIETTO (PL - RJ. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Faço coro às palavras do Deputado Eli. Depois do acatamento da emenda do Deputado, obviamente, nos concordamos com todo o conteúdo. Eu gostaria de agradecer publicamente à Relatora por esse acatamento. Nesse sentido, a gente pede para retirar o destaque, que não tem mais razão de existir, porque já foi contemplado. Muito obrigada."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

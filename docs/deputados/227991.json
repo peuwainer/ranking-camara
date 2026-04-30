@@ -4,10 +4,36 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/227991.jpg",
-  "score": 29.36,
-  "rank": 185,
-  "proposicoes": [],
+  "score": 31.44,
+  "rank": 160,
+  "proposicoes": [
+    {
+      "id": 2619995,
+      "tipo": "PL",
+      "numero": 2071,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o comércio intermunicipal e interestadual dos produtos sob inspeção dos Serviços de Inspeção Municipal que se enquadram como alimentos artesanais e tradicionais da agricultura familiar.",
+      "data": "2026-04-29T14:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619995"
+    },
+    {
+      "id": 2620010,
+      "tipo": "PL",
+      "numero": 2078,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, para dispor sobre o Desenvolvimento Psicossocial Continuado da Pessoa Adulta com Transtorno do Espectro Autista.",
+      "data": "2026-04-29T15:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620010"
+    }
+  ],
   "discursos": [
+    {
+      "data": "2026-04-29T16:12",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DR FLÁVIO (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, caros colegas Deputados, quero fazer aqui um reconhecimento e agradecimento ao DNIT, porque eu subi à tribuna para cobra",
+      "transcricao": "O SR. DR FLÁVIO (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, caros colegas Deputados, quero fazer aqui um reconhecimento e agradecimento ao DNIT, porque eu subi à tribuna para cobrar melhorias na BR - 393, no Estado do Rio de Janeiro, e já começaram os reparos. A estrada está sendo recuperada, uma via de grande importância, não só para o Estado do Rio de Janeiro, mas também para o Espírito São Paulo e Minas Gerais. O DNIT começou a recuperação. Agora, esperamos que mantenha sempre a manutenção, para que as pessoas possam trafegar com mais segurança. Obrigado pela oportunidade."
+    },
     {
       "data": "2026-04-15T15:12",
       "fase": "Breves Comunicações",

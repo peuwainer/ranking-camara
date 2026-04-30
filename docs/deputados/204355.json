@@ -4,10 +4,17 @@
   "partido": "PP",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204355.jpg",
-  "score": 29.93,
-  "rank": 173,
+  "score": 32.3,
+  "rank": 136,
   "proposicoes": [],
   "discursos": [
+    {
+      "data": "2026-04-29T16:16",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DA VITORIA (Bloco/PP - ES. Pela ordem. Sem revisão do orador.) - Presidente Charles, obrigado pela oportunidade de estar aqui no nosso Plenário, hoje, duas lideranças importantes do nosso Estado",
+      "transcricao": "O SR. DA VITORIA (Bloco/PP - ES. Pela ordem. Sem revisão do orador.) - Presidente Charles, obrigado pela oportunidade de estar aqui no nosso Plenário, hoje, duas lideranças importantes do nosso Estado, mas, principalmente, do Município de Aracruz. Encontram-se aqui comigo o nosso Vereador Léo Pereira e o nosso Vereador Paim, duas lideranças que contribuem muito para o desenvolvimento de uma das cidades que alavancam o nosso Espírito Santo na economia, hoje com infraestruturas que vão fazer com que o comércio internacional seja uma porta de entrada para o nosso Brasil, e eles estão aqui para defender o seu Município, junto com a nossa bancada capixaba, que eu coordeno. Hoje, tenho a tranquilidade de afirmar que a cidade está cada vez mais seleta em escolher representantes à altura do nosso Vereador Paim e do nosso Vereador Léo Pereira, que representam com dignidade a cidade de Aracruz, no Espírito Santo. Muito obrigado a vocês, aracruzenses, pela oportunidade de ter esses representantes."
+    },
     {
       "data": "2026-04-28T18:44",
       "fase": "Breves Comunicações",
@@ -59,6 +66,12 @@
       "sigla": "CFT",
       "cargo": "Suplente",
       "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados",
+      "sigla": "COETICA",
+      "cargo": "Titular",
+      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204355/votacoes-nominais-plenario/2026"

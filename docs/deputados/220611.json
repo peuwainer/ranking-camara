@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220611.jpg",
-  "score": 32.26,
-  "rank": 111,
+  "score": 35.25,
+  "rank": 75,
   "proposicoes": [
     {
       "id": 2614857,
@@ -80,7 +80,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617979"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-29T17:44",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. GENERAL PAZUELLO (PL - RJ. Pela ordem. Sem revisão do orador.) - O encaminhamento já está dado. Eu acho que o PL já está concordando que é \"sim\". Eu queria aproveitar a oportunidade, nossa Presi",
+      "transcricao": "O SR. GENERAL PAZUELLO (PL - RJ. Pela ordem. Sem revisão do orador.) - O encaminhamento já está dado. Eu acho que o PL já está concordando que é \"sim\". Eu queria aproveitar a oportunidade, nossa Presidente Laura, para comunicar a todos os Deputados que estão conosco aqui no Plenário, que, na semana que vem, dias 5, 6 e 7, no Rio de Janeiro, nós vamos fazer o Congresso Internacional sobre Segurança Pública, recebendo especialistas de fora do Brasil e reunindo ali todas as autoridades de segurança pública do nosso Estado, para que a gente discuta as leis que precisam ser aprovadas no Congresso, as adequações e ajustes nessas leis para mudar realmente o panorama da segurança pública do nosso País. Esse é um congresso que estamos fazendo. Todos estão convidados. Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 234, de 2024, do Sr. Felipe Carreras, que \"dispõe sobre incentivos e benefícios para fomentar as atividades de caráter desportivo e dá outras providências\"",

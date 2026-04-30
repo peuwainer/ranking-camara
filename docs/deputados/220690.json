@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 39.3,
-  "rank": 23,
+  "score": 45.14,
+  "rank": 11,
   "proposicoes": [
     {
       "id": 2613068,
@@ -262,12 +262,6 @@
       "nome": "Comissão de Administração e Serviço Público",
       "sigla": "CASP",
       "cargo": "Suplente",
-      "desde": "2026-04-07T00:00"
-    },
-    {
-      "nome": "Comissão de Viação e Transportes",
-      "sigla": "CVT",
-      "cargo": "Titular",
       "desde": "2026-04-07T00:00"
     }
   ],
