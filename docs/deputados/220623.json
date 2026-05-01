@@ -4,18 +4,9 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
-  "score": 40.86,
-  "rank": 29,
+  "score": 41.57,
+  "rank": 28,
   "proposicoes": [
-    {
-      "id": 2613007,
-      "tipo": "PRC",
-      "numero": 13,
-      "ano": 2026,
-      "ementa": "Altera a redação do art. 17, inciso I, alínea “t”, do Regimento Interno da Câmara dos Deputados, para estabelecer prazo mínimo de antecedência na divulgação da Ordem do Dia.",
-      "data": "2026-03-31T16:03",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613007"
-    },
     {
       "id": 2616940,
       "tipo": "PL",
@@ -78,6 +69,15 @@
       "ementa": "Dispõe sobre a transparência e o controle no uso de aeronaves privadas por autoridades públicas, estabelece obrigações de declaração, submissão a procedimentos de segurança e alfandegários, e dá outras providências.",
       "data": "2026-04-29T15:46",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620026"
+    },
+    {
+      "id": 2620238,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Susta os efeitos do Decreto 10.935, de 12 de janeiro de 2022, do Poder Executivo, que dispõe sobre a proteção das cavidades naturais subterrâneas existentes no território nacional.",
+      "data": "2026-04-29T20:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620238"
     }
   ],
   "discursos": [

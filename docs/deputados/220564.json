@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220564.jpg",
-  "score": 5.69,
-  "rank": 506,
+  "score": 9.05,
+  "rank": 501,
   "proposicoes": [
     {
       "id": 2617240,
@@ -24,6 +24,33 @@
       "ementa": "Altera o inciso XI do art. 473 da Lei nº 5.452, de 1º de maio de 1943 – Consolidação das Leis do Trabalho (CLT), para ampliar o limite anual de ausências justificadas para acompanhamento de filho de até 12 (doze) anos em consultas médicas.",
       "data": "2026-04-16T16:27",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617241"
+    },
+    {
+      "id": 2620268,
+      "tipo": "PL",
+      "numero": 2109,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o tempo máximo de espera para realização de procedimentos médicos nas Unidades da Rede Pública de Saúde e dá outras providências.",
+      "data": "2026-04-30T11:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620268"
+    },
+    {
+      "id": 2620271,
+      "tipo": "PL",
+      "numero": 2110,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para autorizar o juiz a decretar a prisão preventiva de ofício em situações excepcionais e fundamentadas, visando a garantia da ordem pública e a proteção da vítima.",
+      "data": "2026-04-30T11:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620271"
+    },
+    {
+      "id": 2620292,
+      "tipo": "PL",
+      "numero": 2112,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Proteção às Famílias Superendividadas, denominado \"Família Livre\"; cria as Câmaras Municipais de Renegociação de Dívidas; estabelece a moratória emergencial de cobranças; fixa teto de comprometimento de  enda familiar com dívidas de consumo; determina a oferta de educação financeira no ensino médio público; cria o Portal Família Livre; e dá outras providências.",
+      "data": "2026-04-30T11:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620292"
     }
   ],
   "discursos": [],

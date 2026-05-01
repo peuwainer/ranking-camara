@@ -4,9 +4,28 @@
   "partido": "MDB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178975.jpg",
-  "score": 9.2,
-  "rank": 499,
-  "proposicoes": [],
+  "score": 11.32,
+  "rank": 488,
+  "proposicoes": [
+    {
+      "id": 2620214,
+      "tipo": "PL",
+      "numero": 2104,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes para a atenção à saúde da mulher no climatério e na menopausa, no âmbito do Sistema Único de Saúde, e institui a Semana Nacional de Conscientização sobre o Climatério e a Menopausa.",
+      "data": "2026-04-30T09:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620214"
+    },
+    {
+      "id": 2620227,
+      "tipo": "PL",
+      "numero": 2105,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para prever majoração das penas dos crimes contra a paz pública cometidos em ambiente digital e contra a mulher",
+      "data": "2026-04-30T09:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620227"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

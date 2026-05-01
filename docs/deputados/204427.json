@@ -4,27 +4,9 @@
   "partido": "PRD",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204427.jpg",
-  "score": 29.13,
-  "rank": 220,
+  "score": 28.33,
+  "rank": 252,
   "proposicoes": [
-    {
-      "id": 2612946,
-      "tipo": "PL",
-      "numero": 1550,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para disciplinar a circulação de equipamentos de mobilidade individual autopropelidos.",
-      "data": "2026-03-31T13:25",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612946"
-    },
-    {
-      "id": 2612948,
-      "tipo": "PL",
-      "numero": 1551,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 4.119, de 27 de agosto de 1962, que dispõe sobre os cursos de formação em psicologia e regulamenta a profissão de psicólogo, para instituir o piso salarial nacional da categoria.",
-      "data": "2026-03-31T13:25",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612948"
-    },
     {
       "id": 2616019,
       "tipo": "PL",
@@ -33,6 +15,15 @@
       "ementa": "Dispõe sobre a obrigatoriedade da oferta de professor de apoio especializado e de sala especial para o atendimento educacional especializado a estudantes com Transtorno do Espectro Autista (TEA) nas redes públicas de ensino, institui o Adicional de Valorização do Professor de Apoio e Sala TEA, e dá outras providências.",
       "data": "2026-04-14T17:59",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616019"
+    },
+    {
+      "id": 2620489,
+      "tipo": "PL",
+      "numero": 2117,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de instalação de banheiros de uso neutro, de acesso universal e não-generificado, em estabelecimentos públicos e privados de uso coletivo, distintos dos sanitários masculinos, femininos e dos sanitários acessíveis destinados a pessoas com deficiência, e dá outras providências.",
+      "data": "2026-04-30T15:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620489"
     }
   ],
   "discursos": [

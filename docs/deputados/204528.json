@@ -4,18 +4,9 @@
   "partido": "NOVO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
-  "score": 39.79,
-  "rank": 34,
+  "score": 40.14,
+  "rank": 32,
   "proposicoes": [
-    {
-      "id": 2613007,
-      "tipo": "PRC",
-      "numero": 13,
-      "ano": 2026,
-      "ementa": "Altera a redação do art. 17, inciso I, alínea “t”, do Regimento Interno da Câmara dos Deputados, para estabelecer prazo mínimo de antecedência na divulgação da Ordem do Dia.",
-      "data": "2026-03-31T16:03",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613007"
-    },
     {
       "id": 2616710,
       "tipo": "EMC",
@@ -42,6 +33,15 @@
       "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal) para agravar os critérios para progressão de regime.",
       "data": "2026-04-29T20:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620174"
+    },
+    {
+      "id": 2620543,
+      "tipo": "PL",
+      "numero": 2120,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.820, de 17 de dezembro de 2003, para instituir a responsabilidade objetiva de instituições financeiras, entidades de previdência ou instituições consignatárias por atos de seus correspondentes bancários, prepostos, representantes comerciais e demais intermediários que atuem na oferta, intermediação ou formalização de operações de crédito consignado.",
+      "data": "2026-04-30T17:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620543"
     }
   ],
   "discursos": [

@@ -4,36 +4,9 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/98057.jpg",
-  "score": 28.48,
-  "rank": 242,
+  "score": 26.0,
+  "rank": 319,
   "proposicoes": [
-    {
-      "id": 2612997,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre a proteção da liberdade econômica, da privacidade e da segurança dos cidadãos em relação à emissão e circulação de moedas digitais oficiais pelo Banco Central do Brasil, e dá outras providências.",
-      "data": "2026-03-31T15:01",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2612997"
-    },
-    {
-      "id": 2613023,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Institui o sistema de estatísticas sobre operações aduaneiras como instrumento de fornecimento de dados relativos a operações de comércio exterior.",
-      "data": "2026-03-31T16:40",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613023"
-    },
-    {
-      "id": 2613025,
-      "tipo": "SBT",
-      "numero": 3,
-      "ano": 0,
-      "ementa": "",
-      "data": "2026-03-31T16:58",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613025"
-    },
     {
       "id": 2614078,
       "tipo": "SBT",
@@ -54,6 +27,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-04-30T10:48",
+      "fase": "Breves Comunicações",
+      "tipo": "QUESTÃO DE ORDEM",
+      "resumo": "O SR. LAFAYETTE DE ANDRADA (PL - MG. Para uma questão de ordem. Sem revisão do orador.) - Suscito uma questão de ordem com base no art. 131, Sr. Presidente. Primeiramente, é preciso destacar que não h",
+      "transcricao": "O SR. LAFAYETTE DE ANDRADA (PL - MG. Para uma questão de ordem. Sem revisão do orador.) - Suscito uma questão de ordem com base no art. 131, Sr. Presidente. Primeiramente, é preciso destacar que não há procedência na questão de ordem levantada pelo Líder do PT, porque a Constituição é muito clara no seu art. 48, das atribuições do Congresso Nacional, inciso VIII, sobre concessão de anistia. Quem pode mais pode menos. Portanto, Sr. Presidente, o Congresso Nacional decidiu fazer a Lei da Dosimetria, que vai servir, na prática, para libertar aqueles presos que estão mofando injustamente no presídio por causa do dito golpe de 8 de janeiro, um golpe que é sabido que jamais existiu. Era um conjunto de pessoas que estavam aqui no Congresso fazendo, sim, uma manifestação sem armas, sem... Não é possível..."
+    },
     {
       "data": "2026-04-28T18:36",
       "fase": "Breves Comunicações",

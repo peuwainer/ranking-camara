@@ -4,8 +4,8 @@
   "partido": "REDE",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178866.jpg",
-  "score": 27.75,
-  "rank": 270,
+  "score": 28.9,
+  "rank": 230,
   "proposicoes": [
     {
       "id": 2619274,
@@ -15,6 +15,15 @@
       "ementa": "Institui a Política Nacional dos Direitos das Pessoas LGBTQIA+ e dá outras providências.",
       "data": "2026-04-28T19:33",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619274"
+    },
+    {
+      "id": 2620208,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Reconhece a panelada como patrimônio cultural e imaterial do Estado do Ceará e dá outras providências.",
+      "data": "2026-04-29T13:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620208"
     }
   ],
   "discursos": [],

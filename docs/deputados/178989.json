@@ -4,18 +4,9 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178989.jpg",
-  "score": 33.92,
-  "rank": 102,
+  "score": 34.72,
+  "rank": 95,
   "proposicoes": [
-    {
-      "id": 2613059,
-      "tipo": "PL",
-      "numero": 1569,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para estabelecer a responsabilidade civil objetiva dos provedores de aplicações de internet pela veiculação de publicidade e anúncios patrocinados fraudulentos, nos termos que especifica.",
-      "data": "2026-03-31T19:09",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613059"
-    },
     {
       "id": 2614617,
       "tipo": "PL",
@@ -87,6 +78,15 @@
       "ementa": "Dispõe sobre a prioridade à empregada gestante na alocação em vagas de teletrabalho ou trabalho remoto e institui o direito ao regime de teletrabalho ou trabalho remoto para a empregada grávida em comprovada situação de risco clínico à gestação.",
       "data": "2026-04-29T17:12",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620082"
+    },
+    {
+      "id": 2620487,
+      "tipo": "PL",
+      "numero": 2116,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Atenção ao Paciente Transplantado, cria a Carteira Nacional de Identificação do Paciente Transplantado, estabelece o Sistema Nacional de Acompanhamento Pós-Transplante, dispõe sobre a atenção integral à saúde do paciente transplantado, incentiva a pesquisa e inovação, e organiza a rede de reabilitação no âmbito do Sistema Único de Saúde (SUS).",
+      "data": "2026-04-30T15:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620487"
     }
   ],
   "discursos": [],

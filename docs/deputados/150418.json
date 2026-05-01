@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/150418.jpg",
-  "score": 32.86,
-  "rank": 125,
+  "score": 35.34,
+  "rank": 82,
   "proposicoes": [
     {
       "id": 2613427,
@@ -42,6 +42,24 @@
       "ementa": "Altera o art. 6º da Lei nº 9.279, de 14 de maio de 1996, para dispor sobre a titularidade de invenções geradas de forma autônoma por sistemas de inteligência artificial.",
       "data": "2026-04-27T12:11",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618587"
+    },
+    {
+      "id": 2620475,
+      "tipo": "SBT",
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.847, de 26 de outubro de 1999, para estabelecer a obrigatoriedade de os postos revendedores de combustíveis automotivos informarem as especificações técnicas da gasolina comercializada e dá outras providências.",
+      "data": "2026-04-30T14:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620475"
+    },
+    {
+      "id": 2620477,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990, que dispõe sobre a proteção do consumidor e dá outras providências.",
+      "data": "2026-04-30T14:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620477"
     }
   ],
   "discursos": [

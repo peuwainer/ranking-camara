@@ -5,7 +5,7 @@
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220692.jpg",
   "score": 16.17,
-  "rank": 465,
+  "rank": 467,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -16,16 +16,16 @@
       "desde": "2023-11-02T00:00"
     },
     {
-      "nome": "Comissão de Minas e Energia",
-      "sigla": "CME",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Viação e Transportes",
       "sigla": "CVT",
       "cargo": "Suplente",
       "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Suplente",
+      "desde": "2026-04-30T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220692/votacoes-nominais-plenario/2026"
