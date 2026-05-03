@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-05-02T08:07:22.906136+00:00",
+  "atualizado_em": "2026-05-03T08:24:39.128779+00:00",
   "legislatura": 57,
   "deputados": [
     {
@@ -315,19 +315,6 @@
       "orgaos": 9
     },
     {
-      "id": 220632,
-      "nome": "ANA CRISTINA DE LIMA PIMENTEL",
-      "nome_urna": "Ana Pimentel",
-      "partido": "PT",
-      "uf": "MG",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220632.jpg",
-      "score": 42.44,
-      "proposicoes": 8,
-      "presenca_votacoes": 86.4,
-      "discursos": 7,
-      "orgaos": 8
-    },
-    {
       "id": 204360,
       "nome": "SILVIA CRISTINA AMANCIO CHAGAS",
       "nome_urna": "Silvia Cristina",
@@ -365,6 +352,19 @@
       "presenca_votacoes": 77.3,
       "discursos": 5,
       "orgaos": 12
+    },
+    {
+      "id": 220632,
+      "nome": "ANA CRISTINA DE LIMA PIMENTEL",
+      "nome_urna": "Ana Pimentel",
+      "partido": "PT",
+      "uf": "MG",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220632.jpg",
+      "score": 41.38,
+      "proposicoes": 7,
+      "presenca_votacoes": 86.4,
+      "discursos": 7,
+      "orgaos": 8
     },
     {
       "id": 204535,
@@ -1108,19 +1108,6 @@
       "orgaos": 9
     },
     {
-      "id": 220559,
-      "nome": "JULIA PEDROSO ZANATTA",
-      "nome_urna": "Julia Zanatta",
-      "partido": "PL",
-      "uf": "SC",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
-      "score": 34.98,
-      "proposicoes": 6,
-      "presenca_votacoes": 72.7,
-      "discursos": 3,
-      "orgaos": 8
-    },
-    {
       "id": 220557,
       "nome": "DANIELA CRISTINA REINEHR",
       "nome_urna": "Daniela Reinehr",
@@ -1678,6 +1665,19 @@
       "presenca_votacoes": 86.4,
       "discursos": 0,
       "orgaos": 6
+    },
+    {
+      "id": 220559,
+      "nome": "JULIA PEDROSO ZANATTA",
+      "nome_urna": "Julia Zanatta",
+      "partido": "PL",
+      "uf": "SC",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+      "score": 32.86,
+      "proposicoes": 4,
+      "presenca_votacoes": 72.7,
+      "discursos": 3,
+      "orgaos": 8
     },
     {
       "id": 204426,
@@ -6626,8 +6626,8 @@
       "partido": "PL",
       "uf": "SC",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204369.jpg",
-      "score": 3.56,
-      "proposicoes": 1,
+      "score": 2.5,
+      "proposicoes": 0,
       "presenca_votacoes": 0.0,
       "discursos": 0,
       "orgaos": 4
