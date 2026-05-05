@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220631.jpg",
-  "score": 18.21,
-  "rank": 444,
-  "proposicoes": [],
+  "score": 19.27,
+  "rank": 432,
+  "proposicoes": [
+    {
+      "id": 2620753,
+      "tipo": "PL",
+      "numero": 2136,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre causa de aumento de pena e sobre a caracterização da ascendência funcional nos crimes contra a dignidade sexual praticados em contexto de autoridade, guarda, vigilância, supervisão, orientação, cuidado ou ascendência sobre a vítima.",
+      "data": "2026-05-04T12:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620753"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

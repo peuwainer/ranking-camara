@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/80815.jpg",
-  "score": 30.25,
-  "rank": 190,
+  "score": 31.93,
+  "rank": 151,
   "proposicoes": [
     {
       "id": 2615699,
@@ -39,7 +39,7 @@
       "tipo": "PL",
       "numero": 1879,
       "ano": 2026,
-      "ementa": "Dispõe sobre a proibição de cobrança de tarifa de estacionamento e áreas de embarque/desembarque para motoristas de aplicativos em aeroportos, e dá outras providências.",
+      "ementa": "Dispõe sobre a proibição de cobrança de tarifa do Sistema Kiss & Fly e de estacionamento em áreas de embarque/desembarque para motoristas de aplicativos em aeroportos, e dá outras providências.",
       "data": "2026-04-16T11:05",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617082"
     },
@@ -60,6 +60,15 @@
       "ementa": "Dispõe sobre a regulamentação do downgrade operacional (substituição de aeronaves por capacidade inferior) em rotas regionais consolidadas e dá outras providências",
       "data": "2026-04-28T12:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618848"
+    },
+    {
+      "id": 2620846,
+      "tipo": "PL",
+      "numero": 2142,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 12.592, de 18 de janeiro de 2012, nº 13.643, de 3 de abril de 2018, e nº 13.869, de 5 de setembro de 2019, para dispor sobre o exercício das atividades de estética e cosmetologia, assegurar condições adequadas de atuação profissional e coibir restrições indevidas ao exercício da profissão.",
+      "data": "2026-05-04T15:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620846"
     }
   ],
   "discursos": [
@@ -138,6 +147,12 @@
       "sigla": "CTRAB",
       "cargo": "Suplente",
       "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial destinada a “debater e apresentar sugestões ao setor de estética e aprimorar suas relações trabalhistas”",
+      "sigla": "SUBESTET",
+      "cargo": "Titular",
+      "desde": "2026-03-06T00:00"
     },
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",

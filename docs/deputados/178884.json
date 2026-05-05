@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178884.jpg",
-  "score": 31.66,
-  "rank": 154,
+  "score": 32.68,
+  "rank": 136,
   "proposicoes": [
     {
       "id": 2615685,
@@ -24,6 +24,15 @@
       "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
       "data": "2026-04-15T18:47",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616782"
+    },
+    {
+      "id": 2620828,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Acrescenta artigo à Lei nº 4.119, de 27 de agosto de 1962, que \"Dispõe sobre os cursos de formação em psicologia e regulamenta a profissão de psicólogo\", para fixar a duração do trabalho do Psicólogo em até trinta horas semanais.",
+      "data": "2026-05-04T14:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620828"
     }
   ],
   "discursos": [

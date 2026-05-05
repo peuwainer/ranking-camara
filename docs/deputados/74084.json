@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74084.jpg",
-  "score": 41.06,
-  "rank": 30,
+  "score": 42.12,
+  "rank": 27,
   "proposicoes": [
     {
       "id": 2615672,
@@ -87,6 +87,15 @@
       "ementa": "Institui o Programa Nacional Permanente de Literatura para Crianças e Jovens, com a finalidade de promover a leitura e incentivar a produção editorial infantojuvenil no País.",
       "data": "2026-04-24T21:56",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618495"
+    },
+    {
+      "id": 2620611,
+      "tipo": "PL",
+      "numero": 2131,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, com vistas a assegurar aos pais ou responsáveis legais o direito de vetar a participação de seus filhos ou de menores sob sua responsabilidade em atividades pedagógicas que abordem temas de sexualidade, identidade de gênero e orientação sexual, garantindo o direito fundamental da família à educação moral dos estudantes menores de idade.",
+      "data": "2026-05-03T17:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620611"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204464.jpg",
-  "score": 28.87,
-  "rank": 230,
+  "score": 29.48,
+  "rank": 212,
   "proposicoes": [
     {
       "id": 2619274,
@@ -158,6 +158,12 @@
       "sigla": "CE",
       "cargo": "Suplente",
       "desde": "2026-04-28T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho com a finalidade de discutir o PL 896/2023, que “altera a Lei nº 7.716, de 5 de janeiro de 1989, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre crimes praticados em razão de misoginia",
+      "sigla": "GTMISOG",
+      "cargo": "Titular",
+      "desde": "2026-05-04T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204464/votacoes-nominais-plenario/2026"

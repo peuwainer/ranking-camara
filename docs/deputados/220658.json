@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220658.jpg",
-  "score": 30.23,
-  "rank": 191,
+  "score": 30.85,
+  "rank": 180,
   "proposicoes": [
     {
       "id": 2616782,
@@ -59,12 +59,6 @@
       "desde": "2026-02-03T00:00"
     },
     {
-      "nome": "Comissão de Desenvolvimento Econômico",
-      "sigla": "CDE",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Administração e Serviço Público",
       "sigla": "CASP",
       "cargo": "Titular",
@@ -111,6 +105,18 @@
       "sigla": "PEC22119",
       "cargo": "2º Vice-Presidente",
       "desde": "2026-04-29T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 108, de 2021, do Senado Federal, que \"altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados\"",
+      "sigla": "PLP10821",
+      "cargo": "Suplente",
+      "desde": "2026-05-04T00:00"
+    },
+    {
+      "nome": "Comissão de Desenvolvimento Econômico",
+      "sigla": "CDE",
+      "cargo": "Titular",
+      "desde": "2026-05-04T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220658/votacoes-nominais-plenario/2026"

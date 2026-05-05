@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "RN",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204473.jpg",
-  "score": 31.05,
-  "rank": 175,
-  "proposicoes": [],
+  "score": 32.1,
+  "rank": 148,
+  "proposicoes": [
+    {
+      "id": 2620890,
+      "tipo": "PL",
+      "numero": 2149,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 1.001, de 21 de outubro de 1969 (Código Penal Militar), para estabelecer salvaguardas de proteção funcional ao militar de carreira no exercício de funções institucionais, dispor sobre causa especial de diminuição de pena e fixar critérios para caracterização, no âmbito penal militar, de imputações relacionadas a crimes contra o Estado Democrático de Direito previstos na legislação penal comum.",
+      "data": "2026-05-04T16:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620890"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-04-28T18:48",

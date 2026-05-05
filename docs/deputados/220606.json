@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220606.jpg",
-  "score": 39.31,
-  "rank": 40,
+  "score": 40.34,
+  "rank": 33,
   "proposicoes": [
     {
       "id": 2613609,
@@ -69,6 +69,15 @@
       "ementa": "Institui o regime jurídico aplicável ao trabalho plataformizado no serviço de transporte remunerado privado individual de passageiros, assegurando proteção social, remuneração justa, e dá outras providências.",
       "data": "2026-04-29T17:20",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620084"
+    },
+    {
+      "id": 2620841,
+      "tipo": "PL",
+      "numero": 2141,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o adicional de insalubridade devido aos trabalhadores da defesa agropecuária e dá outras providências.",
+      "data": "2026-05-04T15:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620841"
     }
   ],
   "discursos": [

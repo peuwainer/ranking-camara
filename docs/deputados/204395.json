@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204395.jpg",
-  "score": 19.17,
-  "rank": 432,
+  "score": 19.8,
+  "rank": 424,
   "proposicoes": [
     {
       "id": 2616622,
@@ -59,6 +59,12 @@
       "sigla": "CFT",
       "cargo": "Suplente",
       "desde": "2026-04-30T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-05-04T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204395/votacoes-nominais-plenario/2026"

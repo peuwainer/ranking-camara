@@ -4,10 +4,18 @@
   "partido": "PSD",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220664.jpg",
-  "score": 14.56,
-  "rank": 478,
+  "score": 14.82,
+  "rank": 477,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-04T18:00",
+      "fase": "Encerramento",
+      "tipo": "DISCURSO ENCAMINHADO",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO GUILHERME UCHOA (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, senhores deputados e senhoras deputadas; Na última sexta-feira, 1º de maio, celebramos",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO GUILHERME UCHOA (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, senhores deputados e senhoras deputadas; Na última sexta-feira, 1º de maio, celebramos o Dia do Trabalhador. Hoje, subo a esta tribuna movido por um profundo sentimento de respeito, reconhecimento e admiração, para prestar uma justa e merecida homenagem a todos os trabalhadores e trabalhadoras do Brasil. O trabalho é, sem dúvida, um dos pilares fundamentais de qualquer nação. É por meio dele que construímos não apenas a nossa economia, mas também a dignidade das famílias, o desenvolvimento das cidades e o futuro do nosso país. Em Pernambuco, essa realidade se traduz na força do nosso povo. Um povo trabalhador, resiliente e determinado, que acorda cedo todos os dias para produzir, gerar renda e contribuir para o crescimento do nosso Estado e do Brasil. Quero aqui registrar minha homenagem aos trabalhadores do campo, que enfrentam sol e chuva para garantir o alimento na mesa dos brasileiros; aos trabalhadores da indústria, que movimentam a produção e impulsionam o desenvolvimento econômico; aos profissionais do comércio e de serviços, que mantêm nossas cidades vivas; e aos servidores públicos, que dedicam suas vidas ao atendimento da população. Registro também meu reconhecimento aos profissionais da saúde, da educação, da segurança pública e de tantas outras áreas essenciais, que desempenham suas funções com compromisso, responsabilidade e espírito público. Mas, senhor Presidente, esta data não é apenas de celebração. É também um momento de reflexão. Precisamos avançar na construção de políticas públicas que valorizem o trabalhador, que ampliem oportunidades de emprego e que garantam condições dignas de trabalho para todos. É nosso dever, enquanto legisladores e representantes do povo, trabalhar pela geração de emprego, pela qualificação profissional e pela inclusão produtiva, especialmente para os jovens e para aqueles que mais precisam de oportunidades. Como representante de Pernambuco, reafirmo nosso compromisso em defender iniciativas que fortaleçam o mercado de trabalho, estimulem o empreendedorismo e impulsionem o desenvolvimento econômico. Nosso objetivo é garantir mais dignidade para cada trabalhador e trabalhadora do Brasil, por meio de políticas eficazes de erradicação do trabalho escravo e da proteção dos direitos daqueles que são a verdadeira força motriz na construção de um país mais justo, igualitário e competitivo. Celebrar o Dia do Trabalhador é reconhecer que é o esforço diário de milhões de brasileiros que sustenta esta nação. É valorizar quem constrói, quem produz e quem faz o Brasil avançar. Que esta data renove a esperança, fortaleça o respeito ao trabalho e inspire todos nós a continuar lutando por um país mais justo, mais desenvolvido e com mais oportunidades para todos. Senhor Presidente, solicito que este pronunciamento seja divulgado nos meios de comunicação desta Casa Legislativa, bem como na Voz do Brasil. Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",

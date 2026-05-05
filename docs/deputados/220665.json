@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220665.jpg",
-  "score": 24.44,
-  "rank": 350,
+  "score": 25.06,
+  "rank": 340,
   "proposicoes": [
     {
       "id": 2617075,
@@ -63,6 +63,12 @@
       "sigla": "CMULHER",
       "cargo": "Titular",
       "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho com a finalidade de discutir o PL 896/2023, que “altera a Lei nº 7.716, de 5 de janeiro de 1989, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre crimes praticados em razão de misoginia",
+      "sigla": "GTMISOG",
+      "cargo": "Titular",
+      "desde": "2026-05-04T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220665/votacoes-nominais-plenario/2026"

@@ -4,9 +4,28 @@
   "partido": "REPUBLICANOS",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220572.jpg",
-  "score": 13.93,
-  "rank": 479,
-  "proposicoes": [],
+  "score": 16.06,
+  "rank": 470,
+  "proposicoes": [
+    {
+      "id": 2620665,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Sistema Nacional das Salas Lilás, estabelece a obrigatoriedade de criação e funcionamento das Salas Lilás de Atendimento Humanizado em todos os órgãos públicos que atendam mulheres, meninas e demais vítimas de violência de gênero, dispõe sobre padrões mínimos de estrutura, equipes, capacitação e protocolos nacionais de atendimento, cria mecanismos de cooperação interfederativa e dá outras providências.",
+      "data": "2026-05-04T09:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620665"
+    },
+    {
+      "id": 2620699,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre a instituição do Sistema Nacional de Gestão de Risco de Crédito Rural (SNGRCR) e dá outras providências.",
+      "data": "2026-05-04T10:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620699"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

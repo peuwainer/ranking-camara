@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
-  "score": 32.86,
-  "rank": 129,
+  "score": 33.47,
+  "rank": 120,
   "proposicoes": [
     {
       "id": 2613983,
@@ -115,6 +115,12 @@
       "sigla": "PEC22119",
       "cargo": "Titular",
       "desde": "2026-04-29T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho com a finalidade de discutir o PL 896/2023, que “altera a Lei nº 7.716, de 5 de janeiro de 1989, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre crimes praticados em razão de misoginia",
+      "sigla": "GTMISOG",
+      "cargo": "Titular",
+      "desde": "2026-05-04T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220559/votacoes-nominais-plenario/2026"

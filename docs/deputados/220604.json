@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg",
-  "score": 45.76,
-  "rank": 11,
+  "score": 50.63,
+  "rank": 6,
   "proposicoes": [
     {
       "id": 2613798,
@@ -114,6 +114,42 @@
       "ementa": "Institui o Programa Nacional de Reconhecimento Funcional do Período da Emergência Sanitária e altera a Lei Complementar nº 173, de 27 de maio de 2020, para assegurar o cômputo do tempo de serviço prestado entre 28 de maio de 2020 e 31 de dezembro de 2021 para fins de evolução funcional, adicionais por tempo de serviço e demais direitos correlatos dos servidores públicos civis e militares da União, dos Estados, do Distrito Federal e dos Municípios.",
       "data": "2026-04-29T18:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620132"
+    },
+    {
+      "id": 2620877,
+      "tipo": "PL",
+      "numero": 2144,
+      "ano": 2026,
+      "ementa": "Institui o Estatuto Nacional de Proteção e Valorização das Feiras Livres e da Atividade dos Feirantes Tradicionais, estabelece normas gerais para a ocupação regular de espaços públicos destinados ao comércio popular urbano, e altera a Lei nº 8.987, de 13 de fevereiro de 1995, para assegurar segurança jurídica, continuidade econômica e sucessão familiar na atividade feirante.",
+      "data": "2026-05-04T16:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620877"
+    },
+    {
+      "id": 2620878,
+      "tipo": "PL",
+      "numero": 2145,
+      "ano": 2026,
+      "ementa": "Dispõe sobre medidas especiais de prevenção, detecção, mitigação, comunicação às autoridades e preservação de evidências relativas à circulação de conteúdos, comunidades, canais, grupos, servidores, salas de voz, transmissões ao vivo e funcionalidades digitais utilizados para aliciamento, exploração, incentivo, organização ou divulgação de crimes contra crianças, adolescentes e animais, estabelece deveres reforçados para provedores de aplicação de internet em ambientes digitais de alto risco, altera a Lei nº 12.965, de 23 de abril de 2014, e dá outras providências.",
+      "data": "2026-05-04T16:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620878"
+    },
+    {
+      "id": 2620879,
+      "tipo": "PL",
+      "numero": 2146,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Ambientes Locais de Inovação e Desenvolvimento Empreendedor, destinada a fomentar a criação de ecossistemas territoriais integrados de empreendedorismo, tecnologia e geração de empregos, mediante cooperação entre o poder público, o setor produtivo e as instituições de ensino, e dá outras providências.",
+      "data": "2026-05-04T16:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620879"
+    },
+    {
+      "id": 2620881,
+      "tipo": "PL",
+      "numero": 2147,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar as penas dos crimes de homicídio e extorsão quando praticados com a finalidade de suprimir obrigação contratual ou evitar pagamento de comissão ou vantagem econômica lícita; estabelece diretrizes obrigatórias de segurança em contratos de intermediação de negócios de elevado valor econômico; e dá outras providências.",
+      "data": "2026-05-04T16:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620881"
     }
   ],
   "discursos": [],
@@ -201,6 +237,12 @@
       "sigla": "PLP10821",
       "cargo": "Suplente",
       "desde": "2026-04-29T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho com a finalidade de discutir o PL 896/2023, que “altera a Lei nº 7.716, de 5 de janeiro de 1989, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre crimes praticados em razão de misoginia",
+      "sigla": "GTMISOG",
+      "cargo": "Titular",
+      "desde": "2026-05-04T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220604/votacoes-nominais-plenario/2026"

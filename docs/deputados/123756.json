@@ -4,9 +4,19 @@
   "partido": "MDB",
   "uf": "AC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/123756.jpg",
-  "score": 27.41,
-  "rank": 283,
-  "proposicoes": [],
+  "score": 28.47,
+  "rank": 247,
+  "proposicoes": [
+    {
+      "id": 2620873,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para dispor sobre ações de acompanhamento da transição educacional e profissional dos educandos da educação especial.",
+      "data": "2026-05-04T14:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620873"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
