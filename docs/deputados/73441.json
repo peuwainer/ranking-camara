@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73441.jpg",
-  "score": 31.65,
-  "rank": 160,
+  "score": 29.3,
+  "rank": 171,
   "proposicoes": [
     {
       "id": 2614941,
@@ -42,6 +42,24 @@
       "ementa": "Veda o uso de interfaces com usuários que utilizem dark patterns em produto ou serviço de tecnologia de informação.",
       "data": "2026-04-30T10:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620257"
+    },
+    {
+      "id": 2622783,
+      "tipo": "PL",
+      "numero": 2256,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.826, de 22 de dezembro de 2003 – Estatuto do Desarmamento, para tornar objetiva a concessão de registro de armas de fogo legais e dá outras providências.",
+      "data": "2026-05-06T21:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622783"
+    },
+    {
+      "id": 2622785,
+      "tipo": "PL",
+      "numero": 2257,
+      "ano": 2026,
+      "ementa": "Acrescenta os §§ 13, 14 e 15 ao art. 45 da Lei nº 11.445, de 5 de janeiro de 2007, para dispor sobre hipóteses de exceção à obrigatoriedade de conexão à rede pública de esgotamento sanitário em casos de inviabilidade técnica ou econômica relevante.",
+      "data": "2026-05-06T22:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622785"
     }
   ],
   "discursos": [],

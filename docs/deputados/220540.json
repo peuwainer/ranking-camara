@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 10.85,
-  "rank": 489,
+  "score": 13.08,
+  "rank": 483,
   "proposicoes": [
     {
       "id": 2614671,
@@ -42,6 +42,15 @@
       "ementa": "Dispõe sobre a qualidade da infraestrutura escolar dos estabelecimentos públicos de ensino.",
       "data": "2026-04-28T16:37",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619101"
+    },
+    {
+      "id": 2621621,
+      "tipo": "PLP",
+      "numero": 127,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para dispor sobre a devolução de tributos incidentes sobre aquisições por famílias de baixa renda domiciliadas na região Norte de gasolina e suas correntes, óleo diesel e suas correntes, e biodiesel.",
+      "data": "2026-05-05T18:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621621"
     }
   ],
   "discursos": [],
@@ -81,6 +90,18 @@
       "sigla": "CTRAB",
       "cargo": "Suplente",
       "desde": "2026-05-04T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
+      "sigla": "CIDOSO",
+      "cargo": "Titular",
+      "desde": "2026-05-05T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Suplente",
+      "desde": "2026-05-06T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220540/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204472.jpg",
-  "score": 25.93,
-  "rank": 321,
+  "score": 31.32,
+  "rank": 106,
   "proposicoes": [
     {
       "id": 2613828,
@@ -51,37 +51,144 @@
       "ementa": "Dispõe sobre medidas de prevenção, combate e repressão à corrupção no âmbito da administração pública, institui mecanismos de integridade, aumenta a transparência e fortalece a responsabilização de agentes públicos e privados, e dá outras providências.",
       "data": "2026-04-08T14:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614580"
+    },
+    {
+      "id": 2622088,
+      "tipo": "PL",
+      "numero": 2206,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Redução do Absenteísmo em Consultas, Exames e Procedimentos no âmbito do Sistema Único de Saúde – SUS cria mecanismos de confirmação ativa, cancelamento simplificado e reaproveitamento de vagas, e altera a Lei nº 8.080, de 19 de setembro de 1990.",
+      "data": "2026-05-06T12:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622088"
+    },
+    {
+      "id": 2622096,
+      "tipo": "PL",
+      "numero": 2208,
+      "ano": 2026,
+      "ementa": "Transforma o Programa Mais Médicos em Plano Nacional de Carreira Médica do Sistema Único de Saúde SUS, com ingresso por mérito, fixação em áreas prioritárias e progressão funcional, e dá outras providências.",
+      "data": "2026-05-06T12:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622096"
+    },
+    {
+      "id": 2622111,
+      "tipo": "PL",
+      "numero": 2209,
+      "ano": 2026,
+      "ementa": "Institui o direito dos pais ou responsáveis de vetar a participação de alunos em atividades pedagógicas sobre ideologia de gênero, orientação sexual e temas correlatos, e dá outras providências.",
+      "data": "2026-05-06T12:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622111"
+    },
+    {
+      "id": 2622164,
+      "tipo": "EMP",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Altera o art. 2º do Projeto de Lei nº 3.984 de 2025, para elevar a pena do crime de estupro de vulnerável, previsto no art. 217-A do Código Penal.",
+      "data": "2026-05-06T13:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622164"
+    },
+    {
+      "id": 2622186,
+      "tipo": "PL",
+      "numero": 2212,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Segurança e Proteção no Ambiente Escolar, estabelece diretrizes para prevenção da violência nas instituições de ensino e dá outras providências.",
+      "data": "2026-05-06T14:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622186"
+    },
+    {
+      "id": 2622217,
+      "tipo": "PL",
+      "numero": 2213,
+      "ano": 2026,
+      "ementa": "Institui o Plano Nacional de Investimento e Expansão da Matriz Ferroviária Brasileira – PNIFER, com diretrizes para ampliação, modernização e integração da malha ferroviária nacional, por meio de investimentos públicos e privados, com o objetivo de reduzir custos logísticos, aumentar a competitividade econômica, integrar regiões produtivas e promover desenvolvimento sustentável.",
+      "data": "2026-05-06T15:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622217"
+    },
+    {
+      "id": 2622259,
+      "tipo": "PL",
+      "numero": 2223,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Materiais Didáticos Oficiais Gratuitos para Preparação ao ENEM e Concursos Públicos, com disponibilização gratuita de apostilas digitais, simulados oficiais, banco de questões e conteúdos estruturados, e dá outras providências.",
+      "data": "2026-05-06T16:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622259"
+    },
+    {
+      "id": 2622275,
+      "tipo": "PL",
+      "numero": 2227,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Prevenção de Acidentes de Trânsito, estabelece medidas obrigatórias de segurança viária, monitoramento, educação, responsabilização e infraestrutura, com o objetivo de reduzir mortes, lesões graves e danos materiais decorrentes de acidentes de trânsito, e dá outras providências.",
+      "data": "2026-05-06T16:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622275"
+    },
+    {
+      "id": 2622384,
+      "tipo": "PL",
+      "numero": 2234,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para fortalecer a efetividade das medidas socioeducativas, instituir acompanhamento psicossocial contínuo, avaliação periódica obrigatória, capacitação profissional e suporte estruturado às famílias, com o objetivo de reduzir a reincidência juvenil e promover a reinserção social.",
+      "data": "2026-05-06T17:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622384"
+    },
+    {
+      "id": 2622418,
+      "tipo": "PL",
+      "numero": 2236,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para instituir o Rito Sumaríssimo de Reintegração Possessória com decisão obrigatória em 24 horas, reintegração automática, multa diária aos invasores, cumprimento imediato com força policial e medidas coercitivas adicionais.",
+      "data": "2026-05-06T17:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622418"
+    },
+    {
+      "id": 2622462,
+      "tipo": "PL",
+      "numero": 2245,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a vedação do uso de recursos públicos para autopromoção de agentes públicos e para financiamento de veículos de comunicação com finalidade de favorecimento político, estabelece critérios objetivos para publicidade institucional e reforça os princípios da impessoalidade e moralidade administrativa.",
+      "data": "2026-05-06T18:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622462"
+    },
+    {
+      "id": 2622761,
+      "tipo": "PL",
+      "numero": 2251,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.211, de 17 de setembro de 2025, para incluir os conteúdos de instigação ou auxílio a suicídio ou a automutilação entre aqueles que devem ser removidos pelos fornecedores de produtos ou serviços de tecnologia da informação.",
+      "data": "2026-05-06T20:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622761"
+    },
+    {
+      "id": 2622762,
+      "tipo": "PL",
+      "numero": 2252,
+      "ano": 2026,
+      "ementa": "Acrescenta inciso ao art. 22 da Lei nº 9.503, de 23 de setembro de 1997, para dispor sobre publicidade, a transparência e a permanente atualização das informações relativas à prestação dos serviços de trânsito.",
+      "data": "2026-05-06T20:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622762"
+    },
+    {
+      "id": 2622763,
+      "tipo": "PL",
+      "numero": 2253,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.245, de 18 de outubro de 1991, para estabelecer novas regras a respeito da concessão de liminares em ações de despejo e para dispor sobre a renovação das locações para temporada.",
+      "data": "2026-05-06T20:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622763"
+    },
+    {
+      "id": 2622764,
+      "tipo": "PL",
+      "numero": 2254,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito a acompanhante de pessoa submetida a procedimentos que envolvam sedação ou rebaixamento do nível de consciência, em ambientes de atenção à saúde.",
+      "data": "2026-05-06T20:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622764"
     }
   ],
   "discursos": [
-    {
-      "data": "2026-04-29T16:04",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. JOSÉ MEDEIROS (PL - MT. Pela ordem. Sem revisão do orador.) - Presidente, eu quero só agradecer a presença dos Vereadores Kiki e Neguinho do Lava-Jato, de Mato Grosso, Alto Garças, cidade de Van",
-      "transcricao": "O SR. JOSÉ MEDEIROS (PL - MT. Pela ordem. Sem revisão do orador.) - Presidente, eu quero só agradecer a presença dos Vereadores Kiki e Neguinho do Lava-Jato, de Mato Grosso, Alto Garças, cidade de Vanessa da Mata. Aproveito para homenagear, mais uma vez, os Vereadores que foram extremamente ofendidos por um Deputado, infelizmente da nossa Casa, nesta semana. Muito obrigado."
-    },
-    {
-      "data": "2026-04-29T15:20",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. JOSÉ MEDEIROS (PL - MT. Pela ordem. Sem revisão do orador.) - Muito obrigado, Sr. Presidente. Há um ditado que aprendi na faculdade, até um pouco jocoso, falando sobre os advogados, que dizia o ",
-      "transcricao": "O SR. JOSÉ MEDEIROS (PL - MT. Pela ordem. Sem revisão do orador.) - Muito obrigado, Sr. Presidente. Há um ditado que aprendi na faculdade, até um pouco jocoso, falando sobre os advogados, que dizia o seguinte: O advogado é o cavalheiro que protege os seus bens contra terceiros e os toma para si. Obviamente, era uma piada  uma das tantas que se fazem sobre profissões; há piadas para todo tipo de atividade. Mas o que eu tenho achado interessante é o seguinte: há um ministro da Corte que tem defendido como ninguém, que defende a democracia, que defende este País, e eis que, de repente, descobre-se que recebia, por meio de sua esposa, milhões de um homem que talvez tenha batido o recorde do maior achaque; nem o assalto ao trem pagador foi tão grande. O Ministro da Corte estava envolvido com isso. Agora, eu deixo para a Procuradoria-Geral da República investigar o que se está dizendo por aí que não eram só 3 milhões por mês, mas 10 milhões, e parte ia para o CNPJ. No momento em que se faz uma sabatina de um novo Ministro, eu fico lamentando muito de ver o PMDB votando para encaminhar mais uma pessoa com esse pensamento."
-    },
-    {
-      "data": "2026-04-29T14:56",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. JOSÉ MEDEIROS (PL - MT. Pela ordem. Sem revisão do orador.) - Sr. Presidente, nós vimos no passado recente diversos brasileiros irem para a cadeia por causa de bobeira. Um Deputado foi grosseiro",
-      "transcricao": "O SR. JOSÉ MEDEIROS (PL - MT. Pela ordem. Sem revisão do orador.) - Sr. Presidente, nós vimos no passado recente diversos brasileiros irem para a cadeia por causa de bobeira. Um Deputado foi grosseiro acerca de alguns Ministros, e fez uma inflexão: \"Ministro tal, por tudo que faz, merece uma surra de gato morto\". Pronto. Polícia Federal, às 11 horas da noite, explodiu a porta, preso; preso, e está preso até hoje. E por aí vão tantos. Nós pegamos um Ministro com sérios indícios de advocacia administrativa, cuja esposa recebe milhões. Agora eu tenho a notícia de que não são só 3 milhões de reais por mês, é porque não verificaram o CNPJ. Dizem que é muito mais. Então, o que eu digo aqui agora é o seguinte: Ministro Fachin, em nome dessa instituição que V.Exas. tanto dizem defender, em nome da democracia, suspendam o Ministro Alexandre do cargo. Não há condições! Não estou falando para vocês o expulsarem. Suspendam, simplesmente. A bem da verdade, se fosse ele julgando a si mesmo, já estaria preso. Já estaria preso. Mas nós não queremos o \"Código Alexandrino\", nós queremos a nossa boa e velha Constituição."
-    },
-    {
-      "data": "2026-04-29T14:20",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. JOSÉ MEDEIROS (PL - MT. Pela ordem. Sem revisão do orador.) - Excelência, quero só para parabenizar todos os Vereadores que estão na marcha e me solidarizar com eles. Dizem que \"tem doido para t",
-      "transcricao": "O SR. JOSÉ MEDEIROS (PL - MT. Pela ordem. Sem revisão do orador.) - Excelência, quero só para parabenizar todos os Vereadores que estão na marcha e me solidarizar com eles. Dizem que \"tem doido para tudo\", e a Câmara não fica imune a isso. Há um Deputado aqui que esses dias falou que os Vereadores valem menos do que merda. Depois, colocou na frente de seu gabinete um aviso: \"Proibida a entrada de Vereadores\". Eu acho isso um desrespeito com Vereadores; até parabenizo o Deputado Charles, que acabou de falar sobre os Vereadores  é o cargo mais difícil de se eleger. Quando a coisa aperta aqui, quando as coisas não acontecem em Brasília, o povo reclama com quem está mais perto, reclama com o Vereador. O Vereador é aquele que está ali perto do povo. Então, eu tenho o maior respeito pelo cargo de Vereador e queria parabenizar todos que estão hoje lutando, assim como nós, para um Brasil melhor. Muito obrigado, Sr. Presidente."
-    },
     {
       "data": "2026-04-08T16:56",
       "fase": "Breves Comunicações",

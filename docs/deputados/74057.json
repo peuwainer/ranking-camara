@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
-  "score": 26.83,
-  "rank": 297,
+  "score": 28.05,
+  "rank": 201,
   "proposicoes": [
     {
       "id": 2613754,
@@ -24,9 +24,34 @@
       "ementa": "Altera a Lei nº 9.610, de 19 de fevereiro de 1998, para estabelecer critérios transparentes e proporcionais para a cobrança das taxas pelo Escritório Central de Arrecadação e Distribuição – ECAD.",
       "data": "2026-04-07T15:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613810"
+    },
+    {
+      "id": 2621071,
+      "tipo": "PL",
+      "numero": 2165,
+      "ano": 2026,
+      "ementa": "Dá nova redação aos art. 2º, ‘b’ e art. 22 da Lei nº 3.999, de 15 de dezembro de 1961, que altera o salário-mínimo dos médicos e cirurgiões  dentistas, para alterar e incluir os técnicos  em prótese dentária, técnicos e auxiliares de saúde bucal.",
+      "data": "2026-05-05T12:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621071"
+    },
+    {
+      "id": 2622246,
+      "tipo": "PL",
+      "numero": 2218,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.192, de 04 de agosto de 2021, que estabelece normas para prevenir, reprimir e combater a violência política contra a mulher; e altera a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), a Lei nº 9.096, de 19 de setembro de 1995 (Lei dos Partidos Políticos), e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para dispor sobre os crimes de divulgação de fato ou vídeo com conteúdo inverídico no período de campanha eleitoral, para criminalizar a violência política contra a mulher e para assegurar a participação de mulheres em debates eleitorais proporcionalmente ao número de pré-candidatas e candidatas às eleições proporcionais.",
+      "data": "2026-05-06T15:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622246"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-05T18:00",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. ALICE PORTUGAL (Bloco/PCdoB - BA. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, Srs. Deputados, amanhã, o Supremo Tribunal Federal analisará a Ação Direta de Inconstitucionalidade nº 7",
+      "transcricao": "A SRA. ALICE PORTUGAL (Bloco/PCdoB - BA. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, Srs. Deputados, amanhã, o Supremo Tribunal Federal analisará a Ação Direta de Inconstitucionalidade nº 7.612, que foi provocada contra o projeto de igualdade salarial entre homens e mulheres  hoje, uma lei branda, uma lei educativa. Partidos como o Novo e confederações patronais, CNI e CNC, questionaram a constitucionalidade, a obrigatoriedade de relatórios exigidos pelo texto da lei. No Brasil, a diferença salarial entre homens e mulheres ainda é em torno de 32%. As mulheres negras ainda recebem menos 9% do que as demais não negras. Isto inclusive é horizontalizado na população negra, que tem, para as funções iguais, salários diferentes. Este é um absurdo, porque a lei aprovada aqui sequer foi a que eu propus, e que era uma lei de efetivação de garantia de isonomia. É uma lei educativa, indicativa de promoção da equidade. Por isso, nosso apelo ao Supremo Tribunal Federal é que mantenha a lei como está, como este Parlamento aprovou. Muito obrigada."
+    },
     {
       "data": "2026-04-28T21:08",
       "fase": "Ordem do Dia",

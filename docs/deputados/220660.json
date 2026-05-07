@@ -4,9 +4,28 @@
   "partido": "MDB",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220660.jpg",
-  "score": 2.04,
-  "rank": 511,
-  "proposicoes": [],
+  "score": 3.09,
+  "rank": 510,
+  "proposicoes": [
+    {
+      "id": 2622129,
+      "tipo": "PL",
+      "numero": 2210,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.426, de 2017, para denominar o Programa Nacional de Esterilização de Animais, determinar tratamento prioritário para animais em situação de rua e criar a obrigatoriedade de cidades com população superior a 50.000 habitantes instituírem Unidades de Pronto Atendimento (UPAs) para realizar o atendimento de saúde e a esterilização dos animais.",
+      "data": "2026-05-06T13:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622129"
+    },
+    {
+      "id": 2622297,
+      "tipo": "PL",
+      "numero": 2228,
+      "ano": 2026,
+      "ementa": "Altera a Lei n° 3.268, de 30 de setembro de 1957, que \"Dispõe sôbre os Conselhos de Medicina, e dá outras providências\", para dispor sobre o Exame de Suficiência em Medicina como requisito obrigatório para o registro profissional.",
+      "data": "2026-05-06T16:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622297"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

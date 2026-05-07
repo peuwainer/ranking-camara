@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220658.jpg",
-  "score": 30.85,
-  "rank": 180,
+  "score": 29.35,
+  "rank": 166,
   "proposicoes": [
     {
       "id": 2616782,
@@ -24,6 +24,15 @@
       "ementa": "Institui o Marco Legal dos Eventos e a Política Nacional Permanente para o Setor de Eventos, cria o Sistema Nacional de Eventos, estabelece instrumentos de dados, crédito, qualificação e governança público-privada e dá outras providências.",
       "data": "2026-04-20T16:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617437"
+    },
+    {
+      "id": 2621619,
+      "tipo": "PL",
+      "numero": 2190,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Atenção Integral à Saúde do Motorista Profissional, no âmbito do Sistema Único de Saúde (SUS), e dispõe sobre mecanismos de organização e prioridade procedimental no atendimento aos motoristas profissionais em trânsito.",
+      "data": "2026-05-05T18:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621619"
     }
   ],
   "discursos": [],

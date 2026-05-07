@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74253.jpg",
-  "score": 27.56,
-  "rank": 284,
+  "score": 26.2,
+  "rank": 264,
   "proposicoes": [
     {
       "id": 2617536,
@@ -24,6 +24,15 @@
       "ementa": "Altera o art. 9º da Lei Complementar nº 101, de 4 de maio de 2000, para ressalvar despesas das agências reguladoras federais da limitação de empenho e movimentação financeira.",
       "data": "2026-04-22T13:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617538"
+    },
+    {
+      "id": 2622118,
+      "tipo": "EMC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Emenda ao PL 5931/2025, que \" Altera a Lei nº 12.869, de 15 de outubro de 2013, e a Lei nº 13.177, de 22 de outubro de 2015, para dispor sobre critérios de outorga, remuneração, sustentabilidade econômica e participação das unidades lotéricas na comercialização de produtos lotéricos em meio físico e digital.\"",
+      "data": "2026-05-06T12:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622118"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220667.jpg",
-  "score": 35.77,
-  "rank": 72,
+  "score": 34.0,
+  "rank": 66,
   "proposicoes": [
     {
       "id": 2619323,
@@ -24,6 +24,24 @@
       "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993, para instituir parcela anual adicional aos beneficiários do Benefício de Prestação Continuada, e a Lei nº 14.601, de 19 de junho de 2023, para instituir parcela anual complementar às famílias beneficiárias do Programa Bolsa Família.",
       "data": "2026-04-28T22:04",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619325"
+    },
+    {
+      "id": 2621041,
+      "tipo": "PL",
+      "numero": 2162,
+      "ano": 2026,
+      "ementa": "Altera o Código de Processo Civil para autorizar a intimação por meio eletrônico do devedor de alimentos.",
+      "data": "2026-05-05T11:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621041"
+    },
+    {
+      "id": 2621650,
+      "tipo": "PL",
+      "numero": 2195,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Atenção Integral à Primeira Infância e à Saúde Materno-Infantil - Mãe Coruja Brasil, e altera a Lei nº 13.257, de 8 de março de 2016, para fortalecer a integração das políticas públicas voltadas à gestação e à primeira infância.",
+      "data": "2026-05-05T18:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621650"
     }
   ],
   "discursos": [

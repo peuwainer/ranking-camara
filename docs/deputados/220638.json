@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220638.jpg",
-  "score": 29.88,
-  "rank": 203,
+  "score": 29.35,
+  "rank": 165,
   "proposicoes": [
     {
       "id": 2614766,
@@ -15,6 +15,24 @@
       "ementa": "A presente proposta institui a Política Nacional de Economia Circular para Baterias (PNECB) como resposta estruturante ao crescimento acelerado da frota de veículos eletrificados, da geração distribuída e do armazenamento estacionário de energia, que, sem regulação específica, pode converter soluções energéticas em grave passivo ambiental.",
       "data": "2026-04-08T19:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614766"
+    },
+    {
+      "id": 2622436,
+      "tipo": "PL",
+      "numero": 2238,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Fiscalização Colaborativa de Resíduos Sólidos e dá outras providências.",
+      "data": "2026-05-06T18:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622436"
+    },
+    {
+      "id": 2622437,
+      "tipo": "PL",
+      "numero": 2239,
+      "ano": 2026,
+      "ementa": "Institui o Programa de Incentivo ao Trabalho e à Autonomia Econômica das Famílias inscritas no Cadastro Único para Programas Sociais do Governo Federal (CadÚnico) – PROTRAB e altera a Lei nº 14.601, de 19 de junho de 2023, que institui o Programa Bolsa Família, para dispor sobre a redução gradual de seus benefícios financeiros em período de transição de renda.",
+      "data": "2026-05-06T18:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622437"
     }
   ],
   "discursos": [],
@@ -54,6 +72,12 @@
       "sigla": "PL808514",
       "cargo": "Suplente",
       "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "Suplente",
+      "desde": "2026-05-06T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220638/votacoes-nominais-plenario/2026"

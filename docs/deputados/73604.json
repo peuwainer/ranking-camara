@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73604.jpg",
-  "score": 31.57,
-  "rank": 166,
+  "score": 28.39,
+  "rank": 187,
   "proposicoes": [
     {
       "id": 2615287,
@@ -35,7 +35,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616663"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-05T18:08",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. RUI FALCÃO (Bloco/PT - SP. Pela ordem. Sem revisão do orador.) - Presidente Bohn Gass, hoje eu estou subscrevendo uma ação direta de inconstitucionalidade apresentada pelo Partido dos Trabalhado",
+      "transcricao": "O SR. RUI FALCÃO (Bloco/PT - SP. Pela ordem. Sem revisão do orador.) - Presidente Bohn Gass, hoje eu estou subscrevendo uma ação direta de inconstitucionalidade apresentada pelo Partido dos Trabalhadores, através do nosso Presidente Edinho Silva, contra essa verdadeira lambança que foi cometida aqui semana passada, ao se fragmentar o chamado \"projeto de lei da dosimetria\", que permitiu a quebra do veto do Presidente Lula, não como deveria ter sido feita: retiraram do projeto os crimes hediondos para facilitar a aprovação de um projeto que, na verdade, beneficia o ex-Presidente presidiário e todos aqueles que praticaram golpe em 8 de janeiro. Então, aquela foi uma medida totalmente inconstitucional, e nós estamos reclamando junto ao Supremo Tribunal Federal, para que se corrija essa anomalia que viola a Constituição. Esse é o sentido da nossa ação direta de inconstitucionalidade. Sou um dos subscritores, quero crer que V.Exa. também, para que o Supremo não faça parte desse acordão que não só beneficiou os criminosos de 8 de janeiro, mas também dá margem ao arquivamento dos pedidos de CPI para investigar o Banco Master, o maior crime financeiro da história do Brasil. Quero aqui fazer esse registro, dizendo que não compactuo com essa farsa e essa verdadeira lambança cometida por boa parte dos Parlamentares desta Casa."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Ciência, Tecnologia e Inovação",

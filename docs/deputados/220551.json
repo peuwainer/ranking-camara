@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220551.jpg",
-  "score": 27.67,
-  "rank": 276,
-  "proposicoes": [],
+  "score": 28.12,
+  "rank": 195,
+  "proposicoes": [
+    {
+      "id": 2622494,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõem sobre a emissão de Carteira de Identificação Estudantil/CIE pela União, os Estados, o Distrito Federal e os Municípios.",
+      "data": "2026-05-06T18:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622494"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
@@ -58,12 +68,6 @@
       "desde": "2025-11-03T00:00"
     },
     {
-      "nome": "Comissão de Comunicação",
-      "sigla": "CCOM",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Educação",
       "sigla": "CE",
       "cargo": "Titular",
@@ -74,6 +78,12 @@
       "sigla": "CMULHER",
       "cargo": "Suplente",
       "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Comissão de Comunicação",
+      "sigla": "CCOM",
+      "cargo": "1º Vice-Presidente",
+      "desde": "2026-05-06T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220551/votacoes-nominais-plenario/2026"

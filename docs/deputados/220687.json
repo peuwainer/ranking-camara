@@ -4,18 +4,9 @@
   "partido": "SOLIDARIEDADE",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220687.jpg",
-  "score": 32.34,
-  "rank": 143,
+  "score": 29.01,
+  "rank": 177,
   "proposicoes": [
-    {
-      "id": 2613471,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre o reconhecimento da epilepsia como deficiência, para todos os efeitos legais, e altera a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência).",
-      "data": "2026-04-06T15:06",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613471"
-    },
     {
       "id": 2614729,
       "tipo": "PLP",
@@ -42,6 +33,15 @@
       "ementa": "Altera a Lei nº 11.101, de 9 de fevereiro de 2005, que “Regula a recuperação judicial, a extrajudicial e a falência do empresário e da sociedade empresária” para aprimorar regras de cessão de créditos, fortalecer a integridade das assembleias de credores e ajustar o procedimento de recuperação judicial do produtor rural.",
       "data": "2026-04-28T17:36",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619139"
+    },
+    {
+      "id": 2621085,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-05-05T12:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621085"
     }
   ],
   "discursos": [

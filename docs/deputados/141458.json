@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141458.jpg",
-  "score": 18.04,
-  "rank": 446,
-  "proposicoes": [],
+  "score": 16.88,
+  "rank": 449,
+  "proposicoes": [
+    {
+      "id": 2622386,
+      "tipo": "EMP",
+      "numero": 67,
+      "ano": 0,
+      "ementa": "Acrescenta dispositivo ao PL nº 2.780, de 2024 que institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T17:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622386"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220595.jpg",
-  "score": 32.46,
-  "rank": 139,
+  "score": 30.6,
+  "rank": 126,
   "proposicoes": [
     {
       "id": 2615951,
@@ -24,6 +24,15 @@
       "ementa": "Regulamenta o apoio ao transporte de estudantes do ensino superior em deslocamentos intermunicipais e interestaduais, e dá outras providências.",
       "data": "2026-04-29T18:40",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620133"
+    },
+    {
+      "id": 2621389,
+      "tipo": "PL",
+      "numero": 2173,
+      "ano": 2026,
+      "ementa": "Dispõe sobre critérios para acesso a espaços, políticas públicas e benefícios destinados a mulheres, com base no sexo biológico e estabelece sanções pelo descumprimento.",
+      "data": "2026-05-05T15:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621389"
     }
   ],
   "discursos": [],

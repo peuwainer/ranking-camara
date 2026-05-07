@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74428.jpg",
-  "score": 22.57,
-  "rank": 386,
+  "score": 22.78,
+  "rank": 356,
   "proposicoes": [],
   "discursos": [
     {
@@ -52,6 +52,18 @@
       "sigla": "CFT",
       "cargo": "Suplente",
       "desde": "2026-04-23T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-05-05T00:00"
+    },
+    {
+      "nome": "Comissão de Desenvolvimento Econômico",
+      "sigla": "CDE",
+      "cargo": "Titular",
+      "desde": "2026-05-05T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/74428/votacoes-nominais-plenario/2026"

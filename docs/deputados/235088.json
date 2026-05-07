@@ -4,8 +4,8 @@
   "partido": "SOLIDARIEDADE",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/235088.jpg",
-  "score": 33.06,
-  "rank": 130,
+  "score": 40.3,
+  "rank": 18,
   "proposicoes": [
     {
       "id": 2615001,
@@ -33,16 +33,162 @@
       "ementa": "Dispõe sobre o direito do paciente à informação sobre atrasos em atendimentos de saúde e estabelece medidas de transparência nos serviços públicos e privados.",
       "data": "2026-04-09T17:12",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615004"
+    },
+    {
+      "id": 2621555,
+      "tipo": "PL",
+      "numero": 2176,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a regulamentação dos contratos de financiamento estudantil privado.",
+      "data": "2026-05-05T17:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621555"
+    },
+    {
+      "id": 2621557,
+      "tipo": "PL",
+      "numero": 2177,
+      "ano": 2026,
+      "ementa": "Dispõe sobre diretrizes nacionais de incentivo à mobilidade elétrica e sustentável e dá outras providências.",
+      "data": "2026-05-05T17:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621557"
+    },
+    {
+      "id": 2621558,
+      "tipo": "PL",
+      "numero": 2178,
+      "ano": 2026,
+      "ementa": "Institui incentivos fiscais e políticas de estímulo à utilização de veículos elétricos por motoristas de transporte por aplicativo e dá outras providências.",
+      "data": "2026-05-05T17:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621558"
+    },
+    {
+      "id": 2621559,
+      "tipo": "PL",
+      "numero": 2179,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.620, de 13 de julho de 2023, para estabelecer mecanismos de facilitação do acesso à moradia aplicáveis às famílias priorizadas no Programa Minha Casa, Minha Vida.",
+      "data": "2026-05-05T17:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621559"
+    },
+    {
+      "id": 2621560,
+      "tipo": "PL",
+      "numero": 2180,
+      "ano": 2026,
+      "ementa": "Dispõe sobre medidas de prevenção, apuração e responsabilização de atos de perseguição política e violência institucional praticados por agentes públicos ou autoridades.",
+      "data": "2026-05-05T17:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621560"
+    },
+    {
+      "id": 2621568,
+      "tipo": "PL",
+      "numero": 2181,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.597, de 14 de junho de 2023, para instituir a categoria de “Bolsa Atleta Social” e ampliar o acesso ao benefício a atletas em situação de vulnerabilidade social, especialmente praticantes de artes marciais, e dá outras providências.",
+      "data": "2026-05-05T17:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621568"
+    },
+    {
+      "id": 2621570,
+      "tipo": "PL",
+      "numero": 2183,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a responsabilização civil de pessoas físicas ou jurídicas que divulguem, compartilhem ou promovam conteúdos falsos ou enganosos que causem danos a terceiros.",
+      "data": "2026-05-05T17:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621570"
+    },
+    {
+      "id": 2621572,
+      "tipo": "PL",
+      "numero": 2184,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Incentivo aos Projetos de Impacto Comunitário e Assistência Voluntária, cria o Selo Nacional de Impacto Social, e dá outras providências.",
+      "data": "2026-05-05T17:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621572"
+    },
+    {
+      "id": 2621575,
+      "tipo": "PL",
+      "numero": 2185,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015, Código de Processo Civil, para estabelecer prioridade de tramitação nos processos judiciais que envolvam vítimas de violência moral, difamação, calúnia e ataques à honra.",
+      "data": "2026-05-05T17:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621575"
+    },
+    {
+      "id": 2621579,
+      "tipo": "PL",
+      "numero": 2186,
+      "ano": 2026,
+      "ementa": "Altera a Lei no 10.260, de 12 de julho de 2001, para garantir o direito de reingresso no Fundo de Financiamento Estudantil (FIES) aos estudantes que tenham quitado integralmente financiamento anterior.",
+      "data": "2026-05-05T17:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621579"
+    },
+    {
+      "id": 2622251,
+      "tipo": "PL",
+      "numero": 2221,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Incentivo à Saúde Animal, estabelece diretrizes para a concessão de benefícios fiscais a estabelecimentos veterinários e dá outras providências.",
+      "data": "2026-05-06T16:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622251"
+    },
+    {
+      "id": 2622254,
+      "tipo": "PL",
+      "numero": 2222,
+      "ano": 2026,
+      "ementa": "Institui o Sistema Único de Saúde Animal (SUSA), como subsistema integrante do Sistema Único de Saúde (SUS), e dá outras providências.",
+      "data": "2026-05-06T16:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622254"
+    },
+    {
+      "id": 2622260,
+      "tipo": "PL",
+      "numero": 2224,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para vedar o acorrentamento permanente de animais domésticos e estabelecer parâmetros mínimos de bem-estar animal.",
+      "data": "2026-05-06T16:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622260"
+    },
+    {
+      "id": 2622263,
+      "tipo": "PL",
+      "numero": 2226,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006, para incluir, entre as medidas protetivas de urgência, a proteção de animais domésticos ou domesticados vinculados à vítima.",
+      "data": "2026-05-06T16:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622263"
+    },
+    {
+      "id": 2622439,
+      "tipo": "PL",
+      "numero": 2240,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Artes Marciais para Inclusão Social, Prevenção da Violência e Promoção da Saúde, e dá outras providências.",
+      "data": "2026-05-06T18:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622439"
+    },
+    {
+      "id": 2622445,
+      "tipo": "PL",
+      "numero": 2241,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, para estabelecer prazo na comunicação de maus-tratos.",
+      "data": "2026-05-06T18:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622445"
+    },
+    {
+      "id": 2622447,
+      "tipo": "PL",
+      "numero": 2242,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para instituir a capacitação obrigatória de profissionais da educação na prevenção e no enfrentamento da violência contra crianças e adolescentes.",
+      "data": "2026-05-06T18:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622447"
     }
   ],
   "discursos": [
-    {
-      "data": "2026-04-29T20:48",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. RIBEIRO NETO (Bloco/SOLIDARIEDADE - MA. Pela ordem. Sem revisão do orador.) - Sra. Presidente, eu até corri aqui, com o meu carrinho, para vir orientar na votação do PL que acaba com a fiança pa",
-      "transcricao": "O SR. RIBEIRO NETO (Bloco/SOLIDARIEDADE - MA. Pela ordem. Sem revisão do orador.) - Sra. Presidente, eu até corri aqui, com o meu carrinho, para vir orientar na votação do PL que acaba com a fiança para os pedófilos. Eu queria deixar aqui minha posição. O projeto já foi aprovado, mas quero deixar minha posição clara: lugar de criminoso é na cadeia, lugar de pedófilo é na cadeia. Eu sou um ativista e um entusiasta de leis que endureçam as penas, as punições a essas práticas delituosas, que são tão nocivas para as crianças e para os adolescentes. Este é um momento que eu celebro. A gente sabe que há muita gente que pagou fiança e acabou saindo da prisão após praticar um crime tão hediondo como esse. Nossas crianças precisam ser preservadas, nossos adolescentes precisam ser preservados. Eu tenho, no Maranhão, o Instituto Jovens do Futuro, que cuida de mais de 2 mil crianças e adolescentes, sendo que mais de trezentas têm o transtorno do espectro autista. Então, eu fico muito feliz que nesta noite nós estejamos fazendo uma reparação. Este é um dispositivo que já deveria estar valendo há muito tempo. Lugar de pedófilo é na cadeia! Nós não podemos ser complacentes com um crime tão hediondo como esse. Essas são as minhas palavras, Sra. Presidente. Parabenizo a autora do projeto e esta Casa por, de forma unânime, ter aprovado este dispositivo, necessário, mesmo que tardiamente. Lugar de pedófilo, lugar de criminoso é na cadeia."
-    },
     {
       "data": "2026-04-28T21:32",
       "fase": "Ordem do Dia",

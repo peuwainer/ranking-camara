@@ -4,9 +4,19 @@
   "partido": "PCdoB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73801.jpg",
-  "score": 31.05,
-  "rank": 177,
-  "proposicoes": [],
+  "score": 30.61,
+  "rank": 125,
+  "proposicoes": [
+    {
+      "id": 2622408,
+      "tipo": "EMP",
+      "numero": 73,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T17:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622408"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220534.jpg",
-  "score": 22.37,
-  "rank": 388,
+  "score": 20.57,
+  "rank": 402,
   "proposicoes": [
     {
       "id": 2613659,
@@ -33,6 +33,15 @@
       "ementa": "Altera a Lei Complementar nº 141, de 13 de janeiro de 2012, para reservar percentual mínimo da parcela das emendas individuais destinada à saúde a ações e serviços públicos de saúde mental",
       "data": "2026-04-28T18:27",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619187"
+    },
+    {
+      "id": 2622234,
+      "tipo": "PLP",
+      "numero": 128,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Saúde Ativa no Trabalho (PNSAT), dispondo sobre incentivos fiscais para o combate ao sedentarismo e à obesidade por meio da promoção da atividade física; altera a Lei Complementar nº 123, de 14 de dezembro de 2006, e a Lei nº 9.250, de 26 de dezembro de 1995; e dá outras providências",
+      "data": "2026-05-06T15:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622234"
     }
   ],
   "discursos": [],

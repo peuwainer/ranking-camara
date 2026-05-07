@@ -4,8 +4,8 @@
   "partido": "NOVO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
-  "score": 40.12,
-  "rank": 34,
+  "score": 36.38,
+  "rank": 44,
   "proposicoes": [
     {
       "id": 2616710,
@@ -45,6 +45,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-05T17:24",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. ADRIANA VENTURA (NOVO - SP. Pela ordem. Sem revisão da oradora.) - Olha, superobrigada, Presidente. Na verdade, eu só quero fazer um anúncio de que hoje é um dia muito bom. Nós temos aqui a vis",
+      "transcricao": "A SRA. ADRIANA VENTURA (NOVO - SP. Pela ordem. Sem revisão da oradora.) - Olha, superobrigada, Presidente. Na verdade, eu só quero fazer um anúncio de que hoje é um dia muito bom. Nós temos aqui a visita dos presidentes dos sindicatos patronais do Estado de São Paulo, da Fecomercio, representando o comércio varejista de Taubaté, o comércio varejista e lojista de São Paulo, de Barretos, comércio varejista de flores e plantas ornamentais, comércio atacadista importador e exportador de frutas, varejistas de Itararé e Região, comércio varejista de material ótico, fotográfico e cinematográfico, comércio varejista de Matão, de Itapetininga, atacadista de gêneros alimentícios. É uma alegria poder ver o setor produtivo aqui colocar a sua voz para discutir tanto escala de trabalho como Simples Nacional. Quero dar as boas-vindas para quem gera riqueza e gera emprego neste País. Fica aqui o meu agradecimento para o setor produtivo do meu Estado, o Estado de São Paulo, de que eu tenho muito orgulho. Agora, eles têm uma reunião com o Presidente, o Deputado Hugo Motta, e nós estamos caminhando. Então, agradeço muito a deferência. Obrigada."
+    },
     {
       "data": "2026-04-28T18:40",
       "fase": "Breves Comunicações",
@@ -186,6 +193,12 @@
       "sigla": "PEC22119",
       "cargo": "Suplente",
       "desde": "2026-04-29T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho com a finalidade de discutir o PL 896/2023, que “altera a Lei nº 7.716, de 5 de janeiro de 1989, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre crimes praticados em razão de misoginia",
+      "sigla": "GTMISOG",
+      "cargo": "Titular",
+      "desde": "2026-05-06T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204528/votacoes-nominais-plenario/2026"

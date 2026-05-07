@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220565.jpg",
-  "score": 17.36,
-  "rank": 453,
+  "score": 16.21,
+  "rank": 460,
   "proposicoes": [
     {
       "id": 2615287,
@@ -42,6 +42,15 @@
       "ementa": "Institui a Política Nacional dos Direitos das Pessoas LGBTQIA+ e dá outras providências.",
       "data": "2026-04-28T19:33",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619274"
+    },
+    {
+      "id": 2621112,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), a fim de estabelecer prazo máximo de 60 (sessenta) dias para a conclusão do procedimento nos processos que apurem a prática do crime de estupro ou de estupro de vulnerável de que resulte a gravidez da vítima.",
+      "data": "2026-05-04T11:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621112"
     }
   ],
   "discursos": [],

@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178871.jpg",
-  "score": 36.23,
-  "rank": 66,
+  "score": 37.63,
+  "rank": 35,
   "proposicoes": [
-    {
-      "id": 2613378,
-      "tipo": "PL",
-      "numero": 1592,
-      "ano": 2026,
-      "ementa": "Estabelece normas gerais para a regularização, gestão e modernização da infraestrutura de redes aéreas de serviços públicos e de interesse coletivo, dispõe sobre a remoção de cabos e fiações em desuso, institui diretrizes para a progressiva adoção de redes subterrâneas em áreas urbanas, e altera a Lei nº 9.427, de 26 de dezembro de 1996.",
-      "data": "2026-04-06T11:29",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613378"
-    },
     {
       "id": 2613995,
       "tipo": "EMP",
@@ -42,9 +33,88 @@
       "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências",
       "data": "2026-04-22T15:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617638"
+    },
+    {
+      "id": 2621038,
+      "tipo": "EMP",
+      "numero": 23,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências",
+      "data": "2026-05-05T11:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621038"
+    },
+    {
+      "id": 2621082,
+      "tipo": "PL",
+      "numero": 2166,
+      "ano": 2026,
+      "ementa": "Dispõe sobre critérios para o enquadramento de minerais estratégicos no âmbito da Política Nacional de Minerais Críticos e Estratégicos e dá outras providências.",
+      "data": "2026-05-05T12:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621082"
+    },
+    {
+      "id": 2621323,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Lei da Dignidade Sexual; altera o Decreto-Lei nº 2.848/1940 (Código Penal), a Lei nº 7.210/1984 (Lei de Execução Penal), a Lei nº 8.069/1990 (Estatuto da Criança e do Adolescente), a Lei nº 8.072/1990 (Lei dos Crimes Hediondos), a Lei nº 10.406/2002 (Código Civil), e dá outras providências.",
+      "data": "2026-05-05T15:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621323"
+    },
+    {
+      "id": 2621552,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Determina a obrigatoriedade de imposição de penas restritivas de direitos aos condenados por crimes de pedofilia.",
+      "data": "2026-05-05T17:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621552"
+    },
+    {
+      "id": 2622034,
+      "tipo": "EMP",
+      "numero": 41,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências",
+      "data": "2026-05-05T20:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622034"
+    },
+    {
+      "id": 2622164,
+      "tipo": "EMP",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Altera o art. 2º do Projeto de Lei nº 3.984 de 2025, para elevar a pena do crime de estupro de vulnerável, previsto no art. 217-A do Código Penal.",
+      "data": "2026-05-06T13:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622164"
+    },
+    {
+      "id": 2622388,
+      "tipo": "EMP",
+      "numero": 68,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T17:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622388"
+    },
+    {
+      "id": 2622516,
+      "tipo": "EMP",
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Institui a Lei da Dignidade Sexual, altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), a Lei nº 10.406, 10 de janeiro de 2002 (Código Civil), e dá outras providências.",
+      "data": "2026-05-06T19:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622516"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-05T19:32",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. EVAIR VIEIRA DE MELO (Bloco/REPUBLICANOS - ES. Pela ordem. Sem revisão do orador.) - Eu quero fazer um apelo a V.Exa. para que acione o Presidente da Casa, Hugo Motta, para que ele dê início à O",
+      "transcricao": "O SR. EVAIR VIEIRA DE MELO (Bloco/REPUBLICANOS - ES. Pela ordem. Sem revisão do orador.) - Eu quero fazer um apelo a V.Exa. para que acione o Presidente da Casa, Hugo Motta, para que ele dê início à Ordem do Dia. Nós compramos passagens caras, que estão um absurdo  é um roubo o valor das passagens aéreas , para que nós possamos nos deslocar até Brasília. Além dos eleitores, deixamos as nossas famílias, o nosso lar, para vir aqui fazer votações importantes. Já são quase 20 horas da noite, mas ainda não foi aberta a Ordem do Dia. Isso é um desrespeito aos eleitores. As pessoas estão devendo, estão desempregadas, e o Brasil precisa produzir. Nós precisamos entregar propostas legislativas para recuperar a credibilidade deste País. Este Parlamento, quando não abre a Ordem do Dia às 20 horas praticamente, pactua com a insegurança jurídica. As pessoas não sabem mais, porque isso é um absurdo. Então, peço a V.Exa. que faça um apelo ao Presidente Hugo Motta para que dê início à Ordem do Dia nesta Casa. Nós temos votações importantes inclusive sobre os minerais críticos, um assunto da pauta extremamente importante que está na Ordem do Dia. Então, fica o meu apelo para que a Ordem do Dia seja iniciada imediatamente. Obrigado."
+    },
     {
       "data": "2026-04-28T19:20",
       "fase": "Breves Comunicações",

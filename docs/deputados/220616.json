@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220616.jpg",
-  "score": 31.31,
-  "rank": 172,
+  "score": 29.55,
+  "rank": 160,
   "proposicoes": [
     {
       "id": 2617510,
@@ -33,9 +33,25 @@
       "ementa": "Regulamenta dispositivos das Leis nº 10.486, de 4 de julho de 2002, e nº 11.134, de 15 de julho de 2005, assegura direitos remuneratórios e previdenciários aos policiais militares e bombeiros militares oriundos do antigo Distrito Federal, e dá outras providências.",
       "data": "2026-04-28T18:21",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619182"
+    },
+    {
+      "id": 2621062,
+      "tipo": "EMP",
+      "numero": 7,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Redução de Acidentes de Fauna.",
+      "data": "2026-05-05T11:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621062"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-05T16:40",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LUCIANO VIEIRA (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente. Presidente, quero registrar aqui o envio de uma emenda para o Município de Mangaratiba, a pedido ",
+      "transcricao": "O SR. LUCIANO VIEIRA (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente. Presidente, quero registrar aqui o envio de uma emenda para o Município de Mangaratiba, a pedido do Vereador Daniel Vasconcellos, que faz um excelente trabalho na cidade; do Secretário de Saúde e do Vice-Prefeito, que junto com o Prefeito Luiz Cláudio estão fazendo uma grande gestão. Encaminhei esta emenda na área da saúde para ajudar os moradores de Mangaratiba, que tanto precisam. Obrigado, Presidente."
+    },
     {
       "data": "2026-04-28T19:20",
       "fase": "Breves Comunicações",

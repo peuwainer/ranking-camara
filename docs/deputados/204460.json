@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg",
-  "score": 38.12,
-  "rank": 52,
+  "score": 39.44,
+  "rank": 23,
   "proposicoes": [
     {
       "id": 2613995,
@@ -42,15 +42,56 @@
       "ementa": "Altera os arts. 213 e 217-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para aumentar as penas dos crimes de estupro e de estupro de vulnerável.",
       "data": "2026-05-04T16:43",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620885"
+    },
+    {
+      "id": 2622070,
+      "tipo": "PL",
+      "numero": 2203,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha) e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para definir a caracterização da violência vicária, de modo a abranger qualquer dos genitores ou responsável legal como vítima indireta.",
+      "data": "2026-05-06T11:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622070"
+    },
+    {
+      "id": 2622164,
+      "tipo": "EMP",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Altera o art. 2º do Projeto de Lei nº 3.984 de 2025, para elevar a pena do crime de estupro de vulnerável, previsto no art. 217-A do Código Penal.",
+      "data": "2026-05-06T13:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622164"
+    },
+    {
+      "id": 2622291,
+      "tipo": "EMP",
+      "numero": 60,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T16:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622291"
     }
   ],
   "discursos": [
     {
-      "data": "2026-04-29T14:08",
+      "data": "2026-05-05T14:32",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. CARLOS JORDY (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, respondendo o Deputado que me antecedeu, quero dizer que nós votamos para soltar criminosos hediondos quando votamos ",
+      "transcricao": "O SR. CARLOS JORDY (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, respondendo o Deputado que me antecedeu, quero dizer que nós votamos para soltar criminosos hediondos quando votamos a dosimetria dos presos por conta do 8 de janeiro. Essa balela de vocês não convence ninguém. Quem votou contra o aumento do tempo de permanência de criminosos hediondos na prisão foram vocês. Inclusive, estupradores e estupradores de crianças vão ficar menos tempo na prisão porque vocês votaram contra o projeto. Vocês votaram contra também a castração química de estupradores. Seu nome está aqui, Deputado. Está aqui na lista de Deputados que votaram contra a castração química de estupradores. Então, não tenta trazer aqui ilações, não tenta trazer aqui afirmações falsas, porque quem coloca digital para proteger bandido, estuprador, pedófilo, são vocês."
+    },
+    {
+      "data": "2026-05-05T14:24",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. CARLOS JORDY (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu só para fazer uma correção aqui. Eu falei agora na tribuna que nenhum Deputado do PSOL, do PT, da Esquerda se mani",
+      "transcricao": "O SR. CARLOS JORDY (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu só para fazer uma correção aqui. Eu falei agora na tribuna que nenhum Deputado do PSOL, do PT, da Esquerda se manifestou sobre o estupro coletivo dessas duas crianças de 7 e 10 anos. Minto. Hoje, a Deputada do PSOL, Fernanda Melchionna, foi às suas redes para falar a respeito. Ela falou: \"Estarrecedor o caso do estupro coletivo de duas crianças, uma de 7 e outra de 10 anos, que foi descoberto porque a família reconheceu as vítimas em um vídeo nas redes sociais, divulgado pelos próprios abusadores. Até quando as big techs vão deixar circular esse tipo de conteúdo chocante e criminoso em prol do lucro? É inaceitável! É por isso que quando falamos de regulamentar as redes sociais, estamos falando de proteger as crianças. A Internet não pode ser terra sem lei e plataforma que impulsiona crimes hediondos. Minha solidariedade às famílias\". Ela está de sacanagem, só pode estar de brincadeira a Fernanda Melchionna, fazendo politicagem, defendendo regulamentação de redes sociais, quando ela deveria estar defendendo a redução da maioridade penal contra esses criminosos. Isto aqui é um absurdo."
+    },
+    {
+      "data": "2026-05-05T14:16",
       "fase": "Breves Comunicações",
       "tipo": "BREVES COMUNICAÇÕES",
-      "resumo": "O SR. CARLOS JORDY (PL - RJ. Sem revisão do orador.) - Muito obrigado, Sr. Presidente. Está acontecendo agora, no Senado Federal, a sabatina de Jorge Bessias para o Supremo Tribunal Federal, indicado ",
-      "transcricao": "O SR. CARLOS JORDY (PL - RJ. Sem revisão do orador.) - Muito obrigado, Sr. Presidente. Está acontecendo agora, no Senado Federal, a sabatina de Jorge Bessias para o Supremo Tribunal Federal, indicado do Lula. De acordo com a Constituição, para o exercício desse cargo tem que ter reputação ilibada e notório saber jurídico. Os defensores do Bessias dizem que ele tem currículo, que ele preenche esses requisitos. Bom, eu trouxe aqui um pouco do currículo do Bessias para que nós possamos avaliar se realmente ele está apto para assumir esse cargo. Messias ficou conhecido, aliás, o Bessias ficou conhecido na Lava-Jato porque ele recebeu uma ligação da Dilma para que ele levasse o papel para Lula, o termo de posse para Lula fugir da Justiça, o office boy da Dilma. Depois, já na AGU, ele também ficou conhecido, agora, na fraude do INSS, por ter bloqueado recursos de sindicatos que estavam roubando aposentados. Mas ele deixou de fora dois sindicatos, aliás, ele deixou alguns dos amigos, mas deixou dois em especial, o Sindinapi, que é o sindicato do irmão do Lula, e a CONTAG, que é presidida por um petista. Também, Bessias, recentemente, deu declarações dizendo que ele foi o responsável pela prisão dos manifestantes do 8 de janeiro. Ele ligou pessoalmente para Ministro Alexandre de Moraes e pediu a prisão e ainda se gabou disso. Por fim, Bessias, ele deu um parecer favorável à assistolia fetal para aborto de bebês, mesmo após 5 meses de gestação. A assistolia fetal é um método cruel, em que se coloca uma injeção no coração da criança, no coração do bebê, e coloca cloreto de potássio. A criança agoniza, sofre e morre. E esse cara ainda tem a cara de pau de dizer que é evangélico, cristão. Uma ova! A religião de Bessias é esse desgoverno, a religião de Bessias é o PT! Aliás, Messias está lá dando declarações e se contradizendo, dizendo que não foi bem assim, que não foi isso que ele falou. É impressionante! Todos que chegam lá ficam mansinhos, gatinhos, mas, depois que colocam a toga, depois que sobem para o Supremo Tribunal Federal, viram leões da ditadura. Com Messias não será diferente, Messias é um capacho do Lula. Messias será o fortalecimento da ditadura. Hoje, nós temos um Supremo Tribunal Federal dividido entre aqueles que querem as investigações do escândalo do Banco Master e aqueles que querem blindagem, aqueles que querem proteger os seus, dentre eles, Dino e Zanin, que foram indicados por Lula, e o próprio Ministro Alexandre de Moraes. E vocês acham que qual será a posição de Messias caso ele se sente na cadeira de Ministro do Supremo Tribunal Federal? É evidente que ele vai ser o capacho do Lula. É evidente que ele será mais um a perseguir os adversários de Lula e a promover a censura. Por isso, hoje, é dia de pedir aos Senadores que rejeitem Jorge Messias! Aqueles que votarem favoravelmente merecem a lata do lixo da história. Messias não!"
+      "resumo": "O SR. CARLOS JORDY (PL - RJ. Sem revisão do orador.) - Muito obrigado, Sr. Presidente. Sr. Presidente, Srs. Deputados, na semana passada, vimos um dos crimes mais chocantes e repugnantes de que já tiv",
+      "transcricao": "O SR. CARLOS JORDY (PL - RJ. Sem revisão do orador.) - Muito obrigado, Sr. Presidente. Sr. Presidente, Srs. Deputados, na semana passada, vimos um dos crimes mais chocantes e repugnantes de que já tive conhecimento. Já vi muita coisa bizarra, macabra, mas nada se compara a esse estupro coletivo de dois meninos pobres, dois meninos de periferia: um de 7 anos e outro de 10 anos. Esses meninos foram estuprados, foram violentados por cinco marginais, por cinco vagabundos: um adulto e quatro adolescentes. Eles estavam jogando bola, inocentemente, como toda criança deveria fazer em paz, e foram atraídos para uma armadilha. Esses cinco criminosos chamaram essas crianças para soltar pipa e os levaram para uma armadilha, levaram-nos para uma casa, onde cometeram atos terríveis, terríveis, que é até difícil descrever. Eu mesmo fiquei traumatizado com o que ouvi, porque nem consegui ver aquelas cenas. Os gritos de horror, os gritos de socorro que aquelas crianças faziam, pedindo que aqueles marginais parassem, enquanto aqueles vagabundos riam, aquilo me traumatizou. Imaginem o quanto isso não traumatizou essas crianças! E sabem o que é mais engraçado? Aliás, irônico, isso não é engraçado. É que isso escancara um grave problema que temos no nosso País, escancara também a hipocrisia de alguns. Recordo-me de que, recentemente, quando houve aquele caso do cão Orelha, um caso trágico, em que aqueles menores também de classe média alta, que devem ser responsabilizados e punidos na forma da lei, com cadeia, a Esquerda, os Deputados da Esquerda, todos falaram a respeito disso, todos se manifestaram. Eu vi aqui, por exemplo: \"Deputados do PSOL apresentam uma série de ações após morte do cão Orelha\". A Janja! \"Janja reage à morte do cão Orelha e cobra investigação\". Agora você sabe quantos desses fizeram algum pronunciamento sobre esse caso dos meninos violentados? Nenhum deles! Ninguém! A Janja não foi nas redes sociais. Os Deputados e as Deputadas do PSOL não falaram, nem os do PT. Aliás, uma do PSOL hoje falou, mas eu vou deixar isso para depois. Eu também me recordo de outro fato. Lembram aquela operação no Rio de Janeiro em que diversos vagabundos tentaram atentar contra a vida de policiais e foram mortos com o rigor da lei? Nós vimos aqui os Deputados do PT, Deputados do PSOL, todos saindo em defesa desses criminosos. Olha a CNN: \"Deputados governistas do Rio criticam a operação e anunciam visita ao Alemão\". Alguém visitou a família dessas crianças que morreram assassinadas, aliás, que morreram não, que foram estupradas violentamente por esses marginais? Alguém foi visitar as famílias dessas crianças? Ninguém foi até agora. E Lula chama de matança e de desastrosa a megaoperação no Rio de Janeiro. Alguém viu Lula falando a respeito disso? Alguém viu Lula falando sobre o estupro dessas crianças de 7 e 10 anos? Dois meninos pobres de periferia, dois meninos que tinham toda uma infância pela frente e tiveram sua inocência retirada, arrancada à força por marginais. Ele não falou nada até agora. Sabe por quê? Porque esses meninos não valem nada para eles. A vida de um cachorro ou a vida de marginais, de traficantes vale mais que a vida dessas crianças aqui. Essas crianças, para Lula, para a Esquerda, não existem, são invisíveis, porque o que vale para eles é a narrativa. E eles sabem que, se falarem sobre esse caso do estupro coletivo de dois meninos que já viviam em vulnerabilidade social, dois meninos que viviam em comunidade, filhos de catadores de latinha, se eles falam sobre isso, vão trazer o debate sobre a redução da maioridade penal, que eles são contra. O nosso candidato à Presidência Flávio Bolsonaro já disse que, se for eleito, ele vai votar favoravelmente e vai usar o seu prestígio para aprovar a redução da maioridade penal no Congresso Nacional. Mas nós não podemos esperar. Isso tem que acontecer neste ano. Saiu uma pesquisa hoje da Real Time Big Data dizendo que 90% da população é favorável à redução da maioridade penal. Esses criminosos que fizeram isso não têm ressocialização. Essas pessoas são amargas, têm um coração duro, aliás, um coração macabro. Peço 30 segundos para concluir, Sr. Presidente. Eles têm um coração macabro, não têm ressocialização. Eles vão ficar no máximo 3 anos internados com medida socioeducativa e depois terão os seus nomes limpos, prontos para cometer novos abusos e viver uma vida como se nada tivesse acontecido. Agora, esses dois garotos aqui estão marcados para o resto das suas vidas com um trauma que ninguém vai conseguir apagar. Chega de hipocrisia! Vamos votar a redução da maioridade penal já!"
     },
     {
       "data": "2026-04-16T11:40",

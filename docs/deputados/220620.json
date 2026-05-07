@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220620.jpg",
-  "score": 28.62,
-  "rank": 244,
+  "score": 26.5,
+  "rank": 254,
   "proposicoes": [
     {
       "id": 2613830,
@@ -35,7 +35,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616618"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-05T19:20",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. ROSÂNGELA REIS (PL - MG. Sem revisão da oradora.) - Sr. Presidente, Sras. Deputadas, Srs. Deputados, venho a esta tribuna não apenas como Deputada Federal, mas como uma pessoa que tem uma sensi",
+      "transcricao": "A SRA. ROSÂNGELA REIS (PL - MG. Sem revisão da oradora.) - Sr. Presidente, Sras. Deputadas, Srs. Deputados, venho a esta tribuna não apenas como Deputada Federal, mas como uma pessoa que tem uma sensibilidade muito grande em relação à vigilância privada, composta por profissionais que merecem respeito, que trabalham dia após dia, que buscam o sustento das suas famílias e que precisam ser valorizados porque, por meio de suas profissões, defendem este País. Vocês são aqueles que estão presentes quando muitos nem sequer percebem. Estão nos bancos, nos hospitais, nas escolas, nos comércios, protegendo vidas, patrimônios e garantindo que o Brasil continue funcionando. Enquanto muitos descansam, vocês estão de pé. Enquanto muitos passam despercebidos, vocês estão atentos e, muitas vezes, sem o reconhecimento que merecem. Isso precisa mudar. A segurança privada não é um serviço qualquer; é um pilar da ordem, da proteção e da liberdade. E liberdade só existe quando há segurança. Por isso, a minha luta é por valorização salarial; melhores condições de trabalho; reconhecimento legal e institucional; fortalecimento da categoria; e proteção da vida de cada um de vocês. Tenho muito orgulho de estar nesta Casa, defendendo esta que é uma causa justa. Vocês não pedem privilégio; vocês pedem respeito. E respeito começa com políticas públicas sérias, com leis que protejam quem protege e com uma sociedade que reconheça o valor de cada profissional. Quero dizer a todos os vigilantes do nosso País que vocês não estão sozinhos. Existem vozes que os defendem neste Congresso. Hoje, nós temos na pauta o Projeto de Lei nº 5.744, de 2023, que endurece as penas para crimes de homicídio e lesão corporal contra profissionais da segurança privada. Eu tive a honra de ser Relatora desse projeto na Comissão de Legislação Participativa, Presidente, e gostaria de solicitar aos nobres pares que votassem favoravelmente a ele. Vamos unir esforços para proteger a vida de quem tanto nos protege! Muito obrigada, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a fiscalizar os rompimentos de barragens, em especial acompanhar a repactuação do acordo de Mariana e a reparação do crime de Brumadinho",

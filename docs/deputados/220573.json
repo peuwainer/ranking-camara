@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220573.jpg",
-  "score": 17.19,
-  "rank": 455,
+  "score": 16.19,
+  "rank": 461,
   "proposicoes": [
     {
       "id": 2618146,
@@ -42,6 +42,15 @@
       "ementa": "Institui o Dia Nacional de combate à Malária e da Campanha Permanente de Prevenção e Controle.",
       "data": "2026-04-23T15:42",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618150"
+    },
+    {
+      "id": 2621041,
+      "tipo": "PL",
+      "numero": 2162,
+      "ano": 2026,
+      "ementa": "Altera o Código de Processo Civil para autorizar a intimação por meio eletrônico do devedor de alimentos.",
+      "data": "2026-05-05T11:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621041"
     }
   ],
   "discursos": [],

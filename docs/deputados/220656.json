@@ -4,45 +4,9 @@
   "partido": "PSD",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220656.jpg",
-  "score": 30.29,
-  "rank": 188,
+  "score": 24.02,
+  "rank": 322,
   "proposicoes": [
-    {
-      "id": 2613477,
-      "tipo": "PL",
-      "numero": 1601,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a responsabilidade objetiva quanto aos golpes de natureza financeira.",
-      "data": "2026-04-06T15:30",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613477"
-    },
-    {
-      "id": 2613488,
-      "tipo": "PL",
-      "numero": 1602,
-      "ano": 2026,
-      "ementa": "Institui o Circuito Nordestino de Quadrilhas Juninas, inclui o evento no Calendário Oficial do Ministério do Turismo, e dá outras providências.",
-      "data": "2026-04-06T15:51",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613488"
-    },
-    {
-      "id": 2613489,
-      "tipo": "PL",
-      "numero": 1603,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a proteção a dublagem no Brasil.",
-      "data": "2026-04-06T15:52",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613489"
-    },
-    {
-      "id": 2613490,
-      "tipo": "PL",
-      "numero": 1604,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a manutenção do plano de saúde após o falecimento do titular.",
-      "data": "2026-04-06T15:53",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613490"
-    },
     {
       "id": 2618180,
       "tipo": "PL",
@@ -62,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620766"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-05T15:16",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. FERNANDA PESSOA (Bloco/PSD - CE. Sem revisão da oradora.) - Sr. Presidente, Sras. e Srs. Parlamentares, subo hoje nesta tribuna para tratar de um tema de extrema relevância social: o Projeto de",
+      "transcricao": "A SRA. FERNANDA PESSOA (Bloco/PSD - CE. Sem revisão da oradora.) - Sr. Presidente, Sras. e Srs. Parlamentares, subo hoje nesta tribuna para tratar de um tema de extrema relevância social: o Projeto de Lei nº 185/2024, que dispõe sobre a aposentadoria especial para os agentes comunitários de saúde e os agentes de combate às endemias. Estamos falando, Srs. e Sras. Deputadas, de uma categoria que está na linha de frente do cuidado com a nossa população. São profissionais que entram nas casas, que conhecem de perto a realidade das famílias, que enfrentam sol forte, chuvas, longas caminhadas e muitas vezes condições insalubres para garantir prevenção, orientação e saúde para o povo brasileiro. São, sem dúvidas, um dos pilares do nosso sistema de saúde. Desde o início da minha vida pública tenho militado pela valorização dos agentes de saúde e endemias. Conheço de perto a luta dessa categoria, suas dificuldades e, acima de tudo, a grandeza do serviço que prestam. Por isso, não poderia deixar de manifestar meu apoio firme a esse projeto. O PL 185/2024 vem corrigir uma injustiça histórica. Reconhecer o direito à aposentadoria especial é reconhecer que esses profissionais estão expostos a riscos permanentes, é garantir dignidade após anos de dedicação e, sobretudo, fazer justiça com quem cuida da saúde de milhares de brasileiros. Valorizar os agentes de saúde não é apenas uma questão de reconhecimento, é uma estratégia inteligente de fortalecimento da atenção básica, de prevenção de doença e de promoção da qualidade de vida. Neste momento, já são quatro pedidos de urgência que ainda não foram apreciados, mais de 200 requerimentos de diversos partidos para a inclusão na pauta. Eu tenho certeza que o nosso Presidente Hugo Motta, pela sua sensibilidade e compromisso com a população, avançará com esse projeto. Os agentes de saúde e de combate às endemias merecem cada vez mais nosso respeito, nosso reconhecimento e direitos assegurados. Eu agradeço, Sr. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

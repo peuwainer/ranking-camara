@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204526.jpg",
-  "score": 24.34,
-  "rank": 354,
-  "proposicoes": [],
+  "score": 23.42,
+  "rank": 337,
+  "proposicoes": [
+    {
+      "id": 2621114,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Institui no Calendário Nacional o dia 09 de janeiro como data de combate à Perfídia.",
+      "data": "2026-05-05T12:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621114"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-04-28T18:04",

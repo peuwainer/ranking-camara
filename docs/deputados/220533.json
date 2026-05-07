@@ -4,27 +4,9 @@
   "partido": "PV",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220533.jpg",
-  "score": 30.03,
-  "rank": 198,
+  "score": 28.38,
+  "rank": 189,
   "proposicoes": [
-    {
-      "id": 2613476,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre a obrigatoriedade de inclusão de conteúdos relacionados à inteligência artificial no currículo da educação básica.",
-      "data": "2026-04-06T14:28",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613476"
-    },
-    {
-      "id": 2613479,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Institui o Estatuto do Estudante da Educação Básica Pública.",
-      "data": "2026-04-06T14:30",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613479"
-    },
     {
       "id": 2617746,
       "tipo": "SBT",
@@ -33,6 +15,24 @@
       "ementa": "Dispõe sobre a obrigatoriedade de realização de visitas regulares ao dentista como requisito para a manutenção e concessão de benefícios sociais, cria a Caderneta Odontológica, estabelece exigência para matrícula escolar e dá outras providências.",
       "data": "2026-04-22T15:11",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617746"
+    },
+    {
+      "id": 2622346,
+      "tipo": "PL",
+      "numero": 2231,
+      "ano": 2026,
+      "ementa": "Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para dispor sobre a obrigatoriedade do fornecimento de Auxílio-Alimentação e sua natureza indenizatória.",
+      "data": "2026-05-06T17:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622346"
+    },
+    {
+      "id": 2622349,
+      "tipo": "PL",
+      "numero": 2232,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção e Apoio às Mães Solo e estabelece diretrizes para a integração de políticas públicas voltadas à promoção da dignidade, autonomia e proteção social dessas famílias.",
+      "data": "2026-05-06T17:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622349"
     }
   ],
   "discursos": [

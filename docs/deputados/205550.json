@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/205550.jpg",
-  "score": 28.63,
-  "rank": 243,
+  "score": 26.87,
+  "rank": 233,
   "proposicoes": [
     {
       "id": 2616838,
@@ -36,6 +36,12 @@
       "sigla": "CDC",
       "cargo": "Titular",
       "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
+      "sigla": "CIDOSO",
+      "cargo": "Titular",
+      "desde": "2026-05-05T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/205550/votacoes-nominais-plenario/2026"

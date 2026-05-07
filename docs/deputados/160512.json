@@ -4,8 +4,8 @@
   "partido": "SOLIDARIEDADE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
-  "score": 43.85,
-  "rank": 22,
+  "score": 41.74,
+  "rank": 15,
   "proposicoes": [
     {
       "id": 2614899,
@@ -69,6 +69,42 @@
       "ementa": "Altera a redação do inciso VII, do art. 6º, da Lei nº 10.826, de 2003, autorizando o porte de arma para os Oficiais de Justiça.",
       "data": "2026-04-29T18:52",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620136"
+    },
+    {
+      "id": 2622291,
+      "tipo": "EMP",
+      "numero": 60,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T16:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622291"
+    },
+    {
+      "id": 2622388,
+      "tipo": "EMP",
+      "numero": 68,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T17:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622388"
+    },
+    {
+      "id": 2622401,
+      "tipo": "EMP",
+      "numero": 71,
+      "ano": 0,
+      "ementa": "Emenda modificativa de Plenário ao PL 2780/2024",
+      "data": "2026-05-06T17:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622401"
+    },
+    {
+      "id": 2622455,
+      "tipo": "EMP",
+      "numero": 85,
+      "ano": 0,
+      "ementa": "Emenda supressiva de Plenário ao PL 2780/2024",
+      "data": "2026-05-06T18:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622455"
     }
   ],
   "discursos": [],

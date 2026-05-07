@@ -4,10 +4,27 @@
   "partido": "PCdoB",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74295.jpg",
-  "score": 20.57,
-  "rank": 413,
-  "proposicoes": [],
+  "score": 21.07,
+  "rank": 391,
+  "proposicoes": [
+    {
+      "id": 2622408,
+      "tipo": "EMP",
+      "numero": 73,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T17:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622408"
+    }
+  ],
   "discursos": [
+    {
+      "data": "2026-05-05T18:52",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. INÁCIO ARRUDA (Bloco/PCdoB - CE. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, há uma situação estranha nesta Casa. Com tantos problemas importantes no País, e a gente fica a",
+      "transcricao": "O SR. INÁCIO ARRUDA (Bloco/PCdoB - CE. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, há uma situação estranha nesta Casa. Com tantos problemas importantes no País, e a gente fica aqui num debate minúsculo. Impressionam, Patrus, esses tempos. Que tempos são esses? Então, eu tenho que trazer para o debate algo estratégico. Para o desenvolvimento do nosso País, está em debate, está em discussão no mundo, a importância de minerais estratégicos, chamados de críticos. Nem sei como é que chegaram a essa formulação de críticos! Mas se trata de minerais estratégicos, responsáveis pelo novo salto tecnológico que o mundo alcança. Esse é o debate que tem de estar aqui. Nós tínhamos de estar discutido qual é a legislação que vai proteger o nosso País, vai permitir que a gente faça a extração dos minerais, que a gente processe os minerais e que a gente os venda. Qual é o papel nosso? Qual é o papel da engenharia, da física, da matemática do nosso País? Para que a gente possa ter um conjunto de empresas capazes de entrar na produção, para não deixar o País refém, para não deixar o País ser colonizado mais uma vez, tendo que transformar esses minerais em mais uma commodity para a exportação, in natura, sem processar, sem agregar valor, sem gerar emprego, sem gerar riqueza no nosso País. Vamos debater esses temas! Não vamos, de cara, anunciar que nós vamos entregar aos americanos. É um absurdo! Como é que você tem uma pessoa que se coloca na posição de disputar o Governo do País, a Presidência da República, viaja aos Estados Unidos e anuncia: Eu vou resolver para vocês esse problema dos minerais estratégicos, para vocês enfrentarem outro país, para vocês poderem enfrentar a China. E eles precisam da gente para enfrentar a China? Sinceramente, que tipo, que tipo é esse? Vamos discutir e debater aqui. Essa é a hora, está na pauta nossa. Esse é um tema central. Vamos discutir também o nosso papel, o papel de um Congresso Nacional, de uma Câmara dos Deputados, de um Senado da República, Sr. Presidente, capaz de compreender o que temos que fazer, quanto é necessário investir. Lembro bem quando discutíamos a 5ª Conferência Nacional de Ciência e Tecnologia e o Presidente convocou o Ministério, os pesquisadores, as cientistas e os cientistas brasileiros para o tema da Inteligência Artificial, para que a gente pudesse construir uma Inteligência Artificial ligada aos interesses do povo brasileiro. É essa a iniciativa, esse que é o Presidente, capaz de compreender que a gente tem que ter domínio em uma área estratégica. No caso dos minerais também. Aqui é uma área estratégica. Vamos debater! Vamos discutir! Eu não quero trocar os nossos minerais por favores, não quero trocar nossos minerais estratégicos por nenhuma gorjeta que beneficie um mandatário de plantão. Isso é vergonhoso. Eu quero discutir qual é o papel nosso. A Sociedade Brasileira para o Progresso da Ciência está se colocando à disposição, a Academia Brasileira de Ciências está se colocando à disposição. Então, nós temos que sentar com a inteligência brasileira e fazer o melhor projeto que proteja o Brasil e não nos coloque apenas (Desligamento do microfone.)"
+    },
     {
       "data": "2026-04-28T21:16",
       "fase": "Ordem do Dia",

@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160548.jpg",
-  "score": 50.56,
-  "rank": 7,
+  "score": 44.36,
+  "rank": 9,
   "proposicoes": [
     {
       "id": 2614015,
@@ -177,6 +177,69 @@
       "ementa": "Torna obrigatória a inspeção das bagagens despachadas em voos domésticos.",
       "data": "2026-04-28T18:40",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619282"
+    },
+    {
+      "id": 2622072,
+      "tipo": "PL",
+      "numero": 2204,
+      "ano": 2026,
+      "ementa": "Aperfeiçoa o Código de Processo Civil para dispor sobre o recolhimento do preparo recursal em dobro como forma de regularização, assegurando a possibilidade de comprovação posterior.",
+      "data": "2026-05-06T11:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622072"
+    },
+    {
+      "id": 2622073,
+      "tipo": "PL",
+      "numero": 2205,
+      "ano": 2026,
+      "ementa": "Explicita a obrigação de ressarcimento ao Instituto Nacional do Seguro Social (INSS) pelo autor de feminicídio, incluindo valores pagos a título de pensão por morte aos dependentes da vítima, reforçando a responsabilização do agressor pelos custos previdenciários decorrentes da violência.",
+      "data": "2026-05-06T11:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622073"
+    },
+    {
+      "id": 2622183,
+      "tipo": "EMP",
+      "numero": 49,
+      "ano": 0,
+      "ementa": "Emenda ao Substitutivo ao PL 2780, de 2024, que \"Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T14:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622183"
+    },
+    {
+      "id": 2622252,
+      "tipo": "EMP",
+      "numero": 55,
+      "ano": 0,
+      "ementa": "Emenda ao Substitutivo apresentado ao PL 2780, de 2024, que \"Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.\"",
+      "data": "2026-05-06T16:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622252"
+    },
+    {
+      "id": 2622414,
+      "tipo": "EMP",
+      "numero": 77,
+      "ano": 0,
+      "ementa": "Emenda ao Substitutivo apresentando ao PL 2780, de 2024, que \"Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.\"",
+      "data": "2026-05-06T17:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622414"
+    },
+    {
+      "id": 2622415,
+      "tipo": "EMP",
+      "numero": 78,
+      "ano": 0,
+      "ementa": "Emenda ao Substitutivo apresentando ao PL 2780, de 2024, que \"Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.\"",
+      "data": "2026-05-06T17:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622415"
+    },
+    {
+      "id": 2622464,
+      "tipo": "EMP",
+      "numero": 86,
+      "ano": 0,
+      "ementa": "Emenda ao Substitutivo apresentando ao PL 2780, de 2024, que \"Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.\"",
+      "data": "2026-05-06T18:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622464"
     }
   ],
   "discursos": [

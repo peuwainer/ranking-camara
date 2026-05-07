@@ -4,10 +4,28 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
-  "score": 28.82,
-  "rank": 235,
-  "proposicoes": [],
-  "discursos": [],
+  "score": 26.53,
+  "rank": 249,
+  "proposicoes": [
+    {
+      "id": 2621569,
+      "tipo": "PL",
+      "numero": 2182,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a criação do Sistema Integrado de Alerta de Proximidade (SIAP), mediante aplicativo de dispositivos móveis, para o monitoramento em tempo real de agressores sob medida protetiva com uso de tornozeleira eletrônica, e dá outras providências",
+      "data": "2026-05-05T17:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621569"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-05-05T17:56",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ADILSON BARROSO (PL - SP. Pela ordem. Sem revisão do orador.) - Meu Presidente, é com enorme alegria que eu estou recebendo aqui hoje a Deputada Estadual de São Paulo Fabiana Bolsonaro. É uma ho",
+      "transcricao": "O SR. ADILSON BARROSO (PL - SP. Pela ordem. Sem revisão do orador.) - Meu Presidente, é com enorme alegria que eu estou recebendo aqui hoje a Deputada Estadual de São Paulo Fabiana Bolsonaro. É uma honra e um prazer recebê-la aqui em nosso plenário. Quero dizer à Deputada Fabiana que seja bem-vinda a esta Casa. Estamos juntos. Até aqui tem trazido o Senhor."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Representação Brasileira no Parlamento do Mercosul",

@@ -4,45 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-  "score": 57.88,
-  "rank": 2,
+  "score": 42.21,
+  "rank": 13,
   "proposicoes": [
-    {
-      "id": 2613451,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação  do Projeto de Lei nº 2.6772025, na forma do substitutivo.",
-      "data": "2026-04-06T14:46",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613451"
-    },
-    {
-      "id": 2613455,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação deste e do Projeto de Lei nº 1.488/2024, apensado, com substitutivo.",
-      "data": "2026-04-06T13:46",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613455"
-    },
-    {
-      "id": 2613502,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL 3.540/2024.",
-      "data": "2026-04-06T14:13",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613502"
-    },
-    {
-      "id": 2613506,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL 3.709/2025.",
-      "data": "2026-04-06T14:16",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613506"
-    },
     {
       "id": 2613699,
       "tipo": "SBT",
@@ -240,23 +204,18 @@
       "ementa": "Institui o Programa Reintegra Brasil para acolhimento e reintegração de brasileiros natos ou naturalizados retornados ao país, e dá outras providências.",
       "data": "2026-04-27T11:34",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618548"
+    },
+    {
+      "id": 2621757,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação, com substitutivo.",
+      "data": "2026-05-05T15:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621757"
     }
   ],
   "discursos": [
-    {
-      "data": "2026-04-29T18:20",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "A SRA. ROGÉRIA SANTOS (Bloco/REPUBLICANOS - BA. Pela ordem. Sem revisão da oradora.) - Minha Presidente, que alegria tê-la nesta cadeira! Que esta imagem se repita várias vezes nesta Casa. Aproveitand",
-      "transcricao": "A SRA. ROGÉRIA SANTOS (Bloco/REPUBLICANOS - BA. Pela ordem. Sem revisão da oradora.) - Minha Presidente, que alegria tê-la nesta cadeira! Que esta imagem se repita várias vezes nesta Casa. Aproveitando o ensejo da fala, eu quero apresentar e ao mesmo tempo receber com muito carinho na Casa os Vereadores da Bahia: a nossa querida Vereadora Laurinda, de Ibipitanga; a Vereadora republicana Solineide, do Sertão de Curaçá, no norte da Bahia; e o nosso querido Vereador Cezão, também da cidade de Curaçá. Eles aproveitaram a Marcha dos Vereadores, que está acontecendo aqui em Brasília, para virem ao nosso gabinete trazer as demandas das suas cidades, muito bem representadas por cada um deles. Muito obrigada, Presidente."
-    },
-    {
-      "data": "2026-04-29T14:52",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "A SRA. ROGÉRIA SANTOS (Bloco/REPUBLICANOS - BA. Pela ordem. Sem revisão da oradora.) - Muito obrigada, Sr. Presidente. É sempre um prazer enorme ter V.Exa. conosco. Eu gostaria de aproveitar este 1 mi",
-      "transcricao": "A SRA. ROGÉRIA SANTOS (Bloco/REPUBLICANOS - BA. Pela ordem. Sem revisão da oradora.) - Muito obrigada, Sr. Presidente. É sempre um prazer enorme ter V.Exa. conosco. Eu gostaria de aproveitar este 1 minuto para anunciar a visita aqui do nosso querido Vereador da cidade de São Sebastião do Passé Gugu da Palmeira, um jovem talento que tem colocado o seu trabalho, a sua disposição e a sua juventude em prol daquela grande cidade, não é isso, Gugu? E tem feito uma grande diferença na vida de cada munícipe. Muito obrigada, Sr. Presidente."
-    },
     {
       "data": "2026-04-08T16:04",
       "fase": "Breves Comunicações",

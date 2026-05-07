@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220653.jpg",
-  "score": 31.76,
-  "rank": 155,
+  "score": 29.34,
+  "rank": 169,
   "proposicoes": [
     {
       "id": 2614037,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996, e a Lei nº 8.069, de 13 de julho de 1990, para estabelecer medidas de controle, fiscalização e responsabilização relativas aos dispositivos eletrônicos para fumar, com foco na proteção da saúde pública, especialmente de crianças e adolescentes, e no combate ao mercado ilegal desses produtos.",
       "data": "2026-04-27T19:14",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618722"
+    },
+    {
+      "id": 2622057,
+      "tipo": "PL",
+      "numero": 2201,
+      "ano": 2026,
+      "ementa": "Institui o Token de Maioridade Digital no âmbito da plataforma gov.br e estabelece obrigações para sítios eletrônicos que disponibilizem conteúdo adulto na internet.",
+      "data": "2026-05-06T11:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622057"
     }
   ],
   "discursos": [],

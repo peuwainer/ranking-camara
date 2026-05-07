@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
-  "score": 22.28,
-  "rank": 390,
+  "score": 21.84,
+  "rank": 372,
   "proposicoes": [
     {
       "id": 2615994,
@@ -15,6 +15,15 @@
       "ementa": "Inclui os artigos 18-G e 18-H ao texto da Lei Complementar nº 123, de 14 de dezembro de 2006, para dispor sobre limite de receita bruta aplicável ao motorista autônomo que exerça atividade de transporte remunerado privado individual e coletivo de passageiros.",
       "data": "2026-04-14T17:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615994"
+    },
+    {
+      "id": 2622760,
+      "tipo": "PL",
+      "numero": 2250,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.279, de 14 de maio de 1996, que regula direitos e obrigações relativos à propriedade industrial, para dispor sobre a patente em biotecnologia de caráter autorreplicável em sistemas produtivos agrícolas, e dá outras providências.",
+      "data": "2026-05-06T20:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622760"
     }
   ],
   "discursos": [

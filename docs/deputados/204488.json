@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204488.jpg",
-  "score": 24.75,
-  "rank": 346,
+  "score": 22.71,
+  "rank": 358,
   "proposicoes": [
     {
       "id": 2617577,
@@ -51,6 +51,24 @@
       "ementa": "Dispõe sobre a adoção de medidas que assegurem a circulação segura de animais silvestres no território nacional, com a redução de acidentes envolvendo pessoas e animais nas estradas, rodovias e ferrovias brasileiras",
       "data": "2026-04-22T14:14",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617585"
+    },
+    {
+      "id": 2621062,
+      "tipo": "EMP",
+      "numero": 7,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Redução de Acidentes de Fauna.",
+      "data": "2026-05-05T11:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621062"
+    },
+    {
+      "id": 2622041,
+      "tipo": "EMP",
+      "numero": 44,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T10:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622041"
     }
   ],
   "discursos": [

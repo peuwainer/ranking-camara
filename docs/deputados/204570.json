@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204570.jpg",
-  "score": 27.54,
-  "rank": 285,
+  "score": 24.93,
+  "rank": 302,
   "proposicoes": [
     {
       "id": 2617781,
@@ -42,6 +42,15 @@
       "ementa": "Dispõe sobre a inclusão de noções de Direito Constitucional e Administração Pública no currículo do ensino médio das redes pública e privada de ensino em todo o território nacional, e dá outras providências.",
       "data": "2026-04-29T16:42",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620060"
+    },
+    {
+      "id": 2621671,
+      "tipo": "PL",
+      "numero": 2197,
+      "ano": 2026,
+      "ementa": "Estabelece normas gerais para regulamentar a oferta do transporte escolar aos estudantes das redes públicas de educação básica.",
+      "data": "2026-05-05T19:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621671"
     }
   ],
   "discursos": [],

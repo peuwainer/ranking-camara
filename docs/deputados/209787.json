@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/209787.jpg",
-  "score": 31.09,
-  "rank": 176,
+  "score": 30.88,
+  "rank": 115,
   "proposicoes": [
-    {
-      "id": 2613459,
-      "tipo": "PL",
-      "numero": 1600,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 10.753, de 31 de outubro de 2003, para dispor sobre a indicação de faixa etária recomendada em obras destinadas ao público infantojuvenil.",
-      "data": "2026-04-06T14:54",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613459"
-    },
     {
       "id": 2614411,
       "tipo": "PL",
@@ -42,6 +33,24 @@
       "ementa": "Altera a Lei nº 14.597, de 14 de junho de 2023, Lei Geral do Esporte, para dispor sobre a prevenção e o enfrentamento ao abuso, ao assédio e à exploração sexual no esporte.",
       "data": "2026-04-29T15:24",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620008"
+    },
+    {
+      "id": 2621608,
+      "tipo": "PL",
+      "numero": 2189,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.171, de 17 de janeiro de 1991, para vedar, nos procedimentos de defesa agropecuária, a exigência de prazo de validade para produto industrializado não alimentício de origem animal ou vegetal quando inexistente perda de funcionalidade ou risco decorrente de decurso do tempo.",
+      "data": "2026-05-05T17:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621608"
+    },
+    {
+      "id": 2622097,
+      "tipo": "PRC",
+      "numero": 26,
+      "ano": 2026,
+      "ementa": "Altera os arts. 113 e 115 do Regimento Interno da Câmara dos Deputados para prever indicações e solicitações de informação administrativa dirigidas a órgãos do Poder Judiciário, do Ministério Público, da Defensoria Pública e dos Tribunais de Contas.",
+      "data": "2026-05-06T12:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622097"
     }
   ],
   "discursos": [

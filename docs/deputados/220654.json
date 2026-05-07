@@ -4,54 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220654.jpg",
-  "score": 45.62,
-  "rank": 14,
+  "score": 39.63,
+  "rank": 22,
   "proposicoes": [
-    {
-      "id": 2613562,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre a inabilitação para o exercício de atividade empresarial quando a empresa for utilizada como meio para a prática de crime organizado.",
-      "data": "2026-04-06T15:39",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613562"
-    },
-    {
-      "id": 2613572,
-      "tipo": "SBT",
-      "numero": 3,
-      "ano": 0,
-      "ementa": "Estabelece a exigência de tornar acessíveis os dados dos antecedentes criminais de terceiros armazenados nos sistemas de órgãos públicos para consulta pelas entidades de defesa, assistência e proteção dos direitos da mulher, e adota outras providências.",
-      "data": "2026-04-06T15:41",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613572"
-    },
-    {
-      "id": 2613579,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Cria o art. 288-B do Código Penal para tipificar a conduta de construir, manter ou utilizar túnel subterrâneo destinado à fuga, depósito de armas, munições, drogas ou à facilitação de atividades de organização criminosa, estabelecendo pena de reclusão e multa.",
-      "data": "2026-04-06T15:44",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613579"
-    },
-    {
-      "id": 2613611,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre a cessão de créditos inscritos em precatório por servidores dos órgãos de segurança pública para pagamentos de financiamentos imobiliários.",
-      "data": "2026-04-06T16:09",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613611"
-    },
-    {
-      "id": 2613615,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Institui pensão especial e indenização compensatória aos dependentes de policiais civis, militares, federais, rodoviários federais e guardas civis municipais falecidos no exercício da função ou em decorrência de ato de serviço em operações de combate ao crime organizado, reconhecendo o caráter essencial das forças de segurança pública e assegurando proteção integral a seus filhos menores.",
-      "data": "2026-04-06T16:11",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613615"
-    },
     {
       "id": 2613807,
       "tipo": "PL",
@@ -78,6 +33,15 @@
       "ementa": "Dispõe sobre a cessão de créditos inscritos em precatório por servidores dos órgãos de segurança pública para pagamentos de financiamentos imobiliários.",
       "data": "2026-04-26T23:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618487"
+    },
+    {
+      "id": 2622291,
+      "tipo": "EMP",
+      "numero": 60,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T16:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622291"
     }
   ],
   "discursos": [

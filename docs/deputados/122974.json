@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/122974.jpg",
-  "score": 21.37,
-  "rank": 400,
+  "score": 23.34,
+  "rank": 341,
   "proposicoes": [
     {
       "id": 2613709,
@@ -24,6 +24,60 @@
       "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
       "data": "2026-04-15T20:31",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616960"
+    },
+    {
+      "id": 2621039,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera os arts. 121 e 129 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), bem como o art. 1º da Lei nº 8.072, de 25 de julho de 1990 (Lei de Crimes Hediondos), para recrudescer o tratamento penal dispensado aos crimes de homicídio e de lesão corporal contra integrante da guarda municipal, e da polícia legislativa, agente de segurança socioeducativo e agente de segurança privada, no exercício da atividade ou em decorrência dela, ou contra seu cônjuge, companheiro ou parente, inclusive por afinidade, até o terceiro grau, em razão dessa condição.",
+      "data": "2026-05-05T11:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621039"
+    },
+    {
+      "id": 2621062,
+      "tipo": "EMP",
+      "numero": 7,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Redução de Acidentes de Fauna.",
+      "data": "2026-05-05T11:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621062"
+    },
+    {
+      "id": 2621643,
+      "tipo": "EMP",
+      "numero": 34,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-05T18:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621643"
+    },
+    {
+      "id": 2622042,
+      "tipo": "EMP",
+      "numero": 45,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T10:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622042"
+    },
+    {
+      "id": 2622315,
+      "tipo": "EMP",
+      "numero": 61,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T17:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622315"
+    },
+    {
+      "id": 2622421,
+      "tipo": "EMP",
+      "numero": 79,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T17:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622421"
     }
   ],
   "discursos": [

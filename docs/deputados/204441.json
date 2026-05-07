@@ -4,18 +4,9 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204441.jpg",
-  "score": 23.39,
-  "rank": 370,
+  "score": 25.64,
+  "rank": 270,
   "proposicoes": [
-    {
-      "id": 2613606,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Autoriza o Poder Executivo a disponibilizar um número telefônico tridígito nacional para atender denúncias de racismo",
-      "data": "2026-04-06T15:42",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613606"
-    },
     {
       "id": 2615000,
       "tipo": "PL",
@@ -24,15 +15,66 @@
       "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para disciplinar o recolhimento em residência particular do condenado com idade igual ou superior a 70 (setenta) anos, e dá outras providências.",
       "data": "2026-04-09T17:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615000"
+    },
+    {
+      "id": 2622094,
+      "tipo": "PL",
+      "numero": 2207,
+      "ano": 2026,
+      "ementa": "Dispõe Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 — Código Penal, e a Lei nº 8.069, de 13 de julho de 1990 — Estatuto da Criança e do Adolescente, para aumentar a pena dos crimes contra a dignidade sexual e dos crimes sexuais contra criança ou adolescente quando praticados por ministro de confissão religiosa, líder religioso ou pessoa que exerça função equivalente, prevalecendo-se dessa condição.",
+      "data": "2026-05-06T12:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622094"
     }
   ],
   "discursos": [
     {
-      "data": "2026-04-29T18:04",
-      "fase": "Ordem do Dia",
+      "data": "2026-05-05T19:48",
+      "fase": "Breves Comunicações",
       "tipo": "PELA ORDEM",
-      "resumo": "O SR. OTONI DE PAULA (Bloco/PSD - RJ. Pela ordem. Sem revisão do orador.) - O bloco encaminha \"não\", Presidente. Eu quero aproveitar este momento para fazer uma denúncia ao povo do Estado do Rio de Ja",
-      "transcricao": "O SR. OTONI DE PAULA (Bloco/PSD - RJ. Pela ordem. Sem revisão do orador.) - O bloco encaminha \"não\", Presidente. Eu quero aproveitar este momento para fazer uma denúncia ao povo do Estado do Rio de Janeiro. Essa turma ligada ao Cláudio Castro é tão hábil na arte de meter a mão no bolso do povo carioca e fluminense que agora, diante de um governador austero que fez com que a roubalheira acabasse, o Douglas Ruas, que é candidato a governador, agora criou uma nova forma de meter a mão no bolso do povo carioca e fluminense: está criando o orçamento secreto do Douglas Ruas. Sim, ele vai aumentar  eles querem aumentar  em quatro vezes as emendas, o poder de emenda parlamentar. Ou seja, vai dividir para os Deputados da Alerj, já que a mamata foi cortada pelo Desembargador Ricardo Couto. Essa turma gosta de roubar. Alô, Polícia Federal, de olho no Douglas Ruas e na quadrilha do Cláudio Castro, patrocinada pelo Senador Flávio Bolsonaro, lembrando isso."
+      "resumo": "O SR. OTONI DE PAULA (Bloco/PSD - RJ. Pela ordem. Sem revisão do orador.) - Não há mais como este Parlamento adiar. Não há mais como. Temos que encarar o tema da redução da maioridade penal. Não é pos",
+      "transcricao": "O SR. OTONI DE PAULA (Bloco/PSD - RJ. Pela ordem. Sem revisão do orador.) - Não há mais como este Parlamento adiar. Não há mais como. Temos que encarar o tema da redução da maioridade penal. Não é possível o que nós estamos assistindo diante dos nossos olhos. Homens que parecem que são tratados como crianças pela sua idade, 16 anos, 17 anos, cometendo as mais terríveis barbaridades, estuprando, violentando. Nós não podemos neste Parlamento ficar sem fazer nada. Precisamos reduzir a maioridade penal, nem que seja para os crimes hediondos. O que nós não podemos fazer é tratar verdadeiros monstros e moleques como se fossem crianças. Para esses não é o ECA, é cadeia."
+    },
+    {
+      "data": "2026-05-05T17:56",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. OTONI DE PAULA (Bloco/PSD - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, com que alegria nós estamos recebendo, Deputada Jandira Feghali, nobres servidores do nosso Estado: o Sr. Ed",
+      "transcricao": "O SR. OTONI DE PAULA (Bloco/PSD - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, com que alegria nós estamos recebendo, Deputada Jandira Feghali, nobres servidores do nosso Estado: o Sr. Eduardo Mendes, representando a Fazenda; o Sr. Fernando Lima, representando a Fundação Anita Mantuano de Artes do Estado do Rio de Janeiro  Funarj, da cultura; o Sr. Roberto Carlos, representando o Fórum Permanente de Servidores Públicos do Estado do Rio de Janeiro  Fosperj; e o Dr. Leonardo Afonso, representando o Sindicato dos Delegados. Todos terrivelmente preocupados com o que vai ser julgado amanhã, que é a redistribuição dos royalties de petróleo, um direito garantido pela Constituição aos Estados produtores. Esse é o caso do Rio de Janeiro. Agora querem nos roubar esse direito, dizendo que esse não é um direito só do Rio, esse é um direito do Brasil inteiro. Caso amanhã o Supremo Tribunal Federal resolva redistribuir os royalties, simplesmente o Supremo estará decretando a falência fiscal, econômica e social do Rio de Janeiro. Por isso, nós estamos todos mobilizados, Deputados de direita, de esquerda, porque essa luta não é ideológica, essa luta é para salvar o Rio."
+    },
+    {
+      "data": "2026-05-05T17:48",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. OTONI DE PAULA (Bloco/PSD - RJ. Sem revisão do orador.) - Sr. Presidente, o Brasil tem visto circulando na Internet vídeos de homens violentos, raivosos, agredindo mulheres com palavras, dizendo",
+      "transcricao": "O SR. OTONI DE PAULA (Bloco/PSD - RJ. Sem revisão do orador.) - Sr. Presidente, o Brasil tem visto circulando na Internet vídeos de homens violentos, raivosos, agredindo mulheres com palavras, dizendo-se no direito de usar o banheiro das mulheres. Eu estou falando do que se convencionou chamar antigamente de travesti, hoje de mulher trans, mas que é o mesmo travesti. Enfim, os vídeos são os mais violentos possíveis. Nós vimos o constrangimento pelo qual passou a atriz Cássia Kiss, que se sentiu agredida, ofendida na sua intimidade, violada na sua intimidade, por ter um homem biológico no banheiro. Ele grita, humilha, liga a câmera. Infelizmente eu tenho que subir nesta tribuna para dizer que há uma certa coerência nos trans em quererem usar o banheiro de nossas mulheres, mães e filhas. E por que isso? Porque isso tudo está acontecendo por uma decisão errônea, errada, do Supremo Tribunal Federal, que em 2018 permitiu que, para as pessoas que tivessem uma visão de que possuíam outro sexo sem ser o biológico, bastaria mudar de nome e de sexo com uma simples autodeclaração, não precisando de laudo psicológico, não precisando de decisão judicial e nem de cirurgia. Eu, que sou homem, de repente acordo me sentindo mulher, basta eu ir ao cartório e dizer: \"Eu sou agora Otona. Eu me chamo Otona\". Eu mudo o nome, Otona, e, pronto, acabou, eu vou usar o banheiro da mulher. É isso que está acontecendo. Aqui não vai nenhuma palavra homofóbica, não. Aqui vai um homem lutando pelo direito da intimidade da mulher de usar o seu banheiro sem se sentir agredida e violentada. Em 2018, nós achamos bonitinho: \"O que que tem o Paulo se chamar Paula, o João se chamar Joana?\" Se a pessoa se sente mulher, é mulher. Agora, nós estamos vendo o preço que nós estamos pagando por essa decisão errônea da Suprema Corte. São homens querendo dividir a intimidade com nossas mulheres. Agora, o erro está na mulher. Quem diz que defende a mulher, se cala, dizendo que o homem que se sente mulher tem o mesmo direito daquela que realmente nasceu mulher."
+    },
+    {
+      "data": "2026-05-05T17:20",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. OTONI DE PAULA (Bloco/PSD - RJ. Sem revisão do orador.) - Tem hora que dá vergonha de ser Deputado nesta Casa. Propor tantas leis para proteger as nossas mulheres, pensar e lutar pela vida delas",
+      "transcricao": "O SR. OTONI DE PAULA (Bloco/PSD - RJ. Sem revisão do orador.) - Tem hora que dá vergonha de ser Deputado nesta Casa. Propor tantas leis para proteger as nossas mulheres, pensar e lutar pela vida delas, colocar os violentadores, os estupradores e os feminicidas na cadeia, e a gente se deparar com um número assustador: 307 mil processos contra homens que cometeram violência contra a mulher foram arquivados no Brasil porque a Justiça foi lenta demais. Sim! Enquanto isso, essas mulheres, as vítimas, estão sendo destruídas psicologicamente, emocionalmente, carregando a marca de violências emocionais e, muitas vezes, muitas vezes, de violência física em seus corpos. Isso é vergonhoso! Isso é vergonhoso! São 307 mil canalhas que estão andando livres pelas ruas do Brasil porque a Justiça foi morosa, foi lenta. Do que adiantam as leis que aprovamos nesta Casa se nós temos um processo judicial que trabalha contra a vida de nossas mulheres? Enquanto quem agrediu, espancou, violentou, estuprou está livre, as vítimas estão trancadas e presas com medo, aguardando eles, que estão soltos, voltarem  os predadores voltarem! E se voltarem, dessa vez pode não ser só o enforcamento, um tapa, um arranhão, uma facada, um soco, um estupro. Da próxima vez, pode ser fatal. Aí, eu pergunto: quem vai responder por este crime? Com certeza, a justiça será conivente pela morte desta mulher."
+    },
+    {
+      "data": "2026-05-05T16:52",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. OTONI DE PAULA (Bloco/PSD - RJ. Pela ordem. Sem revisão do orador.) - Nós aprovamos corajosamente, nesta Casa, o Cadastro Nacional de Pedófilos e Predadores Sexuais. Foi um avanço, a sociedade a",
+      "transcricao": "O SR. OTONI DE PAULA (Bloco/PSD - RJ. Pela ordem. Sem revisão do orador.) - Nós aprovamos corajosamente, nesta Casa, o Cadastro Nacional de Pedófilos e Predadores Sexuais. Foi um avanço, a sociedade aplaudiu, mas, após 6 meses, o Ministério da Justiça e o CNJ não transformaram o que foi aprovado nesta Casa, por um clamor popular, em exposição pública os nomes desses marginais, desses monstros pedófilos, estupradores, predadores sexuais em realidade. É impressionante! Parece que o Ministério da Justiça e o CNJ não querem a exposição desses marginais, desses vagabundos. E qual é a mensagem que o Ministério da Justiça está passando para esses monstros? Podem continuar estuprando mulheres e crianças, porque os seus nomes serão resguardados. Seus nomes não vão constar em aberto na sociedade. Vai continuar correndo o processo em segredo de justiça. Isso é uma vergonha, é uma vergonha! É uma vergonha perceber que a resistência para a formatação do Cadastro Nacional de Pedófilos e Predadores Sexuais vem da própria Justiça. Será que é porque muitos desses predadores e pedófilos são desembargadores, juízes, políticos? Será que é isso? Será que esse é o medo, porque na classe dominante deste País se pratica a pedofilia, se pratica a violência sexual, o estupro contra mulheres? Eu faço um apelo ao Presidente Luiz Inácio Lula da Silva desta tribuna: Presidente Lula, exija que o Ministério da Justiça torne o Cadastro Nacional de Pedófilos e Predadores Sexuais realidade! Esta também será uma vitória do Governo de V.Exa.! Do contrário, V.Exa. será acusado por mim, por mim, desta tribuna, de conivência, ao não permitir o Cadastro Nacional de Pedófilos e de Predadores Sexuais. E eu sei que V.Exa., que é pai, que é avô, que é marido, não concorda com isso!"
+    },
+    {
+      "data": "2026-05-05T16:16",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. OTONI DE PAULA (Bloco/PSD - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o Rio de Janeiro aguarda com expectativa o julgamento marcado para amanhã  e se trata de um julgamento defi",
+      "transcricao": "O SR. OTONI DE PAULA (Bloco/PSD - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o Rio de Janeiro aguarda com expectativa o julgamento marcado para amanhã  e se trata de um julgamento definitivo  sobre a Lei nº 12.734, de 2012, que altera a distribuição dos royalties de petróleo. Trata-se de uma lei absurda porque tira do Rio de Janeiro aquilo que pertence a ele, que é a compensação do royalty de petróleo, distribuindo para todo o Brasil aleatoriamente, ou seja, os riscos ambientais continuam com o Rio de Janeiro, e quem não sofre nenhum risco ambiental ou que não produz sequer petróleo vai receber os royalties. Eu espero que, amanhã, haja um julgamento justo, porque o julgamento de amanhã, se for contrário ao Rio de Janeiro, é a falência do Estado do Rio de Janeiro."
+    },
+    {
+      "data": "2026-05-05T15:56",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. OTONI DE PAULA (Bloco/PSD - RJ. Sem revisão do orador.) - O ex-Governador Cláudio Castro fez um vídeo tentando me responder por que ele ficou magoadinho por eu ter dito, em entrevista à BBC, que",
+      "transcricao": "O SR. OTONI DE PAULA (Bloco/PSD - RJ. Sem revisão do orador.) - O ex-Governador Cláudio Castro fez um vídeo tentando me responder por que ele ficou magoadinho por eu ter dito, em entrevista à BBC, que quem quebrou o Rio foi a Direita, e não a Esquerda. O Governador fez um contorcionismo retórico, dando a entender que o único Governador de direita no Rio foi ele, e que todo o resto foi de esquerda. Então, eu vou corrigir, eu vou corrigir, porque eu sou um cara humilde. Eu vou refazer a minha fala: nenhum Governador foi mais corrupto do que o Governador Claudinho Lalau. E eu pergunto para o Governador Claudinho Lalau: Você é de direita ou é de esquerda? É de direita. E mais: Você não é só de direita, não. O seu Governo foi bolsonarista. Aliás, eu acho que não foi com o Bolsonaro que você aprendeu a meter a mão no bolso do povo brasileiro, ou melhor, do povo carioca e do povo fluminense. Eu acho que o Bolsonaro não lhe ensinou isso. Talvez a sua parceria com o Senador Flávio Bolsonaro possa ter tido alguma coisa nesse sentido, agora, com Bolsonaro, não. Agora, preste atenção. Você é a prova, Cláudio Castro, Claudinho Lalau, que, para ser vagabundo, não precisa ser de Direita ou de Esquerda, só precisa não ter caráter. Foi no seu Governo, de Direita e bolsonarista, que foi armado um dos maiores esquemas de corrupção para promover a sua reeleição na Fundação Ceperj. O Ministério Público do Rio de Janeiro identificou o seu esquema, com mais de 27 mil funcionários fantasmas, que iam buscar dinheiro na boca do caixa! A sua quadrilha, Claudio Castro, Claudinho Lalau, acabou com o dinheiro da Cedae! Vocês torraram o dinheiro da Cedae! No seu Governo teve esquema de corrupção em quase todas as secretarias. O Deputado Estadual, Thiago Rangel, foi preso esta manhã, fazendo o quê? A Polícia Federal descobriu o quê? Roubando na secretaria, na sua Secretaria de Educação, Claudinho Lalau! E aí você vem dar uma de moralista, direitista, bolsonarista! Olha só, deixa eu só lhe falar só uma coisa. Você citou o nome, nesse seu videozinho, do Deputado Luiz Paulo Corrêa da Rocha. Lave a boca, lave a sua boca para falar do Deputado Luiz Paulo Corrêa da Rocha, uma das luzes morais da Assembleia Legislativa! Outra coisa, para tentar me provocar, tentou dizer que eu era um político, que era de Direita, e que agora sou de Esquerda. Claudinho Lalau, você não me ofende fabricando fake news, não, nem me chamando de esquerdista. Você não me ofende. Eu quero olhar nos seus olhos aqui, desta tribuna, e dizer-lhe uma coisa: me chame de corrupto, me chame de corrupto! Faça um vídeo dizendo que eu sou corrupto, porque eu lhe chamo de ladrão e quadrilheiro do bolsonarismo!"
     },
     {
       "data": "2026-04-28T19:04",

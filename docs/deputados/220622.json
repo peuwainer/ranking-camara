@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220622.jpg",
-  "score": 36.81,
-  "rank": 59,
+  "score": 34.32,
+  "rank": 62,
   "proposicoes": [
     {
       "id": 2613852,
@@ -42,6 +42,24 @@
       "ementa": "Dispõe sobre a incorporação da técnica de crioablação para o tratamento do câncer de mama no âmbito do Sistema Único de Saúde (SUS)",
       "data": "2026-04-24T10:06",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618371"
+    },
+    {
+      "id": 2622117,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a criação do “Programa de Medicina preventiva Escolar”, por meio da articulação entre o Programa de Saúde da Família – PSF e o Programa Saúde na Escola – PSE e do fortalecimento do Programa Mais Médicos para o Brasil.",
+      "data": "2026-05-06T10:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622117"
+    },
+    {
+      "id": 2622122,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre normas de segurança para mobiliário e equipamentos em instituições de educação infantil e ensino fundamental, visando prevenir acidentes com crianças, e dá outras providências",
+      "data": "2026-05-06T10:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622122"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220544.jpg",
-  "score": 29.33,
-  "rank": 219,
+  "score": 26.86,
+  "rank": 235,
   "proposicoes": [],
   "discursos": [
     {
@@ -53,12 +53,6 @@
       "sigla": "CSAUDE",
       "cargo": "Titular",
       "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Comunicação",
-      "sigla": "CCOM",
-      "cargo": "Titular",
-      "desde": "2026-02-05T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220544/votacoes-nominais-plenario/2026"

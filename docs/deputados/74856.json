@@ -4,18 +4,9 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
-  "score": 71.73,
+  "score": 64.53,
   "rank": 1,
   "proposicoes": [
-    {
-      "id": 2613436,
-      "tipo": "PL",
-      "numero": 1599,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, que dispõe sobre os Planos de Benefícios da Previdência Social, para isentar de carência a concessão de salário-maternidade.",
-      "data": "2026-04-06T14:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613436"
-    },
     {
       "id": 2613666,
       "tipo": "SBT",
@@ -303,9 +294,140 @@
       "ementa": "Altera o Decreto-Lei no 2.848, de 7 de dezembro de 1940 - Código Penal, a Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, e a Lei nº 12.965, de 23 de abril de 2014 - Marco Civil da Internet, para aumentar as penas e criar dispositivos legais específicos para punir severamente a chantagem e outros crimes cibernéticos cometidos contra crianças e adolescentes.",
       "data": "2026-04-29T15:54",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620083"
+    },
+    {
+      "id": 2621561,
+      "tipo": "EMP",
+      "numero": 27,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-05T17:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621561"
+    },
+    {
+      "id": 2621605,
+      "tipo": "EMP",
+      "numero": 29,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-05T17:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621605"
+    },
+    {
+      "id": 2621615,
+      "tipo": "EMP",
+      "numero": 31,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-05T18:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621615"
+    },
+    {
+      "id": 2621624,
+      "tipo": "EMP",
+      "numero": 32,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-05T18:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621624"
+    },
+    {
+      "id": 2621627,
+      "tipo": "EMP",
+      "numero": 33,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-05T18:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621627"
+    },
+    {
+      "id": 2621653,
+      "tipo": "EMP",
+      "numero": 35,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-05T19:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621653"
+    },
+    {
+      "id": 2621655,
+      "tipo": "EMP",
+      "numero": 36,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-05T19:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621655"
+    },
+    {
+      "id": 2621656,
+      "tipo": "EMP",
+      "numero": 37,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-05T19:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621656"
+    },
+    {
+      "id": 2622040,
+      "tipo": "EMP",
+      "numero": 43,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T10:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622040"
+    },
+    {
+      "id": 2622058,
+      "tipo": "PL",
+      "numero": 2202,
+      "ano": 2026,
+      "ementa": "Acrescenta o art. 3º-A à Lei nº 12.845, de 1º de agosto de 2013, para garantir às vítimas de violência sexual atendimento preferencial pela autoridade policial, pelo Ministério Público e pela Defensoria Pública",
+      "data": "2026-05-06T11:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622058"
+    },
+    {
+      "id": 2622169,
+      "tipo": "EMP",
+      "numero": 47,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T14:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622169"
+    },
+    {
+      "id": 2622170,
+      "tipo": "EMP",
+      "numero": 48,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T14:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622170"
+    },
+    {
+      "id": 2622389,
+      "tipo": "EMP",
+      "numero": 69,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T17:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622389"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-06T11:20",
+      "fase": "Homenagem",
+      "tipo": "HOMENAGEM",
+      "resumo": "A SRA. LAURA CARNEIRO (Bloco/PSD - RJ. Sem revisão da oradora.) - Sr. Presidente Hugo Motta, Sra. Luana Mota, que são os anfitriões desse dia, Presidente Alcolumbre, Presidente Edson Fachin, meu Minis",
+      "transcricao": "A SRA. LAURA CARNEIRO (Bloco/PSD - RJ. Sem revisão da oradora.) - Sr. Presidente Hugo Motta, Sra. Luana Mota, que são os anfitriões desse dia, Presidente Alcolumbre, Presidente Edson Fachin, meu Ministro querido José Guimarães, Presidente Michel Temer, Deputado Lafayette de Andrada, que durante esses 2 anos trabalhou diuturnamente para que nós tivéssemos essa comemoração no dia de hoje, Srs. Líderes, e saúdo a todos na pessoa do Deputado Antônio Brito, senhores sempre Presidentes João Paulo Cunha, Arlindo Chinaglia, Marco Maia, Eduardo Cunha, Waldir Maranhão e meu irmão Rodrigo Maia, meu querido Deputado Rodrigo Maia, Deputados, sempre Deputados Federais nesta Casa, Srs. Deputados que ainda neste momento estão no mandato, e eu saúdo todos na pessoa do nosso decano, Deputado Átila Lins, senhoras e senhores convidados do dia de hoje que nos acompanham nessa homenagem para celebrar 200 anos, não apenas do exercício de memória, isso não é apenas um exercício de memória, mas é o balanço da nossa identidade como Nação. Desde 1826, esses corredores testemunharam a transição do Império para a República, enfrentaram períodos muito sombrios, Presidente Hugo Motta, e foram palco também da reconstrução da nossa democracia. Em todo esse processo, eu queria destacar a conquista do voto feminino, Luana, que no Brasil não foi uma concessão, mas uma conquista árdua, fruto da persistência de mulheres que se recusaram a aceitar o silêncio. E aqui vale recordar personalidades como Nísia Floresta, escritora, educadora, poetisa brasileira, reconhecida como pioneira no feminismo no Brasil, que já no século XIX apontava qual era o caminho. Além dela, Deputada Katarina, tivemos também a Bióloga Bertha Lutz, cuja liderança na Federação Brasileira pelo Progresso Feminino foi decisiva para que, em 1932, o Código Eleitoral finalmente reconhecesse o nosso direito de votar e de sermos votadas. Deputada Dani Cunha, só éramos votadas se casadas e se os nossos maridos autorizassem; ou, se viúvas ou se solteiras, tivéssemos, Deputada Luana, os recursos necessários, renda própria. Isso perdurou até o Código Eleitoral de 1934. E, mesmo assim, o voto era facultativo; o voto ainda não era obrigatório, ou seja, era obrigatório para os homens e facultativo para as mulheres. Não esqueçamos, por fim, de Celina Guimarães Viana, que no Rio Grande do Norte, em 1928, junto com outras vinte mulheres, se inscreveu  Presidente Michel Temer , para votar. Elas votaram, e o Senado anulou os seus votos; mas estavam lutando, desejavam participar e pulsava isso no Nordeste brasileiro. Também tivemos Carlota Pereira de Queirós, nossa primeira Deputada Federal, Deputada Enfermeira Rejane, em 1934. É claro que foi um dos nossos maiores avanços. Mas o caminho é longo, foi longo e continua longo. Passamos pela conquista do voto no Código Eleitoral de 1932, pelo Estatuto da Mulher Casada, pela Lei do Divórcio, chegamos à Constituinte Cidadã, de Ulysses Guimarães, de Nelson Carneiro  e até eu estava sentadinha aqui atrás, na assessoria técnica. E, nesse momento, alcançamos a igualdade jurídica absoluta  apenas jurídica  entre homens e mulheres. Conquistamos a implantação da Lei de Cotas, um marco fundamental para incentivar a participação das mulheres na política, Deputada Daniela do Waguinho. Seguimos até os dias de hoje  e a partir da Lei Maria da Penha  consolidando as mudanças em favor da mulher brasileira neste Parlamento, com a sua ajuda, Deputado Hugo Motta. Hoje, a nossa Bancada Feminina é uma força suprapartidária, que pauta e aprova leis fundamentais contra a violência doméstica, pela igualdade salarial, pela proteção da infância e por tantos outros temas pertinentes ao nosso universo, que não beneficiam apenas as mulheres, mas toda a sociedade brasileira. Nesse bicentenário, o balanço que faço é um balanço de esperança, mas uma esperança vigilante. A Câmara dos Deputados é o coração da democracia. E um coração só bate, Deputado Fraga, plenamente, quando todos os outros órgãos, Ministro Fachin, também funcionam. Aumentar a presença feminina nesta Casa não é somente uma questão de estatística  até porque já somos a maioria, Deputada Lídice , mas de justiça e eficiência, porque mais mulheres na política significam políticas públicas mais próximas da realidade das famílias brasileiras. Que os próximos 20 anos sejam marcados não apenas pela lembrança de a nossa luta entrar para esta Casa, mas também pela nossa liderança em transformar o Brasil a partir dela. Que avancemos, todos os dias, no fortalecimento da democracia e na garantia de direitos para o povo brasileiro. Parabéns à Câmara dos Deputados! Muito obrigada."
+    },
+    {
+      "data": "2026-05-05T17:28",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. LAURA CARNEIRO (Bloco/PSD - RJ. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, amanhã, o Supremo Tribunal Federal julgará a Lei dos Royalties do Petróleo, que foi suspensa há 13 anos po",
+      "transcricao": "A SRA. LAURA CARNEIRO (Bloco/PSD - RJ. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, amanhã, o Supremo Tribunal Federal julgará a Lei dos Royalties do Petróleo, que foi suspensa há 13 anos por uma liminar da Ministra Cármen Lúcia. Essa lei modificou as regras, para distribuir por todos os Estados os royalties do Rio de Janeiro, de São Paulo e do Amapá, futuramente. Eu queria dizer duas coisas. Primeiro, o ICMS é cobrado no destino, portanto o Brasil inteiro recebe os recursos. Segundo, os royalties não são um benefício e, sim, uma retribuição àquele Estado que sofre os danos ambientais dos royalties. A primeira lei, que é do Senador baiano Nelson Carneiro, foi sendo alterada sem a visão de que nós estávamos prejudicando um Estado ou vários Estados. O Rio de Janeiro, meu querido parceiro do PSD, perde 21 bilhões de reais, trezentos mil empregos só no comércio e nos serviços. Isso significa a falência do nosso Estado e de muitos Municípios. Então, Sr. Presidente, eu venho aqui fazer um apelo ao Supremo Tribunal Federal, para que entenda a inconstitucionalidade definitiva dessa legislação, que foi casuística e não levou em conta o que significam efetivamente os royalties. Por isso, é inconstitucional. Obrigada a V.Exa."
+    },
     {
       "data": "2026-05-04T18:00",
       "fase": "Encerramento",

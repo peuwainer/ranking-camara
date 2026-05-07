@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/166402.jpg",
-  "score": 16.17,
-  "rank": 468,
+  "score": 16.25,
+  "rank": 457,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -26,6 +26,12 @@
       "sigla": "CTUR",
       "cargo": "Titular",
       "desde": "2026-04-29T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Mulher",
+      "sigla": "CMULHER",
+      "cargo": "Suplente",
+      "desde": "2026-05-06T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/166402/votacoes-nominais-plenario/2026"

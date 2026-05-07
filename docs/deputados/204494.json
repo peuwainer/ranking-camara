@@ -4,8 +4,8 @@
   "partido": "PRD",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
-  "score": 20.87,
-  "rank": 405,
+  "score": 20.57,
+  "rank": 401,
   "proposicoes": [
     {
       "id": 2619322,
@@ -15,6 +15,15 @@
       "ementa": "",
       "data": "2026-04-28T22:04",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619322"
+    },
+    {
+      "id": 2621062,
+      "tipo": "EMP",
+      "numero": 7,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Redução de Acidentes de Fauna.",
+      "data": "2026-05-05T11:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621062"
     }
   ],
   "discursos": [

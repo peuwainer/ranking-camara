@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/165470.jpg",
-  "score": 20.49,
-  "rank": 415,
+  "score": 18.11,
+  "rank": 435,
   "proposicoes": [
     {
       "id": 2615512,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei 5.452, de 1º de maio de 1943, e a Lei 8.213, de 24 de julho de 1991, para aperfeiçoar a legislação que trata da aprendizagem, e dá outras providências.",
       "data": "2026-04-17T15:40",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617406"
+    },
+    {
+      "id": 2622388,
+      "tipo": "EMP",
+      "numero": 68,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T17:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622388"
     }
   ],
   "discursos": [],

@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
-  "score": 46.7,
-  "rank": 10,
+  "score": 38.87,
+  "rank": 27,
   "proposicoes": [
-    {
-      "id": 2613360,
-      "tipo": "PL",
-      "numero": 1591,
-      "ano": 2026,
-      "ementa": "Institui a categoria \"Veículo Off-Road de Uso Misto\" no Código de Trânsito Brasileiro, regulamenta a elevação da suspensão de caminhonetes, jipes e veículos utilitários e dá outras providências.",
-      "data": "2026-04-06T10:22",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613360"
-    },
     {
       "id": 2613586,
       "tipo": "PL",
@@ -123,6 +114,15 @@
       "ementa": "Reconhece o Rotary Club do Brasil como Patrimônio Cívico-Social Nacional, em razão de sua histórica contribuição humanitária, educacional e comunitária.",
       "data": "2026-05-04T09:57",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620680"
+    },
+    {
+      "id": 2622050,
+      "tipo": "PL",
+      "numero": 2200,
+      "ano": 2026,
+      "ementa": "Acrescenta o art. 329-A, “caput” e seus parágrafos, ao Decreto-lei Nº 2.848, de 07 de dezembro de 1940 (Código Penal brasileiro), tipificando o crime de resistência contra autoridade policial civil ou militar.",
+      "data": "2026-05-06T11:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622050"
     }
   ],
   "discursos": [

@@ -4,10 +4,46 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204485.jpg",
-  "score": 28.03,
-  "rank": 268,
-  "proposicoes": [],
-  "discursos": [],
+  "score": 28.38,
+  "rank": 188,
+  "proposicoes": [
+    {
+      "id": 2620997,
+      "tipo": "PL",
+      "numero": 2160,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.129, de 29 de março de 2021, para dispor sobre a procuração eletrônica para representação de pessoas físicas e jurídicas para fins de prestação digital de serviços públicos",
+      "data": "2026-05-05T10:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620997"
+    },
+    {
+      "id": 2620999,
+      "tipo": "PL",
+      "numero": 2161,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.820, de 17 de dezembro de 2003, para aperfeiçoar o sistema eletrônico de operacionalização do crédito consignado no setor privado, ampliar a interoperabilidade com o eSocial, simplificar procedimentos e disciplinar a responsabilidade pelo repasse das consignações",
+      "data": "2026-05-05T10:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620999"
+    },
+    {
+      "id": 2621001,
+      "tipo": "PLP",
+      "numero": 124,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2026, para ampliar o limite de receita bruta aplicável ao enquadramento do contribuinte como Microempreendedor Individual – MEI e para dispor sobre a autorregularização de obrigações no âmbito do Simples Nacional.",
+      "data": "2026-05-05T10:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621001"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-05-05T17:16",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. LUIZ CARLOS MOTTA (PL - SP. Sem revisão do orador.) - Obrigado, Sr. Presidente, Otoni de Paula, nobres Parlamentares, brasileiras e brasileiros que nos acompanham, maio é o mês do trabalhador. C",
+      "transcricao": "O SR. LUIZ CARLOS MOTTA (PL - SP. Sem revisão do orador.) - Obrigado, Sr. Presidente, Otoni de Paula, nobres Parlamentares, brasileiras e brasileiros que nos acompanham, maio é o mês do trabalhador. Celebramos em 1º de maio a data magna da classe trabalhadora. Com orgulho, fui convidado para participar da 5ª edição do 1º de Maio dos Comerciários do Estado de São Paulo. O convite foi formulado pela diretoria da federação do Estado de São Paulo, entidade da qual estou temporariamente licenciado, em cumprimento à lei eleitoral. Eu não tenho dúvida de que participei do maior 1º de Maio do Brasil, ao reunir trabalhadores de uma única categoria num único lugar, o Complexo Eco, mantido pela Federação dos Comerciários do Estado de São Paulo, na cidade do interior paulista de Avaré. Estiveram presentes mais de 4 mil comerciários e práticos de farmácia oriundos das bases territoriais dos 72 sindicatos filiados à federação. Por unanimidade, trabalhadoras e trabalhadores aprovaram doze deliberações por empregos, salários, saúde, segurança, direitos e 40 horas já. Asseguro que vou dar os devidos encaminhamentos dessas doze deliberações nesta Casa Legislativa e faço questão de trazer para esta honrosa tribuna a emoção verde e amarela que vivi naquele Dia do Trabalhador, sob o tema A Vitória Vem do Trabalho, isso porque as cores da nossa bandeira estavam estampadas nas camisetas temáticas e tomaram conta da nossa arena multiuso, entregue à categoria dos comerciários nessa data tão festiva. Nossas cores mostraram a nossa unidade enquanto Nação e a força dos comerciários, torcendo por vitórias junto aos direitos trabalhistas e também vitória do nosso Brasil na Copa do Mundo. Em nome da Presidente em exercício da Fecomerciários, Márcia Caldas, parabenizo os responsáveis pela organização desse grandioso e inesquecível 1º de Maio dos Comerciários. Vitória às trabalhadoras e aos trabalhadores brasileiros! Vitória ao Brasil! Salve o 1º de Maio, Dia do Trabalhador! Grato pela atenção, Sr. Presidente, e peço a veiculação deste meu pronunciamento no programa A Voz do Brasil."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",

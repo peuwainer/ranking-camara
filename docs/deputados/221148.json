@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/221148.jpg",
-  "score": 35.39,
-  "rank": 77,
+  "score": 31.8,
+  "rank": 99,
   "proposicoes": [
     {
       "id": 2615189,
@@ -45,6 +45,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-05T17:36",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. ALFREDINHO (Bloco/PT - SP. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, olha, hoje eu fiquei muito contente, muito alegre mesmo, porque nós já temos data para votar aqui neste Plená",
+      "transcricao": "O SR. ALFREDINHO (Bloco/PT - SP. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, olha, hoje eu fiquei muito contente, muito alegre mesmo, porque nós já temos data para votar aqui neste Plenário o fim da jornada 6 por 1. Isso é muito importante. Foi criada a Comissão Especial, presidida pelo Deputado Alencar, e hoje foi apresentado o plano de trabalho, através do Relator Leo Prates. As datas estão definidas tanto das audiências públicas quanto das reuniões aqui da Casa, bem como a data de apresentação do relatório e a data da vinda do projeto para o Plenário. Eu espero que os Deputados e as Deputadas nesta Casa aprovem o fim da jornada 6 por 1. Sabem por quê? Porque em 1988, quando esta Casa votou a Constituição Cidadã, a luta já era pelas 40 horas, e aqui foi aprovada a redução de 4 horas, porque naquele período a jornada era 48 horas semanais e ficou em 44 horas semanais. Pois bem, de 1988 até hoje, 2026, não aconteceu redução de jornada de trabalho. Esta é uma chance que esta Casa não pode desperdiçar. Esta Casa vai fazer história. Os Deputados aqui vão fazer história. Eu sei que neste período agora vão circular muitos empresários trazendo as mesmas justificativas, falando que a redução da jornada de trabalho trará mais custo, trará desemprego. Esse mesmo argumento foi utilizado lá atrás em todas as vezes em que se discutiu jornada de trabalho. Na verdade, o que gera desemprego é exatamente a automatização da produção, a robotização. Isso, sim, provoca desemprego. É só ver as grandes indústrias que nós já tivemos nesse País. É olhar para a Volkswagen, que já teve 40 mil trabalhadores na planta de São Bernardo e hoje tem menos de 8 mil. Tudo isso é provocado por quê? Pela automatização, pela robotização. A redução de jornada não! Ela gera emprego e gera mais oportunidades, porque se obrigada a criar turnos. Isso é fácil de adaptar. Quando a gente implementar uma jornada como a jornada de 40 horas semanais ou 5 por 2, todos os empresários irão se adaptar, como se adaptaram nos países do exterior quando houve redução de jornada, por exemplo. É só olhar o exemplo desses países de fora que tiveram redução de jornada, se isso gerou desemprego, se cresceu a economia ou não. Sr. Presidente, eu queria que esta minha fala no dia de hoje fosse transmitida por todos os meios de comunicação da Casa."
+    },
     {
       "data": "2026-04-08T15:32",
       "fase": "Breves Comunicações",
@@ -87,8 +94,8 @@
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
       "sigla": "PEC22119",
-      "cargo": "Suplente",
-      "desde": "2026-05-04T00:00"
+      "cargo": "Titular",
+      "desde": "2026-05-06T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/221148/votacoes-nominais-plenario/2026"

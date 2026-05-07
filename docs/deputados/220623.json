@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
-  "score": 41.55,
-  "rank": 29,
+  "score": 37.62,
+  "rank": 37,
   "proposicoes": [
     {
       "id": 2616940,
@@ -78,6 +78,24 @@
       "ementa": "Susta os efeitos do Decreto 10.935, de 12 de janeiro de 2022, do Poder Executivo, que dispõe sobre a proteção das cavidades naturais subterrâneas existentes no território nacional.",
       "data": "2026-04-29T20:38",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620238"
+    },
+    {
+      "id": 2621041,
+      "tipo": "PL",
+      "numero": 2162,
+      "ano": 2026,
+      "ementa": "Altera o Código de Processo Civil para autorizar a intimação por meio eletrônico do devedor de alimentos.",
+      "data": "2026-05-05T11:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621041"
+    },
+    {
+      "id": 2622326,
+      "tipo": "EMP",
+      "numero": 62,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T17:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622326"
     }
   ],
   "discursos": [

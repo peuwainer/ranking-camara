@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg",
-  "score": 50.63,
-  "rank": 6,
+  "score": 44.76,
+  "rank": 8,
   "proposicoes": [
     {
       "id": 2613798,
@@ -150,6 +150,51 @@
       "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar as penas dos crimes de homicídio e extorsão quando praticados com a finalidade de suprimir obrigação contratual ou evitar pagamento de comissão ou vantagem econômica lícita; estabelece diretrizes obrigatórias de segurança em contratos de intermediação de negócios de elevado valor econômico; e dá outras providências.",
       "data": "2026-05-04T16:36",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620881"
+    },
+    {
+      "id": 2621539,
+      "tipo": "PL",
+      "numero": 2175,
+      "ano": 2026,
+      "ementa": "Qualifica o crime de furto e majora a pena do crime de roubo quando praticados contra paciente internado, em observação, em atendimento de urgência ou emergência, ou submetido a procedimento de saúde em estabelecimento público ou privado, e dá outras providências, alterando o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 — Código Penal.",
+      "data": "2026-05-05T16:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621539"
+    },
+    {
+      "id": 2622491,
+      "tipo": "PL",
+      "numero": 2247,
+      "ano": 2026,
+      "ementa": "Assegura às pessoas reconhecidamente hipossuficientes a gratuidade da lavratura de escritura pública ou termo declaratório de união estável, do respectivo registro no Registro Civil das Pessoas Naturais, da averbação necessária e da primeira certidão, e dá outras providências, alterando a Lei nº 10.169, de 29 de dezembro de 2000, e a Lei nº 6.015, de 31 de dezembro de 1973.",
+      "data": "2026-05-06T19:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622491"
+    },
+    {
+      "id": 2622500,
+      "tipo": "PLP",
+      "numero": 129,
+      "ano": 2026,
+      "ementa": "Institui o Estatuto dos Royalties - Estabilidade Federativa das Receitas Petrolíferas, estabelece normas de transição fiscal, modulação de impactos financeiros e proteção federativa aos Estados e Municípios produtores de petróleo e gás natural em decorrência de alterações legislativas, administrativas ou judiciais relativas à distribuição de royalties e participações especiais.",
+      "data": "2026-05-06T19:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622500"
+    },
+    {
+      "id": 2622513,
+      "tipo": "PL",
+      "numero": 2248,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Formação Continuada Estratégica dos Docentes da Educação Básica Pública – PROFORMA DOCENTE, altera a Lei nº 9.394, de 20 de dezembro de 1996, para fortalecer a capacitação permanente dos profissionais do magistério público, e dá outras providências.",
+      "data": "2026-05-06T19:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622513"
+    },
+    {
+      "id": 2622515,
+      "tipo": "PL",
+      "numero": 2249,
+      "ano": 2026,
+      "ementa": "Dispõe sobre normas gerais de transparência, segurança, acessibilidade, manutenção preventiva, rastreabilidade técnica e informação obrigatória aos usuários de elevadores, plataformas de elevação, escadas rolantes, esteiras rolantes e demais equipamentos de transporte vertical ou inclinado de pessoas em edificações públicas, privadas de uso coletivo, comerciais, residenciais multifamiliares e de prestação de serviços, e dá outras providências.",
+      "data": "2026-05-06T19:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622515"
     }
   ],
   "discursos": [],

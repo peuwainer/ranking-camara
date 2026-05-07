@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220568.jpg",
-  "score": 33.97,
-  "rank": 108,
+  "score": 32.73,
+  "rank": 82,
   "proposicoes": [
     {
       "id": 2617477,
@@ -15,6 +15,24 @@
       "ementa": "Altera a Lei n º 9.503, de 23 de setembro de 1997, para dispor sobre as sanções por divulgação, por parte do infrator, de condutas infracionais de risco praticadas por ele, nas redes sociais e outros meios de divulgação digitais, eletrônicos ou impressos.",
       "data": "2026-04-22T09:47",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617477"
+    },
+    {
+      "id": 2621323,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Lei da Dignidade Sexual; altera o Decreto-Lei nº 2.848/1940 (Código Penal), a Lei nº 7.210/1984 (Lei de Execução Penal), a Lei nº 8.069/1990 (Estatuto da Criança e do Adolescente), a Lei nº 8.072/1990 (Lei dos Crimes Hediondos), a Lei nº 10.406/2002 (Código Civil), e dá outras providências.",
+      "data": "2026-05-05T15:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621323"
+    },
+    {
+      "id": 2622291,
+      "tipo": "EMP",
+      "numero": 60,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
+      "data": "2026-05-06T16:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622291"
     }
   ],
   "discursos": [

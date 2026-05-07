@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204557.jpg",
-  "score": 33.94,
-  "rank": 109,
+  "score": 31.15,
+  "rank": 111,
   "proposicoes": [
     {
       "id": 2613733,
@@ -27,6 +27,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-05T15:48",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. SIDNEY LEITE (Bloco/PSD - AM. Sem revisão do orador.) - Sr. Presidente. Srs. Deputados, Sras. Deputadas, eu ouvi atentamente a fala do colega que me antecedeu sobre a questão do Desenrola, mas h",
+      "transcricao": "O SR. SIDNEY LEITE (Bloco/PSD - AM. Sem revisão do orador.) - Sr. Presidente. Srs. Deputados, Sras. Deputadas, eu ouvi atentamente a fala do colega que me antecedeu sobre a questão do Desenrola, mas há incidências na economia. Deputado Otoni de Paula, Deputado Helder Salomão, que independem de vontade de Governo. A guerra no Golfo independe da vontade de qualquer governante, assim como as ações climáticas. Hoje o que nós temos de resultado? Temos uma das maiores taxas de juros do mundo, que é, por sinal, maior do que a de países que estão em guerra. Trata-se, Deputado Dr. Zacharias Calil, de uma taxa oficial de 14,5%. Como é que nós vamos combater o endividamento das populações com uma taxa de juros dessa?! Isso é quase impossível! O Banco Central tem, sim, que ter responsabilidade com a taxa de inflação, mas a que custo para o pobre, para o trabalhador brasileiro? Nós vamos pagar este ano 1 trilhão 180 bilhões de reais! Esse é o custo do serviço da dívida. Sr. Presidente, a taxa de juros do cartão de crédito rotativo está fechando em 450% ao ano  450% ao ano! É isso mesmo. Isso é um assalto à mão armada. Este Parlamento não pode aceitar passivamente essa política de taxa de juros do Banco Central, que faz cara de paisagem em pleno século XXI! Nós sabemos onde estoura essa corda. Ela estoura do lado mais fraco, que é o trabalhador. Isso inibe o investimento, causa retração econômica, diminui a venda. Isso é ruim para a economia como um todo. Isso só facilita a vida de quem especula. Isso só facilita a vida do mercado financeiro. O Brasil não pode continuar refém do mercado financeiro. O Banco Central tem que agir e rápido, como também o Governo. Quero aplaudir a decisão de tirar o cartão de crédito consignado, o que é importante, mas essa medida isolada não resolverá. O Desenrola é importante para quem está endividado neste momento, mas nós precisamos reverter a situação. E este Parlamento tem que assumir o papel de fazer isso. Nós não podemos aceitar que países que estão em guerra tenham uma taxa de juros menor do que a do Brasil, que está em crescimento econômico, em quase pleno emprego. A indústria está crescendo, o comércio está crescendo, os serviços estão crescendo, e o Banco Central está adotando uma taxa de juros que é extremamente proibitiva para a grande maioria de quem trabalha, de quem luta e de quem acredita neste País. Solicito que a minha fala seja divulgada nos meios de comunicação desta Casa. Obrigado, Sr. Presidente."
+    },
     {
       "data": "2026-04-28T16:12",
       "fase": "Breves Comunicações",
@@ -107,12 +114,6 @@
       "desde": "2026-02-04T00:00"
     },
     {
-      "nome": "Comissão de Constituição e Justiça e de Cidadania",
-      "sigla": "CCJC",
-      "cargo": "Titular",
-      "desde": "2026-02-09T00:00"
-    },
-    {
       "nome": "Comissão de Educação",
       "sigla": "CE",
       "cargo": "Suplente",
@@ -129,6 +130,18 @@
       "sigla": "PEC22119",
       "cargo": "Suplente",
       "desde": "2026-04-28T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-05-05T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "2º Vice-Presidente",
+      "desde": "2026-05-06T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204557/votacoes-nominais-plenario/2026"
