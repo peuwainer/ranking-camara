@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141516.jpg",
-  "score": 24.36,
-  "rank": 313,
+  "score": 23.9,
+  "rank": 290,
   "proposicoes": [
     {
       "id": 2618047,
@@ -15,6 +15,15 @@
       "ementa": "Altera o artigo 112 da Lei de Execução Penal para repristinar as alterações que lhe haviam sido feitas pela Lei n.º 15.358, de 24 de março de 2026 – Lei Raul Jungmann.",
       "data": "2026-04-23T12:07",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618047"
+    },
+    {
+      "id": 2622911,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera o Código de Processo Civil para garantir que a sustentação oral dos advogados, nos casos em que couber, deve ser feita preferencialmente em sessão presencial, ou, excepcionalmente, por videoconferência, ao vivo, de modo que a comunicação entre partes e julgadores possa ser imediata e direta.",
+      "data": "2026-05-07T11:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622911"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PRD",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204427.jpg",
-  "score": 25.86,
-  "rank": 269,
+  "score": 29.35,
+  "rank": 107,
   "proposicoes": [
     {
       "id": 2616019,
@@ -85,6 +85,18 @@
       "sigla": "CCJC",
       "cargo": "Suplente",
       "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Comissão Externa de Prevenção e Enfrentamento da Violência Sexual Infantojuvenil.",
+      "sigla": "CEXEXPLO",
+      "cargo": "Coordenador",
+      "desde": "2026-05-07T00:00"
+    },
+    {
+      "nome": "Comissão Externa de Prevenção e Enfrentamento da Violência Sexual Infantojuvenil.",
+      "sigla": "CEXEXPLO",
+      "cargo": "Titular",
+      "desde": "2026-05-07T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204427/votacoes-nominais-plenario/2026"

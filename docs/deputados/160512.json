@@ -4,8 +4,8 @@
   "partido": "SOLIDARIEDADE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
-  "score": 41.74,
-  "rank": 15,
+  "score": 40.93,
+  "rank": 9,
   "proposicoes": [
     {
       "id": 2614899,
@@ -105,6 +105,15 @@
       "ementa": "Emenda supressiva de Plenário ao PL 2780/2024",
       "data": "2026-05-06T18:21",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622455"
+    },
+    {
+      "id": 2622949,
+      "tipo": "PL",
+      "numero": 2262,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, Estatuto da Criança e do Adolescente, para estabelecer que nos testes para o rastreamento de doenças no recém-nascido seja dada prioridade às enfermidades que possuam protocolos clínicos, diretrizes terapêuticas e tratamentos incorporados e disponíveis no Sistema Único de Saúde.",
+      "data": "2026-05-07T15:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622949"
     }
   ],
   "discursos": [],

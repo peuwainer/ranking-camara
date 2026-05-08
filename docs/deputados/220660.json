@@ -4,7 +4,7 @@
   "partido": "MDB",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220660.jpg",
-  "score": 3.09,
+  "score": 3.57,
   "rank": 510,
   "proposicoes": [
     {
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622297"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-06T16:24",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. YURY DO PAREDÃO (Bloco/MDB - CE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero registrar a presença de três Vereadoras da região do Cariri, da cidade do Crato. São três mulheres qu",
+      "transcricao": "O SR. YURY DO PAREDÃO (Bloco/MDB - CE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero registrar a presença de três Vereadoras da região do Cariri, da cidade do Crato. São três mulheres que estão na política para fazer a diferença. Eu acredito que lugar de mulher é onde ela quiser, e essas Vereadoras têm feito um grande trabalho na cidade do Crato e estão aqui em Brasília em busca de recursos para o seu Município. São elas: a Vereadora Ariza Silva, a Vereadora Nagila Coriolano e a nossa Vereadora Lourdes de Carlin, que estão conhecendo o nosso Plenário da Câmara dos Deputados. Quero desejar boas-vindas, que vocês possam conhecer a nossa Casa e retornar por muitas e muitas vezes à Casa do Povo. Parabéns pelo trabalho, Ariza Silva, Lourdes de Carlin e a nossa querida Nagila Coriolano. Grande abraço."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

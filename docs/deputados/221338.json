@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/221338.jpg",
-  "score": 24.98,
-  "rank": 295,
+  "score": 23.8,
+  "rank": 293,
   "proposicoes": [
     {
       "id": 2615287,
@@ -17,7 +17,22 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615287"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-06T17:16",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. PROFESSORA LUCIENE CAVALCANTE (Bloco/PSOL - SP. Pela ordem. Sem revisão da oradora.) - Presidente, muito obrigada. Eu quero da tribuna da Câmara dos Deputados me solidarizar com todos os servid",
+      "transcricao": "A SRA. PROFESSORA LUCIENE CAVALCANTE (Bloco/PSOL - SP. Pela ordem. Sem revisão da oradora.) - Presidente, muito obrigada. Eu quero da tribuna da Câmara dos Deputados me solidarizar com todos os servidores públicos, em especial os da educação, que estão realizando uma greve histórica no Município de Florianópolis contra o Prefeito Topázio, que age de forma truculenta, arbitrária, não negocia, não atende, ele não dá a valorização mínima constitucional, que é repor a inflação e ainda não quer cumprir a minha lei, sancionada pelo Presidente Lula, Lei nº 15.326, que garante o reconhecimento da função docente de quem está no chão das creches. Quero aqui solidarizar-me à luta e dizer que nós vamos atuar com firmeza, junto ao Tribunal de Contas do Estado e também ao Ministério Público para que as leis sejam cumpridas, os profissionais da educação sejam valorizados e que Florianópolis tenha respeito com seus servidores e seus educadores. Minha solidariedade a todo mundo que está em luta, é a luta organizada que muda a vida. Presidente, quero que esse meu pronunciamento esteja no programa A Voz do Brasil. Muito obrigada."
+    },
+    {
+      "data": "2026-05-06T17:04",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. PROFESSORA LUCIENE CAVALCANTE (Bloco/PSOL - SP. Sem revisão da oradora.) - Presidente, Deputados e Deputadas, subo nesta tribuna hoje para dizer que acabo de chegar da cidade de São Paulo, onde",
+      "transcricao": "A SRA. PROFESSORA LUCIENE CAVALCANTE (Bloco/PSOL - SP. Sem revisão da oradora.) - Presidente, Deputados e Deputadas, subo nesta tribuna hoje para dizer que acabo de chegar da cidade de São Paulo, onde está conflagrada uma enorme greve dos servidores e da educação. Quero aqui denunciar toda a covardia, toda a desumanidade do Prefeito Ricardo Nunes, que, de forma autoritária, sem dialogar com os sindicatos, encaminhou não apenas uma proposta infame, absurda, de reajuste de 3,5%, dividido em 2 anos, algo que não cobre nem a inflação do último período. Junto com essa proposta, uma proposta que não valoriza os profissionais da educação, que não valoriza os aposentados e pensionistas, ele ainda enviou junto com esse PL uma reforma administrativa que vai destruir as carreiras do magistério da maior rede municipal do nosso Estado. Ele ataca os concursos públicos ao dificultar o acesso à efetivação deles. Ele precariza o trabalho dos professores contratados. Ele ataca de forma desumana, ilegal, aqueles professores, aquelas professoras que estão doentes. Como pode um Prefeito atacar pessoas que estão doentes, reduzindo 40% dos seus salários? Isso é um absurdo, é indignante, é ilegal. Ele coloca isso no projeto de lei que acabou de enviar e ainda acaba a carreira dos professores de educação infantil da cidade de São Paulo para privatizar totalmente as creches e a primeiríssima infância da nossa cidade. É um projeto extremamente danoso. Por isso, hoje, todos os profissionais de educação estão em marcha, ocuparam as ruas na cidade de São Paulo, estão agora na Câmara Municipal, porque além de o Prefeito ter enviado sem debater com os sindicatos, ele ainda quer aprovar no dia de hoje. Chegou ontem de tarde o projeto, e hoje ele já quer dar mais um golpe, como é do perfil do grupo político dele, golpista: tem ódio da educação, tem ódio dos servidores públicos, tem ódio de quem defende a justiça social. Mas nós vamos resistir, vamos lutar e derrotar mais uma vez o Prefeito Ricardo Nunes! Presidente, peço que o meu pronunciamento seja divulgado no programa A Voz do Brasil."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

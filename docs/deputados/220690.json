@@ -4,27 +4,9 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 34.15,
-  "rank": 65,
+  "score": 31.78,
+  "rank": 76,
   "proposicoes": [
-    {
-      "id": 2613603,
-      "tipo": "PLP",
-      "numero": 88,
-      "ano": 2026,
-      "ementa": "Altera a Lei de Responsabilidade Fiscal para vedar despesas com eventos festivos quando o ente federativo estiver em situação de irregularidade fiscal, e a Lei de Improbidade Administrativa, para tipificar como ato de improbidade a realização dessas despesas em detrimento de serviços essenciais.",
-      "data": "2026-04-07T10:18",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613603"
-    },
-    {
-      "id": 2614158,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera o Decreto-Lei nº 4.657, de 4 de setembro de 1942 (Lei de Introdução às Normas do Direito Brasileiro), para dispor sobre a aplicação de sanções, na hipótese de reiteração de infrações administrativas.",
-      "data": "2026-04-07T10:13",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614158"
-    },
     {
       "id": 2614834,
       "tipo": "EMC",
@@ -132,6 +114,15 @@
       "ementa": "Dispõe sobre a fixação da jornada mensal de trabalho dos profissionais de segurança pública em 144 (cento e quarenta e quatro) horas, institui banco de horas para compensação de jornada extraordinária, altera legislações pertinentes, inclui as guardas municipais e os agentes de trânsito, e dá outras providências.",
       "data": "2026-05-04T13:21",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620762"
+    },
+    {
+      "id": 2622947,
+      "tipo": "PL",
+      "numero": 2261,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.815, de 5 de junho de 2013 (Lei dos Portos), a Lei nº 11.343, de 23 de agosto de 2006 (Lei de Drogas) e o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para dispor sobre o fortalecimento da segurança portuária, a integração institucional, o uso obrigatório de tecnologias de monitoramento e o aprimoramento da repressão ao tráfico transnacional de drogas.",
+      "data": "2026-05-07T15:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622947"
     }
   ],
   "discursos": [

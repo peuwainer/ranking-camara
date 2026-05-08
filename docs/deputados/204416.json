@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204416.jpg",
-  "score": 32.74,
-  "rank": 81,
+  "score": 31.03,
+  "rank": 83,
   "proposicoes": [
-    {
-      "id": 2614060,
-      "tipo": "PL",
-      "numero": 1673,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a obrigatoriedade do trabalho do preso para compensação dos custos do sistema prisional e estabelece a destinação da remuneração auferida.",
-      "data": "2026-04-07T19:39",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614060"
-    },
     {
       "id": 2617516,
       "tipo": "PL",
@@ -42,6 +33,24 @@
       "ementa": "Institui o Programa Nacional de Renegociação de Dívidas das Famílias (PRONAREF)",
       "data": "2026-04-28T10:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618768"
+    },
+    {
+      "id": 2622912,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do relator, Deputado Sanderson, pela aprovação dos Projetos de Lei nº 3.679, de 2025, e 6.549, de 2025, com substitutivo.",
+      "data": "2026-05-07T12:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622912"
+    },
+    {
+      "id": 2622918,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do relator, Deputado Sanderson, pela aprovação do Projeto de Lei Complementar nº 98, de 2025, com substitutivo.",
+      "data": "2026-05-07T12:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622918"
     }
   ],
   "discursos": [

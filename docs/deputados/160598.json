@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160598.jpg",
-  "score": 34.91,
-  "rank": 56,
+  "score": 36.57,
+  "rank": 31,
   "proposicoes": [
     {
       "id": 2614498,
@@ -60,6 +60,33 @@
       "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para explicitar a vedação de barreiras administrativas ao acesso inicial às ações e serviços do Sistema Único de Saúde.",
       "data": "2026-05-06T21:35",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622782"
+    },
+    {
+      "id": 2622859,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Prevenção e Combate às Amputações em Pacientes com Diabetes Mellitus, com foco na detecção precoce, no cuidado integral e na educação em saúde, estabelecendo diretrizes para a redução de amputações evitáveis no âmbito do Sistema Único de Saúde (SUS), e dá outras providências.",
+      "data": "2026-05-06T18:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622859"
+    },
+    {
+      "id": 2622867,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Atividade Física é Saúde, no âmbito do Sistema Único de Saúde (SUS), com o objetivo de promover a saúde por meio da atuação de profissionais de Educação Física.",
+      "data": "2026-05-06T18:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622867"
+    },
+    {
+      "id": 2622920,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui em todo território nacional, no âmbito do Sistema Único de Saúde-SUS, a obrigatoriedade de realização do exame espirométrico para pacientes em tratamento e inscritos nos programas de cessação do tabagismo.",
+      "data": "2026-05-07T12:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622920"
     }
   ],
   "discursos": [

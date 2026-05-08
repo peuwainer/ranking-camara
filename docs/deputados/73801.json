@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73801.jpg",
-  "score": 30.61,
-  "rank": 125,
+  "score": 29.11,
+  "rank": 116,
   "proposicoes": [
     {
       "id": 2622408,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622408"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-06T19:12",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. RENILDO CALHEIROS (Bloco/PCdoB - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, trata-se de uma matéria complexa e muito importante para o País. Foi firmado um compromisso publicament",
+      "transcricao": "O SR. RENILDO CALHEIROS (Bloco/PCdoB - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, trata-se de uma matéria complexa e muito importante para o País. Foi firmado um compromisso publicamente pelo Presidente Hugo Motta, em função de uma questão levantada pelo Deputado Orlando Silva. Restam poucos oradores. Eu acho sem sentido encerrar a discussão agora. Nós vamos perder mais tempo com o debate do encerramento do que se for chamada a lista dos oradores que restam, que são poucos. Eu tinha consultado anteriormente e vi que restam poucos a falar. Eu gostaria que V.Exa. reconsiderasse, porque com poucos minutos a gente vence a relação dos inscritos."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Representação Brasileira no Parlamento do Mercosul",

@@ -4,9 +4,19 @@
   "partido": "PSD",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220537.jpg",
-  "score": 14.37,
-  "rank": 475,
-  "proposicoes": [],
+  "score": 16.59,
+  "rank": 451,
+  "proposicoes": [
+    {
+      "id": 2622933,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Proíbe a veiculação de peças publicitárias, em qualquer meio de comunicação, que utilizem imagens sexuais como atrativo.\n\nAutora: Deputada Iara Bernardi \nRelatora: Deputada Helena Lima",
+      "data": "2026-05-07T11:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622933"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

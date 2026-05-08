@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74156.jpg",
-  "score": 34.57,
-  "rank": 59,
+  "score": 35.35,
+  "rank": 41,
   "proposicoes": [
     {
       "id": 2615287,
@@ -87,6 +87,33 @@
       "ementa": "Altera as Leis nº 9.096, de 19 de setembro de 1995, e 9.504, de 30 de setembro de 1997, para maximizar a efetividade da política de ação afirmativa de fomento às candidaturas femininas e combater as fraudes às cotas de gênero.",
       "data": "2026-05-04T18:11",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620907"
+    },
+    {
+      "id": 2623149,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), e o Decreto-Lei nº 5.452, de 1º de maio de 1943 (Consolidação das Leis do Trabalho), para caracterizar e coibir a litigância abusiva reversa.",
+      "data": "2026-05-07T18:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623149"
+    },
+    {
+      "id": 2623152,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera dispositivos da Lei n° 9.715, de 25 de novembro de 1998, que dispõe sobre as contribuições para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e da Lei n° 7.998, de 11 de janeiro de 1990, que regula o Programa do Seguro-Desemprego, o Abono Salarial, institui o Fundo de Amparo ao Trabalhador (FAT), e dá outras providências.",
+      "data": "2026-05-07T18:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623152"
+    },
+    {
+      "id": 2623153,
+      "tipo": "PL",
+      "numero": 2268,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a vedação da utilização de dispositivos de bloqueio remoto de veículos automotores em razão de mora ou inadimplemento contratual, e dá outras providências.",
+      "data": "2026-05-07T18:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623153"
     }
   ],
   "discursos": [

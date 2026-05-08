@@ -4,18 +4,9 @@
   "partido": "UNIÃO",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204512.jpg",
-  "score": 32.16,
-  "rank": 90,
+  "score": 29.27,
+  "rank": 110,
   "proposicoes": [
-    {
-      "id": 2613821,
-      "tipo": "PL",
-      "numero": 1640,
-      "ano": 2026,
-      "ementa": "Altera o art. 33, §4º, da Lei nº 11.343, de 23 de agosto de 2006, para prever pequena quantidade de droga como uma das condições para a redução de pena.",
-      "data": "2026-04-07T15:06",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2613821"
-    },
     {
       "id": 2617115,
       "tipo": "PL",
@@ -26,15 +17,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617115"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-04-07T15:20",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. DELEGADO MARCELO FREITAS (Bloco/UNIÃO - MG. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente. Chamo a atenção, nesta Casa do Povo, para o decreto presidencial efetivado pelo Presid",
-      "transcricao": "O SR. DELEGADO MARCELO FREITAS (Bloco/UNIÃO - MG. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente. Chamo a atenção, nesta Casa do Povo, para o decreto presidencial efetivado pelo Presidente da República, Decreto nº 4.834, que, de fato, fez do norte de Minas uma área de reserva de desenvolvimento sustentável. Isso foi terrível para o norte de Minas Gerais. Nós temos a expectativa de produzir, de gerar riqueza e renda, mas com esse decreto do Presidente da República, que torna o norte de Minas Gerais uma reserva de desenvolvimento sustentável, nós vamos continuar explorando apenas a miséria das pessoas com a entrega de benefícios assistenciais. Riacho dos Machados, Serranópolis de Minas e Rio Pardo de Minas serão, uma vez mais, prejudicados, tendo praticamente 80% do seu território efetivado como reserva de desenvolvimento sustentável, o que é extremamente nocivo para aquela região do Estado. Esperamos que possamos apresentar um projeto de decreto legislativo para sustar, uma vez mais, esse ato emanado do Poder Executivo, que representa, de fato, uma redução considerável do território dos Municípios do norte de Minas Gerais. Não à RDS em Rio Pardo de Minas, Serranópolis e Riacho dos Machados. Obrigado, Presidente."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

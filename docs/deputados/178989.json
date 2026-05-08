@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178989.jpg",
-  "score": 29.27,
-  "rank": 173,
+  "score": 27.01,
+  "rank": 187,
   "proposicoes": [
     {
       "id": 2614617,
@@ -87,6 +87,15 @@
       "ementa": "Institui a Política Nacional de Atenção ao Paciente Transplantado, cria a Carteira Nacional de Identificação do Paciente Transplantado, estabelece o Sistema Nacional de Acompanhamento Pós-Transplante, dispõe sobre a atenção integral à saúde do paciente transplantado, incentiva a pesquisa e inovação, e organiza a rede de reabilitação no âmbito do Sistema Único de Saúde (SUS).",
       "data": "2026-04-30T15:21",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620487"
+    },
+    {
+      "id": 2623140,
+      "tipo": "PL",
+      "numero": 2265,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Interoperabilidade de Dados da Administração Pública (PNID), cria a Infraestrutura Nacional de Intercâmbio de Dados (INID), estabelece o princípio Once Only para serviços públicos, e dá outras providências.",
+      "data": "2026-05-07T17:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623140"
     }
   ],
   "discursos": [],
