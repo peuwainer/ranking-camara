@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/209189.jpg",
-  "score": 22.7,
-  "rank": 325,
+  "score": 25.89,
+  "rank": 260,
   "proposicoes": [
     {
       "id": 2615287,
@@ -44,7 +44,29 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619274"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-29T15:44",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JOSEILDO RAMOS (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, nós também estamos recebendo aqui Vando, do Município de Botuporã, Vereador, que está aqui na 25ª Marcha, vin",
+      "transcricao": "O SR. JOSEILDO RAMOS (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, nós também estamos recebendo aqui Vando, do Município de Botuporã, Vereador, que está aqui na 25ª Marcha, vindo buscar recursos para aquela cidade tão importante, para aquela região. Eu quero mandar um abraço para Edmilson e para Eron, Prefeito e vice, que governam tão bem aquela cidade. Um abraço."
+    },
+    {
+      "data": "2026-04-29T15:24",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JOSEILDO RAMOS (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Presidente. nós estamos recebendo a visita de Vereadores da cidade de Queimadas, localizada no Semiárido baiano, no Vale do I",
+      "transcricao": "O SR. JOSEILDO RAMOS (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Presidente. nós estamos recebendo a visita de Vereadores da cidade de Queimadas, localizada no Semiárido baiano, no Vale do Itapecuru, ao norte do Estado. Estão aqui o Vereador Paulo do Riacho, o Vereador Toninho, o Vereador Alan da Carlange, o Vereador Fábio Professor, e o Vereador Neguinho. Eles estão aqui conhecendo o nosso ambiente de trabalho. Sejam sempre bem-vindos!"
+    },
+    {
+      "data": "2026-04-29T14:16",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. JOSEILDO RAMOS (Bloco/PT - BA. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, você que nos assiste, da sua casa, pela TV Câmara, hoje eu quero me pronunciar sobre o encaminhamento da ",
+      "transcricao": "O SR. JOSEILDO RAMOS (Bloco/PT - BA. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, você que nos assiste, da sua casa, pela TV Câmara, hoje eu quero me pronunciar sobre o encaminhamento da governança do Estado da Bahia naquilo que é sintonizado com a qualidade de vida dos baianos. Três Governadores do PT, o Jaques Wagner, o Rui Costa e agora o Governador Jerônimo Rodrigues. Por tudo isso, o Estado da Bahia aumentou sensivelmente a infraestrutura rodoviária e tem a maior e mais intensa malha rodoviária quando comparada com outros Estados nordestinos. Quanto à infraestrutura de saúde, em cada território, há uma policlínica que faz os exames que antigamente só nas grandes cidades da Bahia aconteciam. Portanto, se um cidadão padece de câncer, nas proximidades de qualquer território, há um equipamento público da saúde com uma Unidade de Assistência de Alta Complexidade em Oncologia  Unacon. Portanto, trata-se de um avanço considerável para que o baiano, principalmente aquele que não tem posse, que não pode pagar, possa tratar da sua saúde com equipamentos modernos, com tecnologia atualizada. Ressalto também a infraestrutura de educação, com colégios de tempo integral, escolas da estrutura do Estado da Bahia. Lá, as escola privadas não estão à altura daquelas escolas disponibilizadas pelo Governo Estadual, do ponto de vista do tempo integral. Inclusive, há auditório que pode ser transformado em cinema, há artes cênicas, piscinas semiolímpicas, pequenas arenas e campos. Assim, jovem pode estar ali, 22 horas, 23 horas, inclusive, à noite, tratando do seu conhecimento, da sua necessidade de compor uma sociedade mais erudita. Portanto, a Bahia está investindo nos baianos, na qualidade de vida dos baianos. Por tudo isso, a gente parabeniza os nossos Governadores do PT e seus aliados."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

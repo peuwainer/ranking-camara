@@ -4,18 +4,9 @@
   "partido": "SOLIDARIEDADE",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220687.jpg",
-  "score": 26.32,
-  "rank": 206,
+  "score": 26.29,
+  "rank": 245,
   "proposicoes": [
-    {
-      "id": 2614729,
-      "tipo": "PLP",
-      "numero": 96,
-      "ano": 2026,
-      "ementa": "Altera o § 2º do art. 9º da Lei Complementar nº 101, de 4 de maio de 2000, para vedar a limitação de empenho e movimentação financeira das despesas relativas às subvenções econômicas ao prêmio do Seguro Rural.",
-      "data": "2026-04-08T17:28",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614729"
-    },
     {
       "id": 2616057,
       "tipo": "PL",
@@ -44,15 +35,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621085"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-04-08T19:28",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. MÁRCIO HONAISER (PDT - MA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, é uma satisfação muito grande orientar \"sim\" na votação da PEC 383. Fui Secretário de Estado e Presidente do Fons",
-      "transcricao": "O SR. MÁRCIO HONAISER (PDT - MA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, é uma satisfação muito grande orientar \"sim\" na votação da PEC 383. Fui Secretário de Estado e Presidente do Fonseas. Hoje, sou Presidente da Frente Parlamentar em Defesa do Suas que, juntamente com Congemas, Fonseas e CNAS, tem lutado muito para dar previsibilidade e garantir recurso para realizar a gestão e atuar no Sistema Único de Assistência Social. Para todos nós, é uma grande alegria a votação desta PEC. Nossa orientação é \"sim\". Fui Presidente num período difícil, exatamente no momento da pandemia. E lá, na linha de frente, juntamente com a saúde, estava a Assistência Social. Sei da sua importância para defendermos as pessoas idosas, os jovens, as pessoas com deficiência, todo mundo que precisa do suporte da Assistência Social. Por isso, somos a favor da PEC 383/2017."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Grupo de Trabalho de Consolidação das Leis",

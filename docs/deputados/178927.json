@@ -4,10 +4,18 @@
   "partido": "PV",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
-  "score": 10.45,
-  "rank": 492,
+  "score": 9.21,
+  "rank": 495,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-29T16:04",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ALIEL MACHADO (Bloco/PV - PR. Pela ordem. Sem revisão do orador.) - Presidente, eu gostaria de parabenizar o Prof. Ivo Demiate e a Profa. Adriana Campagnoli, novos Reitor e Vice-Reitora da Unive",
+      "transcricao": "O SR. ALIEL MACHADO (Bloco/PV - PR. Pela ordem. Sem revisão do orador.) - Presidente, eu gostaria de parabenizar o Prof. Ivo Demiate e a Profa. Adriana Campagnoli, novos Reitor e Vice-Reitora da Universidade Estadual de Ponta Grossa, uma das melhores universidades do País. Eu quero parabenizar também o grande líder, Prof. Miguel Sanches Neto, escritor renomado do nosso País que conduziu e está conduzindo a nossa universidade num momento histórico. A continuidade do seu trabalho será feita pelo Prof. Ivo, que tem excelente qualidade, é muito respeitado pela comunidade acadêmica e é um orgulho para a universidade. Eleitos democraticamente, isso é um orgulho para todos nós. Presidente, eu gostaria de enfatizar e valorizar o trabalho que está sendo feito pelo Ministério das Cidades, conduzido pelo então Ministro Jader, agora, com a continuidade do Ministro Vladimir, batendo o record na contratação de moradias, no respeito às pessoas mais simples, num trabalho espetacular feito por todas as secretarias, inclusive a Secretaria de Habitação. Eu quero dizer que cada vez que nós entregamos uma chave, que nós fazemos com que aquilo que é direito previsto na Constituição aconteça, de dignidade para uma família, nós estamos fazendo aquilo que a política exige de quem quer fazer da política um meio de transformação. Ao Ministro Vladimir, à equipe da Secretaria de Habitação, ao Augusto, e também ao então Ministro Jader, os nossos parabéns! É um orgulho termos recuperado o Ministério das Cidades, que está atendendo os Municípios do País."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",

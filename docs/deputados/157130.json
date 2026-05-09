@@ -4,9 +4,28 @@
   "partido": "PSD",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/157130.jpg",
-  "score": 32.25,
-  "rank": 71,
-  "proposicoes": [],
+  "score": 32.51,
+  "rank": 79,
+  "proposicoes": [
+    {
+      "id": 2623243,
+      "tipo": "PL",
+      "numero": 2280,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 109, de 29 de maio de 2001, que dispõe sobre o Regime de Previdência Complementar, para prever a composição dos conselhos deliberativo e fiscal das entidades fechadas de previdência complementar que tiveram seus planos de benefícios transferidos para outra instituição, por incorporação.",
+      "data": "2026-05-08T14:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623243"
+    },
+    {
+      "id": 2623250,
+      "tipo": "PLP",
+      "numero": 130,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 109, de 29 de maio de 2001, que dispõe sobre o Regime de Previdência Complementar, para prever a composição dos conselhos deliberativo e fiscal das entidades fechadas de previdência complementar que tiveram seus planos de benefícios transferidos para outra instituição, por incorporação.",
+      "data": "2026-05-08T15:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623250"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-04-28T21:08",

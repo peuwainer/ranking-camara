@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220546.jpg",
-  "score": 35.99,
-  "rank": 36,
+  "score": 36.03,
+  "rank": 38,
   "proposicoes": [
     {
       "id": 2615370,
@@ -62,7 +62,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621540"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-29T20:00",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. RODOLFO NOGUEIRA (PL - MS. Pela ordem. Sem revisão do orador.) - Presidente, dia histórico. O Senado, hoje, nesta data, faz história no Brasil. Contra 12 bilhões de reais do Governo Lula, derram",
+      "transcricao": "O SR. RODOLFO NOGUEIRA (PL - MS. Pela ordem. Sem revisão do orador.) - Presidente, dia histórico. O Senado, hoje, nesta data, faz história no Brasil. Contra 12 bilhões de reais do Governo Lula, derramados em emendas no Senado Federal, 42 Senadores corajosos disseram \"não\" ao amigo do Lula. O Brasil disse \"não\" a mais um amigo do Lula no Supremo Tribunal. E essa é a resposta do povo brasileiro, é a resposta deste Congresso, para tudo isso que o PT está fazendo no Brasil. O PT acabou e, hoje, sofreu a maior derrota histórica do Brasil. Hoje, o Senado faz história neste País, dizendo \"não\" ao Messias, \"não\" ao amigo do Lula. Obrigado, Senhor Deus, porque hoje o Brasil tem esperança. Fora, PT. E, ao contrário da Deputada Marina Silva, a Oposição orienta \"não\"."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",

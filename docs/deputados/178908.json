@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178908.jpg",
-  "score": 30.27,
-  "rank": 94,
+  "score": 28.98,
+  "rank": 158,
   "proposicoes": [
     {
       "id": 2622241,
@@ -62,7 +62,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622262"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-29T20:08",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DELEGADO ÉDER MAURO (PL - PA. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente. O sistema podre começou a derreter neste País, o Governo começou a derreter neste País. Hoje, no Sen",
+      "transcricao": "O SR. DELEGADO ÉDER MAURO (PL - PA. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente. O sistema podre começou a derreter neste País, o Governo começou a derreter neste País. Hoje, no Senado, foi dada a resposta pela pressão do povo na rua. Nem 12 bilhões de reais liberados por este ladrão que preside o País resolveram a situação do Messias, que foi rejeitado. Rejeitado! Menos um comunista no Supremo! Agora, está aí a Esquerda chorando, e agora vocês vão ter que chupar, porque Messias, só se for Jair Messias Bolsonaro. Obrigado, Sr. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

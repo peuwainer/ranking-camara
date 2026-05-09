@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/214694.jpg",
-  "score": 27.82,
-  "rank": 157,
+  "score": 29.72,
+  "rank": 140,
   "proposicoes": [
-    {
-      "id": 2614624,
-      "tipo": "EMP",
-      "numero": 7,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 9.847, de 26 de outubro de 1999, para dispor sobre penalidades relativas à comercialização de combustíveis e biocombustíveis.",
-      "data": "2026-04-08T15:49",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2614624"
-    },
     {
       "id": 2622048,
       "tipo": "EMC",
@@ -24,6 +15,15 @@
       "ementa": "Altera a Lei nº 12.869, de 15 de outubro de 2013, e a Lei nº 13.177, de 22 de outubro de 2015, para dispor sobre critérios de outorga, remuneração, sustentabilidade econômica e participação das unidades lotéricas na comercialização de produtos lotéricos em meio físico e digital.",
       "data": "2026-05-06T10:36",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622048"
+    },
+    {
+      "id": 2623166,
+      "tipo": "PL",
+      "numero": 2272,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a criação do Programa Emergencial de Apoio Financeiro às Autoescolas e dá outras providências.",
+      "data": "2026-05-08T10:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623166"
     }
   ],
   "discursos": [],

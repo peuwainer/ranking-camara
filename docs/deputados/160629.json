@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160629.jpg",
-  "score": 27.79,
-  "rank": 159,
+  "score": 30.01,
+  "rank": 129,
   "proposicoes": [
     {
       "id": 2615249,
@@ -44,7 +44,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618593"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-29T17:12",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ROMERO RODRIGUES (Bloco/PODE - PB. Pela ordem. Sem revisão do orador.) - Deputada Laura Carneiro, eu agradeço a V.Exa. Estou muito feliz por vê-la presidindo esta sessão na tarde de hoje. É uma ",
+      "transcricao": "O SR. ROMERO RODRIGUES (Bloco/PODE - PB. Pela ordem. Sem revisão do orador.) - Deputada Laura Carneiro, eu agradeço a V.Exa. Estou muito feliz por vê-la presidindo esta sessão na tarde de hoje. É uma honra muito grande, um prazer imenso vê-la na Presidência dos trabalhos. Nós já dividimos algumas Comissões. Minha fala é rápida. Registro com alegria a presença dos Vereadores da cidade de Gurjão, do meu Estado: Vereador Thalis, Vereador Ronaldo, Vereador Val. Eles vieram trazer as pautas, primeiro, da defesa do piso salarial dos garis deste Brasil, segundo, da aprovação necessária da aposentadoria especial dos agentes comunitários de saúde e agentes de combate às endemias e, terceiro, do apoio aos profissionais da educação. A gente registra com alegria a presença desses três grandes Vereadores no plenário da Câmara Federal na tarde de hoje. Deputada Laura Carneiro, que preside os trabalhos, muito obrigado pelo carinho, pelo espaço e pela oportunidade. Deus abençoe a todos!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",

@@ -4,10 +4,18 @@
   "partido": "PL",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204423.jpg",
-  "score": 19.62,
-  "rank": 398,
+  "score": 20.45,
+  "rank": 394,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-04-29T14:40",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ANDRÉ FERREIRA (PL - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero fazer o registro aqui da presença do Vereador do meu Estado, Pernambuco, da cidade de Sairé, uma cidade com 1",
+      "transcricao": "O SR. ANDRÉ FERREIRA (PL - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero fazer o registro aqui da presença do Vereador do meu Estado, Pernambuco, da cidade de Sairé, uma cidade com 10 mil habitantes, Ednaldo da Internet, que já está no seu segundo mandato. Ele tem sido um grande Vereador e prestado um trabalho brilhante naquela Câmara. E hoje está aqui visitando a Câmara Federal, participando da 25ª Marcha dos Gestores e Legislativos Municipais, fazendo esta visita e conhecendo o Plenário pela primeira vez. Portanto, queria fazer esse registro tão importante."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

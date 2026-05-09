@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204372.jpg",
-  "score": 29.28,
-  "rank": 109,
+  "score": 31.2,
+  "rank": 97,
   "proposicoes": [
     {
       "id": 2616312,
@@ -69,6 +69,15 @@
       "ementa": "Dispõe sobre a produção, regularização, rotulagem, publicidade, comercialização, fiscalização e recolhimento de suplementos alimentares e dá outras providências.",
       "data": "2026-05-05T16:17",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621502"
+    },
+    {
+      "id": 2623252,
+      "tipo": "PL",
+      "numero": 2281,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.436, de 24 de abril de 2002, para atualizar sua redação, aprimorar as disposições relativas ao atendimento às pessoas com deficiência auditiva e ampliar as diretrizes de promoção da Língua Brasileira de Sinais – Libras.",
+      "data": "2026-05-08T15:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623252"
     }
   ],
   "discursos": [],

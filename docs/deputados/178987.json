@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178987.jpg",
-  "score": 24.68,
-  "rank": 263,
+  "score": 25.99,
+  "rank": 257,
   "proposicoes": [
     {
       "id": 2615287,
@@ -24,6 +24,24 @@
       "ementa": "Dispõe sobre a regulamentação do transporte individual privado por aplicativos em todo o território nacional e dá outras providências.",
       "data": "2026-04-23T13:09",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618084"
+    },
+    {
+      "id": 2623253,
+      "tipo": "PL",
+      "numero": 2282,
+      "ano": 2026,
+      "ementa": "Altera a Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para dispor sobre os intervalos intrajornada aplicáveis aos trabalhadores em atividades de teleatendimento, telemarketing e serviços correlatos.",
+      "data": "2026-05-08T15:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623253"
+    },
+    {
+      "id": 2623257,
+      "tipo": "PL",
+      "numero": 2283,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Incentivo ao Passe Livre no Transporte Público Coletivo Urbano, cria o Programa Nacional de Incentivo ao Passe Livre – PNIPL, altera a Lei nº 12.587, de 3 de janeiro de 2012, e dá outras providências.",
+      "data": "2026-05-08T15:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623257"
     }
   ],
   "discursos": [
