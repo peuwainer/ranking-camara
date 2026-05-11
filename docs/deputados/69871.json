@@ -4,18 +4,9 @@
   "partido": "PV",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/69871.jpg",
-  "score": 31.88,
-  "rank": 88,
+  "score": 30.97,
+  "rank": 95,
   "proposicoes": [
-    {
-      "id": 2615287,
-      "tipo": "PL",
-      "numero": 1754,
-      "ano": 2026,
-      "ementa": "Institui a TerraBras, empresa pública destinada à defesa da soberania nacional e ao aproveitamento dos minerais críticos ou estratégicos; estabelece o regime de partilha da produção mineral; altera o Decreto-Lei nº 227, de 28 de fevereiro de 1967, a Lei nº 8.970, de 28 de dezembro de 1994, e a Lei nº 13.575, de 26 de dezembro de 2017; e dá outras providências.",
-      "data": "2026-04-10T14:32",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615287"
-    },
     {
       "id": 2616663,
       "tipo": "PL",
@@ -71,15 +62,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622041"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-04-15T14:40",
-      "fase": "Breves Comunicações",
-      "tipo": "BREVES COMUNICAÇÕES",
-      "resumo": "O SR. BACELAR (Bloco/PV - BA. Sem revisão do orador.) - Deputado Charles Fernandes, que preside esta sessão, Sras. e Srs. Deputados, as propostas que tratam do fim da escala 6 por 1 e da redução da jo",
-      "transcricao": "O SR. BACELAR (Bloco/PV - BA. Sem revisão do orador.) - Deputado Charles Fernandes, que preside esta sessão, Sras. e Srs. Deputados, as propostas que tratam do fim da escala 6 por 1 e da redução da jornada de trabalho foram consideradas constitucionais hoje, na CCJ, pelo Relator. Ou seja, superamos a primeira etapa: não há impedimento jurídico que impeça o avanço da proposta. Deputado Valbi, o que aconteceu? A bancada bolsonarista pediu vista. E o que é que isso significa? Significa atraso no andamento da proposta. O pedido de vista, sem base, não contribui para o aprofundamento do debate, apenas para o atraso. É preciso dizer com clareza. Quando se pede vista sem apresentar alternativas, sem apresentar contraponto, o que se está fazendo é ganhar tempo para impedir o avanço dessa importante matéria para a sociedade brasileira. Por quê? Porque, no fundo, há setores que são contra. A Direita e o bolsonarismo são contra o fim da escala 6 por 1 e da redução da jornada. A bancada bolsonarista é contra dar mais tempo ao trabalhador para ele cuidar de sua família, à mulher trabalhadora para ela cuidar da educação dos seus filhos. A bancada bolsonarista e a Direita são contra reduzir o excesso de trabalho, são contra melhorar a qualidade de vida de quem trabalha todos os dias. O discurso pode até tentar confundir, mas a prática revela a verdade. Quem atrasa o andamento dessas propostas está, na prática, se opondo a elas. E aqui não estamos falando de ideologia. Estamos falando de dignidade, de saúde e de equilíbrio entre trabalho e vida. O Brasil precisa enfrentar este debate com coragem, não com manobras. Adiá-lo não resolve. Direita, bolsonaristas, o trabalhador brasileiro não pode esperar! Parabéns ao Presidente Lula pela sua proposta do fim da escala 6 por 1 e da redução da jornada de trabalho de 48 horas para 40 horas. É isso que o trabalhador brasileiro quer e exige. Obrigado, Presidente."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, avaliação e acompanhamento das iniciativas e medidas adotadas para transição energética - Fontes Renováveis e Produção de Hidrogênio Verde no Brasil",
