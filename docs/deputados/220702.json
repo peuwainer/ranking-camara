@@ -4,9 +4,28 @@
   "partido": "UNIÃO",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220702.jpg",
-  "score": 21.92,
-  "rank": 369,
-  "proposicoes": [],
+  "score": 23.1,
+  "rank": 344,
+  "proposicoes": [
+    {
+      "id": 2623365,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Altera a legislação relativa ao sistema financeiro nacional para dispor sobre a obrigatoriedade de oferta de mecanismo de autenticação em dois fatores com validação por pessoa de confiança para clientes idosos.",
+      "data": "2026-05-11T13:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623365"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

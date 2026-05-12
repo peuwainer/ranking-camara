@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
-  "score": 36.64,
-  "rank": 31,
+  "score": 36.91,
+  "rank": 32,
   "proposicoes": [
     {
       "id": 2616940,
@@ -96,6 +96,15 @@
       "ementa": "Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
       "data": "2026-05-06T17:06",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622326"
+    },
+    {
+      "id": 2623445,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Reconhece como manifestação da cultura nacional o Serviço de Transporte Público Individual Remunerado de Passageiros operado por veículos a taxímetro.",
+      "data": "2026-05-11T16:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623445"
     }
   ],
   "discursos": [

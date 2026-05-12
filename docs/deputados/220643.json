@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220643.jpg",
-  "score": 28.07,
-  "rank": 183,
+  "score": 28.66,
+  "rank": 167,
   "proposicoes": [
     {
       "id": 2620026,
@@ -58,6 +58,12 @@
       "sigla": "CCULT",
       "cargo": "Suplente",
       "desde": "2026-04-27T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial destinada a discutir os impactos da exploração de minerais críticos e de terras raras nos territórios indígenas e de povos e comunidades tradicionais",
+      "sigla": "SUBTRAMZ",
+      "cargo": "Titular",
+      "desde": "2026-05-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220643/votacoes-nominais-plenario/2026"

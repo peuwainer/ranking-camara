@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204444.jpg",
-  "score": 28.79,
-  "rank": 155,
+  "score": 29.88,
+  "rank": 137,
   "proposicoes": [
     {
       "id": 2615419,
@@ -33,6 +33,24 @@
       "ementa": "Dispõe sobre a redução da carga tributária incidente sobre a importação de armas de fogo destinadas a militares e profissionais de segurança pública, e dá outras providências.",
       "data": "2026-05-08T12:30",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623197"
+    },
+    {
+      "id": 2623358,
+      "tipo": "PL",
+      "numero": 2296,
+      "ano": 2026,
+      "ementa": "Esta Lei concede anistia a pessoas envolvidas em manifestações públicas de caráter coletivo, realizadas entre 30 de outubro de 2022 e 8 de janeiro de 2023, no território nacional e estabelece critérios para sua aplicação.",
+      "data": "2026-05-11T12:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623358"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
     }
   ],
   "discursos": [],

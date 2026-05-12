@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204416.jpg",
-  "score": 32.54,
-  "rank": 71,
+  "score": 32.97,
+  "rank": 75,
   "proposicoes": [
     {
       "id": 2617516,
@@ -51,6 +51,15 @@
       "ementa": "Parecer do relator, Deputado Sanderson, pela aprovação do Projeto de Lei Complementar nº 98, de 2025, com substitutivo.",
       "data": "2026-05-07T12:40",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622918"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
     }
   ],
   "discursos": [

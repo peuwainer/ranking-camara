@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/107970.jpg",
-  "score": 23.39,
-  "rank": 327,
+  "score": 24.48,
+  "rank": 301,
   "proposicoes": [
     {
       "id": 2617634,
@@ -33,6 +33,24 @@
       "ementa": "Inscreve o nome de Francisca de Paula de Jesus – Nhá Chica no Livro dos Heróis e Heroínas da Pátria.",
       "data": "2026-05-08T18:56",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623275"
+    },
+    {
+      "id": 2623294,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Cria a política nacional de valorização da mulher no campo e dá outras providências.",
+      "data": "2026-05-08T15:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623294"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
     }
   ],
   "discursos": [],

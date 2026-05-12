@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178966.jpg",
-  "score": 26.92,
-  "rank": 225,
+  "score": 27.42,
+  "rank": 215,
   "proposicoes": [
     {
       "id": 2618284,
@@ -33,6 +33,15 @@
       "ementa": "Altera a Lei nº 8.989, de 24 de fevereiro de 1995, para atualizar o limite de valor na aquisição de automóveis com isenção do Imposto sobre Produtos Industrializados (IPI) por pessoas com deficiência.",
       "data": "2026-04-29T15:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620017"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
     }
   ],
   "discursos": [],

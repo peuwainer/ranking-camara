@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160559.jpg",
-  "score": 29.72,
-  "rank": 128,
+  "score": 30.29,
+  "rank": 126,
   "proposicoes": [
     {
       "id": 2623190,
@@ -15,6 +15,15 @@
       "ementa": "Institui o Dia Nacional da Bioenergia, a ser celebrado anualmente no dia 8 de maio.",
       "data": "2026-05-08T12:18",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623190"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
     }
   ],
   "discursos": [],

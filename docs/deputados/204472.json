@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204472.jpg",
-  "score": 27.74,
-  "rank": 200,
+  "score": 27.85,
+  "rank": 199,
   "proposicoes": [
     {
       "id": 2622088,
@@ -141,6 +141,15 @@
       "ementa": "Dispõe sobre o direito a acompanhante de pessoa submetida a procedimentos que envolvam sedação ou rebaixamento do nível de consciência, em ambientes de atenção à saúde.",
       "data": "2026-05-06T20:30",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622764"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
     }
   ],
   "discursos": [

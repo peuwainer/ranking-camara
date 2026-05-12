@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73441.jpg",
-  "score": 29.19,
-  "rank": 148,
+  "score": 29.63,
+  "rank": 145,
   "proposicoes": [
     {
       "id": 2616323,
@@ -51,6 +51,15 @@
       "ementa": "Acrescenta os §§ 13, 14 e 15 ao art. 45 da Lei nº 11.445, de 5 de janeiro de 2007, para dispor sobre hipóteses de exceção à obrigatoriedade de conexão à rede pública de esgotamento sanitário em casos de inviabilidade técnica ou econômica relevante.",
       "data": "2026-05-06T22:01",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622785"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
     }
   ],
   "discursos": [],

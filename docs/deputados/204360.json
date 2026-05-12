@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
-  "score": 38.16,
-  "rank": 22,
+  "score": 39.16,
+  "rank": 18,
   "proposicoes": [
     {
       "id": 2617519,
@@ -60,6 +60,24 @@
       "ementa": "Institui o Programa de Capacitação de professores e funcionários de estabelecimentos de ensino público para auxílio a crianças e adolescentes que sejam portadoras de Diabetes Mellitus Tipo 1 (um) e 2 (dois).",
       "data": "2026-05-07T16:45",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623198"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    },
+    {
+      "id": 2623426,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 (Lei Brasileira de Inclusão da Pessoa com Deficiência), para classificar a espinha bífida aberta como deficiência para todos os efeitos legais.",
+      "data": "2026-05-07T17:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623426"
     }
   ],
   "discursos": [

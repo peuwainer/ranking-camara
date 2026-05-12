@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/66828.jpg",
-  "score": 30.63,
-  "rank": 106,
+  "score": 31.19,
+  "rank": 95,
   "proposicoes": [
     {
       "id": 2617236,
@@ -77,6 +77,12 @@
       "sigla": "PLP10821",
       "cargo": "Titular",
       "desde": "2026-04-28T00:00"
+    },
+    {
+      "nome": "Comissão Externa de Prevenção e Enfrentamento da Violência Sexual Infantojuvenil.",
+      "sigla": "CEXEXPLO",
+      "cargo": "Titular",
+      "desde": "2026-05-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/66828/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220642.jpg",
-  "score": 25.57,
-  "rank": 268,
+  "score": 26.73,
+  "rank": 231,
   "proposicoes": [
     {
       "id": 2615374,
@@ -24,6 +24,15 @@
       "ementa": "Institui a Política Nacional de Redução de Acidentes de Fauna.",
       "data": "2026-05-05T11:13",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621062"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
     }
   ],
   "discursos": [],
@@ -57,6 +66,12 @@
       "sigla": "CMULHER",
       "cargo": "Suplente",
       "desde": "2026-05-06T00:00"
+    },
+    {
+      "nome": "Comissão Externa de Prevenção e Enfrentamento da Violência Sexual Infantojuvenil.",
+      "sigla": "CEXEXPLO",
+      "cargo": "Titular",
+      "desde": "2026-05-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220642/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/230767.jpg",
-  "score": 34.23,
-  "rank": 50,
+  "score": 34.73,
+  "rank": 51,
   "proposicoes": [
     {
       "id": 2615421,
@@ -33,6 +33,15 @@
       "ementa": "Altera a Lei n.º 9.472, de 16 de julho de 1997, para dispor sobre a identificação, bloqueio e responsabilização de chamadas de telemarketing ativo, de cobrança e de chamadas repetitivas automatizadas.",
       "data": "2026-05-04T17:05",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621010"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
     }
   ],
   "discursos": [

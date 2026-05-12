@@ -4,8 +4,8 @@
   "partido": "NOVO",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/156190.jpg",
-  "score": 39.02,
-  "rank": 17,
+  "score": 40.64,
+  "rank": 12,
   "proposicoes": [
     {
       "id": 2617748,
@@ -51,6 +51,33 @@
       "ementa": "Institui a Lei da Dignidade Sexual, altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), a Lei nº 10.406, 10 de janeiro de 2002 (Código Civil), e dá outras providências.",
       "data": "2026-05-06T19:45",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622516"
+    },
+    {
+      "id": 2623378,
+      "tipo": "EMP",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Determina a obrigatoriedade de imposição de penas restritivas de direitos aos condenados por crimes de pedofilia.",
+      "data": "2026-05-11T14:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623378"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    },
+    {
+      "id": 2623435,
+      "tipo": "EMP",
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 para dispor sobre a revisão periódica da internação provisória, autorizar a monitoração eletrônica em atividades externas, ampliar o prazo máximo de internação nos casos de ato infracional cometido com violência ou grave ameaça ou análogo a crime hediondo ou equiparado, e estabelecer regras para a transferência de adolescente que atingir a maioridade durante o cumprimento de medida socioeducativa.",
+      "data": "2026-05-11T16:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623435"
     }
   ],
   "discursos": [

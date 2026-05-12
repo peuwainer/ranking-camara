@@ -4,16 +4,26 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160561.jpg",
-  "score": 24.48,
-  "rank": 298,
-  "proposicoes": [],
+  "score": 25.07,
+  "rank": 291,
+  "proposicoes": [
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-05-06T16:12",
       "fase": "Breves Comunicações",
       "tipo": "PELA ORDEM",
-      "resumo": "O SR. MISSIONÁRIO JOSÉ OLIMPIO (PL - SP. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente Hildo Rocha, quero cumprimentar esta Casa, todos os Deputados e Deputadas. Queria registrar aqui",
-      "transcricao": "O SR. MISSIONÁRIO JOSÉ OLIMPIO (PL - SP. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente Hildo Rocha, quero cumprimentar esta Casa, todos os Deputados e Deputadas. Queria registrar aqui a presença, nesta tarde, do nosso apóstolo Pedro Medina, de Camboriú, Santa Catarina, que tem centenas de igrejas no Brasil e um trabalho grande realizado em Santa Catarina. O apóstolo Pedro Medina cuida das igrejas da sua cobertura. Também está aqui o pastor Thiago, que cuida de toda a região de São Paulo, acompanhado de vários pastores. Era o registro que queria fazer nesta tarde. Gostaria que meu pronunciamento fosse divulgado no programa A Voz do Brasil e nos meios de comunicação da Casa. Obrigado, Sr. Presidente."
+      "resumo": "O SR. MISSIONÁRIO JOSÉ OLIMPIO (PL - SP. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente Hildo Rocha. Cumprimento esta Casa, todos os Deputados e Deputadas. Queria registrar a presença ",
+      "transcricao": "O SR. MISSIONÁRIO JOSÉ OLIMPIO (PL - SP. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente Hildo Rocha. Cumprimento esta Casa, todos os Deputados e Deputadas. Queria registrar a presença no plenário, nesta tarde, do nosso Apóstolo Pedro Medina, de Balneário Camboriú, que realiza um grande trabalho em Santa Catarina. O Apóstolo Pedro Medina cuida das diversas igrejas de sua cobertura no Brasil. Também está aqui o Pastor Thiago Viana, que cuida de toda a região de São Paulo, acompanhado de vários pastores. Era o registro que eu queria fazer nesta tarde. Gostaria que meu pronunciamento fosse divulgado no programa A Voz do Brasil e nos meios de comunicação da Casa. Obrigado, Sr. Presidente."
     }
   ],
   "orgaos": [

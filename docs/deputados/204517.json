@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
-  "score": 12.18,
-  "rank": 479,
+  "score": 13.27,
+  "rank": 474,
   "proposicoes": [
     {
       "id": 2616005,
@@ -33,6 +33,24 @@
       "ementa": "Altera a Lei nº 10.169, de 29 de dezembro de 2000, que regula o § 2º do art. 236 da Constituição Federal.",
       "data": "2026-04-15T19:45",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616939"
+    },
+    {
+      "id": 2623307,
+      "tipo": "PL",
+      "numero": 2287,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a não responsabilização material de agentes de segurança pública por danos causados a viaturas oficiais durante atendimento de ocorrência em situação de emergência, sob regime de prioridade (Código 3), estabelece a classificação dos níveis operacionais de deslocamento e dá outras providências.",
+      "data": "2026-05-11T10:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623307"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
     }
   ],
   "discursos": [],

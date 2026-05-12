@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220657.jpg",
-  "score": 17.24,
-  "rank": 443,
+  "score": 18.95,
+  "rank": 423,
   "proposicoes": [
     {
       "id": 2617373,
@@ -24,6 +24,33 @@
       "ementa": "Altera o Decreto-Lei n.º 2.848, de 7 de dezembro de 1940 (Código Penal), para elevar o limite máximo de cumprimento de pena privativa de liberdade, aumentar a pena mínima do homicídio qualificado e restabelecer a pena do roubo qualificado pelo resultado de lesão corporal grave, promovendo a proporcionalidade do sistema punitivo.",
       "data": "2026-05-05T14:05",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621256"
+    },
+    {
+      "id": 2623375,
+      "tipo": "PL",
+      "numero": 2297,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), e o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para dispor sobre o ressarcimento, pelo monitorado, dos custos da monitoração eletrônica, e dá outras providências.",
+      "data": "2026-05-11T14:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623375"
+    },
+    {
+      "id": 2623376,
+      "tipo": "PL",
+      "numero": 2298,
+      "ano": 2026,
+      "ementa": "Institui o Crédito de Reparação à Vítima de Crime Patrimonial, destinado ao ressarcimento parcial do prejuízo material sofrido pelo cidadão cujo Boletim de Ocorrência permaneça sem solução por prazo superior a 24 (vinte e quatro) meses, e dá outras providências.",
+      "data": "2026-05-11T14:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623376"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
     }
   ],
   "discursos": [],

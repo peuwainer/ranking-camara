@@ -4,8 +4,8 @@
   "partido": "AVANTE",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204553.jpg",
-  "score": 29.72,
-  "rank": 135,
+  "score": 30.85,
+  "rank": 113,
   "proposicoes": [
     {
       "id": 2616607,
@@ -24,6 +24,24 @@
       "ementa": "Garante às mulheres do sexo biológico feminino o direito à não invasão de suas dependências sanitárias por mulheres de sexo biologicamente diverso, em locais públicos e privados de uso coletivo.",
       "data": "2026-04-24T12:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618304"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    },
+    {
+      "id": 2623497,
+      "tipo": "PL",
+      "numero": 2305,
+      "ano": 2026,
+      "ementa": "Denomina “Missionários Daniel Berg e Gunnar Vingren” a Ferrovia Norte-Sul (EF-151).",
+      "data": "2026-05-11T18:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623497"
     }
   ],
   "discursos": [],

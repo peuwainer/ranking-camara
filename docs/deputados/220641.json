@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220641.jpg",
-  "score": 30.44,
-  "rank": 111,
+  "score": 30.91,
+  "rank": 110,
   "proposicoes": [
     {
       "id": 2621088,
@@ -42,6 +42,15 @@
       "ementa": "Altera a Lei nº 14.273, de 23 de dezembro de 2021, para tornar obrigatória a instalação de dispositivos de segurança retrorrefletivos em material rodante, no transporte ferroviário de cargas.",
       "data": "2026-05-06T17:34",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622398"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
     }
   ],
   "discursos": [],

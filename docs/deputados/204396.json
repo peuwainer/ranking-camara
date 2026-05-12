@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204396.jpg",
-  "score": 10.93,
-  "rank": 487,
+  "score": 11.4,
+  "rank": 486,
   "proposicoes": [
     {
       "id": 2616615,
@@ -42,6 +42,15 @@
       "ementa": "Altera a Lei nº 9.504, de 23 de setembro de 1997, que “Estabelece normas para as eleições”, a fim de permitir doações de mercadorias apreendidas ou abandonadas quando destinadas às entidades sem fins lucrativos em ano eleitoral.",
       "data": "2026-04-30T18:46",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620584"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
     }
   ],
   "discursos": [],

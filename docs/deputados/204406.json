@@ -4,9 +4,19 @@
   "partido": "PP",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204406.jpg",
-  "score": 22.42,
-  "rank": 365,
-  "proposicoes": [],
+  "score": 23.01,
+  "rank": 348,
+  "proposicoes": [
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-04-28T15:44",

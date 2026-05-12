@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178970.jpg",
-  "score": 49.07,
-  "rank": 5,
+  "score": 48.78,
+  "rank": 6,
   "proposicoes": [
     {
       "id": 2615559,
@@ -258,6 +258,15 @@
       "ementa": "Emenda ao Substitutivo apresentando ao PL 2780, de 2024, que \"Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.\"",
       "data": "2026-05-06T17:51",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622415"
+    },
+    {
+      "id": 2623471,
+      "tipo": "PL",
+      "numero": 2303,
+      "ano": 2026,
+      "ementa": "Institui regime especial de proteção ao acesso à Justiça em medidas judiciais fundadas em erro estatal previamente reconhecido.",
+      "data": "2026-05-11T17:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623471"
     }
   ],
   "discursos": [

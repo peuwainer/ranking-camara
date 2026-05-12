@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/209787.jpg",
-  "score": 27.45,
-  "rank": 210,
+  "score": 27.91,
+  "rank": 195,
   "proposicoes": [
     {
       "id": 2618789,
@@ -42,6 +42,15 @@
       "ementa": "Altera os arts. 113 e 115 do Regimento Interno da Câmara dos Deputados para prever indicações e solicitações de informação administrativa dirigidas a órgãos do Poder Judiciário, do Ministério Público, da Defensoria Pública e dos Tribunais de Contas.",
       "data": "2026-05-06T12:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622097"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
     }
   ],
   "discursos": [],

@@ -4,9 +4,28 @@
   "partido": "REPUBLICANOS",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74044.jpg",
-  "score": 24.76,
-  "rank": 295,
-  "proposicoes": [],
+  "score": 25.94,
+  "rank": 261,
+  "proposicoes": [
+    {
+      "id": 2623369,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Estabelece medidas adicionais para a prevenção e o combate à violência contra crianças autistas, reforça a aplicação de legislação vigente e promove a criação de mecanismos de fiscalização nas instituições de ensino.",
+      "data": "2026-05-08T13:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623369"
+    },
+    {
+      "id": 2623473,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-05-11T17:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623473"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-05-06T13:55",

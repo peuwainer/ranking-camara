@@ -4,9 +4,19 @@
   "partido": "PP",
   "uf": "RN",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220624.jpg",
-  "score": 23.07,
-  "rank": 344,
-  "proposicoes": [],
+  "score": 23.67,
+  "rank": 326,
+  "proposicoes": [
+    {
+      "id": 2623430,
+      "tipo": "PL",
+      "numero": 2300,
+      "ano": 2026,
+      "ementa": "Altera o art. 1.277 do Código Civil para dispor sobre a caracterização de interferência prejudicial ao sossego em situações envolvendo pessoa com deficiência.",
+      "data": "2026-05-11T16:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623430"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

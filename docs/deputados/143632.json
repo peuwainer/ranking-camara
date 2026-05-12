@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/143632.jpg",
-  "score": 15.49,
-  "rank": 459,
+  "score": 16.08,
+  "rank": 457,
   "proposicoes": [
     {
       "id": 2622041,
@@ -42,6 +42,12 @@
       "sigla": "PL233823",
       "cargo": "Suplente",
       "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Suplente",
+      "desde": "2026-05-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/143632/votacoes-nominais-plenario/2026"

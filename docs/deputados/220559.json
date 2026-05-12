@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
-  "score": 32.26,
-  "rank": 76,
+  "score": 33.29,
+  "rank": 71,
   "proposicoes": [
     {
       "id": 2618464,
@@ -51,6 +51,24 @@
       "ementa": "Altera o art. 6º da Lei n° 10.826, de 2003 (Estatuto do Desarmamento).",
       "data": "2026-05-05T19:12",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621654"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    },
+    {
+      "id": 2623502,
+      "tipo": "PL",
+      "numero": 2306,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.211, de 17 de setembro de 2025, para dispor sobre o âmbito de aplicação da norma, a responsabilidade parental, os deveres dos fornecedores de aplicações digitais, os mecanismos de verificação etária, a moderação de conteúdo, o regime sancionatório e a fiscalização.",
+      "data": "2026-05-11T18:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623502"
     }
   ],
   "discursos": [

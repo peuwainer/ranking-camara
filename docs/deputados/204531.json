@@ -4,9 +4,28 @@
   "partido": "PP",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204531.jpg",
-  "score": 10.37,
-  "rank": 490,
-  "proposicoes": [],
+  "score": 11.55,
+  "rank": 485,
+  "proposicoes": [
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    },
+    {
+      "id": 2623431,
+      "tipo": "PL",
+      "numero": 2301,
+      "ano": 2026,
+      "ementa": "Inclui no rol dos crimes hediondos as figuras agravadas de homicídio doloso, latrocínio e extorsão praticadas por integrantes de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, introduzidas pela Lei nº 15.358, de 24 de março de 2026.",
+      "data": "2026-05-11T16:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623431"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-04-30T12:28",

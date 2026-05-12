@@ -4,10 +4,27 @@
   "partido": "PL",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220610.jpg",
-  "score": 18.67,
-  "rank": 422,
-  "proposicoes": [],
+  "score": 19.55,
+  "rank": 414,
+  "proposicoes": [
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    }
+  ],
   "discursos": [
+    {
+      "data": "2026-05-11T19:08",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. DR. FERNANDO MÁXIMO (PL - RO. Sem revisão do orador.) - Boa noite, Presidente Charles. Obrigado pela oportunidade. Boa noite, caros colegas. Quero parabenizar a Comissão de Segurança Pública des",
+      "transcricao": "O SR. DR. FERNANDO MÁXIMO (PL - RO. Sem revisão do orador.) - Boa noite, Presidente Charles. Obrigado pela oportunidade. Boa noite, caros colegas. Quero parabenizar a Comissão de Segurança Pública desta Casa por ter aprovado o Projeto de Lei nº 6.551, de 2025, um projeto extremamente importante, que determina que 50% de todo o salário ou renda dos presos sejam destinados às vítimas. Então, se um cidadão rouba ou furta um celular, vai preso, trabalha e arrecada dinheiro, 50% desse valor deverão ser destinados à pessoa que perdeu o celular, à pessoa que foi agredida, à família da pessoa que foi morta, à pessoa que foi estuprada ou que sofreu qualquer dano causado por esse preso. Parabéns à Comissão de Segurança. Assim se faz justiça, pelo menos um pouco de justiça, para essas pessoas que sofreram danos causados por ladrões, assassinos e estupradores, que fazem mal à sociedade. Muitas vezes, as vítimas acabam sendo punidas: tiveram o carro roubado, capotado, a moto roubada e capotada, e o prejuízo financeiro fica integralmente com elas. O cidadão vai preso, mas o prejuízo financeiro fica com a vítima. Agora, eles terão de destinar 50% daquilo que produzirem durante o cumprimento da pena às vítimas que lesaram. Então, parabéns à Comissão de Segurança Pública pela aprovação do Projeto de Lei nº 6.551, de 2025. Além disso, Presidente, há outro projeto muito importante aprovado em Comissão nesta Casa: o projeto que classifica a atividade dos guardas municipais como atividade de alta periculosidade. E é claro que é. Eles estão nas ruas, muitas vezes sofrendo agressões e arriscando a própria vida. Um bandido está cometendo um assalto, eles passam perto para tentar coibir a ação e acabam levando tiros; são abordados e podem até ser mortos. Então, parabéns. Os guardas municipais precisam, sim, ser reconhecidos como profissionais que exercem atividade de alta periculosidade. Precisam receber benefícios por isso e ser enxergados pela sociedade, pela Câmara dos Deputados e por nós, que estamos aqui fazendo as leis. Portanto, mais uma vez, parabéns a esta Casa pela aprovação desse projeto em Comissão. Muito obrigado, Presidente. Boa noite a todos."
+    },
     {
       "data": "2026-04-15T18:36",
       "fase": "Breves Comunicações",

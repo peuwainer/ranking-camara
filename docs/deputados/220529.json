@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220529.jpg",
-  "score": 40.1,
-  "rank": 13,
+  "score": 41.1,
+  "rank": 10,
   "proposicoes": [
     {
       "id": 2620100,
@@ -60,6 +60,24 @@
       "ementa": "Institui a Política Nacional de Educação para o Trânsito nas Escolas de Ensino Fundamental e Médio, com ênfase no uso consciente de bicicletas, patinetes, skates e veículos elétricos, e dá outras providências.",
       "data": "2026-05-04T16:37",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620966"
+    },
+    {
+      "id": 2623339,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre medidas a serem tomadas em situações emergenciais ou de calamidade pública decorrente de crises humanitárias, sanitárias ou decorrentes de desastres naturais.",
+      "data": "2026-05-11T11:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623339"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
     }
   ],
   "discursos": [

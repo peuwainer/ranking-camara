@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220570.jpg",
-  "score": 20.26,
-  "rank": 393,
+  "score": 21.36,
+  "rank": 383,
   "proposicoes": [
     {
       "id": 2615348,
@@ -33,6 +33,24 @@
       "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990, para instituir o Regime de Urgência Investigativa em crimes hediondos, autorizar medidas cautelares excepcionais em situações de risco iminente e dar outras providências.",
       "data": "2026-04-29T15:25",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620009"
+    },
+    {
+      "id": 2623297,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Diagnóstico Laboratorial (PNDL), estabelece diretrizes para sua implementação no Sistema Único de Saúde (SUS) e dá outras providências.",
+      "data": "2026-05-09T15:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623297"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
     }
   ],
   "discursos": [],

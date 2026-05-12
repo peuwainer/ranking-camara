@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204572.jpg",
-  "score": 33.85,
-  "rank": 56,
+  "score": 34.41,
+  "rank": 58,
   "proposicoes": [
     {
       "id": 2622164,
@@ -15,6 +15,15 @@
       "ementa": "Altera o art. 2º do Projeto de Lei nº 3.984 de 2025, para elevar a pena do crime de estupro de vulnerável, previsto no art. 217-A do Código Penal.",
       "data": "2026-05-06T13:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622164"
+    },
+    {
+      "id": 2623400,
+      "tipo": "PEC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
+      "data": "2026-05-11T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
     }
   ],
   "discursos": [

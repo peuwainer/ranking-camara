@@ -4,9 +4,19 @@
   "partido": "PSD",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/92699.jpg",
-  "score": 21.29,
-  "rank": 377,
-  "proposicoes": [],
+  "score": 21.89,
+  "rank": 373,
+  "proposicoes": [
+    {
+      "id": 2623348,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a atualização da Lei 14.133, de 1º de abril de 2021, para dispor sobre a vedação à aplicação da modalidade de pregão para contratações de obras e serviços de engenharia; a vedação da utilização do modo aberto para processar licitações de obras e serviços de engenharia; a inexequibilidade absoluta das propostas cujo valor seja abaixo de 75% (setenta e cinco) por cento do valor orçado; o prazo máximo de 30 (trinta) dias para o adimplemento das obrigações de pagamento pela Administração, contados do adimplemento da obrigação contratual; assim como a obrigatoriedade, para contratações de obra, do depósito dos recursos necessários em conta vinculada para custear as obrigações de pagamento de cada etapa a ser executada.",
+      "data": "2026-05-08T12:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623348"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

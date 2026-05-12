@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
-  "score": 30.57,
-  "rank": 107,
+  "score": 30.88,
+  "rank": 111,
   "proposicoes": [
     {
       "id": 2616098,
@@ -87,6 +87,15 @@
       "ementa": "Dispõe sobre a vedação ao proveito econômico decorrente da exploração de ato ilícito próprio e dá outras providências",
       "data": "2026-05-07T15:24",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622965"
+    },
+    {
+      "id": 2623496,
+      "tipo": "PL",
+      "numero": 2304,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.656, de 3 de junho de 1998, para dispor sobre o exercício da portabilidade de carências em planos privados de assistência à saúde.",
+      "data": "2026-05-11T18:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623496"
     }
   ],
   "discursos": [],
