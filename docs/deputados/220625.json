@@ -4,8 +4,8 @@
   "partido": "AVANTE",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220625.jpg",
-  "score": 28.64,
-  "rank": 168,
+  "score": 29.8,
+  "rank": 159,
   "proposicoes": [
     {
       "id": 2617283,
@@ -33,6 +33,15 @@
       "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
       "data": "2026-05-11T14:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    },
+    {
+      "id": 2623604,
+      "tipo": "PEC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
+      "data": "2026-05-12T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
     }
   ],
   "discursos": [

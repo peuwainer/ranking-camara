@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178947.jpg",
-  "score": 23.17,
-  "rank": 341,
+  "score": 24.96,
+  "rank": 306,
   "proposicoes": [
     {
       "id": 2619329,
@@ -78,6 +78,24 @@
       "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
       "data": "2026-05-11T14:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    },
+    {
+      "id": 2623604,
+      "tipo": "PEC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
+      "data": "2026-05-12T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2623911,
+      "tipo": "EMP",
+      "numero": 16,
+      "ano": 0,
+      "ementa": "Institui o marco legal do transporte público coletivo urbano e altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), a Lei nº 10.336, de 19 de dezembro de 2001, a Lei nº 10.636, de 30 de dezembro de 2002, e a Lei nº 12.587, de 3 de janeiro de 2012 (Lei de Mobilidade Urbana).",
+      "data": "2026-05-12T17:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623911"
     }
   ],
   "discursos": [

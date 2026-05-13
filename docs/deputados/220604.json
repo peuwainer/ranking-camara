@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg",
-  "score": 39.47,
-  "rank": 16,
+  "score": 39.32,
+  "rank": 23,
   "proposicoes": [
     {
       "id": 2616033,
@@ -176,6 +176,12 @@
       "desde": "2026-02-03T00:00"
     },
     {
+      "nome": "Comissão de Comunicação",
+      "sigla": "CCOM",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
       "nome": "Comissão de Minas e Energia",
       "sigla": "CME",
       "cargo": "Suplente",
@@ -188,21 +194,9 @@
       "desde": "2026-02-03T00:00"
     },
     {
-      "nome": "Comissão de Trabalho",
-      "sigla": "CTRAB",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Viação e Transportes",
       "sigla": "CVT",
       "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Comunicação",
-      "sigla": "CCOM",
-      "cargo": "Titular",
       "desde": "2026-02-03T00:00"
     },
     {

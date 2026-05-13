@@ -4,9 +4,19 @@
   "partido": "PP",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204356.jpg",
-  "score": 25.44,
-  "rank": 277,
-  "proposicoes": [],
+  "score": 26.44,
+  "rank": 261,
+  "proposicoes": [
+    {
+      "id": 2623604,
+      "tipo": "PEC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
+      "data": "2026-05-12T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

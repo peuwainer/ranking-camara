@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
-  "score": 25.86,
-  "rank": 262,
+  "score": 27.29,
+  "rank": 235,
   "proposicoes": [
     {
       "id": 2615923,
@@ -44,7 +44,22 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617306"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-12T14:40",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, aqueles que nos assistem e que nos ouvem, quero dizer que hoje é um dia histórico para o B",
+      "transcricao": "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, aqueles que nos assistem e que nos ouvem, quero dizer que hoje é um dia histórico para o Brasil. O Programa Nacional de Combate ao Crime Organizado que foi lançado no dia de hoje não tem precedentes em termos da estratégia, dos volumes de recurso e das articulações que foram feitas entre os mais variados segmentos das áreas de seguranças consideradas no Brasil. Ele também aproveita experiências acumuladas fora mesmo do nosso País. Quero aqui enaltecer o Presidente Lula e, ao mesmo tempo o Ministro Wellington César, que fizeram explanações na manhã de hoje, onde apresentaram quatro eixos que foram construídos, ouvindo os Secretários de Seguranças dos Estados e considerando aquilo que se tem visualizado em todos os Estados. Faço referência aos quatro pilares desse programa, que passam pelo ataque ao fluxo de financiamentos e lavagens. Já tivemos experiências que deram certo aqui no nosso País recentemente, e esta é a questão fundamental: cortar o fluxo do financiamento do crime. Ao mesmo tempo, há a questão do mercado ilegal de armas que foi consensuada entre os Entes Federados, entre os Estados, a União e também olhado os próprios Municípios. Também temos de ver estancados no nosso País a violência letal e os homicídios sem resposta. Além disso, há a questão das lideranças que ordenam de dentro dos presídios, verdadeiros escritórios do crime, que nós precisamos estancar. Dentro desse Programa Nacional de Combate ao Crime Organizado, a ideia é que pelo menos 138 presídios nacionais passem a ter os mesmos critérios, os rigores que se encontram hoje nos presídios federais, ou seja, controle efetivo para que seja estancada essa ação dos criminosos, de comandarem, de dentro dos presídios, as ações lá fora. O que nós precisamos é recuperar o espaço que se perdeu para o crime organizado, seja nas nossas comunidades ou mesmo na Vieira Souto, na Paulista e assim por diante. Nós precisamos dar um basta nesta realidade que nós estamos encontrando na segurança pública. Por isso, um grande programa veiculado pelo Presidente Lula no dia de hoje que, certamente, com articulação entre União, Estados e Municípios, terá resultados muito efetivos. Obrigado, Sr. Presidente. Se puder, peço o registro do meu pronunciamento no programa A Voz do Brasil. Obrigado."
+    },
+    {
+      "data": "2026-05-12T14:20",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, é uma satisfação estarmos recebendo nesta Casa Legislativa a Vereadora Marisa, Vereadora do Município ",
+      "transcricao": "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, é uma satisfação estarmos recebendo nesta Casa Legislativa a Vereadora Marisa, Vereadora do Município de Pelotas, juntamente com a Maria Eduarda, também com o Renan. Ressalto aqui que a Vereadora Marisa, além de outras tantas pautas, é uma grande defensora da causa das políticas públicas para os animais. Então, fica aqui o nosso registro. Seja muito bem-vinda à Câmara Federal. Obrigado, Sr. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a apurar e acompanhar os danos causados pelas enchentes de 2023 e 2024, que atingiram o estado do Rio Grande do Sul",

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160640.jpg",
-  "score": 27.82,
-  "rank": 205,
+  "score": 29.27,
+  "rank": 168,
   "proposicoes": [
     {
       "id": 2623400,
@@ -15,6 +15,24 @@
       "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
       "data": "2026-05-11T14:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    },
+    {
+      "id": 2623604,
+      "tipo": "PEC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
+      "data": "2026-05-12T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2623940,
+      "tipo": "PL",
+      "numero": 2337,
+      "ano": 2026,
+      "ementa": "Institui o Programa \"Recomeço com Fé\", que integra comunidades terapêuticas de base religiosa ao sistema de execução penal; estabelece a medida de acolhimento terapêutico-espiritual como alternativa à pena privativa de liberdade para crimes de menor potencial ofensivo relacionados ao uso de drogas; define critérios de credenciamento das entidades participantes; e dá outras providências.",
+      "data": "2026-05-12T17:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623940"
     }
   ],
   "discursos": [],

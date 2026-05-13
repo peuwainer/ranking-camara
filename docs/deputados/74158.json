@@ -4,7 +4,7 @@
   "partido": "PDT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74158.jpg",
-  "score": 55.76,
+  "score": 58.15,
   "rank": 4,
   "proposicoes": [
     {
@@ -510,6 +510,33 @@
       "ementa": "Emenda ao Substitutivo apresentando ao PL 2780, de 2024, que \"Institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.\"",
       "data": "2026-05-06T18:31",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622464"
+    },
+    {
+      "id": 2623975,
+      "tipo": "PL",
+      "numero": 2342,
+      "ano": 2026,
+      "ementa": "Altera a redação do § 7° do art. 9° da Lei nº 11.340, de 7 de agosto de 2006, para dispor sobre a prioridade de matrícula em instituição de educação básica de dependente de mulher em situação de violência doméstica e familiar.",
+      "data": "2026-05-12T18:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623975"
+    },
+    {
+      "id": 2623976,
+      "tipo": "PL",
+      "numero": 2343,
+      "ano": 2026,
+      "ementa": "Altera o art. 244-D do Decreto-Lei n° 2.848, de 7 de dezembro de 1940 – Código Penal, para considerar como causa de aumento de pena do crime de denunciação caluniosa a apresentação de denúncia com fim de impedimento ou dificultação de convivência familiar de criança ou adolescente.",
+      "data": "2026-05-12T18:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623976"
+    },
+    {
+      "id": 2623977,
+      "tipo": "PL",
+      "numero": 2344,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 – Lei Maria da Penha, para estabelecer que a aplicação de qualquer medida protetiva seja vinculada ao comparecimento do agressor a programas de recuperação e reeducação e  a seu acompanhamento psicossocial.",
+      "data": "2026-05-12T18:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623977"
     }
   ],
   "discursos": [],

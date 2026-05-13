@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220652.jpg",
-  "score": 25.94,
-  "rank": 259,
+  "score": 27.4,
+  "rank": 233,
   "proposicoes": [
     {
       "id": 2623400,
@@ -15,6 +15,24 @@
       "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
       "data": "2026-05-11T14:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    },
+    {
+      "id": 2623604,
+      "tipo": "PEC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
+      "data": "2026-05-12T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2623610,
+      "tipo": "PL",
+      "numero": 2325,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para ampliar o prazo máximo de internação e extinguir a liberação compulsória por critério etário em casos de atos infracionais graves.",
+      "data": "2026-05-12T11:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623610"
     }
   ],
   "discursos": [],

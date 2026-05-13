@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "AC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220591.jpg",
-  "score": 32.69,
-  "rank": 78,
+  "score": 34.24,
+  "rank": 69,
   "proposicoes": [
     {
       "id": 2617361,
@@ -60,6 +60,24 @@
       "ementa": "Esta lei institui o Programa Nacional de incentivo ao cultivo e exportação do açaí e produtos amazônicos.",
       "data": "2026-05-06T13:36",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622397"
+    },
+    {
+      "id": 2623965,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa “Ecoturismo Amazônico”, com o objetivo de fomentar o turismo sustentável, e dá outras providências.",
+      "data": "2026-05-12T16:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623965"
+    },
+    {
+      "id": 2623967,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Nacional de Requalificação Profissional da Moda, com prioridade para a Região Norte, e dá outras providências.",
+      "data": "2026-05-12T15:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623967"
     }
   ],
   "discursos": [

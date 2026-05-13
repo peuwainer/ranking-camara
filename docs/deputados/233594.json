@@ -4,9 +4,19 @@
   "partido": "PODE",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/233594.jpg",
-  "score": 20.14,
-  "rank": 405,
-  "proposicoes": [],
+  "score": 21.43,
+  "rank": 392,
+  "proposicoes": [
+    {
+      "id": 2623837,
+      "tipo": "PLP",
+      "numero": 134,
+      "ano": 2026,
+      "ementa": "Acrescenta §3° no Art. 74 da Lei n° 5.172 de 25 de outubro de 1966, incluindo equiparação tributária entre União e Estados, em se tratando de redução de alíquota de imposto nos combustíveis.",
+      "data": "2026-05-12T15:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623837"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-04-29T16:48",

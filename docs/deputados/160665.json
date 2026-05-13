@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
-  "score": 30.88,
-  "rank": 111,
+  "score": 31.94,
+  "rank": 95,
   "proposicoes": [
     {
       "id": 2616098,
@@ -96,6 +96,15 @@
       "ementa": "Altera a Lei nº 9.656, de 3 de junho de 1998, para dispor sobre o exercício da portabilidade de carências em planos privados de assistência à saúde.",
       "data": "2026-05-11T18:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623496"
+    },
+    {
+      "id": 2623588,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 e dá outras providências.",
+      "data": "2026-05-12T10:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623588"
     }
   ],
   "discursos": [],

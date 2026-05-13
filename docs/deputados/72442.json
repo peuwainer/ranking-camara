@@ -4,9 +4,19 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/72442.jpg",
-  "score": 26.82,
-  "rank": 230,
-  "proposicoes": [],
+  "score": 27.89,
+  "rank": 213,
+  "proposicoes": [
+    {
+      "id": 2623961,
+      "tipo": "PL",
+      "numero": 2339,
+      "ano": 2026,
+      "ementa": "Inclui a disciplina de Educação Alimentar e Nutricional como componente curricular obrigatório na educação básica, nas redes pública e privada de ensino, e dá outras providências.",
+      "data": "2026-05-12T18:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623961"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

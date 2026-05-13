@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220701.jpg",
-  "score": 33.78,
-  "rank": 64,
+  "score": 35.24,
+  "rank": 57,
   "proposicoes": [
     {
       "id": 2615442,
@@ -96,6 +96,24 @@
       "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
       "data": "2026-05-11T14:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    },
+    {
+      "id": 2623604,
+      "tipo": "PEC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
+      "data": "2026-05-12T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2623974,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Delegado Matheus Laiola (UNIÃO-PR), pela aprovação deste, e do Substitutivo adotado pela CTRAB, com substitutivo.",
+      "data": "2026-05-12T18:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623974"
     }
   ],
   "discursos": [],

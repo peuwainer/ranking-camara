@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/214694.jpg",
-  "score": 30.25,
-  "rank": 127,
+  "score": 31.71,
+  "rank": 100,
   "proposicoes": [
     {
       "id": 2622048,
@@ -33,6 +33,24 @@
       "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
       "data": "2026-05-11T14:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    },
+    {
+      "id": 2623604,
+      "tipo": "PEC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
+      "data": "2026-05-12T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2623699,
+      "tipo": "PLP",
+      "numero": 132,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento do corretor de imóveis como Microempreendedor Individual (MEI).",
+      "data": "2026-05-12T13:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623699"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178989.jpg",
-  "score": 26.17,
-  "rank": 248,
+  "score": 27.43,
+  "rank": 232,
   "proposicoes": [
     {
       "id": 2615736,
@@ -78,6 +78,15 @@
       "ementa": "Institui a Política Nacional de Interoperabilidade de Dados da Administração Pública (PNID), cria a Infraestrutura Nacional de Intercâmbio de Dados (INID), estabelece o princípio Once Only para serviços públicos, e dá outras providências.",
       "data": "2026-05-07T17:47",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623140"
+    },
+    {
+      "id": 2623944,
+      "tipo": "PL",
+      "numero": 2338,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.690, de 19 de julho de 2012, para dispor sobre condições mínimas específicas aplicáveis ao trabalho cooperado na assistência domiciliar à saúde (home care).",
+      "data": "2026-05-12T18:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623944"
     }
   ],
   "discursos": [],

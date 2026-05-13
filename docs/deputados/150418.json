@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/150418.jpg",
-  "score": 26.54,
-  "rank": 241,
+  "score": 28.35,
+  "rank": 200,
   "proposicoes": [
     {
       "id": 2618587,
@@ -33,6 +33,24 @@
       "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990, que dispõe sobre a proteção do consumidor e dá outras providências.",
       "data": "2026-04-30T14:48",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620477"
+    },
+    {
+      "id": 2623588,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 e dá outras providências.",
+      "data": "2026-05-12T10:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623588"
+    },
+    {
+      "id": 2623618,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre a portabilidade de dados financeiros, a transparência nos serviços bancários e a proteção dos direitos dos consumidores no setor financeiro, e dá outras providências.",
+      "data": "2026-05-11T19:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623618"
     }
   ],
   "discursos": [

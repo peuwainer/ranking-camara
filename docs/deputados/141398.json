@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141398.jpg",
-  "score": 27.82,
-  "rank": 204,
+  "score": 27.13,
+  "rank": 239,
   "proposicoes": [
     {
       "id": 2615935,
@@ -56,15 +56,15 @@
       "desde": "2025-09-01T00:00"
     },
     {
-      "nome": "Comissão de Minas e Energia",
-      "sigla": "CME",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
       "sigla": "CREDN",
       "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Suplente",
       "desde": "2026-02-03T00:00"
     },
     {
@@ -72,6 +72,12 @@
       "sigla": "PEC22119",
       "cargo": "Titular",
       "desde": "2026-04-28T00:00"
+    },
+    {
+      "nome": "Comissão de Trabalho",
+      "sigla": "CTRAB",
+      "cargo": "Titular",
+      "desde": "2026-05-12T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/141398/votacoes-nominais-plenario/2026"

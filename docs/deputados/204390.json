@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204390.jpg",
-  "score": 25.41,
-  "rank": 279,
+  "score": 25.32,
+  "rank": 292,
   "proposicoes": [
     {
       "id": 2623400,
@@ -15,6 +15,24 @@
       "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
       "data": "2026-05-11T14:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    },
+    {
+      "id": 2623604,
+      "tipo": "PEC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
+      "data": "2026-05-12T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2623700,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Acrescenta o §10 ao artigo 1º da lei 10.260 de 12 de julho de 2001 para garantir que os cursos necessários à formação das carreiras de que trata a lei 13.475 de 28 de agosto de 2017 possam ser custeados pelo Fundo de Financiamento ao estudante do Ensino Superior - FIES.",
+      "data": "2026-05-11T17:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623700"
     }
   ],
   "discursos": [],

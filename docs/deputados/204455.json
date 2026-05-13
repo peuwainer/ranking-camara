@@ -4,8 +4,8 @@
   "partido": "NOVO",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204455.jpg",
-  "score": 42.95,
-  "rank": 8,
+  "score": 51.27,
+  "rank": 6,
   "proposicoes": [
     {
       "id": 2616776,
@@ -78,9 +78,154 @@
       "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
       "data": "2026-05-11T14:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    },
+    {
+      "id": 2623535,
+      "tipo": "PL",
+      "numero": 2309,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.605, de 1998, para disciplinar a execução orçamentária dos recursos provenientes de multas ambientais.",
+      "data": "2026-05-12T08:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623535"
+    },
+    {
+      "id": 2623536,
+      "tipo": "PL",
+      "numero": 2310,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.947, de 2 de agosto de 2024 para aprimorar a transparência e a execução orçamentária do Fundo de Investimento em Infraestrutura Social - FIIS.",
+      "data": "2026-05-12T08:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623536"
+    },
+    {
+      "id": 2623537,
+      "tipo": "PL",
+      "numero": 2311,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 8.958, de 20 de dezembro de 1994, e nº 10.973, de 2 de novembro de 2004, para assegurar o adequado tratamento orçamentário dos recursos públicos  federais.",
+      "data": "2026-05-12T08:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623537"
+    },
+    {
+      "id": 2623538,
+      "tipo": "PL",
+      "numero": 2312,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.941, de 30 de julho de 2024 para assegurar o adequado tratamento orçamentário dos recursos do Fundo de Aperfeiçoamento da Defensoria Pública da União.",
+      "data": "2026-05-12T08:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623538"
+    },
+    {
+      "id": 2623539,
+      "tipo": "PL",
+      "numero": 2313,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.818, de 16 de janeiro de 2024, para adequar a execução orçamentária e financeira do Programa Pé-de-Meia.",
+      "data": "2026-05-12T08:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623539"
+    },
+    {
+      "id": 2623540,
+      "tipo": "PL",
+      "numero": 2314,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 12.351, de 22 de dezembro de 2010, e nº 12.304, de 2 de agosto de 2010, para assegurar o tratamento orçamentário das receitas da União decorrentes da exploração de petróleo e gás natural.",
+      "data": "2026-05-12T08:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623540"
+    },
+    {
+      "id": 2623541,
+      "tipo": "PL",
+      "numero": 2315,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.902, de 27 de junho de 2024, para assegurar o adequado tratamento orçamentário dos recursos do Fundo Nacional de Desenvolvimento Industrial e Tecnológico - FNDIT.",
+      "data": "2026-05-12T08:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623541"
+    },
+    {
+      "id": 2623542,
+      "tipo": "PL",
+      "numero": 2316,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.237, de 19 de novembro de 2021, com redação dada pela Lei nº 15.348, de 13 de fevereiro de 2026, para assegurar o adequado tratamento orçamentário das despesas do Auxílio Gás do Povo.",
+      "data": "2026-05-12T08:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623542"
+    },
+    {
+      "id": 2623543,
+      "tipo": "PL",
+      "numero": 2317,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.987, de 13 de fevereiro de 1995 para dispor sobre o tratamento orçamentário de receitas públicas associadas aos contratos de concessão.",
+      "data": "2026-05-12T08:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623543"
+    },
+    {
+      "id": 2623544,
+      "tipo": "PL",
+      "numero": 2318,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.327, de 29 de julho de 2016, para dispor sobre o tratamento orçamentário dos honorários advocatícios de sucumbência.",
+      "data": "2026-05-12T08:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623544"
+    },
+    {
+      "id": 2623604,
+      "tipo": "PEC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
+      "data": "2026-05-12T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2623608,
+      "tipo": "PL",
+      "numero": 2324,
+      "ano": 2026,
+      "ementa": "Institui o Estatuto da Liberdade dos Ativos Virtuais, dispõe sobre a validade de cláusulas contratuais que estipulem pagamento, liquidação ou indexação de obrigações em ativos virtuais em negócios jurídicos de natureza privada, reconhece o efeito liberatório condicionado do pagamento realizado nessas condições, disciplina a representação digital de direitos reais imobiliários por meio de tokens e altera a Lei nº 9.069, de 29 de junho de 1995, a Lei nº 10.192, de 14 de fevereiro de 2001, a Lei nº 10.406, de 10 de janeiro de 2002, a Lei nº 14.286, de 29 de dezembro de 2021, a Lei nº 14.478, de 21 de dezembro de 2022, e o Decreto-Lei nº 5.452, de 1º de maio de 1943.",
+      "data": "2026-05-12T11:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623608"
+    },
+    {
+      "id": 2623846,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Dia Nacional do Paradesporto e o Mês de Conscientização quanto à Importância da Prática de Atividades Físicas por Pessoas com Deficiência.",
+      "data": "2026-05-12T15:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623846"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-12T18:12",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Charles Fernandes, ouvi o Líder do Governo aqui falando sobre o plano do Governo do combate ao crime organizado. Sargento F",
+      "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Charles Fernandes, ouvi o Líder do Governo aqui falando sobre o plano do Governo do combate ao crime organizado. Sargento Fahur, Sargento Gonçalves e Cabo Gilberto Silva, no 20º ano de Governo do PT neste século, ele fala que, a partir de hoje, ele vai combater o crime organizado! O Lula, nos Estados Unidos, fala: \"você pode cometer crime até domingo, mas na segunda-feira não pode mais! Quem cometeu cometeu, quem cometer agora que vai estar errado!\" Olha, eu estou ansioso para ver o destaque do Partido Novo, porque hoje um menor de idade, com 17 anos e 11 meses, que estupra e mata, é liberado com 21 anos. Com o destaque do Partido Novo, com 17 anos e 11 meses, estuprou e matou, só vai sair com 30! Eles não querem! Plano de combate à criminalidade do PT, em que 90% dos presos vota no PT, você vai cair nessa, brasileiro? Eu só vou acreditar no dia em que 10% somente votar no PT! Partido Novo é \"sim\"."
+    },
+    {
+      "data": "2026-05-12T15:52",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Sem revisão do orador.) - Obrigado, Presidente Charles. Presidente Charles, eu fiquei ouvindo aqui alguns Deputados atribuindo aí crimes, ou possíveis crimes, a Deputados l",
+      "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Sem revisão do orador.) - Obrigado, Presidente Charles. Presidente Charles, eu fiquei ouvindo aqui alguns Deputados atribuindo aí crimes, ou possíveis crimes, a Deputados ligados ao bolsonarismo. Eu queria fazer uma defesa. Em 2018, quando o Presidente Bolsonaro foi eleito, ele elegeu mais de 50 Deputados Federais pelo antigo PSL. Nenhum desses Deputados Federais eleitos, que não eram políticos, inclusive eu, nunca sonhei em ser Deputado Federal, nenhum desses Deputados se envolveram com crimes. Nenhum; nenhum. O que aconteceu? No final do primeiro mandato do Presidente Bolsonaro, ele foi para o PL. Mas o PL é um liquidificador. Muitos Deputados que eram de outros partidos vieram para o PL se dizendo bolsonaristas. Se vocês perceberem, todos os nomes envolvidos com o Banco Master e o escândalo do INSS são velhos políticos, que fazem parte de uma estrutura política construída e sacramentada pelo PT em 20 anos de Governo deste século. Eu vou reafirmar: quando se fala que o Senador Ciro Nogueira é bolsonarista, o Senador Ciro Nogueira é profissional. O Senador Ciro Nogueira é Lula, é Bolsonaro, é Ciro, é Brizola, é Fernando Henrique, é o raio que o parta! É tudo! É tudo. Assim, como 400 Deputados aqui nesta Casa são tudo. No Conselho de Ética, na semana passada, quem puniu os Deputados Marcel van Hattem, Zé Trovão e Marcos Pollon foram PP, Republicanos, PSD e União Brasil, que, somados aos quatro votos do PT e do PSOL, puniram os Deputados. São tudo! Olha isso aqui. Eu me orgulho muito de ter sido Presidente da Comissão do Esporte em 2023. Eu tive 60 milhões de reais de emenda de Comissão. Eu dividi os 60 milhões de reais por todos os participantes. Ano passado, a Comissão do Esporte teve 1 bilhão de reais. Sabe quanto eu ganhei? Zero. Eu não saio. Eu nem sabia quem era Vorcaro, não fazia ideia. O Vorcaro explodia aqui, patrocinava todo mundo, até cunhada de Deputado. Deputado Bohn Gass, parece que o Centrão é um líder do MST que manda uma hora a Esquerda invadir uma fazenda, outra hora a Direita invadir uma fazenda, e quem conquistar a fazenda primeiro, o Centrão vai. É isso. Todos têm que ir para cadeia. Todos que cometem crime neste País têm que ir para cadeia. De todos os Deputados Federais eleitos em 2018 com o Presidente Bolsonaro, Deputado Bohn Gass  no Rio de Janeiro, foram doze eleitos , só quatro retornaram em 2022. Nenhum está envolvido com o Banco Master, com o INSS. Então, a gente tem que dividir este Plenário aqui entre quem tem voto de opinião, sendo de esquerda e de direita, e quem domina. Quem tem o poder aqui não é quem tem voto de opinião, é quem tem voto de ocasião, que explora fortemente a vulnerabilidade social do nosso País. Por exemplo, no Rio de Janeiro, a Deputada Benedita tem voto de opinião, o Deputado Luiz Lima aqui tem voto de opinião, o Deputado Carlos Jordy tem voto de opinião, o Deputado Glauber Braga tem voto de opinião. Só que 80% dos Deputados Federais do Rio de Janeiro não têm voto de opinião. Eles têm voto de ocasião e sabem trabalhar muito bem com os recursos que, infelizmente, o atual Governo Federal, que está no seu quinto mandato neste século, de forma irresponsável, distribui, através de emenda de Comissão, através de extraorçamentária. E dá nisso aqui. Os que estão envolvidos não pertencem à Direita nem à Esquerda, os que estão envolvidos pertencem ao nada. Esse nada toma conta há muitos anos aqui deste Plenário. Nem participam aqui de debates. Esta Casa aqui está vazia. São pouquíssimos os que vêm aqui e debatem. Mas são os que mandam, infelizmente. Hoje, quem manda no Congresso Nacional, com todo respeito, é um representante do Amapá, que tem menos habitantes do que São João de Meriti, no Rio de Janeiro, e um cidadão que nasceu na cidade de Patos, na Paraíba. Eles que mandam no Brasil. Esses dois pilares de poderes do Congresso Nacional mandam no Brasil. Olhem como a representatividade da força econômica e populacional é completamente equivocada nesta Casa. E o STF coroa com flores indicações políticas partidárias quando o Presidente indica o seu advogado; indica o Flávio Dino, que é militante político, desde jovenzinho tem foto com Lula; que quis indicar o Messias. E o Brasil, a quinta economia do mundo, tem um salário mínimo de 270 dólares, cinquenta milhões de brasileiros endividados e trinta milhões de brasileiros no Bolsa Família. Getúlio Vargas deixou uma herança, que foi o Lula, que acha que o Estado vai gerar riqueza. Quem gera riqueza é trabalho, e, agora, querem tirar o trabalho. Realmente, o Brasil só sobrevive porque ele é muito rico, territorialmente, tem uma natureza incrível, porque, se não fosse isso, a gente já havia virado uma Angola, Moçambique, Uganda e por aí vai. Obrigado, Presidente Charles."
+    },
+    {
+      "data": "2026-05-12T15:12",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Sem revisão do orador.) - Obrigado. Presidente Charles, no fim da semana passada, quatro brasileiros saíram daqui do Brasil, foram ali às proximidades de Israel, numa floti",
+      "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Sem revisão do orador.) - Obrigado. Presidente Charles, no fim da semana passada, quatro brasileiros saíram daqui do Brasil, foram ali às proximidades de Israel, numa flotilha, saindo da Espanha, para chegar até a Palestina, para fazer uma espécie de propaganda política pró-Hamas. Eu gostaria de dizer que os cidadãos palestinos, infelizmente, não são nem recebidos no Egito, na Síria, na Jordânia ou no Líbano, países que fazem fronteira com Israel. Esses países morrem de medo do Hamas, morrem de medo de abrir suas fronteiras para oferecer ajuda aos palestinos e membros do Hamas invadirem. Países tão emblemáticos ali do Oriente Médio. Esses brasileiros, quando foram presos pelas forças de Israel, eu lembrei daquela música do Guilherme Arantes, \"Meu Mundo e Nada Mais\", de 1976, que diz assim: Quando eu fui ferido Vi tudo mudar Das verdades Que eu sabia Olha, como é que um brasileiro sai daqui do Brasil, o Brasil do PT: taxa de homicídio por 100 mil habitantes no Brasil, 21 a cada 100 mil habitantes; da Rússia, 6; da Ucrânia, de 5 a 6; de Israel, 3; da Palestina, 4. Por que o Sr. Tiago e os seus amigos, que foram para lá, essa turma que fala sempre sem anistia... Então, quer dizer, é o mundo... Quando o mundo deles tem a ideologia sobrepondo a razão, eles são capazes de apoiar uma organização terrorista que mata pessoas, mas que fala sem anistia para pessoas aqui que estão fazendo um movimento. Pode até se imaginar que querem derrubar algum governo. Mas o que é pior? Você matar pessoas ou derrubar governo? O que é pior? Você matar pessoas ou pichar uma estátua? Por que o Sr. Tiago não pega uma flotilha, entra baía de Guanabara adentro, no Rio de Janeiro, e vai na direção do Complexo da Maré pedir para o tráfico parar de oprimir as pessoas? A taxa de homicídio na Maré certamente é maior do que a da brasileira, que é 21 a cada 100 mil habitantes; deve chegar a 40, 50. É 25 vezes maior do que a da Faixa de Gaza. Olha, a gente vive em um país... Hoje eu tive uma cerimônia linda aqui, que é a Nossa Senhora do Rosário dos Homens Pretos, em Salvador, de 1685, onde, naquela época, havia divergências seriíssimas. Só que as divergências que a gente encontra hoje são de uma ideologia que faz sobrepor uma razão até humana. Então, Israel já soltou esses quatro brasileiros. Enquanto Israel já soltou quatro brasileiros que vão apoiar movimento terrorista, como o Hamas  pesadíssimo, que põe bebês no micro-ondas, que entram nas casas dos israelenses e matam sem motivo; não quero aqui enaltecer guerra , enquanto isso, o nosso superior, o nosso Supremo Tribunal Federal, mantém presos pessoas que foram julgadas de forma coletiva, sem individualização de pena. É muito triste saber que mesmo países em guerra, como Israel, Palestina, Síria, Líbano, Jordânia e Egito, são mais brandos com o julgamento dos seus opositores do que o Supremo Tribunal Federal brasileiro. Obrigado, Presidente Charles."
+    },
+    {
+      "data": "2026-05-12T14:40",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Charles, fica muito difícil acreditar no Governo do PT depois de cinco mandatos, no séc. XXI, quando ele apresenta um plano",
+      "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Charles, fica muito difícil acreditar no Governo do PT depois de cinco mandatos, no séc. XXI, quando ele apresenta um plano de combate às organizações criminosas, se 90% dos presos aptos a votar, segundo o nosso Tribunal Superior Eleitoral, vota no Lula. Eu vou repetir, como é que você vai acreditar que um Governo vai combater o crime, se 90% dos presos votam no Lula? Eu só vou acreditar quando 10% dos presos votarem no Lula. Aí, o plano de combate ao crime organizado vai funcionar. Enquanto 90% dos traficantes, assassinos, sequestradores, bandidos em geral votarem no PT, sinto muito, mas não dá para acreditar nesse plano que o Governo do PT, depois de 20 anos governando o Brasil, neste século, tem para combater o crime organizado. Desculpem-me!"
+    },
     {
       "data": "2026-05-11T18:44",
       "fase": "Breves Comunicações",

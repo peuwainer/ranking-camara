@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204351.jpg",
-  "score": 29.23,
-  "rank": 160,
+  "score": 29.24,
+  "rank": 172,
   "proposicoes": [
     {
       "id": 2616769,
@@ -33,6 +33,24 @@
       "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
       "data": "2026-05-11T14:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    },
+    {
+      "id": 2623577,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 – Lei de Diretrizes e Bases da Educação, para garantir a formação presencial nos cursos de graduação das profissões regulamentadas da área da saúde.",
+      "data": "2026-05-12T10:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623577"
+    },
+    {
+      "id": 2623604,
+      "tipo": "PEC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
+      "data": "2026-05-12T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
     }
   ],
   "discursos": [],

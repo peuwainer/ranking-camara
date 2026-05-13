@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220628.jpg",
-  "score": 25.38,
-  "rank": 281,
+  "score": 27.56,
+  "rank": 227,
   "proposicoes": [
     {
       "id": 2616016,
@@ -24,6 +24,33 @@
       "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
       "data": "2026-05-11T14:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    },
+    {
+      "id": 2623589,
+      "tipo": "PL",
+      "numero": 2322,
+      "ano": 2026,
+      "ementa": "Dispõe sobre critérios de idoneidade para acesso a programas federais de fomento rural e dá outras providências.",
+      "data": "2026-05-12T11:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623589"
+    },
+    {
+      "id": 2623590,
+      "tipo": "PL",
+      "numero": 2323,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Simplificação do Licenciamento Ambiental Rural de Pequeno Porte e dá outras providências.",
+      "data": "2026-05-12T11:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623590"
+    },
+    {
+      "id": 2623604,
+      "tipo": "PEC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
+      "data": "2026-05-12T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
     }
   ],
   "discursos": [],

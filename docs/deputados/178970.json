@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178970.jpg",
-  "score": 48.78,
-  "rank": 6,
+  "score": 50.03,
+  "rank": 7,
   "proposicoes": [
     {
       "id": 2615559,
@@ -267,6 +267,24 @@
       "ementa": "Institui regime especial de proteção ao acesso à Justiça em medidas judiciais fundadas em erro estatal previamente reconhecido.",
       "data": "2026-05-11T17:52",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623471"
+    },
+    {
+      "id": 2623833,
+      "tipo": "PL",
+      "numero": 2328,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a responsabilização de estabelecimentos de saúde e assistência por violações aos direitos de crianças e adolescentes Autistas, assim como crianças com outras deficiências, e sobre o acompanhamento das práticas adotadas por esses estabelecimentos.",
+      "data": "2026-05-12T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623833"
+    },
+    {
+      "id": 2623839,
+      "tipo": "PL",
+      "numero": 2329,
+      "ano": 2026,
+      "ementa": "Altera a Lei de Execução Penal para reconhecer práticas sociais educativas como modalidade de remição de pena e prever trilhas formativas em direitos humanos, democracia, igualdade, diversidade e cultura de paz, com prioridade, pertinência temática ou recomendação judicial conforme a natureza do delito.",
+      "data": "2026-05-12T15:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623839"
     }
   ],
   "discursos": [

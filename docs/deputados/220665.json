@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220665.jpg",
-  "score": 27.94,
-  "rank": 194,
+  "score": 29.6,
+  "rank": 161,
   "proposicoes": [
     {
       "id": 2617075,
@@ -42,6 +42,24 @@
       "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
       "data": "2026-05-11T14:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    },
+    {
+      "id": 2623604,
+      "tipo": "PEC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
+      "data": "2026-05-12T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2623878,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Institui medidas de enfrentamento e repressão ao crime de violência sexual de crianças ou adolescentes, inclusive no ambiente digital e com uso de inteligência artificial, altera a Lei nº 8.069/90 (Estatuto da Criança e do Adolescente), o Decreto-Lei n° 2.848, de 7 de dezembro de 1940 (Código Penal), o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos) e a Lei nº 12.850/2013 (Lei das Organizações Criminosas), para recrudescer o tratamento penal aos criminosos sexuais.",
+      "data": "2026-05-12T16:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623878"
     }
   ],
   "discursos": [],

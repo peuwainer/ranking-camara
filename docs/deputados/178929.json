@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178929.jpg",
-  "score": 39.87,
-  "rank": 14,
+  "score": 40.53,
+  "rank": 18,
   "proposicoes": [
     {
       "id": 2616082,
@@ -60,6 +60,15 @@
       "ementa": "Altera a redação da Lei n° 13.796, de 3 de janeiro de 2019 e dá outras providências.",
       "data": "2026-05-11T16:17",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623437"
+    },
+    {
+      "id": 2623604,
+      "tipo": "PEC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
+      "data": "2026-05-12T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
     }
   ],
   "discursos": [

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204485.jpg",
-  "score": 27.01,
-  "rank": 225,
+  "score": 28.05,
+  "rank": 211,
   "proposicoes": [
     {
       "id": 2620997,
@@ -33,6 +33,15 @@
       "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2026, para ampliar o limite de receita bruta aplicável ao enquadramento do contribuinte como Microempreendedor Individual – MEI e para dispor sobre a autorregularização de obrigações no âmbito do Simples Nacional.",
       "data": "2026-05-05T10:54",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621001"
+    },
+    {
+      "id": 2623604,
+      "tipo": "PEC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
+      "data": "2026-05-12T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
     }
   ],
   "discursos": [

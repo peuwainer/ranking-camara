@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
-  "score": 39.16,
-  "rank": 18,
+  "score": 40.69,
+  "rank": 16,
   "proposicoes": [
     {
       "id": 2617519,
@@ -78,6 +78,24 @@
       "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 (Lei Brasileira de Inclusão da Pessoa com Deficiência), para classificar a espinha bífida aberta como deficiência para todos os efeitos legais.",
       "data": "2026-05-07T17:43",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623426"
+    },
+    {
+      "id": 2623522,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Estabelece diretrizes para a priorização de recursos federais em saúde mental nos estados com baixa cobertura de serviços psicossociais, cria programa de incentivo à interiorização de profissionais da saúde mental e vincula a destinação orçamentária a indicadores de pobreza, isolamento geográfico e taxa de suicídio.",
+      "data": "2026-05-11T18:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623522"
+    },
+    {
+      "id": 2623584,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei 8.069, de 13 de julho de 1990, que “dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências” para determinar prioridade de atendimento em unidades de saúde para crianças e adolescentes acompanhados por membro do Conselho Tutelar no exercício de suas funções.",
+      "data": "2026-05-12T10:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623584"
     }
   ],
   "discursos": [

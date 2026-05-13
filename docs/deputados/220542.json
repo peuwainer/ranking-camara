@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220542.jpg",
-  "score": 27.82,
-  "rank": 202,
+  "score": 28.68,
+  "rank": 190,
   "proposicoes": [
     {
       "id": 2620836,
@@ -15,6 +15,15 @@
       "ementa": "Dispõe sobre a obrigatoriedade de divulgação prévia, clara e ostensiva da premiação em rodeios e eventos competitivos similares, estabelece condicionantes para concessão de autorização pública e dá outras providências.",
       "data": "2026-05-04T14:51",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620836"
+    },
+    {
+      "id": 2623604,
+      "tipo": "PEC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
+      "data": "2026-05-12T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
     }
   ],
   "discursos": [],

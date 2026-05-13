@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74273.jpg",
-  "score": 28.66,
-  "rank": 166,
+  "score": 29.73,
+  "rank": 160,
   "proposicoes": [
     {
       "id": 2623400,
@@ -15,9 +15,25 @@
       "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
       "data": "2026-05-11T14:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    },
+    {
+      "id": 2623604,
+      "tipo": "PEC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
+      "data": "2026-05-12T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-12T16:36",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JEFFERSON CAMPOS (PL - SP. Pela ordem. Sem revisão do orador.) - Muito obrigado, Deputado Charles Fernandes, que preside com muita maestria, sempre, e ocupa esta tribuna com muita honra. Parabén",
+      "transcricao": "O SR. JEFFERSON CAMPOS (PL - SP. Pela ordem. Sem revisão do orador.) - Muito obrigado, Deputado Charles Fernandes, que preside com muita maestria, sempre, e ocupa esta tribuna com muita honra. Parabéns a V.Exa.! Quero registrar que na semana passada tomou posse como novo Deputado do Paraná o Deputado Itamar Paim, pastor da Igreja Quadrangular no Paraná, um Parlamentar que está dando seus primeiros passos, mas já com muita experiência na vida pública, afinal de contas, pastor cuida de pessoas. E nós também estamos aqui para efetivar esse trabalho. Sejam muito bem-vindos nosso querido Pastor Marcos, Presidente do Estado, Pastor Gilson, Deputado Estadual, todos os pastores, líderes da nossa igreja, que se alegram com sua posse na representatividade. Está também conosco o Vereador Ismael Bastos, de Feira de Santana, terra abençoada, lá da terrinha, está aqui aprendendo um pouco mais do Parlamento. Muito obrigado, Presidente, por esta deferência."
+    },
     {
       "data": "2026-05-06T13:55",
       "fase": "Encerramento",

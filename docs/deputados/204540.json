@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204540.jpg",
-  "score": 25.11,
-  "rank": 289,
+  "score": 26.7,
+  "rank": 251,
   "proposicoes": [
     {
       "id": 2615715,
@@ -33,9 +33,25 @@
       "ementa": "Institui o Programa Nacional de Autonomia e Prevenção da Violência contra a Mulher (Recomeçar), e dá outras providências.",
       "data": "2026-04-14T16:48",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615980"
+    },
+    {
+      "id": 2623909,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 14.164, de 10 de junho de 2021, para instituir o Programa Escola e Comunidade Unidas contra o Feminicídio e o Selo Escola Amiga da Mulher e de Combate ao Feminicídio.",
+      "data": "2026-05-12T15:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623909"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-12T16:08",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. MARIA ROSAS (Bloco/REPUBLICANOS - SP. Pela ordem. Sem revisão da oradora.) - Presidente, eu quero deixar registrado aqui na Casa a visita de Parlamentares do Canadá. Sou Presidente do Grupo de ",
+      "transcricao": "A SRA. MARIA ROSAS (Bloco/REPUBLICANOS - SP. Pela ordem. Sem revisão da oradora.) - Presidente, eu quero deixar registrado aqui na Casa a visita de Parlamentares do Canadá. Sou Presidente do Grupo de Amizade Brasil-Canadá. Eles serão recebidos pelo Presidente Hugo Motta. As nossas relações comerciais com o Canadá são muito importantes. Nós temos 400 empresas aqui no Brasil que fazem todo esse trabalho em relação ao agronegócio, à mineração e, principalmente, à educação. Sejam muito bem-vindos a delegação e a comitiva do Canadá, junto com o Embaixador Emmanuel, que está aqui representando o Canadá no Brasil, e também a Câmara de Comércio. Sejam todos bem-vindos, Parlamentares que visitam a nossa Casa. Muito obrigada."
+    },
     {
       "data": "2026-04-28T23:20",
       "fase": "Encerramento",

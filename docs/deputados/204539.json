@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204539.jpg",
-  "score": 19.51,
-  "rank": 416,
+  "score": 20.78,
+  "rank": 407,
   "proposicoes": [
     {
       "id": 2620290,
@@ -15,6 +15,15 @@
       "ementa": "Institui o Programa Nacional de Requalificação Profissional para Pessoas acima de 45 anos – PRONAREP 45+",
       "data": "2026-04-30T11:44",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620290"
+    },
+    {
+      "id": 2623604,
+      "tipo": "PEC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
+      "data": "2026-05-12T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
     }
   ],
   "discursos": [],

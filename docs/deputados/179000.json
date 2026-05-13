@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/179000.jpg",
-  "score": 15.95,
-  "rank": 460,
+  "score": 16.37,
+  "rank": 463,
   "proposicoes": [
     {
       "id": 2623400,
@@ -15,6 +15,24 @@
       "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
       "data": "2026-05-11T14:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+    },
+    {
+      "id": 2623604,
+      "tipo": "PEC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
+      "data": "2026-05-12T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2623939,
+      "tipo": "PL",
+      "numero": 2336,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.035, de 27 de novembro de 2024, para estabelecer a competência do Ministério da Justiça e Segurança Pública para criação, manutenção e gestão do Cadastro Nacional de Pedófilos e Predadores Sexuais, em colaboração com o Conselho Nacional de Justiça, definir o custeio pelo Fundo Nacional de Segurança Pública e fixar prazo para implementação do sistema.",
+      "data": "2026-05-12T17:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623939"
     }
   ],
   "discursos": [],
