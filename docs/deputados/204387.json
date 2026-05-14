@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204387.jpg",
-  "score": 32.1,
-  "rank": 93,
+  "score": 30.64,
+  "rank": 113,
   "proposicoes": [
-    {
-      "id": 2615655,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Redefine a competência do foro militar.",
-      "data": "2026-04-13T17:52",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615655"
-    },
     {
       "id": 2623400,
       "tipo": "PEC",
@@ -36,6 +27,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-12T19:24",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. SARGENTO FAHUR (PL - PR. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente. Eu quero publicamente, neste plenário, parabenizar os policiais federais de Guaíra, Naviraí, no Mato Gros",
+      "transcricao": "O SR. SARGENTO FAHUR (PL - PR. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente. Eu quero publicamente, neste plenário, parabenizar os policiais federais de Guaíra, Naviraí, no Mato Grosso do Sul, e Maringá. Em uma ação conjunta com policiais militares da 3ª Companhia Independente de Polícia Militar, eles apreenderam 5.100 quilos de maconha e um fuzil em Planaltina, no Paraná. Policiais federais em conjunto com policiais militares tiraram de circulação droga que viria para dentro do Brasil empestear as nossas crianças e os nossos adolescentes. Parabéns, policiais federais e policiais militares, por esse brilhante trabalho! Vocês me representam. Força e honra!"
+    },
     {
       "data": "2026-05-12T17:00",
       "fase": "Ordem do Dia",

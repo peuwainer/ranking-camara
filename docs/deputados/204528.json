@@ -4,8 +4,8 @@
   "partido": "NOVO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
-  "score": 41.62,
-  "rank": 14,
+  "score": 41.17,
+  "rank": 13,
   "proposicoes": [
     {
       "id": 2616710,
@@ -171,6 +171,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-13T17:28",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. ADRIANA VENTURA (NOVO - SP. Pela ordem. Sem revisão da oradora.) - Eu só quero agradecer o trabalho do Deputado Marcel van Hattem neste último ano, que foi um ano, assim, difícil. Eu agradeço a",
+      "transcricao": "A SRA. ADRIANA VENTURA (NOVO - SP. Pela ordem. Sem revisão da oradora.) - Eu só quero agradecer o trabalho do Deputado Marcel van Hattem neste último ano, que foi um ano, assim, difícil. Eu agradeço a competência, agradeço a coragem. Quero aqui dar todo o meu apoio ao Deputado Gilson Marques, muito competente, muito técnico e muito corajoso também. Para mim, é uma honra fazer parte deste time. Obrigada, Presidente."
+    },
     {
       "data": "2026-05-05T17:24",
       "fase": "Breves Comunicações",

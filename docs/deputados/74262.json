@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74262.jpg",
-  "score": 29.31,
-  "rank": 165,
+  "score": 28.92,
+  "rank": 171,
   "proposicoes": [
     {
       "id": 2621501,
@@ -24,6 +24,15 @@
       "ementa": "Dispõe sobre o porte de arma de fogo para defensores públicos.",
       "data": "2026-05-08T17:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623300"
+    },
+    {
+      "id": 2624324,
+      "tipo": "EMC",
+      "numero": 4,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o porte de arma de fogo para defensores públicos.",
+      "data": "2026-05-13T11:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624324"
     }
   ],
   "discursos": [],

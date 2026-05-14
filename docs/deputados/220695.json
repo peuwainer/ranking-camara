@@ -4,36 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-  "score": 38.47,
-  "rank": 29,
+  "score": 36.26,
+  "rank": 40,
   "proposicoes": [
-    {
-      "id": 2615381,
-      "tipo": "PL",
-      "numero": 1770,
-      "ano": 2026,
-      "ementa": "Institui o Programa Nacional de Prevenção de Enchentes e Convivência com a Seca – PRONECS e estabelece diretrizes para a prevenção de desastres hidrológicos e adaptação climática no território nacional.",
-      "data": "2026-04-13T11:18",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615381"
-    },
-    {
-      "id": 2615604,
-      "tipo": "PL",
-      "numero": 1785,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, para dispor sobre a realização de perícia médica federal por meio de telemedicina, com vistas à ampliação do acesso, à interiorização e à organização regional do atendimento no âmbito do Instituto Nacional do Seguro Social.",
-      "data": "2026-04-13T16:12",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615604"
-    },
-    {
-      "id": 2615612,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL 2.015/2025 e do PL 5.853/2025, apensado, com substitutivo.",
-      "data": "2026-04-13T12:51",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615612"
-    },
     {
       "id": 2615933,
       "tipo": "EMC",
@@ -177,6 +150,33 @@
       "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação, com substitutivo.",
       "data": "2026-05-12T18:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624039"
+    },
+    {
+      "id": 2624487,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação, com substitutivo.",
+      "data": "2026-05-12T17:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624487"
+    },
+    {
+      "id": 2624527,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação, com substitutivo.",
+      "data": "2026-05-12T17:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624527"
+    },
+    {
+      "id": 2624649,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação, com substitutivo.",
+      "data": "2026-05-13T11:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624649"
     }
   ],
   "discursos": [

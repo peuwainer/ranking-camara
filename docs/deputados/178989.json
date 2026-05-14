@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178989.jpg",
-  "score": 27.43,
-  "rank": 232,
+  "score": 29.46,
+  "rank": 152,
   "proposicoes": [
     {
       "id": 2615736,
@@ -87,6 +87,42 @@
       "ementa": "Altera a Lei nº 12.690, de 19 de julho de 2012, para dispor sobre condições mínimas específicas aplicáveis ao trabalho cooperado na assistência domiciliar à saúde (home care).",
       "data": "2026-05-12T18:05",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623944"
+    },
+    {
+      "id": 2624459,
+      "tipo": "PL",
+      "numero": 2372,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para qualificar os crimes de maus-tratos e crueldade contra animais praticados em ambiente digital, com transmissão ao vivo ou monetização, tipificar a participação incentivadora de espectadores e a coação digital para prática de crueldade, e dá outras providências.",
+      "data": "2026-05-13T13:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624459"
+    },
+    {
+      "id": 2624460,
+      "tipo": "PL",
+      "numero": 2373,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a responsabilidade civil e administrativa de plataformas digitais pela omissão no combate a crimes de crueldade animal transmitidos ao vivo, estabelece obrigações de cooperação com autoridades policiais e cria o Fundo Nacional de Proteção Animal Digital – FNPAD.",
+      "data": "2026-05-13T13:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624460"
+    },
+    {
+      "id": 2624648,
+      "tipo": "PL",
+      "numero": 2386,
+      "ano": 2026,
+      "ementa": "Institui diretrizes para o Regime Aduaneiro Humanitário de Retorno Compulsório destinado a brasileiros em situação de vulnerabilidade e dá outras providências.",
+      "data": "2026-05-13T16:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624648"
+    },
+    {
+      "id": 2624664,
+      "tipo": "PL",
+      "numero": 2389,
+      "ano": 2026,
+      "ementa": "Reconhece a Terapia Nutricional Enteral e a Terapia Nutricional Parenteral como terapias essenciais de caráter terapêutico no âmbito do Sistema Único de Saúde (SUS) e estabelece diretrizes para sua oferta.",
+      "data": "2026-05-13T17:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624664"
     }
   ],
   "discursos": [],

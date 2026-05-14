@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/150418.jpg",
-  "score": 28.35,
-  "rank": 200,
+  "score": 28.53,
+  "rank": 176,
   "proposicoes": [
     {
       "id": 2618587,
@@ -51,6 +51,15 @@
       "ementa": "Dispõe sobre a portabilidade de dados financeiros, a transparência nos serviços bancários e a proteção dos direitos dos consumidores no setor financeiro, e dá outras providências.",
       "data": "2026-05-11T19:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623618"
+    },
+    {
+      "id": 2624347,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 4.117, de 27 de agosto de 1962, para obrigar que os aparelhos televisores comercializados no país contenham antena digital acoplada e demais componentes necessários para recepção de sinais de radiodifusão de sons e imagens.",
+      "data": "2026-05-12T16:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624347"
     }
   ],
   "discursos": [

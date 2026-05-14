@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204378.jpg",
-  "score": 25.94,
-  "rank": 276,
+  "score": 26.5,
+  "rank": 234,
   "proposicoes": [
     {
       "id": 2623400,
@@ -27,6 +27,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-13T15:04",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. CORONEL CHRISÓSTOMO (PL - RO. Sem revisão do orador.) - Sr. Presidente, grato por essa oportunidade. Olá, Rondônia! Olá, Brasil! Senhores, hoje temos uma discussão muito importante na CCJ: Dimin",
+      "transcricao": "O SR. CORONEL CHRISÓSTOMO (PL - RO. Sem revisão do orador.) - Sr. Presidente, grato por essa oportunidade. Olá, Rondônia! Olá, Brasil! Senhores, hoje temos uma discussão muito importante na CCJ: Diminuir, diminuir a idade penal de 18 para 16 anos. Chegou a hora de nós discutirmos e colocarmos uma regra para que aqueles jovens de 16 anos que cometem crimes hediondos e outros crimes sejam penalizados conforme os adultos. A CCJ vai dizer isso. A discussão vai iniciar lá na CCJ. Chega de jovens matando pessoas, cometendo os piores crimes no Brasil e não serem responsabilizados à altura. Eu concordo plenamente. Vamos diminuir a maioridade penal de 18 para 16 anos. Senhores, eu vou dizer uma coisa aqui que vocês vão até sorrir. Sabe quem criou a taxa das blusinhas em 2023? Vocês sabem? Foi ele! Aquele barbudinho mentiroso, ex-presidiário. Foi o Lula! Criou a taxa das blusinhas em 2023. Agora, Brasil, eu vou dizer para vocês outra coisa. Sabem quem está tirando os impostos da taxa das blusinhas em 2026? Sabem quem? Ele, o Lula! Dá para sorrir, não é? Ele cria a taxa em 2023 e hoje tira a taxa dizendo que ele é o salvador da pátria, que ele é diferente, no tempo do Bolsonaro... No tempo do Bolsonaro, os impostos eram muito menores. Ele cria a taxa e tira a taxa. Rapaz, esse homem não tem jeito. Pensa no homem mentiroso, rapaz. Pensa no homem que só quer prejudicar o Brasil. Aliás, de impostos ele gosta, porque penaliza o Brasil todo. Sr. Presidente, um outro dado que envergonha o Brasil. A União Europeia deixa o Brasil fora de exportações de carne. Meu Deus! Como é que ficam os produtores de carne que exportam carne para a Europa? Olha, gente: Fracasso diplomático: Governo Lula é excluído da lista de exportadores de carne pela União Europeia. Sabem quem paga a conta? É o produtor, é o criador. Quem paga a conta é o produtor. É uma vergonha esse Governo. Aliás, está acabando o tempo deles, porque no próximo ano vem Flávio Bolsonaro; e esse Lula só embica para baixo. Envergonha a Nação; e os jovens sabem disso. É por isso que jovem agora não quer nem saber de PT, está fugindo. Está fugindo, porque esse Governo envergonha o Brasil."
+    },
     {
       "data": "2026-05-11T19:08",
       "fase": "Breves Comunicações",
@@ -137,6 +144,12 @@
       "sigla": "CMADS",
       "cargo": "Suplente",
       "desde": "2026-03-11T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-05-13T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204378/votacoes-nominais-plenario/2026"

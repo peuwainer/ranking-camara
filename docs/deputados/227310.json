@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/227310.jpg",
-  "score": 30.42,
-  "rank": 141,
+  "score": 30.43,
+  "rank": 121,
   "proposicoes": [
     {
       "id": 2623400,
@@ -24,6 +24,24 @@
       "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
       "data": "2026-05-12T11:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2624322,
+      "tipo": "PL",
+      "numero": 2365,
+      "ano": 2026,
+      "ementa": "Institui o Programa \"Minha Empresa, Meu Futuro\", estabelecendo isenção de tributos federais para novos empreendimentos fundados por jovens em municípios com Índice de Desenvolvimento Humano Municipal (IDH-M) inferior à média nacional, e dá outras providências.",
+      "data": "2026-05-13T11:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624322"
+    },
+    {
+      "id": 2624360,
+      "tipo": "PL",
+      "numero": 2367,
+      "ano": 2026,
+      "ementa": "Institui o Programa \"Minha Empresa, Meu Futuro\", estabelecendo isenção de tributos federais para novos empreendimentos fundados por jovens em municípios com Índice de Desenvolvimento Humano Municipal (IDH-M) inferior à média nacional, e dá outras providências.",
+      "data": "2026-05-13T11:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624360"
     }
   ],
   "discursos": [

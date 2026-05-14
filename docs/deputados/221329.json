@@ -4,9 +4,19 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/221329.jpg",
-  "score": 29.86,
-  "rank": 157,
-  "proposicoes": [],
+  "score": 29.58,
+  "rank": 146,
+  "proposicoes": [
+    {
+      "id": 2624476,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Acrescenta novos incisos aos arts. 39 e 51 da Lei nº 8.078, de 11 de setembro de 1990, para estabelecer como abusiva a cláusula de fidelização nos contratos de prestação de serviços.",
+      "data": "2026-05-12T15:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624476"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-04-15T17:12",

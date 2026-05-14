@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220572.jpg",
-  "score": 17.12,
-  "rank": 454,
+  "score": 18.66,
+  "rank": 428,
   "proposicoes": [
     {
       "id": 2620665,
@@ -51,6 +51,24 @@
       "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
       "data": "2026-05-12T11:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2624070,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para reconhecer a Síndrome da Mulher Maltratada como condição decorrente da violência doméstica e familiar contra a mulher, e para assegurar atendimento especializado às vítimas.",
+      "data": "2026-05-12T16:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624070"
+    },
+    {
+      "id": 2624447,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer a obrigatoriedade de orientação e treinamento básico de primeiros socorros, com foco em manobras de desengasgo, aos pais ou responsáveis por recém-nascidos, antes da alta hospitalar.",
+      "data": "2026-05-12T15:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624447"
     }
   ],
   "discursos": [],

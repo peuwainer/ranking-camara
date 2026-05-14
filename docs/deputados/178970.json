@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178970.jpg",
-  "score": 50.03,
-  "rank": 7,
+  "score": 46.94,
+  "rank": 9,
   "proposicoes": [
-    {
-      "id": 2615559,
-      "tipo": "PL",
-      "numero": 1782,
-      "ano": 2026,
-      "ementa": "Institui a Estratégia Nacional “Eles por Elas” de Engajamento de Homens na Prevenção da Violência contra Mulheres.",
-      "data": "2026-04-13T15:14",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615559"
-    },
     {
       "id": 2615935,
       "tipo": "PL",
@@ -288,6 +279,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-13T19:56",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JOÃO DANIEL (Bloco/PT - SE. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente. Presidente, peço a V.Exa. que divulgue a minha fala no programa A Voz do Brasil e nos demais meios d",
+      "transcricao": "O SR. JOÃO DANIEL (Bloco/PT - SE. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente. Presidente, peço a V.Exa. que divulgue a minha fala no programa A Voz do Brasil e nos demais meios de comunicação da Casa sobre a grande feira, exposição e torneio leiteiro realizados na última quinta, sexta e sábado, no Município de Poço Redondo, o décimo maior produtor de leite do Brasil, o maior de Sergipe, com agricultura familiar e áreas de reforma agrária. Lá, estiveram representantes de mais de dez Estados do Brasil e representantes do Governo Federal. Quero agradecer o apoio do Prefeito do Município, Vado Gavião, e do MDA no Estado de Sergipe, em nome de Roberto Araújo, e dizer que foi um sucesso, com participação da cultura, gastronomia, e da população da região. Parabéns a todos os produtores de leite de Sergipe e, em especial, aos expositores da feira e do torneio leiteiro de Poço Redondo, do Estado de Sergipe, realizados na ultima semana! Obrigado, Presidente."
+    },
     {
       "data": "2026-04-29T16:16",
       "fase": "Breves Comunicações",

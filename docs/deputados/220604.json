@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg",
-  "score": 39.32,
-  "rank": 23,
+  "score": 40.48,
+  "rank": 17,
   "proposicoes": [
     {
       "id": 2616033,
@@ -141,6 +141,24 @@
       "ementa": "Dispõe sobre normas gerais de transparência, segurança, acessibilidade, manutenção preventiva, rastreabilidade técnica e informação obrigatória aos usuários de elevadores, plataformas de elevação, escadas rolantes, esteiras rolantes e demais equipamentos de transporte vertical ou inclinado de pessoas em edificações públicas, privadas de uso coletivo, comerciais, residenciais multifamiliares e de prestação de serviços, e dá outras providências.",
       "data": "2026-05-06T19:42",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622515"
+    },
+    {
+      "id": 2624520,
+      "tipo": "PL",
+      "numero": 2376,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Transparência da Assistência Farmacêutica Pública, para assegurar ao cidadão o acesso, em tempo real, às informações sobre a disponibilidade de medicamentos nas unidades integrantes do Sistema Único de Saúde, e altera a Lei nº 8.080, de 19 de setembro de 1990.",
+      "data": "2026-05-13T14:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624520"
+    },
+    {
+      "id": 2624521,
+      "tipo": "PL",
+      "numero": 2377,
+      "ano": 2026,
+      "ementa": "Institui normas de acessibilidade comunicacional obrigatória em atos processuais, audiências judiciais, procedimentos administrativos, atendimentos públicos, audiências públicas, sessões deliberativas e demais atos oficiais que envolvam pessoa com deficiência auditiva, pessoa surda, pessoa surdocega ou pessoa com impedimento de comunicação, assegurando intérprete de Língua Brasileira de Sinais, guia-intérprete, legendagem, transcrição, comunicação aumentativa e alternativa, tecnologias assistivas, identificação prévia da necessidade de adaptação razoável, prioridade de tramitação e nulidade dos atos praticados com prejuízo à participação plena da pessoa com deficiência, alterando a Lei nº 13.146, de 6 de julho de 2015.",
+      "data": "2026-05-13T14:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624521"
     }
   ],
   "discursos": [],
@@ -176,12 +194,6 @@
       "desde": "2026-02-03T00:00"
     },
     {
-      "nome": "Comissão de Comunicação",
-      "sigla": "CCOM",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Minas e Energia",
       "sigla": "CME",
       "cargo": "Suplente",
@@ -200,16 +212,16 @@
       "desde": "2026-02-03T00:00"
     },
     {
+      "nome": "Comissão de Comunicação",
+      "sigla": "CCOM",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
       "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
       "sigla": "CIDOSO",
       "cargo": "Titular",
       "desde": "2026-02-10T00:00"
-    },
-    {
-      "nome": "Comissão de Fiscalização Financeira e Controle",
-      "sigla": "CFFC",
-      "cargo": "3º Vice-Presidente",
-      "desde": "2026-02-11T00:00"
     },
     {
       "nome": "Comissão de Finanças e Tributação",
@@ -228,6 +240,24 @@
       "sigla": "GTMISOG",
       "cargo": "Titular",
       "desde": "2026-05-04T00:00"
+    },
+    {
+      "nome": "Comissão de Fiscalização Financeira e Controle",
+      "sigla": "CFFC",
+      "cargo": "Suplente",
+      "desde": "2026-05-13T00:00"
+    },
+    {
+      "nome": "Comissão de Trabalho",
+      "sigla": "CTRAB",
+      "cargo": "Presidente",
+      "desde": "2026-05-13T00:00"
+    },
+    {
+      "nome": "Comissão de Trabalho",
+      "sigla": "CTRAB",
+      "cargo": "Titular",
+      "desde": "2026-05-13T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220604/votacoes-nominais-plenario/2026"

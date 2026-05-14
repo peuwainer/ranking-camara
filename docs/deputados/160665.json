@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
-  "score": 31.94,
-  "rank": 95,
+  "score": 31.54,
+  "rank": 94,
   "proposicoes": [
     {
       "id": 2616098,
@@ -107,7 +107,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623588"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-12T19:36",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, há pouco vi que o Presidente Lula assinou a medida provisória que zera a ",
+      "transcricao": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, há pouco vi que o Presidente Lula assinou a medida provisória que zera a \"taxa das blusinhas\". Aqui nesta Casa, eu sou Presidente da Frente Parlamentar para o Desenvolvimento da Indústria Têxtil e afirmo que, embora sempre concordemos com a redução de impostos, não podemos aceitar que roupas vindas de fora sejam isentas e que a produção nacional pague imposto. Isso não pode acontecer! Nós precisamos cuidar da indústria nacional e preservar os empregos dos brasileiros, pois são essas empresas que recolhem impostos para o Brasil. Eleitoralmente, isso é muito comovente, mas precisamos proteger a indústria nacional. Tenho um projeto sobre isso tramitando aqui nesta Casa e vou procurar o Presidente Hugo Motta para fazê-lo andar. É o cashback: se o Governo vai isentar impostos do que vem de fora, que se garanta a isenção para o que é fabricado no Brasil. A indústria têxtil não pode ser gravemente ferida por medidas populistas do Governo para gerar emprego. Se é para tratar esse assunto com seriedade e baixar impostos, que baixem para o que vem de fora, mas baixem também para o produtor brasileiro. O que é produzido aqui no Brasil é que gera os empregos e os impostos para o próprio Governo. Era isso, Sr. Presidente. Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",

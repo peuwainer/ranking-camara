@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220543.jpg",
-  "score": 39.54,
-  "rank": 21,
+  "score": 39.5,
+  "rank": 20,
   "proposicoes": [
     {
       "id": 2617570,
@@ -45,6 +45,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-11T19:08",
+      "fase": "Encerramento",
+      "tipo": "OUTROS",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO RICARDO AYRES (SEM REGISTRO TAQUIGRÁFICO). O Sr. RICARDO AYRES (REPUBLICANOS-TO) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO RICARDO AYRES (SEM REGISTRO TAQUIGRÁFICO). O Sr. RICARDO AYRES (REPUBLICANOS-TO) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Deputados, Subo hoje a esta tribuna para tratar de um tema de extrema importância para a população do Estado do Tocantins e de toda a região Norte do país. Refiro-me à necessidade de manutenção das vias alternativas e da gratuidade das balsas utilizadas pela população após a interdição da ponte sobre o Rio Araguaia, na BR-230, que liga os municípios de Araguatins, no Tocantins, e Palestina do Pará. Desde a interrupção do tráfego na ponte, milhares de pessoas passaram a depender diariamente de rotas alternativas e do transporte por balsas para garantir o deslocamento entre os dois estados. Estamos falando de trabalhadores, estudantes, produtores rurais, comerciantes, pacientes em busca de atendimento médico e famílias inteiras que precisam dessa travessia para manter suas atividades básicas e sua sobrevivência. Diante dessa situação, nosso mandato atuou diretamente na interlocução junto aos órgãos responsáveis, buscando garantir que as vias alternativas permaneçam em condições adequadas de trafegabilidade e que as balsas continuem operando de forma gratuita para a população. Não é razoável que cidadãos já prejudicados pela interdição de uma importante estrutura federal ainda sejam obrigados a arcar com custos adicionais para exercer o simples direito de ir e vir. Senhoras e Senhores, A situação exige sensibilidade, responsabilidade e atuação imediata do poder público. A manutenção das rotas emergenciais e da gratuidade das balsas representa não apenas uma medida de apoio social, mas também uma ação necessária para minimizar os impactos econômicos e humanitários causados pela interdição da ponte. Seguiremos acompanhando essa situação de perto, cobrando soluções definitivas, agilidade nas providências necessárias e respeito à população que diariamente sofre com os transtornos causados por essa crise de infraestrutura. O povo do Tocantins e da região Norte merece segurança, mobilidade e dignidade. Muito obrigado."
+    },
     {
       "data": "2026-05-08T09:00",
       "fase": "Encerramento",

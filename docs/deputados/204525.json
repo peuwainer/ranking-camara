@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204525.jpg",
-  "score": 28.28,
-  "rank": 202,
+  "score": 28.03,
+  "rank": 185,
   "proposicoes": [
     {
       "id": 2623400,
@@ -24,6 +24,15 @@
       "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
       "data": "2026-05-12T11:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2624631,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Estabelece a obrigatoriedade de disponibilidade de acesso à internet em voos no espaço aéreo brasileiro, e dá outras providências.",
+      "data": "2026-05-13T12:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624631"
     }
   ],
   "discursos": [],

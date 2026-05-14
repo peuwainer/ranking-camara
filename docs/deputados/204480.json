@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204480.jpg",
-  "score": 28.38,
-  "rank": 199,
+  "score": 27.23,
+  "rank": 203,
   "proposicoes": [
-    {
-      "id": 2615559,
-      "tipo": "PL",
-      "numero": 1782,
-      "ano": 2026,
-      "ementa": "Institui a Estratégia Nacional “Eles por Elas” de Engajamento de Homens na Prevenção da Violência contra Mulheres.",
-      "data": "2026-04-13T15:14",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615559"
-    },
     {
       "id": 2615935,
       "tipo": "PL",
@@ -45,6 +36,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-13T14:20",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ROGÉRIO CORREIA (Bloco/PT - MG. Pela ordem. Sem revisão do orador.) - Obrigado, Deputado. Eu queria apenas apresentar aqui o Carlos Silva, nosso Carlinhos, que está conosco hoje. Ele é lá de Bel",
+      "transcricao": "O SR. ROGÉRIO CORREIA (Bloco/PT - MG. Pela ordem. Sem revisão do orador.) - Obrigado, Deputado. Eu queria apenas apresentar aqui o Carlos Silva, nosso Carlinhos, que está conosco hoje. Ele é lá de Belo Horizonte, tem um trabalho junto aos sem-casa na Região Metropolitana de Belo Horizonte. Esse é um trabalho muito importante com vários núcleos de pessoas que ainda não têm moradia, ou moram de aluguel, mas ainda não têm a casa própria. Ele é da Pastoral dos Sem-Casa, lá em Belo Horizonte e é também do movimento nacional dos sem-casa. Ele veio aqui, já teve conversas também no Ministério das Cidades. Estamos buscando implementar ainda mais unidades do Minha Casa, Minha Vida para sanar esse problema que é muito grande, que é o problema da moradia. Então, eu fiz questão de trazer o Carlinhos, porque é um representante que vem dos movimentos sociais e agora tem a oportunidade de também ter esse conhecimento com nossa Câmara de Deputados, que aliás fez a lei do Minha Casa, Minha Vida. Obrigado, Presidente."
+    },
     {
       "data": "2026-04-30T12:52",
       "fase": "Ordem do Dia",

@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220551.jpg",
-  "score": 28.05,
-  "rank": 210,
+  "score": 28.13,
+  "rank": 183,
   "proposicoes": [
     {
       "id": 2622494,
@@ -33,6 +33,15 @@
       "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
       "data": "2026-05-12T11:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2624358,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Lei Trajeto Seguro, que estabelece mecanismos obrigatórios de segurança preventiva em aplicativos de transporte individual de passageiros e cria protocolos tecnológicos de proteção a usuárias, especialmente mulheres, durante corridas intermediadas por plataformas digitais.",
+      "data": "2026-05-12T19:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624358"
     }
   ],
   "discursos": [],

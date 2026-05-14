@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204464.jpg",
-  "score": 29.26,
-  "rank": 171,
+  "score": 29.68,
+  "rank": 144,
   "proposicoes": [
     {
       "id": 2619274,
@@ -33,6 +33,15 @@
       "ementa": "",
       "data": "2026-05-06T09:17",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621814"
+    },
+    {
+      "id": 2624653,
+      "tipo": "PL",
+      "numero": 2388,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Cuidotecas, como parte integrante da Política Nacional de Cuidados e da Política Nacional de Assistência Estudantil (PNAES), para promoção de acolhida e cuidado, da permanência educacional e participação social de pessoas com responsabilidades parentais.",
+      "data": "2026-05-13T17:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624653"
     }
   ],
   "discursos": [

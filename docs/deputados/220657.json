@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220657.jpg",
-  "score": 20.45,
-  "rank": 412,
+  "score": 21.62,
+  "rank": 375,
   "proposicoes": [
     {
       "id": 2617373,
@@ -60,6 +60,24 @@
       "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
       "data": "2026-05-12T11:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2624310,
+      "tipo": "PL",
+      "numero": 2364,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre a obrigatoriedade de visibilidade de equipamentos de fiscalização de velocidade e a nulidade de infrações captadas por meios ocultos ou sem sinalização.",
+      "data": "2026-05-13T10:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624310"
+    },
+    {
+      "id": 2624542,
+      "tipo": "PL",
+      "numero": 2381,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para instituir desconto de 60% (sessenta por cento) nas multas de trânsito para condutores cadastrados como prestadores ativos em plataformas ou aplicativos digitais de transporte de pessoas ou de entrega, e dá outras providências.",
+      "data": "2026-05-13T15:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624542"
     }
   ],
   "discursos": [],

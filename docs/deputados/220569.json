@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220569.jpg",
-  "score": 25.68,
-  "rank": 283,
+  "score": 25.93,
+  "rank": 253,
   "proposicoes": [
     {
       "id": 2615911,
@@ -51,6 +51,15 @@
       "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
       "data": "2026-05-12T11:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2624537,
+      "tipo": "PL",
+      "numero": 2379,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e a Lei nº 9.605, de 12 de fevereiro de 1998 (Lei de Crimes Ambientais), para incluir no currículo do ensino fundamental conteúdos obrigatórios de educação ambiental voltado à proteção da fauna, da flora e dos recursos naturais, e reforçar medidas de conscientização e proteção ambiental.",
+      "data": "2026-05-13T14:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624537"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220542.jpg",
-  "score": 28.68,
-  "rank": 190,
+  "score": 27.94,
+  "rank": 187,
   "proposicoes": [
     {
       "id": 2620836,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-13T20:00",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. ALEXANDRE GUIMARÃES (Bloco/MDB - TO. Sem revisão do orador.) - Sr. Presidente, muito boa noite. O que me traz ao uso da palavra nesta noite é falar daqueles que, por muitas vezes, não têm vez e ",
+      "transcricao": "O SR. ALEXANDRE GUIMARÃES (Bloco/MDB - TO. Sem revisão do orador.) - Sr. Presidente, muito boa noite. O que me traz ao uso da palavra nesta noite é falar daqueles que, por muitas vezes, não têm vez e não têm voz, por estarem na ponta, mas têm tamanha importância. Falo dos Agentes Comunitários de Saúde e dos Agentes de Combate a Endemias, que vêm buscando insistentemente a valorização profissional. Todos nós conhecemos a importância desses profissionais para a promoção da saúde pública lá na ponta, para a prevenção em cada bairro, em cada cidade, em cada Estado. Mas, desta vez, a valorização deles não está sendo respeitada ou está sendo pouco representada. E, talvez, isso ocorra porque sejam eles os menores, porque são verdadeiramente os que estão na ponta. Nós temos uma PEC, a PEC 14, que foi aprovada aqui na Câmara dos Deputados e está hoje em tramitação no Senado Federal. Eu venho aqui solicitar, rogar pela aceleração desse procedimento tão importante para a valorização desses servidores: a aposentadoria diferenciada para os ACS e para os Agentes de Combate a Endemias; a regularização do vínculo funcional da categoria; o fortalecimento da proteção previdenciária e trabalhista desses profissionais. Esses profissionais são lembrados, muitas vezes, apenas no momento eleitoral, porque estão lá na ponta, entrando de casa em casa. O político vai procurar o Agente Comunitário de Saúde, o Agente de Combate a Endemias, para, muitas vezes, buscar a valorização desses profissionais em troca de levarem o santinho e fazerem a apresentação política. Esses profissionais podem e devem encontrar no nosso mandato a voz que não têm aqui. Digo isso porque, meu Presidente, se fosse pauta de valorização e aumento salarial de Deputado, de Senador, do Judiciário, certamente do alto escalão do Governo deste País, já se teria pautado, tramitado e aprovado o aumento e a valorização desses servidores. Mas, porque são esses lá da ponta, que, a pé, no sol quente, vão entregar a saúde pública para os brasileiros, eles não são enxergados e não têm voz. Então, meu máximo respeito aos agentes comunitários de saúde, aos agentes de combate às endemias. Rogo ao Senado Federal que tramite o projeto com celeridade, como se fosse o salário deles ali sendo discutido. Muito obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a verificar a situação dos municípios que perderam recursos financeiros do FPM, depois dos cálculos feitos pelo TCU, com base no Censo inacabado do IBGE",

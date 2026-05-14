@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220571.jpg",
-  "score": 31.18,
-  "rank": 115,
+  "score": 31.39,
+  "rank": 96,
   "proposicoes": [
     {
       "id": 2623400,
@@ -24,6 +24,24 @@
       "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
       "data": "2026-05-12T11:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2624621,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer ao PL 6368/2025 que Altera o art. 71 da Lei nº 10.741, de 1º de outubro de 2003 (Estatuto do Idoso), para estender a prioridade na tramitação de processos e procedimentos judiciais e administrativos às pessoas idosas com dependência funcional, doenças degenerativas ou limitações graves.",
+      "data": "2026-05-13T16:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624621"
+    },
+    {
+      "id": 2624704,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator ao PLP 124/2024 que Altera a Lei Complementar nº 182, de 1º de junho de 2021, que institui o Marco Legal das Startups e do Empreendedorismo Inovador, para incluir medidas de inclusão de pessoas com deficiência, autistas e neurodivergentes, incentivar a inovação no setor de saúde pública e valorizar a região amazônica.",
+      "data": "2026-05-13T16:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624704"
     }
   ],
   "discursos": [],
@@ -71,16 +89,16 @@
       "desde": "2026-02-03T00:00"
     },
     {
-      "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
-      "sigla": "CIDOSO",
-      "cargo": "Suplente",
-      "desde": "2026-02-10T00:00"
-    },
-    {
       "nome": "Comissão de Indústria, Comércio e Serviços",
       "sigla": "CICS",
       "cargo": "Suplente",
       "desde": "2026-04-14T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
+      "sigla": "CIDOSO",
+      "cargo": "Titular",
+      "desde": "2026-05-13T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220571/votacoes-nominais-plenario/2026"
