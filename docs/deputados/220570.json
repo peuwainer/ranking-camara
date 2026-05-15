@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220570.jpg",
-  "score": 21.39,
-  "rank": 379,
+  "score": 22.46,
+  "rank": 361,
   "proposicoes": [
     {
       "id": 2620009,
@@ -42,6 +42,24 @@
       "ementa": "Altera a Lei nº 13.819, de 26 de abril de 2019, para aperfeiçoar a Política Nacional de Prevenção da Automutilação e do Suicídio, com medidas de prevenção, pósvenção e proteção de crianças, adolescentes e jovens em ambientes presenciais e digitais.",
       "data": "2026-05-12T17:31",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623928"
+    },
+    {
+      "id": 2624861,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T13:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
+    },
+    {
+      "id": 2624863,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T14:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
   "discursos": [],

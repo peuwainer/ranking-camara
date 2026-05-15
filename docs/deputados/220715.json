@@ -4,27 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
-  "score": 27.78,
-  "rank": 192,
+  "score": 26.99,
+  "rank": 220,
   "proposicoes": [
-    {
-      "id": 2615896,
-      "tipo": "PL",
-      "numero": 1804,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar a nomeação ou manutenção fraudulenta destinada à percepção de remuneração sem efetivo exercício de atribuições na Administração Pública e a correspondente percepção dolosa de remuneração indevida.",
-      "data": "2026-04-14T14:27",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615896"
-    },
-    {
-      "id": 2615904,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "",
-      "data": "2026-04-14T14:41",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615904"
-    },
     {
       "id": 2617413,
       "tipo": "PL",
@@ -105,6 +87,15 @@
       "ementa": "Esta lei determina que os cuidados com a saúde mental das pessoas só poderão ser exercidos por profissional com curso superior nas áreas de psicologia e psiquiatria e dá outras providências.",
       "data": "2026-05-06T10:40",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622113"
+    },
+    {
+      "id": 2624876,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Nacional de Recuperação de Terras Degradadas na Amazônia, voltado à restauração produtiva de áreas desmatadas e improdutivas por meio do uso de espécies nativas e sistemas agroflorestais, e dá outras providências.",
+      "data": "2026-05-14T14:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624876"
     }
   ],
   "discursos": [],

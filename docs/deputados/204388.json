@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
-  "score": 22.81,
-  "rank": 353,
+  "score": 23.27,
+  "rank": 340,
   "proposicoes": [
-    {
-      "id": 2615946,
-      "tipo": "PL",
-      "numero": 1810,
-      "ano": 2026,
-      "ementa": "Confere ao Município de Lindolfo Collor, no Estado do Rio Grande do Sul, o título de Capital Nacional do Tapete de Couro.",
-      "data": "2026-04-14T15:31",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615946"
-    },
     {
       "id": 2623400,
       "tipo": "PEC",
@@ -33,6 +24,24 @@
       "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
       "data": "2026-05-12T11:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2624861,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T13:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
+    },
+    {
+      "id": 2624863,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T14:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
   "discursos": [
@@ -119,13 +128,6 @@
       "tipo": "PELA ORDEM",
       "resumo": "O SR. BIBO NUNES (PL - RS. Pela ordem. Sem revisão do orador.) - Grato, digníssimo Presidente Charles Fernandes. Eu quero dizer, com muita alegria, que acabamos de aprovar, na Comissão de Turismo, o e",
       "transcricao": "O SR. BIBO NUNES (PL - RS. Pela ordem. Sem revisão do orador.) - Grato, digníssimo Presidente Charles Fernandes. Eu quero dizer, com muita alegria, que acabamos de aprovar, na Comissão de Turismo, o evento Garibaldi Vintage no Calendário Turístico Oficial do Brasil, gerido pelo Ministério do Turismo. Esse evento movimenta toda a economia da Serra Gaúcha e lembra os anos de 1920 a 1960. É um evento belíssimo. Fiquei muito honrado porque o temos agora oficialmente no calendário nacional do turismo. Junto comigo estavam os Vereadores Cássio e Lívio. Esse pedido foi feito pelo Vereador Giovan, do nosso PL de Garibaldi, e também pela nossa Secretária Municipal de Turismo, Lina Berto. Nobre Presidente, eu fico muito feliz quando podemos vir aqui dizer de um grande feito, principalmente um que impulsiona o turismo na Serra Gaúcha. Parabéns, Garibaldi! E viva o Garibaldi Vintage!"
-    },
-    {
-      "data": "2026-04-14T17:44",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. BIBO NUNES (PL - RS. Pela ordem. Sem revisão do orador.) - Digníssimo Presidente Charles Fernandes, o Senado está votando neste momento, na CPI do Crime Organizado, o indiciamento, por suspeita ",
-      "transcricao": "O SR. BIBO NUNES (PL - RS. Pela ordem. Sem revisão do orador.) - Digníssimo Presidente Charles Fernandes, o Senado está votando neste momento, na CPI do Crime Organizado, o indiciamento, por suspeita de crime, de três Ministros do STF  para quem não sabe, o Ministro Alexandre de Moraes, o Ministro Gilmar Mendes e o \"Noites Toffoli\". Esses três têm que ser impichados, e, depois, tornozeleira e, de preferência, prisão, porque o Brasil precisa de uma justificativa, de uma explicação. Esses Ministros envergonham o STF, e a CPI do Crime Organizado vai dar a punição que eles merecem, porque o Brasil é um dos poucos países do mundo que nunca puniu um Ministro do STF. Só para concluir, digníssimo Presidente, eu cito aqui o Chile, onde três Ministros foram afastados e um Ministro foi preso, há dois meses. A punição é por cometerem crimes de responsabilidade. Brasil, você que está desesperançoso, tenha calma, porque teremos o indiciamento de três Ministros do STF. Queremos justiça. Queremos uma Justiça que não vote politicamente e vote de acordo com o que manda o Judiciário. Estamos aí! Acreditem no Brasil!"
     }
   ],
   "orgaos": [

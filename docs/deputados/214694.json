@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/214694.jpg",
-  "score": 30.73,
-  "rank": 109,
+  "score": 31.78,
+  "rank": 97,
   "proposicoes": [
     {
       "id": 2622048,
@@ -51,6 +51,24 @@
       "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento do corretor de imóveis como Microempreendedor Individual (MEI).",
       "data": "2026-05-12T13:46",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623699"
+    },
+    {
+      "id": 2624861,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T13:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
+    },
+    {
+      "id": 2624863,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T14:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
   "discursos": [],

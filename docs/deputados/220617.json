@@ -4,17 +4,26 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220617.jpg",
-  "score": 22.22,
-  "rank": 365,
+  "score": 22.79,
+  "rank": 355,
   "proposicoes": [
     {
-      "id": 2615960,
-      "tipo": "PL",
-      "numero": 1813,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a criação do Programa Federal de Apoio Emergencial à Segurança Pública em Municípios com Altos Índices de Homicídios.",
-      "data": "2026-04-14T15:58",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615960"
+      "id": 2624861,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T13:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
+    },
+    {
+      "id": 2624863,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T14:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
   "discursos": [

@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220696.jpg",
-  "score": 27.67,
-  "rank": 195,
+  "score": 27.61,
+  "rank": 199,
   "proposicoes": [
-    {
-      "id": 2615935,
-      "tipo": "PL",
-      "numero": 1808,
-      "ano": 2026,
-      "ementa": "Proíbe a exploração, a oferta, a promoção e a facilitação de apostas de quota fixa em todo o território nacional, revoga dispositivos das Leis nº 13.756, de 12 de dezembro de 2018, e nº 14.790, de 29 de dezembro de 2023, estabelece medidas de bloqueio de acesso, remoção de aplicações, interrupção de fluxos financeiros, responsabilização de intermediários e proteção de conteúdos de interesse público, e dá outras providências.",
-      "data": "2026-04-14T15:16",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615935"
-    },
     {
       "id": 2616663,
       "tipo": "PL",
@@ -33,6 +24,15 @@
       "ementa": "Altera as Leis nº 9.096, de 19 de setembro de 1995, e 9.504, de 30 de setembro de 1997, para maximizar a efetividade da política de ação afirmativa de fomento às candidaturas femininas e combater as fraudes às cotas de gênero.",
       "data": "2026-05-04T18:11",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620907"
+    },
+    {
+      "id": 2624822,
+      "tipo": "PL",
+      "numero": 2396,
+      "ano": 2026,
+      "ementa": "Institui o Auxílio Reconstrução do Lar, para a mulher em medida protetiva de afastamento do lar, em decorrência de situação de violência doméstica e familiar, nos termos da Lei nº 11.340, de 7 de agosto de 2006.",
+      "data": "2026-05-14T12:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624822"
     }
   ],
   "discursos": [],

@@ -4,18 +4,9 @@
   "partido": "PP",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
-  "score": 26.37,
-  "rank": 240,
+  "score": 26.71,
+  "rank": 230,
   "proposicoes": [
-    {
-      "id": 2616100,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "",
-      "data": "2026-04-14T20:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616100"
-    },
     {
       "id": 2623400,
       "tipo": "PEC",
@@ -33,6 +24,24 @@
       "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
       "data": "2026-05-12T11:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2624861,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T13:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
+    },
+    {
+      "id": 2624863,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T14:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
   "discursos": [
@@ -63,13 +72,6 @@
       "tipo": "PELA ORDEM",
       "resumo": "O SR. AFONSO HAMM (Bloco/PP - RS. Pela ordem. Sem revisão do orador.) - Presidente, eu queria manifestar primeiro a conquista que tivemos há poucos dias. Conseguimos a votação, em primeiro turno, da P",
       "transcricao": "O SR. AFONSO HAMM (Bloco/PP - RS. Pela ordem. Sem revisão do orador.) - Presidente, eu queria manifestar primeiro a conquista que tivemos há poucos dias. Conseguimos a votação, em primeiro turno, da PEC 383, que trata do Suas, o Sistema Único para apoiar a área social, buscar 1% da receita líquida corrente da União, dos Estados e dos Municípios. Isso representa 15 bilhões. O Deputado Afonso Hamm já prioriza essa atividade. Apoio as Apaes, as pessoas com deficiência, a Apecan, que trata dos pacientes com câncer. Temos muitas entidades, idosos, crianças, vulnerabilidade. Portanto, essa área social no Brasil precisa ser apoiada. Precisamos votar urgentemente aqui o segundo turno e oferecer esse reforço de recursos. Não são apenas números. São vidas, são pessoas que precisam da assistência social oficial do nosso País. Por isso, solicito que conste, inclusive, nos meios de comunicação essa nossa manifestação. Obrigado, Presidente."
-    },
-    {
-      "data": "2026-04-14T18:00",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. AFONSO HAMM (Bloco/PP - RS. Sem revisão do orador.) - Presidente, eu queria dar conhecimento aqui de uma importante reunião que participei como coordenador da bancada gaúcha junto ao Ministério ",
-      "transcricao": "O SR. AFONSO HAMM (Bloco/PP - RS. Sem revisão do orador.) - Presidente, eu queria dar conhecimento aqui de uma importante reunião que participei como coordenador da bancada gaúcha junto ao Ministério dos Transportes, com o Ministro George Santoro, e também ao DNIT, com o Diretor-Geral. Fomos, a pedido também do Ministro Augusto Nardes, do TCU - Tribunal de Contas da União, solicitar esclarecimento sobre os recursos para concluir a ponte na BR-285, em São José dos Ausentes, e mais oito quilômetros. Isto porque o lado de Santa Catarina está concluído. Inclusive a Deputada Geovania de Sá havia nos solicitado as informações para comunicar o Rio Grande do Sul e Santa Catarina pela região da Serra, muito importante. Até o final do ano, teremos a conclusão deste trecho e, até março, a conclusão da pavimentação, inclusive da ponte. Era isso, Presidente. Muito obrigado. Peço divulgação do meu pronunciamento nos meios de comunicação da Casa e no programa A Voz do Brasil."
     }
   ],
   "orgaos": [

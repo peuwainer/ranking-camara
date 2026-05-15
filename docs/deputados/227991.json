@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/227991.jpg",
-  "score": 30.44,
-  "rank": 119,
+  "score": 31.3,
+  "rank": 108,
   "proposicoes": [
     {
       "id": 2619995,
@@ -51,6 +51,24 @@
       "ementa": "Institui a Linha de Crédito Especial Pronaf Conectividade no âmbito do Programa Nacional de Fortalecimento da Agricultura Familiar.",
       "data": "2026-05-12T18:29",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623969"
+    },
+    {
+      "id": 2624861,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T13:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
+    },
+    {
+      "id": 2624863,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T14:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
   "discursos": [
@@ -74,13 +92,6 @@
       "tipo": "PELA ORDEM",
       "resumo": "O SR. DR FLÁVIO (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Colegas Deputados, quero registrar a presença do Secretário de Estado de Agricultura, Pecuária e Abastecimento do Rio de",
       "transcricao": "O SR. DR FLÁVIO (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Colegas Deputados, quero registrar a presença do Secretário de Estado de Agricultura, Pecuária e Abastecimento do Rio de Janeiro, Felipe Brasil, que está nos honrando com a sua presença; do Vereador de Casimiro de Abreu, Rafael Jardim e; do Chefe de Gabinete Jorge Luiz Teixeira Cavalcante, da Agricultura, também. Quero dizer que eles estão sempre aqui visitando o Parlamento. Felipe Brasil é um secretário muito atuante, que me sucedeu quando fui secretário da pasta, antes de assumir o mandato. Felipe vem sempre participar das Comissões de Agricultura, da Frente Parlamentar da agropecuária, faz um trabalho muito bacana no Estado do Rio de Janeiro, e está sempre buscando aqui apoio dos Parlamentares do nosso partido. Quero colocar o nosso mandato sempre à disposição da Secretaria de Agricultura do Estado do Rio de Janeiro, Felipe, para que nós possamos cada vez mais, juntos, construir um agro melhor para o nosso Estado. Obrigado pela oportunidade. Forte abraço."
-    },
-    {
-      "data": "2026-04-14T17:40",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. DR FLÁVIO (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, nobres colegas Deputados, quero registrar a presença aqui do Prefeito Jonas Dico, do Município de Três Rios, no Estado d",
-      "transcricao": "O SR. DR FLÁVIO (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, nobres colegas Deputados, quero registrar a presença aqui do Prefeito Jonas Dico, do Município de Três Rios, no Estado do Rio de Janeiro, do seu Vice-Prefeito, o Liliu, e do Secretário de Agricultura do Município, o Guto. Eles vieram numa comitiva com outros Secretários, por uma causa nobre: acompanhar a audiência pública sobre a BR-393. Vários Prefeitos da região foram recebidos aqui hoje. Com certeza vamos ter uma pauta favorável à manutenção daquela rodovia, para garantirmos o direito de ir e vir, o direito de trafegar sem risco. Tem havido morte todo dia naquela estrada. A audiência pública de hoje foi muito importante para que o Ministro tome as devidas providências. Obrigado, Sr. Presidente, pela oportunidade."
     }
   ],
   "orgaos": [

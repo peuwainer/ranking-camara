@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
-  "score": 31.54,
-  "rank": 94,
+  "score": 31.91,
+  "rank": 90,
   "proposicoes": [
-    {
-      "id": 2616098,
-      "tipo": "PL",
-      "numero": 1833,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar, no âmbito dos crimes contra a incolumidade pública, a conduta de acionamento indevido do Serviço de Atendimento Móvel de Urgência (SAMU), do serviço de emergência policial e do Corpo de Bombeiros, mediante comunicação falsa, enganosa ou abusiva, bem como para estabelecer regras específicas relativas à substituição da pena e aos efeitos da condenação, com vistas à proteção da regularidade e da eficiência dos serviços públicos de emergência e à salvaguarda da vida e da integridade física da coletividade.",
-      "data": "2026-04-14T19:56",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616098"
-    },
     {
       "id": 2616781,
       "tipo": "EMP",
@@ -105,6 +96,24 @@
       "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 e dá outras providências.",
       "data": "2026-05-12T10:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623588"
+    },
+    {
+      "id": 2624861,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T13:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
+    },
+    {
+      "id": 2624863,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T14:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
   "discursos": [

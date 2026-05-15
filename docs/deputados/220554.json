@@ -4,27 +4,9 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
-  "score": 27.23,
-  "rank": 202,
+  "score": 26.61,
+  "rank": 234,
   "proposicoes": [
-    {
-      "id": 2615923,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde, para proibir o cancelamento unilateral de contratos de usuários em situação de vulnerabilidade — pessoas idosas, com deficiência, ostomizadas, com câncer ou doenças raras — e institui a Política Nacional de Proteção Continuada à Pessoa em Tratamento de Saúde (PNPCS).",
-      "data": "2026-04-14T12:53",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615923"
-    },
-    {
-      "id": 2615935,
-      "tipo": "PL",
-      "numero": 1808,
-      "ano": 2026,
-      "ementa": "Proíbe a exploração, a oferta, a promoção e a facilitação de apostas de quota fixa em todo o território nacional, revoga dispositivos das Leis nº 13.756, de 12 de dezembro de 2018, e nº 14.790, de 29 de dezembro de 2023, estabelece medidas de bloqueio de acesso, remoção de aplicações, interrupção de fluxos financeiros, responsabilização de intermediários e proteção de conteúdos de interesse público, e dá outras providências.",
-      "data": "2026-04-14T15:16",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615935"
-    },
     {
       "id": 2616663,
       "tipo": "PL",
@@ -42,6 +24,15 @@
       "ementa": "Dispõe sobre a classificação obrigatória de plásticos em produtos fabricados, importados ou comercializados no Brasil, a divulgação dos riscos associados à saúde e ao meio ambiente e estabelece a Política Nacional de Transparência sobre Materiais Plásticos.",
       "data": "2026-04-16T14:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617306"
+    },
+    {
+      "id": 2624845,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde, para proibir o cancelamento unilateral de contratos de usuários em situação de vulnerabilidade clínica, estabelece diretrizes para a garantia da continuidade assistencial de pessoas em tratamento de saúde no âmbito da saúde suplementar e cria competências para Agência Nacional de Saúde Suplementar.",
+      "data": "2026-05-14T14:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624845"
     }
   ],
   "discursos": [

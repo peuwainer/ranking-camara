@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74253.jpg",
-  "score": 23.65,
-  "rank": 324,
+  "score": 24.74,
+  "rank": 295,
   "proposicoes": [
     {
       "id": 2617536,
@@ -33,6 +33,24 @@
       "ementa": "Emenda ao PL 5931/2025, que \" Altera a Lei nº 12.869, de 15 de outubro de 2013, e a Lei nº 13.177, de 22 de outubro de 2015, para dispor sobre critérios de outorga, remuneração, sustentabilidade econômica e participação das unidades lotéricas na comercialização de produtos lotéricos em meio físico e digital.\"",
       "data": "2026-05-06T12:21",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622118"
+    },
+    {
+      "id": 2624861,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T13:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
+    },
+    {
+      "id": 2624863,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T14:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
   "discursos": [],

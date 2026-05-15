@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
-  "score": 37.68,
-  "rank": 29,
+  "score": 39.24,
+  "rank": 22,
   "proposicoes": [
     {
       "id": 2616940,
@@ -123,6 +123,33 @@
       "ementa": "Dispõe sobre a proibição do transporte e do abate de fêmeas em gestação avançada.",
       "data": "2026-05-13T14:48",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624535"
+    },
+    {
+      "id": 2624919,
+      "tipo": "PL",
+      "numero": 2410,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.211/2025 para aperfeiçoar os mecanismos de verificação etária, estabelecer requisitos de auditabilidade tecnológica e priorizar o uso de infraestrutura pública de autenticação digital.",
+      "data": "2026-05-14T16:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624919"
+    },
+    {
+      "id": 2624922,
+      "tipo": "PL",
+      "numero": 2411,
+      "ano": 2026,
+      "ementa": "Altera o art. 473 da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para ampliar o prazo de afastamento remunerado em caso de falecimento de familiar, ampliar o número de consultas de pré-natal passíveis de acompanhamento e ampliar o direito do empregado de acompanhar filho ou dependente em atendimento de saúde.",
+      "data": "2026-05-14T17:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624922"
+    },
+    {
+      "id": 2624923,
+      "tipo": "PL",
+      "numero": 2412,
+      "ano": 2026,
+      "ementa": "Altera a Lei Brasileira de Inclusão da Pessoa com Deficiência para instituir a obrigatoriedade de capacitação de profissionais da educação para atendimento adequado de estudantes com deficiência, transtornos do neurodesenvolvimento e outras condições neuroatípicas.",
+      "data": "2026-05-14T17:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624923"
     }
   ],
   "discursos": [

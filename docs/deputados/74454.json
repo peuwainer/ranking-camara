@@ -4,9 +4,19 @@
   "partido": "MDB",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74454.jpg",
-  "score": 20.35,
-  "rank": 403,
-  "proposicoes": [],
+  "score": 20.96,
+  "rank": 397,
+  "proposicoes": [
+    {
+      "id": 2624861,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T13:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-05-05T16:20",

@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141485.jpg",
-  "score": 35.33,
-  "rank": 49,
+  "score": 36.44,
+  "rank": 42,
   "proposicoes": [
     {
       "id": 2622889,
@@ -24,6 +24,24 @@
       "ementa": "Confere ao Município de Uruguaiana, no Estado do Rio Grande do Sul, o título de Capital Nacional do Arroz.",
       "data": "2026-05-12T16:01",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623863"
+    },
+    {
+      "id": 2624861,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T13:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
+    },
+    {
+      "id": 2624863,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T14:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
   "discursos": [],

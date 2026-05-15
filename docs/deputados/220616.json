@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220616.jpg",
-  "score": 25.8,
-  "rank": 256,
+  "score": 26.72,
+  "rank": 228,
   "proposicoes": [
     {
       "id": 2617510,
@@ -42,6 +42,24 @@
       "ementa": "Institui a Política Nacional de Redução de Acidentes de Fauna.",
       "data": "2026-05-05T11:13",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621062"
+    },
+    {
+      "id": 2624861,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T13:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
+    },
+    {
+      "id": 2624863,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T14:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
   "discursos": [
@@ -86,13 +104,6 @@
       "tipo": "PELA ORDEM",
       "resumo": "O SR. LUCIANO VIEIRA (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, rapidamente, só para registrar a presença do dirigente Marcos Braz, que acabou de subir com o remo e deu mu",
       "transcricao": "O SR. LUCIANO VIEIRA (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, rapidamente, só para registrar a presença do dirigente Marcos Braz, que acabou de subir com o remo e deu muitas alegrias para a torcida do Flamengo. Eu sou vascaíno, mas tenho que reconhecer. Braz assumirá o mandato na próxima semana, em que eu estarei me licenciando. Braz vai estar nesta Casa. A Casa está de portas abertas para você, meu irmão! Obrigado, Presidente."
-    },
-    {
-      "data": "2026-04-14T20:24",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. LUCIANO VIEIRA (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Presidente, quero registrar a presença aqui do nosso craque de bola, ídolo do Vasco da Gama, Edmundo, o Edmundo Animal, que",
-      "transcricao": "O SR. LUCIANO VIEIRA (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Presidente, quero registrar a presença aqui do nosso craque de bola, ídolo do Vasco da Gama, Edmundo, o Edmundo Animal, que nos honra hoje em plenário. Ele está lá atrás. Quero registrar a presença dele aqui, que muito nos orgulha. Obrigado, Presidente."
     }
   ],
   "orgaos": [

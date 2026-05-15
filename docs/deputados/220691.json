@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220691.jpg",
-  "score": 27.71,
-  "rank": 194,
+  "score": 28.6,
+  "rank": 178,
   "proposicoes": [
     {
       "id": 2622386,
@@ -15,17 +15,27 @@
       "ementa": "Acrescenta dispositivo ao PL nº 2.780, de 2024 que institui a Política Nacional de Minerais Críticos e Estratégicos (PNMCE), o Comitê de Minerais Críticos e Estratégicos (CMCE), vinculado ao Conselho Nacional de Política Mineral, e dá outras providências.",
       "data": "2026-05-06T17:21",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622386"
-    }
-  ],
-  "discursos": [
+    },
     {
-      "data": "2026-04-14T21:20",
-      "fase": "Encerramento",
-      "tipo": "OUTROS",
-      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO DIEGO CORONEL (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, Senhoras e Senhores Parlamentares, Hoje faço uso da palavra para registrar o Dia Mundial",
-      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO DIEGO CORONEL (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, Senhoras e Senhores Parlamentares, Hoje faço uso da palavra para registrar o Dia Mundial do Café  uma data que, para o Brasil, carrega história, identidade e, acima de tudo, trabalho. E quando falamos de café, não podemos deixar de olhar para a força do nosso país no campo e, de forma muito especial, para a Bahia, terra de gente trabalhadora, de tradição agrícola e de histórias construídas com esforço e dignidade. O café está presente na mesa do brasileiro todos os dias. Está nas conversas, nos encontros, nas pausas e, principalmente, na vida de milhões de trabalhadores que fazem essa cadeia acontecer. Mas hoje, Senhor Presidente, eu peço licença para trazer esse tema também para um campo mais pessoal. Eu sou filho do senador Angelo Coronel. E, antes de qualquer cargo público, ele sempre foi um homem do trabalho no campo. São 45 anos dedicados ao café vividos na Bahia, acompanhando de perto a produção, o comércio e o crescimento desse setor tão importante para o nosso Estado. Quarenta e cinco anos construindo, aprendendo, enfrentando dificuldades e seguindo em frente  com a mesma constância que o café exige de quem vive dele. E eu digo isso com muito orgulho: eu vi de perto tudo isso acontecendo. Eu falo de uma cultura que move o Brasil. Falo da força da Bahia no campo. Falo de famílias que dependem disso. Falo de histórias que começam cedo, muitas vezes antes do sol nascer e que seguem firmes, geração após geração. E talvez essa seja a maior mensagem deste dia: Por trás de cada xícara de café, existe uma história de luta. Hoje, eu homenageio todos esses trabalhadores E, de forma muito especial, aquele que me ensinou, pelo exemplo, o valor do trabalho, da constância e da humildade: Meu Pai, o idealizador do Café do Coronel, tradição do Recôncavo Baiano. Muito obrigado."
+      "id": 2624861,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T13:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
+    },
+    {
+      "id": 2624863,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T14:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, avaliação e acompanhamento das iniciativas e medidas adotadas para transição energética - Fontes Renováveis e Produção de Hidrogênio Verde no Brasil",

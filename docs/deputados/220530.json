@@ -4,18 +4,9 @@
   "partido": "UNIÃO",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220530.jpg",
-  "score": 32.05,
-  "rank": 87,
+  "score": 33.17,
+  "rank": 76,
   "proposicoes": [
-    {
-      "id": 2615973,
-      "tipo": "PL",
-      "numero": 1814,
-      "ano": 2026,
-      "ementa": "Denomina “Rodovia Pastor Gedelti Victalino Teixeira Gueiros” o trecho da rodovia federal BR-447 compreendido entre os Municípios de Viana e Vila Velha, no Estado do Espirito Santo.",
-      "data": "2026-04-14T16:25",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615973"
-    },
     {
       "id": 2617687,
       "tipo": "PL",
@@ -51,6 +42,33 @@
       "ementa": "Emenda ao PL 4.140, de 2025, que  dispõe sobre o porte de arma de fogo para defensores públicos.",
       "data": "2026-05-12T17:51",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624027"
+    },
+    {
+      "id": 2624812,
+      "tipo": "PL",
+      "numero": 2395,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade, os prazos e a abrangência da divulgação detalhada de decisões e laudos laboratoriais de natureza sanitária, zoosanitária e fitossanitária pelos órgãos da Administração Pública direta e indireta, e dá outras providências.",
+      "data": "2026-05-14T11:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624812"
+    },
+    {
+      "id": 2624861,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T13:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
+    },
+    {
+      "id": 2624863,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T14:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
   "discursos": [

@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
-  "score": 24.14,
-  "rank": 309,
-  "proposicoes": [],
+  "score": 24.72,
+  "rank": 297,
+  "proposicoes": [
+    {
+      "id": 2624804,
+      "tipo": "PL",
+      "numero": 2393,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, e a Lei nº 8.142, de 28 de dezembro de 1990, para instituir o Programa Painel de Filas, estabelecendo repasse prioritário de recursos do Fundo Nacional de Saúde (FNS) a Estados e Municípios que adotarem sistema público de transparência e gestão de filas no âmbito do dos serviços de urgência e emergência do Sistema Único de Saúde (SUS).",
+      "data": "2026-05-14T11:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624804"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

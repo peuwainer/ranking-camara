@@ -4,9 +4,19 @@
   "partido": "PODE",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220674.jpg",
-  "score": 15.39,
-  "rank": 467,
-  "proposicoes": [],
+  "score": 15.97,
+  "rank": 465,
+  "proposicoes": [
+    {
+      "id": 2624821,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Atenção Integral à Pessoa com Doença Celíaca no âmbito do Sistema Único de Saúde (SUS), e altera a Lei nº 10.674, de 16 de maio de 2003.",
+      "data": "2026-05-13T10:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624821"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

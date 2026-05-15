@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/98148.jpg",
-  "score": 27.91,
-  "rank": 189,
+  "score": 28.68,
+  "rank": 175,
   "proposicoes": [
     {
       "id": 2616941,
@@ -69,17 +69,27 @@
       "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
       "data": "2026-05-12T11:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
-    }
-  ],
-  "discursos": [
+    },
     {
-      "data": "2026-04-14T18:20",
-      "fase": "Breves Comunicações",
-      "tipo": "BREVES COMUNICAÇÕES",
-      "resumo": "O SR. COBALCHINI (Bloco/MDB - SC. Sem revisão do orador.) - Muito obrigado, Deputado Charles Fernandes, nosso Presidente da Sessão. Subo a esta tribuna com o sentimento de missão cumprida. O Plano Nac",
-      "transcricao": "O SR. COBALCHINI (Bloco/MDB - SC. Sem revisão do orador.) - Muito obrigado, Deputado Charles Fernandes, nosso Presidente da Sessão. Subo a esta tribuna com o sentimento de missão cumprida. O Plano Nacional de Educação  PNE, já aprovado por este Congresso, acaba de ser sancionado pelo Presidente da República. O Plano Nacional de Educação é um documento estratégico que orienta os rumos da educação brasileira para a próxima década. A nova versão estabelece dezenove objetivos, 73 metas e 372 estratégias, abrangendo todos os níveis de ensino da educação infantil até a pós-graduação. Com a vigência prevista para o período de 2026 a 2035, o Plano direciona políticas públicas voltadas à ampliação do acesso e à melhoria da qualidade de ensino no País. Trata-se de uma proposta de grande relevância para o País, especialmente para prever investimentos equivalentes a 11% do Produto Interno Bruto para a educação, sendo 7,5% de recursos públicos e 3,5% provenientes da iniciativa privada. Tenho a honra de informar que sete emendas de minha autoria foram acatadas no texto, tanto na Câmara quanto no Senado, e sancionadas pelo Presidente da República. Elas não são apenas metas no papel. São ferramentas para transformar a vida dos nossos estudantes. Temos duas emendas que tratam da alfabetização, estabelecendo a meta de que 100% dos alunos sejam alfabetizados do primeiro ao terceiro ano e que tenham avaliação da sua evolução. Outra emenda nossa trata da inclusão nas escolas, universalizar o atendimento especial para que todos os alunos com alguma deficiência possam ser acolhidos, integrados e valorizados. Também aprovamos emenda que trata do reforço escolar para os alunos que tiveram o aprendizado prejudicado na pandemia da Covid-19, para que sejam oferecidas aulas a essas crianças e jovens no contraturno duas vezes por semana. Ainda, Presidente, outra emenda aprovada por unanimidade foi a questão da diminuição da evasão escolar, fazendo com que os alunos do ensino fundamental e médio sejam acompanhados de perto e tenham o apoio para que permaneçam na escola. Quero agradecer, Presidente, e solicitar que o nosso pronunciamento seja veiculado pelo programa A Voz do Brasil. Muito obrigado."
+      "id": 2624861,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T13:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
+    },
+    {
+      "id": 2624863,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T14:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",

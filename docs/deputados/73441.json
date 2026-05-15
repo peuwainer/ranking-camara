@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73441.jpg",
-  "score": 26.78,
-  "rank": 219,
+  "score": 26.65,
+  "rank": 231,
   "proposicoes": [
-    {
-      "id": 2616323,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Acrescenta o inciso XV ao art. 39 da Lei nº 8.078, de 11 de setembro de 1990, que dispõe sobre a proteção do consumidor e dá outras providências, para vedar ao fornecedor de produtos ou serviços a adoção de ferramentas de precificação dinâmica.",
-      "data": "2026-04-14T20:46",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616323"
-    },
     {
       "id": 2618450,
       "tipo": "PL",
@@ -69,6 +60,15 @@
       "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
       "data": "2026-05-12T11:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2624861,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T13:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
     }
   ],
   "discursos": [],

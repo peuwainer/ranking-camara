@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220628.jpg",
-  "score": 26.72,
-  "rank": 225,
+  "score": 27.19,
+  "rank": 214,
   "proposicoes": [
-    {
-      "id": 2616016,
-      "tipo": "PL",
-      "numero": 1821,
-      "ano": 2026,
-      "ementa": "Institui o Programa Nacional de Segurança Econômica do Produtor Rural – PRONASEP e estabelece medidas para o fortalecimento do crédito rural, proteção contra endividamento e estabilização da renda no setor agropecuário, e dá outras providências.",
-      "data": "2026-04-14T17:50",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616016"
-    },
     {
       "id": 2623400,
       "tipo": "PEC",
@@ -51,6 +42,24 @@
       "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
       "data": "2026-05-12T11:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2624861,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T13:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
+    },
+    {
+      "id": 2624863,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T14:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
   "discursos": [],

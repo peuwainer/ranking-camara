@@ -4,18 +4,9 @@
   "partido": "SOLIDARIEDADE",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220687.jpg",
-  "score": 23.29,
-  "rank": 336,
+  "score": 23.81,
+  "rank": 326,
   "proposicoes": [
-    {
-      "id": 2616057,
-      "tipo": "PL",
-      "numero": 1829,
-      "ano": 2026,
-      "ementa": "Reconhece como manifestação da cultura nacional o Festejo do Santuário Diocesano Nossa Senhora do Coco da Aparecida, no Estado do Maranhão",
-      "data": "2026-04-14T19:04",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616057"
-    },
     {
       "id": 2619139,
       "tipo": "PL",
@@ -33,6 +24,24 @@
       "ementa": "",
       "data": "2026-05-05T12:25",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621085"
+    },
+    {
+      "id": 2624861,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T13:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
+    },
+    {
+      "id": 2624863,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T14:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
   "discursos": [],

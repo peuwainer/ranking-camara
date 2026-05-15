@@ -4,36 +4,9 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178989.jpg",
-  "score": 29.46,
-  "rank": 152,
+  "score": 29.15,
+  "rank": 164,
   "proposicoes": [
-    {
-      "id": 2615736,
-      "tipo": "PL",
-      "numero": 1802,
-      "ano": 2026,
-      "ementa": "Estabelece diretrizes para a atenção ao climatério e à menopausa no âmbito das políticas públicas de saúde e de promoção da qualidade de vida da mulher.",
-      "data": "2026-04-14T11:46",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615736"
-    },
-    {
-      "id": 2615894,
-      "tipo": "PL",
-      "numero": 1803,
-      "ano": 2026,
-      "ementa": "Institui o Sistema Nacional Antifraude (SNAF), dispõe sobre o intercâmbio de dados para prevenir, detectar e coibir fraudes e irregularidades no acesso a benefícios ou programas federais de natureza social, inclusive trabalhista, previdenciária ou assistencial, e dá outras providências.",
-      "data": "2026-04-14T14:25",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2615894"
-    },
-    {
-      "id": 2616001,
-      "tipo": "PL",
-      "numero": 1818,
-      "ano": 2026,
-      "ementa": "Acrescenta parágrafo ao art. 63 da Lei Brasileira de Inclusão da Pessoa com Deficiência para dispor sobre a disponibilização de sistemas de autenticação de identidade compatíveis com variadas condições de deficiência e mobilidade reduzida.",
-      "data": "2026-04-14T17:17",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616001"
-    },
     {
       "id": 2617118,
       "tipo": "PLP",
@@ -123,6 +96,42 @@
       "ementa": "Reconhece a Terapia Nutricional Enteral e a Terapia Nutricional Parenteral como terapias essenciais de caráter terapêutico no âmbito do Sistema Único de Saúde (SUS) e estabelece diretrizes para sua oferta.",
       "data": "2026-05-13T17:14",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624664"
+    },
+    {
+      "id": 2624853,
+      "tipo": "PL",
+      "numero": 2399,
+      "ano": 2026,
+      "ementa": "Dispõe sobre medidas de proteção social, inclusão produtiva e amparo transitório aos responsáveis familiares e cuidadores de pessoas com deficiência beneficiárias do Benefício de Prestação Continuada — BPC, altera a Lei nº 8.742, de 7 de dezembro de 1993, e dá outras providências.",
+      "data": "2026-05-14T14:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624853"
+    },
+    {
+      "id": 2624854,
+      "tipo": "PL",
+      "numero": 2400,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Manutenção e Substituição de Tecnologias Assistivas de Mobilidade fornecidas pelo Sistema Único de Saúde (SUS), e dá outras providências.",
+      "data": "2026-05-14T14:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624854"
+    },
+    {
+      "id": 2624861,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T13:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
+    },
+    {
+      "id": 2624863,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
+      "data": "2026-05-14T14:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
   "discursos": [],
@@ -156,12 +165,6 @@
       "sigla": "CECANCER",
       "cargo": "Titular",
       "desde": "2025-10-29T00:00"
-    },
-    {
-      "nome": "Comissão de Desenvolvimento Urbano",
-      "sigla": "CDU",
-      "cargo": "Suplente",
-      "desde": "2026-02-04T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178989/votacoes-nominais-plenario/2026"
