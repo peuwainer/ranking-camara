@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141555.jpg",
-  "score": 30.28,
-  "rank": 132,
+  "score": 33.88,
+  "rank": 56,
   "proposicoes": [
-    {
-      "id": 2616695,
-      "tipo": "PL",
-      "numero": 1858,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 911, de 1º de outubro de 1969, para dispor sobre a extinção da obrigação do credor de devolver eventual saldo remanescente, bem como, prever a possibilidade de adjudicação do bem pelo credor, na hipótese de frustração da venda do bem alienado.",
-      "data": "2026-04-15T17:11",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616695"
-    },
     {
       "id": 2618863,
       "tipo": "EMC",
@@ -96,6 +87,15 @@
       "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
       "data": "2026-05-14T14:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
+    },
+    {
+      "id": 2625162,
+      "tipo": "SBT",
+      "numero": 12,
+      "ano": 0,
+      "ementa": "COMISSÃO DE DEFESA DO CONSUMIDOR\n\nPROJETO DE LEI Nº 533, DE 2019\n\nAcrescenta o parágrafo único ao artigo 17 e § 3º ao artigo 491, ambos do Código de Processo Civil. \n\nAutor: Deputado JÚLIO DELGADO \n\nRelator: Deputado VINICIUS CARVALHO",
+      "data": "2026-05-15T16:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625162"
     }
   ],
   "discursos": [

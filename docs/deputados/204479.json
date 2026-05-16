@@ -4,27 +4,9 @@
   "partido": "PL",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204479.jpg",
-  "score": 23.44,
-  "rank": 336,
+  "score": 23.81,
+  "rank": 309,
   "proposicoes": [
-    {
-      "id": 2617156,
-      "tipo": "EMC",
-      "numero": 1,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a responsabilidade pela transferência de propriedade de veículo automotor e institui multa indenizatória automática em casos de omissão do comprador no registro junto ao órgão de trânsito competente, e dá outras providências.",
-      "data": "2026-04-15T12:36",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617156"
-    },
-    {
-      "id": 2617157,
-      "tipo": "EMC",
-      "numero": 1,
-      "ano": 2026,
-      "ementa": "Concede isenção do pagamento de pedágio nas rodovias federais e estaduais aos profissionais da segurança pública, nas condições que especifica, e dá outras providências.",
-      "data": "2026-04-15T16:36",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617157"
-    },
     {
       "id": 2623400,
       "tipo": "PEC",
@@ -60,6 +42,15 @@
       "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
       "data": "2026-05-14T14:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
+    },
+    {
+      "id": 2624937,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.349, de 29 de julho de 1987, para determinar, no âmbito de contratos do Sistema Financeiro da Habitação, que o agente financeiro deverá providenciar o termo de quitação do débito, independentemente da existência de saldo residual não coberto pelo Fundo de Compensação de Variações Salariais - FCVS, quando for feita a quitação do total das prestações devidas contratualmente pelo mutuário.",
+      "data": "2026-05-14T15:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624937"
     }
   ],
   "discursos": [],

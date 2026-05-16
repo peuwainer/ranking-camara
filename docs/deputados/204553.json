@@ -4,18 +4,9 @@
   "partido": "AVANTE",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204553.jpg",
-  "score": 30.06,
-  "rank": 138,
+  "score": 29.03,
+  "rank": 149,
   "proposicoes": [
-    {
-      "id": 2616607,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Altera os arts. 24-F e 24-G do Decreto-Lei nº 667, de 2 de julho de 1969, para modificar regras de transição do Sistema de Proteção Social dos Militares da Lei nº 13.954, de 16 de dezembro de 2019, para as Polícias Militares e os Corpos de Bombeiros Militares dos Estados, dos Territórios e do Distrito Federal.",
-      "data": "2026-04-15T13:50",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616607"
-    },
     {
       "id": 2618304,
       "tipo": "PL",
@@ -42,6 +33,15 @@
       "ementa": "Denomina “Missionários Daniel Berg e Gunnar Vingren” a Ferrovia Norte-Sul (EF-151).",
       "data": "2026-05-11T18:25",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623497"
+    },
+    {
+      "id": 2624971,
+      "tipo": "PL",
+      "numero": 2415,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para instituir indenização aos cidadãos convocados pela Justiça Eleitoral para compor Mesas Receptoras de Votos e Juntas Eleitorais durante os processos eleitorais, plebiscitos e referendos.",
+      "data": "2026-05-15T11:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624971"
     }
   ],
   "discursos": [],

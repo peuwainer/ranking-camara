@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/161440.jpg",
-  "score": 27.55,
-  "rank": 200,
+  "score": 26.03,
+  "rank": 232,
   "proposicoes": [
     {
       "id": 2623400,
@@ -44,15 +44,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-04-15T19:56",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. PEZENTI (Bloco/MDB - SC. Pela ordem. Sem revisão do orador.) - Sr. Presidente, colegas Parlamentares, eu gostaria de registrar, neste momento, a presença aqui no plenário da Câmara de dois amigo",
-      "transcricao": "O SR. PEZENTI (Bloco/MDB - SC. Pela ordem. Sem revisão do orador.) - Sr. Presidente, colegas Parlamentares, eu gostaria de registrar, neste momento, a presença aqui no plenário da Câmara de dois amigos Vereadores de Ituporanga, Capital Nacional da Cebola, cidade onde, com muito prazer, resido. Eles vieram aqui em busca de recursos, é claro, mas também para tratar de uma pauta muito importante, que é a produção e o escoamento da safra de cebola em todo o sul do Brasil. Tivemos agenda na Camex, no MDIC, para falar sobre a importação da cebola que vem do Mercosul em direção ao território nacional. Também tivemos agenda com o Carlos Goulart, que é o Secretário de Defesa Agropecuária, para a gente intensificar a fiscalização na fronteira. Tanto o Vereador Neto Paes quanto o Vereador Felipe Muller, que neste momento me acompanham, apresentaram ao Carlos Goulart as preocupações dos produtores e também dos consumidores brasileiros, que não podem consumir produtos sem que haja a segurança de que a cebola argentina é produzida sob as mesmas circunstâncias que a produzida no nosso País. Gostaria de agradecer, Sr. Presidente, esta oportunidade e registrar, além da presença deles, a presença das assessoras Sâmela e Débora, que fazem um bom trabalho na Câmara de Vereadores da Capital da Cebola."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",
