@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
-  "score": 25.03,
-  "rank": 264,
+  "score": 26.19,
+  "rank": 225,
   "proposicoes": [
     {
       "id": 2618093,
@@ -78,6 +78,24 @@
       "ementa": "Institui o Programa Nacional de Recuperação de Terras Degradadas na Amazônia, voltado à restauração produtiva de áreas desmatadas e improdutivas por meio do uso de espécies nativas e sistemas agroflorestais, e dá outras providências.",
       "data": "2026-05-14T14:52",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624876"
+    },
+    {
+      "id": 2625261,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Promoção da Língua Brasileira de Sinais – Libras, dispõe sobre incentivos fiscais e regulatórios para sua difusão em meios audiovisuais e digitais, estabelece sua obrigatoriedade em campanhas e serviços públicos e dá outras providências.",
+      "data": "2026-05-15T15:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625261"
+    },
+    {
+      "id": 2625322,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Nacional de Incentivo à Arborização e Adoção Sustentável de Espaços Públicos  -  Lei das Praças Verdes, e dá outras providências.",
+      "data": "2026-05-18T11:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625322"
     }
   ],
   "discursos": [],

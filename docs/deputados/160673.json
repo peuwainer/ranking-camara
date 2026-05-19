@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160673.jpg",
-  "score": 23.75,
-  "rank": 309,
+  "score": 24.34,
+  "rank": 295,
   "proposicoes": [
     {
       "id": 2623400,
@@ -42,6 +42,15 @@
       "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
       "data": "2026-05-14T14:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
+    },
+    {
+      "id": 2625481,
+      "tipo": "PL",
+      "numero": 2444,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015, para explicitar que transtornos do neurodesenvolvimento e outras condições que produzam limitações funcionais relevantes podem configurar deficiência, observados os requisitos do conceito legal de pessoa com deficiência.",
+      "data": "2026-05-18T15:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625481"
     }
   ],
   "discursos": [],

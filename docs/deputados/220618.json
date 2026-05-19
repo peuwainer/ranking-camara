@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220618.jpg",
-  "score": 31.97,
-  "rank": 86,
+  "score": 33.72,
+  "rank": 56,
   "proposicoes": [
     {
       "id": 2618665,
@@ -78,6 +78,33 @@
       "ementa": "Institui o Programa Nacional de Estabelecimentos Parceiros da Segurança Pública (Proneps).",
       "data": "2026-05-14T12:10",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624839"
+    },
+    {
+      "id": 2625458,
+      "tipo": "PL",
+      "numero": 2439,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.796, de 5 de maio de 1999, para incluir os Sistemas de Proteção Social dos Militares dos Estados e do Distrito Federal no regime de compensação financeira entre regimes previdenciários.",
+      "data": "2026-05-18T15:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625458"
+    },
+    {
+      "id": 2625477,
+      "tipo": "PL",
+      "numero": 2440,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.954, de 16 de dezembro de 2019, para dispor sobre o cálculo do déficit do Sistema de Proteção Social dos Militares, incluir o SPSM no sistema de compensação previdenciária.",
+      "data": "2026-05-18T15:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625477"
+    },
+    {
+      "id": 2625547,
+      "tipo": "PL",
+      "numero": 2449,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 667/1969, com redação dada pela Lei Federal nº 13.954/2019, para reduzir de 35 (trinta e cinco) para 33 (trinta e três) anos o tempo de serviço exigido para transferência à inatividade remunerada dos militares dos Estados, do Distrito Federal e dos Territórios.",
+      "data": "2026-05-18T16:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625547"
     }
   ],
   "discursos": [

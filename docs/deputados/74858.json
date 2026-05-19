@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74858.jpg",
-  "score": 25.21,
-  "rank": 259,
+  "score": 25.83,
+  "rank": 242,
   "proposicoes": [
     {
       "id": 2619274,
@@ -56,6 +56,12 @@
       "sigla": "PEC22119",
       "cargo": "Suplente",
       "desde": "2026-05-06T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Titular",
+      "desde": "2026-05-18T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/74858/votacoes-nominais-plenario/2026"

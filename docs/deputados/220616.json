@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220616.jpg",
-  "score": 24.05,
-  "rank": 304,
+  "score": 25.8,
+  "rank": 243,
   "proposicoes": [
     {
       "id": 2617510,
@@ -60,6 +60,33 @@
       "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
       "data": "2026-05-14T14:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
+    },
+    {
+      "id": 2625482,
+      "tipo": "PL",
+      "numero": 2445,
+      "ano": 2026,
+      "ementa": "Reconhece no âmbito do território nacional brasileiro, o município de São João de Meriti, no Estado do Rio de Janeiro, como “Formigueiro das Américas”.",
+      "data": "2026-05-18T16:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625482"
+    },
+    {
+      "id": 2625483,
+      "tipo": "PL",
+      "numero": 2446,
+      "ano": 2026,
+      "ementa": "Declara as barracas e os barraqueiros da Feira da Pavuna, Zona Norte da Cidade do Rio de Janeiro, Estado do Rio de Janeiro, como Patrimônio Cultural Brasileiro.",
+      "data": "2026-05-18T16:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625483"
+    },
+    {
+      "id": 2625484,
+      "tipo": "PL",
+      "numero": 2447,
+      "ano": 2026,
+      "ementa": "Inclui no Calendário Turístico Oficial do Brasil o evento “Todo Mundo no Rio”, realizado anualmente no Município do Rio de Janeiro/RJ.",
+      "data": "2026-05-18T16:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625484"
     }
   ],
   "discursos": [

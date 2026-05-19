@@ -4,9 +4,28 @@
   "partido": "PDT",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204496.jpg",
-  "score": 21.2,
-  "rank": 381,
-  "proposicoes": [],
+  "score": 22.36,
+  "rank": 358,
+  "proposicoes": [
+    {
+      "id": 2625345,
+      "tipo": "PL",
+      "numero": 2429,
+      "ano": 2026,
+      "ementa": "Confere o título de Capital Nacional da Fé e da Diversidade Religiosa ao Município de Belém, no Estado do Pará.",
+      "data": "2026-05-18T12:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625345"
+    },
+    {
+      "id": 2625355,
+      "tipo": "PL",
+      "numero": 2430,
+      "ano": 2026,
+      "ementa": "Institui o Código de Conduta Brasil para Prevenção e Enfrentamento da Exploração Sexual de Crianças e Adolescentes no Turismo e estabelece diretrizes para sua observância nos meios de hospedagem.",
+      "data": "2026-05-18T12:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625355"
+    }
+  ],
   "discursos": [],
   "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/204496/votacoes-nominais-plenario/2026"

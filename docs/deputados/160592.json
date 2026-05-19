@@ -4,9 +4,19 @@
   "partido": "PT",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160592.jpg",
-  "score": 16.21,
-  "rank": 460,
-  "proposicoes": [],
+  "score": 16.79,
+  "rank": 454,
+  "proposicoes": [
+    {
+      "id": 2625418,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre o número máximo de alunos em sala de aula e dá outras providências.",
+      "data": "2026-05-14T12:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625418"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

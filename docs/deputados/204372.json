@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204372.jpg",
-  "score": 32.07,
-  "rank": 83,
+  "score": 32.66,
+  "rank": 74,
   "proposicoes": [
     {
       "id": 2617702,
@@ -87,6 +87,15 @@
       "ementa": "",
       "data": "2026-05-12T16:59",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623905"
+    },
+    {
+      "id": 2625404,
+      "tipo": "PL",
+      "numero": 2434,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para permitir a dedução, no Imposto de Renda da Pessoa Física, de despesas com saúde preventiva de animais domésticos, e dá outras providências.",
+      "data": "2026-05-18T14:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625404"
     }
   ],
   "discursos": [],

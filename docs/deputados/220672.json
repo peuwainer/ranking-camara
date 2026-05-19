@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220672.jpg",
-  "score": 28.67,
-  "rank": 156,
+  "score": 29.29,
+  "rank": 143,
   "proposicoes": [
     {
       "id": 2617583,
@@ -113,6 +113,12 @@
       "sigla": "CVT",
       "cargo": "Suplente",
       "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão de Desenvolvimento Econômico",
+      "sigla": "CDE",
+      "cargo": "Suplente",
+      "desde": "2026-05-18T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220672/votacoes-nominais-plenario/2026"

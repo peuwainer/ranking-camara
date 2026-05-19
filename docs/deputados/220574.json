@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220574.jpg",
-  "score": 55.63,
-  "rank": 3,
+  "score": 57.38,
+  "rank": 2,
   "proposicoes": [
     {
       "id": 2617706,
@@ -150,6 +150,33 @@
       "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar as penas dos crimes praticados em detrimento de instituições públicas e privadas de previdência ou de seus beneficiários.",
       "data": "2026-05-15T15:39",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625130"
+    },
+    {
+      "id": 2625478,
+      "tipo": "PL",
+      "numero": 2441,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.016, de 7 de agosto de 2009, para incorporar ao art. 23 o entendimento fixado pelo Superior Tribunal de Justiça no Tema Repetitivo nº 1.273.",
+      "data": "2026-05-18T15:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625478"
+    },
+    {
+      "id": 2625479,
+      "tipo": "PL",
+      "numero": 2442,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para criar o art. 19-K e estabelecer responsabilização civil pelo descumprimento do direito de acompanhamento da paciente mulher em estabelecimentos de saúde públicos e privados",
+      "data": "2026-05-18T15:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625479"
+    },
+    {
+      "id": 2625480,
+      "tipo": "PL",
+      "numero": 2443,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.756, de 12 de dezembro de 2018, para incluir entre as finalidades do Fundo Nacional de Segurança Pública a indenização de vítimas da criminalidade e de profissionais de segurança pública vitimados em serviço.",
+      "data": "2026-05-18T15:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625480"
     }
   ],
   "discursos": [
