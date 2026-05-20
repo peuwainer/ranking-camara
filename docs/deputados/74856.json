@@ -4,7 +4,7 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
-  "score": 59.24,
+  "score": 61.08,
   "rank": 1,
   "proposicoes": [
     {
@@ -348,6 +348,24 @@
       "ementa": "",
       "data": "2026-05-18T15:18",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625443"
+    },
+    {
+      "id": 2625631,
+      "tipo": "PL",
+      "numero": 2455,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para prever hipóteses de recebimento de comissão pelo leiloeiro público oficial.",
+      "data": "2026-05-19T10:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625631"
+    },
+    {
+      "id": 2625958,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.656, de 3 de junho de 1998, para equiparar a filho do consumidor titular de plano privado de assistência à saúde seu enteado, bem como a criança ou o adolescente que seja por ele tutelado ou que, por determinação judicial, esteja sob sua guarda; e altera a Lei nº 8.213, de 24 de julho de 1991, para promover equiparação análoga em relação a filho do segurado do Regime Geral de Previdência Social (RGPS).",
+      "data": "2026-05-19T12:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625958"
     }
   ],
   "discursos": [

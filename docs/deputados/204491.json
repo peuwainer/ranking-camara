@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204491.jpg",
-  "score": 24.25,
-  "rank": 302,
+  "score": 24.26,
+  "rank": 289,
   "proposicoes": [
     {
       "id": 2617702,
@@ -42,6 +42,24 @@
       "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
       "data": "2026-05-14T14:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
+    },
+    {
+      "id": 2625744,
+      "tipo": "PL",
+      "numero": 2464,
+      "ano": 2026,
+      "ementa": "Institui a padronização nacional dos procedimentos de validação dos benefícios de gratuidade e desconto no transporte coletivo interestadual de passageiros e dá outras providências.",
+      "data": "2026-05-19T13:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625744"
+    },
+    {
+      "id": 2625885,
+      "tipo": "PL",
+      "numero": 2475,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional Janaína Barcelos de Acessibilidade Pedagógica para Estudantes com Deficiência Visual.",
+      "data": "2026-05-19T16:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625885"
     }
   ],
   "discursos": [],

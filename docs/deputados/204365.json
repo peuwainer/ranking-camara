@@ -4,7 +4,7 @@
   "partido": "NOVO",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204365.jpg",
-  "score": 47.81,
+  "score": 47.62,
   "rank": 7,
   "proposicoes": [
     {
@@ -186,6 +186,33 @@
       "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
       "data": "2026-05-14T14:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
+    },
+    {
+      "id": 2625623,
+      "tipo": "PL",
+      "numero": 2454,
+      "ano": 2026,
+      "ementa": "Revoga o art. 56 da Lei n° 15.042, de 11 de dezembro de 2024.",
+      "data": "2026-05-19T10:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625623"
+    },
+    {
+      "id": 2625821,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Estabelece a responsabilidade solidária de plataformas de comércio eletrônico pela alienação de produtos falsificados e dá outras providências.",
+      "data": "2026-05-19T14:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625821"
+    },
+    {
+      "id": 2625855,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera o art. 23 da Lei nº 11.771, de 17 de setembro de 2008, para dispor sobre o período de duração das diárias em meios de hospedagem.",
+      "data": "2026-05-19T15:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625855"
     }
   ],
   "discursos": [

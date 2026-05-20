@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220616.jpg",
-  "score": 25.8,
-  "rank": 243,
+  "score": 28.68,
+  "rank": 143,
   "proposicoes": [
     {
       "id": 2617510,
@@ -87,9 +87,48 @@
       "ementa": "Inclui no Calendário Turístico Oficial do Brasil o evento “Todo Mundo no Rio”, realizado anualmente no Município do Rio de Janeiro/RJ.",
       "data": "2026-05-18T16:01",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625484"
+    },
+    {
+      "id": 2625639,
+      "tipo": "PL",
+      "numero": 2457,
+      "ano": 2026,
+      "ementa": "Declara as barracas, os feirantes e a Feirinha da Pavuna, Zona Norte da Cidade do Rio de Janeiro, Estado do Rio de Janeiro, como Patrimônio Cultural Brasileiro.",
+      "data": "2026-05-19T11:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625639"
+    },
+    {
+      "id": 2625988,
+      "tipo": "PL",
+      "numero": 2488,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de divulgação do Protocolo CALMA., ou de protocolos similares que venham a substituí-lo ou atualiza-lo, contendo orientações de primeiros socorros em caso de crises convulsivas.",
+      "data": "2026-05-19T19:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625988"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-19T15:32",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LUCIANO VIEIRA (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Meu amigo Presidente, vou cumprimentar aqui e também agradecer a presença do Vereador Fernando Mistura, que é de São Pedro ",
+      "transcricao": "O SR. LUCIANO VIEIRA (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Meu amigo Presidente, vou cumprimentar aqui e também agradecer a presença do Vereador Fernando Mistura, que é de São Pedro da Aldeia. Ele veio pedir no nosso gabinete uma emenda para a reforma de uma praça no Bairro de Poço Fundo, lá em São Pedro da Aldeia. Vereador, você pode contar com o nosso mandato. Enviarei recursos para ajudar os moradores lá do bairro, em especial de São Pedro da Aldeia. Quero parabenizá-lo pelo trabalho que você faz lá, sempre cuidando do povo, com muito carinho, com muito amor. Obrigado, Presidente."
+    },
+    {
+      "data": "2026-05-19T15:16",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LUCIANO VIEIRA (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Presidente, estou recebendo aqui a minha irmã, Helena Vieira, Vereadora do Rio, Presidente da Comissão da Mulher, que veio ",
+      "transcricao": "O SR. LUCIANO VIEIRA (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Presidente, estou recebendo aqui a minha irmã, Helena Vieira, Vereadora do Rio, Presidente da Comissão da Mulher, que veio trazer um projeto muito importante, que estamos acabando de escrever no gabinete, em defesa da mulher. Eu te parabenizo, Helena, pelo trabalho que tem feito na Câmara do Rio e por sua prioridade em cuidar das mulheres. A Câmara está de portas abertas para você e para todos os Vereadores do Rio, que são nossos amigos. Valeu, Presidente! Obrigado."
+    },
+    {
+      "data": "2026-05-19T15:12",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LUCIANO VIEIRA (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Meu amigo, Presidente, obrigado. Quero aqui cumprimentar e agradecer a presença do Vereador Daniel Vasconcellos, de Mangara",
+      "transcricao": "O SR. LUCIANO VIEIRA (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Meu amigo, Presidente, obrigado. Quero aqui cumprimentar e agradecer a presença do Vereador Daniel Vasconcellos, de Mangaratiba, que veio a Brasília buscar recursos para a cidade de Mangaratiba. É um Vereador muito atuante que cuida principalmente de recursos para a área da saúde. Ele veio fazer esse pedido acompanhado do Secretário de Saúde e do Prefeito da cidade, Luiz Claudio. Portanto, gostaria de dizer que a Câmara dos Deputados está de portas abertas para vocês. Sempre que for para ajudar o povo de Mangaratiba estamos à disposição. Obrigado, Presidente."
+    },
     {
       "data": "2026-05-05T16:40",
       "fase": "Breves Comunicações",

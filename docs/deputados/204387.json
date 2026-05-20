@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204387.jpg",
-  "score": 31.15,
-  "rank": 98,
+  "score": 30.56,
+  "rank": 100,
   "proposicoes": [
     {
       "id": 2623400,
@@ -45,6 +45,20 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-19T21:24",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. SARGENTO FAHUR (PL - PR. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Na quinta-feira, pelo que eu tenho conhecimento, nós teremos uma sessão do Congresso Nacional, e eu digo que ",
+      "transcricao": "O SR. SARGENTO FAHUR (PL - PR. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Na quinta-feira, pelo que eu tenho conhecimento, nós teremos uma sessão do Congresso Nacional, e eu digo que o Presidente do Congresso, o Senador Davi Alcolumbre, tem obrigação moral de instalar a CPMI do Banco Master. Nós precisamos separar inocentes de bandidos. A verdade precisa prevalecer. Eu tenho convicção, com a minha experiência de vida, pelo que eu tenho vivido aqui dentro da Câmara dos Deputados, de que a CPMI do Banco Master chegará ao PT, chegará muito próximo ao Presidente da República, que é um descondenado e nunca foi inocentado ou absolvido. Lula é ladrão!"
+    },
+    {
+      "data": "2026-05-19T20:28",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. SARGENTO FAHUR (PL - PR. Pela ordem. Sem revisão do orador.) - Presidente, só quero registrar também meu voto contrário ao projeto que acabou de ser discutido aqui, o Projeto de Lei nº 4.822, de",
+      "transcricao": "O SR. SARGENTO FAHUR (PL - PR. Pela ordem. Sem revisão do orador.) - Presidente, só quero registrar também meu voto contrário ao projeto que acabou de ser discutido aqui, o Projeto de Lei nº 4.822, de 2025. Pelos debates, pelas manifestações que vi aqui, sou totalmente contrário ao projeto. Muito obrigado."
+    },
     {
       "data": "2026-05-12T19:24",
       "fase": "Breves Comunicações",

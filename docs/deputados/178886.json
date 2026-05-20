@@ -4,10 +4,18 @@
   "partido": "PSDB",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178886.jpg",
-  "score": 15.36,
-  "rank": 466,
+  "score": 15.85,
+  "rank": 468,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-19T17:20",
+      "fase": "Ordem do Dia",
+      "tipo": "ENCAMINHAMENTO DE VOTAÇÃO",
+      "resumo": "O SR. JUSCELINO FILHO (Bloco/PSDB - MA. Sem revisão do orador.) - Sr. Presidente, este projeto de lei trata justamente de um marco normativo para o compartilhamento de infraestrutura de postes, dutos,",
+      "transcricao": "O SR. JUSCELINO FILHO (Bloco/PSDB - MA. Sem revisão do orador.) - Sr. Presidente, este projeto de lei trata justamente de um marco normativo para o compartilhamento de infraestrutura de postes, dutos, condutos e servidores entre distribuidoras de energia elétrica e prestadores do serviço de telecomunicações. Este projeto foi aprovado recentemente no Senado Federal e encaminhado a esta Casa. Trata-se de um tema urgente; representa um instrumento que pode trazer eficiência e encerrar um impasse que dura há mais de 20 anos entre os setores, no que diz respeito ao uso desse tipo de infraestrutura. Este projeto busca corrigir justamente o crescimento dos custos para utilização, pelo setor de telecomunicações, de cada ponto de fixação nessas infraestruturas nos postes. Hoje, cerca de 10 a 15 milhões de postes estão em situação irregular, sem regime estruturado de regularização, com preços variando em até mil por cento para a utilização do mesmo serviço. Com certeza, para os provedores regionais, a aprovação deste projeto é de extrema importância, porque há a previsão de redução do custo de rede em até 85%, além de segurança jurídica e regularização do passivo para o conjunto do setor como um todo. A base legal é a isonomia, ou seja, eliminar qualquer tipo de vantagem de custo irregular dessa infraestrutura, abrindo o mercado para uma gestão mais profissional dessa infraestrutura importante para os setores. Para o consumidor final, a aprovação desse projeto pode trazer uma redução do custo do provimento da banda larga e potencial redução também na tarifa de energia, por conta da modicidade tarifária. Então, entende-se que este projeto carece de aprovação com urgência, para que possamos avançar na construção do parecer de mérito e aprová-lo aqui na Câmara dos Deputados, promovendo mais eficiência com a aprovação dessa infraestrutura importante, tanto para o setor de energia elétrica quanto para o setor de telecomunicações do nosso país. Encaminhamos favoravelmente ao requerimento."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Saúde",

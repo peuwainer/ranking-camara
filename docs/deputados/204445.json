@@ -4,9 +4,19 @@
   "partido": "PT",
   "uf": "RN",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204445.jpg",
-  "score": 28.25,
-  "rank": 165,
-  "proposicoes": [],
+  "score": 26.73,
+  "rank": 200,
+  "proposicoes": [
+    {
+      "id": 2625750,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o “Disque Animal” para recebimento de denúncias de maus-tratos contra animais e dá outras providências.",
+      "data": "2026-05-19T13:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625750"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-05-13T15:40",

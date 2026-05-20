@@ -4,10 +4,25 @@
   "partido": "PT",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220527.jpg",
-  "score": 24.42,
-  "rank": 293,
+  "score": 25.08,
+  "rank": 253,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-19T17:36",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. JACK ROCHA (Bloco/PT - ES. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, a Federação do PT, PCdoB e PV orienta \"sim\" nesta matéria, nesta urgência, tendo em consideração todo o debate ",
+      "transcricao": "A SRA. JACK ROCHA (Bloco/PT - ES. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, a Federação do PT, PCdoB e PV orienta \"sim\" nesta matéria, nesta urgência, tendo em consideração todo o debate que precisa ser feito, mas lembrando que este ano é um ano muito importante para a participação política das mulheres. O que nós gostaríamos mesmo era que os 5% destinados para as cotas das mulheres no fundo partidário pudessem também ser, no mínimo, 30% hoje de investimento para que esta fosse um pouco mais do ponto de vista de igualdade ou até mesmo equidade quando a gente estivesse falando sobre a formação política de dirigentes. Por isso, eu acho que votamos a urgência, é importante. O Relator está aberto a acatar as sugestões. Deixo também um recado para o nosso Plenário, para que a gente não retroceda sobre as cotas, as cotas das mulheres, as cotas de pessoas negras, porque nós entendemos que a democracia só se faz com a participação de todas as pessoas."
+    },
+    {
+      "data": "2026-05-19T16:56",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. JACK ROCHA (Bloco/PT - ES. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, o Governo vai orientar contrariamente a este projeto, uma vez que entende que a matéria se torna estranha justa",
+      "transcricao": "A SRA. JACK ROCHA (Bloco/PT - ES. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, o Governo vai orientar contrariamente a este projeto, uma vez que entende que a matéria se torna estranha justamente porque o próprio parecer desta Casa, da Consultoria Legislativa, aponta para irregularidades sobre a intervenção do Poder Legislativo nas competências de outro Poder, no caso, do Poder Executivo. Esse projeto de lei deixa toda a estrutura administrativa de órgãos fiscalizadores ligada ao Ministério da Agricultura e tira a competência de órgãos como o Ibama, dentre outros, que foram aprovados na recriação, por exemplo, do Ministério do Desenvolvimento Agrário, Ministério do Desenvolvimento Regional, Ministério do Meio Ambiente e Mudança do Clima. Portanto, para manter a estabilidade dos Poderes e, consequentemente, as políticas públicas aqui inseridas, o Governo orienta \"não\"."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220666.jpg",
-  "score": 32.68,
-  "rank": 73,
+  "score": 31.99,
+  "rank": 77,
   "proposicoes": [
     {
       "id": 2618360,
@@ -78,6 +78,15 @@
       "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
       "data": "2026-05-14T14:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
+    },
+    {
+      "id": 2625808,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Estabelece normas gerais programáticas, de aplicação em âmbito nacional, para a utilização de tecnologias baseadas em inteligência artificial no âmbito do Sistema Único de Segurança Pública – SUSP, visando à prevenção e à repressão de infrações penais, à proteção de pessoas e bens e à preservação da ordem pública, potencializando a observância dos direitos e garantias fundamentais.",
+      "data": "2026-05-19T14:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625808"
     }
   ],
   "discursos": [
@@ -184,6 +193,12 @@
       "sigla": "SUB8J",
       "cargo": "Titular",
       "desde": "2026-03-11T00:00"
+    },
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Suplente",
+      "desde": "2026-05-19T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220666/votacoes-nominais-plenario/2026"

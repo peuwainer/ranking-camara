@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204436.jpg",
-  "score": 6.03,
-  "rank": 509,
+  "score": 7.69,
+  "rank": 505,
   "proposicoes": [
     {
       "id": 2620178,
@@ -33,9 +33,26 @@
       "ementa": "Altera a Lei nº 7.689, de 15 de dezembro de 1988, e a Lei nº 8.981, de 20 de janeiro de 1995, para fixar alíquota de Contribuição Social sobre Lucro Líquido – CSLL das sociedades resseguradoras locais e para afastar o limite de compensação de prejuízos fiscais e bases de cálculo negativas relativas às atividades de resseguro e retrocessão.",
       "data": "2026-05-13T17:51",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624699"
+    },
+    {
+      "id": 2625949,
+      "tipo": "PL",
+      "numero": 2486,
+      "ano": 2026,
+      "ementa": "Altera os limites da Floresta Nacional do Jamanxim e cria a Área de Proteção Ambiental do Jamanxim, localizadas no Município de Novo Progresso, Estado do Pará.",
+      "data": "2026-05-19T18:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625949"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-19T17:32",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ISNALDO BULHÕES JR. (Bloco/MDB - AL) - Presidente, num momento oportuno, sem atrapalhar o encaminhamento, mas talvez entre o encaminhamento e o início das orientações, eu gostaria de sustentar q",
+      "transcricao": "O SR. ISNALDO BULHÕES JR. (Bloco/MDB - AL) - Presidente, num momento oportuno, sem atrapalhar o encaminhamento, mas talvez entre o encaminhamento e o início das orientações, eu gostaria de sustentar que uma matéria seja inserida na pauta desta sessão, já que ela vai diretamente em convergência com as matérias apreciadas, e muito mais em convergência com a matéria de autoria da Senadora Tereza Cristina e de relatoria do Deputado Pedro Lupion. Portanto, eu quero pedir esta oportunidade, agora ou após o encaminhamento. O SR. PRESIDENTE (Hugo Motta. Bloco/REPUBLICANOS - PB) - Qual é o projeto, Deputado? O SR. ISNALDO BULHÕES JR. (Bloco/MDB - AL. Pela ordem. Sem revisão do orador.) - É um requerimento de urgência, Sr. Presidente, ao Projeto de Lei Complementar nº 139, em 2026. Em 2020 e 2021... O SR. PRESIDENTE (Hugo Motta. Bloco/REPUBLICANOS - PB) - Ele foi priorizado na reunião de Líderes hoje? O SR. ISNALDO BULHÕES JR. (Bloco/MDB - AL) - A Liderança do MDB solicitou que fosse inserido entre as matérias apreciadas hoje. Trata-se de resseguro. É uma correção à crise do resseguro no Brasil entre 2020 e 2021, e é uma correção histórica, Presidente. Acho que a matéria cabe fundamentalmente a este momento, em que V.Exa. tem a lucidez de promover o agronegócio, a agricultura brasileira. Estou à inteira disposição para sustentar sua importância. O projeto contempla o tratamento diferenciado que foi dado naquele momento de crise para empresas internacionais virem para o Brasil, por causa da crise que o IRB passou naquele momento. A realidade de hoje é totalmente contrária. Eu quero fazer uma proposta a V.Exa. e aos Líderes partidários. O SR. PRESIDENTE (Hugo Motta. Bloco/REPUBLICANOS - PB) - Deputado Isnaldo, nós vamos priorizar esse item na pauta de amanhã, para que V.Exa. tenha a oportunidade de conversar com as Lideranças. Em havendo o convencimento, até podemos avaliar e fazer urgência e mérito no dia de amanhã. Atende a V.Exa.? O SR. ISNALDO BULHÕES JR. (Bloco/MDB - AL) - Agradeço a generosidade parcial, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a acompanhar e fiscalizar os danos sociais, ambientais e econômicos, dentre outros, causados pelo afundamento do solo na cidade de Maceió-AL",

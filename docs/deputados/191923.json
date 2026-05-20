@@ -4,10 +4,18 @@
   "partido": "PT",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/191923.jpg",
-  "score": 33.88,
-  "rank": 54,
+  "score": 31.97,
+  "rank": 78,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-19T14:16",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. FLÁVIO NOGUEIRA (Bloco/PT - PI. Sem revisão do orador.) - Sras. e Srs. Deputados, o Papa Leão XIV, prestes a promulgar a sua primeira Encíclica, a Magnifica Humanitas, faz com que nos lembremos ",
+      "transcricao": "O SR. FLÁVIO NOGUEIRA (Bloco/PT - PI. Sem revisão do orador.) - Sras. e Srs. Deputados, o Papa Leão XIV, prestes a promulgar a sua primeira Encíclica, a Magnifica Humanitas, faz com que nos lembremos da Encíclica Rerum Novarum do Papa Leão XIII. A Magnifica Humanitas vem a propósito das modificações na comunicação social que podem ocorrer com a Inteligência Artificial. Aliás, é digno de nota que a Igreja Católica sempre se preocupou com o problema que possa existir com as inovações, não que ela, a inovação, não deva existir, sim, deve existir, é bom que exista, mas é aquilo que podemos também chamar de doutrina social da Igreja, ou seja, a preocupação com o social e com a dignidade humana. Passar para máquinas, para robôs tudo o que nós podemos fazer, tudo o que nós podemos consultar é de fato perder todo poder que tem o ser humano, o talento que uma pessoa tem para pensar, refletir e emitir opinião. Então é de enorme importância essa encíclica. E ele vai promulgá-la no dia 25 de maio, embora já a tenha assinado no dia 15 de maio, em referência à encíclica do Papa Leão XIII, que foi promulgada no dia 15 de maio de 1891. Lembro que a Encíclica Rerum Novarum também estava preocupada com grandes transformações sociais, principalmente com a classe trabalhadora. Isso fez com que a Rerum Novarum pudesse ser também uma inspiração aqui no Brasil para a CLT. Embora muita gente diga que era uma carta fascista, mas foi uma inspiração. O maior conteúdo que temos da CLT foi trazido da Rerum Novarum devido, repito, às transformações sociais que existiam naquela época, vindas da Revolução Industrial. Portanto, é de enorme importância essa nova carta, essa encíclica do Papa Leão XIV, que tem uma frase muito importante em que ele diz que nós não podemos esconder nosso rosto e nem silenciar nossa voz; o rosto humano, a voz humana tem que se sobressair em relação à inteligência artificial. Sr. Presidente, peço que este discurso seja divulgado no programa A Voz do Brasil e nos demais meios de comunicação social da Câmara."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a estudar e analisar formas de prevenção e auxílio a desastres e calamidades naturais que vêm assolando o Território Nacional",

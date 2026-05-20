@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/98148.jpg",
-  "score": 27.78,
-  "rank": 183,
+  "score": 27.73,
+  "rank": 168,
   "proposicoes": [
     {
       "id": 2620160,
@@ -71,7 +71,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-19T14:52",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. COBALCHINI (Bloco/MDB - SC. Sem revisão do orador.) - Presidente Icaro de Valmir, como catarinense e filho de agricultores, trago no meu DNA a tradição de quem sabe o que é trabalhar de sol a so",
+      "transcricao": "O SR. COBALCHINI (Bloco/MDB - SC. Sem revisão do orador.) - Presidente Icaro de Valmir, como catarinense e filho de agricultores, trago no meu DNA a tradição de quem sabe o que é trabalhar de sol a sol. Eu vi meus pais e irmãos trabalharem de segunda a segunda, sem feriado e sem descanso. E tenho muita honra de saber que hoje sou uma das vozes do agricultor catarinense no Congresso Nacional, como membro da Frente Parlamentar da Agropecuária, da Frente Parlamentar do Cooperativismo, da Comissão de Agricultura e da Comissão de Meio Ambiente, que tenho orgulho de presidir. Defendo e sempre defenderei, com unhas e dentes, os nossos produtores. O homem do campo enfrenta, muitas vezes, seca, excesso de chuvas, frio, quebra de safra e falta de estradas. A natureza impõe essas dificuldades ao produtor, que as encara, sem medo, sem choro, sem reclamação. Por isso, o mínimo que este Parlamento pode fazer é dar ao agro o respaldo necessário através dos projetos de lei que tramitam nesta Casa. O agro não quer favor de ninguém. O agro exige apenas duas coisas: respeito e liberdade para trabalhar. Hoje temos uma pauta extensa, com treze requerimentos e projetos fundamentais para o agro. Precisamos aprovar o Requerimento nº 1.180, de 2026, que garante que o órgão federal da agricultura seja responsável para avaliar o impacto econômico das atividades dos produtores. Precisamos também aprovar o Requerimento nº 2.736, de 2026, para que as nossas cooperativas sejam beneficiadas com recursos dos Fundos de Desenvolvimento do Nordeste, da Amazônia e do Centro-Oeste, quiçá, no ano que vem, também, do Fundo Constitucional do Sul e do Sudeste, fortalecendo a nossa base produtiva. Além disso, Presidente, já encerrando, é urgente votarmos o Projeto de Lei nº 2.951, de 2024, que trata do aperfeiçoamento do seguro rural, e o Projeto de Lei nº 2.827, de 2025, para corrigir distorções do Imposto de Renda sobre o arrendamento rural, além de outros projetos importantes que hoje, certamente, serão deliberados. Peço, Presidente, que a nossa manifestação seja veiculada no programa A Voz do Brasil. Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",

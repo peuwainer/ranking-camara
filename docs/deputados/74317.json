@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74317.jpg",
-  "score": 18.4,
-  "rank": 432,
+  "score": 16.29,
+  "rank": 461,
   "proposicoes": [
     {
       "id": 2621322,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621462"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-19T14:36",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JÚLIO CESAR (Bloco/PSD - PI. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, tenho o prazer de receber aqui em Brasília 120 Prefeitos do meu Estado do total de 224 ",
+      "transcricao": "O SR. JÚLIO CESAR (Bloco/PSD - PI. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, tenho o prazer de receber aqui em Brasília 120 Prefeitos do meu Estado do total de 224 Prefeitos. O SR. PRESIDENTE (Icaro de Valmir. Bloco/REPUBLICANOS - SE) - Apenas! O SR. JÚLIO CESAR (Bloco/PSD - PI) - Dentre eles, aqui estão Prefeito, Vice-Prefeito, Vereadores, Vereadoras. É um orgulho do Piauí ter um time tão unido, tão responsável e tão comprometido, ao lado deste grande Secretário do Governo, do Rafael Jonas Moura. Então, eu quero cumprimentar e dizer ao povo do Piauí que eles estão aqui defendendo as bandeiras do interesse do povo nesta grande Marcha dos Prefeitos do Brasil, comandada pela Confederação Nacional de Municípios  CNM. Um abraço!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",

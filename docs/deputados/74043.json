@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
-  "score": 17.82,
-  "rank": 443,
+  "score": 14.72,
+  "rank": 474,
   "proposicoes": [
     {
       "id": 2623604,
@@ -15,6 +15,15 @@
       "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
       "data": "2026-05-12T11:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2625703,
+      "tipo": "PL",
+      "numero": 2463,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Dados Pessoais – LGPD), disciplinando o tratamento de dados preditivos de saúde por sistemas de inteligência artificial e congêneres.",
+      "data": "2026-05-19T12:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625703"
     }
   ],
   "discursos": [],

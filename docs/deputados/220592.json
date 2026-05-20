@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "AC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220592.jpg",
-  "score": 17.28,
-  "rank": 447,
+  "score": 19.52,
+  "rank": 409,
   "proposicoes": [
     {
       "id": 2624861,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-19T15:52",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ZEZINHO BARBARY (Bloco/PP - AC. Pela ordem. Sem revisão do orador.) - Sr. Presidente, primeiramente, quero lhe cumprimentar e aproveitar o momento e registrar aqui as presenças neste Plenário do",
+      "transcricao": "O SR. ZEZINHO BARBARY (Bloco/PP - AC. Pela ordem. Sem revisão do orador.) - Sr. Presidente, primeiramente, quero lhe cumprimentar e aproveitar o momento e registrar aqui as presenças neste Plenário do Prefeito César, de Porto Walter, do nosso Estado do Acre, e também do Vice-Prefeito Edésio, do Município de Marechal Thaumaturgo. Aqui também está presente o nosso Prefeito Valdelio Furtado, também de Marechal, e a Primeira-Dama, a sua esposa, como também o Vereador Rudson. Os Prefeitos estão participando desse encontro aqui em Brasília e também visitando os gabinetes dos Parlamentares acrianos em busca de recursos para serem transformados em resultado lá nos seus Municípios e no nosso Estado. Muito obrigado, Presidente. O SR. PRESIDENTE (Charles Fernandes. Bloco/PSD - BA) - Muito obrigado, Deputado Zezinho. Agradeço a presença dos Prefeitos e da Primeira-Dama, a esposa do Prefeito, e dos Vereadores que estão acompanhando aqui o nosso Deputado Zezinho Barbary, lá do Estado do Acre. Sejam todos bem-vindos à Capital Federal. O SR. ZEZINHO BARBARY (Bloco/PP - AC) - Obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

@@ -4,8 +4,8 @@
   "partido": "AVANTE",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220703.jpg",
-  "score": 25.53,
-  "rank": 253,
+  "score": 25.48,
+  "rank": 234,
   "proposicoes": [
     {
       "id": 2620099,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620099"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-19T19:12",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. NETO CARLETTO (AVANTE - BA. Pela ordem. Sem revisão do orador.) - Presidente, o Avante orienta \"sim\". Quero aproveitar a oportunidade para parabenizar a Relatora pelo projeto, assim como nossa P",
+      "transcricao": "O SR. NETO CARLETTO (AVANTE - BA. Pela ordem. Sem revisão do orador.) - Presidente, o Avante orienta \"sim\". Quero aproveitar a oportunidade para parabenizar a Relatora pelo projeto, assim como nossa Presidente, que nos honra muito presidindo esta Casa. Inclusive, hoje estou tendo a honra aqui, nesta Marcha dos Prefeitos, de estar bem acompanhado dos Vereadores da cidade de Araci, da Bahia, inclusive com uma Vereadora também mulher aqui ao meu lado e seus colegas Vereadores que vieram aqui solicitar mais investimentos para o Município. Nós já temos contribuído significativamente para o Município de Araci, sempre dialogado com a nossa Prefeita Keinha, com o nosso grande líder político Silva Neto, assim também como com a nossa Vice-Prefeita Gilmara. Eles vieram aqui hoje trazer mais demandas não só para a zona urbana, mas também para as comunidades que eles representam na cidade de Araci. Então, estou muito feliz de recebê-los aqui para que possamos dar andamento a essas demandas. Em breve, estaremos na cidade de Araci para realizar essas entregas. Então registro a visita dos Vereadores que vêm hoje aqui a Brasília. Eu queria, Presidente, pedir mais 20 segundos aqui também para saudar este grupo de Vereadores da cidade de Itajuípe. Aqui está o Presidente Ivan Júnior; na pessoa dele, eu quero saudar todos os Vereadores da cidade de Itajuípe. Estive lá na semana passada, juntamente com o Prefeito Léo da Capoeira, ocasião em que inauguramos importantes equipamentos para o Município e anunciamos também mais obras para o Município de Itajuípe: mais pavimentação asfáltica, mais entregas para a cidade de Itajuípe, o que deixa o meu coração transbordando de alegria e felicidade e me faz, a cada dia, trabalhar mais pelo progresso, pelo desenvolvimento e pela melhoria da qualidade de vida do povo de Itajuípe, da Bahia e do Brasil. Muito obrigado, Sra. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a acompanhar e monitorar a conclusão das obras públicas paralisadas e inacabadas no país",

@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220638.jpg",
-  "score": 27.86,
-  "rank": 178,
+  "score": 27.34,
+  "rank": 180,
   "proposicoes": [
     {
       "id": 2622436,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622437"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-19T15:32",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ANTONIO CARLOS RODRIGUES (Bloco/PODE - SP. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente. Só quero dizer que estão aqui como nossos convidados os Vereadores de Pereiras, de Pr",
+      "transcricao": "O SR. ANTONIO CARLOS RODRIGUES (Bloco/PODE - SP. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente. Só quero dizer que estão aqui como nossos convidados os Vereadores de Pereiras, de Pratânia e de Bofete. O Prefeito de Bofete é o Carlinhos. Muito obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Mesa Diretora da Câmara dos Deputados",

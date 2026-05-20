@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204526.jpg",
-  "score": 26.25,
-  "rank": 223,
+  "score": 23.85,
+  "rank": 300,
   "proposicoes": [
     {
       "id": 2621114,
@@ -60,6 +60,15 @@
       "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
       "data": "2026-05-14T14:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
+    },
+    {
+      "id": 2625824,
+      "tipo": "PL",
+      "numero": 2468,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 662, de 6 de abril de 1949, para incluir a data de 13 de maio, Dia da Abolição da Escravatura, no rol de feriados nacionais.",
+      "data": "2026-05-19T15:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625824"
     }
   ],
   "discursos": [

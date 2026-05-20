@@ -4,10 +4,27 @@
   "partido": "PP",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220707.jpg",
-  "score": 17.67,
-  "rank": 445,
-  "proposicoes": [],
+  "score": 19.15,
+  "rank": 417,
+  "proposicoes": [
+    {
+      "id": 2625613,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Criação de Incentivos para Empresas Aplicarem Cotas Femininas no Mercado de Tecnologia da Informação e Comunicação (TIC).",
+      "data": "2026-05-18T16:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625613"
+    }
+  ],
   "discursos": [
+    {
+      "data": "2026-05-19T19:16",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. AMANDA GENTIL (Bloco/PP - MA. Pela ordem. Sem revisão da oradora.) - O bloco orienta \"sim\", Presidente, enfatizando aqui a necessidade de trazer, cada vez mais, para este plenário, projetos que",
+      "transcricao": "A SRA. AMANDA GENTIL (Bloco/PP - MA. Pela ordem. Sem revisão da oradora.) - O bloco orienta \"sim\", Presidente, enfatizando aqui a necessidade de trazer, cada vez mais, para este plenário, projetos que protejam nossas crianças e adolescentes, principalmente no âmbito virtual. Quero aqui parabenizar o Deputado Osmar Terra, que hoje é Presidente da Comissão Especial da PEC da 1ª Infância, junto comigo, como Relatora, e também a Deputada Rogéria Santos. Essa é uma pauta muito importante, por meio da qual nós, em nossos mandatos, iremos proteger quem realmente precisa, lá na ponta, e que acaba não tendo oportunidade de se defender. Então, por isso, o bloco orienta \"sim\", Presidente."
+    },
     {
       "data": "2026-04-22T21:52",
       "fase": "Ordem do Dia",

@@ -4,8 +4,8 @@
   "partido": "AVANTE",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/91228.jpg",
-  "score": 30.18,
-  "rank": 123,
+  "score": 30.38,
+  "rank": 102,
   "proposicoes": [
     {
       "id": 2623604,
@@ -15,6 +15,15 @@
       "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
       "data": "2026-05-12T11:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2625661,
+      "tipo": "PL",
+      "numero": 2458,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a profissão de Consultor de Proteção Patrimonial Mutualista, estabelece requisitos para seu exercício, define atribuições, deveres, direitos, vedações, sanções e assegura a organização da categoria em entidades de classe, e dá outras providências.",
+      "data": "2026-05-19T11:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625661"
     }
   ],
   "discursos": [],
@@ -38,16 +47,16 @@
       "desde": "2025-07-07T00:00"
     },
     {
-      "nome": "Comissão de Administração e Serviço Público",
-      "sigla": "CASP",
-      "cargo": "Suplente",
-      "desde": "2026-02-05T00:00"
-    },
-    {
       "nome": "Comissão de Constituição e Justiça e de Cidadania",
       "sigla": "CCJC",
       "cargo": "Titular",
       "desde": "2026-02-09T00:00"
+    },
+    {
+      "nome": "Comissão de Administração e Serviço Público",
+      "sigla": "CASP",
+      "cargo": "Suplente",
+      "desde": "2026-05-19T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/91228/votacoes-nominais-plenario/2026"

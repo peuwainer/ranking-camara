@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74044.jpg",
-  "score": 23.92,
-  "rank": 307,
+  "score": 21.51,
+  "rank": 373,
   "proposicoes": [
     {
       "id": 2623369,
@@ -24,6 +24,15 @@
       "ementa": "",
       "data": "2026-05-11T17:56",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623473"
+    },
+    {
+      "id": 2625892,
+      "tipo": "PL",
+      "numero": 2477,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, para instituir o Piso Salarial Profissional Nacional do Acompanhante Especializado de pessoas com Transtorno do Espectro Autista (TEA), e dispõe sobre a assistência financeira da União para o seu cumprimento.",
+      "data": "2026-05-19T17:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625892"
     }
   ],
   "discursos": [

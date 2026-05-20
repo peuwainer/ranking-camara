@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/227991.jpg",
-  "score": 30.13,
-  "rank": 125,
+  "score": 30.11,
+  "rank": 109,
   "proposicoes": [
     {
       "id": 2619995,
@@ -69,9 +69,25 @@
       "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
       "data": "2026-05-14T14:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
+    },
+    {
+      "id": 2625806,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-05-19T15:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625806"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-19T17:00",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DR FLÁVIO (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, quero parabenizar os produtores do Estado do Rio de Janeiro das cidades de Bom Jardim, Porciúncula, Duas",
+      "transcricao": "O SR. DR FLÁVIO (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, quero parabenizar os produtores do Estado do Rio de Janeiro das cidades de Bom Jardim, Porciúncula, Duas Barras, Nova Friburgo, Itaperuna e Varre-Sai. Eles vieram expor seus produtos aqui na Câmara dos Deputados e trouxeram caqui, pitaya, café, principalmente o café do Rio de Janeiro, que é um café especial. Eu tive a honra de ser Secretário de Estado de Agricultura por 3 anos, e encontrar o produtor do Estado do Rio de Janeiro aqui é uma grande satisfação. Quero parabenizar cada produtor que veio expor seus produtos e dizer que o Rio tem grandes produtores de pequenas propriedades. Parabenizo também o Deputado Hugo Leal pela iniciativa de dar apoio aos produtores. O nosso mandato está sempre à disposição do agro do Estado do Rio de Janeiro. Presidente, gostaria que este pronunciamento fosse divulgado nos canais de comunicação desta Casa e no programa A Voz do Brasil. Obrigado, Sr. Presidente, pela oportunidade."
+    },
     {
       "data": "2026-05-13T14:56",
       "fase": "Breves Comunicações",
