@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220625.jpg",
-  "score": 32.48,
-  "rank": 68,
+  "score": 33.26,
+  "rank": 69,
   "proposicoes": [
     {
       "id": 2622777,
@@ -129,6 +129,12 @@
       "sigla": "CMULHER",
       "cargo": "Suplente",
       "desde": "2026-04-24T00:00"
+    },
+    {
+      "nome": "Comissão de Administração e Serviço Público",
+      "sigla": "CASP",
+      "cargo": "3º Vice-Presidente",
+      "desde": "2026-05-19T00:00"
     },
     {
       "nome": "Comissão de Administração e Serviço Público",

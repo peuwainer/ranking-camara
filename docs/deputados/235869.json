@@ -4,9 +4,28 @@
   "partido": "REPUBLICANOS",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/235869.jpg",
-  "score": 23.02,
-  "rank": 328,
-  "proposicoes": [],
+  "score": 25.17,
+  "rank": 277,
+  "proposicoes": [
+    {
+      "id": 2626346,
+      "tipo": "PL",
+      "numero": 2515,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional \"Escola Segura e Conectada\" no âmbito das redes públicas de ensino fundamental e médio, destinado ao controle de acesso e à notificação eletrônica de frequência aos pais ou responsáveis legais, e dá outras providências.",
+      "data": "2026-05-20T14:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626346"
+    },
+    {
+      "id": 2626347,
+      "tipo": "PL",
+      "numero": 2516,
+      "ano": 2026,
+      "ementa": "Institui a obrigatoriedade de verificação metrológica e manutenção periódica de esfigmomanômetros utilizados em estabelecimentos de saúde públicos e privados em todo o território nacional, e dá outras providências.",
+      "data": "2026-05-20T14:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626347"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-05-07T10:28",

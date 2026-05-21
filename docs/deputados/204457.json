@@ -4,10 +4,18 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204457.jpg",
-  "score": 24.05,
-  "rank": 293,
+  "score": 25.14,
+  "rank": 278,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-20T15:04",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JUNINHO DO PNEU (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Boa tarde, Presidente, meus nobres colegas. Quero registrar aqui a presença do nosso Vereador lá de Nova Iguaçu, Vereador ",
+      "transcricao": "O SR. JUNINHO DO PNEU (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Boa tarde, Presidente, meus nobres colegas. Quero registrar aqui a presença do nosso Vereador lá de Nova Iguaçu, Vereador Alexandre da Padaria, lá da minha cidade. Que fique registrado. Um abraço."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Minas e Energia",

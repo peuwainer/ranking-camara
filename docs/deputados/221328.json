@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/221328.jpg",
-  "score": 26.56,
-  "rank": 206,
+  "score": 28.17,
+  "rank": 176,
   "proposicoes": [
     {
       "id": 2621569,
@@ -86,6 +86,12 @@
       "sigla": "CREDN",
       "cargo": "Suplente",
       "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-05-20T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/221328/votacoes-nominais-plenario/2026"

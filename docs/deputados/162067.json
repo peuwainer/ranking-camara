@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/162067.jpg",
-  "score": 24.6,
-  "rank": 275,
+  "score": 25.84,
+  "rank": 252,
   "proposicoes": [
     {
       "id": 2624236,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624236"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-20T16:40",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. KIKO CELEGUIM (Bloco/PT - SP. Pela ordem. Sem revisão do orador.) - Presidente, é bom a gente lembrar, esse é um projeto inicialmente enviado aqui para a Casa pelo ex-Presidente Bolsonaro, que, ",
+      "transcricao": "O SR. KIKO CELEGUIM (Bloco/PT - SP. Pela ordem. Sem revisão do orador.) - Presidente, é bom a gente lembrar, esse é um projeto inicialmente enviado aqui para a Casa pelo ex-Presidente Bolsonaro, que, nós sabemos, não tem absolutamente nenhum apreço pela preservação do meio ambiente, pela proteção dos parques e das áreas de preservação. Qualquer redução de área de proteção, em qualquer canto ou bioma do País, é muito temerário. O Governo encaminha contra a urgência desse projeto para que a gente possa avaliar com muito cuidado qualquer espaço que promova agressão ao meio ambiente, sobretudo agora, num ambiente de desmatamento no mundo todo. Temos agora a perspectiva de um El Niño muito abrupto no nosso País, que vai prejudicar sobretudo plantação de comida, e o interesse do agronegócio em redução de área de proteção é muito temerário."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a acompanhar e monitorar as obras do túnel submerso Santos-Guarujá, projeto de infraestrutura e mobilidade lançado pelo Governo Federal, que visa promover a ligação seca dos Municípios de Santos e Guarujá, no litoral do Estado de São Paulo, por meio de passagem submersa sob o canal do Porto de Santos.",

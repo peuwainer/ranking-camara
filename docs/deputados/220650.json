@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220650.jpg",
-  "score": 28.34,
-  "rank": 151,
+  "score": 29.22,
+  "rank": 150,
   "proposicoes": [
     {
       "id": 2618427,
@@ -77,16 +77,16 @@
       "desde": "2026-02-03T00:00"
     },
     {
-      "nome": "Comissão de Viação e Transportes",
-      "sigla": "CVT",
-      "cargo": "Titular",
-      "desde": "2026-04-17T00:00"
-    },
-    {
       "nome": "Comissão de Finanças e Tributação",
       "sigla": "CFT",
       "cargo": "Suplente",
       "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "3º Vice-Presidente",
+      "desde": "2026-05-20T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220650/votacoes-nominais-plenario/2026"

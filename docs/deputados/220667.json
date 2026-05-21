@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220667.jpg",
-  "score": 30.05,
-  "rank": 113,
+  "score": 31.5,
+  "rank": 95,
   "proposicoes": [
     {
       "id": 2619323,
@@ -53,7 +53,22 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625893"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-20T20:08",
+      "fase": "Ordem do Dia",
+      "tipo": "COMO LÍDER",
+      "resumo": "O SR. PEDRO CAMPOS (PSB - PE. Como Líder. Sem revisão do orador.) - Presidente, caros colegas Deputados, eu uso esta tribuna hoje para fazer uma denúncia importante para o povo de Pernambuco. O Estado",
+      "transcricao": "O SR. PEDRO CAMPOS (PSB - PE. Como Líder. Sem revisão do orador.) - Presidente, caros colegas Deputados, eu uso esta tribuna hoje para fazer uma denúncia importante para o povo de Pernambuco. O Estado tem hoje uma crise instalada na saúde, uma crise que é visível aos olhos daqueles que utilizam o SUS no Estado de Pernambuco. Em outubro do ano passado, a gente viu o teto da UTI neonatal do Hospital Barão de Lucena caindo. Em novembro, as famílias das crianças que estavam internadas na UTI pediátrica do Hospital da Restauração denunciaram o calor naquela UTI. E agora, mais recentemente, nos últimos 15 dias, nós vimos o teto do sétimo andar do Hospital da Restauração também caindo, um andar que, inclusive, segundo as propagandas do Governo, já havia sido reformado. É aí que fica mais cruel ainda essa crise, porque, enquanto o Governo pinta a fachada e faz propaganda de reforma, eles mesmos utilizam o termo \"emergência\" para gastar centenas de milhões de reais em contratos sem licitação ou em pagamentos a Organizações Sociais de Saúde sem contrato. E isso está acontecendo em grandes unidades de saúde. O Hospital Mestre Vitalino, em Caruaru, passou 2 meses recebendo sem contrato. Quase 50 milhões de reais foram pagos sem haver um contrato dizendo qual serviço deveria ser prestado. E o contrato emergencial de 6 meses acaba agora em junho, numa unidade que é fundamental para o povo de Caruaru e para todo o Agreste. Seis UPAs de especialidades também estão funcionando sem contrato. A UPAE Garanhuns passou 2 anos sem contrato e agora está com um contrato emergencial. Tudo isso precariza a saúde, tudo isso é retrato de uma gestão que é muito incompetente ou é muito mal intencionada. A quem interessa que os serviços aconteçam sem contrato? A quem interessa um pagamento sem contrato assinado? A quem interessa a falta de competição, a falta de disputa, a falta de uma licitação para contratar quem vai tocar essas unidades? E não adianta dizer que foram pegos de surpresa. Esses contratos foram assinados há 10 anos. Todas essas unidades, que foram construídas em governos anteriores, tinham contratos regulares. Esses contratos poderiam ser prorrogados por até 10 anos, ou seja, há 10 anos se sabia que o contrato ia acabar, e, mesmo assim, não fizeram uma licitação. Nenhuma licitação foi feita para a contratação dessas OSS, ou seja, o povo de Pernambuco sofre com a crise na saúde, com o teto caindo, com o calor nas unidades, e o Governo do Estado aproveita essa crise para gastar quase 300 milhões de reais sem contratos ou em contratos emergenciais. Isso é um grande absurdo."
+    },
+    {
+      "data": "2026-05-20T19:40",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. PEDRO CAMPOS (PSB - PE. Pela ordem. Sem revisão do orador.) - Presidente, o PSB vota \"não\". Acreditamos em um modelo de desenvolvimento com sustentabilidade. Veremos isto em Petrolina nesta sema",
+      "transcricao": "O SR. PEDRO CAMPOS (PSB - PE. Pela ordem. Sem revisão do orador.) - Presidente, o PSB vota \"não\". Acreditamos em um modelo de desenvolvimento com sustentabilidade. Veremos isto em Petrolina nesta semana, no Sertão pernambucano, no Vale do São Francisco: graças ao acordo celebrado entre o Mercosul e a União Europeia, o Vale do São Francisco exportará frutas para a Europa. A gente acredita que esse projeto vai na contramão desse modelo, que permite que sejam preservados os nossos biomas, inclusive a nossa Caatinga, que teve o projeto de uma política de recuperação aprovado  e eu ajudei a aprová-lo aqui  e que também permita o desenvolvimento da agricultura com sustentabilidade. Por isso, o PSB vota \"não\"."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei n. 2614, de 2024, do Poder Executivo, que \"aprova o Plano Nacional de Educação para o decênio 2024-2034\"",

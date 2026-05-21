@@ -4,10 +4,27 @@
   "partido": "PODE",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/143084.jpg",
-  "score": 25.04,
-  "rank": 255,
-  "proposicoes": [],
+  "score": 25.49,
+  "rank": 270,
+  "proposicoes": [
+    {
+      "id": 2626327,
+      "tipo": "PL",
+      "numero": 2512,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Estabilização Tributária com Compensação Direta ao Contribuinte, cria mecanismo de devolução de receita tributária extraordinária em decorrência de variações de preços de bens essenciais, e dá outras providências.",
+      "data": "2026-05-20T14:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626327"
+    }
+  ],
   "discursos": [
+    {
+      "data": "2026-05-20T19:52",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. TIAGO DIMAS (Bloco/PODE - TO. Pela ordem. Sem revisão do orador.) - Sr. Presidente, rapidamente, quero só celebrar e destacar aqui os 37 anos que hoje estão sendo completados pela capital mais n",
+      "transcricao": "O SR. TIAGO DIMAS (Bloco/PODE - TO. Pela ordem. Sem revisão do orador.) - Sr. Presidente, rapidamente, quero só celebrar e destacar aqui os 37 anos que hoje estão sendo completados pela capital mais nova e mais linda deste País, que é a nossa capital Palmas, no meu querido Estado do Tocantins. Uma cidade que V.Exa. conhece bem, está sempre passando por lá, sabe que ela tem crescido e se desenvolvido a cada ano. Uma cidade de um povo ordeiro, trabalhador, com um sol quente, mas que cresce a cada ano. Eu tenho orgulho de, ao longo desses 10 meses de retorno do nosso mandato, já ter direcionado para a capital pouco mais de 21 milhões de reais para a nossa cidade, dos quais 12,5 milhões de reais já foram pagos. Os recursos estão sendo aplicados na saúde, na assistência social, no desenvolvimento e em obras estruturantes, como a tão sonhada Ponte do Bertaville, que vai desenvolver outra região. Parabéns, Palmas, capital do Tocantins, pelos 37 anos!"
+    },
     {
       "data": "2026-05-06T16:56",
       "fase": "Breves Comunicações",

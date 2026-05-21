@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204387.jpg",
-  "score": 30.56,
-  "rank": 100,
+  "score": 31.59,
+  "rank": 94,
   "proposicoes": [
     {
       "id": 2623400,
@@ -45,6 +45,27 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-20T21:44",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. SARGENTO FAHUR (PL - PR. Pela ordem. Sem revisão do orador.) - O Oposição orienta \"sim\" ao destaque. Entendemos que o destaque reduz essa loucura, essa intervenção do Governo no mercado de preço",
+      "transcricao": "O SR. SARGENTO FAHUR (PL - PR. Pela ordem. Sem revisão do orador.) - O Oposição orienta \"sim\" ao destaque. Entendemos que o destaque reduz essa loucura, essa intervenção do Governo no mercado de preços. Então, é \"sim\" ao destaque e \"não\" ao texto, para redução de danos."
+    },
+    {
+      "data": "2026-05-20T21:28",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. SARGENTO FAHUR (PL - PR. Pela ordem. Sem revisão do orador.) - A Oposição orienta \"não\", Sr. Presidente. Nós entendemos que neste ano eleitoral o Governo quer fazer cortesia com o chapéu dos out",
+      "transcricao": "O SR. SARGENTO FAHUR (PL - PR. Pela ordem. Sem revisão do orador.) - A Oposição orienta \"não\", Sr. Presidente. Nós entendemos que neste ano eleitoral o Governo quer fazer cortesia com o chapéu dos outros. O PT, quando não está mentindo, está roubando. Dessa vez, está mentindo. Quem vai pagar o preço é o próprio povo. Mentira do PT! Querem interferir na economia de uma forma velada, que, na verdade, é descarada, mas nós estamos aqui para mostrar a verdade. A Oposição orienta \"não\"."
+    },
+    {
+      "data": "2026-05-20T19:44",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. SARGENTO FAHUR (PL - PR. Pela ordem. Sem revisão do orador.) - A Minoria, Sr. Presidente, orienta \"sim\". Temos o entendimento de que o agro é o carro-chefe da economia, o carro-chefe do Brasil. ",
+      "transcricao": "O SR. SARGENTO FAHUR (PL - PR. Pela ordem. Sem revisão do orador.) - A Minoria, Sr. Presidente, orienta \"sim\". Temos o entendimento de que o agro é o carro-chefe da economia, o carro-chefe do Brasil. Chore, Marina (expressão retirada por determinação da Presidência)! Chore, Esquerdalha! Força e honra!"
+    },
     {
       "data": "2026-05-19T21:24",
       "fase": "Breves Comunicações",

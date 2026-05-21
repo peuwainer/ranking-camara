@@ -4,8 +4,8 @@
   "partido": "AVANTE",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/91228.jpg",
-  "score": 30.38,
-  "rank": 102,
+  "score": 31.39,
+  "rank": 101,
   "proposicoes": [
     {
       "id": 2623604,
@@ -24,6 +24,15 @@
       "ementa": "Dispõe sobre a profissão de Consultor de Proteção Patrimonial Mutualista, estabelece requisitos para seu exercício, define atribuições, deveres, direitos, vedações, sanções e assegura a organização da categoria em entidades de classe, e dá outras providências.",
       "data": "2026-05-19T11:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625661"
+    },
+    {
+      "id": 2626283,
+      "tipo": "PL",
+      "numero": 2506,
+      "ano": 2026,
+      "ementa": "Institui o Sistema Nacional de Comunicação Preventiva e Gestão de Risco dos Requisitos de Regularidade Federativa (SINACORF).",
+      "data": "2026-05-20T13:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626283"
     }
   ],
   "discursos": [],

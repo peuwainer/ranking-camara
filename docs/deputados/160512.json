@@ -4,8 +4,8 @@
   "partido": "SOLIDARIEDADE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
-  "score": 39.09,
-  "rank": 17,
+  "score": 41.22,
+  "rank": 15,
   "proposicoes": [
     {
       "id": 2618215,
@@ -96,9 +96,26 @@
       "ementa": "Altera o art. 41 da Lei 9.610/98, Lei de Direitos Autorais (LDA) para estabelecer critérios de regulação dos direitos patrimoniais do autor de obras musicais.",
       "data": "2026-05-19T18:37",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625950"
+    },
+    {
+      "id": 2626519,
+      "tipo": "PL",
+      "numero": 2530,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a prevenção, detecção, mitigação e rastreabilidade de fraudes financeiras praticadas mediante engenharia social, estabelece deveres de segurança para instituições financeiras, instituições de pagamento e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, e altera a Lei nº 8.078, de 11 de setembro de 1990.",
+      "data": "2026-05-20T18:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626519"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-20T21:00",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. AUREO RIBEIRO (SOLIDARIEDADE - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero só fazer uma saudação ao Vereador Moisés, de São Pedro da Aldeia, que veio à Brasília na comitiva d",
+      "transcricao": "O SR. AUREO RIBEIRO (SOLIDARIEDADE - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero só fazer uma saudação ao Vereador Moisés, de São Pedro da Aldeia, que veio à Brasília na comitiva da Prefeitura, em busca de recursos para o desenvolvimento da cidade. Quero também saudar o Prefeito Fábio do Pastel pelo trabalho que tem realizado e pelo avanço da cultura em São Pedro da Aldeia. Quero deixar este registro na Casa. Obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",

@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/150418.jpg",
-  "score": 28.52,
-  "rank": 150,
+  "score": 29.01,
+  "rank": 154,
   "proposicoes": [
     {
       "id": 2618587,
@@ -63,6 +63,20 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-20T21:40",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MÁRCIO MARINHO (Bloco/REPUBLICANOS - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o Republicanos indica o voto \"sim\". O excesso de burocracia e insegurança normativa eleva custos op",
+      "transcricao": "O SR. MÁRCIO MARINHO (Bloco/REPUBLICANOS - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o Republicanos indica o voto \"sim\". O excesso de burocracia e insegurança normativa eleva custos operacionais, e quem paga é o consumidor lá na ponta. O Republicanos vota \"sim\"."
+    },
+    {
+      "data": "2026-05-20T21:24",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MÁRCIO MARINHO (Bloco/REPUBLICANOS - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o Republicanos também libera a bancada. Eu, particularmente, voto também \"não\", por entender a impo",
+      "transcricao": "O SR. MÁRCIO MARINHO (Bloco/REPUBLICANOS - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o Republicanos também libera a bancada. Eu, particularmente, voto também \"não\", por entender a importância deste projeto, principalmente para as pequenas distribuidoras. Eu sou da Bahia, onde há vários postos de gasolina pelo interior do Estado, onde as grandes bandeiras não entram, mas as pequenas, sim. Elas dependem realmente que a gente aprove, vote a favor, para que, lá na ponta, o consumidor não seja prejudicado pelo aumento do preço de combustível. Eu voto \"não\" e libero a bancada do Republicanos."
+    },
     {
       "data": "2026-04-29T15:24",
       "fase": "Breves Comunicações",

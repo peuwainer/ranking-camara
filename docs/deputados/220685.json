@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220685.jpg",
-  "score": 16.62,
-  "rank": 458,
+  "score": 17.03,
+  "rank": 454,
   "proposicoes": [
     {
       "id": 2623604,
@@ -66,6 +66,12 @@
       "sigla": "PLP10821",
       "cargo": "Titular",
       "desde": "2026-04-28T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-05-20T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220685/votacoes-nominais-plenario/2026"

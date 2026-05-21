@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220595.jpg",
-  "score": 34.49,
-  "rank": 44,
+  "score": 35.84,
+  "rank": 40,
   "proposicoes": [
     {
       "id": 2620133,
@@ -147,6 +147,12 @@
       "sigla": "SUBPROP",
       "cargo": "Titular",
       "desde": "2026-03-24T00:00"
+    },
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Suplente",
+      "desde": "2026-05-20T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220595/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 32.2,
-  "rank": 69,
+  "score": 35.26,
+  "rank": 44,
   "proposicoes": [
     {
       "id": 2617507,
@@ -123,6 +123,33 @@
       "ementa": "Dispõe sobre o salário profissional nacional dos Condutores de Ambulância.",
       "data": "2026-05-19T09:47",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625654"
+    },
+    {
+      "id": 2626142,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a concessão de posse e porte de arma de fogo para corretores de imóveis no exercício de suas atividades profissionais e dá outras providências",
+      "data": "2026-05-19T17:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626142"
+    },
+    {
+      "id": 2626216,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
+      "data": "2026-05-20T09:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626216"
+    },
+    {
+      "id": 2626217,
+      "tipo": "EMP",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
+      "data": "2026-05-20T09:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626217"
     }
   ],
   "discursos": [

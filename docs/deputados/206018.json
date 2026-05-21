@@ -4,18 +4,9 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/206018.jpg",
-  "score": 36.74,
-  "rank": 33,
+  "score": 37.26,
+  "rank": 31,
   "proposicoes": [
-    {
-      "id": 2617435,
-      "tipo": "PL",
-      "numero": 1904,
-      "ano": 2026,
-      "ementa": "Inscreve o nome de Galdino Jesus dos Santos (Galdino Pataxó) no Livro dos Heróis e Heroínas da Pátria, em reconhecimento à sua memória, marcado por seu brutal assassinato em 1997, e à sua relevância na luta pela Demarcação dos Territórios e  em defesa dos direitos dos povos indígenas no Brasil.",
-      "data": "2026-04-20T12:20",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617435"
-    },
     {
       "id": 2619274,
       "tipo": "PL",
@@ -105,6 +96,15 @@
       "ementa": "Inclui os nomes de José Ronaldo Monteiro Ferreira, Raimundo Ferreira Coimbra e Paulo Carolino da Silva no Livro dos Heróis e Heroínas da Pátria.",
       "data": "2026-05-13T17:07",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624652"
+    },
+    {
+      "id": 2626250,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-05-20T13:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626250"
     }
   ],
   "discursos": [

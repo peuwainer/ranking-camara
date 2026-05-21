@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220571.jpg",
-  "score": 30.67,
-  "rank": 98,
+  "score": 32.14,
+  "rank": 86,
   "proposicoes": [
     {
       "id": 2623400,
@@ -60,6 +60,15 @@
       "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
       "data": "2026-05-14T14:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
+    },
+    {
+      "id": 2626639,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer ao PL 2775/2019 que \"estabelece novo marco regulatório para a circulação, a comercialização, a fiscalização e a inspeção de produtos alimentícios artesanais e dos estabelecimentos que os produzem.\"",
+      "data": "2026-05-20T19:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626639"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141516.jpg",
-  "score": 23.3,
-  "rank": 319,
+  "score": 24.55,
+  "rank": 295,
   "proposicoes": [
     {
       "id": 2618047,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622911"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-20T15:48",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. PAULO ABI-ACKEL (Bloco/PSDB - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, caros colegas, meu caríssimo Deputado Glaycon Franco, que acaba de assumir o mandato, eu subo nesta tribun",
+      "transcricao": "O SR. PAULO ABI-ACKEL (Bloco/PSDB - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, caros colegas, meu caríssimo Deputado Glaycon Franco, que acaba de assumir o mandato, eu subo nesta tribuna depois de um discurso brilhante do Deputado que me antecedeu, que foi completo na em sua fala sobre a importância do papel do Parlamentar na vida nacional, o debate nesta Casa, a independência dos Poderes, e o papel do Parlamento na vida nacional. Mas eu quero dizer a V.Exa. que conheço sua história, meu caro Glaycon, médico de grande sucesso, Deputado Estadual de brilhante carreira, que agora chega ao mandato de Deputado Federal. Eu peço a Deus que V.Exa. esteja iluminado nesses próximos meses, que tome as melhores decisões, de tal sorte que possa contribuir para o Brasil, para Minas Gerais, para o PSDB, para o bom debate político, com ética e respeito. Isso que é algo que eu prezo muito. Nesse aspecto, esta Casa já viveu tempos melhores. Espero que V.Exa. possa trazer aqui ideias, projetos, leis novas, possa fazer a grande política, a boa política, porque é isso que está faltando ao nosso País. Quero sinceramente que este tempo seu aqui na Câmara, que, se Deus quiser, se renovará nas próximas eleições, quem sabe, se assim for do seu desejo, seja um momento de grande enriquecimento pessoal e de grande orgulho para a sua família, para os seus eleitores, para os seus companheiros e, sobretudo, para o nosso PSDB. Bem-vindo ao Congresso Nacional, bem-vindo à Câmara dos Deputados, bem-vindo ao bom debate, bem-vindo à boa política, bem-vindo ao PSDB! Abraço a todos!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Constituição e Justiça e de Cidadania",

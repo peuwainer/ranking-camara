@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/128760.jpg",
-  "score": 25.4,
-  "rank": 236,
+  "score": 26.48,
+  "rank": 226,
   "proposicoes": [
     {
       "id": 2623400,
@@ -27,6 +27,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-20T21:16",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. PAULO MARINHO JR (PL - MA. Pela ordem. Sem revisão do orador.) - Queria só fazer o registro da presença do grande líder político Hilário Neto, da cidade de Lago da Pedra, no Maranhão, que está a",
+      "transcricao": "O SR. PAULO MARINHO JR (PL - MA. Pela ordem. Sem revisão do orador.) - Queria só fazer o registro da presença do grande líder político Hilário Neto, da cidade de Lago da Pedra, no Maranhão, que está aqui com a sua esposa, prestigiando a Casa. Veio para a Marcha dos Prefeitos. Queria só deixar isso registrado."
+    },
     {
       "data": "2026-05-19T20:28",
       "fase": "Ordem do Dia",

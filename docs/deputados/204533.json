@@ -4,10 +4,18 @@
   "partido": "PSB",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204533.jpg",
-  "score": 22.14,
-  "rank": 354,
+  "score": 22.22,
+  "rank": 374,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-20T17:24",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. IDILVAN ALENCAR (PSB - CE. Pela ordem. Sem revisão do orador.) - Presidente, quero agradecer-lhe a confiança, porque eu presidi a Comissão que analisou esta medida provisória, que é muito import",
+      "transcricao": "O SR. IDILVAN ALENCAR (PSB - CE. Pela ordem. Sem revisão do orador.) - Presidente, quero agradecer-lhe a confiança, porque eu presidi a Comissão que analisou esta medida provisória, que é muito importante. Quero agradecer também ao partido e a todos os membros da Comissão. Este Congresso tem o dever de aprovar toda ação que possa valorizar o professor. Isso é muito importante, pois vai dar visibilidade. Nós temos que defender também reajuste em toda a carreira. Se o Supremo barrar isso, temos que viabilizar nesta Casa uma lei para que isso ocorra. É muito importante também o piso dos profissionais não docentes. Eu estou muito feliz com esta aprovação, Presidente. Esta é uma vitória em tempo recorde. A Casa está de parabéns. Esta é uma pauta partidária. Quando se trata de projeto sobre educação, sobre professor, nós temos que ter respeito, aprovar o projeto por unanimidade e dar dignidade ao magistério. O PSB orienta a favor da proposta."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Educação",
