@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220635.jpg",
-  "score": 31.39,
-  "rank": 100,
+  "score": 32.04,
+  "rank": 87,
   "proposicoes": [
     {
       "id": 2617578,
@@ -96,6 +96,15 @@
       "ementa": "Dispõe sobre isenção da tarifa de energia elétrica de entidades filantrópicas no território nacional.",
       "data": "2026-05-20T18:24",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626574"
+    },
+    {
+      "id": 2626881,
+      "tipo": "PL",
+      "numero": 2549,
+      "ano": 2026,
+      "ementa": "Dispõe sobre os princípios regedores dos direitos animais e estabelece medidas administrativas de prevenção e repressão a condutas lesivas contra animais.",
+      "data": "2026-05-21T13:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626881"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/157130.jpg",
-  "score": 30.68,
-  "rank": 116,
+  "score": 30.94,
+  "rank": 110,
   "proposicoes": [
     {
       "id": 2623243,
@@ -24,6 +24,24 @@
       "ementa": "Altera a Lei Complementar nº 109, de 29 de maio de 2001, que dispõe sobre o Regime de Previdência Complementar, para prever a composição dos conselhos deliberativo e fiscal das entidades fechadas de previdência complementar que tiveram seus planos de benefícios transferidos para outra instituição, por incorporação.",
       "data": "2026-05-08T15:11",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623250"
+    },
+    {
+      "id": 2626883,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Emenda de Plenário ao PL 3.240, de 2025.",
+      "data": "2026-05-21T13:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626883"
+    },
+    {
+      "id": 2626884,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Emenda de plenário.",
+      "data": "2026-05-21T13:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626884"
     }
   ],
   "discursos": [

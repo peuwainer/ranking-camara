@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74400.jpg",
-  "score": 27.08,
-  "rank": 211,
+  "score": 28.5,
+  "rank": 168,
   "proposicoes": [
     {
       "id": 2618177,
@@ -51,6 +51,24 @@
       "ementa": "Altera a Lei nº 8.036, de 11 de maio de 1990, que dispõe sobre o Fundo de Garantia do Tempo de Serviço.",
       "data": "2026-05-19T14:12",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625767"
+    },
+    {
+      "id": 2626883,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Emenda de Plenário ao PL 3.240, de 2025.",
+      "data": "2026-05-21T13:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626883"
+    },
+    {
+      "id": 2626884,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Emenda de plenário.",
+      "data": "2026-05-21T13:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626884"
     }
   ],
   "discursos": [
