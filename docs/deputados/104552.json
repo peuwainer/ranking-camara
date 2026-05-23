@@ -4,27 +4,9 @@
   "partido": "PP",
   "uf": "AC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/104552.jpg",
-  "score": 38.21,
-  "rank": 23,
+  "score": 35.99,
+  "rank": 39,
   "proposicoes": [
-    {
-      "id": 2617500,
-      "tipo": "PL",
-      "numero": 1910,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a implantação do Hospital Universitário da Universidade Federal do Acre – HU-UFAC, no Estado do Acre.",
-      "data": "2026-04-22T11:44",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617500"
-    },
-    {
-      "id": 2617750,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre a dispensa do uso obrigatório de uniforme escolar para estudantes com Transtorno do Espectro Autista (TEA), considerando suas sensibilidades sensoriais e necessidades específicas, e dá outras providências.",
-      "data": "2026-04-22T17:04",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617750"
-    },
     {
       "id": 2618386,
       "tipo": "SBT",
@@ -177,6 +159,15 @@
       "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990, para vedar a diferenciação injustificada de preços de produtos e serviços substancialmente equivalentes em razão do direcionamento comercial ao público consumidor feminino ou masculino, e dá outras providências.",
       "data": "2026-05-21T09:42",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626803"
+    },
+    {
+      "id": 2627296,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar n° 141, de 13 de janeiro de 2012, para inserir o custo amazônico e dá outras providências.",
+      "data": "2026-05-22T11:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627296"
     }
   ],
   "discursos": [

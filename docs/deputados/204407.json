@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204407.jpg",
-  "score": 33.77,
-  "rank": 57,
+  "score": 35.0,
+  "rank": 47,
   "proposicoes": [
     {
       "id": 2619274,
@@ -33,6 +33,24 @@
       "ementa": "Dispõe sobre a obrigatoriedade de inclusão de mensagem informativa sobre Educação de Jovens e Adultos (EJA) nas faturas de consumo de energia elétrica e dá outras providências.",
       "data": "2026-05-18T11:42",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625440"
+    },
+    {
+      "id": 2627194,
+      "tipo": "PL",
+      "numero": 2560,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, 07 de dezembro de 1940 (Código Penal), a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), a Lei nº 8.429, de 02 de junho de 1992 (Lei de Improbidade Administrativa) e a Lei 12.846, de 1º de agosto de 2013 (Lei de Anticorrupção), para agravar as sanções aplicáveis a fraudes e ilícitos praticados em contratações públicas relacionadas a situações de emergência e estado de calamidade pública.",
+      "data": "2026-05-22T12:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627194"
+    },
+    {
+      "id": 2627195,
+      "tipo": "PL",
+      "numero": 2561,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.608, de 10 de abril de 2012 (Política Nacional de Proteção e Defesa Civil), o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) e a Lei nº 8.429, de 2 de junho de 1992 (Lei de Improbidade Administrativa), para coibir a omissão de agentes públicos diante de alertas oficiais de desastres ambientais e climáticos e dá outras providências.",
+      "data": "2026-05-22T12:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627195"
     }
   ],
   "discursos": [

@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
-  "score": 17.44,
-  "rank": 449,
+  "score": 14.24,
+  "rank": 481,
   "proposicoes": [
     {
       "id": 2622760,
@@ -24,6 +24,15 @@
       "ementa": "Dispõe sobre a política nacional de educação do campo.",
       "data": "2026-05-15T13:26",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625349"
+    },
+    {
+      "id": 2627081,
+      "tipo": "PLP",
+      "numero": 144,
+      "ano": 2026,
+      "ementa": "Inclui os artigos 18-G e 18-H ao texto da Lei Complementar nº 123, de 14 de dezembro de 2006, para dispor sobre limite de receita bruta aplicável ao motorista autônomo que exerça atividade de transporte remunerado privado individual e coletivo de passageiros.",
+      "data": "2026-05-21T19:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627081"
     }
   ],
   "discursos": [

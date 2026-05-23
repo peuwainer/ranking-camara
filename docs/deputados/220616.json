@@ -4,18 +4,9 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220616.jpg",
-  "score": 27.31,
-  "rank": 201,
+  "score": 25.62,
+  "rank": 222,
   "proposicoes": [
-    {
-      "id": 2617510,
-      "tipo": "PL",
-      "numero": 1914,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a portabilidade e o refinanciamento das operações de Cartão de Crédito Consignado - RMC e de Cartão Consignado de Benefício - RCC, com possibilidade de conversão em empréstimo consignado, e dá outras providências.",
-      "data": "2026-04-22T12:18",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617510"
-    },
     {
       "id": 2618211,
       "tipo": "PL",
@@ -105,6 +96,15 @@
       "ementa": "Dispõe sobre a obrigatoriedade de divulgação do Protocolo CALMA., ou de protocolos similares que venham a substituí-lo ou atualiza-lo, contendo orientações de primeiros socorros em caso de crises convulsivas.",
       "data": "2026-05-19T19:47",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625988"
+    },
+    {
+      "id": 2627333,
+      "tipo": "PL",
+      "numero": 2567,
+      "ano": 2026,
+      "ementa": "Confere ao Município de Mangaratiba, no Estado do Rio de Janeiro, o título de Capital Nacional do Boto-Cinza.",
+      "data": "2026-05-22T17:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627333"
     }
   ],
   "discursos": [

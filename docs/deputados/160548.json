@@ -4,18 +4,9 @@
   "partido": "PSB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160548.jpg",
-  "score": 37.72,
-  "rank": 28,
+  "score": 37.91,
+  "rank": 26,
   "proposicoes": [
-    {
-      "id": 2617694,
-      "tipo": "EMP",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Modifique-se o art. 1º do Projeto de Lei nº 539, de 2024, para acrescer o § 3º ao art. 216 do Código Brasileiro de Aeronáutica, com a seguinte redação:\n\t\t“Art. 216. ....................................................................................\n§ 3º Nos serviços aéreos de transporte público doméstico operados por empresas estrangeiras nos termos deste artigo, a tripulação de voo e de cabine deverá ser composta exclusivamente por aeronautas brasileiros, nos termos da Lei nº 13.475, de 28 de agosto de 2017, aplicando-se integralmente a legislação trabalhista brasileira, incluídas as convenções e acordos coletivos de trabalho celebrados pelo sindicato representativo da categoria.” (NR)",
-      "data": "2026-04-22T16:41",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617694"
-    },
     {
       "id": 2619142,
       "tipo": "PLP",
@@ -215,7 +206,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626540"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-21T11:47",
+      "fase": "Breves Comunicações",
+      "tipo": "COMO LÍDER",
+      "resumo": "O SR. JONAS DONIZETTE (Bloco/PSB - SP. Pela Liderança. Sem revisão do orador.)  Sr. Presidente, eu quero começar cumprimentando V. Exa., que esteve no encontro dos Prefeitos, e foram levados a V. Exa",
+      "transcricao": "O SR. JONAS DONIZETTE (Bloco/PSB - SP. Pela Liderança. Sem revisão do orador.)  Sr. Presidente, eu quero começar cumprimentando V. Exa., que esteve no encontro dos Prefeitos, e foram levados a V. Exa. alguns assuntos que são importantes para o Brasil. O Congresso está reunido. V. Exa., pela experiência que tem, saberia que nós viveríamos este momento e, mesmo assim, o senhor pautou pontos de interesse da população brasileira. Do mesmo jeito que nós estamos fazendo o Desenrola para as pessoas físicas que estão com problemas de dívidas, hoje as prefeituras do Brasil passam por uma situação financeira muito complicada. E o senhor põe na pauta hoje um projeto que é muito importante, porque, pelas regras atuais, algumas prefeituras que têm alguns débitos e que não têm as certidões negativas não podem receber repasse. E, muitas vezes, são essas prefeituras que mais necessitam. Então eu estou usando, aqui, a tribuna, usando o microfone, para falar pela população dessas cidades. Nós vamos votar, aqui, o veto que permite... Ele foi vetado. O dispositivo é: cidades com até...  o ideal seria para todas, mas foi colocado \"até 65 mil habitantes\" , mesmo que tenham algum débito, poderão receber o repasse do governo do estado, do Governo da União, para poder auxiliar justamente aqueles municípios que estão com uma dificuldade maior. Eu, como fui Prefeito de Campinas, Presidente da Frente Nacional dos Prefeitos, quero pedir aqui o voto de todos os Deputados e Senadores para que a gente derrube esse veto. Ele é muito importante  tem muitas obras paradas, uma situação difícil Brasil afora, em todos os estados  e vai ser fundamental. Por isso, primeiro, quero cumprimentá-lo pela coragem de fazer esta sessão neste momento tão difícil na página da história brasileira. E, para que a gente não paralise aquilo para o qual nós fomos eleitos... Investigar, apurar denúncias é papel, sim, do Parlamento, mas legislar, para que as coisas no Brasil funcionem, é um papel de que nós não podemos abrir mão. Então, eu peço aqui que todos os Deputados e Senadores possam fazer a derrubada dos vetos hoje, para desburocratizar o sistema de repasse para os municípios. Muito grato, Sr. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 231, de 2019, que altera o art. 159 da Constituição Federal para disciplinar a distribuição de recursos pela União ao Fundo de Participação dos Municípios",

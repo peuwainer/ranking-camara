@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204372.jpg",
-  "score": 34.6,
-  "rank": 51,
+  "score": 33.92,
+  "rank": 54,
   "proposicoes": [
-    {
-      "id": 2617702,
-      "tipo": "EMP",
-      "numero": 3,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986, que institui o Código Brasileiro de Aeronáutica, para estabelecer hipóteses de autorização da realização de serviços aéreos de transporte doméstico por empresas sul-americanas na Amazônia Legal.",
-      "data": "2026-04-22T16:57",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617702"
-    },
     {
       "id": 2618272,
       "tipo": "SBT",
@@ -96,6 +87,24 @@
       "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para permitir a dedução, no Imposto de Renda da Pessoa Física, de despesas com saúde preventiva de animais domésticos, e dá outras providências.",
       "data": "2026-05-18T14:33",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625404"
+    },
+    {
+      "id": 2627112,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Estabelece medidas para permitir o bloqueio e o rastreamento, e facilitar a investigação de crimes cibernéticos praticados mediante a utilização de linha telefônica de serviço fixo comutado ou móvel celular, e dá outras providências.",
+      "data": "2026-05-21T16:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627112"
+    },
+    {
+      "id": 2627219,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera as Leis nº 9.394, de 20 de dezembro de 1996, e nº 8.742, de 7 de dezembro de 1993, para dispor sobre o reconhecimento e o fortalecimento das parcerias do poder público com entidades sem fins lucrativos que prestam atendimento especializado às pessoas com deficiência.",
+      "data": "2026-05-21T16:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627219"
     }
   ],
   "discursos": [],

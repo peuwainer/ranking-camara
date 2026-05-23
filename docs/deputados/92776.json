@@ -4,10 +4,18 @@
   "partido": "PSD",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/92776.jpg",
-  "score": 14.09,
-  "rank": 484,
+  "score": 17.82,
+  "rank": 440,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-19T21:24",
+      "fase": "Encerramento",
+      "tipo": "OUTROS",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO STEFANO AGUIAR (SEM REGISTRO TAQUIGRÁFICO). O Sr. STEFANO AGUIAR (PSD-MG) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Deputa",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO STEFANO AGUIAR (SEM REGISTRO TAQUIGRÁFICO). O Sr. STEFANO AGUIAR (PSD-MG) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Deputados, no dia 15 de maio, celebramos algo que sustenta a sociedade desde sempre: a família. É nela que aprendemos os primeiros valores, encontramos apoio nos dias difíceis e compartilhamos as maiores alegrias da vida. Família não é apenas laço de sangue. É cuidado, presença, acolhimento e amor. É quem segura nossa mão quando tudo parece difícil e quem comemora conosco cada conquista, por menor que seja. No Dia Internacional da Família, quero deixar minha homenagem a todas as famílias que, com esforço e dedicação, enfrentam desafios diários para educar seus filhos, proteger os seus e construir um futuro melhor. Que nunca nos falte união, respeito e esperança dentro dos nossos lares. Porque quando a família é fortalecida, toda a sociedade se fortalece junto. Feliz Dia Internacional da Família! Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",

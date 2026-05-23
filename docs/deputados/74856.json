@@ -4,126 +4,9 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
-  "score": 61.25,
-  "rank": 1,
+  "score": 56.72,
+  "rank": 3,
   "proposicoes": [
-    {
-      "id": 2617630,
-      "tipo": "PL",
-      "numero": 1920,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para aprimorar a notificação da vítima de violência doméstica e familiar quanto aos atos processuais realizados no curso do processo.",
-      "data": "2026-04-22T15:08",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617630"
-    },
-    {
-      "id": 2617641,
-      "tipo": "PL",
-      "numero": 1922,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer a realização de audiência admonitória no caso de revogação de prisão preventiva ou liberdade provisória.",
-      "data": "2026-04-22T15:24",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617641"
-    },
-    {
-      "id": 2617650,
-      "tipo": "EMP",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986, que institui o Código Brasileiro de Aeronáutica, para estabelecer hipóteses de autorização da realização de serviços aéreos de transporte doméstico por empresas sul-americanas na Amazônia Legal.",
-      "data": "2026-04-22T15:27",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617650"
-    },
-    {
-      "id": 2617711,
-      "tipo": "EMP",
-      "numero": 6,
-      "ano": 0,
-      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
-      "data": "2026-04-22T17:13",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617711"
-    },
-    {
-      "id": 2617713,
-      "tipo": "EMP",
-      "numero": 7,
-      "ano": 0,
-      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
-      "data": "2026-04-22T17:16",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617713"
-    },
-    {
-      "id": 2617717,
-      "tipo": "EMP",
-      "numero": 8,
-      "ano": 0,
-      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
-      "data": "2026-04-22T17:18",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617717"
-    },
-    {
-      "id": 2617722,
-      "tipo": "EMP",
-      "numero": 9,
-      "ano": 0,
-      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
-      "data": "2026-04-22T17:27",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617722"
-    },
-    {
-      "id": 2617735,
-      "tipo": "EMP",
-      "numero": 10,
-      "ano": 0,
-      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
-      "data": "2026-04-22T17:34",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617735"
-    },
-    {
-      "id": 2617748,
-      "tipo": "EMP",
-      "numero": 11,
-      "ano": 0,
-      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
-      "data": "2026-04-22T17:44",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617748"
-    },
-    {
-      "id": 2617771,
-      "tipo": "EMP",
-      "numero": 12,
-      "ano": 0,
-      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
-      "data": "2026-04-22T18:32",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617771"
-    },
-    {
-      "id": 2617780,
-      "tipo": "EMP",
-      "numero": 13,
-      "ano": 0,
-      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
-      "data": "2026-04-22T18:40",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617780"
-    },
-    {
-      "id": 2617789,
-      "tipo": "EMP",
-      "numero": 14,
-      "ano": 0,
-      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
-      "data": "2026-04-22T18:53",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617789"
-    },
-    {
-      "id": 2617813,
-      "tipo": "EMP",
-      "numero": 15,
-      "ano": 0,
-      "ementa": "Dispõe sobre normas de controle de origem, compra, venda e transporte de ouro no território nacional e altera a Lei nº 7.766, de 11 de maio de 1989.",
-      "data": "2026-04-22T19:04",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2617813"
-    },
     {
       "id": 2618307,
       "tipo": "SBT",
@@ -397,6 +280,13 @@
   ],
   "discursos": [
     {
+      "data": "2026-05-19T21:24",
+      "fase": "Encerramento",
+      "tipo": "OUTROS",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA LAURA CARNEIRO (SEM REGISTRO TAQUIGRÁFICO). A Sra. LAURA CARNEIRO (PSD-RJ) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Depu",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA LAURA CARNEIRO (SEM REGISTRO TAQUIGRÁFICO). A Sra. LAURA CARNEIRO (PSD-RJ) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Deputados: Os líderes comunitários destacam-se pela vocação para servir à coletividade, escutando todas as vozes e organizando o corpo social com base no conhecimento de quem compartilha anseios e preocupações da realidade cotidiana com seus concidadãos. Dedicam-se, assim, à superação de obstáculos para transformar positivamente as comunidades em que atuam. Para tanto, os líderes comunitários precisam servir como canal de interlocução entre o cidadão e o poder público, identificando problemas cuja solução lutam para viabilizar. Trata-se de tarefa nada trivial, dada a escassez dos recursos necessários para suprir as notáveis carências que ainda marcam as comunidades deste País. Diante dessa realidade, os líderes comunitários mobilizam a esperança dos mais vulneráveis e, não raro, edificam belas histórias de superação. É importante frisar, porém, que a escassez de recursos está longe de ser a única dificuldade que precisa ser vencida. Afinal, o labor cotidiano das lideranças comunitárias também é marcado pelo enfrentamento à burocracia, pela falta de reconhecimento e, muitas vezes, pela exaustão física e emocional. Apesar disso, nossos homenageados seguem firmes em seus propósitos, movidos pela nobreza da construção do bem comum. Por isso, além da celebração, esta solenidade também deve ser um momento de reflexão, pois a importância dos líderes comunitários precisa ser reconhecida, com o papel que desempenham sendo ainda mais valorizado e fortalecido. Assim, enquanto representantes do povo, devemos garantir que os líderes comunitários tenham mais espaço, voz e condições de atuação. Para tanto, é imprescindível que ampliemos os investimentos em capacitação e o apoio às iniciativas locais, bem como os meios de promoção do diálogo e, sobretudo, o respeito ao conhecimento que nasce da experiência vivida. Além disso, é muito importante destacar o papel das mulheres na liderança comunitária, pois é muito comum que assumam a linha de frente na defesa de comunidades em todo o Brasil. Com coragem e dedicação, elas cuidam, organizam, lutam e transformam, demonstrando, na prática, que liderança também é sensibilidade, escuta e persistência. Todos os líderes comunitários são grandes merecedores de admiração e gratidão. Como exemplos de cidadania ativa, nossos homenageados evidenciam que a democracia não se constrói apenas nas urnas, mas no dia a dia  tanto nas pequenas ações, quanto nas grandes mobilizações e na solidariedade cotidiana entre vizinhos. Afinal, o Brasil real forma-se na interação entre o que é feito nos grandes centros de decisão com o que ocorre nas ruas, nas comunidades e na relação entre as pessoas. Infelizmente, aqueles que trabalham diretamente em contato com os problemas do mundo real nem sempre têm a visibilidade que merecem, e isso precisa mudar. Desse modo, esta solenidade é um símbolo da proximidade entre dois mundos que colaboram para o alcance de um único ideal de País. A ocasião, portanto, é muito propícia para o fortalecimento do compromisso de aproximar o poder público das comunidades em benefício de todos os brasileiros. Muito obrigada."
+    },
+    {
       "data": "2026-05-13T20:20",
       "fase": "Encerramento",
       "tipo": "OUTROS",
@@ -507,13 +397,6 @@
       "tipo": "DISCURSO ENCAMINHADO",
       "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA LAURA CARNEIRO (SEM REGISTRO TAQUIGRÁFICO). A Sra. LAURA CARNEIRO (PSD-RJ) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Depu",
       "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA LAURA CARNEIRO (SEM REGISTRO TAQUIGRÁFICO). A Sra. LAURA CARNEIRO (PSD-RJ) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Deputados, subo hoje a esta tribuna com profundo sentimento de dever cumprido diante de uma conquista legislativa que representa um avanço na proteção das mulheres brasileiras. Refiro-me à Lei nº 15.384, de 2026, recentemente sancionada pelo Presidente Lula, resultante do Projeto de Lei nº 3.880, de 2024, que apresentei nesta Casa em parceria com as Deputadas Maria do Rosário e Fernanda Melchionna. No último 25 de março, a matéria teve sua tramitação concluída no Congresso Nacional, quando o seu substitutivo foi aprovado pelo Senado Federal. O novo texto legal trata de matéria de elevada relevância social e jurídica, que vem preencher uma lacuna histórica em nosso ordenamento ao reconhecer, de forma expressa, a chamada violência vicária como uma das modalidades de violência doméstica e familiar contra a mulher. Desde a apresentação da proposição, tive como objetivo dar visibilidade e resposta normativa a uma prática cruel e, infelizmente, recorrente, na qual o agressor instrumentaliza terceiros, especialmente filhos e pessoas próximas, para atingir, de forma covarde, o equilíbrio emocional e psicológico da mulher. A violência vicária, como bem delineado no texto, consiste precisamente na prática de atos de violência contra filhos, dependentes, familiares ou integrantes da rede de apoio da mulher, com o propósito deliberado de causar-lhe sofrimento. Trata-se de uma forma particularmente perversa de agressão, pois ultrapassa a vítima direta e alcança o núcleo afetivo, multiplicando o dano e perpetuando traumas profundos. Ao longo da tramitação da matéria, esta Casa teve a oportunidade de debater amplamente o tema, reconhecendo que a legislação então vigente, embora robusta em muitos aspectos, ainda não contemplava de maneira específica essa modalidade de violência. A ausência de tipificação clara dificultava a identificação e a punição adequada desses comportamentos. Nesse contexto, o novo instrumento não apenas inclui a violência vicária no rol das formas de violência doméstica previstas na Lei Maria da Penha, como também promove alterações no Código Penal e na Lei dos Crimes Hediondos, conferindo maior rigor ao tratamento dessas condutas. Entre os avanços mais significativos, destaca-se a criação da figura do homicídio vicário, que passa a ser considerado crime hediondo, com penas mais severas, podendo variar de 20 a 40 anos de reclusão. Essa inovação legislativa foi objeto de importante aprimoramento no Senado Federal, por meio do substitutivo aprovado, que consolidou o entendimento de que o ordenamento jurídico deve responder de forma proporcional à gravidade dessa conduta. Ao tipificar a violência vicária, o Brasil se coloca na vanguarda legislativa internacional, reconhecendo que o agressor atinge a mulher onde ela é mais vulnerável: em seu amor materno e em seus laços de cuidado Senhoras e senhores, é fundamental ressaltar que a aprovação do nosso Projeto não foi fruto de uma construção isolada. Ao contrário, ela representa o resultado de um esforço coletivo, que envolveu o diálogo qualificado entre diferentes correntes de pensamento, a escuta atenta de especialistas, o engajamento de entidades da sociedade civil e, sobretudo, o compromisso desta Casa e do Senado Federal com a proteção da dignidade da mulher. Quero, portanto, registrar aqui meu sincero agradecimento a todos os Pares que contribuíram para o aperfeiçoamento e a aprovação desta matéria. Agradeço aos Deputados e Deputadas que apoiaram o Projeto desde sua apresentação, às Comissões que o analisaram com rigor técnico e sensibilidade social, bem como aos Senadores e Senadoras que, ao aprovarem o substitutivo, permitiram que avançássemos para a etapa final do processo legislativo, celebrada com a sanção feita no dia 9 de abril. Ressalto que essa norma legal tem, ainda, uma dimensão simbólica de grande relevância. Ao nomear e tipificar a violência vicária, o Estado brasileiro afirma, de maneira inequívoca, que não tolera a instrumentalização de vínculos familiares como forma de agressão. A proteção à mulher deve ser integral, abrangendo não apenas sua integridade física, mas também sua saúde emocional, sua rede de afetos e sua dignidade como sujeito de direitos. Assim, a sanção presidencial representa o início de uma nova etapa, na qual caberá a todos nós acompanhar a implementação da norma, fortalecer as políticas públicas correspondentes e garantir que seus efeitos alcancem, de fato, aquelas que mais precisam de proteção. Reafirmo, por fim, meu compromisso com a defesa dos direitos das mulheres e com o aprimoramento contínuo do nosso ordenamento jurídico. Que esta conquista sirva de inspiração para que continuemos avançando, com coragem e responsabilidade, na construção de um país mais justo, e seguro para todas as cidadãs. Muito obrigada"
-    },
-    {
-      "data": "2026-04-22T22:52",
-      "fase": "Encerramento",
-      "tipo": "OUTROS",
-      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA LAURA CARNEIRO (SEM REGISTRO TAQUIGRÁFICO). A Sra. LAURA CARNEIRO (PSD-RJ) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Depu",
-      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA LAURA CARNEIRO (SEM REGISTRO TAQUIGRÁFICO). A Sra. LAURA CARNEIRO (PSD-RJ) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Deputados, o Plenário do Senado Federal está a ponto de deliberar sobre uma proposição de minha autoria. A matéria já havia sido aprovada por esta Casa em junho do ano passado, em apreciação conclusiva da nossa Comissão de Constituição e Justiça e de Cidadania (CCJC). Em agosto, foi remetida ao Senado Federal; em dezembro, recebeu parecer favorável da CCJ de lá. Estou confiante de que logo será aprovada, sancionada e, assim, transformada em lei. Trata-se de um projeto de lei 196 de 2024, dedicado a um tema bem específico, mas capaz de trazer aprimoramentos muito concretos à nossa legislação. A ideia é aperfeiçoar as regras daquilo que nós chamamos de testamento emergencial, regulado pelo artigo 1.879 do Código Civil. Falar de testamento, de fazer planos para o evento da própria morte, é um assunto desconfortável para muita gente, mas não devia ser assim. É importante, e deveria ser mais comum. Não é à toa que os juristas falam em liberdade de testar: o testamento é, de fato, um ato de liberdade, de tomar controle sobre o destino do próprio patrimônio. Se dedicamos tanto tempo de nossas vidas à aquisição de certos bens, faz sentido que dediquemos também algum tempo a decidir para quem eles devem ir quando chegar o nosso inevitável fim. O direito civil exige certas formalidades para a elaboração de um testamento válido. São necessárias para garantir que a vontade do testador seja fielmente registrada e cumprida. Não obstante, o atual Código Civil prevê, em seu artigo 1.879, que um simples testamento particular de próprio punho, assinado pelo testador, sem testemunhas, pode vir a ser confirmado. Isso pode ocorrer quando tal elaboração mais simples tenha sido imposta por circunstâncias excepcionais, declaradas na própria cédula. Seria o caso, por exemplo, de uma vítima de sequestro e cárcere privado; de alguém ilhado por uma inundação ou outro desastre semelhante; ou, ainda, de alguém doente com uma infecção altamente contagiosa. Compreende-se com facilidade que, em todos esses exemplos, o medo de não escapar com vida da situação de perigo levaria a pessoa a querer firmar sua última vontade; ao mesmo tempo, ela estaria impedida de encontrar alguém que servisse de testemunha do ato. Daí a opção do Código Civil de reconhecer, excepcionalmente, a validade do testamento nessas condições. É uma regra sábia, mas que, por muito tempo, pareceu cuidar de hipóteses muito raras e distantes da realidade até que veio a pandemia de covid. Em 2020 e 2021, todos nós descobrimos que, afinal de contas, estar isolado por uma moléstia contagiosa e grave não é uma possibilidade assim tão remota. Querer estabelecer um testamento e não poder reunir-se com testemunhas é algo que pode mesmo acontecer. Diante disso, é imperativo considerar seriamente o artigo 1.879, e cuidar de aperfeiçoar sua redação, seguindo recomendações que a doutrina especializada já há tempos vinha formulando. Eis aí o objetivo do nosso projeto, que o Plenário do Senado está prestes a apreciar. Sua principal inovação é deixar claro que, se o testador sobrevive às circunstâncias excepcionais que autorizaram um testamento de emergência, então ele precisará confirmar sua vontade por alguma das formas testamentárias ordinárias. Do contrário, o documento que elaborou perderá eficácia em noventa dias. Isso garante, em suma, que a exceção seja mesmo uma exceção. Um testamento de emergência pode valer, mas apenas no contexto imediato em que foi formulado; não pode se tornar uma via larga para escapar às formalidades normalmente exigidas num ato tão decisivo. Aprendendo com cada experiência, vamos aprimorando a legislação e, paulatinamente, construindo um ordenamento jurídico cada vez mais sábio. Muito obrigada."
     }
   ],
   "orgaos": [
