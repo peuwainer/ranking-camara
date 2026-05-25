@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141555.jpg",
-  "score": 32.36,
-  "rank": 74,
+  "score": 32.61,
+  "rank": 70,
   "proposicoes": [
     {
       "id": 2618863,
@@ -108,6 +108,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-20T22:36",
+      "fase": "Encerramento",
+      "tipo": "OUTROS",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO VINICIUS CARVALHO (SEM REGISTRO TAQUIGRÁFICO). Discurso pronunciado pelo deputado VINICIUS CARVALHO (PL/SP), no Pequeno Expediente sobre: DISCURSO DE ",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO VINICIUS CARVALHO (SEM REGISTRO TAQUIGRÁFICO). Discurso pronunciado pelo deputado VINICIUS CARVALHO (PL/SP), no Pequeno Expediente sobre: DISCURSO DE INFLAÇÃO SOB CONTROLE NÃO CONVENCE ELEITORES. Sr. Presidente, Srs. Deputados, demais presentes, caros telespectadores da TV Câmara e ouvintes da Rádio Câmara: A renda no Brasil não acompanha o custo de vida, fato que deixa os brasileiros cada vez mais desanimados. A percepção da população é de que a inflação sob controle é mera retórica e que o poder aquisitivo no governo Lula está severamente enfraquecido. As pessoas comparam quanto gastavam antes para comprar uma quantidade de produtos e de quanto precisam hoje para adquirir os mesmos itens. A constatação é de impotência diante dos preços e do que tem disponível no bolso. O endividamento das famílias reforça a sensação de perda de poder de compra ao comprometer uma parcela cada vez maior da renda e forçar cortes justamente no imprescindível, que é a alimentação. Nesse contexto, estão as diferenças entre indicadores de inflação. O Índice Nacional de Preços ao Consumidor Amplo (IPCA), referência para as decisões do Banco Central, abrange famílias com renda de 1 a 40 salários mínimos e, por ser o índice oficial, ganha destaque. Já o Índice Nacional de Preços ao Consumidor cobre renda de 1 a 5 salários mínimos e tende a ser mais sensível a itens básicos, como alimentação e transporte. Por isso, costuma refletir melhor a inflação percebida pelas camadas de menor renda. O INPC, entretanto, recebe menos destaque do que o IPCA, o que amplia a distância entre o debate público e a experiência diária da população. Embora o governo apresente números macroeconômicos positivos, o olhar das famílias é outro. Os ganhos têm sido insuficientes para recompor o poder de compra e a realidade é o aperto no orçamento. Na capital paulista, para comprar a cesta, o consumidor desembolsou em abril o equivalente a 60,43% do salário mínimo de R$ 1.621,00. Impossível com o que sobra cobrir as demais despesas com moradia, saúde, educação, vestuário, higiene, transporte, lazer e previdência. A Constituição determina que todo trabalhador e sua família possam viver com dignidade. Obrigado!"
+    },
     {
       "data": "2026-05-19T21:24",
       "fase": "Encerramento",
