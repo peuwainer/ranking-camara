@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220616.jpg",
-  "score": 25.07,
-  "rank": 235,
+  "score": 25.12,
+  "rank": 252,
   "proposicoes": [
     {
       "id": 2619182,
@@ -96,6 +96,15 @@
       "ementa": "Confere ao Município de Mangaratiba, no Estado do Rio de Janeiro, o título de Capital Nacional do Boto-Cinza.",
       "data": "2026-05-22T17:50",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627333"
+    },
+    {
+      "id": 2627419,
+      "tipo": "PL",
+      "numero": 2574,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.472, de 16 de julho de 1997, para dispor sobre a gratuidade de ligações para a Central de Atendimento do Instituto Nacional do Seguro Social (INSS) e outras que especifica.",
+      "data": "2026-05-25T12:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627419"
     }
   ],
   "discursos": [

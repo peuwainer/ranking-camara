@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160575.jpg",
-  "score": 42.98,
-  "rank": 11,
+  "score": 45.15,
+  "rank": 9,
   "proposicoes": [
     {
       "id": 2623161,
@@ -24,6 +24,33 @@
       "ementa": "",
       "data": "2026-05-13T15:50",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624575"
+    },
+    {
+      "id": 2627398,
+      "tipo": "PL",
+      "numero": 2571,
+      "ano": 2026,
+      "ementa": "Regulamenta a profissão de Faturista Médico-Hospitalar e dispõe sobre o exercício de suas atividades.",
+      "data": "2026-05-25T11:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627398"
+    },
+    {
+      "id": 2627425,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 12.933, de 26 de dezembro de 2013, para estabelecer o direito ao benefício da meia-entrada para mães, pais e responsáveis legais por pessoas com deficiência.",
+      "data": "2026-05-25T12:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627425"
+    },
+    {
+      "id": 2627466,
+      "tipo": "PL",
+      "numero": 2578,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de transparência e visualização do fluxo de combustíveis em bombas medidoras destinadas ao abastecimento veicular, e dá outras providências.",
+      "data": "2026-05-25T14:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627466"
     }
   ],
   "discursos": [
@@ -44,16 +71,16 @@
     {
       "data": "2026-05-21T16:16",
       "fase": "Ordem do Dia",
-      "tipo": "ENCAMINHAMENTO DE VOTAÇÃO",
-      "resumo": "A SRA. ERIKA KOKAY (Bloco/PT - DF. Sem revisão da oradora.) - Presidente, aqui reconheço que nós conseguimos construir muitas melhorias no texto, reconheço isso. O Deputado Sóstenes sabe, sabe inclusi",
-      "transcricao": "A SRA. ERIKA KOKAY (Bloco/PT - DF. Sem revisão da oradora.) - Presidente, aqui reconheço que nós conseguimos construir muitas melhorias no texto, reconheço isso. O Deputado Sóstenes sabe, sabe inclusive que tínhamos outra posição em função de uma série de inconsistências que achávamos que havia no parecer, mas que foram devidamente corrigidas. Mas ficou um item que nós queremos seja retirado, Deputado Sóstenes sabe disso. Por isso, estamos fazendo o destaque. Uma prerrogativa do Parlamento é sustar atos do Executivo quando esses atos estão além do que prevê a própria Constituição. Refiro-me a projetos de decreto legislativo que nós pontuamos quando há exorbitância do Poder Executivo e se fere a Constituição. Qualquer ato que fere a Constituição fere o arcabouço que deve ser aquele respeitado por cada um e cada uma de nós, mas muitas vezes ele não é respeitado. basta lembrar o que aconteceu aqui no dia 8 de janeiro, quando não se respeitou o arcabouço legal e se tentou em verdade trucidar, ferir a democracia, desrespeitar e anular a vontade popular. Esse artigo, em particular, em que não foi possível construir um consenso, estabelece o poder do Legislativo de sustar atos que não estão previstos como atos a serem questionados pelo Poder Legislativo, porque não são atos necessariamente que ferem a Constituição ou provocam abuso no arcabouço legal. Nós estamos falando aqui de uma proposição, que está no parecer, que diz que o Legislativo pode simplesmente questionar e anular atos do Poder Executivo no que diz respeito à matéria que aqui está posta. Nós não podemos permitir isso, porque isso fere uma cláusula pétrea. É preciso que nós tenhamos absoluta nitidez de que há a independência dos poderes. Isso é cláusula pétrea, que só poderá ser modificada por uma nova constituição, como qualquer cláusula pétrea. E aqui está se dizendo que não, que este Poder Legislativo pode interferir, pode anular, pode questionar além do que está previsto nas nossas prerrogativas, que são atos exorbitantes que o Poder Legislativo pode fazer através de projeto de decreto legislativo, que ele pode interferir nos atos do Poder Executivo além do que já é previsto na Constituição. Por isso, o nosso destaque é para suprimir este artigo."
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. ERIKA KOKAY (Bloco/PT - DF. Pela ordem. Sem revisão da oradora.) - Eu tinha absoluta certeza, Deputado Sóstenes, de que o senhor iria explicar, mas me cabe não ficar sem nenhuma dúvida acerca d",
+      "transcricao": "A SRA. ERIKA KOKAY (Bloco/PT - DF. Pela ordem. Sem revisão da oradora.) - Eu tinha absoluta certeza, Deputado Sóstenes, de que o senhor iria explicar, mas me cabe não ficar sem nenhuma dúvida acerca da matéria. Quero apenas dizer que nunca serei chamada de fascista e golpista, porque não sou fascista nem golpista."
     },
     {
       "data": "2026-05-21T16:16",
       "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "A SRA. ERIKA KOKAY (Bloco/PT - DF. Pela ordem. Sem revisão da oradora.) - Eu tinha absoluta certeza, Deputado Sóstenes, de que o senhor iria explicar, mas me cabe não ficar sem nenhuma dúvida acerca d",
-      "transcricao": "A SRA. ERIKA KOKAY (Bloco/PT - DF. Pela ordem. Sem revisão da oradora.) - Eu tinha absoluta certeza, Deputado Sóstenes, de que o senhor iria explicar, mas me cabe não ficar sem nenhuma dúvida acerca da matéria. Quero apenas dizer que nunca serei chamada de fascista e golpista, porque não sou fascista nem golpista."
+      "tipo": "ENCAMINHAMENTO DE VOTAÇÃO",
+      "resumo": "A SRA. ERIKA KOKAY (Bloco/PT - DF. Sem revisão da oradora.) - Presidente, aqui reconheço que nós conseguimos construir muitas melhorias no texto, reconheço isso. O Deputado Sóstenes sabe, sabe inclusi",
+      "transcricao": "A SRA. ERIKA KOKAY (Bloco/PT - DF. Sem revisão da oradora.) - Presidente, aqui reconheço que nós conseguimos construir muitas melhorias no texto, reconheço isso. O Deputado Sóstenes sabe, sabe inclusive que tínhamos outra posição em função de uma série de inconsistências que achávamos que havia no parecer, mas que foram devidamente corrigidas. Mas ficou um item que nós queremos seja retirado, Deputado Sóstenes sabe disso. Por isso, estamos fazendo o destaque. Uma prerrogativa do Parlamento é sustar atos do Executivo quando esses atos estão além do que prevê a própria Constituição. Refiro-me a projetos de decreto legislativo que nós pontuamos quando há exorbitância do Poder Executivo e se fere a Constituição. Qualquer ato que fere a Constituição fere o arcabouço que deve ser aquele respeitado por cada um e cada uma de nós, mas muitas vezes ele não é respeitado. basta lembrar o que aconteceu aqui no dia 8 de janeiro, quando não se respeitou o arcabouço legal e se tentou em verdade trucidar, ferir a democracia, desrespeitar e anular a vontade popular. Esse artigo, em particular, em que não foi possível construir um consenso, estabelece o poder do Legislativo de sustar atos que não estão previstos como atos a serem questionados pelo Poder Legislativo, porque não são atos necessariamente que ferem a Constituição ou provocam abuso no arcabouço legal. Nós estamos falando aqui de uma proposição, que está no parecer, que diz que o Legislativo pode simplesmente questionar e anular atos do Poder Executivo no que diz respeito à matéria que aqui está posta. Nós não podemos permitir isso, porque isso fere uma cláusula pétrea. É preciso que nós tenhamos absoluta nitidez de que há a independência dos poderes. Isso é cláusula pétrea, que só poderá ser modificada por uma nova constituição, como qualquer cláusula pétrea. E aqui está se dizendo que não, que este Poder Legislativo pode interferir, pode anular, pode questionar além do que está previsto nas nossas prerrogativas, que são atos exorbitantes que o Poder Legislativo pode fazer através de projeto de decreto legislativo, que ele pode interferir nos atos do Poder Executivo além do que já é previsto na Constituição. Por isso, o nosso destaque é para suprimir este artigo."
     },
     {
       "data": "2026-05-21T16:12",

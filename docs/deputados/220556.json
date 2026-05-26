@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220556.jpg",
-  "score": 33.68,
-  "rank": 54,
+  "score": 34.81,
+  "rank": 45,
   "proposicoes": [
     {
       "id": 2619347,
@@ -141,6 +141,15 @@
       "ementa": "Restringe a venda e utilização do polimetilmetacrilato (PMMA) para a realização de procedimentos estéticos.",
       "data": "2026-05-20T18:14",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626863"
+    },
+    {
+      "id": 2627579,
+      "tipo": "PL",
+      "numero": 2585,
+      "ano": 2026,
+      "ementa": "Dispõe sobre as garantias relativas à prisão de membros da Defensoria Pública.",
+      "data": "2026-05-25T19:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627579"
     }
   ],
   "discursos": [

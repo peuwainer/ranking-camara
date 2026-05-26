@@ -4,8 +4,8 @@
   "partido": "AVANTE",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204553.jpg",
-  "score": 27.05,
-  "rank": 182,
+  "score": 28.07,
+  "rank": 160,
   "proposicoes": [
     {
       "id": 2623400,
@@ -33,6 +33,15 @@
       "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para instituir indenização aos cidadãos convocados pela Justiça Eleitoral para compor Mesas Receptoras de Votos e Juntas Eleitorais durante os processos eleitorais, plebiscitos e referendos.",
       "data": "2026-05-15T11:46",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624971"
+    },
+    {
+      "id": 2627397,
+      "tipo": "PL",
+      "numero": 2570,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503/1997 para dispor sobre a não aplicação da medida administrativa de remoção do veículo em determinadas hipóteses de estacionamento irregular, quando cessada imediatamente a infração antes do início do procedimento de guinchamento.",
+      "data": "2026-05-25T10:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627397"
     }
   ],
   "discursos": [],

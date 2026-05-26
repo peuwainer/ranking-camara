@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220622.jpg",
-  "score": 30.17,
-  "rank": 102,
+  "score": 29.82,
+  "rank": 114,
   "proposicoes": [
     {
       "id": 2622117,
@@ -33,6 +33,15 @@
       "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), para incluir o fornecimento de insumos de higiene menstrual e dá outras providências.",
       "data": "2026-05-11T14:18",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623416"
+    },
+    {
+      "id": 2627533,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.615, de 24 de março de 1998 (Lei Pelé), para instituir capítulo permanente de garantias ao futebol feminino em grandes eventos.",
+      "data": "2026-05-25T15:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627533"
     }
   ],
   "discursos": [],
