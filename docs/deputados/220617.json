@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220617.jpg",
-  "score": 20.86,
-  "rank": 381,
+  "score": 21.54,
+  "rank": 369,
   "proposicoes": [
     {
       "id": 2624861,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-26T14:56",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. MURILLO GOUVEA (Bloco/PSDB - RJ. Sem revisão do orador.) - Boa tarde, Sr. Presidente, Sras. e Srs. Deputados, amigos aqui, hoje quero falar de um assunto que afeta a vida de muitos trabalhadores",
+      "transcricao": "O SR. MURILLO GOUVEA (Bloco/PSDB - RJ. Sem revisão do orador.) - Boa tarde, Sr. Presidente, Sras. e Srs. Deputados, amigos aqui, hoje quero falar de um assunto que afeta a vida de muitos trabalhadores e suas famílias, a jornada de trabalho. Estou aqui para dizer que sou a favor de acabar com a escala 6 por 1. Acredito que essa jornada exige muito dos trabalhadores e não é mais adequada para o que precisamos hoje. É importante encontrar equilíbrio entre os trabalhadores e a vida pessoal, pois isso faz bem a todos. Acabar com a escala 6 por 1 melhorará a qualidade de vida dos trabalhadores e criará um ambiente de trabalho mais produtivo. Estou aqui comprometido em lutar por leis que valorizem a dignidade e a saúde dos trabalhadores. Sr. Presidente, colega Otoni de Paula, que está aqui na minha frente: a pessoa que trabalha de segunda a sexta, naquele trabalho duro, sob o sol quente, com chuva, chega à sexta-feira sem conseguir mais ter diálogo com sua família, sem paz em casa, pois está estressada. Então, estamos juntos nesse trabalho para acabar com a escala 6 por 1. Vamos lutar juntos pelos trabalhadores do nosso Estado e do nosso País. Um abraço a todos."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",

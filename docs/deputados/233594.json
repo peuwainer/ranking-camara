@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/233594.jpg",
-  "score": 22.85,
-  "rank": 329,
+  "score": 23.8,
+  "rank": 302,
   "proposicoes": [
     {
       "id": 2623837,
@@ -24,6 +24,15 @@
       "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
       "data": "2026-05-14T13:51",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
+    },
+    {
+      "id": 2627891,
+      "tipo": "PL",
+      "numero": 2616,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.429, de 2 de junho de 1992, configurando como ato de improbidade administrativa a não aplicação dos recursos públicos disponíveis por omissão ou negligência.",
+      "data": "2026-05-26T17:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627891"
     }
   ],
   "discursos": [

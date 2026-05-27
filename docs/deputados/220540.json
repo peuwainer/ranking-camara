@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 26.3,
-  "rank": 210,
+  "score": 26.12,
+  "rank": 225,
   "proposicoes": [
     {
       "id": 2619057,
@@ -186,6 +186,15 @@
       "ementa": "Institui medidas especiais de transparência, monitoramento e proteção do consumidor durante grandes eventos esportivos internacionais, especialmente a Copa do Mundo FIFA de 2026, e dá outras providências.",
       "data": "2026-05-20T13:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626291"
+    },
+    {
+      "id": 2627875,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais - LGPD), para dispor sobre a Auditoria Algorítmica Preventiva em sistemas de Inteligência Artificial que afetam decisões de alto impacto social.",
+      "data": "2026-05-26T16:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627875"
     }
   ],
   "discursos": [],

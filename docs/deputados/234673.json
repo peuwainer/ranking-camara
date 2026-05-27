@@ -4,8 +4,8 @@
   "partido": "SOLIDARIEDADE",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/234673.jpg",
-  "score": 22.82,
-  "rank": 333,
+  "score": 28.68,
+  "rank": 151,
   "proposicoes": [
     {
       "id": 2618581,
@@ -33,6 +33,87 @@
       "ementa": "Altera a Lei nº 9.503, de 1997 (Código de Trânsito Brasileiro), para disciplinar o direito de parada e o uso de faixas exclusivas por veículos de transporte público individual e de transporte remunerado privado individual de passageiros, e dá outras providências.",
       "data": "2026-04-27T12:27",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618583"
+    },
+    {
+      "id": 2627928,
+      "tipo": "PL",
+      "numero": 2618,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 — Código de Trânsito Brasileiro, para autorizar a substituição dos sistemas de iluminação veicular por tecnologia LED, observados critérios técnicos de segurança, certificação e regulagem, e dá outras providências.",
+      "data": "2026-05-26T18:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627928"
+    },
+    {
+      "id": 2627929,
+      "tipo": "PL",
+      "numero": 2619,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 227, de 28 de fevereiro de 1967 (Código de Mineração), para assegurar os direitos do proprietário ou possuidor do solo, limitar os efeitos do requerimento de autorização de pesquisa mineral e vedar a imposição de restrições indevidas ao uso regular da propriedade antes da efetiva implantação da atividade minerária autorizada.",
+      "data": "2026-05-26T18:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627929"
+    },
+    {
+      "id": 2627931,
+      "tipo": "PL",
+      "numero": 2620,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Aproveitamento Técnico-Operacional de Militares Egressos das Forças Armadas nas Instituições de Segurança Pública dos Estados, do Distrito Federal e dos Territórios, estabelece normas gerais para ingresso mediante processo seletivo simplificado e curso de formação específico, e dá outras providências.",
+      "data": "2026-05-26T18:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627931"
+    },
+    {
+      "id": 2627933,
+      "tipo": "PL",
+      "numero": 2621,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional “Mais Autoestima”, destinado à promoção da autoestima, do bem-estar, da dignidade humana e da inclusão social de mulheres em situação de vulnerabilidade socioeconômica, por meio do acesso gratuito e contínuo a ações de autocuidado, estética social e valorização pessoal, e dá outras providências.",
+      "data": "2026-05-26T18:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627933"
+    },
+    {
+      "id": 2627936,
+      "tipo": "PL",
+      "numero": 2622,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Apoio e Proteção às Famílias Atípicas, cria o Auxílio Nacional de Apoio à Pessoa com Transtorno do Espectro Autista e outras deficiências que demandem cuidados permanentes, e dá outras providências.",
+      "data": "2026-05-26T18:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627936"
+    },
+    {
+      "id": 2627937,
+      "tipo": "PL",
+      "numero": 2623,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional CNH Social, destinado à gratuidade da formação, qualificação e habilitação de condutores de baixa renda em todo o território nacional, e dá outras providências;",
+      "data": "2026-05-26T18:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627937"
+    },
+    {
+      "id": 2627938,
+      "tipo": "PL",
+      "numero": 2624,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Passe Livre Temporário para Trabalhadores Desempregados, destinado à garantia de gratuidade no transporte público coletivo urbano e semiurbano às pessoas em situação de desemprego involuntário, e dá outras providências",
+      "data": "2026-05-26T18:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627938"
+    },
+    {
+      "id": 2627939,
+      "tipo": "PL",
+      "numero": 2625,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Universalização da Internet de Alta Velocidade nas Escolas Públicas da Educação Básica, e dá outras providências.",
+      "data": "2026-05-26T18:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627939"
+    },
+    {
+      "id": 2627940,
+      "tipo": "PL",
+      "numero": 2626,
+      "ano": 2026,
+      "ementa": "Estabelece mecanismos de transparência, controle, limitação e proteção do consumidor contra reajustes abusivos nas tarifas de energia elétrica, altera a Lei nº 8.987, de 13 de fevereiro de 1995, a Lei nº 9.427, de 26 de dezembro de 1996, e dá outras providências.",
+      "data": "2026-05-26T18:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627940"
     }
   ],
   "discursos": [],

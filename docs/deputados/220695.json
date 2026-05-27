@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-  "score": 30.72,
-  "rank": 100,
+  "score": 33.32,
+  "rank": 64,
   "proposicoes": [
     {
       "id": 2618548,
@@ -150,6 +150,42 @@
       "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL 145/2026, e da Emenda Substitutiva nº 1, na forma do Substitutivo anexo.",
       "data": "2026-05-25T11:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627522"
+    },
+    {
+      "id": 2627627,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação deste, com Substitutivo.",
+      "data": "2026-05-26T10:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627627"
+    },
+    {
+      "id": 2627660,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação deste, com Substitutivo.",
+      "data": "2026-05-26T11:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627660"
+    },
+    {
+      "id": 2627765,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação deste, com Substitutivo.",
+      "data": "2026-05-26T13:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627765"
+    },
+    {
+      "id": 2627985,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL nº 6.638/2016, e do PL nº 1.413/2024, apensado, na forma do Substitutivo anexo.",
+      "data": "2026-05-26T19:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627985"
     }
   ],
   "discursos": [

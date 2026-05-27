@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 34.81,
-  "rank": 46,
+  "score": 37.9,
+  "rank": 26,
   "proposicoes": [
     {
       "id": 2618607,
@@ -123,6 +123,51 @@
       "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
       "data": "2026-05-20T09:54",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626217"
+    },
+    {
+      "id": 2627587,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.883 e a Lei nº 10.826 para reconhecer como atividade de risco as atribuições desempenhadas pelos integrantes da Carreira de Auditor Fiscal Federal Agropecuário e autorizar o porte de arma de fogo, e dá outras providências.",
+      "data": "2026-05-25T15:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627587"
+    },
+    {
+      "id": 2627605,
+      "tipo": "PL",
+      "numero": 2589,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), e a Lei nº 9.818, de 23 de agosto de 1999, para estabelecer critérios rigorosos de gestão de risco soberano, transparência e restrições a operações de crédito à exportação com garantia da União e cobertura do Fundo de Garantia à Exportação (FGE).",
+      "data": "2026-05-26T10:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627605"
+    },
+    {
+      "id": 2627646,
+      "tipo": "PL",
+      "numero": 2598,
+      "ano": 2026,
+      "ementa": "Institui a Lei de Proteção Integral de Mulheres e Crianças no Ambiente Digital, altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para estabelecer medidas de prevenção e repressão à violência digital, assegurar garantias de liberdade de expressão, devido processo legal e segurança jurídica no ambiente digital, fortalecer a proteção de mulheres, crianças e adolescentes contra violência digital, exploração sexual, divulgação não consentida de conteúdo íntimo e uso abusivo de inteligência artificial, e dá outras providências.",
+      "data": "2026-05-26T12:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627646"
+    },
+    {
+      "id": 2627865,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Amplia o direito ao porte de arma de fogo para Guardas Civis Municipais e vigilantes, reduz exigências burocráticas, reconhece o risco permanente da atividade e fortalece a segurança pública por meio do armamento responsável.",
+      "data": "2026-05-26T17:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627865"
+    },
+    {
+      "id": 2627951,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Amplia o direito ao porte de arma de fogo para Guardas Civis Municipais e vigilantes, reduz exigências burocráticas, reconhece o risco permanente da atividade e fortalece a segurança pública por meio do armamento responsável.",
+      "data": "2026-05-26T17:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627951"
     }
   ],
   "discursos": [

@@ -4,7 +4,7 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
-  "score": 57.89,
+  "score": 57.78,
   "rank": 3,
   "proposicoes": [
     {
@@ -285,9 +285,32 @@
       "ementa": "",
       "data": "2026-05-25T16:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627544"
+    },
+    {
+      "id": 2627860,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, para assegurar a assistência de equipes especializadas multidisciplinares que necessariamente contem com fisioterapeutas nos serviços de saúde onde o parto for realizado.",
+      "data": "2026-05-26T17:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627860"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-26T16:48",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. LAURA CARNEIRO (Bloco/PSD - RJ. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, no dia 14, Deputado Luiz Lima, faleceu no Rio de Janeiro o Rubem Medina, um Deputado de nove mandatos nest",
+      "transcricao": "A SRA. LAURA CARNEIRO (Bloco/PSD - RJ. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, no dia 14, Deputado Luiz Lima, faleceu no Rio de Janeiro o Rubem Medina, um Deputado de nove mandatos nesta Casa. Eu queria, neste momento, Presidente, pedir a V.Exa. que faça 1 minuto de silêncio por conta de toda a história desse homem. As pessoas o conhecem, neste momento, por conta do Rock in Rio. Mas, antes do Rock in Rio, ele foi um político da maior importância no nosso Estado, que transformou mentes, que foi eleito nove vezes seguidas, o que demonstra a eficácia do seu trabalho. Sr. Presidente, eu peço a V.Exa. 1 minuto de silêncio, em homenagem ao nome de Rubem Medina. Obrigada a V.Exa."
+    },
+    {
+      "data": "2026-05-26T16:36",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. LAURA CARNEIRO (Bloco/PSD - RJ. Pela ordem. Sem revisão da oradora.) - Posso orientar pelo Bloco, Sr. Presidente? O voto é \"sim\" ao requerimento. O projeto trata apenas de auxiliar nós, mulhere",
+      "transcricao": "A SRA. LAURA CARNEIRO (Bloco/PSD - RJ. Pela ordem. Sem revisão da oradora.) - Posso orientar pelo Bloco, Sr. Presidente? O voto é \"sim\" ao requerimento. O projeto trata apenas de auxiliar nós, mulheres, políticas na nossa luta diária, para que não soframos violência política como sofremos. Talvez os homens não consigam perceber a importância disso para as políticas brasileiras. Portanto, o Bloco vota \"sim\", Sr. Presidente."
+    },
     {
       "data": "2026-05-20T22:36",
       "fase": "Encerramento",

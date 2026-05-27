@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "AC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/104552.jpg",
-  "score": 35.97,
-  "rank": 39,
+  "score": 36.6,
+  "rank": 35,
   "proposicoes": [
     {
       "id": 2618599,
@@ -159,6 +159,15 @@
       "ementa": "Altera a Lei Complementar n° 141, de 13 de janeiro de 2012, para inserir o custo amazônico e dá outras providências.",
       "data": "2026-05-22T11:21",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627296"
+    },
+    {
+      "id": 2627900,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.947, de 16 de junho de 2009 (alimentação escolar).",
+      "data": "2026-05-26T17:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627900"
     }
   ],
   "discursos": [

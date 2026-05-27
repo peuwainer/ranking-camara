@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204520.jpg",
-  "score": 28.44,
-  "rank": 150,
+  "score": 29.85,
+  "rank": 117,
   "proposicoes": [
     {
       "id": 2619329,
@@ -60,6 +60,24 @@
       "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
       "data": "2026-05-14T14:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
+    },
+    {
+      "id": 2627665,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Emenda Modificativa ao Projeto de Lei nº 1.616, de 2026.",
+      "data": "2026-05-26T12:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627665"
+    },
+    {
+      "id": 2627925,
+      "tipo": "EMP",
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Emenda ao Projeto de Lei Complementar nº 114, de 2026.",
+      "data": "2026-05-26T18:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627925"
     }
   ],
   "discursos": [

@@ -4,10 +4,18 @@
   "partido": "PSD",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160552.jpg",
-  "score": 16.14,
-  "rank": 457,
+  "score": 17.05,
+  "rank": 453,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-26T14:24",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DANRLEI DE DEUS HINTERHOLZ (Bloco/PSD - RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu gostaria de fazer um convite e todos os nossos Deputados. Na semana que vem, na Comissão do E",
+      "transcricao": "O SR. DANRLEI DE DEUS HINTERHOLZ (Bloco/PSD - RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu gostaria de fazer um convite e todos os nossos Deputados. Na semana que vem, na Comissão do Esporte, nós teremos uma audiência pública para tratar de um assunto muito importante que, tenho certeza, também estará na pauta logo, logo, aqui neste plenário. Trata-se de uma audiência pública sobre a prática esportiva no desenvolvimento de pessoas com Síndrome de Down e Transtorno do Espectro Autista. Este é um assunto importantíssimo e que está cada vez mais recorrente nas nossas vidas, no nosso mundo. A gente precisa que isso seja conversado, tratado, principalmente porque hoje nós já sabemos que o esporte faz a diferença na vida das crianças com TEA. Esta audiência pública é importantíssima e acontecerá na semana que vem, dia 10 de julho, a partir das 14 horas. Todos os Deputados estão convidados e aqueles que queiram participar, que gostem desse assunto. Sr. Presidente, peço que este pronunciamento seja divulgado no programa A Voz do Brasil e nos meios de comunicação da Casa. Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Representação Brasileira no Parlamento do Mercosul",

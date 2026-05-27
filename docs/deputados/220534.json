@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220534.jpg",
-  "score": 23.57,
-  "rank": 305,
+  "score": 24.51,
+  "rank": 281,
   "proposicoes": [
     {
       "id": 2619187,
@@ -42,6 +42,15 @@
       "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
       "data": "2026-05-12T11:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2627623,
+      "tipo": "PL",
+      "numero": 2594,
+      "ano": 2026,
+      "ementa": "Dispõe prevenção, sobre atendimento, medidas de rastreabilidade, contestação, reversão cautelar e reparação de danos decorrentes de fraudes digitais contra consumidores; institui o Protocolo de Reversão Integrada de Fraudes Digitais; e altera a Lei nº 8.078, de 11 de setembro de 1990, a Lei nº 12.965, de 23 de abril de 2014, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940.",
+      "data": "2026-05-26T11:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627623"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220704.jpg",
-  "score": 11.59,
-  "rank": 495,
+  "score": 11.55,
+  "rank": 494,
   "proposicoes": [
     {
       "id": 2619274,
@@ -35,7 +35,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626412"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-26T17:52",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. CAROL DARTORA (Bloco/PT - PR. Pela ordem. Sem revisão da oradora.) - Muito obrigada. Eu quero aproveitar este 1 minuto para registrar a importância histórica do 1º Encontro Estadual dos Núcleos",
+      "transcricao": "A SRA. CAROL DARTORA (Bloco/PT - PR. Pela ordem. Sem revisão da oradora.) - Muito obrigada. Eu quero aproveitar este 1 minuto para registrar a importância histórica do 1º Encontro Estadual dos Núcleos de Estudos Afro-Brasileiros e Indígenas que vai acontecer no Paraná, no Instituto Federal do Paraná, na cidade de Curitiba, um encontro que me emociona profundamente, porque eu fui parte ativa da sua construção, destinando mais de 1 milhão e meio de reais para fortalecer esses núcleos e garantir bolsas estudantis, compreendendo que a luta antirracista passa pela educação e é uma ferramenta central de transformação social. Infelizmente, talvez eu não consiga estar na abertura, porque a gente está aqui nas discussões pelo fim da escala 6 por 1, mas eu faço questão de deixar meu abraço a todas as pesquisadoras e pesquisadores, estudantes, lideranças indígenas e do movimento negro que constroem esse espaço. Fortalecer os Núcleos de Estudos Afro-Brasileiros e Indígenas é fortalecer a ciência, a memória, a democracia e o futuro do nosso País."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

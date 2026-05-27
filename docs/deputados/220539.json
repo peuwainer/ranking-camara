@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220539.jpg",
-  "score": 27.16,
-  "rank": 186,
-  "proposicoes": [],
+  "score": 28.03,
+  "rank": 170,
+  "proposicoes": [
+    {
+      "id": 2627639,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a inclusão da Romaria de Nossa Senhora Consoladora de Ibiaçá, no Estado do Rio Grande do Sul, no Calendário Oficial Nacional de Eventos Culturais e Religiosos do Brasil.",
+      "data": "2026-05-26T11:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627639"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-05-20T15:52",

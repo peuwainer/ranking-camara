@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204572.jpg",
-  "score": 36.13,
-  "rank": 37,
+  "score": 35.22,
+  "rank": 45,
   "proposicoes": [
     {
       "id": 2622164,
@@ -172,12 +172,6 @@
       "sigla": "SUB8J",
       "cargo": "Titular",
       "desde": "2026-03-11T00:00"
-    },
-    {
-      "nome": "Comissão de Trabalho",
-      "sigla": "CTRAB",
-      "cargo": "Suplente",
-      "desde": "2026-04-23T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204572/votacoes-nominais-plenario/2026"

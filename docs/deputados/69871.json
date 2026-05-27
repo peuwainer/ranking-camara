@@ -4,8 +4,8 @@
   "partido": "PV",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/69871.jpg",
-  "score": 31.91,
-  "rank": 80,
+  "score": 32.21,
+  "rank": 82,
   "proposicoes": [
     {
       "id": 2618843,
@@ -98,7 +98,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626231"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-26T15:28",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. BACELAR (Bloco/PV - BA. Sem revisão do orador.) - Sr. Presidente Charles Fernandes, Sras. e Srs. Parlamentares, o turismo brasileiro vive um momento histórico. Impulsionado pelas políticas do Pr",
+      "transcricao": "O SR. BACELAR (Bloco/PV - BA. Sem revisão do orador.) - Sr. Presidente Charles Fernandes, Sras. e Srs. Parlamentares, o turismo brasileiro vive um momento histórico. Impulsionado pelas políticas do Presidente Lula, esse importante setor da economia brasileira, que contribui com cerca de 10% do PIB, tem batido recordes atrás de recordes. No ano de 2025, recebemos 9 milhões e 300 mil turistas estrangeiros, o maior crescimento mundial, segundo a ONU, graças, volto a dizer, à decisão do Presidente Lula de privilegiar essa atividade econômica e aos trabalhos desenvolvidos pelo Ministério do Turismo e pela Embratur. O turismo brasileiro foi um dos setores mais prejudicados pelo desgoverno Bolsonaro. Durante 4 anos  os 4 anos do Presidente Bolsonaro , o Brasil não investiu nem 1 centavo sequer na divulgação do destino Brasil. Enquanto isso, o México investia 300 milhões de dólares anualmente e Portugal 500 milhões de euros, divulgando os destinos México e Portugal, e o Brasil, zero. Por isso, tínhamos uma atração tão baixa de turistas estrangeiros. Tivemos um crescimento de mais de 37%. Volto a afirmar que, segundo a ONU Turismo, esse foi o maior crescimento do mundial num momento de crescimento do turismo mundial. Dentro do Brasil, regionalmente, queremos também destacar a posição da Bahia no crescimento do turismo. A Bahia, por orientação do Governador Jerônimo Rodrigues, tem divulgado o destino, tem atraído voos internacionais. Aliada às suas belezas naturais, à sua cultura, à força do seu povo e à força do trade turístico, a Bahia lidera hoje, no Nordeste, a atração e captação de turistas estrangeiros. A Bahia tem atraído voos que conectam Salvador aos maiores rubies do turismo internacional. Fica aqui o registro, Sr. Presidente, de mais um setor da administração pública brasileira recuperado pelo Presidente Lula  tarefa dificílima. A coisa mais fácil foi o Sr. Bolsonaro destruir a administração pública brasileira, a incapacidade administrativa do Sr. Bolsonaro de atrasar o desenvolvimento do turismo nacional. Que sigamos em frente, sob a orientação do Presidente Lula, com o Ministério do Turismo prestigiado, com a Embratur fortalecida, para que esse segmento, que produz e gera tanto emprego e renda, continue a crescer no Brasil. Obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, avaliação e acompanhamento das iniciativas e medidas adotadas para transição energética - Fontes Renováveis e Produção de Hidrogênio Verde no Brasil",

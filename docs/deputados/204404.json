@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204404.jpg",
-  "score": 32.79,
-  "rank": 71,
+  "score": 33.05,
+  "rank": 68,
   "proposicoes": [
     {
       "id": 2618861,
@@ -53,7 +53,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626791"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-26T15:00",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. LUCAS REDECKER (Bloco/PSD - RS. Sem revisão do orador.) - Presidente, quero fazer uma saudação a V.Exa., aos colegas Parlamentares, a todos os servidores da Casa e trazer uma notícia importante,",
+      "transcricao": "O SR. LUCAS REDECKER (Bloco/PSD - RS. Sem revisão do orador.) - Presidente, quero fazer uma saudação a V.Exa., aos colegas Parlamentares, a todos os servidores da Casa e trazer uma notícia importante, uma notícia muito boa do Estado do Rio Grande do Sul. Ontem, em Porto Alegre, foi assinado um convênio do Governo do Estado do Rio Grande do Sul com a Casa dos Raros, o Hospital de Clínicas de Porto Alegre, entre outras entidades, fazendo com que a gente adiante algumas fases do teste do pezinho. Das cinco fases aprovadas aqui nesta Casa, apenas duas são obrigatoriamente implementadas no Brasil, e ainda não foi regulamentado o prazo de implantação dessas cinco fases. O Estado do Rio Grande do Sul avançou. O Estado do Rio Grande do Sul firmou esse convênio e, agora, todas as crianças que nascerem no Estado serão testadas para imunodeficiências primárias e para a Atrofia Muscular Espinhal. E quero fazer um parêntese aqui. A Atrofia Muscular Espinhal, sobre a qual muito falei nesta tribuna, é uma doença que levou muitas crianças à morte. Até os 2 anos de idade, se não receberem terapia gênica ou alguns medicamentos, essas crianças podem vir a falecer. Agora, com o teste do pezinho diagnosticando precocemente a Atrofia Muscular Espinhal, nós teremos um prazo curto para que a criança possa ser medicada e tenha uma vida normal. Antigamente essa terapia gênica valia 12 milhões de reais. Nós fizemos um esforço gigantesco, primeiro para que fosse registrada na Anvisa; segundo para que as decisões judiciais fossem favoráveis a essas crianças, porque elas tinham prazo e corriam contra o tempo, contra o relógio. Depois houve a precificação e a inclusão no SUS. Hoje, tudo isso está pronto. Pela regulamentação do SUS, a criança tem que ter até 6 meses de idade para, após o diagnóstico, fazer o tratamento. Nós lutamos e conseguimos, no Rio Grande do Sul  essa é uma grande vitória que muito me emociona , com que seja feito o diagnóstico para AME. A partir do momento em que a criança for diagnosticada, ela terá o tratamento. Quem não viu tantas campanhas para arrecadação de recursos para esse tratamento? Famílias tinham que arrecadar 7 milhões, 10 milhões, 12 milhões de reais para poder salvar a vida do seu filho. Elas lutavam contra o relógio sabendo que existia uma alternativa, mas ela não estava ao seu alcance. Agora, no Estado do Rio Grande do Sul, nós temos esta nova realidade. Quero parabenizar aqui o Governador Eduardo Leite, que foi sensível e que fez todo o trabalho e todas as movimentações para que nós pudéssemos ter o diagnóstico do teste do pezinho para atrofia muscular espinhal, para imunodeficiências primárias. Quero fazer aqui um apelo ao Governo Federal para que coloque um cronograma para os Estados implementarem as cinco fases do teste do pezinho, que existem, mas que ninguém é obrigado a implementar. Esse é um ponto defasado deste Governo, também do Governo anterior, que nós temos que resolver para o bem das crianças do Brasil."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a apurar e acompanhar os danos causados pelas enchentes de 2023 e 2024, que atingiram o estado do Rio Grande do Sul",

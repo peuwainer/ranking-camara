@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178857.jpg",
-  "score": 26.8,
-  "rank": 201,
+  "score": 27.43,
+  "rank": 187,
   "proposicoes": [
     {
       "id": 2619274,
@@ -114,6 +114,12 @@
       "sigla": "CFFC",
       "cargo": "Suplente",
       "desde": "2026-02-10T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Titular",
+      "desde": "2026-05-26T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178857/votacoes-nominais-plenario/2026"

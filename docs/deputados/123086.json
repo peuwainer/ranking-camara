@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/123086.jpg",
-  "score": 21.6,
-  "rank": 359,
+  "score": 22.74,
+  "rank": 335,
   "proposicoes": [
     {
       "id": 2624861,
@@ -77,6 +77,12 @@
       "sigla": "PEC22119",
       "cargo": "Suplente",
       "desde": "2026-05-05T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-05-26T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/123086/votacoes-nominais-plenario/2026"
