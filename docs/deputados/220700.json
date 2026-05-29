@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220700.jpg",
-  "score": 25.2,
-  "rank": 254,
+  "score": 26.11,
+  "rank": 277,
   "proposicoes": [
     {
       "id": 2620087,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620089"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-27T15:36",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. FLORENTINO NETO (Bloco/PT - PI. Sem revisão do orador.) - Muito obrigado, Sr. Presidente. Sr. Presidente, Sras. e Srs. Deputados, hoje é um dia histórico para esta Casa, o dia em que uma Comissã",
+      "transcricao": "O SR. FLORENTINO NETO (Bloco/PT - PI. Sem revisão do orador.) - Muito obrigado, Sr. Presidente. Sr. Presidente, Sras. e Srs. Deputados, hoje é um dia histórico para esta Casa, o dia em que uma Comissão Especial está, ali, nos últimos momentos do seu trabalho para a aprovação do fim da escala 6 por 1. E nós estamos com muita esperança e com muita confiança de que este Plenário decidirá pelo fim dessa escala. Uma escala que escraviza, que não permite que as pessoas tenham mais tempo para a sua família. Com a escala 5 por 2, nós teremos uma carga horária de 40 horas semanais, sendo que haverá uma redução de quatro horas na jornada de trabalho. É mais tempo para a família, mais tempo para a educação dos filhos, mais tempo para a comunidade, para a socialização, mais tempo para o estudo, para a profissionalização, mais tempo para cada homem e cada mulher cuidar de si mesmos, cuidar da sua saúde. Por tudo isso, é que nós somos favoráveis à nova escala 5 por 2, que já é, no Brasil, adotada por grande parte das atividades econômicas e precisa ser universalizada, para que tenhamos isonomia entre todos os trabalhadores e trabalhadoras, para que possamos olhar para cada homem e cada mulher e saber que nós estamos cuidando bem da classe trabalhadora. É um passo importante, é um passo histórico. E cabe aqui um elogio muito especial a todos que, aqui na Câmara, estão empenhados nesse tema, mas cabe também o reconhecimento da figura central nessa luta: o homem retirante do Nordeste, líder sindical, que pela terceira vez dirige o nosso País, Luiz Inácio Lula da Silva, que faz esse gesto e que articula com o Presidente da Câmara e com os atores do Congresso Nacional para que a gente tenha essa aprovação. Pela classe trabalhadora, pelo Brasil, o fim da escala 6 por 1!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a acompanhar as ações de prevenção e combate ao câncer, ao acidente vascular cerebral (AVC) e às doenças do coração.",

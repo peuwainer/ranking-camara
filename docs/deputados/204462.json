@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204462.jpg",
-  "score": 31.62,
-  "rank": 91,
+  "score": 33.01,
+  "rank": 90,
   "proposicoes": [
-    {
-      "id": 2619224,
-      "tipo": "EMP",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Dispõe sobre as medidas relativas à realização da Copa do Mundo Feminina da Fédération Internationale de Football Association – FIFA 2027 na República Federativa do Brasil e sobre a concessão de prêmio às jogadoras da seleção brasileira do 1988 FIFA Women's Invitation Tournament.",
-      "data": "2026-04-28T18:56",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619224"
-    },
     {
       "id": 2623400,
       "tipo": "PEC",
@@ -62,15 +53,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-04-28T22:36",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "A SRA. CHRIS TONIETTO (PL - RJ. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Faço coro às palavras do Deputado Eli. Depois do acatamento da emenda do Deputado, obviamente, nos concorda",
-      "transcricao": "A SRA. CHRIS TONIETTO (PL - RJ. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Faço coro às palavras do Deputado Eli. Depois do acatamento da emenda do Deputado, obviamente, nos concordamos com todo o conteúdo. Eu gostaria de agradecer publicamente à Relatora por esse acatamento. Nesse sentido, a gente pede para retirar o destaque, que não tem mais razão de existir, porque já foi contemplado. Muito obrigada."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

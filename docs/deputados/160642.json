@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160642.jpg",
-  "score": 29.49,
-  "rank": 130,
+  "score": 31.73,
+  "rank": 116,
   "proposicoes": [
     {
       "id": 2622388,
@@ -60,6 +60,15 @@
       "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos decorrentes de choques extraordinários no mercado internacional de energia.",
       "data": "2026-05-20T18:34",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626541"
+    },
+    {
+      "id": 2628690,
+      "tipo": "EMP",
+      "numero": 7,
+      "ano": 0,
+      "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos decorrentes de choques extraordinários no mercado internacional de energia.",
+      "data": "2026-05-27T22:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628690"
     }
   ],
   "discursos": [],

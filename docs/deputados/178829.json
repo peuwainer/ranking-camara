@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
-  "score": 32.0,
-  "rank": 86,
+  "score": 33.85,
+  "rank": 76,
   "proposicoes": [
     {
       "id": 2620680,
@@ -78,6 +78,15 @@
       "ementa": "Permite que as destinações incentivadas realizadas diretamente na Declaração de Ajuste Anual do Imposto sobre a Renda da Pessoa Física possam ser parceladas juntamente com o imposto devido pelo contribuinte.",
       "data": "2026-05-20T20:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626631"
+    },
+    {
+      "id": 2628660,
+      "tipo": "PL",
+      "numero": 2688,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.112, de 11 de dezembro de 1990, para assegurar a manutenção das vantagens pecuniárias acessórias ao servidor público beneficiário de horário especial em razão de deficiência própria ou de cônjuge, filho, companheiro ou dependente com deficiência ou Transtorno do Espectro Autista.",
+      "data": "2026-05-27T20:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628660"
     }
   ],
   "discursos": [],

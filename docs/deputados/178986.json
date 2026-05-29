@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178986.jpg",
-  "score": 29.6,
-  "rank": 126,
+  "score": 30.52,
+  "rank": 142,
   "proposicoes": [
-    {
-      "id": 2618940,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 14.260, de 8 de dezembro de 2021, para tornar permanentes os incentivos à indústria da reciclagem.",
-      "data": "2026-04-28T13:36",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618940"
-    },
     {
       "id": 2622290,
       "tipo": "EMP",
@@ -51,6 +42,15 @@
       "ementa": "Institui o “Desmatamento Zero”, com a finalidade de conter a supressão de vegetação em todo território nacional.",
       "data": "2026-05-20T15:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626811"
+    },
+    {
+      "id": 2628942,
+      "tipo": "PL",
+      "numero": 2715,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para dispor sobre a dispensa do serviço de empregados públicos ou privados e servidores públicos que efetivamente exercerem a função de jurado.",
+      "data": "2026-05-28T15:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628942"
     }
   ],
   "discursos": [

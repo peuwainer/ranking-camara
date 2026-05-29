@@ -4,17 +4,17 @@
   "partido": "PT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74858.jpg",
-  "score": 21.91,
-  "rank": 358,
+  "score": 23.42,
+  "rank": 377,
   "proposicoes": [
     {
-      "id": 2619274,
+      "id": 2628942,
       "tipo": "PL",
-      "numero": 2054,
+      "numero": 2715,
       "ano": 2026,
-      "ementa": "Institui a Política Nacional dos Direitos das Pessoas LGBTQIA+ e dá outras providências.",
-      "data": "2026-04-28T19:33",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619274"
+      "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para dispor sobre a dispensa do serviço de empregados públicos ou privados e servidores públicos que efetivamente exercerem a função de jurado.",
+      "data": "2026-05-28T15:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628942"
     }
   ],
   "discursos": [
@@ -54,12 +54,6 @@
       "desde": "2025-12-02T00:00"
     },
     {
-      "nome": "Comissão de Desenvolvimento Econômico",
-      "sigla": "CDE",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Constituição e Justiça e de Cidadania",
       "sigla": "CCJC",
       "cargo": "Suplente",
@@ -70,12 +64,6 @@
       "sigla": "PEC22119",
       "cargo": "Suplente",
       "desde": "2026-05-06T00:00"
-    },
-    {
-      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
-      "sigla": "CREDN",
-      "cargo": "Titular",
-      "desde": "2026-05-18T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/74858/votacoes-nominais-plenario/2026"

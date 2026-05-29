@@ -4,27 +4,9 @@
   "partido": "PODE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220618.jpg",
-  "score": 33.57,
-  "rank": 59,
+  "score": 34.23,
+  "rank": 70,
   "proposicoes": [
-    {
-      "id": 2618665,
-      "tipo": "PL",
-      "numero": 2001,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a proibição de publicidade de dados pessoais, áudios, imagens e vídeos de Agentes de Segurança Pública nos meios de comunicação em geral, nas redes sociais baseadas na internet, aplicativos via internet, rede televisiva, publicações jornalísticas escritas e faladas (audiovisuais), radiodifusão e quaisquer outros recursos via internet.",
-      "data": "2026-04-27T15:40",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618665"
-    },
-    {
-      "id": 2619174,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 14.312, de 2022, para dispor sobre critérios de concessão de subvenções econômicas e estabelecer nova hipótese de acesso a operações de crédito imobiliário no âmbito do Programa Habite Seguro.\nAutor: Deputado CAPITÃO ALDEN\nRelator: Deputado SARGENTO PORTUGAL",
-      "data": "2026-04-28T15:57",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619174"
-    },
     {
       "id": 2620695,
       "tipo": "PL",
@@ -114,6 +96,15 @@
       "ementa": "Dispõe sobre medidas mínimas de segurança para motoristas e usuários de plataformas digitais de transporte individual remunerado e estabelece diretrizes para incentivo à atuação do poder público.",
       "data": "2026-05-26T18:11",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627961"
+    },
+    {
+      "id": 2628286,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Estabelece a prioridade na destinação de recursos para ações de informação e inteligência no combate aos crimes financeiros virtuais, com ênfase no estelionato digital, phishing, roubo de identidade, fraudes financeiras online e outros crimes cibernéticos, além de implementar a capacitação de profissionais, a utilização de tecnologias avançadas e a criação de um ambiente mais seguro no espaço digital.\nAutor: Deputado DUDA RAMOS\nRelator: Deputado SARGENTO PORTUGAL",
+      "data": "2026-05-27T11:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628286"
     }
   ],
   "discursos": [

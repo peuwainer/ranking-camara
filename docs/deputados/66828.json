@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/66828.jpg",
-  "score": 27.98,
-  "rank": 171,
+  "score": 26.83,
+  "rank": 255,
   "proposicoes": [
     {
       "id": 2625435,
@@ -15,17 +15,18 @@
       "ementa": "Institui o Sistema Nacional de Prevenção e Enfrentamento à Violência Digital contra Mulheres e Meninas, altera o Código Penal e o Código de Processo Penal para tipificar e disciplinar a prova de crimes envolvendo conteúdo íntimo não consensual gerado por inteligência artificial ou manipulação digital, e dá outras providências.",
       "data": "2026-05-18T14:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625435"
-    }
-  ],
-  "discursos": [
+    },
     {
-      "data": "2026-04-28T18:48",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. FAUSTO PINATO (Bloco/PP - SP. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu venho aqui mais num tom de desespero e apelo a esta Casa para dizer ao Estado de São Paulo, do qual eu sou ",
-      "transcricao": "O SR. FAUSTO PINATO (Bloco/PP - SP. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu venho aqui mais num tom de desespero e apelo a esta Casa para dizer ao Estado de São Paulo, do qual eu sou Deputado, no meu terceiro mandato. Hoje vejo alguns Deputados, mas venho aqui fazer um grito de socorro, porque ainda dá tempo de se costurar uma terceira via neste País, com um projeto de País. Nós sabemos que hoje temos uma Esquerda com o Presidente Lula. Ele veio, de certa forma, até para evitar uma ditadura. Mas, infelizmente, nós vemos que hoje o Governo sobrevive não por maestria, mas sim pela burrice da ultradireita, que, pasmem, sufocou Centro e Centro-direita, colocando o filho do Bolsonaro. Na verdade, os dois não têm projeto de País. Está em tempo de construir um projeto de País, porque, entre direita e esquerda, eu prefiro um País para frente. Nós temos uma esquerda \"desmodernizada\" e uma direita totalmente fora da casinha. Presidente, Deus é maior! Tomara que surjam juízes, principalmente desses países de centro-direita e de centro-esquerda, que possam, juntos, fazer uma nova história, porque o Brasil tem pressa e precisa de um nome que realmente pacifique este País. Obrigado, Sr. Presidente."
+      "id": 2628648,
+      "tipo": "PL",
+      "numero": 2687,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a importação, por pessoa física residente no Brasil, de medicamentos sem registro sanitário nacional destinados exclusivamente a uso próprio, estabelece critérios de proporcionalidade regulatória, proteção sanitária, segurança jurídica e continuidade terapêutica, e dá outras providências.",
+      "data": "2026-05-27T20:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628648"
     }
   ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 14, de 2021, do Sr. Dr. Leonardo e outros, que \"altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais\"",

@@ -4,10 +4,29 @@
   "partido": "PSDB",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236284.jpg",
-  "score": 6.52,
-  "rank": 511,
+  "score": 15.95,
+  "rank": 486,
   "proposicoes": [],
   "discursos": [],
-  "orgaos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Defesa do Consumidor",
+      "sigla": "CDC",
+      "cargo": "Titular",
+      "desde": "2026-05-27T00:00"
+    },
+    {
+      "nome": "Comissão de Cultura",
+      "sigla": "CCULT",
+      "cargo": "Suplente",
+      "desde": "2026-05-27T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
+      "sigla": "CIDOSO",
+      "cargo": "Titular",
+      "desde": "2026-05-27T00:00"
+    }
+  ],
   "url_votacoes": "https://www.camara.leg.br/deputados/236284/votacoes-nominais-plenario/2026"
 }

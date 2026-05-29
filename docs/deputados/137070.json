@@ -4,10 +4,18 @@
   "partido": "PSDB",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/137070.jpg",
-  "score": 19.4,
-  "rank": 421,
+  "score": 24.58,
+  "rank": 344,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-27T16:00",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. VICENTINHO JÚNIOR (Bloco/PSDB - TO. Pela ordem. Sem revisão do orador.) - Deputado Vicentinho Júnior, do PSDB do Tocantins, seu soldado. Sr. Presidente, gostaria só de registrar a honrosa presen",
+      "transcricao": "O SR. VICENTINHO JÚNIOR (Bloco/PSDB - TO. Pela ordem. Sem revisão do orador.) - Deputado Vicentinho Júnior, do PSDB do Tocantins, seu soldado. Sr. Presidente, gostaria só de registrar a honrosa presença do meu mano caçula, Dr. Thiago, Prefeito reeleito da cidade Pindorama do Tocantins. Se derem um Google aí, vão descobrir que a Lagoa do Japonês hoje é um dos pontos turísticos mais visitados do inteiro do Brasil. Acompanhando o Prefeito, estão aqui representantes da nossa valorosa Câmara de Vereadores: Presidente Ciel, Vereador Kedson, Vereador Marcinho, Vereador João Vitor, o Dr. Pedro, filho do nosso Vice-Prefeito Almir Silvo Gas, e amigos da minha Porto Nacional. Esta é a nova geração de políticos do meu Estado de Tocantins, homens simples, bem criados, muito focados e que se dedicam à causa pública, a servir o nosso povo. Estão hoje em Brasília visitando este Plenário, mas correndo nos gabinetes atrás de mais recursos ao Município de Pindorama. Muito obrigado, Sr. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

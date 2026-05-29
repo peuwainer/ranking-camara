@@ -4,18 +4,9 @@
   "partido": "SOLIDARIEDADE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
-  "score": 40.2,
-  "rank": 16,
+  "score": 42.76,
+  "rank": 13,
   "proposicoes": [
-    {
-      "id": 2619289,
-      "tipo": "PL",
-      "numero": 2056,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a obrigatoriedade de indicação da cor predominante, por extenso ou código de simbologia tátil/visual, nas etiquetas de produtos têxteis e de vestuário comercializados no Brasil.",
-      "data": "2026-04-28T20:19",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619289"
-    },
     {
       "id": 2620136,
       "tipo": "EMP",
@@ -90,6 +81,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-27T21:36",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. AUREO RIBEIRO (SOLIDARIEDADE - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o Congresso hoje  a Câmara dos Deputados  faz justiça a todos os trabalhadores brasileiros. A matéria q",
+      "transcricao": "O SR. AUREO RIBEIRO (SOLIDARIEDADE - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o Congresso hoje  a Câmara dos Deputados  faz justiça a todos os trabalhadores brasileiros. A matéria que está sendo votada é fundamental para que um pai trabalhador possa ter o direito de conversar com seu filho, para que uma mãe possa ajudar na educação, trazendo dignidade para a construção da família brasileira. Avançamos na jornada de trabalho; vamos gerar emprego e renda para a população brasileira. Teremos os brasileiros desenvolvendo o seu papel de melhor forma, porque não haverá uma carga que deixe o trabalhador massacrado, como tem ocorrido hoje. Nós estamos aqui construindo um Brasil de justiça social e de oportunidade para todos. Parabéns ao coletivo da Câmara dos Deputados!"
+    },
     {
       "data": "2026-05-20T21:00",
       "fase": "Ordem do Dia",

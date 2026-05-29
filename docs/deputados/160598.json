@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160598.jpg",
-  "score": 35.98,
-  "rank": 38,
+  "score": 38.74,
+  "rank": 32,
   "proposicoes": [
     {
       "id": 2620846,
@@ -132,6 +132,15 @@
       "ementa": "Institui a Política Nacional de Segurança Financeira da Mulher, com programas de educação econômica, microcrédito protegido e promoção da autonomia patrimonial.",
       "data": "2026-05-26T13:34",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627887"
+    },
+    {
+      "id": 2628684,
+      "tipo": "PL",
+      "numero": 2689,
+      "ano": 2026,
+      "ementa": "Concede isenção ou desconto tarifário de pedágio para usuários em deslocamentos de caráter local nas rodovias federais concedidas e dá outras providências.",
+      "data": "2026-05-27T21:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628684"
     }
   ],
   "discursos": [],

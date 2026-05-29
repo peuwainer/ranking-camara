@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178946.jpg",
-  "score": 29.37,
-  "rank": 133,
+  "score": 29.65,
+  "rank": 166,
   "proposicoes": [
     {
       "id": 2620846,
@@ -33,6 +33,15 @@
       "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
       "data": "2026-05-12T11:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
+    },
+    {
+      "id": 2628054,
+      "tipo": "PL",
+      "numero": 2632,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional Integrada de Autonomia Econômica, Empreendedorismo e Inserção Produtiva de Mulheres, denominada “Mulheres em Movimento”.",
+      "data": "2026-05-27T08:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628054"
     }
   ],
   "discursos": [
@@ -162,12 +171,6 @@
       "desde": "2026-03-06T00:00"
     },
     {
-      "nome": "Comissão de Educação",
-      "sigla": "CE",
-      "cargo": "Suplente",
-      "desde": "2026-03-10T00:00"
-    },
-    {
       "nome": "Comissão de Constituição e Justiça e de Cidadania",
       "sigla": "CCJC",
       "cargo": "Suplente",
@@ -184,6 +187,12 @@
       "sigla": "PLP10821",
       "cargo": "Suplente",
       "desde": "2026-05-20T00:00"
+    },
+    {
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
+      "cargo": "Titular",
+      "desde": "2026-05-27T00:00"
     },
     {
       "nome": "Subcomissão Especial destinada a “debater e apresentar sugestões ao setor de estética e aprimorar suas relações trabalhistas”",

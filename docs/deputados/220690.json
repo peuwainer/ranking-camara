@@ -4,27 +4,9 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 37.9,
-  "rank": 26,
+  "score": 42.09,
+  "rank": 15,
   "proposicoes": [
-    {
-      "id": 2618607,
-      "tipo": "PL",
-      "numero": 1997,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 11.445, de 5 de janeiro de 2007, para estabelecer critérios objetivos para a cobrança da tarifa de esgotamento sanitário, vedar a presunção automática de equivalência com o consumo de água, fixar limites proporcionais à efetiva prestação do serviço e instituir mecanismos de transparência e responsabilização.",
-      "data": "2026-04-27T13:55",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618607"
-    },
-    {
-      "id": 2618767,
-      "tipo": "PL",
-      "numero": 2012,
-      "ano": 2026,
-      "ementa": "Altera a Consolidação das Leis do Trabalho (CLT) e as Leis nº 8.213, de 24 de julho de 1991, e nº 10.097, de 19 de dezembro de 2000, para instituir o Sistema de Créditos de Inclusão (SCI), como mecanismo complementar de cumprimento das cotas legais de contratação de pessoas com deficiência e aprendizes.",
-      "data": "2026-04-28T10:29",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618767"
-    },
     {
       "id": 2620762,
       "tipo": "PL",
@@ -168,6 +150,42 @@
       "ementa": "Amplia o direito ao porte de arma de fogo para Guardas Civis Municipais e vigilantes, reduz exigências burocráticas, reconhece o risco permanente da atividade e fortalece a segurança pública por meio do armamento responsável.",
       "data": "2026-05-26T17:43",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627951"
+    },
+    {
+      "id": 2628287,
+      "tipo": "PL",
+      "numero": 2642,
+      "ano": 2026,
+      "ementa": "Altera o Marco Civil da Internet (Lei nº 12.965, de 23 de abril de 2014), para estabelecer garantias de devido processo, segurança jurídica, transparência e limites à responsabilização de provedores de aplicações de internet.",
+      "data": "2026-05-27T13:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628287"
+    },
+    {
+      "id": 2628373,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Acrescenta dispositivos à Lei nº 13.869, de 5 de setembro de 2019, à Lei nº 1.079, de 10 de abril de 1950, ao Decreto-Lei nº 201, de 27 de fevereiro de 1967, e à Lei nº 13.979, de 6 de fevereiro de 2020, para caracterizar como crime de abuso de autoridade e como crime de responsabilidade a violação de direitos individuais constitucionais durante tempos de paz, impedindo a liberdade de locomoção e o exercício de outras garantias.",
+      "data": "2026-05-25T15:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628373"
+    },
+    {
+      "id": 2628934,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei n.º 13.756, de 12 de dezembro de 2018, a Lei nº 7.998, de 11 de janeiro de 1990, a Lei nº 9.818, de 23 de agosto de 1999, e a Lei nº 7.560, de 19 de dezembro de 1986, para dispor sobre a construção, reforma, ampliação e modernização de penitenciárias federais, e dá outras providências",
+      "data": "2026-05-28T11:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628934"
+    },
+    {
+      "id": 2628936,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei n.º 13.756, de 12 de dezembro de 2018, a Lei nº 7.998, de 11 de janeiro de 1990, a Lei nº 9.818, de 23 de agosto de 1999, e a Lei nº 7.560, de 19 de dezembro de 1986, para dispor sobre a construção, reforma, ampliação e modernização de penitenciárias federais, e dá outras providências",
+      "data": "2026-05-28T12:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628936"
     }
   ],
   "discursos": [

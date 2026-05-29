@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160758.jpg",
-  "score": 27.6,
-  "rank": 182,
+  "score": 31.19,
+  "rank": 125,
   "proposicoes": [
     {
       "id": 2623400,
@@ -44,7 +44,29 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-28T16:56",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DOMINGOS SÁVIO (PL - MG. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente. Eu quero, inicialmente, até cumprimentar o Deputado Crivella. Eu tive a alegria de ser coautor, com o D",
+      "transcricao": "O SR. DOMINGOS SÁVIO (PL - MG. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente. Eu quero, inicialmente, até cumprimentar o Deputado Crivella. Eu tive a alegria de ser coautor, com o Deputado Crivella, dessa feliz iniciativa desta PEC, desta proposta de emenda constitucional, que, se Deus quiser, será transformada hoje em emenda constitucional, garantindo imunidade tributária para aquelas entidades mantidas pelas igrejas, sejam igrejas evangélicas, sejam igrejas católicas. Nós temos muitas creches, asilos e hospitais. O Hospital São João de Deus, em Divinópolis, originariamente, vem da Irmandade de São João de Deus. E nós temos inúmeras situações em que não é justo cobrar imposto de quem está, de alguma forma, substituindo o papel do Governo. O Governo não consegue atender todas as crianças nas creches, os idosos nos asilos, os doentes nos hospitais, os dependentes químicos. E as igrejas, volto a dizer, sejam elas evangélicas ou católicas, cumprem esse papel fundamental. E este papel não pode ser sujeito à tributação. Não é justo isso! Então, hoje, nós estamos garantindo que os mais pobres  não estamos dando privilégio para ninguém , aqueles que são assistidos socialmente por essas entidades religiosas também sejam alcançados com a isenção tributária à medida que a gente amplia esse benefício, garantindo que igrejas sejam beneficiadas nas suas ações sociais. O PL orienta \"sim\"."
+    },
+    {
+      "data": "2026-05-28T16:24",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DOMINGOS SÁVIO (PL - MG. Pela ordem. Sem revisão do orador.) - Presidente, quero apenas contraditar de maneira muito clara e respeitosa, porque eu disse que ainda está em tempo. Eu iniciei a min",
+      "transcricao": "O SR. DOMINGOS SÁVIO (PL - MG. Pela ordem. Sem revisão do orador.) - Presidente, quero apenas contraditar de maneira muito clara e respeitosa, porque eu disse que ainda está em tempo. Eu iniciei a minha fala dizendo justamente e dando um exemplo concreto que se enquadra em demais entidades. Por isso, cortar, que é a proposta que o PT apresenta, afetaria as creches, etc. Sabe por quê? As demais entidades alcançam, por exemplo, obras sociais da paróquia de Santo Antônio, obras sociais da paróquia de Divinópolis. Eu citei o exemplo na minha fala. A paróquia, que é uma instituição sem fins lucrativos, não está lá denominada como creche, como asilo, mas ela tem, como finalidade, cuidar dos mais pobres. Se eu excluo dessa forma, se eu ajo dessa forma, eu estou prejudicando essas entidades. É uma leitura de contexto. Portanto, o que o PT está propondo prejudica, porque dá uma leitura isolada, inadequada e inapropriada do texto. É por isso que nós estamos alertados... (Desligamento do microfone.)"
+    },
+    {
+      "data": "2026-05-28T16:20",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DOMINGOS SÁVIO (PL - MG. Pela ordem. Sem revisão do orador.) - Presidente, não há cabimento. Isso pode ser um equívoco, mas ainda dá tempo de corrigirem. Eu sei o trabalho das igrejas, sejam eva",
+      "transcricao": "O SR. DOMINGOS SÁVIO (PL - MG. Pela ordem. Sem revisão do orador.) - Presidente, não há cabimento. Isso pode ser um equívoco, mas ainda dá tempo de corrigirem. Eu sei o trabalho das igrejas, sejam evangélicas, sejam católicas. Eu vou falar como católico. Em Divinópolis, obras sociais da paróquia cuidam de inúmeras creches, cuidam do asilo da entidade de longa permanência de idosos mais tradicional da cidade, sem nenhum fim lucrativo. E agora o PT quer impedir que o benefício fiscal estendido a igrejas e templos alcance justamente o trabalho social das igrejas evangélicas, católicas, quer impedir que as igrejas tenham essa cobertura de isenção na creche, quer dizer, ela é sem fim lucrativo, mas tem que pagar imposto para o Governo. É um absurdo, PT. Acorde! Ser contra a creche da igreja católica é ser contra os que mais precisam. Quem frequenta a creche, quem vai para o asilo da igreja católica, da igreja evangélica, quem busca são os mais pobres. A igreja acolhe os pobres. Esse é um princípio cristão. E agora o PT quer ser contra e diz que é para cuidar dos pobres. Não, é para arrecadar imposto, é a ganância do PT de arrecadar imposto até das creches que a igreja católica e evangélica cuidam."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a fiscalizar os rompimentos de barragens, em especial acompanhar a repactuação do acordo de Mariana e a reparação do crime de Brumadinho",

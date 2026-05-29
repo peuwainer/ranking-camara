@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204390.jpg",
-  "score": 25.66,
-  "rank": 241,
+  "score": 27.32,
+  "rank": 242,
   "proposicoes": [
     {
       "id": 2623400,
@@ -69,6 +69,15 @@
       "ementa": "Dispõe sobre a participação provisória nos lucros e resultados de empresas constituídas durante o casamento, em casos de dissolução conjugal com regime de comunhão parcial ou universal de bens, até a efetiva partilha das cotas societárias, e dá outras providências.",
       "data": "2026-05-25T16:38",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627617"
+    },
+    {
+      "id": 2628448,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a isenção do pagamento de taxa de inscrição no Exame Nacional do Ensino Médio (ENEM) e demais processos seletivos de acesso ao ensino superior para pessoas com Transtorno do Espectro Autista (TEA) e outras condições de neurodivergência.",
+      "data": "2026-05-27T16:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628448"
     }
   ],
   "discursos": [],

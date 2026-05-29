@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141456.jpg",
-  "score": 23.92,
-  "rank": 298,
+  "score": 26.13,
+  "rank": 275,
   "proposicoes": [
     {
       "id": 2626434,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626434"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-27T16:04",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. JILMAR TATTO (Bloco/PT - SP. Sem revisão do orador.) - Sr. Presidente, data histórica de hoje, 27 de maio de 2026. Vamos aprovar, esta Casa vai aprovar a escala 5 por 2, o fim da escala 6 por 1 ",
+      "transcricao": "O SR. JILMAR TATTO (Bloco/PT - SP. Sem revisão do orador.) - Sr. Presidente, data histórica de hoje, 27 de maio de 2026. Vamos aprovar, esta Casa vai aprovar a escala 5 por 2, o fim da escala 6 por 1 e 40 horas semanais. Desde adolescente, final dos anos 70, desde o início do PT, nos anos 80, eu ouço 40 horas semanais sem redução de salário. Hoje, para mim, é uma honra estar aqui e votar nesta proposta, porque a luta da classe trabalhadora não começou hoje. Essa luta do fim da escala 6 por 1 e 40 horas semanais vem desde a Constituição de 1988, quando era de 48 horas semanais, e baixou para 44 horas semanais. Portanto, são 38 anos para conseguir se chegar ao dia de hoje. A luta da classe trabalhadora teve momentos históricos importantes, como foi a greve geral, em 1917, quando os trabalhadores e as trabalhadoras trabalhavam até 12 horas, mais de 12 horas por dia. Aí, veio Getúlio Vargas, veio a CLT de 1943, que instituiu 48 horas semanais. Depois, veio a Constituição de 1988, que baixou para 44 horas semanais. E hoje, nós vamos aprovar 40 horas semanais, sem redução de salário, depois de 38 anos. Sempre é difícil e é demorado, mas vale a pena a luta. Porque 40 horas semanais em escala 5 por 2 significa que as pessoas, o trabalhador e a trabalhadora, vão ficar pelo menos 2 dias em casa com a sua família, com seus filhos, vão poder fazer compras, poder cuidar da casa, poder visitar parentes, poder visitar amigos. Por isso que vale a pena a luta e fazer a disputa política. Disputa política vale a pena quando a classe trabalhadora tem direitos e conquista direitos. Hoje é um dia histórico, porque nós conquistamos e estamos conquistando direitos. Isso foi graças à luta do movimento social, graças à organização do povo brasileiro, e também graças a um pacto entre todos e todas do Brasil, porque nós temos que melhorar de vida, melhorar salários, e fazer com que o Brasil cresça, mas cresça com distribuição de renda, cresça com diminuição de desigualdade social, como está sendo agora o IDH."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Comunicação",

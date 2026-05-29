@@ -4,27 +4,9 @@
   "partido": "PODE",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 26.12,
-  "rank": 225,
+  "score": 36.04,
+  "rank": 50,
   "proposicoes": [
-    {
-      "id": 2619057,
-      "tipo": "PL",
-      "numero": 2026,
-      "ano": 2026,
-      "ementa": "Institui o Programa Nacional de Kit Bebê Essencial para Gestantes inscritas no Cadastro Único em Áreas Remotas, estabelece diretrizes para fornecimento de enxoval mínimo, orientação e acompanhamento, e dá outras providências.",
-      "data": "2026-04-28T15:32",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619057"
-    },
-    {
-      "id": 2619101,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre a qualidade da infraestrutura escolar dos estabelecimentos públicos de ensino.",
-      "data": "2026-04-28T16:37",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619101"
-    },
     {
       "id": 2621621,
       "tipo": "PLP",
@@ -195,6 +177,51 @@
       "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais - LGPD), para dispor sobre a Auditoria Algorítmica Preventiva em sistemas de Inteligência Artificial que afetam decisões de alto impacto social.",
       "data": "2026-05-26T16:27",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627875"
+    },
+    {
+      "id": 2628364,
+      "tipo": "PL",
+      "numero": 2649,
+      "ano": 2026,
+      "ementa": "Dispõe sobre transparência publicitária e proteção do consumidor em serviços de streaming contratados mediante assinatura paga.",
+      "data": "2026-05-27T14:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628364"
+    },
+    {
+      "id": 2628691,
+      "tipo": "PL",
+      "numero": 2690,
+      "ano": 2026,
+      "ementa": "Estabelece redução escalonada da carga tributária incidente sobre as receitas decorrentes da venda de preparações do tipo utilizado na alimentação de cães e gatos, com o objetivo de promover o acesso à nutrição animal adequada, assegurar previsibilidade fiscal e estimular a formalização do setor.",
+      "data": "2026-05-27T22:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628691"
+    },
+    {
+      "id": 2628721,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Estabelece diretrizes gerais para o reconhecimento das corridas de rua e eventos esportivos não formais como instrumentos de promoção da saúde e do esporte, vedando a instituição de taxas de natureza arrecadatória incompatíveis com essa finalidade.",
+      "data": "2026-05-26T18:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628721"
+    },
+    {
+      "id": 2628795,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.248, de 23 de outubro de 1991 (Lei de Informática), para estabelecer critérios de inclusão social e digital em Inteligência Artificial como contrapartida obrigatória para a fruição de incentivos fiscais.",
+      "data": "2026-05-28T10:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628795"
+    },
+    {
+      "id": 2628796,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei n° 10.973, de 2 de dezembro de 2004, a Lei n° 8.958, de 20 de dezembro de 1994, e a Lei nº 8.032, de 12 de abril de 1990, para aprimorar a definição e a atuação das ICTs nas atividades de ciência, tecnologia e inovação, e dá outras providências.",
+      "data": "2026-05-28T10:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628796"
     }
   ],
   "discursos": [],

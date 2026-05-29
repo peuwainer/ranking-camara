@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220553.jpg",
-  "score": 29.52,
-  "rank": 128,
+  "score": 30.79,
+  "rank": 132,
   "proposicoes": [
     {
       "id": 2623161,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623518"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-27T17:08",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. DENISE PESSÔA (Bloco/PT - RS. Sem revisão da oradora.) - Sr. Presidente, Sras. e Srs. Deputados, estamos diante de um dia histórico, um dia em que a gente faz reparação num País marcado pelo pa",
+      "transcricao": "A SRA. DENISE PESSÔA (Bloco/PT - RS. Sem revisão da oradora.) - Sr. Presidente, Sras. e Srs. Deputados, estamos diante de um dia histórico, um dia em que a gente faz reparação num País marcado pelo patriarcado, pela escravidão. Quando a gente fala da redução da jornada, do fim da escala 6 por 1, da redução de 44 horas para 40 horas, nós estamos fazendo reparação, porque hoje no Brasil quem trabalha mais e quem ganha menos são as mulheres negras, e não é possível que a gente permaneça nessa escala. Então, hoje é sim um dia histórico. Por isso, eu preciso cumprimentar o Deputado Alencar, que conduziu o trabalho na Comissão da PEC, assim como o Relator, Deputado Leo Prates, também o Deputado Reginaldo, autor junto com a Deputada Erika, que fizeram esse debate ao longo da história. Não é de hoje que o Partido dos Trabalhadores e que a Esquerda defendem os trabalhadores neste País. Ao contrário, a extrema direita ataca os direitos dos trabalhadores há muito tempo. Ensaiaram aqui vários golpes, várias tentativas, e, agora, quando estão vencidos, tentam de última hora dar o abraço do afogado. Desta noite para cá, tentaram vir com uma proposta que diz que quer salvar os trabalhadores e defender os trabalhadores. Isso é uma piada. Isso não é tratar de forma séria os trabalhadores deste País. O mundo do trabalho mudou ao longo da história, a tecnologia avançou, a produtividade aumentou e as novas formas de trabalho surgiram, mas surge uma pergunta: quem se beneficia com esses ganhos? Diversos países já entenderam que a produtividade não significa simplesmente aumentar as horas trabalhadas. A economista Joan Robinson já dizia: \"O objetivo da produção é produzir bens para consumir, e não empregar pessoas indefinidamente\". Então, a gente vê países como a França, que já adotou uma jornada menor há décadas; o Chile, que reduziu sua jornada para 40 horas; o México, recentemente; e vários países europeus. E esses países não quebraram; pelo contrário, muitos registraram ganhos de produtividade, redução de afastamento e melhora na qualidade de vida. Trabalhadores descansados produzem melhor, trabalhadores saudáveis faltam menos, trabalhadores que convivem com suas famílias vivem melhor. Defender a redução da jornada não é defender menos trabalho, é defender mais eficiência, mais equilíbrio, mais humanidade. Queremos um país onde as pessoas trabalhem para viver e não vivam apenas para trabalhar. Aqui, registro que a Serra Gaúcha tem o mandato de uma Deputada que defende os trabalhadores de verdade. Sr. Presidente, peço que o meu pronunciamento seja divulgado nos meios de comunicação da Casa, em especial no programa A Voz do Brasil."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

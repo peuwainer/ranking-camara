@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220688.jpg",
-  "score": 25.83,
-  "rank": 234,
+  "score": 27.07,
+  "rank": 246,
   "proposicoes": [
-    {
-      "id": 2618839,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para instituir o Padrão Nacional de Acessibilidade de Produtos e Serviços (PNAPS), aplicável a bens, produtos e serviços essenciais destinados ao mercado de consumo.",
-      "data": "2026-04-28T11:32",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618839"
-    },
     {
       "id": 2621633,
       "tipo": "PL",
@@ -26,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621633"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-27T15:52",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. DR. FRANCISCO (Bloco/PT - PI. Sem revisão do orador.) - Agradeço, Sr. Presidente. Saudações a todos os colegas. Quero falar sobre a importância do dia histórico que hoje vivenciamos neste Parlam",
+      "transcricao": "O SR. DR. FRANCISCO (Bloco/PT - PI. Sem revisão do orador.) - Agradeço, Sr. Presidente. Saudações a todos os colegas. Quero falar sobre a importância do dia histórico que hoje vivenciamos neste Parlamento: a possibilidade de fazer justiça a mais de 31 milhões de homens e mulheres, trabalhadores e trabalhadoras deste País que estão submetidos ao regime de trabalho da escala 6x1, no qual são seis dias de trabalho para apenas um dia de folga. Buscamos, por meio desta Proposta de Emenda à Constituição que está sendo discutida nesta Casa, fazer justiça e mudar essa escala definitivamente para cinco dias de trabalho e dois dias de folga, reduzindo a carga horária para 40 horas semanais, sem redução de salários. Garantir esse direito, Sr. Presidente, é permitir que o trabalhador e a trabalhadora tenham mais tempo para sua família, possam viver, usufruir de um mínimo de lazer e ter descanso. Isso, com certeza, vai se refletir, por meio dessa melhoria, até mesmo na sua saúde mental, resultando em mais produtividade nos seus dias de trabalho. Então, o rendimento, com certeza, será muito mais promissor. Haverá a possibilidade de acompanhar mais de perto a família, ter tempo para ver o crescimento dos filhos, poder estudar, praticar mais atividades físicas nos momentos de folga e, realmente, cuidar da saúde e fazer os devidos acompanhamentos médicos. Portanto, não podemos deixar de agradecer a iniciativa e a perseverança de todos os que abraçaram essa causa nesta Casa, os autores e relatores destes projetos, como o Deputado Reginaldo Lopes e a Deputada Erika Hilton. Quero parabenizar também a mobilização dos Líderes, o Relator, Deputado Leo Prates, e a iniciativa do Governo do Presidente Lula em reforçar e defender a implantação dessa mudança de escala. Fica aqui o meu apelo aos membros desta Casa para que possam colocar este legado em suas biografias aqui na Câmara dos Deputados, votando pela aprovação desta Proposta de Emenda à Constituição, alterando a escala para 5x2, reduzindo a carga horária de trabalho para 40 horas semanais e fazendo justiça aos trabalhadores que têm os menores salários deste País, para que eles também tenham tempo para o descanso. Muito obrigado, Sr. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

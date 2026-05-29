@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204479.jpg",
-  "score": 23.67,
-  "rank": 305,
+  "score": 29.58,
+  "rank": 168,
   "proposicoes": [
     {
       "id": 2623400,
@@ -80,20 +80,14 @@
       "desde": "2025-09-03T00:00"
     },
     {
-      "nome": "Comissão do Esporte",
-      "sigla": "CESPO",
-      "cargo": "Suplente",
-      "desde": "2026-03-11T00:00"
-    },
-    {
       "nome": "Comissão de Constituição e Justiça e de Cidadania",
       "sigla": "CCJC",
       "cargo": "Suplente",
       "desde": "2026-03-11T00:00"
     },
     {
-      "nome": "Comissão de Viação e Transportes",
-      "sigla": "CVT",
+      "nome": "Comissão do Esporte",
+      "sigla": "CESPO",
       "cargo": "Suplente",
       "desde": "2026-03-11T00:00"
     },
@@ -102,6 +96,12 @@
       "sigla": "CSPCCO",
       "cargo": "Titular",
       "desde": "2026-04-07T00:00"
+    },
+    {
+      "nome": "Comissão de Viação e Transportes",
+      "sigla": "CVT",
+      "cargo": "Titular",
+      "desde": "2026-05-27T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204479/votacoes-nominais-plenario/2026"

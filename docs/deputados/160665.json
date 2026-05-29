@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
-  "score": 31.36,
-  "rank": 97,
+  "score": 32.98,
+  "rank": 92,
   "proposicoes": [
-    {
-      "id": 2619224,
-      "tipo": "EMP",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Dispõe sobre as medidas relativas à realização da Copa do Mundo Feminina da Fédération Internationale de Football Association – FIFA 2027 na República Federativa do Brasil e sobre a concessão de prêmio às jogadoras da seleção brasileira do 1988 FIFA Women's Invitation Tournament.",
-      "data": "2026-04-28T18:56",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619224"
-    },
     {
       "id": 2621594,
       "tipo": "PL",
@@ -126,6 +117,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-27T20:36",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu queria, inicialmente, como integrante e Líder da bancada do Republican",
+      "transcricao": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu queria, inicialmente, como integrante e Líder da bancada do Republicanos, parabenizar V.Exa. Estamos votando hoje, em um momento histórico, uma matéria que vai contribuir muito para a melhoria da vida de todas as pessoas. Nós também nos orgulhamos muito porque essa missão foi dada a um integrante da nossa bancada, o Deputado Leo Prates. E ele a cumpriu com muita responsabilidade, com muito espírito público e, acima de tudo, com muito cuidado com as pessoas. Então, o Republicanos, neste momento, Sr. Presidente, através de V.Exa. e do Deputado Leo Prates, se orgulha muito por esse avanço que faremos no dia de hoje. Muito obrigado."
+    },
     {
       "data": "2026-05-12T19:36",
       "fase": "Breves Comunicações",

@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
-  "score": 23.33,
-  "rank": 319,
+  "score": 24.57,
+  "rank": 345,
   "proposicoes": [
-    {
-      "id": 2619274,
-      "tipo": "PL",
-      "numero": 2054,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional dos Direitos das Pessoas LGBTQIA+ e dá outras providências.",
-      "data": "2026-04-28T19:33",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619274"
-    },
     {
       "id": 2627647,
       "tipo": "PL",
@@ -26,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627647"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-05-27T15:20",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. PAULO TEIXEIRA (Bloco/PT - SP. Sem revisão do orador.) - Boa tarde, Sr. Presidente, Sras. e Srs. Deputados, povo brasileiro. Hoje este Congresso Nacional, a Câmara dos Deputados, dá um passo par",
+      "transcricao": "O SR. PAULO TEIXEIRA (Bloco/PT - SP. Sem revisão do orador.) - Boa tarde, Sr. Presidente, Sras. e Srs. Deputados, povo brasileiro. Hoje este Congresso Nacional, a Câmara dos Deputados, dá um passo para o Brasil do futuro. Nós vamos diminuir a jornada de trabalho de 44 horas semanais para 40 horas semanais. Nós vamos terminar com o turno 6 por 1, para que os jovens, as mulheres trabalhadoras tenham lazer, tenham convivência, tenham descanso, possam ter tempo para suas vidas. Este é o Brasil do futuro, o Brasil governado pelo Presidente Lula. Hoje temos o melhor Índice de Desenvolvimento Humano da história do Brasil, com a diminuição da desigualdade. Ainda há muito para ser feito, mas este é o País que vai rumo ao futuro, pois diminui a desigualdade, cria oportunidades, diminui a jornada de trabalho. Esse Brasil do passado já foi e nunca mais pode querer voltar. Esse foi o Brasil que atacou os sindicatos, que acabou com a valorização do salário mínimo e que achatou os salários. Esse foi o Brasil do passado que quer voltar. Se um dia pudesse voltar, voltaria para aumentar a jornada de trabalho, para acabar com a valorização do salário mínimo e para aumentar as desigualdades sociais. Por isso que nós vamos dar um passo seguro hoje, ao diminuir a jornada de trabalho sem diminuir os salários, acabar com o turno 6 por 1 e criar mais empregos e mais oportunidades. Nós temos, Deputado Renildo Calheiros, o melhor salário mínimo da história do Brasil. Dá orgulho fazer parte desse momento de construção: melhor IDH, melhor salário mínimo, melhor massa salarial da história do Brasil. Por isso, nós temos que fazer este País ir para frente, e não retroceder com o Senador Flávio Bolsonaro, candidato que está metido na crise daquele Vorcaro, que assaltou os bancos brasileiros e que gerou um prejuízo enorme. Por isso, viva o Brasil do futuro! Pelo fim da jornada 6 por 1, pela diminuição da jornada de trabalho sem diminuir salários, pela valorização do salário mínimo e da massa salarial, por mais direitos e um País que construa um desenvolvimento onde caibam todos, por uma indústria moderna que faça a transição para uma economia da tecnologia digital, da inteligência artificial para todos."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",

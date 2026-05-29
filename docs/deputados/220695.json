@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-  "score": 33.32,
-  "rank": 64,
+  "score": 38.28,
+  "rank": 34,
   "proposicoes": [
-    {
-      "id": 2618548,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Institui o Programa Reintegra Brasil para acolhimento e reintegração de brasileiros natos ou naturalizados retornados ao país, e dá outras providências.",
-      "data": "2026-04-27T11:34",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618548"
-    },
     {
       "id": 2621757,
       "tipo": "SBT",
@@ -186,6 +177,42 @@
       "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL nº 6.638/2016, e do PL nº 1.413/2024, apensado, na forma do Substitutivo anexo.",
       "data": "2026-05-26T19:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627985"
+    },
+    {
+      "id": 2628188,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL nº 5.824/2025, e Projeto de Lei nº 1.661/2026, apensado, com Substitutivo.",
+      "data": "2026-05-27T11:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628188"
+    },
+    {
+      "id": 2628278,
+      "tipo": "SBT",
+      "numero": 6,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL nº 2.373, de 2023, e PL nº 6.204/2025, apensado, com substitutivo.",
+      "data": "2026-05-27T11:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628278"
+    },
+    {
+      "id": 2628916,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Emenda modificativa ao PL nº 6.659/2025 - Altera a Lei nº 8.987, de 13 de fevereiro de 1995 (Lei de Concessões e Permissões), para garantir a segurança contra a violência de gênero no transporte público.",
+      "data": "2026-05-28T14:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628916"
+    },
+    {
+      "id": 2628917,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 2026,
+      "ementa": "Emenda modificativa ao PL nº 6.659/2025 - Altera a Lei nº 8.987, de 13 de fevereiro de 1995 (Lei de Concessões e Permissões), para garantir a segurança contra a violência de gênero no transporte público",
+      "data": "2026-05-28T14:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628917"
     }
   ],
   "discursos": [

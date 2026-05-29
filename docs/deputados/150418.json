@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/150418.jpg",
-  "score": 30.24,
-  "rank": 109,
+  "score": 33.28,
+  "rank": 86,
   "proposicoes": [
-    {
-      "id": 2618587,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Altera o art. 6º da Lei nº 9.279, de 14 de maio de 1996, para dispor sobre a titularidade de invenções geradas de forma autônoma por sistemas de inteligência artificial.",
-      "data": "2026-04-27T12:11",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2618587"
-    },
     {
       "id": 2620475,
       "tipo": "SBT",
@@ -60,6 +51,33 @@
       "ementa": "Altera a Lei nº 4.117, de 27 de agosto de 1962, para obrigar que os aparelhos televisores comercializados no país contenham antena digital acoplada e demais componentes necessários para recepção de sinais de radiodifusão de sons e imagens.",
       "data": "2026-05-12T16:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624347"
+    },
+    {
+      "id": 2628294,
+      "tipo": "PL",
+      "numero": 2643,
+      "ano": 2026,
+      "ementa": "Altera os arts. 2º e 3º da Lei nº 14.790, de 29 de dezembro de 2023, e estabelece diretrizes de cooperação institucional entre o Ministério da Fazenda e a Comissão de Valores Mobiliários (CVM), para incluir os mercados de previsão como categoria regulável, definir competências de supervisão sobre plataformas híbridas e fortalecer os mecanismos de proteção ao consumidor e de integridade de mercado.",
+      "data": "2026-05-27T13:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628294"
+    },
+    {
+      "id": 2628376,
+      "tipo": "PL",
+      "numero": 2651,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a regulação dos mercados de previsão no Brasil, estabelece regras para plataformas digitais, proteção ao consumidor e integridade de mercado, e dá outras providências.",
+      "data": "2026-05-27T15:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628376"
+    },
+    {
+      "id": 2628378,
+      "tipo": "PL",
+      "numero": 2652,
+      "ano": 2026,
+      "ementa": "Dispõe sobre as vedações à participação de agentes públicos em mercados de previsão, visando prevenir o uso de informação privilegiada e o conflito de interesses.",
+      "data": "2026-05-27T15:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628378"
     }
   ],
   "discursos": [
@@ -83,13 +101,6 @@
       "tipo": "PELA ORDEM",
       "resumo": "O SR. MÁRCIO MARINHO (Bloco/REPUBLICANOS - BA. Pela ordem. Sem revisão do orador.) - A Câmara dos Deputados, na tarde desta quarta-feira, recebe duas grandes lideranças da cidade de Itacaré: o Vereado",
       "transcricao": "O SR. MÁRCIO MARINHO (Bloco/REPUBLICANOS - BA. Pela ordem. Sem revisão do orador.) - A Câmara dos Deputados, na tarde desta quarta-feira, recebe duas grandes lideranças da cidade de Itacaré: o Vereador Nego Day e o Vereador Breno Kadina. Ambos têm presença marcante na Câmara de Vereadores e na defesa dos interesses republicanos de cada munícipe daquela cidade. Quero aqui parabenizá-los pela vitória em 2024 e, ainda mais, pela postura que têm na defesa do desenvolvimento da nossa querida cidade de Itacaré. Sintam-se abraçados por esta Casa. Eu tenho certeza de que o povo de Itacaré está muito feliz com sua presença Câmara de Vereadores, representando-o. Sejam bem-vindos."
-    },
-    {
-      "data": "2026-04-28T18:04",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. MÁRCIO MARINHO (Bloco/REPUBLICANOS - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu queria me somar aqui à fala do Deputado Paulo Magalhães e parabenizar du",
-      "transcricao": "O SR. MÁRCIO MARINHO (Bloco/REPUBLICANOS - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu queria me somar aqui à fala do Deputado Paulo Magalhães e parabenizar duas grandes lideranças políticas da cidade de Itacaré, que são o ex-Prefeito Antônio de Anízio e o atual Prefeito, Nego de Saronga. A gente sabe o quanto essas duas gestões têm desenvolvido aquela cidade, dado ao povo um respeito muito grande e um tratamento diferenciado. E, hoje, aqui na Câmara dos Deputados, nós recebemos grandes Vereadores da nossa querida cidade: Pedro Reis, Pastor Gilberto, Djone Santos, o Presidente da Câmara Renilson, o Vice-Prefeito Washington Sampaio e o nosso Secretário Albert, que está aqui. Além deles, também estão aqui os Vereadores de Brumado Harley e Alípio, que estão aqui na Marcha dos Vereadores. Estando aqui, nós não poderíamos deixar de fazer menção ao nome deles, porque vieram aqui em busca de recursos para o Município de Brumado e para o Município de Itacaré. Sejam bem-vindos. Que Deus abençoe vocês."
     }
   ],
   "orgaos": [

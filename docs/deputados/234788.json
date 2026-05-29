@@ -4,18 +4,9 @@
   "partido": "REDE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/234788.jpg",
-  "score": 28.8,
-  "rank": 147,
+  "score": 27.89,
+  "rank": 223,
   "proposicoes": [
-    {
-      "id": 2619177,
-      "tipo": "PL",
-      "numero": 2048,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a adoção de medidas de prevenção à colisão de aves em superfícies transparentes e translúcidas ou refletivas em edificações e estruturas urbanas.",
-      "data": "2026-04-28T18:16",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619177"
-    },
     {
       "id": 2620026,
       "tipo": "PL",
@@ -33,9 +24,79 @@
       "ementa": "Limita os juros do crédito consignado nos bancos públicos federais; institui o Desenrola Consignado, com plataforma digital pública e busca ativa pelos bancos públicos; e cria o Extrato de Transparência Comparativa e a Portabilidade Simplificada Assistida.",
       "data": "2026-05-26T15:48",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627784"
+    },
+    {
+      "id": 2628351,
+      "tipo": "PL",
+      "numero": 2646,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Garantia de Renda e Promoção da Autonomia dos Povos Indígenas – PNGRAPI e cria o Benefício de Garantia de Renda Indígena – BGRI.",
+      "data": "2026-05-27T14:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628351"
+    },
+    {
+      "id": 2628353,
+      "tipo": "PL",
+      "numero": 2647,
+      "ano": 2026,
+      "ementa": "“Dispõe sobre a obrigatoriedade de adoção de medidas de proteção e resgate por produtores rurais para garantir a segurança de animais em canais de irrigação, e dá outras providências.”",
+      "data": "2026-05-27T14:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628353"
+    },
+    {
+      "id": 2628355,
+      "tipo": "PL",
+      "numero": 2648,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição da manutenção de zoológicos em território nacional, estabelece período de transição para sua desativação e determina a transferência dos animais para Centros de Reabilitação da Fauna (CRF) ou santuários, com visitação restrita, destinados à proteção, cuidado e readaptação de animais silvestres e exóticos. Aplica-se, igualmente, aos aquários e demais empreendimentos similares que mantenham fauna silvestre ou exótica em cativeiro para fins de visitação pública.",
+      "data": "2026-05-27T14:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628355"
+    },
+    {
+      "id": 2628370,
+      "tipo": "PL",
+      "numero": 2650,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Eletrificação do Transporte de Cargas e do Transporte Coletivo de Passageiros no Brasil e dá outras providências.",
+      "data": "2026-05-27T14:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628370"
+    },
+    {
+      "id": 2628734,
+      "tipo": "PL",
+      "numero": 2691,
+      "ano": 2026,
+      "ementa": "Institui o Sistema Nacional de Registro de Abordagens Policiais (SIRAP), estabelece normas gerais para registro eletrônico de abordagens policiais no âmbito do Sistema Único de Segurança Pública - SUSP e dá outras providências.",
+      "data": "2026-05-28T10:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628734"
+    },
+    {
+      "id": 2628892,
+      "tipo": "PL",
+      "numero": 2708,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 1.521, de 26 de dezembro de 1951, para reforçar a repressão à publicidade enganosa baseada em falsas alegações de comprovação científica e dá outras providências.",
+      "data": "2026-05-28T13:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628892"
+    },
+    {
+      "id": 2628894,
+      "tipo": "PL",
+      "numero": 2709,
+      "ano": 2026,
+      "ementa": "Institui a Lei de Responsabilidade na Difusão de Informações de Saúde Pública, altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), estabelece deveres de conduta para profissionais de saúde e regulamenta a veiculação de conteúdos de natureza médica e sanitária em meios de comunicação.",
+      "data": "2026-05-28T13:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628894"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-27T21:36",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. HELOÍSA HELENA (Bloco/REDE - RJ. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, há um verso antigo de Casaldáliga que diz: \"É preciso saber esperar, sabendo, ao mesmo tempo, forçar as h",
+      "transcricao": "A SRA. HELOÍSA HELENA (Bloco/REDE - RJ. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, há um verso antigo de Casaldáliga que diz: \"É preciso saber esperar, sabendo, ao mesmo tempo, forçar as horas de extrema urgência que não nos permitem esperar\". Esta bancada aqui, do PSOL e da REDE, trabalhou muito pelas 36 horas; trabalhamos para incorporá-las. As Deputadas Fernanda Melchionna e Sâmia Bomfim lutaram para que a carga horária das mulheres fosse menor e para incorporar o tempo de deslocamento das trabalhadoras e dos trabalhadores na contagem da carga de trabalho. Agora, se alguém ousa pensar que nós vamos esperar mais 38 anos para garantir as 36 horas, está enganado. Valeu, Rick! Viva a classe trabalhadora e a mobilização das trabalhadoras! O voto é \"sim\"."
+    },
     {
       "data": "2026-05-26T18:28",
       "fase": "Ordem do Dia",

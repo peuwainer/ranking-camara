@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220704.jpg",
-  "score": 11.55,
-  "rank": 494,
+  "score": 19.05,
+  "rank": 464,
   "proposicoes": [
-    {
-      "id": 2619274,
-      "tipo": "PL",
-      "numero": 2054,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional dos Direitos das Pessoas LGBTQIA+ e dá outras providências.",
-      "data": "2026-04-28T19:33",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2619274"
-    },
     {
       "id": 2623468,
       "tipo": "SBT",
@@ -33,9 +24,52 @@
       "ementa": "Declara o ofício e a culinária das mulheres marisqueiras do Brasil como manifestação da cultura nacional.",
       "data": "2026-05-20T15:59",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626412"
+    },
+    {
+      "id": 2628555,
+      "tipo": "PL",
+      "numero": 2678,
+      "ano": 2026,
+      "ementa": "Institui o Benefício de Reconhecimento do Trabalho de Cuidado Não Remunerado (BRTCNR) e altera a Lei nº 8.742, de 7 de dezembro de 1993.",
+      "data": "2026-05-27T19:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628555"
+    },
+    {
+      "id": 2628557,
+      "tipo": "PL",
+      "numero": 2679,
+      "ano": 2026,
+      "ementa": "Institui o Benefício de Cuidado Intensivo de Pessoa com Transtorno do Espectro Autista (BCITEA), destinado a cuidadores (as) primários (as) não remunerados (as) de pessoas com Transtorno do Espectro Autista (TEA) de nível de suporte 2 ou 3; regulamenta dispositivos da Lei nº 15.069, de 23 de dezembro de 2024; e dá outras providências.",
+      "data": "2026-05-27T19:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628557"
+    },
+    {
+      "id": 2628558,
+      "tipo": "PL",
+      "numero": 2680,
+      "ano": 2026,
+      "ementa": "Institui o Selo Audoção Segura para organizações e estabelecimentos que promovam a adoção responsável de cães com microchipagem e registro no Sistema do Cadastro Nacional de Animais Domésticos (SinPatinhas), e dá outras providências.",
+      "data": "2026-05-27T19:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628558"
+    },
+    {
+      "id": 2628560,
+      "tipo": "PL",
+      "numero": 2681,
+      "ano": 2026,
+      "ementa": "Altera o § 2º do art. 41 da Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para vedar a visita íntima ou conjugal ao preso condenado pelos crimes de estupro ou de estupro de vulnerável, previstos nos arts. 213 e 217-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal).",
+      "data": "2026-05-27T19:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628560"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-05-27T16:28",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. CAROL DARTORA (Bloco/PT - PR. Sem revisão da oradora.) - Boa tarde, senhoras e senhores, Presidente. Hoje nós estamos diante de uma escolha histórica: continuar naturalizando um modelo de traba",
+      "transcricao": "A SRA. CAROL DARTORA (Bloco/PT - PR. Sem revisão da oradora.) - Boa tarde, senhoras e senhores, Presidente. Hoje nós estamos diante de uma escolha histórica: continuar naturalizando um modelo de trabalho que adoece milhões de pessoas ou enfrentar uma lógica de exploração que retira da classe trabalhadora até o direito de viver. A escala 6 por 1 não é apenas uma jornada de trabalho, ela é um mecanismo de exaustão física, emocional e social. Ela rouba tempo de convivência familiar, rouba descanso, rouba saúde mental e rouba qualidade de vida. A escala 6 por 1 não é apenas uma jornada de trabalho, ela é um mecanismo de exaustão. E quando falamos dessa realidade, precisamos dizer com muita honestidade que quem mais sofre neste País são mulheres negras e periféricas, que estão nos empregos mais precarizados, mal remunerados e exaustivos do Brasil. São trabalhadoras do comércio, da limpeza, da saúde, da alimentação, do cuidado, que passam horas em pé enfrentando transportes lotados, baixos salários e jornadas desumanas. Não é aceitável que, em pleno século XXI, ainda exista quem trate descanso, lazer e tempo de vida como privilégios e não como direitos. Nós precisamos compreender que qualidade de vida também é pauta econômica. Trabalhadores adoecidos produzem menos, vivem pior e têm sua dignidade violentamente retirada todos os dias. Defender aqui o fim da escala 6 por 1 é defender um país justo e humano, um mercado de trabalho digno para todas as pessoas, que o trabalhador brasileiro merece mais do que sobreviver, merece dignidade, merece tempo com a sua família, merece tempo para a sua saúde, merece tempo para a realização dos seus sonhos, merece tempo para estudar, merece tempo de qualidade. É por isso que eu, hoje, aqui, reafirmo o meu total apoio ao fim da escala 6 por 1 e à construção de relações de trabalho justas, humanas e igualitárias. Muito obrigada. Eu peço que a minha fala seja divulgada nos canais de comunicação da Câmara e no programa A Voz do Brasil."
+    },
     {
       "data": "2026-05-26T17:52",
       "fase": "Ordem do Dia",
