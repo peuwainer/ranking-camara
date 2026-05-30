@@ -4,18 +4,9 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220598.jpg",
-  "score": 65.35,
+  "score": 67.45,
   "rank": 2,
   "proposicoes": [
-    {
-      "id": 2620026,
-      "tipo": "PL",
-      "numero": 2080,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a transparência e o controle no uso de aeronaves privadas por autoridades públicas, estabelece obrigações de declaração, submissão a procedimentos de segurança e alfandegários, e dá outras providências.",
-      "data": "2026-04-29T15:46",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2620026"
-    },
     {
       "id": 2621003,
       "tipo": "EMP",
@@ -519,6 +510,24 @@
       "ementa": "Suprima-se o inciso VI do art. 37 da Lei n. 8.245, de 18 de outubro de 1991, na redação dada pelo Art. 1º da Subemenda Substitutiva ao Substitutivo da Comissão de Trabalho, Administração e Serviço Público ao Projeto de Lei n. 462, de 2011.",
       "data": "2026-05-26T18:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627896"
+    },
+    {
+      "id": 2629230,
+      "tipo": "PL",
+      "numero": 2721,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.713, de 22 de dezembro de 1988, para explicitar a não incidência do imposto de renda sobre verbas de natureza indenizatória percebidas por profissionais do magistério.",
+      "data": "2026-05-28T19:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629230"
+    },
+    {
+      "id": 2629231,
+      "tipo": "PL",
+      "numero": 2722,
+      "ano": 2026,
+      "ementa": "Altera o art. 320 da Consolidação das Leis do Trabalho (CLT), para dispor sobre a composição da jornada de trabalho dos professores.",
+      "data": "2026-05-28T19:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629231"
     }
   ],
   "discursos": [

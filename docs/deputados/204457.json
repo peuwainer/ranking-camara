@@ -4,9 +4,19 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204457.jpg",
-  "score": 24.81,
-  "rank": 328,
-  "proposicoes": [],
+  "score": 25.2,
+  "rank": 300,
+  "proposicoes": [
+    {
+      "id": 2629216,
+      "tipo": "PL",
+      "numero": 2718,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a produção e fornecimento adequado de soros antipeçonhentos para atendimento nos postos de saúde e hospitais.",
+      "data": "2026-05-29T10:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629216"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-05-27T16:36",
