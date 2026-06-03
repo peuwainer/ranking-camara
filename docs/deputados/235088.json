@@ -4,8 +4,8 @@
   "partido": "SOLIDARIEDADE",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/235088.jpg",
-  "score": 42.84,
-  "rank": 12,
+  "score": 49.48,
+  "rank": 6,
   "proposicoes": [
     {
       "id": 2621555,
@@ -249,15 +249,130 @@
       "ementa": "Institui a Política Nacional de Inclusão Esportiva em Comunidades Rurais e dá outras providências.",
       "data": "2026-05-29T16:35",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629317"
+    },
+    {
+      "id": 2629494,
+      "tipo": "PL",
+      "numero": 2765,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.288, de 20 de julho de 2010, para promover a inclusão digital e a inclusão produtiva das comunidades quilombolas.",
+      "data": "2026-06-01T16:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629494"
+    },
+    {
+      "id": 2629504,
+      "tipo": "PL",
+      "numero": 2769,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Busca Ativa para Exames, Consultas e Procedimentos Não Realizados no âmbito do Sistema Único de Saúde (SUS) e dá outras providências.",
+      "data": "2026-06-01T17:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629504"
+    },
+    {
+      "id": 2629506,
+      "tipo": "PL",
+      "numero": 2771,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Desenvolvimento Humano e Capacitação Institucional de Municípios Vulneráveis e dá outras providências.",
+      "data": "2026-06-01T17:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629506"
+    },
+    {
+      "id": 2629510,
+      "tipo": "PL",
+      "numero": 2772,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Interiorização da Reabilitação Especializada e dá outras providências.",
+      "data": "2026-06-01T17:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629510"
+    },
+    {
+      "id": 2629546,
+      "tipo": "PL",
+      "numero": 2777,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Inclusão Digital Rural e dá outras providências.",
+      "data": "2026-06-01T19:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629546"
+    },
+    {
+      "id": 2629547,
+      "tipo": "PL",
+      "numero": 2778,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Navegação do Paciente no Sistema Único de Saúde (SUS) e dá outras providências.",
+      "data": "2026-06-01T19:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629547"
+    },
+    {
+      "id": 2629548,
+      "tipo": "PL",
+      "numero": 2779,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção Financeira da Pessoa Idosa e dá outras providências",
+      "data": "2026-06-01T19:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629548"
+    },
+    {
+      "id": 2629549,
+      "tipo": "PL",
+      "numero": 2780,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Reabilitação Itinerante no âmbito do Sistema Único de Saúde (SUS) e dá outras providências.",
+      "data": "2026-06-01T19:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629549"
+    },
+    {
+      "id": 2629550,
+      "tipo": "PL",
+      "numero": 2781,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Promoção do Uso Saudável, Seguro e Equilibrado de Tecnologias Digitais por Crianças e Adolescentes e dá outras providências.",
+      "data": "2026-06-01T19:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629550"
+    },
+    {
+      "id": 2629551,
+      "tipo": "PL",
+      "numero": 2782,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes para a ampliação da telessaúde especializada no âmbito do Sistema Único de Saúde (SUS) e dá outras providências.",
+      "data": "2026-06-01T19:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629551"
+    },
+    {
+      "id": 2629552,
+      "tipo": "PL",
+      "numero": 2783,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Transição para a Vida Adulta da Pessoa com Transtorno do Espectro Autista (TEA) e dá outras providências",
+      "data": "2026-06-01T19:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629552"
+    },
+    {
+      "id": 2629867,
+      "tipo": "PL",
+      "numero": 2833,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção à Saúde Mental Digital de Crianças e Adolescentes e o Direito à Desconexão Digital Infantojuvenil, e dá outras providências.",
+      "data": "2026-06-02T18:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629867"
     }
   ],
   "discursos": [
     {
+      "data": "2026-06-02T17:12",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. RIBEIRO NETO (SOLIDARIEDADE - MA. Sem revisão do orador.) - Boa tarde, Sr. Presidente, Srs. Deputados, galeria, profissionais da Casa. Sr. Presidente, eu venho a esta tribuna fazer uma breve pre",
+      "transcricao": "O SR. RIBEIRO NETO (SOLIDARIEDADE - MA. Sem revisão do orador.) - Boa tarde, Sr. Presidente, Srs. Deputados, galeria, profissionais da Casa. Sr. Presidente, eu venho a esta tribuna fazer uma breve prestação de contas do trabalho que nós desenvolvemos por São Luís, pelo Maranhão e pelo Brasil, ao longo desses meses de 2026. Quando cheguei a esta Casa, muita gente perguntou de onde vinha tamanha audácia e tamanha vontade de realizar, não só pelo meu Estado, mas também por toda a nossa nação. Do começo de fevereiro até o presente momento, nós apresentamos mais de cem projetos de lei, que vão do turismo, passando pela saúde, pelo desporto, pela cultura, até o agro. Então, o nosso trabalho é, de fato, voltado para todos os brasileiros, sem distinção. Chego a este dia sem uma falta. Desde que eu comecei a minha vida legislativa, ainda como Vereador da capital do Estado do Maranhão, uma metrópole com mais de 1 milhão de habitantes, até o presente momento, a gente não obteve nenhuma falta. É claro que é uma obrigação, mas nem todos têm essa compreensão. A gente entende que nós somos pagos com dinheiro público, com dinheiro de tributo, com dinheiro do contribuinte. Foram mais de cem projetos de lei, e, lá atrás, como Vereador, foram 113 leis aprovadas em uma única legislatura, dentre elas o Fundo Municipal de Combate ao Câncer, que, em apenas 5 anos, já destinou milhões de reais aos hospitais que fazem tratamento oncológico. Nós temos também o Instituto Jovens do Futuro, que é muito bem presidido pelo Daniel Pinheiro e abraça mais de 2 mil crianças e adolescentes através do esporte, da arte, da música e da educação, com mais de 1 dezena de especialidades. A gente faz um trabalho também voltado para a saúde e para as crianças e adolescentes com o transtorno do espectro autista. V.Exa., Deputado, que é do Norte, sabe  eu sou do Nordeste, mas ali Pará e Maranhão são meio que coirmãos  que o nosso povo precisa de política pública efetiva. Muitas das vezes o Estado não consegue chegar aos locais mais longínquos, e a gente, através do Poder Legislativo e também do terceiro setor, em que a gente atua através do nosso Instituto Jovens do Futuro, chega à ponta, levando cidadania, levando dignidade a crianças, adolescentes, mulheres e famílias que passam por momentos de vulnerabilidade social. Então, isso é mais para que a gente possa dar uma resposta ao povo brasileiro de que a gente está aqui para fazer um trabalho digno, um trabalho forte, voltado para as pessoas e voltado, sobretudo, para quem mais precisa e também em favor das minorias. É em favor do povo, é pelo povo que a gente está aqui no Congresso Nacional brasileiro, para continuar fazendo o futuro agora, porque a gente entende que o patrão do político é o povo, e o futuro precisa continuar sendo feito agora. Muito obrigado, Sr. Presidente. Muito obrigado a todos. Que Deus nos abençoe."
+    },
+    {
       "data": "2026-05-27T23:24",
       "fase": "Ordem do Dia",
       "tipo": "PELA ORDEM",
-      "resumo": "O SR. RIBEIRO NETO (SOLIDARIEDADE - MA. Pela ordem. Sem revisão do orador.) - Sou do Solidariedade, Sr. Presidente. Pela luta que nós empenhamos desde o primeiro dia do nosso mandato, naturalmente o S",
-      "transcricao": "O SR. RIBEIRO NETO (SOLIDARIEDADE - MA. Pela ordem. Sem revisão do orador.) - Sou do Solidariedade, Sr. Presidente. Pela luta que nós empenhamos desde o primeiro dia do nosso mandato, naturalmente o Solidariedade orienta \"sim\", pelo fim desta escala que tanto escraviza o povo brasileiro. E eu sou muito grato por fazer parte desta história. Também quero parabenizar V.Exa. pela grande condução deste dia histórico para todo o povo brasileiro, em especial para os trabalhadores brasileiros. A orientação é \"sim\", pelo fim da escala 6 por 1."
+      "resumo": "O SR. RIBEIRO NETO (SOLIDARIEDADE - MA. Pela ordem. Sem revisão do orador.) - O Solidariedade. Sr. Presidente, pela luta que nós empenhamos desde o primeiro dia do nosso mandato, naturalmente orientam",
+      "transcricao": "O SR. RIBEIRO NETO (SOLIDARIEDADE - MA. Pela ordem. Sem revisão do orador.) - O Solidariedade. Sr. Presidente, pela luta que nós empenhamos desde o primeiro dia do nosso mandato, naturalmente orientamos \"sim\", pelo fim desta escala que tanto escraviza o povo brasileiro. Eu sou muito grato por fazer parte desta história. Também quero parabenizá-lo, Sr. Presidente, pela grande condução deste dia histórico para todo o povo brasileiro, em especial para os trabalhadores. A orientação do Solidariedade é \"sim\", pelo fim da escala 6 por 1."
     },
     {
       "data": "2026-05-26T18:36",

@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 36.56,
-  "rank": 44,
+  "score": 41.32,
+  "rank": 18,
   "proposicoes": [
     {
       "id": 2621621,
@@ -222,6 +222,87 @@
       "ementa": "Altera a Lei n° 10.973, de 2 de dezembro de 2004, a Lei n° 8.958, de 20 de dezembro de 1994, e a Lei nº 8.032, de 12 de abril de 1990, para aprimorar a definição e a atuação das ICTs nas atividades de ciência, tecnologia e inovação, e dá outras providências.",
       "data": "2026-05-28T10:46",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628796"
+    },
+    {
+      "id": 2629635,
+      "tipo": "PL",
+      "numero": 2802,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Transparência e Igualdade de Acesso da Pessoa Idosa à Saúde Suplementar, altera a Lei nº 9.656, de 3 de junho de 1998, e dá outras providências.",
+      "data": "2026-06-02T13:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629635"
+    },
+    {
+      "id": 2629642,
+      "tipo": "PL",
+      "numero": 2804,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção à Continuidade Assistencial da Pessoa Idosa na Saúde Suplementar, altera a Lei nº 9.656, de 3 de junho de 1998, e dá outras providências.",
+      "data": "2026-06-02T13:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629642"
+    },
+    {
+      "id": 2629768,
+      "tipo": "PL",
+      "numero": 2815,
+      "ano": 2026,
+      "ementa": "Institui diretrizes para inclusão facultativa de pais e mães economicamente dependentes nos programas e sistemas de assistência à saúde destinados a servidores públicos e dá outras providências.",
+      "data": "2026-06-02T15:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629768"
+    },
+    {
+      "id": 2629769,
+      "tipo": "PL",
+      "numero": 2816,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção da Pessoa Idosa na Saúde Suplementar, estabelece direitos específicos dos consumidores idosos beneficiários de planos privados de assistência à saúde, cria mecanismos de transparência, proteção contratual, fiscalização e educação financeira, e dá outras providências.",
+      "data": "2026-06-02T15:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629769"
+    },
+    {
+      "id": 2629770,
+      "tipo": "PL",
+      "numero": 2817,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Transparência dos Reajustes Aplicados aos Beneficiários Idosos de Planos Privados de Assistência à Saúde, altera a Lei nº 9.656, de 3 de junho de 1998, e dá outras providências.",
+      "data": "2026-06-02T15:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629770"
+    },
+    {
+      "id": 2629771,
+      "tipo": "PL",
+      "numero": 2818,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Garantia do Atendimento Humano à Pessoa Idosa em Serviços Essenciais e Digitais, estabelece o direito de opção por atendimento humano para pessoas idosas e dá outras providências.",
+      "data": "2026-06-02T15:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629771"
+    },
+    {
+      "id": 2629884,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre incentivos fiscais à instalação e operação de empresas em regiões de fronteira e terras indígenas, com vistas à geração de emprego para jovens e povos originários, e dá outras providências.",
+      "data": "2026-06-02T18:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629884"
+    },
+    {
+      "id": 2629886,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Aviso de Transparência Trabalhista para empregadores inscritos no Cadastro de Empregadores que tenham submetido trabalhadores a condições análogas às de escravo, veda a concessão de crédito com recursos públicos a empresas desse Cadastro, e dá outras providências.",
+      "data": "2026-06-02T18:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629886"
+    },
+    {
+      "id": 2629894,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Nacional de Formação Profissional Especializada e Acessível em Empreendedorismo para Jovens com Deficiência, estabelece a obrigatoriedade de oferta de currículos adaptados e formação técnica acessível em empreendedorismo digital e presencial, e dá outras providências.",
+      "data": "2026-06-02T18:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629894"
     }
   ],
   "discursos": [],

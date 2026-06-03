@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
-  "score": 33.65,
-  "rank": 72,
+  "score": 34.06,
+  "rank": 68,
   "proposicoes": [
     {
       "id": 2620680,
@@ -87,6 +87,15 @@
       "ementa": "Altera a Lei nº 8.112, de 11 de dezembro de 1990, para assegurar a manutenção das vantagens pecuniárias acessórias ao servidor público beneficiário de horário especial em razão de deficiência própria ou de cônjuge, filho, companheiro ou dependente com deficiência ou Transtorno do Espectro Autista.",
       "data": "2026-05-27T20:54",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628660"
+    },
+    {
+      "id": 2629812,
+      "tipo": "PL",
+      "numero": 2830,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.751, de 12 de dezembro de 2023, para instituir normas gerais sobre a Indenização por Supressão de Folga Operacional devida aos policiais militares e bombeiros militares dos Estados, do Distrito Federal e dos Territórios.",
+      "data": "2026-06-02T17:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629812"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220557.jpg",
-  "score": 29.86,
-  "rank": 156,
+  "score": 30.34,
+  "rank": 145,
   "proposicoes": [
     {
       "id": 2623400,
@@ -51,6 +51,15 @@
       "ementa": "Institui o Dia Nacional em Memória à Associação Chapecoense de Futebol e dá outras providências.",
       "data": "2026-05-29T16:12",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629312"
+    },
+    {
+      "id": 2629589,
+      "tipo": "PL",
+      "numero": 2787,
+      "ano": 2026,
+      "ementa": "Confere ao Município de Ilhota, no Estado de Santa Catarina, o título de Capital Nacional da Lingerie.",
+      "data": "2026-06-02T11:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629589"
     }
   ],
   "discursos": [],

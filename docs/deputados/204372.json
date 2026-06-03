@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204372.jpg",
-  "score": 37.43,
-  "rank": 36,
+  "score": 38.37,
+  "rank": 33,
   "proposicoes": [
     {
       "id": 2621070,
@@ -105,6 +105,24 @@
       "ementa": "Altera a Lei nº 13.260, de 2016, para tipificar o discurso terrorista.",
       "data": "2026-05-26T20:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628123"
+    },
+    {
+      "id": 2629698,
+      "tipo": "PL",
+      "numero": 2807,
+      "ano": 2026,
+      "ementa": "Institui o Dia Nacional de Conscientização sobre a Ataxia de Friedreich.",
+      "data": "2026-06-02T14:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629698"
+    },
+    {
+      "id": 2629766,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.260, de 2016, para tipificar o discurso terrorista",
+      "data": "2026-06-02T15:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629766"
     }
   ],
   "discursos": [],

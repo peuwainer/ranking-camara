@@ -4,8 +4,8 @@
   "partido": "PV",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220533.jpg",
-  "score": 25.29,
-  "rank": 294,
+  "score": 25.83,
+  "rank": 275,
   "proposicoes": [
     {
       "id": 2622346,
@@ -24,6 +24,15 @@
       "ementa": "Institui a Política Nacional de Proteção e Apoio às Mães Solo e estabelece diretrizes para a integração de políticas públicas voltadas à promoção da dignidade, autonomia e proteção social dessas famílias.",
       "data": "2026-05-06T17:10",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622349"
+    },
+    {
+      "id": 2629782,
+      "tipo": "PLP",
+      "numero": 153,
+      "ano": 2026,
+      "ementa": "Regulamenta a aposentadoria especial dos agentes comunitários de saúde e dos agentes de combate às endemias, prevista no § 10 do art. 198 da Constituição Federal..",
+      "data": "2026-06-02T16:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629782"
     }
   ],
   "discursos": [],

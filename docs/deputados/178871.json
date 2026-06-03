@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178871.jpg",
-  "score": 49.34,
-  "rank": 6,
+  "score": 49.23,
+  "rank": 7,
   "proposicoes": [
     {
       "id": 2621038,
@@ -267,6 +267,15 @@
       "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos decorrentes de choques extraordinários no mercado internacional de energia.",
       "data": "2026-05-27T22:10",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628690"
+    },
+    {
+      "id": 2629601,
+      "tipo": "EMP",
+      "numero": 8,
+      "ano": 0,
+      "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
+      "data": "2026-06-02T09:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629601"
     }
   ],
   "discursos": [

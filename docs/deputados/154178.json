@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/154178.jpg",
-  "score": 25.06,
-  "rank": 308,
+  "score": 25.6,
+  "rank": 285,
   "proposicoes": [
     {
       "id": 2623410,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 8.137, de 27 de dezembro de 1990, para tipificar a conduta de elevar, sem justa causa, o preço dos bens de utilidade pública de que trata o art. 1º, § 1º, da Lei nº 9.847, de 26 de outubro de 1999, e dá outras providências.",
       "data": "2026-05-19T09:44",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625636"
+    },
+    {
+      "id": 2629601,
+      "tipo": "EMP",
+      "numero": 8,
+      "ano": 0,
+      "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
+      "data": "2026-06-02T09:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629601"
     }
   ],
   "discursos": [],

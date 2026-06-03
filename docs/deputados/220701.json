@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220701.jpg",
-  "score": 26.82,
-  "rank": 245,
+  "score": 27.32,
+  "rank": 231,
   "proposicoes": [
     {
       "id": 2621062,
@@ -42,6 +42,15 @@
       "ementa": "Parecer do Relator, Dep. Delegado Matheus Laiola (UNIÃO-PR), pela aprovação deste, e do Substitutivo adotado pela CTRAB, com substitutivo.",
       "data": "2026-05-12T18:50",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623974"
+    },
+    {
+      "id": 2629706,
+      "tipo": "PL",
+      "numero": 2808,
+      "ano": 2026,
+      "ementa": "Requer, nos termos regimentais, a coautoria do Projeto de Lei nº 177, de 2023.",
+      "data": "2026-06-02T15:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629706"
     }
   ],
   "discursos": [],

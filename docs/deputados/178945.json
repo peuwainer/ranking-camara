@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178945.jpg",
-  "score": 22.94,
-  "rank": 397,
+  "score": 23.51,
+  "rank": 379,
   "proposicoes": [],
   "discursos": [
     {
@@ -48,6 +48,12 @@
       "sigla": "CPASF",
       "cargo": "Suplente",
       "desde": "2026-04-23T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
+      "desde": "2026-06-02T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178945/votacoes-nominais-plenario/2026"

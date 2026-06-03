@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220654.jpg",
-  "score": 38.91,
-  "rank": 28,
+  "score": 40.01,
+  "rank": 23,
   "proposicoes": [
     {
       "id": 2622291,
@@ -51,6 +51,15 @@
       "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
       "data": "2026-05-14T14:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
+    },
+    {
+      "id": 2629424,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 2026,
+      "ementa": "Institui o Programa Celular Seguro, visando ao combate ao furto, ao roubo e à receptação de dispositivos móveis.",
+      "data": "2026-06-01T12:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629424"
     }
   ],
   "discursos": [],
@@ -120,6 +129,12 @@
       "sigla": "CCULT",
       "cargo": "Titular",
       "desde": "2026-04-29T00:00"
+    },
+    {
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
+      "cargo": "Titular",
+      "desde": "2026-06-02T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220654/votacoes-nominais-plenario/2026"

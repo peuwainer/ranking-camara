@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204520.jpg",
-  "score": 30.46,
-  "rank": 136,
+  "score": 30.88,
+  "rank": 130,
   "proposicoes": [
     {
       "id": 2621586,
@@ -69,6 +69,15 @@
       "ementa": "Emenda ao Projeto de Lei Complementar nº 114, de 2026.",
       "data": "2026-05-26T18:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627925"
+    },
+    {
+      "id": 2629601,
+      "tipo": "EMP",
+      "numero": 8,
+      "ano": 0,
+      "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
+      "data": "2026-06-02T09:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629601"
     }
   ],
   "discursos": [

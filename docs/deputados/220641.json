@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220641.jpg",
-  "score": 30.4,
-  "rank": 139,
+  "score": 31.39,
+  "rank": 115,
   "proposicoes": [
     {
       "id": 2621088,
@@ -78,6 +78,24 @@
       "ementa": "",
       "data": "2026-05-19T19:40",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625985"
+    },
+    {
+      "id": 2629739,
+      "tipo": "PL",
+      "numero": 2811,
+      "ano": 2026,
+      "ementa": "Dispõe sobre medidas destinadas a assegurar o adimplemento de prestação alimentícia, institui a retenção de ativos financeiros, a interceptação da restituição do imposto sobre a renda da pessoa física e a retenção de prêmios de apostas de quota fixa, prevê medidas restritivas aplicáveis ao devedor de alimentos, cria o Cadastro Nacional de Devedores de Alimentos e altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), e a Lei nº 14.790, de 29 de dezembro de 2023.",
+      "data": "2026-06-02T15:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629739"
+    },
+    {
+      "id": 2629742,
+      "tipo": "PL",
+      "numero": 2812,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), e a Lei nº 14.597, de 14 de junho de 2023 (Lei Geral do Esporte), para autorizar a restrição judicial de acesso a eventos esportivos como medida executiva coercitiva destinada à satisfação de obrigação alimentar inadimplida.",
+      "data": "2026-06-02T15:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629742"
     }
   ],
   "discursos": [

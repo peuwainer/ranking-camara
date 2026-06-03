@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 41.92,
-  "rank": 17,
+  "score": 43.21,
+  "rank": 12,
   "proposicoes": [
     {
       "id": 2620762,
@@ -186,6 +186,33 @@
       "ementa": "Altera a Lei n.º 13.756, de 12 de dezembro de 2018, a Lei nº 7.998, de 11 de janeiro de 1990, a Lei nº 9.818, de 23 de agosto de 1999, e a Lei nº 7.560, de 19 de dezembro de 1986, para dispor sobre a construção, reforma, ampliação e modernização de penitenciárias federais, e dá outras providências",
       "data": "2026-05-28T12:27",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628936"
+    },
+    {
+      "id": 2629559,
+      "tipo": "PL",
+      "numero": 2785,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para ampliar a proteção penal contra maus-tratos aos animais, endurecer as penas para atos de crueldade injustificada, instituir medidas de proteção e responsabilização e criar o Cadastro Nacional de Condenados por Crimes de Maus-Tratos contra Animais.",
+      "data": "2026-06-02T09:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629559"
+    },
+    {
+      "id": 2629567,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 7.713, de 22 de dezembro de 1988, para conceder isenção do Imposto sobre a Renda da Pessoa Física aos profissionais da segurança pública, nos termos do art. 144 da Constituição Federal.",
+      "data": "2026-06-01T14:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629567"
+    },
+    {
+      "id": 2629888,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, para instituir, no âmbito do Sistema Único de Segurança Pública (SUSP), o Programa Nacional de Capacitação em Comunicação Operativa (PRONCOMOP).",
+      "data": "2026-06-02T14:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629888"
     }
   ],
   "discursos": [
