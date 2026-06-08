@@ -4,18 +4,9 @@
   "partido": "PODE",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 41.32,
-  "rank": 18,
+  "score": 57.18,
+  "rank": 3,
   "proposicoes": [
-    {
-      "id": 2621621,
-      "tipo": "PLP",
-      "numero": 127,
-      "ano": 2026,
-      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para dispor sobre a devolução de tributos incidentes sobre aquisições por famílias de baixa renda domiciliadas na região Norte de gasolina e suas correntes, óleo diesel e suas correntes, e biodiesel.",
-      "data": "2026-05-05T18:03",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621621"
-    },
     {
       "id": 2623400,
       "tipo": "PEC",
@@ -303,6 +294,51 @@
       "ementa": "Institui o Programa Nacional de Formação Profissional Especializada e Acessível em Empreendedorismo para Jovens com Deficiência, estabelece a obrigatoriedade de oferta de currículos adaptados e formação técnica acessível em empreendedorismo digital e presencial, e dá outras providências.",
       "data": "2026-06-02T18:01",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629894"
+    },
+    {
+      "id": 2630037,
+      "tipo": "PL",
+      "numero": 2869,
+      "ano": 2026,
+      "ementa": "Institui o Estatuto da Acessibilidade Digital da Pessoa Idosa, estabelece direitos, garantias e padrões mínimos de acessibilidade em ambientes digitais públicos e privados, e dá outras providências.",
+      "data": "2026-06-03T15:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630037"
+    },
+    {
+      "id": 2630038,
+      "tipo": "PL",
+      "numero": 2870,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção contra a Exclusão Digital da Pessoa Idosa, estabelece garantias de acesso alternativo a serviços essenciais e dá outras providências.",
+      "data": "2026-06-03T15:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630038"
+    },
+    {
+      "id": 2630039,
+      "tipo": "PL",
+      "numero": 2871,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Autonomia Digital da Pessoa Idosa, estabelece diretrizes para promoção da inclusão, acessibilidade, segurança e cidadania digital da população idosa e dá outras providências.",
+      "data": "2026-06-03T15:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630039"
+    },
+    {
+      "id": 2630048,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a instalação obrigatória de dispositivos de segurança nas piscinas coletivas.",
+      "data": "2026-06-03T15:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630048"
+    },
+    {
+      "id": 2630065,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Estabelece a prioridade especial na tramitação de processos que tenham por objeto a apuração de abandono de pessoa idosa.",
+      "data": "2026-06-03T15:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630065"
     }
   ],
   "discursos": [],

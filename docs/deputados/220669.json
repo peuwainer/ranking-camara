@@ -4,27 +4,9 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220669.jpg",
-  "score": 20.42,
-  "rank": 444,
+  "score": 23.4,
+  "rank": 426,
   "proposicoes": [
-    {
-      "id": 2621388,
-      "tipo": "PLP",
-      "numero": 126,
-      "ano": 2026,
-      "ementa": "Concede redução das alíquotas do IBS e CBS a hospital privado não filantrópico que preste serviços ao SUS.",
-      "data": "2026-05-05T15:38",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621388"
-    },
-    {
-      "id": 2621649,
-      "tipo": "PL",
-      "numero": 2194,
-      "ano": 2026,
-      "ementa": "Tipifica o crime de injúria contra pessoa com deficiência, por meio de ridicularização, menosprezo ou humilhação motivados por capacitismo.",
-      "data": "2026-05-05T18:39",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621649"
-    },
     {
       "id": 2624040,
       "tipo": "PL",
@@ -78,6 +60,15 @@
       "ementa": "Altera a Lei dos Planos de Saúde para estabelecer prazos máximos de resposta às solicitações de autorização de cobertura assistencial, disciplinar deveres de transparência e fundamentação das negativas de cobertura e prever mecanismos de responsabilização administrativa das operadoras e de seus controladores, bem como altera o Código Penal, para tipificar o descumprimento injustificado de ordem judicial relacionada à saúde.",
       "data": "2026-06-02T11:11",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629593"
+    },
+    {
+      "id": 2629944,
+      "tipo": "PL",
+      "numero": 2851,
+      "ano": 2026,
+      "ementa": "Altera a Lei dos Planos de Saúde, para limitar a cobrança mensal de coparticipação ou de franquia a 10% (dez por cento) do valor da mensalidade do plano privado de assistência à saúde.",
+      "data": "2026-06-03T10:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629944"
     }
   ],
   "discursos": [],

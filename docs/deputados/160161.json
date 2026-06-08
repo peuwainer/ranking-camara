@@ -4,18 +4,9 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160161.jpg",
-  "score": 24.81,
-  "rank": 325,
+  "score": 26.11,
+  "rank": 340,
   "proposicoes": [
-    {
-      "id": 2621062,
-      "tipo": "EMP",
-      "numero": 7,
-      "ano": 0,
-      "ementa": "Institui a Política Nacional de Redução de Acidentes de Fauna.",
-      "data": "2026-05-05T11:13",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621062"
-    },
     {
       "id": 2627618,
       "tipo": "SBT",
@@ -35,15 +26,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629706"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-05-05T17:20",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. MARCELO QUEIROZ (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Presidente, quero saudar e parabenizar sua Presidência e falar de dois momentos históricos que a gente viveu hoje aqui nes",
-      "transcricao": "O SR. MARCELO QUEIROZ (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Presidente, quero saudar e parabenizar sua Presidência e falar de dois momentos históricos que a gente viveu hoje aqui nesta Casa. Estou aqui com a Presidente do Conselho Federal de Medicina Veterinária e com vários representantes do setor, e hoje foram conquistadas duas grandes vitórias. A primeira é a que a gente aprovou na CCJ, em fase terminativa  vai ao Senado Federal , um projeto exatamente para lutar pela qualidade da medicina veterinária: a aprovação do exame de certificação na medicina veterinária, algo inédito. E a segunda, que também contou com todo o apoio da Associação dos Zootecnistas do Brasil, é a equiparação do salário dos zootecnistas ao salário dos médicos veterinários. Queria aqui, na sua Presidência, apresentar todas estas pessoas que foram essenciais para que isso fosse possível. Parabéns, médicos veterinários! Parabéns, zootecnistas! Parabéns a quem ama os animais! Esta também é uma vitória da bancada dos que amam os animais. Então, parabéns, sejam muito felizes e vamos trabalhar agora a aprovação no Senado. Obrigado."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão de Legislação Participativa",

@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204459.jpg",
-  "score": 27.65,
-  "rank": 215,
+  "score": 31.04,
+  "rank": 168,
   "proposicoes": [
-    {
-      "id": 2622164,
-      "tipo": "EMP",
-      "numero": 3,
-      "ano": 0,
-      "ementa": "Altera o art. 2º do Projeto de Lei nº 3.984 de 2025, para elevar a pena do crime de estupro de vulnerável, previsto no art. 217-A do Código Penal.",
-      "data": "2026-05-06T13:16",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622164"
-    },
     {
       "id": 2624705,
       "tipo": "PL",
@@ -51,6 +42,15 @@
       "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para dispor sobre a proteção da saúde mental, do consumidor e da economia familiar no ambiente de apostas de quota fixa e jogos online, com ênfase na prevenção e redução de danos, e dá outras providências.",
       "data": "2026-05-19T17:06",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625893"
+    },
+    {
+      "id": 2630076,
+      "tipo": "PL",
+      "numero": 2881,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para estabelecer medidas de segurança e assistência à pessoa idosa no embarque e desembarque em transporte aéreo.",
+      "data": "2026-06-03T18:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630076"
     }
   ],
   "discursos": [],

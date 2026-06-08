@@ -4,36 +4,9 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141421.jpg",
-  "score": 23.57,
-  "rank": 377,
+  "score": 27.14,
+  "rank": 301,
   "proposicoes": [
-    {
-      "id": 2621320,
-      "tipo": "PLP",
-      "numero": 125,
-      "ano": 2026,
-      "ementa": "Concede redução das alíquotas do IBS e CBS a hospital privado não filantrópico que preste serviços ao SUS.",
-      "data": "2026-05-05T15:29",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621320"
-    },
-    {
-      "id": 2621388,
-      "tipo": "PLP",
-      "numero": 126,
-      "ano": 2026,
-      "ementa": "Concede redução das alíquotas do IBS e CBS a hospital privado não filantrópico que preste serviços ao SUS.",
-      "data": "2026-05-05T15:38",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621388"
-    },
-    {
-      "id": 2621649,
-      "tipo": "PL",
-      "numero": 2194,
-      "ano": 2026,
-      "ementa": "Tipifica o crime de injúria contra pessoa com deficiência, por meio de ridicularização, menosprezo ou humilhação motivados por capacitismo.",
-      "data": "2026-05-05T18:39",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621649"
-    },
     {
       "id": 2624040,
       "tipo": "PL",
@@ -87,6 +60,15 @@
       "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
       "data": "2026-06-02T09:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629601"
+    },
+    {
+      "id": 2629944,
+      "tipo": "PL",
+      "numero": 2851,
+      "ano": 2026,
+      "ementa": "Altera a Lei dos Planos de Saúde, para limitar a cobrança mensal de coparticipação ou de franquia a 10% (dez por cento) do valor da mensalidade do plano privado de assistência à saúde.",
+      "data": "2026-06-03T10:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629944"
     }
   ],
   "discursos": [],

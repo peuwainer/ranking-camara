@@ -4,18 +4,9 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg",
-  "score": 37.86,
-  "rank": 37,
+  "score": 39.88,
+  "rank": 32,
   "proposicoes": [
-    {
-      "id": 2623171,
-      "tipo": "PL",
-      "numero": 2273,
-      "ano": 2026,
-      "ementa": "Institui a Lei Maria da Penha Digital, que dispõe sobre a proteção das mulheres contra a violência de gênero praticada em ambientes digitais, estabelece obrigações para provedores de redes sociais, cria mecanismos de prevenção, atendimento e responsabilização, e altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha).",
-      "data": "2026-05-08T10:32",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623171"
-    },
     {
       "id": 2623570,
       "tipo": "SBT",
@@ -71,15 +62,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629844"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-05-06T20:20",
-      "fase": "Ordem do Dia",
-      "tipo": "COMO LÍDER",
-      "resumo": "A SRA. SÂMIA BOMFIM (Bloco/PSOL - SP. Como Líder. Sem revisão da oradora.) - Obrigada, Presidente. Nós temos muita preocupação com o tema dos minerais estratégicos e, sobretudo, com a temática das ter",
-      "transcricao": "A SRA. SÂMIA BOMFIM (Bloco/PSOL - SP. Como Líder. Sem revisão da oradora.) - Obrigada, Presidente. Nós temos muita preocupação com o tema dos minerais estratégicos e, sobretudo, com a temática das terras raras, porque hoje é um tema central, inclusive em uma discussão geopolítica internacional. O Governo Trump apresentou o plano America First, que foi criado pelo Departamento de Segurança dos Estados Unidos. Nele, deixaram explícita que eles têm como meta eliminar dependências externas de matéria-prima aos produtos acabados. Portanto, as terras raras são centrais para o projeto de desenvolvimento e de dominação dos Estados Unidos. O Brasil é o segundo país que mais tem terras raras, só perdendo para a China. Temos cerca de 23% do total global. A gente está falando de um elemento extremamente estratégico, inclusive para a produção tecnológica de ponta. Estamos falando de produção de materiais de defesa, de carros elétricos, por exemplo. Então, se a gente fosse abordar esse tema com a atenção e com a qualidade devidas, a gente, sim, deveria estar pensando, em primeiro lugar, em uma empresa brasileira que pudesse dar conta de todo o processo, desde o processo inicial, de extrativismo, até o processo de produção, de agregação de valor, para se pensar em qualquer modelo de exportação. E, claro, devíamos garantir que toda a riqueza seja do povo brasileiro e do território nacional. Da forma como está explícito no projeto e no relatório, não há nenhuma garantia de que o nosso País ou empresas brasileiras detenham o controle das terras raras e do que vai ser feito delas. Na prática, o Brasil facilita, financia e certifica, mas é uma empresa estrangeira que extrai, processa, define para onde vai a produção e quem lucra com ela. Por isso, nós orientamos contra esse projeto. Reafirmamos que o projeto do Deputado Pedro Uczai, assinado por outros colegas, define justamente isto: a criação da Terrabras e quais são os critérios de exploração, exportação e desenvolvimento. Esse tema, inclusive, preocupa Trump. E nos preocupa a reunião de amanhã entre o Presidente Lula e Trump. Sabemos que, por parte do Governo dos Estados Unidos, as terras raras podem estar sobre a mesa. Houve um processo de venda da única empresa em Goiás que explorava um dos territórios mais ricos em terras raras do Brasil. A operação, de cerca de 2,8 bilhões de reais, beneficiou uma empresa dos Estados Unidos. Nós, inclusive, acionamos a Procuradoria-Geral da República, porque a Constituição Federal é explícita quando trata de terras da União. Portanto, um tipo de operação como essa não pode ser feita por uma transação simples, sem a devida autorização do Congresso Nacional. O que nós tememos, Deputada Duda  V.Exa. tem uma atuação fundamental nesse tema no Estado de Minas Gerais , é que esse projeto legitime e crie definições legais para que operações como as que ocorreram com as terras raras em Goiás se perpetuem.Eu tenho muito receio de que, em alguns anos, a gente arrependa profundamente do que está votando no dia de hoje. Trata-se de um aspecto estratégico. Isso vai ferir sobremaneira a nossa soberania e a nossa capacidade desenvolvimento tecnológico e produtivo."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo das razões do aumento de denúncias de violência obstétrica e a alta taxa de morte materna no Brasil",

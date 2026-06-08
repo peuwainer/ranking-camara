@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74400.jpg",
-  "score": 23.52,
-  "rank": 378,
+  "score": 26.33,
+  "rank": 328,
   "proposicoes": [
-    {
-      "id": 2622868,
-      "tipo": "PL",
-      "numero": 2258,
-      "ano": 2026,
-      "ementa": "Veda a exploração, a oferta e a publicidade de jogos de azar baseados em resultado gerado por sistema eletrônico ou algoritmo, operados por meio digital ou pela internet no território nacional, revoga o art. 3º, inciso II, da Lei nº 14.790, de 29 de dezembro de 2023, e dá outras providências.",
-      "data": "2026-05-07T10:27",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622868"
-    },
     {
       "id": 2625767,
       "tipo": "PL",
@@ -51,6 +42,15 @@
       "ementa": "Emenda de Plenário.",
       "data": "2026-06-02T13:42",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629639"
+    },
+    {
+      "id": 2629960,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Emenda de Plenário.",
+      "data": "2026-06-03T11:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629960"
     }
   ],
   "discursos": [

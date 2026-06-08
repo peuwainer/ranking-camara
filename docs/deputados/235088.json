@@ -4,171 +4,9 @@
   "partido": "SOLIDARIEDADE",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/235088.jpg",
-  "score": 49.48,
-  "rank": 6,
+  "score": 55.73,
+  "rank": 4,
   "proposicoes": [
-    {
-      "id": 2621555,
-      "tipo": "PL",
-      "numero": 2176,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a regulamentação dos contratos de financiamento estudantil privado.",
-      "data": "2026-05-05T17:11",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621555"
-    },
-    {
-      "id": 2621557,
-      "tipo": "PL",
-      "numero": 2177,
-      "ano": 2026,
-      "ementa": "Dispõe sobre diretrizes nacionais de incentivo à mobilidade elétrica e sustentável e dá outras providências.",
-      "data": "2026-05-05T17:13",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621557"
-    },
-    {
-      "id": 2621558,
-      "tipo": "PL",
-      "numero": 2178,
-      "ano": 2026,
-      "ementa": "Institui incentivos fiscais e políticas de estímulo à utilização de veículos elétricos por motoristas de transporte por aplicativo e dá outras providências.",
-      "data": "2026-05-05T17:15",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621558"
-    },
-    {
-      "id": 2621559,
-      "tipo": "PL",
-      "numero": 2179,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.620, de 13 de julho de 2023, para estabelecer mecanismos de facilitação do acesso à moradia aplicáveis às famílias priorizadas no Programa Minha Casa, Minha Vida.",
-      "data": "2026-05-05T17:16",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621559"
-    },
-    {
-      "id": 2621560,
-      "tipo": "PL",
-      "numero": 2180,
-      "ano": 2026,
-      "ementa": "Dispõe sobre medidas de prevenção, apuração e responsabilização de atos de perseguição política e violência institucional praticados por agentes públicos ou autoridades.",
-      "data": "2026-05-05T17:18",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621560"
-    },
-    {
-      "id": 2621568,
-      "tipo": "PL",
-      "numero": 2181,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.597, de 14 de junho de 2023, para instituir a categoria de “Bolsa Atleta Social” e ampliar o acesso ao benefício a atletas em situação de vulnerabilidade social, especialmente praticantes de artes marciais, e dá outras providências.",
-      "data": "2026-05-05T17:19",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621568"
-    },
-    {
-      "id": 2621570,
-      "tipo": "PL",
-      "numero": 2183,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a responsabilização civil de pessoas físicas ou jurídicas que divulguem, compartilhem ou promovam conteúdos falsos ou enganosos que causem danos a terceiros.",
-      "data": "2026-05-05T17:20",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621570"
-    },
-    {
-      "id": 2621572,
-      "tipo": "PL",
-      "numero": 2184,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Incentivo aos Projetos de Impacto Comunitário e Assistência Voluntária, cria o Selo Nacional de Impacto Social, e dá outras providências.",
-      "data": "2026-05-05T17:22",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621572"
-    },
-    {
-      "id": 2621575,
-      "tipo": "PL",
-      "numero": 2185,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015, Código de Processo Civil, para estabelecer prioridade de tramitação nos processos judiciais que envolvam vítimas de violência moral, difamação, calúnia e ataques à honra.",
-      "data": "2026-05-05T17:23",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621575"
-    },
-    {
-      "id": 2621579,
-      "tipo": "PL",
-      "numero": 2186,
-      "ano": 2026,
-      "ementa": "Altera a Lei no 10.260, de 12 de julho de 2001, para garantir o direito de reingresso no Fundo de Financiamento Estudantil (FIES) aos estudantes que tenham quitado integralmente financiamento anterior.",
-      "data": "2026-05-05T17:24",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2621579"
-    },
-    {
-      "id": 2622251,
-      "tipo": "PL",
-      "numero": 2221,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Incentivo à Saúde Animal, estabelece diretrizes para a concessão de benefícios fiscais a estabelecimentos veterinários e dá outras providências.",
-      "data": "2026-05-06T16:02",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622251"
-    },
-    {
-      "id": 2622254,
-      "tipo": "PL",
-      "numero": 2222,
-      "ano": 2026,
-      "ementa": "Institui o Sistema Único de Saúde Animal (SUSA), como subsistema integrante do Sistema Único de Saúde (SUS), e dá outras providências.",
-      "data": "2026-05-06T16:03",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622254"
-    },
-    {
-      "id": 2622260,
-      "tipo": "PL",
-      "numero": 2224,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para vedar o acorrentamento permanente de animais domésticos e estabelecer parâmetros mínimos de bem-estar animal.",
-      "data": "2026-05-06T16:05",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622260"
-    },
-    {
-      "id": 2622263,
-      "tipo": "PL",
-      "numero": 2226,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006, para incluir, entre as medidas protetivas de urgência, a proteção de animais domésticos ou domesticados vinculados à vítima.",
-      "data": "2026-05-06T16:06",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622263"
-    },
-    {
-      "id": 2622439,
-      "tipo": "PL",
-      "numero": 2240,
-      "ano": 2026,
-      "ementa": "Institui o Programa Nacional de Artes Marciais para Inclusão Social, Prevenção da Violência e Promoção da Saúde, e dá outras providências.",
-      "data": "2026-05-06T18:11",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622439"
-    },
-    {
-      "id": 2622445,
-      "tipo": "PL",
-      "numero": 2241,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, para estabelecer prazo na comunicação de maus-tratos.",
-      "data": "2026-05-06T18:14",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622445"
-    },
-    {
-      "id": 2622447,
-      "tipo": "PL",
-      "numero": 2242,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para instituir a capacitação obrigatória de profissionais da educação na prevenção e no enfrentamento da violência contra crianças e adolescentes.",
-      "data": "2026-05-06T18:16",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622447"
-    },
-    {
-      "id": 2622927,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 14.758, de 19 de dezembro de 2023, que institui a Política Nacional de Prevenção e Controle do Câncer no âmbito do Sistema Único de Saúde (SUS), para criar Programa Nacional de Combate à Desnutrição Oncológica.",
-      "data": "2026-05-07T13:38",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2622927"
-    },
     {
       "id": 2623604,
       "tipo": "PEC",
@@ -357,6 +195,87 @@
       "ementa": "Institui a Política Nacional de Proteção à Saúde Mental Digital de Crianças e Adolescentes e o Direito à Desconexão Digital Infantojuvenil, e dá outras providências.",
       "data": "2026-06-02T18:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629867"
+    },
+    {
+      "id": 2629917,
+      "tipo": "PL",
+      "numero": 2841,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Sucessão e Empreendedorismo Rural Familiar, em articulação com a Política Nacional da Agricultura Familiar e Empreendimentos Familiares Rurais e com a Política Nacional de Assistência Técnica e Extensão Rural, e dá outras providências.",
+      "data": "2026-06-02T20:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629917"
+    },
+    {
+      "id": 2629940,
+      "tipo": "PL",
+      "numero": 2850,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Transição Profissional Tecnológica – PNTPT, destinada à preparação, proteção e requalificação dos trabalhadores diante dos impactos da automação, da inteligência artificial e das novas tecnologias no mercado de trabalho.",
+      "data": "2026-06-03T10:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629940"
+    },
+    {
+      "id": 2630007,
+      "tipo": "PL",
+      "numero": 2862,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Navegação do Paciente no Sistema Único de Saúde (SUS) e dá outras providências.",
+      "data": "2026-06-03T13:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630007"
+    },
+    {
+      "id": 2630025,
+      "tipo": "PL",
+      "numero": 2864,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Salvaguarda dos Mestres dos Saberes Tradicionais do Brasil, cria o Cadastro Nacional dos Mestres dos Saberes Tradicionais e estabelece mecanismos de proteção, valorização e transmissão dos conhecimentos tradicionais brasileiros.",
+      "data": "2026-06-03T15:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630025"
+    },
+    {
+      "id": 2630029,
+      "tipo": "PL",
+      "numero": 2865,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Turismo de Base Comunitária e de Valorização dos Destinos de Identidade Cultural, Ambiental e Tradicional – DESTINOS DO BRASIL.",
+      "data": "2026-06-03T15:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630029"
+    },
+    {
+      "id": 2630032,
+      "tipo": "PL",
+      "numero": 2867,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Planejamento de Futuro, Autonomia Juvenil e Responsabilidade Familiar – PROJETO DE VIDA BRASIL.",
+      "data": "2026-06-03T15:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630032"
+    },
+    {
+      "id": 2630040,
+      "tipo": "PL",
+      "numero": 2872,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Salvaguarda dos Mestres dos Saberes Tradicionais do Brasil, cria o Cadastro Nacional dos Mestres da Cultura Popular e estabelece mecanismos de proteção, valorização e transmissão dos conhecimentos tradicionais brasileiros.",
+      "data": "2026-06-03T15:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630040"
+    },
+    {
+      "id": 2630042,
+      "tipo": "PL",
+      "numero": 2873,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Inclusão Digital e Inteligência Artificial para a Agricultura Familiar – AGROFAMÍLIA 5.0.",
+      "data": "2026-06-03T15:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630042"
+    },
+    {
+      "id": 2630054,
+      "tipo": "PL",
+      "numero": 2876,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Turismo de Base Comunitária e Destinos de Identidade Cultural, Ambiental e Tradicional – DESTINOS DO BRASIL, e dá outras providências.",
+      "data": "2026-06-03T16:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630054"
     }
   ],
   "discursos": [
