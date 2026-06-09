@@ -5,7 +5,7 @@
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
   "score": 57.18,
-  "rank": 3,
+  "rank": 4,
   "proposicoes": [
     {
       "id": 2623400,
@@ -339,6 +339,24 @@
       "ementa": "Estabelece a prioridade especial na tramitação de processos que tenham por objeto a apuração de abandono de pessoa idosa.",
       "data": "2026-06-03T15:31",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630065"
+    },
+    {
+      "id": 2630110,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 14.819, de 16 de janeiro de 2024, para incluir a atenção à saúde mental dos profissionais da educação, no âmbito da Política Nacional de Atenção Psicossocial nas Comunidades Escolares.",
+      "data": "2026-06-03T14:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630110"
+    },
+    {
+      "id": 2630308,
+      "tipo": "PL",
+      "numero": 2917,
+      "ano": 2026,
+      "ementa": "Institui o Marco Legal da Soberania Financeira Digital Brasileira e da Proteção das Infraestruturas Estratégicas Nacionais de Pagamentos, estabelece a Política Nacional de Soberania Financeira Digital, dispõe sobre a proteção dos sistemas nacionais de pagamentos digitais, a defesa dos usuários, a prevenção de fraudes financeiras digitais, a inclusão financeira territorial, a proteção de dados financeiros estratégicos e dá outras providências.",
+      "data": "2026-06-08T15:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630308"
     }
   ],
   "discursos": [],

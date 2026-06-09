@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220666.jpg",
-  "score": 33.88,
-  "rank": 108,
+  "score": 34.49,
+  "rank": 98,
   "proposicoes": [
     {
       "id": 2623400,
@@ -60,6 +60,15 @@
       "ementa": "Dispõe sobre a obrigatoriedade de instalação de pontos de ancoragem e sistemas permanentes de proteção contra quedas em edificações destinadas à instalação, manutenção e reparo de sistemas de climatização e refrigeração em altura.",
       "data": "2026-05-25T13:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627427"
+    },
+    {
+      "id": 2630222,
+      "tipo": "PL",
+      "numero": 2902,
+      "ano": 2026,
+      "ementa": "Altera a redação da Lei nº 13.260, de 16 de março de 2016.",
+      "data": "2026-06-08T12:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630222"
     }
   ],
   "discursos": [

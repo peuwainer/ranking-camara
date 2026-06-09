@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73692.jpg",
-  "score": 29.99,
-  "rank": 197,
+  "score": 30.74,
+  "rank": 172,
   "proposicoes": [
     {
       "id": 2624861,
@@ -33,6 +33,15 @@
       "ementa": "Altera a Lei nº 9.434, de 4 de fevereiro de 1997, para dispor sobre a realização de exames complementares em potenciais doadores de órgãos, no âmbito do Sistema Nacional de Transplantes.",
       "data": "2026-05-20T15:43",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626859"
+    },
+    {
+      "id": 2630222,
+      "tipo": "PL",
+      "numero": 2902,
+      "ano": 2026,
+      "ementa": "Altera a redação da Lei nº 13.260, de 16 de março de 2016.",
+      "data": "2026-06-08T12:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630222"
     }
   ],
   "discursos": [

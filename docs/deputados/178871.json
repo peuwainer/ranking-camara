@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178871.jpg",
-  "score": 53.82,
-  "rank": 7,
+  "score": 57.24,
+  "rank": 3,
   "proposicoes": [
     {
       "id": 2623312,
@@ -204,6 +204,51 @@
       "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
       "data": "2026-06-02T09:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629601"
+    },
+    {
+      "id": 2630112,
+      "tipo": "PRC",
+      "numero": 30,
+      "ano": 2026,
+      "ementa": "Acrescenta parágrafo ao art. 82 do Regimento Interno da Câmara dos Deputados, para estabelecer a execução do Hino Nacional Brasileiro no início da primeira Ordem do Dia de cada semana legislativa.",
+      "data": "2026-06-08T09:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630112"
+    },
+    {
+      "id": 2630113,
+      "tipo": "PL",
+      "numero": 2895,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.305, de 2 de agosto de 2010, para criar o Programa Nacional de Incentivo à Coleta Seletiva Residencial e dispor sobre a participação do consumidor na Política Nacional de Resíduos Sólidos.",
+      "data": "2026-06-08T09:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630113"
+    },
+    {
+      "id": 2630252,
+      "tipo": "PL",
+      "numero": 2905,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.858, de 13 de abril de 2004, para tratar do credenciamento de farmácias populares.",
+      "data": "2026-06-08T14:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630252"
+    },
+    {
+      "id": 2630301,
+      "tipo": "PL",
+      "numero": 2916,
+      "ano": 2026,
+      "ementa": "Concede o título de Capital Nacional da Produção da Pimenta Rosa e da Pimenta-do-Reino ao Município de São Mateus, no Estado do Espírito Santo",
+      "data": "2026-06-08T15:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630301"
+    },
+    {
+      "id": 2630375,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Estabelece o regime de salvaguarda, no âmbito de investimentos estrangeiros, de ativos estratégicos essenciais para garantir a defesa e soberania nacional e a segurança do aprovisionamento do país em serviços fundamentais para o interesse nacional, assim como regulamenta o recebimento de recursos estrangeiros pelas Organizações Não Governamentais.",
+      "data": "2026-06-08T17:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630375"
     }
   ],
   "discursos": [

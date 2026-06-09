@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/206018.jpg",
-  "score": 34.46,
-  "rank": 98,
+  "score": 35.26,
+  "rank": 81,
   "proposicoes": [
     {
       "id": 2624652,
@@ -24,6 +24,15 @@
       "ementa": "",
       "data": "2026-05-20T13:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626250"
+    },
+    {
+      "id": 2630281,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Institui o Programa Nacional de Ambientes Seguros e Inclusivos para Pessoas LGBTQIAPN+ e Mulheres, e cria o Selo BR Diversa para a promoção do letramento em direitos da diversidade no setor de serviços, entretenimento e hospitalidade.",
+      "data": "2026-06-05T11:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630281"
     }
   ],
   "discursos": [

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 51.49,
-  "rank": 9,
+  "score": 51.32,
+  "rank": 8,
   "proposicoes": [
     {
       "id": 2623400,
@@ -204,6 +204,15 @@
       "ementa": "Dispõe sobre a responsabilidade gerencial das empresas públicas e sociedade de economia mista.",
       "data": "2026-06-03T13:54",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630083"
+    },
+    {
+      "id": 2630240,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, para instituir, no âmbito do Sistema Único de Segurança Pública (SUSP), o Programa Nacional de Capacitação em Comunicação Operativa (PRONCOMOP).",
+      "data": "2026-06-08T12:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630240"
     }
   ],
   "discursos": [],

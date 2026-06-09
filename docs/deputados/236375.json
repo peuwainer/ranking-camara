@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236375.jpg",
-  "score": 10.79,
-  "rank": 504,
+  "score": 11.35,
+  "rank": 501,
   "proposicoes": [
     {
       "id": 2629791,
@@ -69,6 +69,15 @@
       "ementa": "Declara Lamartine Babo, Patrono dos Hinos de Futebol do Brasil.",
       "data": "2026-06-03T15:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630030"
+    },
+    {
+      "id": 2630101,
+      "tipo": "PL",
+      "numero": 2890,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional Passaporte do Esporte, destinado ao reconhecimento, certificação, capacitação e incentivo de professores, instrutores, treinadores e educadores esportivos que promovam gratuitamente atividades esportivas e de lazer em comunidades brasileiras.",
+      "data": "2026-06-04T15:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630101"
     }
   ],
   "discursos": [

@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/122974.jpg",
-  "score": 15.45,
-  "rank": 490,
+  "score": 16.03,
+  "rank": 487,
   "proposicoes": [
     {
       "id": 2625306,
@@ -44,6 +44,12 @@
       "sigla": "PEC01421",
       "cargo": "1º Vice-Presidente",
       "desde": "2025-06-10T00:00"
+    },
+    {
+      "nome": "Comissão de Fiscalização Financeira e Controle",
+      "sigla": "CFFC",
+      "cargo": "Titular",
+      "desde": "2026-06-08T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/122974/votacoes-nominais-plenario/2026"

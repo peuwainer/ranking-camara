@@ -4,9 +4,46 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178943.jpg",
-  "score": 23.6,
-  "rank": 417,
-  "proposicoes": [],
+  "score": 27.19,
+  "rank": 289,
+  "proposicoes": [
+    {
+      "id": 2630268,
+      "tipo": "PL",
+      "numero": 2907,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a oferta gratuita da vacina contra o Vírus Sincicial Respiratório (VSR) no âmbito do Sistema Único de Saúde – SUS.",
+      "data": "2026-06-08T14:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630268"
+    },
+    {
+      "id": 2630269,
+      "tipo": "PL",
+      "numero": 2908,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a oferta universal e gratuita da vacina pneumocócica conjugada 20-valente (VPC20/Pneumo 20) no âmbito do Sistema Único de Saúde – SUS.",
+      "data": "2026-06-08T14:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630269"
+    },
+    {
+      "id": 2630270,
+      "tipo": "PL",
+      "numero": 2909,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a publicidade responsável de cosméticos e produtos de skincare voltada a crianças e adolescentes, e dá outras providências.",
+      "data": "2026-06-08T14:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630270"
+    },
+    {
+      "id": 2630271,
+      "tipo": "PL",
+      "numero": 2910,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Educação Cosmética e Cuidado com a Pele nas Escolas.",
+      "data": "2026-06-08T14:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630271"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
-  "score": 46.74,
-  "rank": 15,
+  "score": 46.91,
+  "rank": 13,
   "proposicoes": [
     {
       "id": 2623445,
@@ -141,6 +141,15 @@
       "ementa": "Cria o Programa Analfabetismo Zero em todo o país e dá outras providências.",
       "data": "2026-06-03T16:31",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630071"
+    },
+    {
+      "id": 2630337,
+      "tipo": "PL",
+      "numero": 2919,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para inserir expressamente a conduta de abandono de animais no tipo penal previsto em seu art. 32.",
+      "data": "2026-06-08T16:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630337"
     }
   ],
   "discursos": [

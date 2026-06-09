@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74585.jpg",
-  "score": 29.38,
-  "rank": 219,
+  "score": 30.04,
+  "rank": 193,
   "proposicoes": [
     {
       "id": 2623400,
@@ -51,6 +51,15 @@
       "ementa": "Dispõe sobre a garantia de atendimento humano, presencial ou digital acessível, pelas instituições integrantes do Sistema Financeiro Nacional, e dá outras providências.",
       "data": "2026-05-14T15:09",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624872"
+    },
+    {
+      "id": 2630220,
+      "tipo": "PL",
+      "numero": 2901,
+      "ano": 2026,
+      "ementa": "Institui o Marco Nacional das Fintechs e Plataformas Financeiras Digitais (MNFPD), estabelece normas gerais para o funcionamento, supervisão tecnológica, prevenção à lavagem de dinheiro digital, rastreabilidade financeira inteligente e integridade operacional das fintechs no Brasil, e dá outras providências.",
+      "data": "2026-06-08T12:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630220"
     }
   ],
   "discursos": [

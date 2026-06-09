@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160598.jpg",
-  "score": 39.11,
-  "rank": 34,
+  "score": 39.62,
+  "rank": 32,
   "proposicoes": [
     {
       "id": 2623404,
@@ -78,6 +78,15 @@
       "ementa": "Desonera dos tributos federais todos os medicamentos diretamente utilizados no tratamento do diabetes e da hipertensão arterial, e dá outras providências.",
       "data": "2026-06-03T12:24",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629995"
+    },
+    {
+      "id": 2630213,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Obriga os hospitais a contratar biomédicos com a finalidade de controlar e prevenir as infecções hospitalares.",
+      "data": "2026-06-08T12:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630213"
     }
   ],
   "discursos": [],

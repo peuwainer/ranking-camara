@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220543.jpg",
-  "score": 38.79,
-  "rank": 40,
+  "score": 40.44,
+  "rank": 29,
   "proposicoes": [
     {
       "id": 2625893,
@@ -33,6 +33,24 @@
       "ementa": "Dispõe sobre o transporte público gratuito no Dia dos Finados em todo o território nacional e dá outras providências.",
       "data": "2026-06-02T14:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629704"
+    },
+    {
+      "id": 2630284,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica), para dispor sobre o cancelamento gratuito de passagens aéreas em casos de força maior na forma em que especifica.",
+      "data": "2026-06-08T13:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630284"
+    },
+    {
+      "id": 2630286,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 10.741, de 1º de outubro de 2003, para assegurar, no sistema de transporte coletivo interestadual, a alocação da pessoa idosa em assento acessível e compatível com sua condição de mobilidade.",
+      "data": "2026-06-08T14:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630286"
     }
   ],
   "discursos": [

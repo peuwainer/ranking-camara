@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204416.jpg",
-  "score": 35.32,
-  "rank": 81,
+  "score": 35.93,
+  "rank": 71,
   "proposicoes": [
     {
       "id": 2623400,
@@ -60,6 +60,15 @@
       "ementa": "Parecer do Relator, Dep. Sanderson (PL-RS), pela aprovação do PL 6529/25 e da Emenda 1/2026,  apresentada nesta comissão.",
       "data": "2026-05-27T23:38",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628735"
+    },
+    {
+      "id": 2630262,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Voto do relator, Deputado Sanderson, pela não implicação financeira ou orçamentária da matéria em aumento ou diminuição da receita e da despesa pública, não cabendo pronunciamento quanto à adequação financeira ou orçamentária do Projeto de Lei nº 2.134, de 2003; e no mérito, pela aprovação do Projeto de Lei nº 1810, de 2025, com o substitutivo.",
+      "data": "2026-06-08T14:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630262"
     }
   ],
   "discursos": [

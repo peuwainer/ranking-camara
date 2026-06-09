@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220598.jpg",
-  "score": 47.23,
-  "rank": 14,
+  "score": 47.35,
+  "rank": 12,
   "proposicoes": [
     {
       "id": 2623420,
@@ -150,6 +150,15 @@
       "ementa": "Institui a Política Nacional de Educação e Combate à Evasão Escolar e dá outras providências.",
       "data": "2026-06-02T15:09",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629877"
+    },
+    {
+      "id": 2630248,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a obrigatoriedade do registro e processamento adequado de práticas e crimes homotransfóbicos nos sistemas de segurança pública brasileiro.",
+      "data": "2026-05-22T11:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630248"
     }
   ],
   "discursos": [
