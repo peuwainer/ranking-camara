@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74428.jpg",
-  "score": 32.66,
-  "rank": 129,
+  "score": 33.97,
+  "rank": 92,
   "proposicoes": [
     {
       "id": 2623400,
@@ -75,6 +75,18 @@
       "sigla": "CDE",
       "cargo": "Titular",
       "desde": "2026-05-05T00:00"
+    },
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Titular",
+      "desde": "2026-06-09T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Suplente",
+      "desde": "2026-06-09T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/74428/votacoes-nominais-plenario/2026"

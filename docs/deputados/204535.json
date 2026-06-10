@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg",
-  "score": 39.59,
-  "rank": 33,
+  "score": 40.48,
+  "rank": 29,
   "proposicoes": [
     {
       "id": 2623570,
@@ -60,6 +60,15 @@
       "ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990, para estabelecer hipótese de inelegibilidade decorrente de condenação por crime de homotransfobia.",
       "data": "2026-06-02T17:27",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629844"
+    },
+    {
+      "id": 2630603,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Institui o Programa Casa do Professor, destinado a promover a aquisição de habitação para professores da Rede Pública de Ensino.",
+      "data": "2026-06-09T13:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630603"
     }
   ],
   "discursos": [],

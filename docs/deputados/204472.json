@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204472.jpg",
-  "score": 39.42,
-  "rank": 34,
+  "score": 44.21,
+  "rank": 17,
   "proposicoes": [
     {
       "id": 2623400,
@@ -114,6 +114,69 @@
       "ementa": "",
       "data": "2026-06-02T14:30",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629674"
+    },
+    {
+      "id": 2630727,
+      "tipo": "PL",
+      "numero": 2967,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.196, de 21 de novembro de 2005, para ampliar o acesso aos incentivos fiscais destinados à pesquisa, ao desenvolvimento tecnológico e à inovação, instituindo mecanismos de democratização da inovação produtiva nacional e fortalecimento da competitividade da economia brasileira.",
+      "data": "2026-06-09T18:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630727"
+    },
+    {
+      "id": 2630738,
+      "tipo": "PL",
+      "numero": 2968,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Incentivo à Integração Lavoura-Pecuária-Floresta (ILPF), dispõe sobre a recuperação produtiva de áreas degradadas, cria mecanismos de incentivo econômico, ambiental e tecnológico, e dá outras providências.",
+      "data": "2026-06-09T18:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630738"
+    },
+    {
+      "id": 2630760,
+      "tipo": "PL",
+      "numero": 2971,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional do Agro Colaborativo, voltada à promoção de modelos produtivos baseados em economia compartilhada, agricultura circular e uso eficiente de recursos no setor agropecuário, com incentivo à inovação, sustentabilidade e aumento da produtividade.",
+      "data": "2026-06-09T18:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630760"
+    },
+    {
+      "id": 2630764,
+      "tipo": "PL",
+      "numero": 2973,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Segurança Ambiental e Produtiva do Pantanal, reconhece a pecuária sustentável como atividade estratégica de conservação e prevenção de incêndios, e dá outras providências.",
+      "data": "2026-06-09T18:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630764"
+    },
+    {
+      "id": 2630767,
+      "tipo": "PL",
+      "numero": 2974,
+      "ano": 2026,
+      "ementa": "Cria a Política Nacional de Incentivo ao Novilho Precoce, com concessão de bonificação econômica por meio de crédito presumido de tributos federais e subvenção direta, vinculada à certificação, tipificação de carcaça e rastreabilidade da produção.",
+      "data": "2026-06-09T18:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630767"
+    },
+    {
+      "id": 2630787,
+      "tipo": "PL",
+      "numero": 2978,
+      "ano": 2026,
+      "ementa": "Cria o Programa Federal de Valorização da Pecuária Leiteira (PROLEITE), com o objetivo de fortalecer o produtor rural, incentivar o consumo de leite e derivados, promover a industrialização, a agregação de valor e o desenvolvimento tecnológico do setor.",
+      "data": "2026-06-09T19:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630787"
+    },
+    {
+      "id": 2630797,
+      "tipo": "PL",
+      "numero": 2979,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Regularização Ambiental e Fundiária Simplificada – “CAR EXPRESSO” (Fast Track), altera a Lei nº 12.651/2012 (Código Florestal), e dá outras providências.",
+      "data": "2026-06-09T19:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630797"
     }
   ],
   "discursos": [

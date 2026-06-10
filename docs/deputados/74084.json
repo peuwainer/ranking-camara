@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74084.jpg",
-  "score": 31.9,
-  "rank": 148,
+  "score": 33.8,
+  "rank": 96,
   "proposicoes": [
     {
       "id": 2626216,
@@ -33,9 +33,44 @@
       "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para dispor sobre a garantia do livre exercício de cultos e atividades religiosas em estabelecimentos de ensino públicos e privados de todos os níveis.",
       "data": "2026-05-22T02:56",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627084"
+    },
+    {
+      "id": 2630713,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Dia Nacional, assim como considera Patrimônio Religioso Cultural e Imaterial, o “Círculo de Oração”.",
+      "data": "2026-06-09T16:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630713"
+    },
+    {
+      "id": 2630714,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Dia Nacional da Parceria.",
+      "data": "2026-06-09T17:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630714"
+    },
+    {
+      "id": 2630715,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Reconhece como Patrimônio Cultural Imaterial do Brasil o Festival da Mandioca do Município de Lagarto, no Estado de Sergipe.",
+      "data": "2026-06-09T16:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630715"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-06-09T15:04",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. RAIMUNDO SANTOS (Bloco/PSD - PA. Sem revisão do orador.) - Sr. Presidente, caros Deputados e Deputadas, hoje é 9 de junho, o Dia Nacional da Música Gospel, instituído pela Lei nº 14.998, de 2024",
+      "transcricao": "O SR. RAIMUNDO SANTOS (Bloco/PSD - PA. Sem revisão do orador.) - Sr. Presidente, caros Deputados e Deputadas, hoje é 9 de junho, o Dia Nacional da Música Gospel, instituído pela Lei nº 14.998, de 2024. Tenho a honra de ter sido o autor do projeto que culminou com a edição desta lei. Isso, Sr. Presidente, é o reconhecimento de que o gênero gospel se destaca  independente do arranjo, independente da produção, independente do ritmo  como aquele gênero que grassou as ruas, saiu dos púlpitos, saiu dos templos para ir para as praças, para as solenidades. De ponta a ponta do Brasil hoje, nos aniversários de Municípios, temos sempre um dia em que a música gospel é entoada, pela importância das mensagens transmitidas pela música gospel, porque são mensagens de paz, mensagens de conforto, mensagens de amor, mensagens de esperança para a alma humana. E a Bíblia Sagrada diz que, além de a música despertar os diversos afetos, ela também atrai a presença divina, porque Deus habita no meio dos louvores e no meio dos louvores do seu povo. A Bíblia Sagrada diz que, além de a música despertar os diversos afetos, ela também atrai a presença divina, porque Deus habita no meio dos louvores do seu povo. A data escolhida, Sr. Presidente, homenageia Frida Vingren, uma compositora renomada do século XX, esposa de um dos fundadores da Assembleia de Deus em Belém do Pará, instituição que vai completar 115 anos na próxima semana, no próximo dia 18. Frida Vingren é uma referência, uma mulher além do seu tempo, pois era enfermeira, compositora, cantora e instrumentista. Por isso, ela foi a escolhida para referenciar essa data. O dia do aniversário de Frida Vingren passa a ser o Dia Nacional da Música Gospel. Quero, Sr. Presidente, portanto, como autor do projeto, já agradecendo também ao Deputado Otoni de Paula, que esteve presente nas diversas instâncias, inclusive no momento da sanção da lei, parabenizar todos os músicos deste País, cantores, compositores, na figura de Benedito Dias de Oliveira, um grande compositor nacional, as bandas, os corais e todos aqueles que lá na área ribeirinha, na cidade, no campo, em qualquer lugar, fazem da música uma propagação da fé e do amor. Finalizando, Excelência, que Deus abençoe o Brasil e a família brasileira. Feliz Dia Nacional da Música Gospel!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

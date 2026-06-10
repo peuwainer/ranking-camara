@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160640.jpg",
-  "score": 31.69,
-  "rank": 151,
+  "score": 31.62,
+  "rank": 139,
   "proposicoes": [
     {
       "id": 2623400,
@@ -60,6 +60,15 @@
       "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
       "data": "2026-06-02T09:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629601"
+    },
+    {
+      "id": 2630816,
+      "tipo": "PL",
+      "numero": 2981,
+      "ano": 2026,
+      "ementa": "Acrescenta dispositivos à Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para estabelecer a extinção de usufruto, perda do direito de acrescer e exclusão de outros benefícios patrimoniais nas hipóteses de condenação criminal por homicídio ou feminicídio praticado contra usufrutuário, doador ou titular de direito real cujos efeitos aproveitem ao condenado, e para dispor sobre a ineficácia sucessória reflexa.",
+      "data": "2026-06-09T20:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630816"
     }
   ],
   "discursos": [],

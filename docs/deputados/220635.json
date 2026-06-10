@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220635.jpg",
-  "score": 33.62,
-  "rank": 115,
+  "score": 33.49,
+  "rank": 105,
   "proposicoes": [
     {
       "id": 2623400,
@@ -69,6 +69,15 @@
       "ementa": "Dispõe sobre os princípios regedores dos direitos animais e estabelece medidas administrativas de prevenção e repressão a condutas lesivas contra animais.",
       "data": "2026-05-21T13:12",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626881"
+    },
+    {
+      "id": 2630583,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer ao PL 1520/2025, que institui o Auxílio Mãe Atípica (AMA), destinado a oferecer apoio financeiro e psicossocial às mães ou responsáveis legais de crianças e adolescentes com deficiência severa ou Transtorno do Espectro Autista (TEA).",
+      "data": "2026-06-09T13:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630583"
     }
   ],
   "discursos": [],

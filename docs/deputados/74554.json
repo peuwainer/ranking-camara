@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74554.jpg",
-  "score": 29.35,
-  "rank": 219,
+  "score": 29.85,
+  "rank": 188,
   "proposicoes": [
     {
       "id": 2624861,
@@ -26,7 +26,22 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-06-09T19:36",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JOSÉ ROCHA (Bloco/UNIÃO - BA. Pela ordem. Sem revisão do orador.) - Ilustre Presidente, antes, eu só queria que a Secretaria da Mesa trocasse o nome do Presidente da sessão pelo nome de V.Exa., ",
+      "transcricao": "O SR. JOSÉ ROCHA (Bloco/UNIÃO - BA. Pela ordem. Sem revisão do orador.) - Ilustre Presidente, antes, eu só queria que a Secretaria da Mesa trocasse o nome do Presidente da sessão pelo nome de V.Exa., pois ainda não foi feita a substituição no painel. O SR. PRESIDENTE (Silvio Antonio. PL - MA) - Sim, senhor. O SR. JOSÉ ROCHA (Bloco/UNIÃO - BA) - Mas, Sr. Presidente, Sras. e Srs. Deputados, eu venho aqui ressaltar o que realmente está acontecendo em nosso País. É uma pena que a segurança pública esteja nesse nível, com esses marginais faccionados no País, mas, com certeza, a culpa não é do Ministro da Justiça e Segurança Pública. O Ministro Wellington é altamente capacitado, determinado, é uma pessoa séria, idônea, que tem os melhores propósitos para a segurança pública, mas isso é uma questão de política de Governo. O que nós não vemos é, no Presidente da República, a coragem para enfrentar os faccionados, porque essas facções têm limite, e isso depende de uma ação dele. Chegou-se ao nível de o Presidente dos Estados Unidos, Donald Trump, declarar essas facções como terroristas, o que o Presidente não teve a coragem de fazer. Portanto, precisamos, sim, de uma ação de Governo, e o nosso Ministro da Justiça e Segurança Pública merece toda a nossa consideração, nosso respeito, porque é um homem íntegro e, com certeza, vai mudar essa situação do País."
+    },
+    {
+      "data": "2026-06-09T19:08",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JOSÉ ROCHA (Bloco/UNIÃO - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Major Cabo Gilberto Silva, Sras. e Srs. Parlamentares, venho a esta tribuna para registrar um evento muito imp",
+      "transcricao": "O SR. JOSÉ ROCHA (Bloco/UNIÃO - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Major Cabo Gilberto Silva, Sras. e Srs. Parlamentares, venho a esta tribuna para registrar um evento muito importante ocorrido no Município de Nova Fátima, do Estado da Bahia: o São João Antecipado. O nosso Prefeito Assis Porto, o Vice-Prefeito, os Vereadores e a Secretaria da Educação e Cultura fizeram realmente um evento digno do que é o São João em nosso Estado. Há muita participação na festa, o povo lota a praça e as atrações são as das mais requisitadas. Inclusive, no domingo, que foi o último dia, eu tive a oportunidade de estar lá participando desse evento. Quero aqui parabenizar o povo de Nova Fátima, o Prefeito Assis Porto, todo o seu secretariado, o Vice-Prefeito, o ex-Prefeito Adriano, por terem me acolhido muito bem durante esse evento. O Prefeito está com 90% de aprovação no Município, pela bela gestão que ele está realizando, com obras importantes, estruturantes, e o maior e melhor São João de todos os tempos. Parabéns, Nova Fátima! Parabéns, Assis Porto! O SR. PRESIDENTE (Cabo Gilberto Silva. PL - PB) - Só quero discordar de V.Exa., porque o maior e melhor São João do planeta Terra é o de Campina Grande, no Estado da Paraíba. O SR. JOSÉ ROCHA (Bloco/UNIÃO - BA) - Com certeza! Eu quis dizer que aquele foi ao maior e melhor São João de todos os tempos de Nova Fátima."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

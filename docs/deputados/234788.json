@@ -4,8 +4,8 @@
   "partido": "REDE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/234788.jpg",
-  "score": 38.26,
-  "rank": 41,
+  "score": 38.47,
+  "rank": 40,
   "proposicoes": [
     {
       "id": 2627784,
@@ -141,6 +141,24 @@
       "ementa": "Proíbe a publicidade de bebidas alcoólicas em todos os meios de comunicação e dá outras providências.",
       "data": "2026-06-02T16:48",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629805"
+    },
+    {
+      "id": 2630407,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Parecer da Relatora ao Projeto de Lei nº 1191, de 2025 e Apensos que cria a Política de Recuperação e Reeducação para Autores de Violência Doméstica e altera a Lei nº 11.340, de 7 de agosto de 2006, para tornar obrigatório o comparecimento do agressor a programas de recuperação e reeducação.",
+      "data": "2026-06-09T09:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630407"
+    },
+    {
+      "id": 2630492,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora ao Projeto de Lei nº 1166, de 2026, que torna obrigatória a exibição de campanhas educativas e prevenção da violência contra a mulher na abertura de shows e eventos culturais com público superior a 200 (duzentas) pessoas e dá outras providências.",
+      "data": "2026-06-09T09:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630492"
     }
   ],
   "discursos": [

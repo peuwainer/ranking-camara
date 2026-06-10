@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220547.jpg",
-  "score": 33.63,
-  "rank": 114,
+  "score": 33.8,
+  "rank": 95,
   "proposicoes": [
     {
       "id": 2623400,
@@ -44,7 +44,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-06-09T19:00",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MARCOS POLLON (PL - MS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, acabamos de ouvir aqui um colega do Rio de Janeiro tentando validar mais uma situação de ilegalidade e abuso do STF,",
+      "transcricao": "O SR. MARCOS POLLON (PL - MS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, acabamos de ouvir aqui um colega do Rio de Janeiro tentando validar mais uma situação de ilegalidade e abuso do STF, com ataques à reputação do Deputado Douglas Ruas. Eu fico muito feliz que ele ainda esteja no plenário para explicar algo muito básico no Estado de Direito, no que chamam de Estado Democrático de Direito. O texto constitucional é muito claro ao estabelecer a linha sucessória no caso de vacância em cargos do Executivo, e não há nenhum motivo plausível para se desprezar o texto constitucional, rasgar a Constituição e viabilizar uma interferência desse nível pelo Supremo. Sr. Presidente, se autorizarmos o Supremo a meter uma canetada e, no tapetão, rasgar todos os votos e a representatividade de um Estado, nós o estaremos autorizando a fazer isso com todos. Isso é um risco muito grande para a democracia, porque hoje isso acontece no Rio, e amanhã pode acontecer em qualquer outro Estado da Federação. Obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3080, de 2020, do Senhor Alexandre Frota, que \"Institui a política pública nacional para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autismo, e dá outras providências\", e apensados",

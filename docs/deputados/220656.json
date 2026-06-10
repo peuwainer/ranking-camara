@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220656.jpg",
-  "score": 27.7,
-  "rank": 271,
+  "score": 27.75,
+  "rank": 247,
   "proposicoes": [
     {
       "id": 2624861,
@@ -24,6 +24,15 @@
       "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
       "data": "2026-05-14T14:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
+    },
+    {
+      "id": 2630532,
+      "tipo": "PL",
+      "numero": 2935,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a restrição de acesso de devedores de pensão alimentícia a eventos esportivos, sobre a suspensão e impedimento de emissão de passaporte, e altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), a Lei nº 14.597, de 14 de junho de 2023 (Lei Geral do Esporte), e a Lei nº 13.445, de 24 de maio de 2017 (Lei de Migração).",
+      "data": "2026-06-09T13:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630532"
     }
   ],
   "discursos": [],

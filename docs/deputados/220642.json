@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220642.jpg",
-  "score": 33.97,
-  "rank": 108,
+  "score": 33.61,
+  "rank": 99,
   "proposicoes": [
     {
       "id": 2623400,
@@ -99,6 +99,12 @@
       "sigla": "CEXEXPLO",
       "cargo": "Titular",
       "desde": "2026-05-11T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Titular",
+      "desde": "2026-06-09T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220642/votacoes-nominais-plenario/2026"

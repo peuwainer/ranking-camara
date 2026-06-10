@@ -4,10 +4,18 @@
   "partido": "MDB",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220714.jpg",
-  "score": 26.08,
-  "rank": 339,
+  "score": 25.42,
+  "rank": 336,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-06-09T19:28",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. ADAIL FILHO (Bloco/MDB - AM. Sem revisão do orador.) - Presidente, Sras. e Srs. Deputados, hoje eu ocupo esta tribuna para destacar uma grande obra que ficará marcada na história do Município de",
+      "transcricao": "O SR. ADAIL FILHO (Bloco/MDB - AM. Sem revisão do orador.) - Presidente, Sras. e Srs. Deputados, hoje eu ocupo esta tribuna para destacar uma grande obra que ficará marcada na história do Município de Tefé, de toda a região do Médio Solimões e também do Estado do Amazonas: é a tão sonhada construção da Ponte do Abial. Nós estamos falando de uma obra de mais de 125 milhões de reais, com 535 metros de extensão, que beneficiará diretamente milhares de famílias dos bairros do Abial, Colônia Aventura, Bairro Deus é Fiel e o Conjunto Castanheiras. Trata-se de uma obra que vai garantir não somente mobilidade, mas também desenvolvimento econômico, valorização imobiliária e mais qualidade de vida para o povo tefeense. Por isso, eu faço questão de reconhecer o trabalho e a competência do Prefeito Nicson Marreira, que teve a visão e a determinação de lutar por esse projeto e de acompanhar de perto a sua execução. Também é preciso registrar que uma obra dessa dimensão não é construída apenas por uma única pessoa. Ela é o resultado da união de forças em favor do Município. Eu tenho muito orgulho de ter contribuído para que esse sonho se tornasse realidade, trabalhando em Brasília, destinando emendas, buscando investimentos, abrindo portas e defendendo os interesses do povo de Tefé sempre que foi necessário. Da mesma forma, é justo reconhecer a participação fundamental do Senador Eduardo Braga e do Senador Omar Aziz, dois Parlamentares que têm demonstrado compromisso com o desenvolvimento do Estado do Amazonas e que também ajudaram a viabilizar os investimentos necessários para que essa obra avançasse. Hoje nós vemos o resultado desse esforço. É com grande alegria que informo que essa obra segue avançando e que já está sendo instalada a terceira estaca dessa importante ponte, demonstrando que o projeto está saindo do papel e se transformando em realidade. Essa ponte não liga apenas duas margens, ela liga oportunidades, ela aproxima as pessoas, fortalece bairros inteiros e abre caminho para o crescimento do Município de Tefé para as próximas décadas. Por isso, eu deixo aqui meu reconhecimento a todos os trabalhadores, ao Prefeito Nicson Marreira, principalmente ao povo de Tefé que é o verdadeiro beneficiado por essa grande obra, por esse grande investimento. Portanto, quando essa ponte estiver concluída ela será lembrada como símbolo de muito trabalho, de muita parceria e de compromisso com o futuro. Muito obrigado, Sr. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

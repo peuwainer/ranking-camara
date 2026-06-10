@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141485.jpg",
-  "score": 37.03,
-  "rank": 55,
+  "score": 36.6,
+  "rank": 52,
   "proposicoes": [
     {
       "id": 2623863,
@@ -108,6 +108,12 @@
       "sigla": "PEC22119",
       "cargo": "Suplente",
       "desde": "2026-04-29T00:00"
+    },
+    {
+      "nome": "Comissão de Desenvolvimento Econômico",
+      "sigla": "CDE",
+      "cargo": "Titular",
+      "desde": "2026-06-09T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/141485/votacoes-nominais-plenario/2026"

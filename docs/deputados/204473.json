@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RN",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204473.jpg",
-  "score": 32.71,
-  "rank": 128,
+  "score": 32.22,
+  "rank": 132,
   "proposicoes": [
     {
       "id": 2623400,
@@ -111,14 +111,14 @@
       "desde": "2024-02-07T00:00"
     },
     {
-      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
-      "sigla": "CAPADR",
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
       "cargo": "Suplente",
       "desde": "2026-02-03T00:00"
     },
     {
-      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
-      "sigla": "CSPCCO",
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
       "cargo": "Suplente",
       "desde": "2026-02-03T00:00"
     },
@@ -127,6 +127,12 @@
       "sigla": "CREDN",
       "cargo": "1º Vice-Presidente",
       "desde": "2026-03-04T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Titular",
+      "desde": "2026-06-09T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204473/votacoes-nominais-plenario/2026"

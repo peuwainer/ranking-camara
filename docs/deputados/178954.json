@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178954.jpg",
-  "score": 26.46,
-  "rank": 320,
+  "score": 27.36,
+  "rank": 262,
   "proposicoes": [
     {
       "id": 2624837,
@@ -51,6 +51,24 @@
       "ementa": "Altera o art. 25 da Lei 9.605, de 12 de fevereiro de 1998, para garantir ao proprietário de bens apreendidos por infrações ambientais o retorno de seus bens, nas condições em que estabelece.",
       "data": "2026-05-20T17:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626491"
+    },
+    {
+      "id": 2630796,
+      "tipo": "PLP",
+      "numero": 164,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 87, de 13 de setembro de 1996, para explicitar hipótese de não incidência do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) relativa à energia elétrica compensada no âmbito do Sistema de Compensação de Energia Elétrica.",
+      "data": "2026-06-09T19:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630796"
+    },
+    {
+      "id": 2630826,
+      "tipo": "PL",
+      "numero": 2983,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.300, de 6 de janeiro de 2022, para dispor sobre a cessão de créditos de energia elétrica obtidos por meio do Sistema de Compensação de Energia Elétrica (SCEE) a entidades sem fins lucrativos que prestem serviços nas áreas de assistência social, de saúde ou de educação.",
+      "data": "2026-06-09T20:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630826"
     }
   ],
   "discursos": [

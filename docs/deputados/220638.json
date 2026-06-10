@@ -4,9 +4,28 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220638.jpg",
-  "score": 29.01,
-  "rank": 228,
-  "proposicoes": [],
+  "score": 29.85,
+  "rank": 187,
+  "proposicoes": [
+    {
+      "id": 2630752,
+      "tipo": "PL",
+      "numero": 2969,
+      "ano": 2026,
+      "ementa": "Para dispor sobre a comunicação qualificada de sonegação fiscal e fraude fiscal, o pagamento de recompensa ao informante e os direitos do informante.",
+      "data": "2026-06-09T18:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630752"
+    },
+    {
+      "id": 2630755,
+      "tipo": "PL",
+      "numero": 2970,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o Programa Nacional de Autonomia Financeira Feminina e de Enfrentamento à Violência contra a Mulher (PNAFF).",
+      "data": "2026-06-09T18:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630755"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-05-20T14:28",

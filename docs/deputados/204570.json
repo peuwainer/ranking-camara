@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204570.jpg",
-  "score": 27.35,
-  "rank": 281,
+  "score": 29.13,
+  "rank": 207,
   "proposicoes": [
     {
       "id": 2625634,
@@ -33,6 +33,33 @@
       "ementa": "Institui a oferta facultativa de educação de trânsito e noções da legislação de trânsito nas escolas públicas e privadas de ensino médio e fundamental, e dá outras providências.",
       "data": "2026-05-27T15:39",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628387"
+    },
+    {
+      "id": 2630448,
+      "tipo": "PL",
+      "numero": 2931,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para dispor sobre o direito do consumidor à captação de imagem ou som no ambiente de consumo para fins de constituição de prova para a defesa de seus direitos e para definir como prática abusiva o ato de impedir esse registro.",
+      "data": "2026-06-09T10:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630448"
+    },
+    {
+      "id": 2630546,
+      "tipo": "PL",
+      "numero": 2938,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a destinação, reutilização, incorporação e utilização de equipamentos, maquinários, veículos, embarcações, aeronaves, instrumentos e demais bens apreendidos em operações de combate ao garimpo ilegal, mineração clandestina e crimes ambientais correlatos, em favor da Administração Pública Federal, Estadual, Distrital e Municipal, e dá outras providências.",
+      "data": "2026-06-09T13:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630546"
+    },
+    {
+      "id": 2630567,
+      "tipo": "PL",
+      "numero": 2941,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de concessionárias de rodovias e pedágios, postos de combustíveis e estabelecimentos de apoio localizados em rodovias federais, estaduais e municipais fornecerem infraestrutura mínima obrigatória de higiene, segurança, descanso e apoio aos usuários das vias, e dá outras providências.",
+      "data": "2026-06-09T14:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630567"
     }
   ],
   "discursos": [],

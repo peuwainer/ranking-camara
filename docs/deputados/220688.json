@@ -5,8 +5,18 @@
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220688.jpg",
   "score": 28.8,
-  "rank": 233,
-  "proposicoes": [],
+  "rank": 220,
+  "proposicoes": [
+    {
+      "id": 2630684,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre direitos dos pacientes com doença renal crônica.",
+      "data": "2026-06-09T16:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630684"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-05-27T15:52",

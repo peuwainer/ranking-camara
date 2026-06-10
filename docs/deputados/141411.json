@@ -4,9 +4,19 @@
   "partido": "PP",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141411.jpg",
-  "score": 29.83,
-  "rank": 200,
-  "proposicoes": [],
+  "score": 29.86,
+  "rank": 185,
+  "proposicoes": [
+    {
+      "id": 2630831,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Inclui na Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente, o direito a ambiente escolar livre das pressões por adultização precoce, e dá outras providências.",
+      "data": "2026-06-09T11:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630831"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

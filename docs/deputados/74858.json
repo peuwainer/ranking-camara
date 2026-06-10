@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74858.jpg",
-  "score": 25.42,
-  "rank": 365,
+  "score": 27.23,
+  "rank": 270,
   "proposicoes": [
     {
       "id": 2628942,
@@ -24,6 +24,33 @@
       "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990, e a Lei nº 15.358, de 24 de março de 2026, para incluir expressamente no rol dos crimes hediondos as modalidades ultraviolentas de homicídio doloso, latrocínio, extorsão e extorsão mediante sequestro praticadas no contexto de organizações criminosas ultraviolentas, grupos paramilitares ou milícias privadas.",
       "data": "2026-06-08T16:22",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630343"
+    },
+    {
+      "id": 2630391,
+      "tipo": "PL",
+      "numero": 2928,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a regulamentação do exercício das profissões de Analista de Sistemas, Desenvolvedor de Sistemas, Engenheiro de Sistemas, Analista de Redes, Administrador de Banco de Dados, Suporte em Informática e suas correlatas, cria o Conselho Federal e os Conselhos Regionais de Informática e dá outras providências.",
+      "data": "2026-06-08T19:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630391"
+    },
+    {
+      "id": 2630551,
+      "tipo": "PL",
+      "numero": 2939,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição da exploração comercial de jogos de azar digitais e modalidades disfarçadas em território nacional; altera o Decreto-Lei nº 3.688, de 3 de outubro de 1941, e a Lei nº 14.790, de 29 de dezembro de 2023; e dá outras providências.",
+      "data": "2026-06-09T14:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630551"
+    },
+    {
+      "id": 2630561,
+      "tipo": "PL",
+      "numero": 2940,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a limitação para as taxas de juros cobradas por instituições financeiras e operadoras de crédito concedido a pessoas naturais ou microempreendedores individuais (MEI), e dá outras providências.",
+      "data": "2026-06-09T14:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630561"
     }
   ],
   "discursos": [

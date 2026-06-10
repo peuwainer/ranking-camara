@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/72442.jpg",
-  "score": 30.04,
-  "rank": 192,
+  "score": 30.11,
+  "rank": 177,
   "proposicoes": [
     {
       "id": 2623961,
@@ -33,6 +33,15 @@
       "ementa": "Dispõe sobre o reajuste periódico dos limites de receita bruta anual do Microempreendedor Individual (MEI), determinando sua atualização a cada quatro anos com base em índice oficial de inflação, e dá outras providências.",
       "data": "2026-06-03T18:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630074"
+    },
+    {
+      "id": 2630671,
+      "tipo": "PL",
+      "numero": 2956,
+      "ano": 2026,
+      "ementa": "Concede ao município de Cachoeirinha, o título de Capital Nacional dos Arreios de Couro e Aço.",
+      "data": "2026-06-09T16:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630671"
     }
   ],
   "discursos": [],

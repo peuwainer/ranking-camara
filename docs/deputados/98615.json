@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/98615.jpg",
-  "score": 29.82,
-  "rank": 202,
+  "score": 29.79,
+  "rank": 190,
   "proposicoes": [
     {
       "id": 2623400,
@@ -60,6 +60,15 @@
       "ementa": "Institui incentivo fiscal para doações a projetos que concorram para a garantia do funcionamento e melhoria da infraestrutura de instituições públicas de ensino.",
       "data": "2026-06-01T11:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629457"
+    },
+    {
+      "id": 2630431,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a isenção de cobranças de matrícula em cursos sem data de início definido nas instituições de ensino superior privadas.",
+      "data": "2026-06-08T10:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630431"
     }
   ],
   "discursos": [

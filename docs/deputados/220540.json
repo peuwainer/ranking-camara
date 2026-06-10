@@ -4,7 +4,7 @@
   "partido": "PODE",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 57.18,
+  "score": 57.24,
   "rank": 4,
   "proposicoes": [
     {
@@ -357,6 +357,15 @@
       "ementa": "Institui o Marco Legal da Soberania Financeira Digital Brasileira e da Proteção das Infraestruturas Estratégicas Nacionais de Pagamentos, estabelece a Política Nacional de Soberania Financeira Digital, dispõe sobre a proteção dos sistemas nacionais de pagamentos digitais, a defesa dos usuários, a prevenção de fraudes financeiras digitais, a inclusão financeira territorial, a proteção de dados financeiros estratégicos e dá outras providências.",
       "data": "2026-06-08T15:31",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630308"
+    },
+    {
+      "id": 2630380,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Apoio Psicológico a Profissionais de Serviços Essenciais e estabelece sua articulação com a Rede de Atenção Psicossocial do Sistema Único de Saúde.",
+      "data": "2026-06-08T15:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630380"
     }
   ],
   "discursos": [],
@@ -414,6 +423,12 @@
       "sigla": "CDU",
       "cargo": "Suplente",
       "desde": "2026-05-14T00:00"
+    },
+    {
+      "nome": "Comissão de Meio Ambiente e Desenvolvimento Sustentável",
+      "sigla": "CMADS",
+      "cargo": "Titular",
+      "desde": "2026-06-09T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220540/votacoes-nominais-plenario/2026"

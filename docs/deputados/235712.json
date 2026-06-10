@@ -4,10 +4,18 @@
   "partido": "AVANTE",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/235712.jpg",
-  "score": 24.43,
-  "rank": 391,
+  "score": 23.8,
+  "rank": 392,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-06-09T15:28",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. VAVÁ (AVANTE - MG. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, há um Brasil que parece não ter sido notado pela janela do poder em Brasília. Há um Brasil que acorda às 4 da",
+      "transcricao": "O SR. VAVÁ (AVANTE - MG. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, há um Brasil que parece não ter sido notado pela janela do poder em Brasília. Há um Brasil que acorda às 4 da manhã, pega criança no colo e enfrenta deslocamentos por estradas de terra, por rio e, algumas vezes, a pé; que chega a uma fila do INSS antes de o sol nascer para ouvir, ao fim do dia, que, mais uma vez, o benefício lhe foi negado. Eu vim falar hoje, Sr. Presidente, desse Brasil, do Brasil das famílias neurodivergentes da comunidade autista. Mais de dois milhões de brasileiros vivem com o Transtorno do Espectro Autista e pedem, não piedade, mas estrutura, política pública, dignidade e, acima de tudo, visibilidade. E o que encontram essas famílias? Encontram um país sem centros especializados suficientes e adequados para o atendimento. Nos Vales do Jequitinhonha e Mucuri, minha região, a região que represento, uma mãe percorre mais de 600 quilômetros para uma consulta com um neuropediatra na capital. O Brasil reconheceu recentemente em lei que a pessoa com autismo é pessoa com deficiência, mas direito que não chega à ponta vira promessa vazia. Para milhares de famílias nas regiões mais vulneráveis o que existe não é cuidado integral, é abandono silencioso. Eu quero falar especialmente das mães que abandonaram suas profissões, renunciaram aos seus sonhos, seus sentimentos, seus desejos, enfim. E o que é que receberam? Elas recebem a ausência do Estado. Muitas dessas mães, por sinal, Sr. Presidente, foram abandonadas pelos esposos, pelos parceiros, pelos companheiros, que não suportaram mais a realidade e foram embora. Ficaram sozinhas, sem renda, sem apoio, sem rede. E aí vem o absurdo que precisa ser dito em voz alta nesta Casa. Essas mães tentam acessar o BPC, ao qual seus filhos têm direito por lei, e o INSS exige laudo especializado, diagnóstico, comprovação técnica de uma condição que escancarou a vida dessas famílias ao sofrimento. Como apresentar laudo especializado quem não consegue chegar a um especialista, quem não tem centro de referência no Município, na região ou em localidades próximas? É como se a gente acionasse os bombeiros e eles pedissem uma prova do incêndio enquanto as pessoas queimam no fogo. Mesmo aquelas mães que conseguem a documentação têm o benefício negado ou aguardam meses, anos por um direito que no papel não virou realidade, como se a condição pudesse esperar, como se a criança pudesse pausar o seu desenvolvimento, como se essas mães, Sr. Presidente, não estivessem sendo desafiadas todo dia pela falta de comida, de fralda, pelo preconceito e pela discriminação. Esse círculo perverso é uma crueldade institucionalizada. Nós aqui temos responsabilidade sobre ele. Precisamos de centros regionalizados de diagnóstico, de tratamento especializado, de atenção, de uma política nacional de neurodivergência que chegue aonde o Estado ainda não chegou. Essas mães precisam de aplausos. Elas precisam de respostas, de cuidado, de respeito e, acima de tudo, de dignidade!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Saúde",

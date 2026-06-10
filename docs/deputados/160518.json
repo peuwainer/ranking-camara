@@ -4,9 +4,19 @@
   "partido": "PSD",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160518.jpg",
-  "score": 19.93,
-  "rank": 465,
-  "proposicoes": [],
+  "score": 20.22,
+  "rank": 456,
+  "proposicoes": [
+    {
+      "id": 2630476,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer pela aprovação do Projeto de Lei 6.201, de 2025, e de seu apensado, o Projeto de Lei 6.346, de 2025, na forma do substitutivo.",
+      "data": "2026-06-08T14:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630476"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-06-02T16:40",
