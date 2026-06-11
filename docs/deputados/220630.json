@@ -4,18 +4,9 @@
   "partido": "PP",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220630.jpg",
-  "score": 30.35,
-  "rank": 171,
+  "score": 27.6,
+  "rank": 194,
   "proposicoes": [
-    {
-      "id": 2623400,
-      "tipo": "PEC",
-      "numero": 8,
-      "ano": 2026,
-      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
-      "data": "2026-05-11T14:49",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
-    },
     {
       "id": 2624863,
       "tipo": "EMC",
@@ -63,6 +54,12 @@
       "sigla": "CSPCCO",
       "cargo": "Titular",
       "desde": "2026-04-24T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Titular",
+      "desde": "2026-06-10T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220630/votacoes-nominais-plenario/2026"

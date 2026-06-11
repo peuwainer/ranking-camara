@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74784.jpg",
-  "score": 26.25,
-  "rank": 307,
+  "score": 24.9,
+  "rank": 279,
   "proposicoes": [
     {
       "id": 2625893,
@@ -24,6 +24,15 @@
       "ementa": "Institui o Dia Nacional de Conscientização sobre o Vírus Linfotrópico de Células T Humanas (HTLV).",
       "data": "2026-06-01T10:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629361"
+    },
+    {
+      "id": 2631190,
+      "tipo": "PEC",
+      "numero": 13,
+      "ano": 2026,
+      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
+      "data": "2026-06-10T12:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
     }
   ],
   "discursos": [],

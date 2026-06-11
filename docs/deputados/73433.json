@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73433.jpg",
-  "score": 27.61,
-  "rank": 251,
+  "score": 26.91,
+  "rank": 215,
   "proposicoes": [
     {
       "id": 2625485,
@@ -33,6 +33,24 @@
       "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, para estabelecer o pagamento em dobro do benefício previdenciário quando houver negativa de direito na esfera administrativa por erro grosseiro, ausência de exame das provas apresentadas pelo segurado ou utilização de ferramentas digitais de inteligência artificial, com ou sem supervisão humana.",
       "data": "2026-06-02T12:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629613"
+    },
+    {
+      "id": 2631190,
+      "tipo": "PEC",
+      "numero": 13,
+      "ano": 2026,
+      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
+      "data": "2026-06-10T12:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
+    },
+    {
+      "id": 2631366,
+      "tipo": "PL",
+      "numero": 3032,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para incluir as despesas com aparelhos auditivos e tecnologias assistivas auditivas no rol de despesas médicas dedutíveis do imposto sobre a renda, e altera a Lei nº 8.213, de 24 de julho de 1991, para incluir o fornecimento de aparelhos auditivos no programa de reabilitação profissional.",
+      "data": "2026-06-10T16:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631366"
     }
   ],
   "discursos": [

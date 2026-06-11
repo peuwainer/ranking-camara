@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141555.jpg",
-  "score": 32.28,
-  "rank": 129,
+  "score": 30.52,
+  "rank": 122,
   "proposicoes": [
-    {
-      "id": 2623400,
-      "tipo": "PEC",
-      "numero": 8,
-      "ano": 2026,
-      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
-      "data": "2026-05-11T14:49",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
-    },
     {
       "id": 2623604,
       "tipo": "PEC",
@@ -78,6 +69,24 @@
       "ementa": "Altera a Lei nº 10.820, de 17 de dezembro de 2003, para dispor sobre medidas para assegurar a identificação e a vontade inequívoca do tomador de crédito por meio digital, e dá outras providências.",
       "data": "2026-05-18T12:40",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625469"
+    },
+    {
+      "id": 2631190,
+      "tipo": "PEC",
+      "numero": 13,
+      "ano": 2026,
+      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
+      "data": "2026-06-10T12:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
+    },
+    {
+      "id": 2631298,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 2026,
+      "ementa": "COMISSÃO DE CONSTITUIÇÃO E JUSTIÇA E DE CIDADANIA\n\n\nPROJETO DE LEI Nº 1994, DE 2025\n\n\nAltera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para garantir a responsabilidade do proprietário anterior pelo pagamento de multas de trânsito incidentes sobre o veículo transferido, e estabelece medidas complementares para a transparência e eficiência na transferência de propriedade de veículos.\n\nEMENDA SUPRESSIVA",
+      "data": "2026-06-10T14:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631298"
     }
   ],
   "discursos": [

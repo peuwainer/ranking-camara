@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220655.jpg",
-  "score": 18.49,
-  "rank": 474,
+  "score": 16.93,
+  "rank": 473,
   "proposicoes": [
-    {
-      "id": 2623400,
-      "tipo": "PEC",
-      "numero": 8,
-      "ano": 2026,
-      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
-      "data": "2026-05-11T14:49",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
-    },
     {
       "id": 2623604,
       "tipo": "PEC",
@@ -60,6 +51,15 @@
       "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos decorrentes de choques extraordinários no mercado internacional de energia.",
       "data": "2026-05-27T22:10",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628690"
+    },
+    {
+      "id": 2631357,
+      "tipo": "EMP",
+      "numero": 12,
+      "ano": 0,
+      "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
+      "data": "2026-06-10T15:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631357"
     }
   ],
   "discursos": [],

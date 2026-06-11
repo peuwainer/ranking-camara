@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/214694.jpg",
-  "score": 32.75,
-  "rank": 122,
+  "score": 30.12,
+  "rank": 133,
   "proposicoes": [
-    {
-      "id": 2623400,
-      "tipo": "PEC",
-      "numero": 8,
-      "ano": 2026,
-      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
-      "data": "2026-05-11T14:49",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
-    },
     {
       "id": 2623604,
       "tipo": "PEC",
@@ -78,6 +69,15 @@
       "ementa": "Acrescentem-se os §§ 3, 4º e 5º ao art. 4º do Substitutivo adotado pela Comissão de Educação ao Projeto de Lei nº 4.077, de 2025, com a seguinte redação:",
       "data": "2026-05-28T13:24",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628890"
+    },
+    {
+      "id": 2631190,
+      "tipo": "PEC",
+      "numero": 13,
+      "ano": 2026,
+      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
+      "data": "2026-06-10T12:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
     }
   ],
   "discursos": [],

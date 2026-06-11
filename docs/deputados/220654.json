@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220654.jpg",
-  "score": 42.79,
-  "rank": 21,
+  "score": 42.22,
+  "rank": 14,
   "proposicoes": [
-    {
-      "id": 2623400,
-      "tipo": "PEC",
-      "numero": 8,
-      "ano": 2026,
-      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
-      "data": "2026-05-11T14:49",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
-    },
     {
       "id": 2623604,
       "tipo": "PEC",
@@ -69,6 +60,24 @@
       "ementa": "Dispõe sobre a concessão de premiação em pecúnia, por mérito especial, aos agentes de segurança pública, elencados no art. 144 da Constituição Federal, e dá outras providências.",
       "data": "2026-06-08T14:06",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630274"
+    },
+    {
+      "id": 2630876,
+      "tipo": "SBT",
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Estabelece a exigência de tornar acessíveis os dados dos antecedentes criminais de terceiros armazenados nos sistemas de órgãos públicos para consulta pelas entidades de defesa, assistência e proteção dos direitos da mulher, e adota outras providências.",
+      "data": "2026-06-09T11:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630876"
+    },
+    {
+      "id": 2630975,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Nacional de Atendimento e Proteção às Vítimas de Estupro de Vulnerável – \"AÇÃO PROTETIVA 360º\" – e estabelece diretrizes para o atendimento humanizado, coleta e preservação de vestígios biológicos e integração dos órgãos estatais no enfrentamento desse crime.",
+      "data": "2026-06-09T12:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630975"
     }
   ],
   "discursos": [

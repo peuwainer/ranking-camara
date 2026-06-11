@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220704.jpg",
-  "score": 23.12,
-  "rank": 410,
+  "score": 21.53,
+  "rank": 417,
   "proposicoes": [
-    {
-      "id": 2623468,
-      "tipo": "SBT",
-      "numero": 4,
-      "ano": 0,
-      "ementa": "Altera a redação dada pela Lei nº 12.711, de 29 de agosto de 2012, que “Dispõe sobre o ingresso nas universidades federais e nas instituições federais de ensino técnico de nível médio e dá outras providências.”, a fim de tornar obrigatória a reserva de vagas em seus programas de pós-graduação.",
-      "data": "2026-05-11T16:32",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623468"
-    },
     {
       "id": 2626412,
       "tipo": "SBT",
@@ -69,6 +60,15 @@
       "ementa": "Altera a Lei Geral do Esporte, e o Código de Processo Civil, para instituir mecanismo de restrição de acesso e permanência em arenas esportivas os devedores de obrigação alimentar, mediante integração aos sistemas de controle biométrico de acesso, e disciplinar medida executiva coercitiva destinada ao cumprimento da obrigação alimentar.",
       "data": "2026-06-01T17:04",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629498"
+    },
+    {
+      "id": 2631190,
+      "tipo": "PEC",
+      "numero": 13,
+      "ano": 2026,
+      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
+      "data": "2026-06-10T12:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
     }
   ],
   "discursos": [

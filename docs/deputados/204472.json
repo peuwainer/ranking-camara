@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204472.jpg",
-  "score": 44.21,
-  "rank": 17,
+  "score": 54.05,
+  "rank": 4,
   "proposicoes": [
-    {
-      "id": 2623400,
-      "tipo": "PEC",
-      "numero": 8,
-      "ano": 2026,
-      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
-      "data": "2026-05-11T14:49",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
-    },
     {
       "id": 2623604,
       "tipo": "PEC",
@@ -177,6 +168,168 @@
       "ementa": "Institui o Programa Nacional de Regularização Ambiental e Fundiária Simplificada – “CAR EXPRESSO” (Fast Track), altera a Lei nº 12.651/2012 (Código Florestal), e dá outras providências.",
       "data": "2026-06-09T19:53",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630797"
+    },
+    {
+      "id": 2630863,
+      "tipo": "PL",
+      "numero": 2985,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção da Produção Agropecuária e de Combate aos Crimes no Campo – “Lei da Blindagem Rural”, estabelece medidas de prevenção, repressão e resposta rápida a ilícitos que impactem a produção de alimentos, a logística e o abastecimento nacional, e dá outras providências.",
+      "data": "2026-06-09T20:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630863"
+    },
+    {
+      "id": 2631196,
+      "tipo": "PL",
+      "numero": 2995,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proteção dos consumidores idosos nas operações de crédito consignado e demais modalidades de empréstimo realizadas por instituições financeiras, vedando a contratação automatizada por sistemas de inteligência artificial e exigindo validação presencial para pessoas com idade igual ou superior a 60 (sessenta) anos.",
+      "data": "2026-06-10T12:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631196"
+    },
+    {
+      "id": 2631199,
+      "tipo": "PL",
+      "numero": 2996,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a vedação à concessão de novos financiamentos, garantias, equalizações, subvenções creditícias ou quaisquer modalidades de apoio financeiro com recursos do Banco Nacional de Desenvolvimento Econômico e Social – BNDES a governos estrangeiros, entidades estatais estrangeiras ou empresas por eles controladas que possuam obrigações financeiras vencidas e não quitadas perante a República Federativa do Brasil, suas autarquias, fundações, empresas públicas ou sociedades de economia mista.",
+      "data": "2026-06-10T12:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631199"
+    },
+    {
+      "id": 2631220,
+      "tipo": "PL",
+      "numero": 2998,
+      "ano": 2026,
+      "ementa": "Institui a Agência Nacional de Regulação de Vestibulares e Seleções – ANRVS estabelece normas para a realização de processos seletivos de acesso ao ensino superior e dá outras providências.",
+      "data": "2026-06-10T12:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631220"
+    },
+    {
+      "id": 2631222,
+      "tipo": "PL",
+      "numero": 2999,
+      "ano": 2026,
+      "ementa": "Estabelece regras de quarentena para nomeações a Tribunais Superiores e Agências Reguladoras, veda a indicação de agentes com atuação político-partidária recente, limita o poder normativo do Poder Judiciário e reforça o princípio da separação dos Poderes.",
+      "data": "2026-06-10T13:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631222"
+    },
+    {
+      "id": 2631225,
+      "tipo": "PL",
+      "numero": 3000,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Redução de Perdas e Desperdício de Alimentos, estabelece metas obrigatórias, cria mecanismos de doação, reaproveitamento, rastreabilidade e responsabilização, e dá outras providências.",
+      "data": "2026-06-10T13:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631225"
+    },
+    {
+      "id": 2631235,
+      "tipo": "PL",
+      "numero": 3001,
+      "ano": 2026,
+      "ementa": "Estabelece a responsabilidade civil e administrativa do poder público por acidentes em rodovias decorrentes de omissão na manutenção ou sinalização, determina a obrigatoriedade de sinalização imediata de risco à segurança viária e dá outras providências.",
+      "data": "2026-06-10T13:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631235"
+    },
+    {
+      "id": 2631241,
+      "tipo": "PL",
+      "numero": 3002,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a limpeza de pastagem em áreas rurais consolidadas, estabelece critérios objetivos para sua realização, disciplina a autodeclaração ambiental, limita a discricionariedade administrativa e dá outras providências.",
+      "data": "2026-06-10T13:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631241"
+    },
+    {
+      "id": 2631246,
+      "tipo": "PL",
+      "numero": 3003,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de divulgação da taxa real de juros nas operações de crédito, determina a apresentação destacada do Custo Efetivo Total (CET) e estabelece medidas de transparência para o consumidor.",
+      "data": "2026-06-10T13:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631246"
+    },
+    {
+      "id": 2631249,
+      "tipo": "PL",
+      "numero": 3004,
+      "ano": 2026,
+      "ementa": "Institui o Sistema Nacional de Avaliação Objetiva da Administração Pública – SINAOP, e dá outras providências.",
+      "data": "2026-06-10T13:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631249"
+    },
+    {
+      "id": 2631263,
+      "tipo": "PL",
+      "numero": 3005,
+      "ano": 2026,
+      "ementa": "Cria o Portal Único Governamental de Contratação, estabelece regras obrigatórias de transparência em processos seletivos públicos e privados, e dispõe sobre a prevenção de abusos, discriminação e práticas antiéticas na intermediação de vagas de trabalho.",
+      "data": "2026-06-10T13:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631263"
+    },
+    {
+      "id": 2631279,
+      "tipo": "PL",
+      "numero": 3007,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 6.766, de 19 de dezembro de 1979, para permitir que os Municípios possam, mediante justificativa de interesse público, alterar a destinação de áreas institucionais e públicas oriundas de parcelamentos urbanos, inclusive por meio de alienação, permuta ou desafetação, observados critérios de planejamento urbano e controle social.",
+      "data": "2026-06-10T13:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631279"
+    },
+    {
+      "id": 2631291,
+      "tipo": "PL",
+      "numero": 3009,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a vedação do uso de recursos públicos para autopromoção de agentes públicos e para financiamento de veículos de comunicação com finalidade de favorecimento político, estabelece critérios objetivos para publicidade institucional e reforça os princípios da impessoalidade e moralidade administrativa.",
+      "data": "2026-06-10T14:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631291"
+    },
+    {
+      "id": 2631292,
+      "tipo": "PL",
+      "numero": 3010,
+      "ano": 2026,
+      "ementa": "Amplia a oferta da vacina contra o Papilomavírus Humano (HPV) para mulheres de 10 a 45 anos no âmbito do Sistema Único de Saúde – SUS, e dá outras providências.",
+      "data": "2026-06-10T14:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631292"
+    },
+    {
+      "id": 2631293,
+      "tipo": "PL",
+      "numero": 3011,
+      "ano": 2026,
+      "ementa": "Autoriza a inclusão voluntária do tipo sanguíneo e fator Rh nos documentos oficiais de identificação civil e de habilitação, mediante comprovação laboratorial, e estabelece diretrizes para utilização em situações de emergência médica.",
+      "data": "2026-06-10T14:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631293"
+    },
+    {
+      "id": 2631295,
+      "tipo": "PL",
+      "numero": 3015,
+      "ano": 2026,
+      "ementa": "Institui a Lei Nacional de Proteção Financeira da Pessoa Idosa, estabelece mecanismos de prevenção a fraudes financeiras, combate ao superendividamento, proteção contra assédio comercial e contratação indevida de operações de crédito, e dá outras providências.",
+      "data": "2026-06-10T14:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631295"
+    },
+    {
+      "id": 2631297,
+      "tipo": "PL",
+      "numero": 3017,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Humanização do Atendimento ao Consumidor, cria o direito à transferência imediata para atendimento humano em serviços prestados por inteligência artificial, chatbots ou sistemas automatizados, estabelece o Selo Humano de Atendimento e dá outras providências.",
+      "data": "2026-06-10T14:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631297"
+    },
+    {
+      "id": 2631322,
+      "tipo": "PLP",
+      "numero": 167,
+      "ano": 2026,
+      "ementa": "Institui o Estatuto da Primeira Empresa, estabelece regime especial de incentivo à abertura de microempresas por jovens e desempregados de longa duração, concede isenções tributárias e administrativas temporárias e dá outras providências.",
+      "data": "2026-06-10T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631322"
     }
   ],
   "discursos": [

@@ -4,18 +4,9 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
-  "score": 45.67,
-  "rank": 14,
+  "score": 43.02,
+  "rank": 12,
   "proposicoes": [
-    {
-      "id": 2623445,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Reconhece como manifestação da cultura nacional o Serviço de Transporte Público Individual Remunerado de Passageiros operado por veículos a taxímetro.",
-      "data": "2026-05-11T16:41",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623445"
-    },
     {
       "id": 2624475,
       "tipo": "PL",
@@ -150,6 +141,24 @@
       "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para inserir expressamente a conduta de abandono de animais no tipo penal previsto em seu art. 32.",
       "data": "2026-06-08T16:04",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630337"
+    },
+    {
+      "id": 2631190,
+      "tipo": "PEC",
+      "numero": 13,
+      "ano": 2026,
+      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
+      "data": "2026-06-10T12:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
+    },
+    {
+      "id": 2631331,
+      "tipo": "PL",
+      "numero": 3029,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a garantia do acesso universal ao ensino superior público no território nacional, institui o ciclo básico comum e estabelece mecanismos de equidade na progressão acadêmica.",
+      "data": "2026-06-10T15:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631331"
     }
   ],
   "discursos": [

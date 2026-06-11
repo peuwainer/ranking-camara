@@ -4,18 +4,9 @@
   "partido": "MDB",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204436.jpg",
-  "score": 12.5,
+  "score": 11.6,
   "rank": 498,
   "proposicoes": [
-    {
-      "id": 2623404,
-      "tipo": "EMP",
-      "numero": 9,
-      "ano": 0,
-      "ementa": "Institui o marco legal do transporte público coletivo urbano e altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), a Lei nº 10.336, de 19 de dezembro de 2001, a Lei nº 10.636, de 30 de dezembro de 2002, e a Lei nº 12.587, de 3 de janeiro de 2012 (Lei de Mobilidade Urbana).",
-      "data": "2026-05-11T14:53",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623404"
-    },
     {
       "id": 2624699,
       "tipo": "PLP",
@@ -33,6 +24,15 @@
       "ementa": "Altera os limites da Floresta Nacional do Jamanxim e cria a Área de Proteção Ambiental do Jamanxim, localizadas no Município de Novo Progresso, Estado do Pará.",
       "data": "2026-05-19T18:35",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625949"
+    },
+    {
+      "id": 2631190,
+      "tipo": "PEC",
+      "numero": 13,
+      "ano": 2026,
+      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
+      "data": "2026-06-10T12:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
     }
   ],
   "discursos": [

@@ -4,18 +4,9 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220645.jpg",
-  "score": 38.04,
-  "rank": 41,
+  "score": 35.13,
+  "rank": 50,
   "proposicoes": [
-    {
-      "id": 2623562,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre a valorização, proteção e promoção dos direitos das mulheres trabalhadoras operadoras de telemarketing e institui a Política Nacional de Valorização e Proteção das Trabalhadoras de Telemarketing.",
-      "data": "2026-05-11T15:41",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623562"
-    },
     {
       "id": 2625641,
       "tipo": "SBT",
@@ -87,6 +78,15 @@
       "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para instituir as Diretrizes Nacionais das Rondas Maria da Penha, destinadas à fiscalização do cumprimento das medidas protetivas de urgência e à prevenção da violência doméstica e familiar contra a mulher.",
       "data": "2026-06-08T21:52",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630598"
+    },
+    {
+      "id": 2631190,
+      "tipo": "PEC",
+      "numero": 13,
+      "ano": 2026,
+      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
+      "data": "2026-06-10T12:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
     }
   ],
   "discursos": [

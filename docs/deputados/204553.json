@@ -4,27 +4,9 @@
   "partido": "AVANTE",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204553.jpg",
-  "score": 31.71,
-  "rank": 138,
+  "score": 29.22,
+  "rank": 154,
   "proposicoes": [
-    {
-      "id": 2623400,
-      "tipo": "PEC",
-      "numero": 8,
-      "ano": 2026,
-      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
-      "data": "2026-05-11T14:49",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
-    },
-    {
-      "id": 2623497,
-      "tipo": "PL",
-      "numero": 2305,
-      "ano": 2026,
-      "ementa": "Denomina “Missionários Daniel Berg e Gunnar Vingren” a Ferrovia Norte-Sul (EF-151).",
-      "data": "2026-05-11T18:25",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623497"
-    },
     {
       "id": 2624971,
       "tipo": "PL",
@@ -42,6 +24,24 @@
       "ementa": "Altera a Lei nº 9.503/1997 para dispor sobre a não aplicação da medida administrativa de remoção do veículo em determinadas hipóteses de estacionamento irregular, quando cessada imediatamente a infração antes do início do procedimento de guinchamento.",
       "data": "2026-05-25T10:39",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627397"
+    },
+    {
+      "id": 2631151,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.637, de 15 de maio de 1998, para incluir o atendimento especializado às pessoas com deficiência dentre as áreas de atuação das organizações sociais, bem como dispor sobre os requisitos de qualificação de entidades como organizações sociais e a celebração e execução dos contratos de gestão.",
+      "data": "2026-06-09T12:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631151"
+    },
+    {
+      "id": 2631372,
+      "tipo": "PL",
+      "numero": 3035,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o registro honorífico do posto ou da graduação correspondente aos proventos percebidos pelos militares da reserva remunerada e reformados das Forças Armadas, das Polícias Militares e dos Corpos de Bombeiros Militares, e dá outras providências.",
+      "data": "2026-06-10T16:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631372"
     }
   ],
   "discursos": [

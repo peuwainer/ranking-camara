@@ -4,8 +4,8 @@
   "partido": "SOLIDARIEDADE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
-  "score": 41.1,
-  "rank": 27,
+  "score": 41.24,
+  "rank": 17,
   "proposicoes": [
     {
       "id": 2625950,
@@ -24,6 +24,24 @@
       "ementa": "Dispõe sobre a prevenção, detecção, mitigação e rastreabilidade de fraudes financeiras praticadas mediante engenharia social, estabelece deveres de segurança para instituições financeiras, instituições de pagamento e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, e altera a Lei nº 8.078, de 11 de setembro de 1990.",
       "data": "2026-05-20T18:13",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626519"
+    },
+    {
+      "id": 2631190,
+      "tipo": "PEC",
+      "numero": 13,
+      "ano": 2026,
+      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
+      "data": "2026-06-10T12:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
+    },
+    {
+      "id": 2631659,
+      "tipo": "PLP",
+      "numero": 170,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), para vedar a instituição de taxas fundadas exclusivamente no trânsito, ingresso ou permanência de pessoas físicas ou veículos no território do ente tributante",
+      "data": "2026-06-10T18:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631659"
     }
   ],
   "discursos": [

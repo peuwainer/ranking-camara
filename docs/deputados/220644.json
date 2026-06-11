@@ -4,27 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220644.jpg",
-  "score": 31.06,
-  "rank": 155,
+  "score": 28.42,
+  "rank": 173,
   "proposicoes": [
-    {
-      "id": 2623400,
-      "tipo": "PEC",
-      "numero": 8,
-      "ano": 2026,
-      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
-      "data": "2026-05-11T14:49",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
-    },
-    {
-      "id": 2623441,
-      "tipo": "PL",
-      "numero": 2302,
-      "ano": 2026,
-      "ementa": "Classifica nanismo como deficiência e insitui o Plano Nacional de Atenção ao Nanismo.",
-      "data": "2026-05-11T16:41",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623441"
-    },
     {
       "id": 2623604,
       "tipo": "PEC",
@@ -78,6 +60,24 @@
       "ementa": "Altera o Decreto-Lei n° 2.848, de 7 de dezembro de 1940 (Código Penal), para aumentar para além dos crimes sexuais, os de violência contra a mulher e de corrupção, nos casos de exceção de redução prescricional por idade.",
       "data": "2026-06-01T15:05",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629446"
+    },
+    {
+      "id": 2630836,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.656, de 3 de junho de 1998, para dispor sobre a garantia de acesso a medicamentos de uso oral modificadores do curso das doenças imunomediadas, doenças crônicas de alta complexidade e doenças raras.",
+      "data": "2026-06-09T20:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630836"
+    },
+    {
+      "id": 2631287,
+      "tipo": "PL",
+      "numero": 3008,
+      "ano": 2026,
+      "ementa": "Implementa mecanismos para o fortalecimento da capacidade operacional das organizações da sociedade civil executoras de políticas públicas voltadas a criança, adolescente, pessoa idosa, pessoa com deficiência e pessoas em situação de vulnerabilidade.",
+      "data": "2026-06-10T14:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631287"
     }
   ],
   "discursos": [

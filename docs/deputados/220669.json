@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220669.jpg",
-  "score": 22.38,
-  "rank": 430,
+  "score": 22.06,
+  "rank": 397,
   "proposicoes": [
     {
       "id": 2624040,
@@ -69,6 +69,24 @@
       "ementa": "Altera a Lei dos Planos de Saúde, para limitar a cobrança mensal de coparticipação ou de franquia a 10% (dez por cento) do valor da mensalidade do plano privado de assistência à saúde.",
       "data": "2026-06-03T10:24",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629944"
+    },
+    {
+      "id": 2631308,
+      "tipo": "PL",
+      "numero": 3022,
+      "ano": 2026,
+      "ementa": "Altera a Lei que dispõe sobre os Conselhos de Medicina para prever medidas administrativas em caso de atraso ou inadimplemento remuneratório perante médicos.",
+      "data": "2026-06-10T14:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631308"
+    },
+    {
+      "id": 2631309,
+      "tipo": "PL",
+      "numero": 3023,
+      "ano": 2026,
+      "ementa": "Amplia as hipóteses de movimentação da conta vinculada do FGTS para tratamento de doenças do trabalhador ou de seus familiares.",
+      "data": "2026-06-10T14:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631309"
     }
   ],
   "discursos": [],

@@ -4,18 +4,9 @@
   "partido": "PODE",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 57.24,
-  "rank": 4,
+  "score": 55.79,
+  "rank": 3,
   "proposicoes": [
-    {
-      "id": 2623400,
-      "tipo": "PEC",
-      "numero": 8,
-      "ano": 2026,
-      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
-      "data": "2026-05-11T14:49",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
-    },
     {
       "id": 2623604,
       "tipo": "PEC",
@@ -366,6 +357,51 @@
       "ementa": "Institui a Política Nacional de Apoio Psicológico a Profissionais de Serviços Essenciais e estabelece sua articulação com a Rede de Atenção Psicossocial do Sistema Único de Saúde.",
       "data": "2026-06-08T15:26",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630380"
+    },
+    {
+      "id": 2631153,
+      "tipo": "PL",
+      "numero": 2990,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional Pet Seguro em Grandes Eventos e Datas de Elevada Sensibilidade Sonora, estabelece medidas de prevenção de fugas, desaparecimentos, acidentes e situações de sofrimento de animais domésticos, cria o Sistema Nacional de Alerta Pet, a Rede Nacional de Apoio Emergencial Animal e dá outras providências.",
+      "data": "2026-06-10T11:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631153"
+    },
+    {
+      "id": 2631188,
+      "tipo": "PL",
+      "numero": 2994,
+      "ano": 2026,
+      "ementa": "Institui o Estatuto Nacional de Proteção Financeira da Pessoa Idosa e dá outras providências.",
+      "data": "2026-06-10T11:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631188"
+    },
+    {
+      "id": 2631243,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Atenção Integral à Pessoa com Vitiligo no âmbito do Sistema Único de Saúde (SUS), estabelece diretrizes para o cuidado integral, a prevenção da discriminação e a promoção da dignidade da pessoa humana, e dá outras providências.",
+      "data": "2026-06-10T11:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631243"
+    },
+    {
+      "id": 2631248,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Estabelece diretrizes para contratações públicas e capacitações relativas a treinamento em ressuscitação cardiopulmonar e uso de desfibrilador externo automático no âmbito da Administração Pública Federal, com o intuito de melhor atender o público feminino.",
+      "data": "2026-06-10T11:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631248"
+    },
+    {
+      "id": 2631532,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 12.587, de 3 de janeiro de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana, para dispor sobre a disponibilização de aplicativos gratuitos para os usuários do Sistema Nacional de Mobilidade Urbana.",
+      "data": "2026-06-10T11:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631532"
     }
   ],
   "discursos": [],

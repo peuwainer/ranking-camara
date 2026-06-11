@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160592.jpg",
-  "score": 24.47,
-  "rank": 375,
+  "score": 23.57,
+  "rank": 343,
   "proposicoes": [
     {
       "id": 2625418,
@@ -15,6 +15,15 @@
       "ementa": "Dispõe sobre o número máximo de alunos em sala de aula e dá outras providências.",
       "data": "2026-05-14T12:09",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625418"
+    },
+    {
+      "id": 2631190,
+      "tipo": "PEC",
+      "numero": 13,
+      "ano": 2026,
+      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
+      "data": "2026-06-10T12:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
     }
   ],
   "discursos": [],

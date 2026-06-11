@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74075.jpg",
-  "score": 13.35,
-  "rank": 497,
+  "score": 13.19,
+  "rank": 494,
   "proposicoes": [
     {
       "id": 2629356,
@@ -15,6 +15,15 @@
       "ementa": "Altera dispositivos do Decreto-Lei nº 227, de 28 de fevereiro de 1967, o Código de Mineração, da Lei nº 6.567, de 24 de setembro de 1978, e da Lei nº 7.805, de 18 de julho de 1989.",
       "data": "2026-06-01T09:31",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629356"
+    },
+    {
+      "id": 2631190,
+      "tipo": "PEC",
+      "numero": 13,
+      "ano": 2026,
+      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
+      "data": "2026-06-10T12:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
     }
   ],
   "discursos": [],

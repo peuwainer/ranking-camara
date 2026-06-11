@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220668.jpg",
-  "score": 32.35,
-  "rank": 128,
+  "score": 30.57,
+  "rank": 121,
   "proposicoes": [
     {
       "id": 2625877,
@@ -33,6 +33,15 @@
       "ementa": "Reconhece como manifestação da cultura nacional a Festa da Pedra do Reino, em São José do Belmonte, no Estado de Pernambuco.",
       "data": "2026-05-19T16:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625879"
+    },
+    {
+      "id": 2631190,
+      "tipo": "PEC",
+      "numero": 13,
+      "ano": 2026,
+      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
+      "data": "2026-06-10T12:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
     }
   ],
   "discursos": [],
@@ -62,16 +71,16 @@
       "desde": "2026-04-17T00:00"
     },
     {
-      "nome": "Comissão de Constituição e Justiça e de Cidadania",
-      "sigla": "CCJC",
-      "cargo": "Titular",
-      "desde": "2026-04-17T00:00"
-    },
-    {
       "nome": "Grupo de Trabalho com a finalidade de discutir o PL 896/2023, que “altera a Lei nº 7.716, de 5 de janeiro de 1989, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre crimes praticados em razão de misoginia",
       "sigla": "GTMISOG",
       "cargo": "Titular",
       "desde": "2026-05-04T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-06-10T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220668/votacoes-nominais-plenario/2026"

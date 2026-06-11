@@ -4,10 +4,18 @@
   "partido": "UNIÃO",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141531.jpg",
-  "score": 29.86,
-  "rank": 186,
+  "score": 29.31,
+  "rank": 151,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-06-10T17:20",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. RODRIGO DE CASTRO (Bloco/UNIÃO - MG. Sem revisão do orador.) - Obrigado, Sr. Presidente. Sras. e Srs. Parlamentares, hoje falo em nome de um sentimento que vem se acumulando entre os pequenos ag",
+      "transcricao": "O SR. RODRIGO DE CASTRO (Bloco/UNIÃO - MG. Sem revisão do orador.) - Obrigado, Sr. Presidente. Sras. e Srs. Parlamentares, hoje falo em nome de um sentimento que vem se acumulando entre os pequenos agricultores de Jaíba: o sentimento de injustiça. O que está acontecendo nas etapas 3 e 4 do Projeto Jaíba, na prática, é a ameaça concreta de expulsão de famílias que dedicaram sua vida ao trabalho da terra. A responsabilidade por essa situação não pode ser jogada sobre os ombros das famílias atingidas. Há responsabilidade direta da Codevasf, do Governo Federal, do Ministério da Integração e do Desenvolvimento Regional, que precisam assumir publicamente suas responsabilidades e dar solução ao caso. Não basta encaminhar estudos, transferir decisões ou repetir argumentos técnicos. É preciso responder às famílias afetadas por medidas concretas, com garantia de permanência onde for possível, reassentamento digno, necessário, mas, principalmente, garantia de permanência na terra. Falo aqui em nome de todos os agricultores do Projeto Jaíba, falo em nome do ex-Prefeito Reginaldo, que vem cobrando essas medidas. Nós vamos à Codevasf. Vamos fazer um diálogo com o Ministério do Desenvolvimento Regional. Mas vamos também à Procuradoria da República, vamos, juntos, ao Governo de Minas, para cobrar providências. Não é possível que essas pessoas sejam expulsas da terra justamente por um Governo que diz que as defende!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 733, de 2025, do Sr. Leur Lomanto Júnior, que \"dispõe sobre o Sistema Portuário Brasileiro, regula a exploração dos portos, as atividades de operação portuária, o trabalho portuário e dá outras providências\"",

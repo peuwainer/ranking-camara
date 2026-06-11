@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220629.jpg",
-  "score": 23.6,
-  "rank": 396,
+  "score": 22.8,
+  "rank": 369,
   "proposicoes": [
-    {
-      "id": 2623524,
-      "tipo": "PL",
-      "numero": 2308,
-      "ano": 2026,
-      "ementa": "Institui a Política de Acolhimento Parental na Educação Superior (PAPES), dispõe sobre a criação de espaços de cuidado parental nas instituições de ensino superior, e dá outras providências.",
-      "data": "2026-05-11T19:43",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623524"
-    },
     {
       "id": 2625464,
       "tipo": "SBT",
@@ -60,6 +51,24 @@
       "ementa": "Institui a Política Nacional de Promoção das Identidades Culturais no Currículo da Educação Básica e dá outras providências.",
       "data": "2026-06-02T18:39",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629908"
+    },
+    {
+      "id": 2631148,
+      "tipo": "PL",
+      "numero": 2989,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para proibir a publicidade, a propaganda, a promoção, o patrocínio e demais formas de comunicação comercial relativas às apostas de quota fixa, e dá outras providências.",
+      "data": "2026-06-10T10:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631148"
+    },
+    {
+      "id": 2631190,
+      "tipo": "PEC",
+      "numero": 13,
+      "ano": 2026,
+      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
+      "data": "2026-06-10T12:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
     }
   ],
   "discursos": [

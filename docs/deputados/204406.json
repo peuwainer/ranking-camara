@@ -4,18 +4,9 @@
   "partido": "PP",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204406.jpg",
-  "score": 34.1,
-  "rank": 91,
+  "score": 30.98,
+  "rank": 113,
   "proposicoes": [
-    {
-      "id": 2623400,
-      "tipo": "PEC",
-      "numero": 8,
-      "ano": 2026,
-      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
-      "data": "2026-05-11T14:49",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
-    },
     {
       "id": 2623604,
       "tipo": "PEC",
@@ -45,6 +36,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-06-10T17:28",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. PEDRO WESTPHALEN (Bloco/PP - RS. Pela ordem. Sem revisão do orador.) - Nesta data, eu quero agradecer ao Presidente Davi Alcolumbre por receber a nossa delegação de Deputados junto com o Governo",
+      "transcricao": "O SR. PEDRO WESTPHALEN (Bloco/PP - RS. Pela ordem. Sem revisão do orador.) - Nesta data, eu quero agradecer ao Presidente Davi Alcolumbre por receber a nossa delegação de Deputados junto com o Governo, para construirmos uma solução para o agronegócio, para a securitização, que deverá ser votada hoje em plenário. Estou aqui com o Vereador Airton Becker, de Cruz Alta, que veio de lá com a comitiva para que nós possamos hoje dar um encaminhamento a esse assunto e solucionar esse problema. Não há hoje no Estado da Rio Grande do Sul tema mais importante do que a securitização. Sentimos que há um terreno fértil para progredirmos nessa matéria, que virá para esta Casa depois de ser votada lá. Esperamos que se tenha celeridade e se considere a necessidade e a urgência dessa discussão para o produtor do Rio Grande do Sul Quero lhe agradecer a oportunidade, Sr. Presidente, e dizer que estamos extremamente esperançosos. Quem veio de lá nos deu uma base de sustentação para que possamos hoje, conversando, chegar a uma solução que seja realmente definitiva para os nossos produtores. Muito obrigado."
+    },
     {
       "data": "2026-06-09T17:40",
       "fase": "Ordem do Dia",

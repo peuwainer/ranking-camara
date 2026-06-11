@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg",
-  "score": 36.48,
-  "rank": 54,
+  "score": 35.62,
+  "rank": 43,
   "proposicoes": [
     {
       "id": 2624520,
@@ -69,6 +69,24 @@
       "ementa": "Institui a Lei do Salário em Dia nos Contratos Públicos, estabelece mecanismos de prevenção, transparência, fiscalização e responsabilização pelo atraso de salários, benefícios e encargos trabalhistas em contratos administrativos com dedicação exclusiva de mão de obra, altera a Lei nº 14.133, de 1º de abril de 2021, e dá outras providências.",
       "data": "2026-06-09T16:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630651"
+    },
+    {
+      "id": 2630870,
+      "tipo": "PL",
+      "numero": 2986,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção, Qualificação, Cadastramento Voluntário e Inclusão Socioprodutiva dos Trabalhadores Autônomos de Apoio à Movimentação de Cargas e Descargas, conhecidos como “chapas”, e dá outras providências.",
+      "data": "2026-06-09T20:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630870"
+    },
+    {
+      "id": 2630872,
+      "tipo": "PL",
+      "numero": 2987,
+      "ano": 2026,
+      "ementa": "Institui a Lei Costura Digna e Inclusiva, que cria a Política Nacional de Valorização, Qualificação, Formalização e Proteção Produtiva das Costureiras, Costureiros e Trabalhadores da Confecção, estabelece diretrizes para inclusão produtiva, acesso ao crédito, compras públicas sustentáveis, rastreabilidade social da cadeia de confecção, saúde e segurança no trabalho, combate à precarização laboral e dá outras providências.",
+      "data": "2026-06-09T20:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630872"
     }
   ],
   "discursos": [],

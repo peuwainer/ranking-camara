@@ -4,27 +4,9 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
-  "score": 61.26,
+  "score": 56.92,
   "rank": 2,
   "proposicoes": [
-    {
-      "id": 2623301,
-      "tipo": "EMP",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Insere o § 4º no art. 232 do Decreto-Lei nº 1.001, de 21 de outubro de 1969 (Código Penal Militar), para aumentar a pena do crime de estupro de vulnerável quando da conduta resultar lesão corporal de natureza grave.",
-      "data": "2026-05-11T09:11",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623301"
-    },
-    {
-      "id": 2623547,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre a classificação, rotulagem e regulação de conteúdos digitais com características hipersensoriais e potencial efeito viciante, e dá outras providências.",
-      "data": "2026-05-11T22:29",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623547"
-    },
     {
       "id": 2624861,
       "tipo": "EMC",
@@ -240,6 +222,24 @@
       "ementa": "Acrescenta a alínea “d” ao inciso I-A do art. 1º da Lei nº 8.072, de 25 de julho de 1990, para incluir no rol dos crimes hediondos a lesão corporal dolosa de natureza gravíssima e a lesão corporal seguida de morte praticadas em contexto de violência doméstica e familiar.",
       "data": "2026-06-09T17:13",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630690"
+    },
+    {
+      "id": 2631190,
+      "tipo": "PEC",
+      "numero": 13,
+      "ano": 2026,
+      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
+      "data": "2026-06-10T12:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
+    },
+    {
+      "id": 2631392,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre o programa de capacitação profissional e incentivo à inserção de donas de casa no mercado de trabalho.",
+      "data": "2026-06-10T14:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631392"
     }
   ],
   "discursos": [
