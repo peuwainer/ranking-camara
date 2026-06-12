@@ -4,18 +4,9 @@
   "partido": "PP",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220549.jpg",
-  "score": 32.46,
-  "rank": 86,
+  "score": 32.9,
+  "rank": 70,
   "proposicoes": [
-    {
-      "id": 2623604,
-      "tipo": "PEC",
-      "numero": 9,
-      "ano": 2026,
-      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
-      "data": "2026-05-12T11:28",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
-    },
     {
       "id": 2624331,
       "tipo": "SBT",
@@ -42,6 +33,24 @@
       "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
       "data": "2026-05-14T14:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
+    },
+    {
+      "id": 2631789,
+      "tipo": "PL",
+      "numero": 3061,
+      "ano": 2026,
+      "ementa": "Institui o Programa Compra Nacional Justa, cria a Devolução de Equivalência Tributária do Varejo Nacional – DET-Varejo Federal, sob a forma de cashback de equivalência ao consumidor, e dá outras providências.",
+      "data": "2026-06-11T12:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631789"
+    },
+    {
+      "id": 2631793,
+      "tipo": "PLP",
+      "numero": 172,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para instituir a Devolução de Equivalência Tributária do Varejo Nacional – DET-Varejo, sob a forma de cashback de equivalência ao consumidor, nas operações internas de pequeno valor realizadas no varejo nacional.",
+      "data": "2026-06-11T12:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631793"
     }
   ],
   "discursos": [
@@ -58,13 +67,6 @@
       "tipo": "PELA ORDEM",
       "resumo": "A SRA. ANY ORTIZ (Bloco/PP - RS. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Apesar de a senhora já ter registrado, eu quero deixar formalmente registrado o meu voto contrário ao Proj",
       "transcricao": "A SRA. ANY ORTIZ (Bloco/PP - RS. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Apesar de a senhora já ter registrado, eu quero deixar formalmente registrado o meu voto contrário ao Projeto de Lei nº 4.822, de 2025. É um absurdo, Presidente, essa matéria ser aprovada de forma simbólica. Nós estamos aqui para votar, para colocar a nossa digital. Cada um dos 513 Parlamentares deveria deixar registrado, para o Brasil inteiro saber, o que pensa e como enxerga o futuro deste País, principalmente no que diz respeito aos próprios benefícios e privilégios. Eu fiz questão, Presidente, de vir até este microfone lamentar que esse projeto tenha sido aprovado de forma simbólica. E quero, mais uma vez, não só deixar registrado o meu voto contrário, mas também lamentar o que está acontecendo esta noite neste plenário."
-    },
-    {
-      "data": "2026-05-12T18:08",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "A SRA. ANY ORTIZ (Bloco/PP - RS. Pela ordem. Sem revisão da oradora.) - Presidente, a Esquerda precisa parar de tratar como vítima da sociedade esses criminosos e esses bandidos! É importante a gente ",
-      "transcricao": "A SRA. ANY ORTIZ (Bloco/PP - RS. Pela ordem. Sem revisão da oradora.) - Presidente, a Esquerda precisa parar de tratar como vítima da sociedade esses criminosos e esses bandidos! É importante a gente votar esse projeto hoje, mas é mais importante ainda a gente votar o destaque do Partido Novo, porque, se nós queremos realmente defender essas crianças, se nós aqui queremos combater o estupro e a pedofilia, nós temos que, sim, endurecer as penas. Enquanto a gente não traz para o Plenário um assunto que é urgente, que é a redução da maioridade penal, a gente precisa buscar alternativas. O projeto é importante. Eu quero aqui parabenizar o Deputado Kim Kataguiri pelo trabalho dele, mas nós precisamos  se eles querem colocar a digital, mostrar que realmente enfrentam os bandidos e protegem a sociedade  votar o destaque do Partido Novo. Obrigada, Presidente."
     }
   ],
   "orgaos": [

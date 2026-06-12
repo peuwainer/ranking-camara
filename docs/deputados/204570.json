@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204570.jpg",
-  "score": 26.66,
-  "rank": 226,
+  "score": 27.28,
+  "rank": 193,
   "proposicoes": [
     {
       "id": 2625634,
@@ -60,6 +60,15 @@
       "ementa": "Dispõe sobre a obrigatoriedade de concessionárias de rodovias e pedágios, postos de combustíveis e estabelecimentos de apoio localizados em rodovias federais, estaduais e municipais fornecerem infraestrutura mínima obrigatória de higiene, segurança, descanso e apoio aos usuários das vias, e dá outras providências.",
       "data": "2026-06-09T14:27",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630567"
+    },
+    {
+      "id": 2631718,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o \"caput\" do art. 4º da Lei nº 10.260, de 12 de julho de 2001, para inserir o Bolsa-livros nos financiamentos pelo Fundo de Financiamento ao Estudante do Ensino Superior.\nAutor: Deputado GUSTINHO RIBEIRO\nRelator: Deputado PASTOR GIL",
+      "data": "2026-06-11T10:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631718"
     }
   ],
   "discursos": [],
@@ -71,16 +80,16 @@
       "desde": "2024-04-06T00:00"
     },
     {
-      "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
-      "sigla": "CIDOSO",
-      "cargo": "Titular",
-      "desde": "2026-02-10T00:00"
-    },
-    {
       "nome": "Comissão de Educação",
       "sigla": "CE",
       "cargo": "Titular",
       "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
+      "sigla": "CIDOSO",
+      "cargo": "Suplente",
+      "desde": "2026-06-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204570/votacoes-nominais-plenario/2026"

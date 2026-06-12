@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220527.jpg",
-  "score": 30.2,
-  "rank": 128,
+  "score": 32.59,
+  "rank": 77,
   "proposicoes": [
     {
       "id": 2629671,
@@ -33,6 +33,33 @@
       "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
       "data": "2026-06-10T12:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
+    },
+    {
+      "id": 2631825,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Reconhece as Folias de Reis de Muqui, Espírito Santo, como manifestação cultural e patrimônio imaterial do Brasil.",
+      "data": "2026-06-11T14:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631825"
+    },
+    {
+      "id": 2631828,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Reconhece o Congo Capixaba como manifestação cultural e patrimônio imaterial do Brasil.",
+      "data": "2026-06-11T14:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631828"
+    },
+    {
+      "id": 2631831,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Reconhece o Ticumbi como manifestação cultural e patrimônio imaterial do Brasil.",
+      "data": "2026-06-11T14:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631831"
     }
   ],
   "discursos": [

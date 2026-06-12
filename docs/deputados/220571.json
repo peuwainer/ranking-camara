@@ -4,18 +4,9 @@
   "partido": "PSD",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220571.jpg",
-  "score": 33.19,
-  "rank": 72,
+  "score": 33.88,
+  "rank": 53,
   "proposicoes": [
-    {
-      "id": 2623604,
-      "tipo": "PEC",
-      "numero": 9,
-      "ano": 2026,
-      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
-      "data": "2026-05-12T11:28",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
-    },
     {
       "id": 2624621,
       "tipo": "SBT",
@@ -78,6 +69,24 @@
       "ementa": "Parecer do Relator ao PL 2900/2025 que Institui a Campanha Nacional de Incentivo à Aquisição de Produtos e Ingredientes Agroecológicos e Orgânicos Provenientes da Agricultura Familiar e dá outras providências.",
       "data": "2026-05-26T16:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628719"
+    },
+    {
+      "id": 2631755,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer ao PL 770/2026 que Institui o Programa Nacional de Solidariedade Veterinária, destinado ao recebimento de doações, reaproveitamento e distribuição gratuita de medicamentos, vacinas, insumos e rações para animais domésticos, e dá outras providências.",
+      "data": "2026-06-10T18:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631755"
+    },
+    {
+      "id": 2631813,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer ao PL 4370/2025 que Cria incentivo fiscal e linha de crédito subsidiada para a construção, modernização e adequação de Instituições de Longa Permanência para Idosos (ILPI), com padrões de sustentabilidade energética, acessibilidade digital e incorporação de serviços de telemedicina e monitoramento remoto de saúde, e dá outras providências.",
+      "data": "2026-06-10T18:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631813"
     }
   ],
   "discursos": [],

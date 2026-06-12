@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220611.jpg",
-  "score": 30.05,
-  "rank": 136,
+  "score": 29.89,
+  "rank": 125,
   "proposicoes": [
-    {
-      "id": 2623604,
-      "tipo": "PEC",
-      "numero": 9,
-      "ano": 2026,
-      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
-      "data": "2026-05-12T11:28",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
-    },
     {
       "id": 2624131,
       "tipo": "PL",
@@ -60,6 +51,15 @@
       "ementa": "Altera a redação da Lei nº 13.260, de 16 de março de 2016.",
       "data": "2026-06-08T12:53",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630222"
+    },
+    {
+      "id": 2631785,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.613, de 3 de março de 1998, para determinar que 0,01% dos recursos recuperados no âmbito federal em decorrência da condenação nos crimes de lavagem ou ocultação de bens, direitos e valores deverão ser destinados a ações governamentais de assistência e proteção à pessoa idosa.",
+      "data": "2026-06-11T11:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631785"
     }
   ],
   "discursos": [],

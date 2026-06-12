@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 46.07,
-  "rank": 9,
+  "score": 48.66,
+  "rank": 6,
   "proposicoes": [
-    {
-      "id": 2623604,
-      "tipo": "PEC",
-      "numero": 9,
-      "ano": 2026,
-      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
-      "data": "2026-05-12T11:28",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
-    },
     {
       "id": 2624861,
       "tipo": "EMC",
@@ -213,6 +204,42 @@
       "ementa": "Cria o Cadastro Nacional de Condenados por Estelionato e estabelece restrições administrativas voltadas à prevenção de fraudes financeiras.",
       "data": "2026-06-09T13:50",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631110"
+    },
+    {
+      "id": 2631690,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei n.º 14.735, de 23 de novembro de 2023, que institui a Lei Orgânica Nacional das Polícias Civis, dispõe sobre suas normas gerais de funcionamento e dá outras providências.",
+      "data": "2026-06-10T16:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631690"
+    },
+    {
+      "id": 2631716,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Marco Legal de Integridade e Fiscalização de Pessoas Expostas Politicamente, estabelece diretrizes para identificação, monitoramento e auditoria baseados em risco, e dá outras providências.",
+      "data": "2026-06-10T16:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631716"
+    },
+    {
+      "id": 2631722,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Amplia o direito ao porte de arma de fogo para Guardas Civis Municipais e vigilantes, reduz exigências burocráticas, reconhece o risco permanente da atividade e fortalece a segurança pública por meio do armamento responsável.",
+      "data": "2026-06-10T15:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631722"
+    },
+    {
+      "id": 2631746,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Cria o Cadastro Nacional de condenados por Estelionato e estabelece restrições administrativas voltadas à prevenção de fraudes financeiras.",
+      "data": "2026-06-10T18:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631746"
     }
   ],
   "discursos": [],

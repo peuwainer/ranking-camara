@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/235620.jpg",
-  "score": 23.19,
-  "rank": 358,
+  "score": 25.21,
+  "rank": 251,
   "proposicoes": [
     {
       "id": 2628180,
@@ -42,9 +42,34 @@
       "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
       "data": "2026-06-02T09:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629601"
+    },
+    {
+      "id": 2632104,
+      "tipo": "PL",
+      "numero": 3068,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.101, de 9 de fevereiro de 2005, para instituir o procedimento simplificado de recuperação judicial destinado aos devedores de baixo endividamento.",
+      "data": "2026-06-11T17:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632104"
+    },
+    {
+      "id": 2632180,
+      "tipo": "PL",
+      "numero": 3069,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional da Primeira Empresa para estabelecer medidas de incentivo à formalização e ao empreendedorismo por meio da criação de regime jurídico diferenciado para pessoas naturais que constituam sua primeira empresa.",
+      "data": "2026-06-11T18:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632180"
     }
   ],
   "discursos": [],
-  "orgaos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Titular",
+      "desde": "2026-06-11T00:00"
+    }
+  ],
   "url_votacoes": "https://www.camara.leg.br/deputados/235620/votacoes-nominais-plenario/2026"
 }

@@ -4,18 +4,9 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178989.jpg",
-  "score": 40.29,
-  "rank": 22,
+  "score": 40.34,
+  "rank": 15,
   "proposicoes": [
-    {
-      "id": 2623944,
-      "tipo": "PL",
-      "numero": 2338,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 12.690, de 19 de julho de 2012, para dispor sobre condições mínimas específicas aplicáveis ao trabalho cooperado na assistência domiciliar à saúde (home care).",
-      "data": "2026-05-12T18:05",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623944"
-    },
     {
       "id": 2624459,
       "tipo": "PL",
@@ -231,6 +222,15 @@
       "ementa": "Institui a Política Nacional de Incentivo à Tecnologia Assistiva e à Mobilidade Inclusiva, altera a Lei nº 13.146, de 6 de julho de 2015 (Lei Brasileira de Inclusão da Pessoa com Deficiência) e altera a Lei n° 10.257, de 10 de julho de 2001 (Estatuto da Cidade).",
       "data": "2026-06-09T19:29",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630785"
+    },
+    {
+      "id": 2631799,
+      "tipo": "PL",
+      "numero": 3063,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Prevenção Integrada da Violência e Proteção Animal e dá outras providências.",
+      "data": "2026-06-11T12:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631799"
     }
   ],
   "discursos": [],

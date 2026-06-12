@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/165470.jpg",
-  "score": 30.11,
-  "rank": 134,
+  "score": 30.02,
+  "rank": 120,
   "proposicoes": [
-    {
-      "id": 2623604,
-      "tipo": "PEC",
-      "numero": 9,
-      "ano": 2026,
-      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
-      "data": "2026-05-12T11:28",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
-    },
     {
       "id": 2624861,
       "tipo": "EMC",
@@ -96,6 +87,15 @@
       "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
       "data": "2026-06-10T16:01",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631361"
+    },
+    {
+      "id": 2631786,
+      "tipo": "PL",
+      "numero": 3059,
+      "ano": 2026,
+      "ementa": "Veda a concessão de graça, indulto, comutação de pena, anistia e perdão judicial, bem como o reconhecimento de perdão do ofendido, em favor de quem pratique crime, doloso ou culposo, contra criança; e altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), a Lei nº 8.072, de 25 de julho de 1990, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal).",
+      "data": "2026-06-11T11:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631786"
     }
   ],
   "discursos": [],

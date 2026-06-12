@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220645.jpg",
-  "score": 35.13,
-  "rank": 50,
+  "score": 37.51,
+  "rank": 25,
   "proposicoes": [
     {
       "id": 2625641,
@@ -87,6 +87,33 @@
       "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
       "data": "2026-06-10T12:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
+    },
+    {
+      "id": 2631846,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 7.353 de 29 de agosto de 1985 e a Lei nº 9.250, de 26 de dezembro de 1995, para incluir os Fundos dos Direitos da Mulher na destinação do Imposto de Renda de pessoas físicas e jurídicas como incentivo fiscal.",
+      "data": "2026-06-11T15:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631846"
+    },
+    {
+      "id": 2631954,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Institui o Programa Nacional do Afro-empreendedorismo.",
+      "data": "2026-06-11T17:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631954"
+    },
+    {
+      "id": 2632043,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a utilização de informações relativas ao Fundo Garantidor de Créditos (FGC) na comunicação comercial de instituições integrantes do Sistema Financeiro Nacional.",
+      "data": "2026-06-11T16:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632043"
     }
   ],
   "discursos": [

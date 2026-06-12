@@ -4,27 +4,9 @@
   "partido": "PODE",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 55.79,
+  "score": 55.31,
   "rank": 3,
   "proposicoes": [
-    {
-      "id": 2623604,
-      "tipo": "PEC",
-      "numero": 9,
-      "ano": 2026,
-      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
-      "data": "2026-05-12T11:28",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
-    },
-    {
-      "id": 2624020,
-      "tipo": "SBT",
-      "numero": 3,
-      "ano": 0,
-      "ementa": "Institui o Plano de Neoindustrialização e Soberania Nacional (PNSN), dispondo sobre incentivos à inovação e ao adensamento produtivo tecnológico.",
-      "data": "2026-05-12T19:05",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624020"
-    },
     {
       "id": 2624856,
       "tipo": "PL",
@@ -402,6 +384,15 @@
       "ementa": "Altera a Lei nº 12.587, de 3 de janeiro de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana, para dispor sobre a disponibilização de aplicativos gratuitos para os usuários do Sistema Nacional de Mobilidade Urbana.",
       "data": "2026-06-10T11:48",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631532"
+    },
+    {
+      "id": 2631799,
+      "tipo": "PL",
+      "numero": 3063,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Prevenção Integrada da Violência e Proteção Animal e dá outras providências.",
+      "data": "2026-06-11T12:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631799"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220578.jpg",
-  "score": 28.87,
-  "rank": 162,
+  "score": 30.24,
+  "rank": 114,
   "proposicoes": [
     {
       "id": 2631190,
@@ -15,6 +15,24 @@
       "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
       "data": "2026-06-10T12:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
+    },
+    {
+      "id": 2631818,
+      "tipo": "PL",
+      "numero": 3065,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o controle sanitário e ético da prescrição, manipulação, dispensação, comercialização e de implantes hormonais no território nacional.",
+      "data": "2026-06-11T14:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631818"
+    },
+    {
+      "id": 2631841,
+      "tipo": "PL",
+      "numero": 3066,
+      "ano": 2026,
+      "ementa": "Institui o Marco Nacional de Modernização Econômica e Simplificação Regulatória, com o objetivo de fortalecer a liberdade econômica, reduzir a burocracia, promover a transformação digital da administração pública, incentivar a inovação, ampliar a segurança jurídica e elevar a competitividade nacional.",
+      "data": "2026-06-11T15:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631841"
     }
   ],
   "discursos": [],

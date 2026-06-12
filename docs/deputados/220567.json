@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220567.jpg",
-  "score": 25.81,
-  "rank": 245,
+  "score": 26.43,
+  "rank": 213,
   "proposicoes": [
     {
       "id": 2624371,
@@ -24,6 +24,15 @@
       "ementa": "Dispõe sobre a proteção à liberdade religiosa, a inviolabilidade dos locais de culto e à livre manifestação litúrgica e doutrinária das instituições religiosas.",
       "data": "2026-05-20T19:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626614"
+    },
+    {
+      "id": 2631800,
+      "tipo": "PL",
+      "numero": 3064,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a prevenção, detecção, preservação, comunicação, transparência e responsabilização de provedores e plataformas digitais em casos de exploração sexual de crianças e adolescentes no ambiente digital; altera a Lei nº 12.965, de 23 de abril de 2014, a Lei nº 8.069, de 13 de julho de 1990, e a Lei nº 15.211, de 17 de setembro de 2025; e dá outras providências",
+      "data": "2026-06-11T13:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631800"
     }
   ],
   "discursos": [

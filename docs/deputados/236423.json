@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236423.jpg",
-  "score": 0.8,
-  "rank": 512,
+  "score": 2.06,
+  "rank": 510,
   "proposicoes": [],
   "discursos": [
     {
@@ -22,6 +22,18 @@
       "sigla": "BANEGRA",
       "cargo": "Titular",
       "desde": "2026-06-10T00:00"
+    },
+    {
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
+      "cargo": "Titular",
+      "desde": "2026-06-11T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Pessoa Idosa",
+      "sigla": "CIDOSO",
+      "cargo": "Suplente",
+      "desde": "2026-06-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/236423/votacoes-nominais-plenario/2026"

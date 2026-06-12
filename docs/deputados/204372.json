@@ -4,36 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204372.jpg",
-  "score": 38.46,
-  "rank": 28,
+  "score": 36.9,
+  "rank": 29,
   "proposicoes": [
-    {
-      "id": 2623558,
-      "tipo": "PL",
-      "numero": 2319,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Atenção Ortodôntica Preventiva na Infância, com triagem escolar e organização do acesso no âmbito do Sistema Único de Saúde.",
-      "data": "2026-05-12T10:06",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623558"
-    },
-    {
-      "id": 2623559,
-      "tipo": "PL",
-      "numero": 2320,
-      "ano": 2026,
-      "ementa": "Altera as Leis nº 6.360, de 23 de setembro de 1976, nº 9.782, de 26 de janeiro de 1999, e nº 8.078, de 11 de setembro de 1990, para dispor sobre a comercialização de produtos de uso profissional na área da saúde, e dá outras providências.",
-      "data": "2026-05-12T10:06",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623559"
-    },
-    {
-      "id": 2623905,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "",
-      "data": "2026-05-12T16:59",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623905"
-    },
     {
       "id": 2625404,
       "tipo": "PL",
@@ -96,6 +69,15 @@
       "ementa": "Dispõe sobre condições excepcionais para a renegociação de débitos relativos ao Fundo de Financiamento Estudantil (Fies) e altera a Lei nº 10.260, de 12 de julho de 2001, para autorizar a instituição periódica de janelas de renegociação",
       "data": "2026-06-02T17:20",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630189"
+    },
+    {
+      "id": 2631723,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.998, de 17 de agosto de 2000, para instituir o eixo educacional do Fundo de Universalização dos Serviços de Telecomunicações, denominado Fundo de Conectividade Escolar (FCE), destinado à garantia de conectividade de alta velocidade e à infraestrutura tecnológica das escolas públicas.",
+      "data": "2026-06-10T18:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631723"
     }
   ],
   "discursos": [
