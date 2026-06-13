@@ -4,18 +4,9 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220645.jpg",
-  "score": 37.51,
-  "rank": 25,
+  "score": 38.79,
+  "rank": 20,
   "proposicoes": [
-    {
-      "id": 2625641,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para dispor sobre autodeclaração de cor como documento necessário ao pedido de registro de candidatura e regulamentar o financiamento de campanhas e propaganda eleitoral gratuita para candidaturas de mulheres e pessoas negras no processo eleitoral brasileiro.",
-      "data": "2026-05-13T16:10",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625641"
-    },
     {
       "id": 2625893,
       "tipo": "PL",
@@ -114,6 +105,24 @@
       "ementa": "Dispõe sobre a utilização de informações relativas ao Fundo Garantidor de Créditos (FGC) na comunicação comercial de instituições integrantes do Sistema Financeiro Nacional.",
       "data": "2026-06-11T16:06",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632043"
+    },
+    {
+      "id": 2632220,
+      "tipo": "PL",
+      "numero": 3073,
+      "ano": 2026,
+      "ementa": "Inscreve o nome de Rosely Roth no Livro dos Heróis e Heroínas da Pátria.",
+      "data": "2026-06-11T19:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632220"
+    },
+    {
+      "id": 2632221,
+      "tipo": "PL",
+      "numero": 3074,
+      "ano": 2026,
+      "ementa": "Altera a Lei n° 8.036, de 11 de maio de 1990, para estabelecer que a conta vinculada do trabalhador no FGTS poderá custear o acesso às técnicas de reprodução humana assistida.",
+      "data": "2026-06-11T19:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632221"
     }
   ],
   "discursos": [

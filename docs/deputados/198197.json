@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/198197.jpg",
-  "score": 28.58,
-  "rank": 159,
+  "score": 29.68,
+  "rank": 136,
   "proposicoes": [
     {
       "id": 2624861,
@@ -42,6 +42,15 @@
       "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
       "data": "2026-06-02T09:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629601"
+    },
+    {
+      "id": 2632289,
+      "tipo": "PL",
+      "numero": 3086,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.203, de 8 de dezembro de 2015, para ampliar a participação no mecanismo concorrencial centralizado de que trata o art. 2º-F da Lei 13.203, de 8 de dezembro de 2015, de agentes de geração hidrelétrica anteriormente desligados da Câmara de Comercialização de Energia Elétrica – CCEE.",
+      "data": "2026-06-12T16:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632289"
     }
   ],
   "discursos": [],

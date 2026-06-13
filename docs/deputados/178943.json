@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178943.jpg",
-  "score": 28.56,
-  "rank": 161,
+  "score": 29.93,
+  "rank": 130,
   "proposicoes": [
     {
       "id": 2630268,
@@ -42,6 +42,15 @@
       "ementa": "Institui o Programa Nacional de Educação Cosmética e Cuidado com a Pele nas Escolas.",
       "data": "2026-06-08T14:38",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630271"
+    },
+    {
+      "id": 2632252,
+      "tipo": "PL",
+      "numero": 3084,
+      "ano": 2026,
+      "ementa": "Dispõe sobre medidas de transparência, publicidade e acesso à informação nos concursos públicos realizados pela Administração Pública Federal direta e indireta.",
+      "data": "2026-06-12T13:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632252"
     }
   ],
   "discursos": [],
