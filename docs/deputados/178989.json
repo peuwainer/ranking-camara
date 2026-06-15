@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178989.jpg",
-  "score": 36.33,
-  "rank": 26,
+  "score": 37.61,
+  "rank": 21,
   "proposicoes": [
     {
       "id": 2626333,
@@ -177,6 +177,15 @@
       "ementa": "Institui o Programa Nacional de Regularização e Fortalecimento das Entidades do Terceiro Setor – REFIS SOCIAL DO TERCEIRO SETOR, estabelece medidas de parcelamento especial, transação tributária, remissão e perdão de dívidas, regularização administrativa e financeira das entidades sem fins lucrativos, e dá outras providências.",
       "data": "2026-06-12T17:27",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632292"
+    },
+    {
+      "id": 2632304,
+      "tipo": "PL",
+      "numero": 3093,
+      "ano": 2026,
+      "ementa": "Altera a Lei no 10.406, de 10 de janeiro de 2002 (Código Civil), e a Lei no 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais – LGPD), dispondo sobre proteções adicionais aos dados biométricos.",
+      "data": "2026-06-12T19:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632304"
     }
   ],
   "discursos": [],

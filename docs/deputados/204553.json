@@ -4,18 +4,9 @@
   "partido": "AVANTE",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204553.jpg",
-  "score": 29.7,
-  "rank": 112,
+  "score": 30.66,
+  "rank": 97,
   "proposicoes": [
-    {
-      "id": 2624971,
-      "tipo": "PL",
-      "numero": 2415,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para instituir indenização aos cidadãos convocados pela Justiça Eleitoral para compor Mesas Receptoras de Votos e Juntas Eleitorais durante os processos eleitorais, plebiscitos e referendos.",
-      "data": "2026-05-15T11:46",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624971"
-    },
     {
       "id": 2627397,
       "tipo": "PL",
@@ -42,6 +33,24 @@
       "ementa": "Dispõe sobre o registro honorífico do posto ou da graduação correspondente aos proventos percebidos pelos militares da reserva remunerada e reformados das Forças Armadas, das Polícias Militares e dos Corpos de Bombeiros Militares, e dá outras providências.",
       "data": "2026-06-10T16:13",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631372"
+    },
+    {
+      "id": 2632312,
+      "tipo": "PL",
+      "numero": 3098,
+      "ano": 2026,
+      "ementa": "Institui o Dia Nacional da Juventude Cristã, a ser celebrado, anualmente, no último sábado do mês de setembro e o inclui no Calendário Oficial de Eventos da União.",
+      "data": "2026-06-15T08:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632312"
+    },
+    {
+      "id": 2632314,
+      "tipo": "PRC",
+      "numero": 32,
+      "ano": 2026,
+      "ementa": "Institui a Política de Inclusão Parlamentar da Pessoa com Deficiência no âmbito da Câmara dos Deputados e estabelece medidas destinadas à promoção permanente da inclusão de pessoas com deficiência nos gabinetes parlamentares, nas lideranças partidárias, nas comissões e nos órgãos administrativos da Casa.",
+      "data": "2026-06-15T08:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632314"
     }
   ],
   "discursos": [

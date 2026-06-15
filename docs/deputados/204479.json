@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204479.jpg",
-  "score": 27.0,
-  "rank": 188,
-  "proposicoes": [],
+  "score": 27.88,
+  "rank": 168,
+  "proposicoes": [
+    {
+      "id": 2632317,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes para a priorização de ações de informação e inteligência voltadas à prevenção e à repressão de crimes financeiros virtuais, altera a Lei nº 13.756, de 12 de dezembro de 2018, para dispor sobre a aplicação de recursos do Fundo Nacional de Segurança Pública, e dá outras providências.",
+      "data": "2026-06-12T16:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632317"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

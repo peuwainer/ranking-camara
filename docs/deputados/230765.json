@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/230765.jpg",
-  "score": 21.97,
-  "rank": 376,
+  "score": 23.76,
+  "rank": 307,
   "proposicoes": [
     {
       "id": 2625684,
@@ -24,6 +24,24 @@
       "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
       "data": "2026-06-10T12:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
+    },
+    {
+      "id": 2632305,
+      "tipo": "PL",
+      "numero": 3094,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção aos Trabalhadores da Saúde Vítimas de Violência — \"Edma e Marcos Valadão\", estabelecendo diretrizes para a prevenção, o acolhimento e a proteção de profissionais de saúde em exercício de suas funções, e altera a Lei nº 8.080, de 19 de setembro de 1990.",
+      "data": "2026-06-13T15:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632305"
+    },
+    {
+      "id": 2632307,
+      "tipo": "PL",
+      "numero": 3095,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional \"Saúde sem Calote\", estabelece diretrizes para a transparência e garantia de pagamento dos profissionais de saúde no âmbito de contratos de gestão e parcerias no Sistema Único de Saúde (SUS), e dá outras providências.",
+      "data": "2026-06-13T15:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632307"
     }
   ],
   "discursos": [
