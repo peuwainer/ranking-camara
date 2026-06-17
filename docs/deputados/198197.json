@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/198197.jpg",
-  "score": 28.24,
-  "rank": 156,
+  "score": 27.55,
+  "rank": 135,
   "proposicoes": [
     {
       "id": 2625433,
@@ -96,6 +96,12 @@
       "sigla": "CE",
       "cargo": "Suplente",
       "desde": "2026-05-27T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Suplente",
+      "desde": "2026-06-16T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/198197/votacoes-nominais-plenario/2026"

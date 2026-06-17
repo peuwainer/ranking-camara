@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/171617.jpg",
-  "score": 25.43,
-  "rank": 239,
+  "score": 24.91,
+  "rank": 214,
   "proposicoes": [
     {
       "id": 2631190,
@@ -18,6 +18,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-06-16T17:04",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. PAULÃO (Bloco/PT - AL. Sem revisão do orador.) - Sr. Presidente, quero saudar o Deputado Glauber. Que seja bem-vindo à Casa esse Deputado combativo que o Brasil acompanha! Ao mesmo tempo, quero ",
+      "transcricao": "O SR. PAULÃO (Bloco/PT - AL. Sem revisão do orador.) - Sr. Presidente, quero saudar o Deputado Glauber. Que seja bem-vindo à Casa esse Deputado combativo que o Brasil acompanha! Ao mesmo tempo, quero dizer que a substituta dele, a minha amiga alagoana Heloísa Helena, sem dúvida nenhuma, com altivez, inteligência e muito garra, fez a defesa e o bom combate. Sr. Presidente, a Primeira Turma do Supremo Tribunal Federal irá analisar o caso do lesa-pátria ex-Deputado Federal Eduardo Bolsonaro. Eduardo Bolsonaro e sua família são uma organização criminosa, uma Orcrim. Essa denúncia está sendo feita pela Procuradoria-Geral da República porque ele tentou coagir, intimidar os Ministros do Supremo, principalmente o Ministro Alexandre de Moraes, questionar esta Casa, questionar todos os atos da defesa e soberania do Presidente Lula. E ele, como vassalo lambe-botas, ficou fazendo jogo com os Estados Unidos para tentar condenar o Brasil a uma situação vexatória. Espero que a Primeira Turma tenha altivez e aplique o bom direito, condenando essa pessoa que, na prática, é um marginal  é a essência da palavra, porque vive à margem da lei. E eu acho interessante que Deputados que me antecederam, inclusive um general da reserva, disseram que se deveria aplicar a lei penal com tabica e palmatória. A pergunta que não quer calar é: a turma da extrema direita, principalmente do PL, vai querer aplicar palmatória no Bolsonaro? Pergunto isso porque, toda vez em que é iminente a prisão, ele fica com soluço. Vão dar tabicada nele ou isso é só para os pequenos e pobres? É muito fácil essa extrema direita hipócrita, lesa-pátria, que não respeita o povo brasileiro... Outro assunto, Sr. Presidente: esta Casa votou com altivez para derrubar a escala 6 por 1, para dar oportunidade e fortaleza à classe trabalhadora, principalmente às mulheres, que têm jornada tripla. Para isso, votou quase por unanimidade. Há o comentário de que o projeto poderá ser modificado no Senado. Espero que não ocorra isso. Essa escala é civilizatória, é humanitária. Ela estabelece proteção para a classe trabalhadora, principalmente para as mulheres do Brasil. Sr. Presidente, se possível, peço que este pronunciamento seja divulgado pelos devidos meios de comunicação. Muito obrigado."
+    },
     {
       "data": "2026-06-09T14:12",
       "fase": "Breves Comunicações",
@@ -68,6 +75,12 @@
       "sigla": "CDC",
       "cargo": "3º Vice-Presidente",
       "desde": "2026-04-15T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Titular",
+      "desde": "2026-06-15T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/171617/votacoes-nominais-plenario/2026"

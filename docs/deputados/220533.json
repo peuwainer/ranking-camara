@@ -4,8 +4,8 @@
   "partido": "PV",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220533.jpg",
-  "score": 23.47,
-  "rank": 317,
+  "score": 24.03,
+  "rank": 243,
   "proposicoes": [
     {
       "id": 2629782,
@@ -24,6 +24,24 @@
       "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
       "data": "2026-06-10T12:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
+    },
+    {
+      "id": 2632812,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 10.880, de 9 de junho de 2004, e a Lei nº 11.947, de 16 de junho de 2009, para incluir as escolas comunitárias que atuam no âmbito da educação do campo entre as beneficiárias do Programa Nacional de Apoio ao Transporte Escolar (PNATE) e do Programa Nacional de Alimentação Escolar (PNAE).",
+      "data": "2026-06-16T17:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632812"
+    },
+    {
+      "id": 2632822,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui normas para a formação continuada de professores da educação básica em práticas pedagógicas inclusivas e alfabetização de estudantes com deficiência, e dá outras providências.",
+      "data": "2026-06-16T17:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632822"
     }
   ],
   "discursos": [],

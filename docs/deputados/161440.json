@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/161440.jpg",
-  "score": 30.53,
-  "rank": 99,
+  "score": 30.24,
+  "rank": 88,
   "proposicoes": [
     {
       "id": 2627032,
@@ -60,6 +60,24 @@
       "ementa": "\"Institui o Programa de Garantia de Preços para a Agricultura Familiar (PGPAF), estabelece seus objetivos, diretrizes e mecanismos de operacionalização e dá outras providências.\"",
       "data": "2026-06-10T17:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631415"
+    },
+    {
+      "id": 2632355,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "\"Altera o art. 23 da Lei nº 9.074, de 7 de julho de 1995, para permitir o reenquadramento de cooperativas autorizadas como permissionárias prestadoras de serviço público de distribuição de energia elétrica.\"",
+      "data": "2026-06-15T12:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632355"
+    },
+    {
+      "id": 2632820,
+      "tipo": "PL",
+      "numero": 3144,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a priorização de projetos de infraestrutura pós-colheita para cadeias hortifrutícolas em programas federais de apoio à infraestrutura agroindustrial e altera a Lei nº 11.488, de 15 de junho de 2007, para reconhecer a infraestrutura agroindustrial hortifrutícola como projeto de infraestrutura no âmbito do REIDI.",
+      "data": "2026-06-16T17:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632820"
     }
   ],
   "discursos": [

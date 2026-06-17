@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178947.jpg",
-  "score": 31.58,
-  "rank": 84,
+  "score": 31.12,
+  "rank": 75,
   "proposicoes": [
     {
       "id": 2625635,
@@ -114,6 +114,24 @@
       "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
       "data": "2026-06-10T16:01",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631361"
+    },
+    {
+      "id": 2632666,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, a Lei nº 605, de 5 de janeiro de 1949, a Lei nº 6.615, de 16 de dezembro de 1978, a Lei nº 7.644, de 18 de dezembro de 1987, a Lei nº 9.615, de 24 de março de 1998, a Lei nº 12.790, de 14 de março de 2013, a Lei Complementar nº 150, de 1º de junho de 2015, a Lei nº 13.475, de 28 de agosto de 2017, a Lei nº 14.597, de 14 de junho de 2023, e a Lei nº 14.967, de 9 de setembro de 2024, para dispor sobre a redução da duração normal do trabalho e sobre o descanso semanal remunerado dos trabalhadores que especifica.",
+      "data": "2026-06-16T13:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632666"
+    },
+    {
+      "id": 2632845,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 73, de 10 de fevereiro de 1993, que institui a Lei Orgânica da Advocacia-Geral da União.",
+      "data": "2026-06-16T18:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632845"
     }
   ],
   "discursos": [

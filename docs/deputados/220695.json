@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-  "score": 37.17,
-  "rank": 23,
+  "score": 37.34,
+  "rank": 21,
   "proposicoes": [
     {
       "id": 2626602,
@@ -150,6 +150,33 @@
       "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do Projeto de Lei nº 5.426, com Substitutivo.",
       "data": "2026-06-10T13:34",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631496"
+    },
+    {
+      "id": 2632402,
+      "tipo": "SBT",
+      "numero": 8,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL 2373/23 e do PL 6204/25, apensado, com substitutivo.",
+      "data": "2026-06-15T14:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632402"
+    },
+    {
+      "id": 2632439,
+      "tipo": "SBT",
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação deste, com substitutivo.",
+      "data": "2026-06-15T15:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632439"
+    },
+    {
+      "id": 2632623,
+      "tipo": "PLP",
+      "numero": 175,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para assegurar o enquadramento da atividade de Baiana do Acarajé como Microempreendedor Individual (MEI).",
+      "data": "2026-06-16T12:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632623"
     }
   ],
   "discursos": [
@@ -179,12 +206,6 @@
       "sigla": "PEC00523",
       "cargo": "Titular",
       "desde": "2024-02-07T00:00"
-    },
-    {
-      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
-      "sigla": "CMO",
-      "cargo": "Suplente",
-      "desde": "2025-04-08T00:00"
     },
     {
       "nome": "Comissão de Trabalho",

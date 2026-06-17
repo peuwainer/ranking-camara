@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74574.jpg",
-  "score": 24.61,
-  "rank": 271,
+  "score": 23.51,
+  "rank": 266,
   "proposicoes": [
     {
       "id": 2631190,
@@ -20,16 +20,16 @@
   "discursos": [],
   "orgaos": [
     {
-      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
-      "sigla": "CMO",
-      "cargo": "Suplente",
-      "desde": "2025-04-10T00:00"
-    },
-    {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 733, de 2025, do Sr. Leur Lomanto Júnior, que \"dispõe sobre o Sistema Portuário Brasileiro, regula a exploração dos portos, as atividades de operação portuária, o trabalho portuário e dá outras providências\"",
       "sigla": "PL073325",
       "cargo": "Titular",
       "desde": "2025-08-06T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
     },
     {
       "nome": "Comissão de Minas e Energia",
@@ -40,12 +40,6 @@
     {
       "nome": "Comissão de Comunicação",
       "sigla": "CCOM",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
-      "sigla": "CAPADR",
       "cargo": "Suplente",
       "desde": "2026-02-03T00:00"
     },

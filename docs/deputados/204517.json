@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
-  "score": 22.06,
-  "rank": 375,
+  "score": 21.14,
+  "rank": 363,
   "proposicoes": [
     {
       "id": 2631190,
@@ -18,6 +18,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-06-16T15:40",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. ZÉ VITOR (PL - MG. Sem revisão do orador.) - Muito bem. Obrigado, Presidente. Eu não resisti e tive que subir à tribuna depois de ouvir aqui o relato de um Deputado que há pouco nos antecedeu, u",
+      "transcricao": "O SR. ZÉ VITOR (PL - MG. Sem revisão do orador.) - Muito bem. Obrigado, Presidente. Eu não resisti e tive que subir à tribuna depois de ouvir aqui o relato de um Deputado que há pouco nos antecedeu, um Deputado do PT. Que Brasil é esse que eles estão vivendo? Ele questionava a idoneidade e a confiabilidade dos dados que nós trouxemos aqui e que têm sido discutidos, discutindo a fonte e discutindo inclusive a data, e é por isso que eu quero atualizá-los sobre alguns dados. O Brasil não caminha bem e tem colocado em risco a vida de muitas famílias. Essa má gestão tem prejudicado  e muito  a vida e a boa condição de vida de muita gente. Observe esses dados, se são confiáveis ou não e se as fontes merecem o nosso reconhecimento e respeito aqui. Conforme dados da Confederação Nacional do Comércio  CNC, 80,9% das famílias estão endividadas e 29,7% estão inadimplentes, ou seja, com contas em atraso ou não pagas. O SPC aponta que 73,7 milhões de brasileiros estão negativados, o que corresponde a mais de 40% da população adulta do País. Além disso, segundo o Banco Central, 49,9% têm a sua renda comprometida com dívidas. São 9 milhões de empresas inadimplentes e um recorde histórico de recuperações judiciais. Centenas, milhares de produtores rurais imploram pela atenção do Governo para que suas dívidas sejam renegociadas para que possam continuar levando o progresso ao interior do Brasil e, mais do que isso, para garantir alimento de qualidade e em quantidade suficiente para cada brasileiro. Isso é fruto de um desarranjo. Eu trago aqui alguns dados que impressionam. O próprio Banco Central admite que a dívida pública do Brasil deve alcançar a marca de 80% do PIB e a carga tributária ultrapassa 32,4%. Desde 2010, quando essa série histórica vem sendo construída, esse é o maior patamar que nós já registramos, ou seja, é a desordem das contas públicas. Esses dados oficiais de 2026, atuais, mostram que o Brasil que tem sido propagado não é o Brasil da verdade. Buscam-se artificialmente ferramentas para minimizar os danos dessa gestão desastrosa. A gente precisa de um País decente e de uma gestão eficiente, de planejamento de verdade, de responsabilidade e, mais do que isso, da verdade. Nós temos um passado que nos tem orientado e ensinado. Ninguém aqui está para dizer que havia um mundo perfeito, mas havia um rumo, uma direção. Nós nos deslocamos da rota. É isso que a gente precisa fazer hoje: recolocar o Brasil na rota para não ser puxado para trás, mas definitivamente ser levado à frente. Esta é uma reflexão que eu faço, porque não há neste plenário nenhum espectador. Todos que estão aqui são agentes de transformação e protagonistas desse novo tempo que queremos construir no Brasil. As palavras ditas aqui têm peso e responsabilidade. Nós não podemos ser propagadores de mentiras e, muito menos, defensores de inverdades. Por isso, subo à tribuna para dizer que temos dados confiáveis e atuais que demonstram que o Brasil não caminha bem e quem perde é justamente aqueles que mais precisam, que se dizem defendidos e protegidos por esses que estão aí. Obrigado, Presidente."
+    },
     {
       "data": "2026-05-19T18:36",
       "fase": "Ordem do Dia",
@@ -74,6 +81,12 @@
       "sigla": "CFT",
       "cargo": "Suplente",
       "desde": "2026-03-18T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Titular",
+      "desde": "2026-06-16T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204517/votacoes-nominais-plenario/2026"

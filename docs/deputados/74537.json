@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74537.jpg",
-  "score": 25.61,
-  "rank": 237,
+  "score": 24.33,
+  "rank": 232,
   "proposicoes": [
     {
       "id": 2631190,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-06-16T15:24",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. CLAUDIO CAJADO (Bloco/PP - BA. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente. Queria fazer um registro da eficaz e eficiente gestão do Prefeito Roberto Venâncio, conhecido com",
+      "transcricao": "O SR. CLAUDIO CAJADO (Bloco/PP - BA. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente. Queria fazer um registro da eficaz e eficiente gestão do Prefeito Roberto Venâncio, conhecido como Robertinho, no Município de Tapiramutá, Município que foi contemplado como um dos melhores no Programa Escola em Tempo Integral. Presidente, esse programa está relacionado à Meta 6 do Plano Nacional de Educação, e o Município de Tapiramutá foi contemplado. O Prefeito Robertinho, juntamente com a primeira-dama, a nossa querida Cristiana, e com a Secretária de Educação, Janilda Ferreira, apresentou a experiência exitosa da cidade de Tapiramutá, ao lado de centenas de outros cidades. Tapiramutá realiza uma gestão extraordinária. Para concluir, Presidente, queria dizer o seguinte: o Prefeito foi encontrado no lixo quando era recém-nascido. Uma senhora o levou para casa e o criou. Ele conseguiu se formar em Direito e, hoje, está reeleito como Prefeito de Tapiramutá, realizando uma gestão em que todas as áreas de políticas públicas de competência do Município apresentam resultados exitosos. Registro aqui, nos Anais da Casa, a experiência da educação no Município. E parabenizo o Prefeito Robertinho pela sua gestão e o Município de Tapiramutá, com toda sua equipe. O SR. PRESIDENTE (Charles Fernandes. Bloco/PSD - BA) - Obrigado, Deputado Cajado. Parabenizo V.Exa., que muito bem representa o Município de Tapiramutá nesta Casa. Parabenizo também o Prefeito por essa aquisição em um Município pequeno, no interior da Bahia. A gente fica feliz quando um Município recebe uma homenagem como essa. Então, parabéns, Deputado Cajado. O SR. CLAUDIO CAJADO (Bloco/PP - BA) - Peço para dar como lido o discurso. Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

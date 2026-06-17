@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204486.jpg",
-  "score": 25.38,
-  "rank": 244,
+  "score": 24.4,
+  "rank": 230,
   "proposicoes": [
     {
       "id": 2631190,
@@ -48,6 +48,12 @@
       "sigla": "PEC22119",
       "cargo": "Titular",
       "desde": "2026-04-29T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Titular",
+      "desde": "2026-06-15T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204486/votacoes-nominais-plenario/2026"

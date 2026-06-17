@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/221338.jpg",
-  "score": 30.53,
-  "rank": 100,
+  "score": 29.63,
+  "rank": 102,
   "proposicoes": [
     {
       "id": 2631190,
@@ -113,6 +113,12 @@
       "sigla": "CMULHER",
       "cargo": "Titular",
       "desde": "2026-04-07T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Suplente",
+      "desde": "2026-06-15T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/221338/votacoes-nominais-plenario/2026"

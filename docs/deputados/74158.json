@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74158.jpg",
-  "score": 18.31,
-  "rank": 455,
+  "score": 18.69,
+  "rank": 429,
   "proposicoes": [
     {
       "id": 2626883,
@@ -119,6 +119,12 @@
       "sigla": "CMADS",
       "cargo": "Suplente",
       "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Titular",
+      "desde": "2026-06-15T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/74158/votacoes-nominais-plenario/2026"

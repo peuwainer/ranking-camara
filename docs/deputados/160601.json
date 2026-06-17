@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160601.jpg",
-  "score": 32.74,
-  "rank": 64,
+  "score": 34.79,
+  "rank": 29,
   "proposicoes": [
     {
       "id": 2625771,
@@ -33,6 +33,24 @@
       "ementa": "\"Dispõe sobre a obrigatoriedade de identificação precoce e atendimento educacional especializado a estudantes com altas habilidades ou superdotação na educação básica.\"",
       "data": "2026-05-26T17:37",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627883"
+    },
+    {
+      "id": 2632795,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-06-16T16:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632795"
+    },
+    {
+      "id": 2632802,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-06-16T17:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632802"
     }
   ],
   "discursos": [],

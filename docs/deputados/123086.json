@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/123086.jpg",
-  "score": 23.37,
-  "rank": 322,
+  "score": 22.89,
+  "rank": 290,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -56,6 +56,12 @@
       "sigla": "CCJC",
       "cargo": "Suplente",
       "desde": "2026-05-26T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Suplente",
+      "desde": "2026-06-15T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/123086/votacoes-nominais-plenario/2026"

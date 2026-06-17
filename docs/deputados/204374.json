@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204374.jpg",
-  "score": 37.17,
-  "rank": 22,
+  "score": 38.15,
+  "rank": 15,
   "proposicoes": [
     {
       "id": 2627616,
@@ -101,6 +101,12 @@
       "sigla": "PLP10821",
       "cargo": "Titular",
       "desde": "2026-04-29T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Suplente",
+      "desde": "2026-06-16T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204374/votacoes-nominais-plenario/2026"

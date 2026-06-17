@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178993.jpg",
-  "score": 22.61,
-  "rank": 349,
-  "proposicoes": [],
+  "score": 21.94,
+  "rank": 330,
+  "proposicoes": [
+    {
+      "id": 2632628,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-06-16T13:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632628"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
@@ -20,12 +30,6 @@
       "sigla": "BANEGRA",
       "cargo": "Titular",
       "desde": "2024-12-11T00:00"
-    },
-    {
-      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
-      "sigla": "CMO",
-      "cargo": "Titular",
-      "desde": "2025-04-08T00:00"
     },
     {
       "nome": "Comissão de Saúde",

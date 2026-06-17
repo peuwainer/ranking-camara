@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220543.jpg",
-  "score": 40.31,
-  "rank": 11,
+  "score": 39.33,
+  "rank": 13,
   "proposicoes": [
     {
       "id": 2625893,
@@ -60,6 +60,15 @@
       "ementa": "Regulamenta os programas instituídos ou administrados por fornecedores de bens e serviços visando à retenção de clientes, denominados programas de fidelidade, e estabelece regras sobre liquidez, transferência, comercialização e circulação econômica de pontos, milhas ou equivalentes.",
       "data": "2026-06-12T13:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632245"
+    },
+    {
+      "id": 2632727,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-06-16T14:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632727"
     }
   ],
   "discursos": [
@@ -154,12 +163,6 @@
       "sigla": "BANEGRA",
       "cargo": "Titular",
       "desde": "2023-11-02T00:00"
-    },
-    {
-      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
-      "sigla": "CMO",
-      "cargo": "Titular",
-      "desde": "2025-04-08T00:00"
     },
     {
       "nome": "Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados",

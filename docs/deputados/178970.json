@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178970.jpg",
-  "score": 22.35,
-  "rank": 360,
+  "score": 22.0,
+  "rank": 323,
   "proposicoes": [
     {
       "id": 2628942,
@@ -108,6 +108,12 @@
       "sigla": "SUBPROP",
       "cargo": "Titular",
       "desde": "2026-03-24T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Suplente",
+      "desde": "2026-06-15T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178970/votacoes-nominais-plenario/2026"

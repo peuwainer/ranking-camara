@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141555.jpg",
-  "score": 25.96,
-  "rank": 227,
+  "score": 26.9,
+  "rank": 159,
   "proposicoes": [
     {
       "id": 2625469,
@@ -33,6 +33,24 @@
       "ementa": "COMISSÃO DE CONSTITUIÇÃO E JUSTIÇA E DE CIDADANIA\n\n\nPROJETO DE LEI Nº 1994, DE 2025\n\n\nAltera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para garantir a responsabilidade do proprietário anterior pelo pagamento de multas de trânsito incidentes sobre o veículo transferido, e estabelece medidas complementares para a transparência e eficiência na transferência de propriedade de veículos.\n\nEMENDA SUPRESSIVA",
       "data": "2026-06-10T14:29",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631298"
+    },
+    {
+      "id": 2632558,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "COMISSÃO DE FINANÇAS E TRIBUTAÇÃO\n\nPROJETO DE LEI Nº 3.590, DE 2023\n\nAltera a Lei nº 14.133, de 2021, e a Lei nº 9.503, de 1997, para prever a divulgação de relatório de estado veicular antes da realização de leilão de veículo automotor.",
+      "data": "2026-06-15T16:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632558"
+    },
+    {
+      "id": 2632847,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "COMISSÃO DE DESENVOLVIMENTO ECONÔMICO\nPROJETO DE LEI Nº 5.960, DE 2025\n\nInstitui o Marco de Fomento à Economia Digital no Brasil.\n\n\tEMENDA SUBSTITUTIVA \t\nDê-se ao projeto de lei a seguinte redação:",
+      "data": "2026-06-16T18:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632847"
     }
   ],
   "discursos": [
@@ -94,6 +112,12 @@
       "sigla": "CFT",
       "cargo": "Suplente",
       "desde": "2026-03-18T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Suplente",
+      "desde": "2026-06-16T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/141555/votacoes-nominais-plenario/2026"

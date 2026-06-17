@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220683.jpg",
-  "score": 24.36,
-  "rank": 283,
+  "score": 23.69,
+  "rank": 255,
   "proposicoes": [
     {
       "id": 2628198,
@@ -15,6 +15,15 @@
       "ementa": "Institui o Regime Especial de Depreciação Acelerada (REDA) para aquisição de máquinas e equipamentos novos.",
       "data": "2026-05-27T11:42",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628198"
+    },
+    {
+      "id": 2632629,
+      "tipo": "PL",
+      "numero": 3134,
+      "ano": 2026,
+      "ementa": "Denomina \"Rodovia Engenheiro Paulinho Dalmaz\" o trecho da rodovia BR-487 compreendido entre o distrito de Serra dos Dourados (Município de Umuarama) e o Município de Cruzeiro do Oeste, no Estado do Paraná.",
+      "data": "2026-06-16T13:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632629"
     }
   ],
   "discursos": [],

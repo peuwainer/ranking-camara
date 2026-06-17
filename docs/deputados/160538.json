@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160538.jpg",
-  "score": 32.35,
-  "rank": 73,
+  "score": 29.63,
+  "rank": 101,
   "proposicoes": [
     {
       "id": 2628942,
@@ -27,6 +27,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-06-16T17:40",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. BOHN GASS (Bloco/PT - RS. Pela ordem. Sem revisão do orador.) - Presidente, obrigado. Deputado Glauber, eu quero desejar seu bom retorno a esta Casa, de onde V.Exa. não deveria ter saído, pelo s",
+      "transcricao": "O SR. BOHN GASS (Bloco/PT - RS. Pela ordem. Sem revisão do orador.) - Presidente, obrigado. Deputado Glauber, eu quero desejar seu bom retorno a esta Casa, de onde V.Exa. não deveria ter saído, pelo seu trabalho. Que V.Exa. exerça a plenitude do seu mandato. V.Exa. sabe que tem toda a nossa solidariedade, nosso carinho, nossa atenção, como sempre. Presidente: \"Por unanimidade, 1ª Turma do STF determina a condenação de Eduardo Bolsonaro\". E o que diz o Ministro Alexandre de Moraes? \"Não é função de um Deputado Federal brasileiro fazer lobby no exterior contra o próprio País\". Essa coação que fazia no exercício do processo não pode ser aceitam, e foi por isso que ele foi condenado nesse momento. O que o Eduardo Bolsonaro dizia à época? \"Povo brasileiro, coloque o seu agradecimento ao Presidente Donald Trump\". Quem disse isso foi Eduardo Bolsonaro. Quando? No dia em que Trump aplicou um tarifaço contra as empresas e os empregos brasileiros. Qual era o contexto? Eduardo fugiu para os Estados Unidos, atuou para que Trump aplicasse medidas contra o Brasil  imaginem , contra a nossa pátria brasileira. Para quê? Para tentar fazer com que essas medidas impedissem o julgamento do seu pai, o Jair Bolsonaro. Essa é a razão pela qual Eduardo passou a ser hoje mais um Bolsonaro condenado. O Brasil é um país soberano e um país soberano tem justiça independente. Que isso sirva de lição para que ninguém use, inclusive, a estrutura do povo brasileiro para atuar lá fora contra o Brasil. É o que Eduardo Bolsonaro fez. Por isso, a decisão unânime, hoje, da Primeira Turma do STF pela sua condenação."
+    },
     {
       "data": "2026-06-10T17:36",
       "fase": "Breves Comunicações",
@@ -241,12 +248,6 @@
       "sigla": "MERCOSUL",
       "cargo": "Titular",
       "desde": "2025-06-05T00:00"
-    },
-    {
-      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
-      "sigla": "CMO",
-      "cargo": "Titular",
-      "desde": "2025-09-01T00:00"
     },
     {
       "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",

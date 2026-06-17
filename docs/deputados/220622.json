@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220622.jpg",
-  "score": 32.23,
-  "rank": 74,
+  "score": 30.11,
+  "rank": 91,
   "proposicoes": [
     {
       "id": 2627533,
@@ -56,10 +56,10 @@
   "discursos": [],
   "orgaos": [
     {
-      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
-      "sigla": "CMO",
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
       "cargo": "Suplente",
-      "desde": "2025-04-08T00:00"
+      "desde": "2026-03-19T00:00"
     },
     {
       "nome": "Comissão do Esporte",
@@ -71,12 +71,6 @@
       "nome": "Secretaria da Mulher",
       "sigla": "SEMULHER",
       "cargo": "Titular",
-      "desde": "2026-03-19T00:00"
-    },
-    {
-      "nome": "Comissão de Educação",
-      "sigla": "CE",
-      "cargo": "Suplente",
       "desde": "2026-03-19T00:00"
     },
     {

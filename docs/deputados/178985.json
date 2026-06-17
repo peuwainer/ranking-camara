@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178985.jpg",
-  "score": 23.62,
-  "rank": 310,
+  "score": 21.76,
+  "rank": 338,
   "proposicoes": [
     {
       "id": 2631190,
@@ -20,20 +20,14 @@
   "discursos": [],
   "orgaos": [
     {
-      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
-      "sigla": "CMO",
-      "cargo": "Suplente",
-      "desde": "2025-04-10T00:00"
-    },
-    {
-      "nome": "Comissão de Defesa dos Direitos das Pessoas com Deficiência",
-      "sigla": "CPD",
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
       "cargo": "Suplente",
       "desde": "2026-02-03T00:00"
     },
     {
-      "nome": "Comissão de Saúde",
-      "sigla": "CSAUDE",
+      "nome": "Comissão de Defesa dos Direitos das Pessoas com Deficiência",
+      "sigla": "CPD",
       "cargo": "Suplente",
       "desde": "2026-02-03T00:00"
     },

@@ -4,9 +4,28 @@
   "partido": "UNIÃO",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220702.jpg",
-  "score": 23.48,
-  "rank": 313,
-  "proposicoes": [],
+  "score": 22.8,
+  "rank": 295,
+  "proposicoes": [
+    {
+      "id": 2632336,
+      "tipo": "PL",
+      "numero": 3104,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a Política Nacional de Proteção ao Ambiente Escolar e sobre estabelecer critérios complementares de co-responsabilidade familiar para manutenção de benefícios sociais federais",
+      "data": "2026-06-15T11:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632336"
+    },
+    {
+      "id": 2632453,
+      "tipo": "PL",
+      "numero": 3115,
+      "ano": 2026,
+      "ementa": "Institui o direito ao abono de ausências escolares decorrentes do período menstrual para estudantes com deficiência e dá outras providências",
+      "data": "2026-06-15T15:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632453"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

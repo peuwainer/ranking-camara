@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RN",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220624.jpg",
-  "score": 22.06,
-  "rank": 374,
+  "score": 21.3,
+  "rank": 358,
   "proposicoes": [],
   "discursos": [
     {
@@ -34,6 +34,12 @@
       "sigla": "CTUR",
       "cargo": "Titular",
       "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Suplente",
+      "desde": "2026-06-15T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220624/votacoes-nominais-plenario/2026"

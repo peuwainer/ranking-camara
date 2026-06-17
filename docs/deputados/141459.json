@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RN",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141459.jpg",
-  "score": 18.86,
-  "rank": 445,
+  "score": 18.5,
+  "rank": 434,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -26,6 +26,12 @@
       "sigla": "CASP",
       "cargo": "Suplente",
       "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Suplente",
+      "desde": "2026-06-15T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/141459/votacoes-nominais-plenario/2026"

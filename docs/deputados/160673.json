@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160673.jpg",
-  "score": 25.61,
-  "rank": 238,
+  "score": 25.0,
+  "rank": 210,
   "proposicoes": [
     {
       "id": 2625481,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015, para explicitar que transtornos do neurodesenvolvimento e outras condições que produzam limitações funcionais relevantes podem configurar deficiência, observados os requisitos do conceito legal de pessoa com deficiência.",
       "data": "2026-05-18T15:45",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625481"
+    },
+    {
+      "id": 2632705,
+      "tipo": "PL",
+      "numero": 3135,
+      "ano": 2026,
+      "ementa": "Declara a profissão de Biólogo como  profissão da área da saúde para fins legais, regulatórios, fiscalizatórios, educacionais e administrativos.",
+      "data": "2026-06-16T14:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632705"
     }
   ],
   "discursos": [],

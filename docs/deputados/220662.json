@@ -4,9 +4,19 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220662.jpg",
-  "score": 27.0,
-  "rank": 189,
-  "proposicoes": [],
+  "score": 27.01,
+  "rank": 158,
+  "proposicoes": [
+    {
+      "id": 2632692,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-06-16T14:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632692"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
@@ -56,6 +66,12 @@
       "sigla": "PLP10821",
       "cargo": "Titular",
       "desde": "2026-04-28T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Titular",
+      "desde": "2026-06-15T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220662/votacoes-nominais-plenario/2026"

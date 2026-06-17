@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204512.jpg",
-  "score": 29.24,
-  "rank": 121,
+  "score": 30.25,
+  "rank": 87,
   "proposicoes": [
     {
       "id": 2629795,
@@ -15,6 +15,24 @@
       "ementa": "Altera a Lei nº 9.956, de 12 de janeiro de 2000, para permitir, em caráter facultativo, o funcionamento de bombas de autosserviço operadas pelo próprio consumidor nos finais de semana e feriados.",
       "data": "2026-06-02T16:26",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629795"
+    },
+    {
+      "id": 2632728,
+      "tipo": "PL",
+      "numero": 3138,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.756, de 12 de dezembro de 2018, e a Lei nº 9.250, de 26 de dezembro de 1995, para dispor sobre a possibilidade de dedução, do imposto de renda devido, das doações realizadas ao Fundo Nacional de Segurança Pública (FNSP) e dá outras providências.",
+      "data": "2026-06-16T14:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632728"
+    },
+    {
+      "id": 2632745,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 14.750, de 12 de Dezembro de 2023, tendo em vista assegurar a criação de Estações Meteorológicas de Monitoramento com Inclinômetros nas serras e encostas, para prevenção de enchentes, deslizamentos de terra, desmoronamentos e eventos similares.",
+      "data": "2026-06-16T15:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632745"
     }
   ],
   "discursos": [],
@@ -24,12 +42,6 @@
       "sigla": "BANEGRA",
       "cargo": "Titular",
       "desde": "2023-11-02T00:00"
-    },
-    {
-      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
-      "sigla": "CMO",
-      "cargo": "Suplente",
-      "desde": "2025-04-08T00:00"
     },
     {
       "nome": "Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados",

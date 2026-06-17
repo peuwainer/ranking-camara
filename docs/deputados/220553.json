@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220553.jpg",
-  "score": 31.64,
-  "rank": 83,
+  "score": 31.95,
+  "rank": 61,
   "proposicoes": [
     {
       "id": 2629817,
@@ -42,6 +42,15 @@
       "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para assegurar afastamento e licença por motivo de saúde aos membros remunerados do Conselho Tutelar; e dá outras providências.",
       "data": "2026-06-11T19:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632218"
+    },
+    {
+      "id": 2632920,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-06-16T21:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632920"
     }
   ],
   "discursos": [
@@ -150,6 +159,12 @@
       "sigla": "CCULT",
       "cargo": "2º Vice-Presidente",
       "desde": "2026-03-04T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Suplente",
+      "desde": "2026-06-15T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220553/votacoes-nominais-plenario/2026"

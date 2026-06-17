@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160561.jpg",
-  "score": 23.11,
-  "rank": 333,
+  "score": 21.72,
+  "rank": 341,
   "proposicoes": [
     {
       "id": 2625433,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625433"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-06-16T18:16",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MISSIONÁRIO JOSÉ OLIMPIO (PL - SP. Pela ordem. Sem revisão do orador.) - Obrigado, meu querido Presidente. Eu quero trazer nesta tarde um assunto muito importante, mas queria antes cumprimentar ",
+      "transcricao": "O SR. MISSIONÁRIO JOSÉ OLIMPIO (PL - SP. Pela ordem. Sem revisão do orador.) - Obrigado, meu querido Presidente. Eu quero trazer nesta tarde um assunto muito importante, mas queria antes cumprimentar o Vereador Dioginnys, Presidente da Câmara Municipal de Vargem, que está acompanhado do grande Vereador Clébson, que batalha mesmo. Eu quero falar a vocês da grandeza e da força que têm naquela cidade. Nós estamos aqui também com a Jade, que está defendendo este medicamento, o Elevidys, que precisa ser aprovado na Anvisa. Nós estamos vendo o caso das crianças. Hoje houve uma audiência pública aqui, Sr. Presidente, que foi muito boa. Eu queria chamar a atenção desta Casa e de todos os Deputados para esse medicamento, que é importado e custa muito caro. A Anvisa precisa aprová-lo o mais rápido possível. Então, eu queria que meu discurso ficasse registrado nos Anais desta Casa e também fosse publicado no programa A Voz do Brasil. Obrigado, meu Presidente, um abraço."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",

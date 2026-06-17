@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141456.jpg",
-  "score": 26.67,
-  "rank": 198,
+  "score": 25.81,
+  "rank": 187,
   "proposicoes": [
     {
       "id": 2626434,
@@ -71,6 +71,12 @@
       "sigla": "CVT",
       "cargo": "Suplente",
       "desde": "2026-05-19T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Titular",
+      "desde": "2026-06-15T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/141456/votacoes-nominais-plenario/2026"

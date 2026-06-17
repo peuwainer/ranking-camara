@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204485.jpg",
-  "score": 26.36,
-  "rank": 207,
+  "score": 25.18,
+  "rank": 205,
   "proposicoes": [
     {
       "id": 2628644,
@@ -37,12 +37,6 @@
   ],
   "discursos": [],
   "orgaos": [
-    {
-      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
-      "sigla": "CMO",
-      "cargo": "Suplente",
-      "desde": "2025-04-10T00:00"
-    },
     {
       "nome": "Comissão de Saúde",
       "sigla": "CSAUDE",

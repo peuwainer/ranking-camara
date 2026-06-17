@@ -4,8 +4,8 @@
   "partido": "PV",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204541.jpg",
-  "score": 24.1,
-  "rank": 294,
+  "score": 23.29,
+  "rank": 275,
   "proposicoes": [
     {
       "id": 2631190,
@@ -18,6 +18,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-06-16T17:44",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. EDUARDO BISMARCK (Bloco/PV - CE. Sem revisão do orador.) - Sr. Presidente, nobres colegas, Deputados e Deputadas, subo à tribuna hoje muito feliz. O dia 16 de junho de 2026 é um dia realmente pa",
+      "transcricao": "O SR. EDUARDO BISMARCK (Bloco/PV - CE. Sem revisão do orador.) - Sr. Presidente, nobres colegas, Deputados e Deputadas, subo à tribuna hoje muito feliz. O dia 16 de junho de 2026 é um dia realmente para a população do litoral leste do Estado do Ceará e do Vale do Jaguaribe comemorar. Isso porque, finalmente, depois de anos e anos e anos de humilhação e de insegurança  especialmente para os passageiros do transporte terrestre de ônibus  o passageiro do transporte terrestre que faz a sua viagem para Municípios como Beberibe, Aracati, o meu Aracati, para o meu querido Fortim, minha querida Itaiçaba, para Palhano, para Russas, para Limoeiro do Norte, para Icapuí, para Tabuleiro do Norte, para Quixeré, nossos Municípios da nossa querida região do Vale do Jaguaribe, vão fazer essa mesma viagem com mais dignidade. Isso porque a Agência Reguladora do Estado do Ceará  ARCE, aprovou a Operação Espelho desses ônibus. E as empresas que estão atuando para cumprir a obrigação da Operação Espelho são empresas consideradas que prestam bom serviço. A Guanabara ficou responsável pelo Vale do Jaguaribe enquanto, a partir de amanhã, dia 17 de junho, a Via Metro e também a Viação Princesa começam a operar. Mais do que dignidade e cumprimento das obrigações impostas na hora do contrato feito pela ARCE  porque essas três empresas já prestam serviço em outras rotas , mais do que a dignidade de um transporte público de qualidade, que já é muito merecido pelos meus conterrâneos, nós temos uma coisa muito mais importante: a segurança. A cada um dia e meio, um ônibus da Viação São Benedito quebrou nos últimos quatro meses. Isso implica em diversas pessoas que ficam na rua, sem chegar aos seus destinos, aguardando um novo ônibus que muitas vezes também quebrava antes de chegar ao destino. Agora nós temos três empresas reconhecidas e que, a princípio, prestarão bom serviço também nessas rotas do litoral leste e do Vale do Jaguaribe, terra do Ceará, de onde eu tenho muito orgulho de ter minha família e de onde vim. Portanto, eu fico muito feliz com essa decisão da Arce. Quero parabenizar os conselheiros, na pessoa do Presidente Rafael de Paula. Nós elegemos para o nosso time o Deputado Estadual Guilherme Bismarck, para poder lutar e denunciar esses serviços. Afinal, o Deputado Estadual é o responsável por fiscalizar os serviços estaduais. E Mais do que isso: quero agradecer e parabenizar toda a população cearense do Vale do Jaguaribe, do litoral leste que se uniu nessa luta, mandando vídeos, mensagem de WhatsApp e denunciando os ônibus quebrados. Ontem, recebi uma mensagem no meu Instagram de um passageiro que ficou na estrada num ônibus quebrado a caminho de São Benedito. Se não havia antes, depois do trabalho da família Bismarck, agora há ônibus de qualidade para o Vale do Jaguaribe e para o litoral leste. Viva o litoral leste e o Vale do Jaguaribe! Viva o Ceará!"
+    },
     {
       "data": "2026-06-09T16:32",
       "fase": "Breves Comunicações",
@@ -86,6 +93,12 @@
       "sigla": "CVT",
       "cargo": "Suplente",
       "desde": "2026-06-11T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-06-16T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204541/votacoes-nominais-plenario/2026"

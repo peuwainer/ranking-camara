@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220586.jpg",
-  "score": 14.6,
-  "rank": 480,
+  "score": 14.65,
+  "rank": 476,
   "proposicoes": [
     {
       "id": 2629858,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 — Código de Processo Civil — e a Lei nº 7.347, de 24 de julho de 1985 — Lei da Ação Civil Pública — para instituir o Incidente de Verificação de Litigiosidade Estrutural em ações individuais e disciplinar a comunicação ao Ministério Público e aos demais legitimados coletivos.",
       "data": "2026-06-02T17:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629858"
+    },
+    {
+      "id": 2632333,
+      "tipo": "PL",
+      "numero": 3103,
+      "ano": 2026,
+      "ementa": "Acrescenta o art. 5º-A à Lei nº 11.947, de 16 de junho de 2009, para instituir fator de ponderação progressivo no repasse federal do Programa Nacional de Alimentação Escolar (PNAE) destinado aos alunos em situação de pobreza ou de extrema pobreza.",
+      "data": "2026-06-15T11:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632333"
     }
   ],
   "discursos": [],
@@ -24,12 +33,6 @@
       "sigla": "CEXSOLAL",
       "cargo": "Titular",
       "desde": "2023-03-31T00:00"
-    },
-    {
-      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
-      "sigla": "CMO",
-      "cargo": "Suplente",
-      "desde": "2025-04-08T00:00"
     },
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei n. 2614, de 2024, do Poder Executivo, que \"aprova o Plano Nacional de Educação para o decênio 2024-2034\"",

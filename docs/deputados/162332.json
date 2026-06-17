@@ -4,10 +4,18 @@
   "partido": "PSD",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/162332.jpg",
-  "score": 18.49,
-  "rank": 453,
+  "score": 17.77,
+  "rank": 450,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-06-16T18:56",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LUIZ NISHIMORI (Bloco/PSD - PR. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente Charles Fernandes. No dia de amanhã, aqui neste plenário, nós estaremos comemorando os 118 anos d",
+      "transcricao": "O SR. LUIZ NISHIMORI (Bloco/PSD - PR. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente Charles Fernandes. No dia de amanhã, aqui neste plenário, nós estaremos comemorando os 118 anos de imigração japonesa no Brasil. É um evento muito importante para duas nações. Portanto, venho aqui, juntamente com o Deputado Kim Kataguiri, que é o nosso 1º Vice-Presidente do Grupo Parlamentar Brasil-Japão, para convidar todos os Srs. Parlamentares, aquelas pessoas que estiverem no plenário e também todos os funcionários. Todos que querem participar estão convidados. Muito obrigado por este espaço de tempo cedido por V.Exa."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Representação Brasileira no Parlamento do Mercosul",

@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204549.jpg",
-  "score": 20.62,
-  "rank": 418,
+  "score": 20.4,
+  "rank": 390,
   "proposicoes": [
     {
       "id": 2631190,
@@ -54,6 +54,12 @@
       "sigla": "COETICA",
       "cargo": "Titular",
       "desde": "2026-05-05T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Titular",
+      "desde": "2026-06-15T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204549/votacoes-nominais-plenario/2026"

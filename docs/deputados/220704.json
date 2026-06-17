@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220704.jpg",
-  "score": 22.12,
-  "rank": 368,
+  "score": 23.42,
+  "rank": 269,
   "proposicoes": [
     {
       "id": 2626412,
@@ -69,6 +69,24 @@
       "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
       "data": "2026-06-10T12:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
+    },
+    {
+      "id": 2632324,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera as Leis nº 11.438, de 29 de dezembro de 2006 e nº 8.313, de 23 de dezembro de 1991, para beneficiar os projetos esportivos e culturais executados em municípios com menos de 50 mil habitantes.",
+      "data": "2026-06-15T10:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632324"
+    },
+    {
+      "id": 2632326,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Bibliotecas Digitais Comunitárias (PNBDC), com foco na juventude, e dá outras providências.",
+      "data": "2026-06-15T10:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632326"
     }
   ],
   "discursos": [

@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204394.jpg",
-  "score": 24.95,
-  "rank": 260,
+  "score": 22.61,
+  "rank": 303,
   "proposicoes": [
     {
       "id": 2631190,
@@ -28,21 +28,15 @@
   ],
   "orgaos": [
     {
-      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
-      "sigla": "CMO",
-      "cargo": "Suplente",
-      "desde": "2025-05-05T00:00"
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Titular",
+      "desde": "2026-04-22T00:00"
     },
     {
       "nome": "Comissão de Comunicação",
       "sigla": "CCOM",
       "cargo": "Suplente",
-      "desde": "2026-04-22T00:00"
-    },
-    {
-      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
-      "sigla": "CREDN",
-      "cargo": "Titular",
       "desde": "2026-04-22T00:00"
     }
   ],

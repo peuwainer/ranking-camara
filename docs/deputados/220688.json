@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220688.jpg",
-  "score": 27.7,
-  "rank": 172,
+  "score": 25.4,
+  "rank": 200,
   "proposicoes": [
     {
       "id": 2630684,
@@ -47,12 +47,6 @@
       "sigla": "GTCL",
       "cargo": "Titular",
       "desde": "2025-04-30T00:00"
-    },
-    {
-      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
-      "sigla": "CMO",
-      "cargo": "Suplente",
-      "desde": "2025-09-01T00:00"
     },
     {
       "nome": "Comissão de Minas e Energia",

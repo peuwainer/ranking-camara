@@ -4,8 +4,8 @@
   "partido": "PV",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/69871.jpg",
-  "score": 27.83,
-  "rank": 170,
+  "score": 25.97,
+  "rank": 185,
   "proposicoes": [
     {
       "id": 2626231,
@@ -63,12 +63,6 @@
       "desde": "2024-02-07T00:00"
     },
     {
-      "nome": "Comissão de Constituição e Justiça e de Cidadania",
-      "sigla": "CCJC",
-      "cargo": "Suplente",
-      "desde": "2026-02-09T00:00"
-    },
-    {
       "nome": "Comissão de Turismo",
       "sigla": "CTUR",
       "cargo": "Titular",
@@ -79,6 +73,12 @@
       "sigla": "PL808514",
       "cargo": "Suplente",
       "desde": "2026-03-18T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Suplente",
+      "desde": "2026-06-16T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/69871/votacoes-nominais-plenario/2026"

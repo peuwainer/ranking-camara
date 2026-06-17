@@ -4,10 +4,28 @@
   "partido": "UNIÃO",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236518.jpg",
-  "score": 0.0,
-  "rank": 513,
-  "proposicoes": [],
-  "discursos": [],
+  "score": 1.89,
+  "rank": 511,
+  "proposicoes": [
+    {
+      "id": 2632571,
+      "tipo": "PL",
+      "numero": 3126,
+      "ano": 2026,
+      "ementa": "Denomina \"Rodovia Engenheiro Paulinho Dalmaz\" o trecho da rodovia BR-487 compreendido entre o distrito de Serra dos Dourados (Município de Umuarama) e o Município de Cruzeiro do Oeste, no Estado do  Paraná.",
+      "data": "2026-06-16T10:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632571"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-06-16T17:20",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. SANTIN ROVEDA (Bloco/UNIÃO - PR. Sem revisão do orador.) - Chego a esta Casa de Leis  para mim esta é a primeira sessão depois da posse , com muito orgulho, para falar de um Brasil que não é s",
+      "transcricao": "O SR. SANTIN ROVEDA (Bloco/UNIÃO - PR. Sem revisão do orador.) - Chego a esta Casa de Leis  para mim esta é a primeira sessão depois da posse , com muito orgulho, para falar de um Brasil que não é só política, mas é a realidade. A maioria dos brasileiros não quer saber de política, não quer saber quem é o Deputado, quem é o Governador, quem é o Presidente, quer simplesmente que a gente entregue um País justo, honesto, para que a sociedade possa trabalhar, para que o empresário possa empreender, para que o trabalhador e a classe média possam ter uma vida que lhes permita trocar de carro, comprar uma casa nova, melhorar de vida, ir jantar com sua família e dar estudo para os seus filhos. E é isso que a gente fez no Estado do Paraná. Eu, que tenho uma proximidade, uma amizade muito forte, com o Governador Ratinho Jr., fui Prefeito do interior do Estado do Paraná, da cidade de União da Vitória, da qual tenho muito orgulho, na região centro-sul, na divisa com Santa Catarina. Consegui fazer lá muito na parte de infraestrutura. Fui Secretário da Justiça, levando para o Paraná o apoio a pessoas que moram na rua, a consumidores. Fui Presidente do Detran, com orgulho, e deixei um grande legado junto com a Fazenda, com a Assembleia Legislativa e com o Governador: o menor IPVA do Brasil, o menor IPVA da história, devolvendo dinheiro para o bolso dos paranaenses, dando exemplo para todo o Brasil de um Governo que corta mordomias, corta privilégios, custo no serviço público e no privado. É como se fosse unha, temos que cortar custos diariamente, se for necessário, sempre. E temos que perceber que gestão faz a diferença, principalmente em redução de imposto, quando fazemos o nosso dever de casa. O brasileiro tem um problema grave hoje em dia, pois mais de 80% das empresas estão endividadas. A grande maioria dos brasileiros está devendo. E uma das nossas responsabilidades, como pessoas públicas, como representantes, é cobrar do Executivo, de Prefeitos, de Governadores e do nosso Presidente que tenham responsabilidade de gestão. A gente não quer que criem imposto todo dia. A gente vê dezenas de regras para a criação de taxas novas, de impostos novos, mas a bandeira que trago é exatamente a possibilidade de os brasileiros poderem deslanchar, terem uma vida melhor, terem um enriquecimento merecido, desfrutarem de um Brasil melhor. O Brasil é uma casa grande, linda, maravilhosa e que merece ter  e vai ter  reformas significativas. Conte comigo, Santin Roveda, seu Deputado Federal. E vamos trabalhar!"
+    }
+  ],
   "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/236518/votacoes-nominais-plenario/2026"
 }

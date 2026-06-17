@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178945.jpg",
-  "score": 22.08,
-  "rank": 371,
+  "score": 21.43,
+  "rank": 351,
   "proposicoes": [],
   "discursos": [
     {
@@ -54,6 +54,12 @@
       "sigla": "CSAUDE",
       "cargo": "Suplente",
       "desde": "2026-06-02T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Titular",
+      "desde": "2026-06-16T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178945/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "AC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220588.jpg",
-  "score": 39.44,
-  "rank": 17,
+  "score": 39.73,
+  "rank": 11,
   "proposicoes": [
     {
       "id": 2625378,
@@ -155,6 +155,12 @@
       "sigla": "PEC22119",
       "cargo": "Titular",
       "desde": "2026-04-28T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Titular",
+      "desde": "2026-06-16T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220588/votacoes-nominais-plenario/2026"

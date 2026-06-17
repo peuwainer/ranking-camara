@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/214694.jpg",
-  "score": 27.24,
-  "rank": 182,
+  "score": 26.61,
+  "rank": 165,
   "proposicoes": [
     {
       "id": 2626174,
@@ -42,6 +42,15 @@
       "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
       "data": "2026-06-10T12:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
+    },
+    {
+      "id": 2632740,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a forma de aplicabilidade dos percentuais referidos no art. 93, da Lei nº 8.213, de 24 de julho de 1991, nas empresas de segurança privada.",
+      "data": "2026-06-16T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632740"
     }
   ],
   "discursos": [],

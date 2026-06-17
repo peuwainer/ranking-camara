@@ -4,8 +4,8 @@
   "partido": "AVANTE",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204553.jpg",
-  "score": 30.66,
-  "rank": 97,
+  "score": 29.65,
+  "rank": 99,
   "proposicoes": [
     {
       "id": 2627397,
@@ -51,6 +51,15 @@
       "ementa": "Institui a Política de Inclusão Parlamentar da Pessoa com Deficiência no âmbito da Câmara dos Deputados e estabelece medidas destinadas à promoção permanente da inclusão de pessoas com deficiência nos gabinetes parlamentares, nas lideranças partidárias, nas comissões e nos órgãos administrativos da Casa.",
       "data": "2026-06-15T08:59",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632314"
+    },
+    {
+      "id": 2632434,
+      "tipo": "PL",
+      "numero": 3113,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional Parlamento Inclusivo, destinado à promoção da participação de pessoas com deficiência nas estruturas legislativas da União, dos Estados, do Distrito Federal e dos Municípios, e dá outras providências.",
+      "data": "2026-06-15T15:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632434"
     }
   ],
   "discursos": [
