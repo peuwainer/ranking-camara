@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
-  "score": 33.24,
-  "rank": 46,
+  "score": 33.92,
+  "rank": 51,
   "proposicoes": [
-    {
-      "id": 2625322,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Institui o Programa Nacional de Incentivo à Arborização e Adoção Sustentável de Espaços Públicos  -  Lei das Praças Verdes, e dá outras providências.",
-      "data": "2026-05-18T11:31",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625322"
-    },
     {
       "id": 2629218,
       "tipo": "PL",
@@ -123,6 +114,15 @@
       "ementa": "Institui a Política Nacional de Incentivos Econômicos e Urbanísticos à Adoção de Soluções de Cidade Esponja e dá outras providências.",
       "data": "2026-05-29T10:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629260"
+    },
+    {
+      "id": 2632933,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a análise e remediação de solos e alimentos em áreas afetadas por enchentes causadas por eventos climáticos intensos e dá outras providências.",
+      "data": "2026-06-17T09:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632933"
     }
   ],
   "discursos": [],

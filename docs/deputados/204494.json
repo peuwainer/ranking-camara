@@ -4,8 +4,8 @@
   "partido": "PRD",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
-  "score": 20.16,
-  "rank": 394,
+  "score": 23.45,
+  "rank": 338,
   "proposicoes": [
     {
       "id": 2632413,
@@ -15,6 +15,15 @@
       "ementa": "Institui a Lei de Incentivo à Adoção e Proteção Animal e altera as Leis nº 9.250, de 1995, e nº 9.249, de 1995 e dá outras providências.",
       "data": "2026-06-15T14:44",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632413"
+    },
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
   "discursos": [],

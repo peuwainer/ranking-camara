@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236375.jpg",
-  "score": 11.72,
-  "rank": 490,
+  "score": 17.93,
+  "rank": 463,
   "proposicoes": [
     {
       "id": 2629791,
@@ -78,6 +78,33 @@
       "ementa": "Institui o Programa Nacional Passaporte do Esporte, destinado ao reconhecimento, certificação, capacitação e incentivo de professores, instrutores, treinadores e educadores esportivos que promovam gratuitamente atividades esportivas e de lazer em comunidades brasileiras.",
       "data": "2026-06-04T15:43",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630101"
+    },
+    {
+      "id": 2633448,
+      "tipo": "PL",
+      "numero": 3184,
+      "ano": 2026,
+      "ementa": "Institui protocolos nacionais obrigatórios de prevenção, acolhimento e enfrentamento à violência contra a mulher em eventos esportivos e grandes espetáculos públicos, e dá outras providências.",
+      "data": "2026-06-17T17:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633448"
+    },
+    {
+      "id": 2633450,
+      "tipo": "PL",
+      "numero": 3185,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de atendimento presencial às pessoas idosas, pessoas com deficiência e pessoas com Transtorno do Espectro Autista - TEA em órgãos e entidades públicas e privadas em todo território nacional, e dá outras providências.",
+      "data": "2026-06-17T17:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633450"
+    },
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
   "discursos": [

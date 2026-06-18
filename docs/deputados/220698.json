@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220698.jpg",
-  "score": 19.06,
-  "rank": 419,
+  "score": 21.49,
+  "rank": 393,
   "proposicoes": [
     {
       "id": 2628444,
@@ -24,6 +24,15 @@
       "ementa": "Institui a Modalidade de Assistência de Transição de Cuidados no âmbito do Sistema Único de Saúde (SUS), altera a Lei nº 8.080, de 19 de setembro de 1990, e dispõe sobre suas fontes de financiamento e diretrizes de implementação.",
       "data": "2026-05-29T11:20",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629269"
+    },
+    {
+      "id": 2633338,
+      "tipo": "PL",
+      "numero": 3175,
+      "ano": 2026,
+      "ementa": "Altera a Lei n° 14.601, de 19 de junho de 2023, para excluir do cálculo de renda familiar por capita, para fins de concessão, manutenção e revisão dos benefícios do Programa Bolsa Família, a remuneração percebida por adolescente ou jovem contratado na condição de aprendiz.",
+      "data": "2026-06-17T14:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633338"
     }
   ],
   "discursos": [

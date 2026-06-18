@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220558.jpg",
-  "score": 32.32,
-  "rank": 54,
+  "score": 33.19,
+  "rank": 62,
   "proposicoes": [
     {
       "id": 2627963,
@@ -17,7 +17,22 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627963"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-06-17T19:32",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ZÉ TROVÃO (PL - SC. Sem revisão do orador.) - Sr. Presidente, existem momentos na vida em que nós temos que decidir o que queremos fazer, para onde queremos ir e aonde queremos chegar. Quando co",
+      "transcricao": "O SR. ZÉ TROVÃO (PL - SC. Sem revisão do orador.) - Sr. Presidente, existem momentos na vida em que nós temos que decidir o que queremos fazer, para onde queremos ir e aonde queremos chegar. Quando comecei em cima do volante de um caminhão, eu nunca imaginei chegar aqui. (O orador se emociona.) Eu nunca imaginei que um caminhão me traria ao Congresso Nacional, onde a vida do caminhoneiro sempre foi decidida, e decidida de maneira errada ou de maneira, às vezes, rasa! Mas eu cheguei aqui e não sei, até hoje, como. Quando me perguntam como eu cheguei, eu digo: \"Não sei\". Eu só lutei, lutei, e lutei todos os dias, para que a minha categoria deixasse de ser pano de chão na mão dos outros! Hoje, Sr. Presidente, é um dia muito especial na minha vida, porque posso dizer que completei aquilo que eu me propus a fazer no Congresso Nacional, de maneira íntegra, pelo transporte. Desde o início, desde o primeiro dia de mandato, a gente vinha apresentando proposições, lutando nas Comissões, aprovando projetos, mas tudo parecia que não ia chegar a lugar nenhum. E eu lutei e continuei lutando ao lado desses bravos homens que estão aqui hoje. Eu não quero falar de mim, não, Sr. Presidente. Aqueles ali no fundo deveriam estar aqui em cima junto comigo! Ali no fundo estão os homens que continuam sangrando nas estradas todos os dias! (Palmas.) Esses homens é que deveriam estar aqui, porque a verdadeira autoridade do transporte não é quem fala pelo transporte, é quem vive o transporte! Hoje eu sou um instrumento, um instrumento que nunca vai desonrar nenhum caminhoneiro neste País. Muito pelo contrário. Nós fizemos hoje algo que ninguém jamais imaginou ser capaz de fazer ou ser possível fazer, mas é apenas o começo. E, com alegria em meu coração, eu quero dizer a todos V.Exas. para juntos fazermos do caminhoneiro aquilo que ele realmente é: o herói que sustenta o Brasil todos os dias! Parabéns a V.Exas. e obrigado por estarem aqui! Obrigado, Sr. Presidente."
+    },
+    {
+      "data": "2026-06-17T19:04",
+      "fase": "Ordem do Dia",
+      "tipo": "ENCAMINHAMENTO DE VOTAÇÃO",
+      "resumo": "O SR. ZÉ TROVÃO (PL - SC. Sem revisão do orador.) - Veja só, Presidente. Este não foi um texto de simples construção. Para chegar a uma proposta que pretende mudar a vida do caminhoneiro, a primeira p",
+      "transcricao": "O SR. ZÉ TROVÃO (PL - SC. Sem revisão do orador.) - Veja só, Presidente. Este não foi um texto de simples construção. Para chegar a uma proposta que pretende mudar a vida do caminhoneiro, a primeira premissa é ouvir o caminhoneiro. E foi isso que nós fizemos, foi assim que nós atuamos ao longo de quase 3 meses de trabalho sobre a MP 1.343. Hoje nós estamos votando nesta Casa algo que definitivamente tira o caminhoneiro autônomo da escravidão, do jugo daqueles que sempre o roubaram na cara dura. De quem eu estou falando? Do famoso transovaco: o homem que não tem um caminhão, que nunca dirigiu um caminhão, mas leva 30%, 40%, 50% do frete do caminhoneiro. Hoje nós estamos pondo um fim a essa prática. Estamos levando dignidade para aqueles homens que, aos 70 anos de vida, continuam na boleia de um caminhão, trabalhando dia após dia, porque não conseguem se aposentar por terem uma renda miserável. Por que nós somos contrários a esses destaques? Porque visam atrapalhar o bom andamento da proposta, com atrasos em sua apreciação, e, principalmente, tirar direitos do caminhoneiro. E por que nós somos contra esses destaques? Porque esses destaques visam atrapalhar, prejudicar, fazer com que este bom andamento tenha atrasos e, principalmente, tirar direitos do caminhoneiro. Nós vimos, Sr. Presidente, em 2022, caminhoneiros que foram obrigados a parar e, depois, foram multados por estarem parados e que receberam multas milionárias: 3 milhões, 4 milhões, 5 milhões, 6 milhões de reais. Então, Sr. Presidente, nós estamos aqui defendendo esses guerreiros, para que essas pessoas não vivam mais sob esse jugo. É por isso que o PL, a Oposição, é contra esse destaque. Nós somos favoráveis a uma única coisa, Sr. Presidente: que seja feita a maior festa de todos os tempos hoje, em todo o Brasil, porque estamos dando dignidade a quem transporta o Brasil nas costas com muito suor, garra e força de vontade. Obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a estudar e analisar formas de prevenção e auxílio a desastres e calamidades naturais que vêm assolando o Território Nacional",
@@ -36,12 +51,6 @@
       "sigla": "PL233823",
       "cargo": "Suplente",
       "desde": "2025-04-29T00:00"
-    },
-    {
-      "nome": "Grupo de Trabalho destinado a discutir e elaborar proposição legislativa que vise ao aperfeiçoamento da Administração Pública",
-      "sigla": "GTREFADM",
-      "cargo": "Titular",
-      "desde": "2025-05-31T00:00"
     },
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, que \"regula os serviços de transporte remunerado privado individual de passageiros e de coleta e entrega de bens prestados pelas empresas operadoras de plataforma digital\"",

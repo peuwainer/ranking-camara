@@ -4,9 +4,19 @@
   "partido": "PSDB",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204409.jpg",
-  "score": 21.43,
-  "rank": 350,
-  "proposicoes": [],
+  "score": 24.3,
+  "rank": 301,
+  "proposicoes": [
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-06-09T14:08",

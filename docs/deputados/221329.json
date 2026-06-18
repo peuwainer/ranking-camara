@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/221329.jpg",
-  "score": 27.66,
-  "rank": 133,
+  "score": 30.29,
+  "rank": 116,
   "proposicoes": [
     {
       "id": 2628467,
@@ -15,6 +15,15 @@
       "ementa": "Institui o Programa Nacional \"Espaço Laços\", estabelecendo diretrizes para o Centro de Atendimento Integral à Neurodiversidade e a criação do Parque Multissensorial Municipal, pautado na Reabilitação Ecológica e na Terapia Assistida por Animais (TAA) no âmbito do Sistema Único de Saúde (SUS).",
       "data": "2026-05-27T17:42",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628467"
+    },
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
   "discursos": [],

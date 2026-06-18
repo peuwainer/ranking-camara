@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220564.jpg",
-  "score": 4.75,
-  "rank": 505,
+  "score": 5.58,
+  "rank": 506,
   "proposicoes": [
     {
       "id": 2630102,
@@ -15,6 +15,15 @@
       "ementa": "Denomina “Rodovia Dom Mário Rino Sivieri” o trecho da BR-349 compreendido entre os quilômetros 0 e 40, no Estado de Sergipe.",
       "data": "2026-06-05T10:24",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630102"
+    },
+    {
+      "id": 2633130,
+      "tipo": "PL",
+      "numero": 3165,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para instituir o piso salarial nacional dos Conselheiros Tutelares.",
+      "data": "2026-06-17T11:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633130"
     }
   ],
   "discursos": [],

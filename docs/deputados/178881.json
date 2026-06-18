@@ -4,10 +4,27 @@
   "partido": "REPUBLICANOS",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178881.jpg",
-  "score": 27.1,
-  "rank": 154,
-  "proposicoes": [],
+  "score": 28.68,
+  "rank": 156,
+  "proposicoes": [
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    }
+  ],
   "discursos": [
+    {
+      "data": "2026-06-17T14:44",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. ALUISIO MENDES (Bloco/REPUBLICANOS - MA. Sem revisão do orador.) - Muito obrigado, Presidente Luiz Lima. É uma honra e um prazer usar esta tribuna sob a Presidência de V.Exa. Hoje venho aqui reg",
+      "transcricao": "O SR. ALUISIO MENDES (Bloco/REPUBLICANOS - MA. Sem revisão do orador.) - Muito obrigado, Presidente Luiz Lima. É uma honra e um prazer usar esta tribuna sob a Presidência de V.Exa. Hoje venho aqui registrar um dia muito importante para a segurança pública da população maranhense. Hoje, a nossa briosa Polícia Militar completa 190 anos de existência. E falo isso com muito orgulho por ter tido a oportunidade, durante minha vida profissional como policial, de conviver muito proximamente com os homens e as mulheres que compõem a nossa Polícia Militar. Primeiro, na condição de fundador, criador e primeiro coordenador do Centro Tático Aéreo, unidade de elite da segurança pública maranhense, composta por policiais militares, policiais civis e bombeiros militares. Nessa oportunidade, pude colaborar, participar e entender a importância da Polícia Militar no vetor da segurança pública do nosso Estado e também reconhecer a qualidade, o esmero e a dedicação de cada policial militar, homem e mulher, que compõe aquela instituição. Isso enche de orgulho o povo do Maranhão. Isso enche de orgulho todo o Estado do Maranhão por ter uma das polícias militares mais responsáveis, mais atuantes e mais compromissadas com o seu povo, que é a Polícia Militar do Estado do Maranhão. Faço aqui também o registro de que, na época em que fui Secretário de Segurança Pública do Estado do Maranhão, durante 5 anos, e coordenei o sistema de segurança pública daquele Estado, pude comprovar ainda mais a qualidade e a dedicação de cada homem e mulher que compõem aquela instituição, motivo de muito orgulho para o nosso Estado. Por isso, hoje, dia em que a Polícia Militar completa quase 2 séculos de existência  são 190 anos , o Maranhão deve muito a essa instituição e deve homenagear cada homem e mulher que fazem parte dela, tendo orgulho dessa grande corporação que zela pela segurança, pela vida, pelo patrimônio e pela ordem pública do nosso Estado. Quero, em nome do comandante Wallace, o comandante-geral da Polícia Militar; e, em nome da Coronel Augusta, Secretária de Segurança Pública do Estado do Maranhão, desejar muitos e muitos anos de vida e de sucesso à nossa Polícia Militar. Quero ainda dizer do meu orgulho de ter feito parte do sistema de segurança pública daquela época e de preservar a grande instituição que é a nossa Polícia Militar. Por isso, parabéns a todos os policiais militares do Estado do Maranhão. Viva a nossa briosa Polícia Militar! Muito obrigado, Sr. Presidente."
+    },
     {
       "data": "2026-06-16T14:28",
       "fase": "Breves Comunicações",

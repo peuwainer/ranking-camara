@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160598.jpg",
-  "score": 33.46,
-  "rank": 42,
+  "score": 36.62,
+  "rank": 26,
   "proposicoes": [
     {
       "id": 2627763,
@@ -69,6 +69,24 @@
       "ementa": "",
       "data": "2026-06-16T13:06",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632625"
+    },
+    {
+      "id": 2633045,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-06-17T10:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633045"
+    },
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
   "discursos": [],

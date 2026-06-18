@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74253.jpg",
-  "score": 28.52,
-  "rank": 121,
+  "score": 30.11,
+  "rank": 119,
   "proposicoes": [
     {
       "id": 2627896,
@@ -51,9 +51,25 @@
       "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
       "data": "2026-06-10T14:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631296"
+    },
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-06-17T19:36",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JULIO LOPES (Bloco/PP - RJ. Pela ordem. Sem revisão do orador.) - Presidente Hildo Rocha, nós orientamos \"sim\". Mas gostaria de aproveitar, Presidente, a emoção do Deputado Zé Trovão aqui para p",
+      "transcricao": "O SR. JULIO LOPES (Bloco/PP - RJ. Pela ordem. Sem revisão do orador.) - Presidente Hildo Rocha, nós orientamos \"sim\". Mas gostaria de aproveitar, Presidente, a emoção do Deputado Zé Trovão aqui para parabenizar todos os caminhoneiros do Brasil, parabenizar o País, os Deputados Federais, todos nós que participamos da Comissão Especial e até o Governo, que fez um encaminhamento bom desta questão. Na realidade, Sr. Presidente, Sras. e Srs. Deputados, quem move o Brasil são os caminhoneiros. A logística deste País está nas mãos dos caminhoneiros. E hoje demos um grande passo para a melhoria dessa categoria tão importante para a vida e para a logística de cada cidadã e cada cidadão brasileiro. Hoje, os caminhoneiros do Brasil saem engrandecidos e fortalecidos com uma nova categoria funcional, que certamente dará ao Brasil uma contribuição ainda maior e ainda melhor no sentido de ter mais segurança e mais possibilidades de realizar o serviço tão importante, que é mover o Brasil em relação ao seu progresso, em relação ao seu futuro. Senhoras e senhores, hoje, a Câmara dá um grande passo em direção a ter um País melhor com um futuro melhor. Parabéns a todos os que participaram dessas importantes missão e decisão! Parabéns, Deputado Zé Trovão, por sua emoção! Parabéns a todos!"
+    },
     {
       "data": "2026-06-10T18:24",
       "fase": "Breves Comunicações",
@@ -68,12 +84,6 @@
       "sigla": "PL233823",
       "cargo": "Suplente",
       "desde": "2025-04-29T00:00"
-    },
-    {
-      "nome": "Grupo de Trabalho destinado a discutir e elaborar proposição legislativa que vise ao aperfeiçoamento da Administração Pública",
-      "sigla": "GTREFADM",
-      "cargo": "Titular",
-      "desde": "2025-05-28T00:00"
     },
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 733, de 2025, do Sr. Leur Lomanto Júnior, que \"dispõe sobre o Sistema Portuário Brasileiro, regula a exploração dos portos, as atividades de operação portuária, o trabalho portuário e dá outras providências\"",

@@ -4,7 +4,7 @@
   "partido": "PSD",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74043.jpg",
-  "score": 18.2,
+  "score": 19.91,
   "rank": 440,
   "proposicoes": [
     {
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Dados Pessoais – LGPD), disciplinando o tratamento de dados preditivos de saúde por sistemas de inteligência artificial e congêneres.",
       "data": "2026-05-19T12:59",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625703"
+    },
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
   "discursos": [],

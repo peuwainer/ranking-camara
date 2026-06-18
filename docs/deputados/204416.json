@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204416.jpg",
-  "score": 28.12,
-  "rank": 125,
+  "score": 30.84,
+  "rank": 107,
   "proposicoes": [
-    {
-      "id": 2625583,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Parecer do relator, Deputado Sanderson, pela aprovação do Projeto de Lei nº 4.688. de 2025, e da EMC nº 1/2025, na forma do substitutivo.",
-      "data": "2026-05-18T16:32",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625583"
-    },
     {
       "id": 2628735,
       "tipo": "SBT",
@@ -33,6 +24,24 @@
       "ementa": "Voto do relator, Deputado Sanderson, pela não implicação financeira ou orçamentária da matéria em aumento ou diminuição da receita e da despesa pública, não cabendo pronunciamento quanto à adequação financeira ou orçamentária do Projeto de Lei nº 2.134, de 2003; e no mérito, pela aprovação do Projeto de Lei nº 1810, de 2025, com o substitutivo.",
       "data": "2026-06-08T14:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630262"
+    },
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2633960,
+      "tipo": "PL",
+      "numero": 3198,
+      "ano": 2026,
+      "ementa": "Institui o Marco Legal de Combate ao Crime Organizado",
+      "data": "2026-06-17T19:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633960"
     }
   ],
   "discursos": [

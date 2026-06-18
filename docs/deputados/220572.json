@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220572.jpg",
-  "score": 18.72,
-  "rank": 428,
+  "score": 20.22,
+  "rank": 430,
   "proposicoes": [
     {
       "id": 2626331,
@@ -66,6 +66,12 @@
       "sigla": "CSAUDE",
       "cargo": "Suplente",
       "desde": "2026-04-24T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Suplente",
+      "desde": "2026-06-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220572/votacoes-nominais-plenario/2026"

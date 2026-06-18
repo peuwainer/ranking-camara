@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220642.jpg",
-  "score": 28.21,
-  "rank": 123,
+  "score": 30.06,
+  "rank": 121,
   "proposicoes": [
     {
       "id": 2628183,
@@ -42,6 +42,15 @@
       "ementa": "Requer, nos termos regimentais, a coautoria do Projeto de Lei nº 177, de 2023.",
       "data": "2026-06-02T15:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629706"
+    },
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
   "discursos": [],

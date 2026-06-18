@@ -4,8 +4,8 @@
   "partido": "SOLIDARIEDADE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
-  "score": 40.69,
-  "rank": 9,
+  "score": 45.04,
+  "rank": 8,
   "proposicoes": [
     {
       "id": 2625950,
@@ -51,6 +51,42 @@
       "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para instituir a obrigatoriedade da prática de direção veicular em vias públicas para fins de formação de condutores.",
       "data": "2026-06-11T14:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631833"
+    },
+    {
+      "id": 2633464,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-06-16T13:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633464"
+    },
+    {
+      "id": 2633465,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-06-17T16:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633465"
+    },
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2633974,
+      "tipo": "SBT",
+      "numero": 4,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-06-17T19:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633974"
     }
   ],
   "discursos": [
@@ -99,12 +135,6 @@
       "sigla": "GTCL",
       "cargo": "Titular",
       "desde": "2025-04-30T00:00"
-    },
-    {
-      "nome": "Grupo de Trabalho destinado a discutir e elaborar proposição legislativa que vise ao aperfeiçoamento da Administração Pública",
-      "sigla": "GTREFADM",
-      "cargo": "Titular",
-      "desde": "2025-05-28T00:00"
     },
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, que \"regula os serviços de transporte remunerado privado individual de passageiros e de coleta e entrega de bens prestados pelas empresas operadoras de plataforma digital\"",

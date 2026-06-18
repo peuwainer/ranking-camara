@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204525.jpg",
-  "score": 25.05,
-  "rank": 207,
+  "score": 27.68,
+  "rank": 184,
   "proposicoes": [
     {
       "id": 2629500,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para ampliar a proteção penal conferida aos animais e instituir causa de aumento de pena para crimes de maus-tratos praticados com finalidade econômica ou para produção e divulgação de conteúdo audiovisual.",
       "data": "2026-06-01T17:14",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629500"
+    },
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
   "discursos": [],

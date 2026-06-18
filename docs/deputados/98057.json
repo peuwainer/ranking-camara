@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/98057.jpg",
-  "score": 36.93,
+  "score": 37.0,
   "rank": 23,
   "proposicoes": [
-    {
-      "id": 2625433,
-      "tipo": "EMP",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 8.137, de 27 de dezembro de 1990, para tipificar a conduta de elevar, sem justa causa, o preço dos bens de utilidade pública de que trata o art. 1º, § 1º, da Lei nº 9.847, de 26 de outubro de 1999, e dá outras providências.",
-      "data": "2026-05-18T14:59",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625433"
-    },
     {
       "id": 2625635,
       "tipo": "EMP",
@@ -60,9 +51,34 @@
       "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
       "data": "2026-06-10T12:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
+    },
+    {
+      "id": 2633298,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.874, de 20 de setembro de 2019, para incluir o inciso XIII ao art. 3º, dispondo sobre a dispensa de reconhecimento de firma e autenticação em atos assinados conforme a Lei nº 14.063, de 23 de setembro de 2020, inclusive em relações entre pessoas naturais ou jurídicas de direito privado.",
+      "data": "2026-06-17T13:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633298"
+    },
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-06-17T16:28",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LAFAYETTE DE ANDRADA (PL - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o PL encaminha favoravelmente ao projeto. É importante dar esse incentivo às cidades que reconheçam a importâ",
+      "transcricao": "O SR. LAFAYETTE DE ANDRADA (PL - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o PL encaminha favoravelmente ao projeto. É importante dar esse incentivo às cidades que reconheçam a importância de favorecer a vida dos idosos. Eu queria, Sr. Presidente, também aproveitar esses momentos que me são concedidos para fazer aqui um protesto veemente contra a decisão de se esvaziar a Barragem da Caatinga, no Município de Bocaiúva, no norte de Minas, na localidade de Engenheiro Dolabela. É uma barragem que alimenta mais de 800 famílias, uma região seca, uma região que precisa de água, o Governo agora decide esvaziar essa barragem. Há 2 anos ou há 3 anos, quando quiseram esvaziar a barragem, nós chegamos a entrar na Justiça para impedir que isso ocorresse. Agora, novamente, este Governo, de maneira insensível, decide esvaziar a barragem. Fica aqui o nosso protesto e vamos até as últimas consequências para evitar."
+    },
     {
       "data": "2026-06-16T20:08",
       "fase": "Ordem do Dia",

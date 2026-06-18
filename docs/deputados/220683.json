@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220683.jpg",
-  "score": 23.69,
-  "rank": 255,
+  "score": 26.28,
+  "rank": 215,
   "proposicoes": [
     {
       "id": 2628198,
@@ -24,6 +24,15 @@
       "ementa": "Denomina \"Rodovia Engenheiro Paulinho Dalmaz\" o trecho da rodovia BR-487 compreendido entre o distrito de Serra dos Dourados (Município de Umuarama) e o Município de Cruzeiro do Oeste, no Estado do Paraná.",
       "data": "2026-06-16T13:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632629"
+    },
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
   "discursos": [],
@@ -57,6 +66,12 @@
       "sigla": "PLP10821",
       "cargo": "Titular",
       "desde": "2026-04-29T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Titular",
+      "desde": "2026-06-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220683/votacoes-nominais-plenario/2026"

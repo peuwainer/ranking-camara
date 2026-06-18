@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/133439.jpg",
-  "score": 29.15,
-  "rank": 106,
+  "score": 31.18,
+  "rank": 99,
   "proposicoes": [
     {
       "id": 2631190,
@@ -24,6 +24,24 @@
       "ementa": "Cria o Banco Nacional de Heteroidentificação de Candidatos ao Serviço Público Federal – BNHSP, em atendimento ao princípio da eficiência da administração pública, previsto no caput do art. 37 da Constituição Federal e em respeito à legislação vigente, e dá outras providências",
       "data": "2026-06-11T12:01",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632009"
+    },
+    {
+      "id": 2633363,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre o salário profissional do médico-veterinário",
+      "data": "2026-06-17T15:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633363"
+    },
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
   "discursos": [],
@@ -39,12 +57,6 @@
       "sigla": "PEC01421",
       "cargo": "Titular",
       "desde": "2025-05-21T00:00"
-    },
-    {
-      "nome": "Grupo de Trabalho destinado a discutir e elaborar proposição legislativa que vise ao aperfeiçoamento da Administração Pública",
-      "sigla": "GTREFADM",
-      "cargo": "Titular",
-      "desde": "2025-05-28T00:00"
     },
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",

@@ -4,9 +4,28 @@
   "partido": "PSD",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74317.jpg",
-  "score": 11.55,
-  "rank": 492,
-  "proposicoes": [],
+  "score": 16.24,
+  "rank": 476,
+  "proposicoes": [
+    {
+      "id": 2633473,
+      "tipo": "PL",
+      "numero": 3186,
+      "ano": 2026,
+      "ementa": "Dispõe sobre mecanismos de regularização fiscal, ampliando os instrumentos de regularização de dívidas tributárias e não tributárias com a União, suas autarquias e fundações públicas, altera a Lei nº 13.988, de 14 de abril de 2020, e dá outras providências.",
+      "data": "2026-06-17T17:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633473"
+    },
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-06-16T16:16",

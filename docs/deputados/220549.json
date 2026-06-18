@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220549.jpg",
-  "score": 29.63,
-  "rank": 100,
+  "score": 31.86,
+  "rank": 87,
   "proposicoes": [
     {
       "id": 2631789,
@@ -33,6 +33,15 @@
       "ementa": "Altera as Leis nos 6.360, de 23 de setembro de 1976, que dispõe sobre a vigilância sanitária a que ficam sujeitos os medicamentos, as drogas, os insumos farmacêuticos e correlatos, cosméticos, saneantes e outros produtos, e dá outras providências, e 12.305, de 2 de agosto de 2010, que institui a Política Nacional de Resíduos Sólidos, para proibir o uso de micropartículas de plástico na composição de produtos cosméticos, e a fabricação, a importação, a comercialização distribuição, e a de sacolas plásticas descartáveis, bem como de utensílios plásticos descartáveis utilizados no consumo de alimentos e bebidas.",
       "data": "2026-06-16T16:39",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632793"
+    },
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
   "discursos": [
@@ -93,12 +102,6 @@
       "sigla": "CEXRSFEM",
       "cargo": "Titular",
       "desde": "2025-05-28T00:00"
-    },
-    {
-      "nome": "Grupo de Trabalho destinado a discutir e elaborar proposição legislativa que vise ao aperfeiçoamento da Administração Pública",
-      "sigla": "GTREFADM",
-      "cargo": "Titular",
-      "desde": "2025-06-18T00:00"
     },
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, que \"regula os serviços de transporte remunerado privado individual de passageiros e de coleta e entrega de bens prestados pelas empresas operadoras de plataforma digital\"",

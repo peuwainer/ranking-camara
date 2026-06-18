@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141411.jpg",
-  "score": 27.19,
-  "rank": 148,
+  "score": 29.82,
+  "rank": 123,
   "proposicoes": [
     {
       "id": 2630831,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 12.513, de 26 de outubro de 2011, para instituir a Bolsa Nacional de Qualificação Profissional, destinada a jovens em situação de vulnerabilidade socioeconômica matriculados em cursos técnicos e profissionalizantes, e dá outras providências.",
       "data": "2026-06-11T15:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631849"
+    },
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
   "discursos": [],

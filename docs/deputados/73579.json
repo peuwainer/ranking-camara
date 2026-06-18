@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73579.jpg",
-  "score": 27.01,
-  "rank": 157,
+  "score": 29.0,
+  "rank": 149,
   "proposicoes": [
     {
       "id": 2626607,
@@ -42,9 +42,25 @@
       "ementa": "Dispõe sobre a obrigatoriedade de que os Conselhos de Disciplina, instaurados para julgamento de militares estaduais, sejam compostos por praças aperfeiçoadas, salvo nos casos em que o acusado for praça da última graduação, ocasião em que poderão integrar o Conselho oficiais.",
       "data": "2026-06-02T11:47",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629618"
+    },
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-06-17T19:04",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ALBERTO FRAGA (PL - DF. Pela ordem. Sem revisão do orador.) - Presidente, na verdade, eu queria fazer um apelo aos colegas. Amanhã, na sessão do Congresso, nós temos que derrubar um veto que o G",
+      "transcricao": "O SR. ALBERTO FRAGA (PL - DF. Pela ordem. Sem revisão do orador.) - Presidente, na verdade, eu queria fazer um apelo aos colegas. Amanhã, na sessão do Congresso, nós temos que derrubar um veto que o Governo impôs ao reajuste das forças de segurança pública do Distrito Federal. É uma tremenda maldade! Uma vitória que nós obtivemos foi a inclusão, na medida provisória, do posto acima. O policial passa 30 anos na corporação e, quando vai para casa, não conta com benefícios como o Fundo de Garantia do Tempo de Serviço. O posto acima é uma medida incentivadora. Por isso, a gente pede que os colegas derrubem o Veto nº 19, prejudicial à segurança pública do Distrito Federal, que presta serviço para a União, para todos nós. Portanto, gostaria de pedir esse apoio para os nossos colegas amanhã. Muito obrigado, Presidente."
+    },
     {
       "data": "2026-06-16T16:04",
       "fase": "Breves Comunicações",

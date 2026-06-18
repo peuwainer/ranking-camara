@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220611.jpg",
-  "score": 29.04,
-  "rank": 108,
+  "score": 31.67,
+  "rank": 92,
   "proposicoes": [
     {
       "id": 2625588,
@@ -51,6 +51,15 @@
       "ementa": "Altera a Lei nº 9.613, de 3 de março de 1998, para determinar que 0,01% dos recursos recuperados no âmbito federal em decorrência da condenação nos crimes de lavagem ou ocultação de bens, direitos e valores deverão ser destinados a ações governamentais de assistência e proteção à pessoa idosa.",
       "data": "2026-06-11T11:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631785"
+    },
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
   "discursos": [],

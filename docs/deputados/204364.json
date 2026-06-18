@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204364.jpg",
-  "score": 33.93,
-  "rank": 38,
+  "score": 35.56,
+  "rank": 34,
   "proposicoes": [
-    {
-      "id": 2625442,
-      "tipo": "EMC",
-      "numero": 1,
-      "ano": 2026,
-      "ementa": "Estabelece diretrizes para a promoção da justiça climática com enfoque na equidade racial, social e territorial, no âmbito das políticas públicas ambientais, e dá outras providências.",
-      "data": "2026-05-18T13:40",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625442"
-    },
     {
       "id": 2626397,
       "tipo": "PL",
@@ -87,6 +78,15 @@
       "ementa": "Dispõe sobre as providências a serem adotadas pela autoridade policial em inquérito que conclua por suicídio de mulher.",
       "data": "2026-05-28T16:50",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629126"
+    },
+    {
+      "id": 2633488,
+      "tipo": "PEC",
+      "numero": 15,
+      "ano": 2026,
+      "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
+      "data": "2026-06-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
   "discursos": [
