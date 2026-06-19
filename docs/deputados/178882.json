@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178882.jpg",
-  "score": 15.69,
-  "rank": 478,
+  "score": 15.59,
+  "rank": 477,
   "proposicoes": [
     {
       "id": 2633488,
@@ -15,6 +15,15 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2634121,
+      "tipo": "PL",
+      "numero": 3217,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Esporte Inclusivo e Apoio às Famílias Atípicas - PNEIAFA para fomentar programas esportivos voltados para o atendimento de crianças e adolescentes com Transtorno do Espectro Autista (TEA) ou outras condições neurodivergentes e dá outras providências.",
+      "data": "2026-06-18T14:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634121"
     }
   ],
   "discursos": [],

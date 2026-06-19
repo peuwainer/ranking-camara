@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204372.jpg",
-  "score": 39.29,
-  "rank": 17,
+  "score": 38.88,
+  "rank": 15,
   "proposicoes": [
     {
       "id": 2627112,
@@ -96,6 +96,24 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2634113,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Estabelece medidas para permitir o bloqueio e o rastreamento, e facilitar a investigação de crimes cibernéticos praticados mediante a utilização de linha telefônica de serviço fixo comutado ou móvel celular, e dá outras providências.",
+      "data": "2026-06-18T14:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634113"
+    },
+    {
+      "id": 2634383,
+      "tipo": "PL",
+      "numero": 3226,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para aprimorar as condições de prestação do serviço de transporte escolar.",
+      "data": "2026-06-18T18:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634383"
     }
   ],
   "discursos": [
@@ -134,12 +152,6 @@
       "sigla": "PLP23424",
       "cargo": "Titular",
       "desde": "2025-05-08T00:00"
-    },
-    {
-      "nome": "Grupo de Trabalho destinado a discutir e elaborar proposta legislativa sobre regras e critérios para a comercialização de suplementos alimentares",
-      "sigla": "GTSUPLEM",
-      "cargo": "Titular",
-      "desde": "2025-10-20T00:00"
     },
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 72, de 2023, do Senado Federal, que altera o art. 155 da Constituição Federal para conceder imunidade do Imposto sobre a Propriedade de Veículos Automotores (IPVA) aos veículos que especifica.",

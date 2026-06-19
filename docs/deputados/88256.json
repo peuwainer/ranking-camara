@@ -4,18 +4,9 @@
   "partido": "PV",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/88256.jpg",
-  "score": 28.49,
-  "rank": 161,
+  "score": 25.97,
+  "rank": 197,
   "proposicoes": [
-    {
-      "id": 2625844,
-      "tipo": "SBT",
-      "numero": 5,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 7.565, de 19 de dezembro 1986, a Lei 11.771, de 17 setembro 2008, e dá outras providências.",
-      "data": "2026-05-19T14:25",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625844"
-    },
     {
       "id": 2631190,
       "tipo": "PEC",
@@ -53,12 +44,6 @@
       "sigla": "PEC01421",
       "cargo": "Titular",
       "desde": "2025-05-21T00:00"
-    },
-    {
-      "nome": "Grupo de Trabalho destinado a discutir e elaborar proposta legislativa sobre regras e critérios para a comercialização de suplementos alimentares",
-      "sigla": "GTSUPLEM",
-      "cargo": "Titular",
-      "desde": "2025-10-20T00:00"
     },
     {
       "nome": "Comissão de Saúde",

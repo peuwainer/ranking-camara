@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
-  "score": 33.92,
-  "rank": 51,
+  "score": 34.98,
+  "rank": 30,
   "proposicoes": [
     {
       "id": 2629218,
@@ -123,6 +123,15 @@
       "ementa": "Dispõe sobre a análise e remediação de solos e alimentos em áreas afetadas por enchentes causadas por eventos climáticos intensos e dá outras providências.",
       "data": "2026-06-17T09:10",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632933"
+    },
+    {
+      "id": 2634065,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a criação da Cédula de Crédito Ambiental Certificado (CCAC), estabelece regras de registro e comercialização de créditos ambientais gerados no Brasil e dá outras providências.",
+      "data": "2026-06-18T12:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634065"
     }
   ],
   "discursos": [],

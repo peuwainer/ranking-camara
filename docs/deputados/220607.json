@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220607.jpg",
-  "score": 31.07,
-  "rank": 101,
+  "score": 30.64,
+  "rank": 87,
   "proposicoes": [
     {
       "id": 2631190,
@@ -87,6 +87,12 @@
       "sigla": "PEC22119",
       "cargo": "Titular",
       "desde": "2026-04-29T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Suplente",
+      "desde": "2026-06-18T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220607/votacoes-nominais-plenario/2026"

@@ -4,36 +4,9 @@
   "partido": "NOVO",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204365.jpg",
-  "score": 35.24,
-  "rank": 36,
+  "score": 31.33,
+  "rank": 66,
   "proposicoes": [
-    {
-      "id": 2625623,
-      "tipo": "PL",
-      "numero": 2454,
-      "ano": 2026,
-      "ementa": "Revoga o art. 56 da Lei n° 15.042, de 11 de dezembro de 2024.",
-      "data": "2026-05-19T10:33",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625623"
-    },
-    {
-      "id": 2625821,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Estabelece a responsabilidade solidária de plataformas de comércio eletrônico pela alienação de produtos falsificados e dá outras providências.",
-      "data": "2026-05-19T14:25",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625821"
-    },
-    {
-      "id": 2625855,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Altera o art. 23 da Lei nº 11.771, de 17 de setembro de 2008, para dispor sobre o período de duração das diárias em meios de hospedagem.",
-      "data": "2026-05-19T15:42",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625855"
-    },
     {
       "id": 2627334,
       "tipo": "PL",
@@ -194,12 +167,6 @@
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 72, de 2023, do Senado Federal, que altera o art. 155 da Constituição Federal para conceder imunidade do Imposto sobre a Propriedade de Veículos Automotores (IPVA) aos veículos que especifica.",
       "sigla": "PEC07223",
-      "cargo": "Titular",
-      "desde": "2025-10-20T00:00"
-    },
-    {
-      "nome": "Grupo de Trabalho destinado a discutir e elaborar proposta legislativa sobre regras e critérios para a comercialização de suplementos alimentares",
-      "sigla": "GTSUPLEM",
       "cargo": "Titular",
       "desde": "2025-10-20T00:00"
     },

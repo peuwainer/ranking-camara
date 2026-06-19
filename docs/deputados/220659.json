@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220659.jpg",
-  "score": 6.99,
-  "rank": 505,
-  "proposicoes": [],
+  "score": 8.45,
+  "rank": 502,
+  "proposicoes": [
+    {
+      "id": 2634094,
+      "tipo": "PL",
+      "numero": 3214,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código penal), para instituir a Lei Maria Eduarda Rodrigues de Freitas, estabelecendo a culpa temerária como modalidade qualificada de culpa e disciplinando seus efeitos penais.",
+      "data": "2026-06-18T13:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634094"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-06-09T14:48",

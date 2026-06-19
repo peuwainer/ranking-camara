@@ -4,36 +4,9 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 52.98,
+  "score": 50.56,
   "rank": 5,
   "proposicoes": [
-    {
-      "id": 2625636,
-      "tipo": "EMP",
-      "numero": 4,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 8.137, de 27 de dezembro de 1990, para tipificar a conduta de elevar, sem justa causa, o preço dos bens de utilidade pública de que trata o art. 1º, § 1º, da Lei nº 9.847, de 26 de outubro de 1999, e dá outras providências.",
-      "data": "2026-05-19T09:44",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625636"
-    },
-    {
-      "id": 2625654,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre o salário profissional nacional dos Condutores de Ambulância.",
-      "data": "2026-05-19T09:47",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2625654"
-    },
-    {
-      "id": 2626142,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre a concessão de posse e porte de arma de fogo para corretores de imóveis no exercício de suas atividades profissionais e dá outras providências",
-      "data": "2026-05-19T17:44",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626142"
-    },
     {
       "id": 2626216,
       "tipo": "EMP",
@@ -267,6 +240,15 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2634239,
+      "tipo": "PLP",
+      "numero": 180,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), e a Lei nº 9.818, de 23 de agosto de 1999, para estabelecer critérios rigorosos de gestão de risco soberano, transparência e restrições a operações de crédito à exportação com garantia da União e cobertura do Fundo de Garantia à Exportação (FGE).",
+      "data": "2026-06-18T16:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634239"
     }
   ],
   "discursos": [
