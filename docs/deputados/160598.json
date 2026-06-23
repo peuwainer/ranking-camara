@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160598.jpg",
-  "score": 35.95,
-  "rank": 25,
+  "score": 39.07,
+  "rank": 14,
   "proposicoes": [
     {
       "id": 2627763,
@@ -87,6 +87,33 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2634628,
+      "tipo": "PL",
+      "numero": 3245,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proteção do consumidor vulnerável em ambientes digitais de apostas de quota fixa, estabelece deveres de transparência, mecanismos de proteção ao usuário e veda práticas de indução ao comportamento compulsivo.",
+      "data": "2026-06-22T14:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634628"
+    },
+    {
+      "id": 2634630,
+      "tipo": "PL",
+      "numero": 3247,
+      "ano": 2026,
+      "ementa": "Institui a política nacional para a prevenção, identificação e atenção ao transtorno do jogo no âmbito do Sistema Único de Saúde (SUS).",
+      "data": "2026-06-22T14:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634630"
+    },
+    {
+      "id": 2634633,
+      "tipo": "PL",
+      "numero": 3248,
+      "ano": 2026,
+      "ementa": "Estabelece medidas de proteção da renda familiar e de prevenção do superendividamento relacionado à utilização de plataformas de apostas de quota fixa.",
+      "data": "2026-06-22T14:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634633"
     }
   ],
   "discursos": [],

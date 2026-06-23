@@ -4,18 +4,9 @@
   "partido": "PSD",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204488.jpg",
-  "score": 22.79,
+  "score": 22.69,
   "rank": 321,
   "proposicoes": [
-    {
-      "id": 2627058,
-      "tipo": "PL",
-      "numero": 2556,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Educação Preventiva nos Corpos de Bombeiros Militares, cria o Programa Nacional de Bombeiros Militares para Educação Preventiva, Turismo Educativo e Cultura de Autoproteção em Espaços Temáticos (PRONABOM), estabelece diretrizes, objetivos, princípios e instrumentos para sua implementação modular e progressiva em todo o território nacional, e dá outras providências.",
-      "data": "2026-05-21T16:43",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627058"
-    },
     {
       "id": 2631190,
       "tipo": "PEC",
@@ -33,6 +24,15 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2634537,
+      "tipo": "PL",
+      "numero": 3232,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Fiscalização Aérea Remota para a Proteção Animal, de adesão voluntária pelos Estados, pelo Distrito Federal e pelos Municípios, com o objetivo de prevenir e combater os maus-tratos a animais mediante o uso de aeronaves não tripuladas e tecnologias de sensoriamento remoto.",
+      "data": "2026-06-19T16:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634537"
     }
   ],
   "discursos": [

@@ -4,18 +4,9 @@
   "partido": "UNIÃO",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178929.jpg",
-  "score": 31.33,
-  "rank": 65,
+  "score": 29.97,
+  "rank": 93,
   "proposicoes": [
-    {
-      "id": 2627068,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 14.254, de 30 de novembro de 2021, a fim de ampliar os cuidados aos educandos com dislexia ou Transtorno do Déficit de Atenção com Hiperatividade (TDAH) ou outro transtorno de aprendizagem.",
-      "data": "2026-05-21T12:23",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627068"
-    },
     {
       "id": 2627510,
       "tipo": "PL",
@@ -62,15 +53,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-05-20T15:24",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. DIEGO GARCIA (Bloco/UNIÃO - PR. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Presidente, eu quero registrar a presença do nobre Vereador da cidade de Telêmaco Borba, no Paraná, o ",
-      "transcricao": "O SR. DIEGO GARCIA (Bloco/UNIÃO - PR. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Presidente, eu quero registrar a presença do nobre Vereador da cidade de Telêmaco Borba, no Paraná, o Vereador Felipe Pedroso, que hoje está nos visitando. Tivemos uma manhã toda muito produtiva, com agendas e muito trabalho. Telêmaco Borba é uma cidade muito importante do nosso Estado do Paraná, uma cidade que conta com o meu apoio. Nós estamos ajudando lá projetos na área do futsal, do futebol, através do Prof. Anderson, bem como projetos na área da saúde. Tudo isso está sendo encaminhado ao lado também do nosso Vereador Dr. Felipe, que está fazendo um brilhante trabalho. Esperamos que ele possa alçar voos ainda maiores. Com certeza ele o fará, pois é jovem, tem tudo pela frente e conta hoje com o nosso apoio, como Vereador na cidade de Telêmaco Borba. Peço que faça este registro nos Anais da Casa da presença do nobre Vereador Dr. Felipe."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a elaborar propostas para analisar o enfrentamento da tuberculose como compromisso internacional para a eliminação desta doença como problema de saúde pública até o ano de 2030, conforme preconizado pela Organização das Nações Unidas (ONU)",

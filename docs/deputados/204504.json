@@ -4,27 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
-  "score": 31.11,
-  "rank": 77,
+  "score": 31.8,
+  "rank": 60,
   "proposicoes": [
-    {
-      "id": 2626201,
-      "tipo": "PL",
-      "numero": 2499,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 5.070, de 7 de julho de 1966 e a Lei nº 14.790, de 29 de dezembro de 2023, para promover a redução da Taxa de Fiscalização de Funcionamento (TFF) visando ao incentivo e ao fortalecimento do setor de Rádiofusão e Telecomunicações, com compensação fiscal que assegure a neutralidade da renúncia de receita.",
-      "data": "2026-05-20T11:28",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626201"
-    },
-    {
-      "id": 2627377,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 11.442, de 5 de janeiro de 2007, para especificar a responsabilidade pela comunicação prévia da chegada da carga em caso de subcontratação e para dispor sobre o direito à estadia dos Transportadores Autônomos de Cargas.",
-      "data": "2026-05-22T10:46",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627377"
-    },
     {
       "id": 2628623,
       "tipo": "PL",
@@ -87,6 +69,42 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2634651,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica), para instituir o Selo “Aeroporto Amigo do Autista”.",
+      "data": "2026-06-22T15:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634651"
+    },
+    {
+      "id": 2634653,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica), para instituir o Selo “Banheiro Pet”.",
+      "data": "2026-06-22T15:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634653"
+    },
+    {
+      "id": 2634655,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica), para instituir o Selo “Aeroporto Amigo do Autista”.",
+      "data": "2026-06-22T15:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634655"
+    },
+    {
+      "id": 2634657,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 10.233, de 5 de junho de 2001, para dispor sobre medidas de segurança viária em contratos de concessão de rodovias federais.",
+      "data": "2026-06-22T15:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634657"
     }
   ],
   "discursos": [],

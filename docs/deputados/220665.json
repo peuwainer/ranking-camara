@@ -4,18 +4,9 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220665.jpg",
-  "score": 29.21,
-  "rank": 113,
+  "score": 27.73,
+  "rank": 139,
   "proposicoes": [
-    {
-      "id": 2626879,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Institui o Sistema Nacional de Transparência da Assistência Social, estabelece mecanismos de divulgação de informações sobre a gestão dos recursos da Política Nacional de Assistência Social e dá outras providências.",
-      "data": "2026-05-21T11:14",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626879"
-    },
     {
       "id": 2633488,
       "tipo": "PEC",
@@ -24,6 +15,15 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2634442,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o art. 121 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para qualificar o homicídio praticado contra criança ou adolescente e para instituir campanhas permanentes de prevenção e enfrentamento da violência contra crianças e adolescentes com deficiência.",
+      "data": "2026-06-19T13:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634442"
     }
   ],
   "discursos": [

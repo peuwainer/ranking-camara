@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
-  "score": 31.62,
-  "rank": 60,
+  "score": 34.6,
+  "rank": 34,
   "proposicoes": [
     {
       "id": 2628445,
@@ -69,6 +69,15 @@
       "ementa": "",
       "data": "2026-06-18T16:50",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634245"
+    },
+    {
+      "id": 2634439,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-06-19T12:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634439"
     }
   ],
   "discursos": [],

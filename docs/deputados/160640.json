@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160640.jpg",
-  "score": 23.49,
-  "rank": 290,
+  "score": 22.39,
+  "rank": 340,
   "proposicoes": [
-    {
-      "id": 2627058,
-      "tipo": "PL",
-      "numero": 2556,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Educação Preventiva nos Corpos de Bombeiros Militares, cria o Programa Nacional de Bombeiros Militares para Educação Preventiva, Turismo Educativo e Cultura de Autoproteção em Espaços Temáticos (PRONABOM), estabelece diretrizes, objetivos, princípios e instrumentos para sua implementação modular e progressiva em todo o território nacional, e dá outras providências.",
-      "data": "2026-05-21T16:43",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627058"
-    },
     {
       "id": 2627967,
       "tipo": "PL",
@@ -69,6 +60,15 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2634629,
+      "tipo": "PL",
+      "numero": 3246,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o fomento ao pluralismo de ideias e à objetividade pedagógica no ensino básico, estabelecendo diretrizes para a atuação da administração pública e do corpo docente, e altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional) e a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente).",
+      "data": "2026-06-22T14:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634629"
     }
   ],
   "discursos": [],

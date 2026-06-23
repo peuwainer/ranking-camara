@@ -4,18 +4,9 @@
   "partido": "PSD",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220571.jpg",
-  "score": 31.32,
-  "rank": 67,
+  "score": 30.46,
+  "rank": 85,
   "proposicoes": [
-    {
-      "id": 2626639,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Parecer ao PL 2775/2019 que \"estabelece novo marco regulatório para a circulação, a comercialização, a fiscalização e a inspeção de produtos alimentícios artesanais e dos estabelecimentos que os produzem.\"",
-      "data": "2026-05-20T19:51",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626639"
-    },
     {
       "id": 2628709,
       "tipo": "SBT",
@@ -60,6 +51,15 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2634674,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-06-22T16:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634674"
     }
   ],
   "discursos": [],

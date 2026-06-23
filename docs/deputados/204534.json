@@ -4,18 +4,9 @@
   "partido": "PSB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204534.jpg",
-  "score": 32.22,
-  "rank": 52,
+  "score": 33.03,
+  "rank": 46,
   "proposicoes": [
-    {
-      "id": 2627303,
-      "tipo": "PL",
-      "numero": 2563,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 12.527, de 18 de novembro de 2011, para estabelecer a obrigatoriedade de divulgação de estatísticas de ocupação de cargos, funções e empregos por homens e mulheres na administração pública.",
-      "data": "2026-05-22T15:29",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627303"
-    },
     {
       "id": 2631190,
       "tipo": "PEC",
@@ -24,6 +15,24 @@
       "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
       "data": "2026-06-10T12:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
+    },
+    {
+      "id": 2634427,
+      "tipo": "PL",
+      "numero": 3227,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para adequar o Exame Nacional do Ensino Médio (Enem) à organização curricular do ensino médio e articular a aferição da formação técnica e profissional ao processo nacional de avaliação da educação profissional técnica e tecnológica.",
+      "data": "2026-06-19T12:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634427"
+    },
+    {
+      "id": 2634428,
+      "tipo": "PL",
+      "numero": 3228,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.947, de 16 de junho de 2009, para fixar limites máximos de aquisição de alimentos processados e ultraprocessados e limites mínimos de aquisição de alimentos in natura ou minimamente processados no âmbito do Programa Nacional de Alimentação Escolar – PNAE, estabelecer padrão mínimo de qualidade das compras alimentares, instituir obrigações de transparência e monitoramento, e dar outras providências.",
+      "data": "2026-06-19T12:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634428"
     }
   ],
   "discursos": [

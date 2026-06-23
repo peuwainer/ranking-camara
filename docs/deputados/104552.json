@@ -4,27 +4,9 @@
   "partido": "PP",
   "uf": "AC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/104552.jpg",
-  "score": 29.57,
-  "rank": 107,
+  "score": 29.32,
+  "rank": 102,
   "proposicoes": [
-    {
-      "id": 2626803,
-      "tipo": "PL",
-      "numero": 2548,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990, para vedar a diferenciação injustificada de preços de produtos e serviços substancialmente equivalentes em razão do direcionamento comercial ao público consumidor feminino ou masculino, e dá outras providências.",
-      "data": "2026-05-21T09:42",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626803"
-    },
-    {
-      "id": 2627296,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei Complementar n° 141, de 13 de janeiro de 2012, para inserir o custo amazônico e dá outras providências.",
-      "data": "2026-05-22T11:21",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627296"
-    },
     {
       "id": 2627900,
       "tipo": "SBT",
@@ -87,6 +69,33 @@
       "ementa": "Estabelece diretrizes para a carreira e as atribuições dos profissionais de apoio e suporte que atuam como Auxiliares de Educação Infantil.",
       "data": "2026-06-18T17:54",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634356"
+    },
+    {
+      "id": 2634422,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Sistema Nacional de Competitividade Econômica das Cadeias Produtivas Estratégicas da Amazônia Legal, cria mecanismos de garantia de renda, crédito, agregação de valor, compras públicas, incentivo logístico e acesso a mercados, e dá outras providências.",
+      "data": "2026-06-19T11:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634422"
+    },
+    {
+      "id": 2634562,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Bioeconomia, em articulação com a implementação de diretrizes e bases do planejamento do desenvolvimento nacional equilibrado, e altera a Lei nº 10.177, de 12 de janeiro de 2001; a Lei Complementar nº 124, de 3 de janeiro de 2007; a Lei Complementar nº 125, de 3 de janeiro de 2007; a Lei Complementar nº 129, de 8 de janeiro de 2009; e a Lei nº 12.187, de 29 de dezembro de 2009.",
+      "data": "2026-06-22T11:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634562"
+    },
+    {
+      "id": 2634643,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 10.973, de 2 de dezembro de 2004, para ampliar o alcance da Política Nacional de Inovação a regiões de baixo Índice de Desenvolvimento Humano (IDHM) e instituir a Política Nacional de Centros de Inovação Regional (CIRs), com vistas ao desenvolvimento sustentável, tecnológico e social; dispõem sobre diretrizes, metas e instrumentos de implementação e dá outras providências.",
+      "data": "2026-06-22T15:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634643"
     }
   ],
   "discursos": [],

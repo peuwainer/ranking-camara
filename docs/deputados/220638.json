@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220638.jpg",
-  "score": 26.82,
-  "rank": 174,
+  "score": 25.8,
+  "rank": 196,
   "proposicoes": [
     {
       "id": 2630752,
@@ -26,15 +26,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630755"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-05-20T14:28",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. ANTONIO CARLOS RODRIGUES (Bloco/PODE - SP. Pela ordem. Sem revisão do orador.) - Presidente, muito obrigado. Quero agradecer aqui ao meu amigo, o Vereador Ricardo Guimarães, de Cosmópolis, que e",
-      "transcricao": "O SR. ANTONIO CARLOS RODRIGUES (Bloco/PODE - SP. Pela ordem. Sem revisão do orador.) - Presidente, muito obrigado. Quero agradecer aqui ao meu amigo, o Vereador Ricardo Guimarães, de Cosmópolis, que está visitando a nossa Casa. Muito obrigado, Presidente."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Mesa Diretora da Câmara dos Deputados",

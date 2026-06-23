@@ -4,27 +4,9 @@
   "partido": "PSDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204390.jpg",
-  "score": 25.53,
-  "rank": 215,
+  "score": 26.05,
+  "rank": 191,
   "proposicoes": [
-    {
-      "id": 2626199,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera o art. da Lei nº 11.101, de 9 de fevereiro de 2005, que “Regula a recuperação judicial, a extrajudicial e a falência do empresário e da sociedade empresária”, para fins de disciplinar o termo legal de contagem da prescrição dos interesses da massa falida na falência ou dos credores na recuperação judicial.",
-      "data": "2026-05-20T11:22",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626199"
-    },
-    {
-      "id": 2627052,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 13.536, de 2017, para dispor sobre a prorrogação de prazo regulamentar para conclusão de curso e de duração de bolsas, para estudante de educação superior e pesquisador, sempre que pai de criança nascida ou que adotar ou obtiver guarda judicial para fins de adoção.",
-      "data": "2026-05-21T14:21",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627052"
-    },
     {
       "id": 2627617,
       "tipo": "SBT",
@@ -60,6 +42,33 @@
       "ementa": "",
       "data": "2026-06-15T14:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632397"
+    },
+    {
+      "id": 2634444,
+      "tipo": "PL",
+      "numero": 3230,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Geração Distribuída com Créditos de Carbono (PNGDC), para estabelecer mecanismos de mensuração, certificação e comercialização de créditos de carbono por micro e minigeradores distribuídos de energia elétrica a partir de fontes renováveis, e dá outras providências.",
+      "data": "2026-06-19T13:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634444"
+    },
+    {
+      "id": 2634563,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para vedar a participação de menores de 18 anos como sócios em sociedades empresárias, simples ou cooperativas.",
+      "data": "2026-06-22T11:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634563"
+    },
+    {
+      "id": 2634669,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a regulação das relações comerciais entre plataformas de comércio eletrônico e vendedores parceiros, bem como estabelece normas de transparência, prevê prazos de carência para alterações contratuais e veda práticas abusivas no mercado digital.",
+      "data": "2026-06-22T16:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634669"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/154700.jpg",
-  "score": 5.21,
-  "rank": 509,
+  "score": 7.44,
+  "rank": 503,
   "proposicoes": [],
   "discursos": [
     {
@@ -22,6 +22,18 @@
       "sigla": "CASP",
       "cargo": "Titular",
       "desde": "2026-06-17T00:00"
+    },
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Titular",
+      "desde": "2026-06-22T00:00"
+    },
+    {
+      "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",
+      "sigla": "CINDRE",
+      "cargo": "Suplente",
+      "desde": "2026-06-22T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/154700/votacoes-nominais-plenario/2026"

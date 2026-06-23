@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160629.jpg",
-  "score": 23.2,
-  "rank": 304,
+  "score": 25.65,
+  "rank": 202,
   "proposicoes": [
     {
       "id": 2633488,
@@ -15,6 +15,42 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2634566,
+      "tipo": "PL",
+      "numero": 3236,
+      "ano": 2026,
+      "ementa": "Institui o Sistema Nacional de Identificação e Monitoramento de Criminosos que Atentem contra Agentes de Segurança Pública – SINAM-SEG, e dá outras providências.",
+      "data": "2026-06-22T11:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634566"
+    },
+    {
+      "id": 2634567,
+      "tipo": "PL",
+      "numero": 3237,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, para prever orientação e capacitação básica sobre manobras de desengasgo em bebês e crianças aos pais ou responsáveis em estabelecimentos de atenção à saúde onde se realizem partos.",
+      "data": "2026-06-22T11:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634567"
+    },
+    {
+      "id": 2634568,
+      "tipo": "PL",
+      "numero": 3238,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021, para vedar a participação em licitação e a contratação pública de quem tenha sido reconhecido, por decisão judicial transitada em julgado, como autor de esbulho possessório ou de ocupação ilícita de imóvel rural, no que se refere ao fornecimento de produtos provenientes da área esbulhada ou ilicitamente ocupada.",
+      "data": "2026-06-22T11:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634568"
+    },
+    {
+      "id": 2634569,
+      "tipo": "PL",
+      "numero": 3239,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a vedação da retenção indevida de unidades móveis de atendimento pré-hospitalar nas unidades de saúde e estabelece diretrizes para assegurar sua disponibilidade no âmbito da rede de urgência e emergência.",
+      "data": "2026-06-22T11:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634569"
     }
   ],
   "discursos": [

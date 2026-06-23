@@ -4,27 +4,9 @@
   "partido": "PL",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178954.jpg",
-  "score": 22.13,
-  "rank": 355,
+  "score": 21.12,
+  "rank": 386,
   "proposicoes": [
-    {
-      "id": 2626485,
-      "tipo": "PL",
-      "numero": 2526,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a conexão e a suspensão de processos de ações de usucapião e de outras ações que versem sobre o direito de posse ou de propriedade sobre o mesmo bem litigioso.",
-      "data": "2026-05-20T17:35",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626485"
-    },
-    {
-      "id": 2626491,
-      "tipo": "PL",
-      "numero": 2527,
-      "ano": 2026,
-      "ementa": "Altera o art. 25 da Lei 9.605, de 12 de fevereiro de 1998, para garantir ao proprietário de bens apreendidos por infrações ambientais o retorno de seus bens, nas condições em que estabelece.",
-      "data": "2026-05-20T17:41",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2626491"
-    },
     {
       "id": 2630796,
       "tipo": "PLP",
@@ -53,22 +35,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-05-20T19:36",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. LUCIO MOSQUINI (PL - RO. Pela ordem. Sem revisão do orador.) - O PL orienta \"sim\", Sr. Presidente, porque entende que a dignidade do produtor rural está em primeiro lugar. Ao custo de uma ideolo",
-      "transcricao": "O SR. LUCIO MOSQUINI (PL - RO. Pela ordem. Sem revisão do orador.) - O PL orienta \"sim\", Sr. Presidente, porque entende que a dignidade do produtor rural está em primeiro lugar. Ao custo de uma ideologia ambientalista nós não podemos atropelar o processo legal. Temos que garantir para qualquer cidadão brasileiro o seu direito de defesa e ao contraditório. Nós queremos, sim, fazer justiça ambiental, mas nós não podemos atropelar nenhum processo legal em nome de uma ideologia ambientalista. Então, eu quero parabenizar a nossa Relatora, a Deputada Marussa Boldrin, e dizer que o PL vota \"sim\" porque o PL vota a favor do produtor rural."
-    },
-    {
-      "data": "2026-05-20T19:20",
-      "fase": "Ordem do Dia",
-      "tipo": "DISCUSSÃO",
-      "resumo": "O SR. LUCIO MOSQUINI (PL - RO. Sem revisão do orador.) - Sr. Presidente, esse projeto de lei, nós nem deveríamos estar votando aqui, porque ele restaura a dignidade de qualquer cidadão que tem o seu d",
-      "transcricao": "O SR. LUCIO MOSQUINI (PL - RO. Sem revisão do orador.) - Sr. Presidente, esse projeto de lei, nós nem deveríamos estar votando aqui, porque ele restaura a dignidade de qualquer cidadão que tem o seu direito ao contraditório e à ampla defesa afrontado. E o que acontece hoje, nesses crimes ambientais punidos sem o direito de defesa, é uma afronta ao direito de defesa, como em qualquer outro crime. Agora, nós não estamos aqui impedindo o uso de satélite. Muito pelo contrário, nós somos a favor do satélite e de toda a tecnologia disponível. O que nós não podemos é, a pretexto disso, afrontar o direito de defesa do cidadão. Esse é um princípio elementar da democracia, um princípio elementar do Direito. Quando você entra na faculdade de Direito, no primeiro dia de aula, aprende que todos têm direito à defesa e ao contraditório. Veja bem, Presidente: quando um equipamento eletrônico usurpa esse direito, nós temos que nos insurgir contra isso. Então, esse projeto de lei restaura a dignidade do produtor. Nós queremos que o satélite continue fiscalizando, sim; antes, porém, que seja dado ao produtor rural o direito de defesa. Detectou? Perfeitamente. Então, notifique-se o produtor. O ônus da prova hoje é todo do produtor, porque o satélite não se comunica. O satélite não sabe se você tem uma licença de desmatamento; o satélite não sabe se você colocou fogo na sua propriedade; o satélite não sabe se houve uma tempestade e caiu uma árvore. Mas o que o satélite faz, através de IA, é embargar. E o produtor rural embargado fica sem o direito de colocar comida na mesa dos filhos, na mesa da sua casa. Então, o que nós queremos? Nós queremos que, antes desse embargo estúpido e absurdo, o produtor seja notificado, para que possa exercer o direito de defesa. É só isso. Então, não há o que polemizar nesse projeto. O que nós temos que fazer é aplaudir, porque estamos dando ao produtor rural o direito de defesa e ao contraditório. A pessoa comete um crime bárbaro, vai a julgamento e tem direito de defesa. Por mais que a sociedade e nós achemos aquele crime um absurdo, o juiz lhe garante o direito de defesa. Então, por que o produtor não pode ter esse mesmo direito? Nós queremos assegurar esse direito ao produtor."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a acompanhar as autoridades competentes na investigação e apuração da crise humanitária dos indígenas Yanomami, na região Norte do país",
