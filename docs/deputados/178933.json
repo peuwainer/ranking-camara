@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178933.jpg",
-  "score": 10.45,
-  "rank": 494,
+  "score": 11.18,
+  "rank": 491,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -32,6 +32,12 @@
       "sigla": "4SECM",
       "cargo": "4º Secretário",
       "desde": "2025-02-01T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 108, de 2021, do Senado Federal, que \"altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados\"",
+      "sigla": "PLP10821",
+      "cargo": "Suplente",
+      "desde": "2026-06-23T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178933/votacoes-nominais-plenario/2026"

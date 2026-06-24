@@ -4,7 +4,7 @@
   "partido": "MDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160598.jpg",
-  "score": 39.07,
+  "score": 39.73,
   "rank": 14,
   "proposicoes": [
     {
@@ -114,6 +114,15 @@
       "ementa": "Estabelece medidas de proteção da renda familiar e de prevenção do superendividamento relacionado à utilização de plataformas de apostas de quota fixa.",
       "data": "2026-06-22T14:17",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634633"
+    },
+    {
+      "id": 2634848,
+      "tipo": "PL",
+      "numero": 3268,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 13.643, de 3 de abril de 2018, e nº 13.869, de 5 de setembro de 2019, para dispor sobre o exercício das atividades de estética e cosmetologia, assegurar condições adequadas de atuação profissional e coibir restrições indevidas ao exercício da profissão.",
+      "data": "2026-06-23T15:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634848"
     }
   ],
   "discursos": [],
@@ -143,6 +152,12 @@
       "desde": "2023-09-05T00:00"
     },
     {
+      "nome": "Comissão Especial destinada a acompanhar as ações de prevenção e combate ao câncer, ao acidente vascular cerebral (AVC) e às doenças do coração.",
+      "sigla": "CECANCER",
+      "cargo": "Titular",
+      "desde": "2024-02-07T00:00"
+    },
+    {
       "nome": "Comissão Especial para estudo, avaliação e acompanhamento das iniciativas e medidas adotadas para transição energética - Fontes Renováveis e Produção de Hidrogênio Verde no Brasil",
       "sigla": "CEENERG",
       "cargo": "Suplente",
@@ -151,12 +166,6 @@
     {
       "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",
       "sigla": "CEDIRDIG",
-      "cargo": "Titular",
-      "desde": "2024-02-07T00:00"
-    },
-    {
-      "nome": "Comissão Especial destinada a acompanhar as ações de prevenção e combate ao câncer, ao acidente vascular cerebral (AVC) e às doenças do coração.",
-      "sigla": "CECANCER",
       "cargo": "Titular",
       "desde": "2024-02-07T00:00"
     },
@@ -225,12 +234,6 @@
       "sigla": "CMULHER",
       "cargo": "Suplente",
       "desde": "2026-03-10T00:00"
-    },
-    {
-      "nome": "Grupo de Trabalho com a finalidade de discutir o PL 896/2023, que “altera a Lei nº 7.716, de 5 de janeiro de 1989, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre crimes praticados em razão de misoginia",
-      "sigla": "GTMISOG",
-      "cargo": "Titular",
-      "desde": "2026-05-04T00:00"
     },
     {
       "nome": "Subcomissão Especial destinada a “debater e apresentar sugestões ao setor de estética e aprimorar suas relações trabalhistas”",

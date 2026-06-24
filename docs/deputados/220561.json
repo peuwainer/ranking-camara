@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220561.jpg",
-  "score": 24.97,
-  "rank": 228,
+  "score": 24.46,
+  "rank": 252,
   "proposicoes": [
     {
       "id": 2631190,
@@ -66,12 +66,6 @@
       "sigla": "3SECM",
       "cargo": "3º Secretário",
       "desde": "2025-02-01T00:00"
-    },
-    {
-      "nome": "Grupo de Trabalho com a finalidade de discutir o PL 896/2023, que “altera a Lei nº 7.716, de 5 de janeiro de 1989, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre crimes praticados em razão de misoginia",
-      "sigla": "GTMISOG",
-      "cargo": "Titular",
-      "desde": "2026-05-04T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220561/votacoes-nominais-plenario/2026"

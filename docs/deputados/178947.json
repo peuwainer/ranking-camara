@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178947.jpg",
-  "score": 26.81,
-  "rank": 165,
+  "score": 27.49,
+  "rank": 151,
   "proposicoes": [
     {
       "id": 2627925,
@@ -193,6 +193,12 @@
       "sigla": "CSPCCO",
       "cargo": "Suplente",
       "desde": "2026-05-15T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Suplente",
+      "desde": "2026-06-23T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178947/votacoes-nominais-plenario/2026"

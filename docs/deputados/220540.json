@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 47.92,
-  "rank": 6,
+  "score": 50.75,
+  "rank": 5,
   "proposicoes": [
     {
       "id": 2627875,
@@ -276,6 +276,33 @@
       "ementa": "Institui o Regime Simplificado de Transição do Microempreendedor Individual – CRESCE FÁCIL, estabelece mecanismos progressivos de tributação e simplificação para a passagem do MEI à microempresa, e altera a Lei Complementar nº 123, de 14 de dezembro de 2006",
       "data": "2026-06-18T17:21",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634311"
+    },
+    {
+      "id": 2634854,
+      "tipo": "PL",
+      "numero": 3270,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Infraestrutura Familiar e Acessível nas Praias Brasileiras, cria o Programa Praia Acolhedora, estabelece diretrizes para promoção da acessibilidade, do acolhimento familiar, da inclusão e da melhoria da infraestrutura de uso público em praias marítimas, fluviais e lacustres, e dá outras providências.",
+      "data": "2026-06-23T15:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634854"
+    },
+    {
+      "id": 2634917,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Acompanhante da Pessoa Idosa no âmbito do Sistema Único de Saúde.",
+      "data": "2026-06-23T17:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634917"
+    },
+    {
+      "id": 2634931,
+      "tipo": "PL",
+      "numero": 3275,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Soberania Digital da Amazônia e dá outras providências.",
+      "data": "2026-06-23T18:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634931"
     }
   ],
   "discursos": [],

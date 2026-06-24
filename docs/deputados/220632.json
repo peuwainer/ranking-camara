@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220632.jpg",
-  "score": 26.21,
-  "rank": 185,
+  "score": 26.63,
+  "rank": 176,
   "proposicoes": [
     {
       "id": 2630791,
@@ -24,6 +24,15 @@
       "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
       "data": "2026-06-10T12:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
+    },
+    {
+      "id": 2634803,
+      "tipo": "SBT",
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade das empresas operadoras de loterias de cota fixa online e jogos online a destinarem datas anuais para a arrecadação exclusiva de recursos voltados à implementação de políticas de prevenção e tratamento do vício em jogos online, à promoção de campanhas educativas sobre os riscos associados ao uso inadequado dos jogos online, bem como sobre as regras de propaganda desses jogos.",
+      "data": "2026-06-23T14:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634803"
     }
   ],
   "discursos": [
@@ -83,12 +92,6 @@
       "sigla": "CFT",
       "cargo": "Suplente",
       "desde": "2026-03-18T00:00"
-    },
-    {
-      "nome": "Grupo de Trabalho com a finalidade de discutir o PL 896/2023, que “altera a Lei nº 7.716, de 5 de janeiro de 1989, e o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre crimes praticados em razão de misoginia",
-      "sigla": "GTMISOG",
-      "cargo": "Titular",
-      "desde": "2026-05-04T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220632/votacoes-nominais-plenario/2026"

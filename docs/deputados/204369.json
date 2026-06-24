@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204369.jpg",
-  "score": 25.64,
-  "rank": 204,
+  "score": 26.4,
+  "rank": 189,
   "proposicoes": [
     {
       "id": 2627428,
@@ -51,6 +51,12 @@
       "sigla": "CCJC",
       "cargo": "Suplente",
       "desde": "2026-02-13T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Titular",
+      "desde": "2026-06-23T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204369/votacoes-nominais-plenario/2026"

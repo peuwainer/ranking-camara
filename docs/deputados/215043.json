@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/215043.jpg",
-  "score": 22.18,
-  "rank": 348,
+  "score": 24.02,
+  "rank": 273,
   "proposicoes": [
     {
       "id": 2633488,
@@ -15,6 +15,24 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2634836,
+      "tipo": "PL",
+      "numero": 3266,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a disponibilização e utilização de aparelhos de medição de glicose capilar em operações de fiscalização de trânsito e dá outras providências.",
+      "data": "2026-06-23T14:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634836"
+    },
+    {
+      "id": 2634838,
+      "tipo": "PL",
+      "numero": 3267,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Apoio ao Desenvolvimento Integral de Crianças e Adolescentes Neurodivergentes, cria o Fundo Nacional de Apoio ao Desenvolvimento Integral de Crianças e Adolescentes Neurodivergentes – FUNADINCA, estabelece critérios de prioridade com base no Cadastro Único para Programas Sociais do Governo Federal, e dá outras providências.",
+      "data": "2026-06-23T14:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634838"
     }
   ],
   "discursos": [],

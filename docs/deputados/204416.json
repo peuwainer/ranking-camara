@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204416.jpg",
-  "score": 28.55,
-  "rank": 118,
+  "score": 29.64,
+  "rank": 104,
   "proposicoes": [
     {
       "id": 2628735,
@@ -42,6 +42,15 @@
       "ementa": "Institui o Marco Legal de Combate ao Crime Organizado",
       "data": "2026-06-17T19:26",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633960"
+    },
+    {
+      "id": 2634849,
+      "tipo": "PL",
+      "numero": 3269,
+      "ano": 2026,
+      "ementa": "Institui a Lei Nacional de Enfrentamento às Organizações Milicianas, e dá outras providências.",
+      "data": "2026-06-23T15:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634849"
     }
   ],
   "discursos": [
