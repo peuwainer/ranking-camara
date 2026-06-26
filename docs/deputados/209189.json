@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/209189.jpg",
-  "score": 22.1,
-  "rank": 359,
+  "score": 21.23,
+  "rank": 382,
   "proposicoes": [
     {
       "id": 2631190,
@@ -17,22 +17,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-05-26T17:20",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. JOSEILDO RAMOS (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - O Governo apoia o projeto, que considera uma homenagem importante a esse político, em razão das contribuições que ele deu, qu",
-      "transcricao": "O SR. JOSEILDO RAMOS (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - O Governo apoia o projeto, que considera uma homenagem importante a esse político, em razão das contribuições que ele deu, quando Prefeito, pelo Partido dos Trabalhadores, de Porto Murtinho. Por tudo isso, nós achamos muito importante seguir adiante apoiando essa matéria."
-    },
-    {
-      "data": "2026-05-26T16:36",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. JOSEILDO RAMOS (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, a Federação vai votar favoravelmente pela ampliação do conceito da violência política contra a mulher, para a",
-      "transcricao": "O SR. JOSEILDO RAMOS (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, a Federação vai votar favoravelmente pela ampliação do conceito da violência política contra a mulher, para além do exercício de direitos políticos eleitorais. Abrange também os espaços gerais, movimentos sociais, sindicatos, partidos, defesa de direitos humanos. É por isso que nós somos apoiadores dessa matéria."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

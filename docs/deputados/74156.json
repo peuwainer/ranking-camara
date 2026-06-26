@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74156.jpg",
-  "score": 30.93,
-  "rank": 81,
+  "score": 31.45,
+  "rank": 71,
   "proposicoes": [
     {
       "id": 2628942,
@@ -42,6 +42,15 @@
       "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
       "data": "2026-06-10T12:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
+    },
+    {
+      "id": 2635212,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui obrigação de manutenção e apresentação de banco de dados de animais atendidos por Municípios e pessoas jurídicas que recebam recursos públicos federais destinados à proteção, cuidado e bem-estar animal.",
+      "data": "2026-06-25T11:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635212"
     }
   ],
   "discursos": [],

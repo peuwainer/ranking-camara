@@ -4,27 +4,9 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220640.jpg",
-  "score": 28.99,
-  "rank": 113,
+  "score": 27.8,
+  "rank": 132,
   "proposicoes": [
-    {
-      "id": 2627410,
-      "tipo": "PL",
-      "numero": 2572,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais e dispõe sobre seus princípios, diretrizes e objetivos.",
-      "data": "2026-05-25T11:26",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627410"
-    },
-    {
-      "id": 2627631,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para prever ações de vigilância, fiscalização, estudo e proteção contra a contaminação por agrotóxicos nocivos à saúde, em especial atenção aos impactos na saúde indígena.",
-      "data": "2026-05-26T11:52",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627631"
-    },
     {
       "id": 2628895,
       "tipo": "PL",
@@ -51,6 +33,15 @@
       "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
       "data": "2026-06-10T12:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
+    },
+    {
+      "id": 2635369,
+      "tipo": "PL",
+      "numero": 3302,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição temporária do uso do fogo para fins agropecuários durante períodos de Emergência climática e risco extremo de incêndios florestais.",
+      "data": "2026-06-25T17:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635369"
     }
   ],
   "discursos": [

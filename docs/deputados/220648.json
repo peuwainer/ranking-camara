@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220648.jpg",
-  "score": 26.63,
-  "rank": 177,
+  "score": 26.02,
+  "rank": 188,
   "proposicoes": [
     {
       "id": 2630001,
@@ -35,15 +35,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630784"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-05-26T18:36",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. MARANGONI (Bloco/PODE - SP. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente. Vou orientar pelo blocão. Queria parabenizar meu colega, o Deputado João Cury, pelo relatório, e dizer",
-      "transcricao": "O SR. MARANGONI (Bloco/PODE - SP. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente. Vou orientar pelo blocão. Queria parabenizar meu colega, o Deputado João Cury, pelo relatório, e dizer que as 600 mil pessoas  pais e mães que têm que acordar toda madrugada para medir a glicemia dos seus filhos  são pessoas que têm urgência para medir a glicemia, para o tratamento e, principalmente, para ter os seus direitos reconhecidos. Sr. Presidente, então, o blocão orienta \"sim\"."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",

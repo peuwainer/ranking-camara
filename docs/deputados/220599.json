@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220599.jpg",
-  "score": 31.83,
-  "rank": 65,
+  "score": 33.04,
+  "rank": 46,
   "proposicoes": [
     {
       "id": 2629601,
@@ -60,6 +60,15 @@
       "ementa": "Institui o Estatuto da Mãe Atípica, estabelece a Política Nacional de Proteção e Inclusão Socioeconômica das Mães Atípicas e dá outras providências.",
       "data": "2026-06-10T17:22",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631433"
+    },
+    {
+      "id": 2635193,
+      "tipo": "PL",
+      "numero": 3291,
+      "ano": 2026,
+      "ementa": "Acrescenta art. 48-A à Lei nº 11.196, de 21 de novembro de 2005, para instituir incentivo fiscal no Imposto sobre a Renda das Pessoas Jurídicas (IRPJ) e na Contribuição Social sobre o Lucro Líquido (CSLL) às pessoas jurídicas que adquiram materiais recicláveis de cooperativas e associações de catadores de materiais reutilizáveis e recicláveis.",
+      "data": "2026-06-25T10:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635193"
     }
   ],
   "discursos": [

@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220572.jpg",
-  "score": 18.26,
-  "rank": 449,
-  "proposicoes": [],
+  "score": 19.67,
+  "rank": 419,
+  "proposicoes": [
+    {
+      "id": 2635005,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a humanização da atenção ao parto e a garantia da autonomia da mulher, no âmbito do Sistema Único de Saúde, e estabelece normas de implementação, informação às gestantes e penalidades.",
+      "data": "2026-06-24T10:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635005"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

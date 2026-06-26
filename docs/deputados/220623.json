@@ -4,18 +4,9 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
-  "score": 31.78,
-  "rank": 67,
+  "score": 30.22,
+  "rank": 85,
   "proposicoes": [
-    {
-      "id": 2627973,
-      "tipo": "PL",
-      "numero": 2630,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências, para estabelecer medidas de proteção da infância e da adolescência contra a publicidade, promoção comercial e oferta de alimentos ultraprocessados.",
-      "data": "2026-05-26T19:33",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627973"
-    },
     {
       "id": 2629977,
       "tipo": "SBT",
@@ -89,15 +80,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632251"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-05-26T16:36",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "A SRA. DUDA SALABERT (Bloco/PSOL - MG. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. A Federação PSOL REDE orienta \"sim\". E hoje conseguiremos uma vitória histórica nesta Casa, que é ju",
-      "transcricao": "A SRA. DUDA SALABERT (Bloco/PSOL - MG. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. A Federação PSOL REDE orienta \"sim\". E hoje conseguiremos uma vitória histórica nesta Casa, que é justamente proteger as mulheres no período eleitoral da chamada violência política de gênero. As mulheres são as maiores vítimas de misoginia, machismo e violência no contexto eleitoral. Defender as mulheres no processo eleitoral é sobretudo defender a democracia e a equidade. Parabéns ao autor e Relator do projeto. Orientamos \"sim\", uma vitória histórica. Obrigada, Presidente. As mulheres são as maiores vítimas de misoginia, machismo e violência no contexto eleitoral. Defender as mulheres no processo eleitoral é, sobretudo, defender a democracia e a equidade. Parabéns, autora e Relatora do projeto! Nós orientamos sim. É uma vitória histórica! Obrigada, Presidente."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a fiscalizar os rompimentos de barragens, em especial acompanhar a repactuação do acordo de Mariana e a reparação do crime de Brumadinho",

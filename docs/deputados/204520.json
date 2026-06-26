@@ -4,27 +4,9 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204520.jpg",
-  "score": 27.02,
-  "rank": 168,
+  "score": 25.83,
+  "rank": 194,
   "proposicoes": [
-    {
-      "id": 2627665,
-      "tipo": "EMC",
-      "numero": 1,
-      "ano": 2026,
-      "ementa": "Emenda Modificativa ao Projeto de Lei nº 1.616, de 2026.",
-      "data": "2026-05-26T12:40",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627665"
-    },
-    {
-      "id": 2627925,
-      "tipo": "EMP",
-      "numero": 5,
-      "ano": 0,
-      "ementa": "Emenda ao Projeto de Lei Complementar nº 114, de 2026.",
-      "data": "2026-05-26T18:41",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627925"
-    },
     {
       "id": 2629601,
       "tipo": "EMP",
@@ -42,6 +24,15 @@
       "ementa": "Voto do Relator pela aprovação do Projeto de Lei nº 1.425, de 2026, com Substitutivo.",
       "data": "2026-06-09T16:10",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631127"
+    },
+    {
+      "id": 2635230,
+      "tipo": "PL",
+      "numero": 3296,
+      "ano": 2026,
+      "ementa": "Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, a Lei nº 9.029, de 13 de abril de 1995, e a Lei nº 14.611, de 3 de julho de 2023, para assegurar a autonomia das entidades privadas na organização e na contratação de pessoal, vedar a imposição de cotas de composição por sexo ou outro critério por ato não previsto em lei formal e disciplinar os requisitos de comprovação de prática discriminatória nas relações de trabalho.",
+      "data": "2026-06-25T13:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635230"
     }
   ],
   "discursos": [],

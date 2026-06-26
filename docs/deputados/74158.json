@@ -4,18 +4,9 @@
   "partido": "PDT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74158.jpg",
-  "score": 19.97,
-  "rank": 419,
+  "score": 19.29,
+  "rank": 428,
   "proposicoes": [
-    {
-      "id": 2627641,
-      "tipo": "EMP",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera o art. 3º do PL nº 1.384, de 2011, que altera a Lei nº 14.293, de 4 de janeiro de 2022, que dispõe sobre o Programa de Venda em Balcão (ProVB), e a Lei nº 8.171, de 17 de janeiro de 1991, que dispõe sobre a Política Agrícola.",
-      "data": "2026-05-26T10:36",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627641"
-    },
     {
       "id": 2628347,
       "tipo": "EMP",
@@ -62,15 +53,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-05-26T14:52",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. MÁRIO HERINGER (PDT - MG. Pela ordem. Sem revisão do orador.) - Presidente, boa tarde. Obrigado pela oportunidade de falar rapidamente aqui. Hoje, é um dia muito importante para o Brasil, porque",
-      "transcricao": "O SR. MÁRIO HERINGER (PDT - MG. Pela ordem. Sem revisão do orador.) - Presidente, boa tarde. Obrigado pela oportunidade de falar rapidamente aqui. Hoje, é um dia muito importante para o Brasil, porque nós vamos votar o fim da jornada 6 por 1 para as pessoas que estão, no dia a dia, trabalhando e fazendo o seu papel. Eu sempre fui a favor, inclusive com a manutenção do salário, e vejo isso com muita clareza, porque é natural que a gente melhore as condições de vida dos brasileiros de uma maneira geral. Eu não tenho dúvida nenhuma de que essas pessoas trabalham, essas pessoas se sacrificam e, certamente, precisam ter um período de recreio e de descanso adequado com a família. Por isso, Presidente, a gente vai aprovar esta matéria de qualquer maneira aqui. Eu não gostei da solução que o Relator deu com relação à temporalidade. Eu preferia que fosse feito desde já, porque, desde já, a gente resolveria isso e não se procrastinaria mais. Se precisasse e se tivéssemos de fazer alguma compensação, que fizéssemos uma compensação financeira ou tributária para os pequenos e médios empreendedores. Esses, sim, serão atingidos diretamente, porque terão um custo adicional, que deverá ser pago por eles  eu sei disso , mas nós precisávamos fazer essa compensação. Então, sim, nós vamos votar o fim da 6 por 1 e, com certeza, vamos buscar uma compensação econômica e financeira para os outros empreendedores."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Externa, sem ônus para a Câmara dos Deputados, destinada a acompanhar os impactos sociais, ambientais e econômicos na região do Município de Conceição do Pará, no estado de Minas Gerais, em função de um deslizamento de pilha de rejeitos de minério da mineradora Jaguar Mining",

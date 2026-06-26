@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204526.jpg",
-  "score": 19.72,
-  "rank": 427,
+  "score": 19.16,
+  "rank": 435,
   "proposicoes": [
-    {
-      "id": 2627514,
-      "tipo": "PL",
-      "numero": 2580,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 - Código de Processo Civil, para dispor sobre a proteção de garantias fiduciárias.",
-      "data": "2026-05-25T15:35",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627514"
-    },
     {
       "id": 2629318,
       "tipo": "PL",
@@ -42,6 +33,15 @@
       "ementa": "Altera a Lei nº 9.503, de 1997 (Código de Trânsito Brasileiro), dispor sobre a responsabilidade por penalidades atribuídas a veículo objeto de transferência de propriedade e dá outras providências, e o Decreto-Lei nº 73, de 21 de novembro de 1966, para dispor sobre o seguro de responsabilidade civil dos proprietários de veículos automotores de vias terrestres, por danos corporais causados a terceiros, em razão de sinistro envolvendo o veículo.",
       "data": "2026-06-09T15:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630623"
+    },
+    {
+      "id": 2635352,
+      "tipo": "PL",
+      "numero": 3297,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o uso civil de aeromodelos, fixa regras proporcionais para sua operação e dá outras providências.",
+      "data": "2026-06-25T15:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635352"
     }
   ],
   "discursos": [],

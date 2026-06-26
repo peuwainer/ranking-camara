@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
-  "score": 31.93,
-  "rank": 62,
+  "score": 33.09,
+  "rank": 45,
   "proposicoes": [
-    {
-      "id": 2627647,
-      "tipo": "PL",
-      "numero": 2599,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a inclusão de advertência sanitária obrigatória no painel principal do rótulo de alimentos ultraprocessados e de alimentos e bebidas com edulcorantes, e sobre alteração  da rotulagem nutricional frontal",
-      "data": "2026-05-26T12:23",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627647"
-    },
     {
       "id": 2629533,
       "tipo": "PL",
@@ -60,6 +51,15 @@
       "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para vedar a participação em apostas de quota fixa por beneficiários de programas federais de transferência de renda e impor aos agentes operadores os correspondentes deveres de verificação cadastral e financeira.",
       "data": "2026-06-23T17:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634922"
+    },
+    {
+      "id": 2635369,
+      "tipo": "PL",
+      "numero": 3302,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição temporária do uso do fogo para fins agropecuários durante períodos de Emergência climática e risco extremo de incêndios florestais.",
+      "data": "2026-06-25T17:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635369"
     }
   ],
   "discursos": [

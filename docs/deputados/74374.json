@@ -4,27 +4,9 @@
   "partido": "UNIÃO",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74374.jpg",
-  "score": 36.96,
-  "rank": 22,
+  "score": 35.58,
+  "rank": 28,
   "proposicoes": [
-    {
-      "id": 2627609,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para assegurar igualdade material de condições à pessoa idosa em concursos públicos, exames e processos de habilitação profissional.",
-      "data": "2026-05-25T17:33",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627609"
-    },
-    {
-      "id": 2627611,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), e a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para tipificar e estabelecer as consequências civis e penais da promoção de curatela abusiva.",
-      "data": "2026-05-25T17:57",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627611"
-    },
     {
       "id": 2630225,
       "tipo": "SBT",
@@ -78,17 +60,18 @@
       "ementa": "Dispõe sobre a utilização de recursos digitais computadores, tablets e telefones celulares, por terapeutas no ambiente escolar como ferramentas de apoio terapêutico aos estudantes com Transtorno do Espectro Autista (TEA).",
       "data": "2026-06-22T11:52",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634572"
-    }
-  ],
-  "discursos": [
+    },
     {
-      "data": "2026-05-26T17:08",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. GERALDO RESENDE (Bloco/UNIÃO - MS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, primeiro, quero dizer que estou muito feliz com a relatoria da Deputada Camila Jara, lá de Mato Grosso do",
-      "transcricao": "O SR. GERALDO RESENDE (Bloco/UNIÃO - MS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, primeiro, quero dizer que estou muito feliz com a relatoria da Deputada Camila Jara, lá de Mato Grosso do Sul. Este projeto que apresentei é singelo, mas tem um alcance enorme, extraordinário, porque faz justiça a um homem sonhador: Heitor Miranda dos Santos, Procurador do Ministério Público Estadual, Secretário de Estado, Prefeito de Porto Murtinho. Lá trás, ele sonhou  e incentivou muitos sonhadores  com este projeto da Rota Bioceânica, que vai baratear os nossos produtos, fazendo com que se tornem cada vez mais competitivos, principalmente para os principais importadores do agronegócio de Mato Grosso do Sul, de Mato Grosso, enfim, do Centro-Oeste, que são os países asiáticos. Essa homenagem a Heitor Miranda dos Santos vai fazer justiça. Está prestes a acontecer o \"beijo\" entre as duas partes da ponte: a parte construída no Paraguai e a parte construída no Brasil. Esse \"beijo\", que é a união das duas partes, acontecerá até o fim do ano. Presidente, fico muito feliz com esse reconhecimento. Essa homenagem faz justiça a um homem que, há 50 anos, sonhou. Agora, esse sonho está se tornando realidade."
+      "id": 2635080,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Autoriza e estabelece diretrizes para criação do Programa de Incentivo ao Empreendedorismo da Pessoa Idosa “Empreender 60+”, e dá outras providências.",
+      "data": "2026-06-24T12:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635080"
     }
   ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a elaborar propostas para analisar o enfrentamento da tuberculose como compromisso internacional para a eliminação desta doença como problema de saúde pública até o ano de 2030, conforme preconizado pela Organização das Nações Unidas (ONU)",

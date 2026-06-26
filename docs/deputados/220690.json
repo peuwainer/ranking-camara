@@ -4,36 +4,9 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 52.71,
-  "rank": 4,
+  "score": 52.5,
+  "rank": 5,
   "proposicoes": [
-    {
-      "id": 2627587,
-      "tipo": "EMC",
-      "numero": 1,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 10.883 e a Lei nº 10.826 para reconhecer como atividade de risco as atribuições desempenhadas pelos integrantes da Carreira de Auditor Fiscal Federal Agropecuário e autorizar o porte de arma de fogo, e dá outras providências.",
-      "data": "2026-05-25T15:42",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627587"
-    },
-    {
-      "id": 2627605,
-      "tipo": "PL",
-      "numero": 2589,
-      "ano": 2026,
-      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), e a Lei nº 9.818, de 23 de agosto de 1999, para estabelecer critérios rigorosos de gestão de risco soberano, transparência e restrições a operações de crédito à exportação com garantia da União e cobertura do Fundo de Garantia à Exportação (FGE).",
-      "data": "2026-05-26T10:24",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627605"
-    },
-    {
-      "id": 2627646,
-      "tipo": "PL",
-      "numero": 2598,
-      "ano": 2026,
-      "ementa": "Institui a Lei de Proteção Integral de Mulheres e Crianças no Ambiente Digital, altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para estabelecer medidas de prevenção e repressão à violência digital, assegurar garantias de liberdade de expressão, devido processo legal e segurança jurídica no ambiente digital, fortalecer a proteção de mulheres, crianças e adolescentes contra violência digital, exploração sexual, divulgação não consentida de conteúdo íntimo e uso abusivo de inteligência artificial, e dá outras providências.",
-      "data": "2026-05-26T12:15",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627646"
-    },
     {
       "id": 2628287,
       "tipo": "PL",
@@ -42,15 +15,6 @@
       "ementa": "Altera o Marco Civil da Internet (Lei nº 12.965, de 23 de abril de 2014), para estabelecer garantias de devido processo, segurança jurídica, transparência e limites à responsabilização de provedores de aplicações de internet.",
       "data": "2026-05-27T13:09",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628287"
-    },
-    {
-      "id": 2628373,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Acrescenta dispositivos à Lei nº 13.869, de 5 de setembro de 2019, à Lei nº 1.079, de 10 de abril de 1950, ao Decreto-Lei nº 201, de 27 de fevereiro de 1967, e à Lei nº 13.979, de 6 de fevereiro de 2020, para caracterizar como crime de abuso de autoridade e como crime de responsabilidade a violação de direitos individuais constitucionais durante tempos de paz, impedindo a liberdade de locomoção e o exercício de outras garantias.",
-      "data": "2026-05-25T15:03",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628373"
     },
     {
       "id": 2628934,
@@ -206,15 +170,6 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632561"
     },
     {
-      "id": 2632563,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre medidas de prevenção, detecção e repressão de esquemas financeiros sistêmicos e de organizações privadas de intimidação; eleva requisitos de transparência, capitalização e registro para emissões massivas de títulos de captação; autoriza suspensão cautelar de atividades e bloqueio imediato de ativos mediante indícios graves de fraude sistêmica, lavagem de dinheiro ou cooptação de agentes públicos, com controle jurisdicional célere; tipifica e agrava condutas relacionadas à formação e atuação de milícias privadas de intimidação (digitais e analógicas) destinadas a obstruir investigação ou coagir autoridades, jornalistas ou servidores reguladores; fortalece mecanismos de cooperação entre Banco Central, CVM, Polícia Federal e Ministério Público, aperfeiçoa acesso a registros eletrônicos e perícia forense e institui medidas de proteção a servidores e investigantes; e dá outras providências.",
-      "data": "2026-06-16T10:43",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632563"
-    },
-    {
       "id": 2633488,
       "tipo": "PEC",
       "numero": 15,
@@ -267,6 +222,51 @@
       "ementa": "Altera a Lei nº 9.029, de 13 de abril de 1995, e a Consolidação das Leis do Trabalho – CLT, para assegurar que a caracterização de discriminação nas relações de trabalho dependa da demonstração de conduta discriminatória efetiva, vedando a responsabilização baseada exclusivamente em critérios estatísticos ou na composição demográfica dos quadros funcionais.",
       "data": "2026-06-23T10:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634712"
+    },
+    {
+      "id": 2634990,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Capitão Alden (PL-BA), pela aprovação do PL 302/26, com substitutivo.",
+      "data": "2026-06-24T09:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634990"
+    },
+    {
+      "id": 2634992,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Capitão Alden (PL-BA), pela aprovação do PL 302/26, com substitutivo.",
+      "data": "2026-06-24T09:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634992"
+    },
+    {
+      "id": 2634993,
+      "tipo": "SBT",
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Capitão Alden (PL-BA), pela aprovação, com substitutivo.",
+      "data": "2026-06-24T09:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634993"
+    },
+    {
+      "id": 2634996,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Capitão Alden (PL-BA), pela aprovação, com substitutivo.",
+      "data": "2026-06-24T10:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634996"
+    },
+    {
+      "id": 2634997,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Capitão Alden (PL-BA), pela aprovação do PL 1515/26, com substitutivo.",
+      "data": "2026-06-24T10:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634997"
     }
   ],
   "discursos": [

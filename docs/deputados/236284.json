@@ -4,9 +4,19 @@
   "partido": "PSDB",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236284.jpg",
-  "score": 21.24,
-  "rank": 381,
-  "proposicoes": [],
+  "score": 21.7,
+  "rank": 361,
+  "proposicoes": [
+    {
+      "id": 2635102,
+      "tipo": "PLP",
+      "numero": 185,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a redução gradual da duração normal do trabalho no âmbito das microempresas e empresas de pequeno porte, estabelece regras especiais de organização da jornada e do repouso semanal para determinadas atividades econômicas, institui o Programa Nacional de Redução da Jornada de Trabalho (PNRJT) e institui crédito fiscal de adaptação à redução da jornada de trabalho.",
+      "data": "2026-06-24T13:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635102"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

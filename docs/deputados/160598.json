@@ -4,27 +4,9 @@
   "partido": "MDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160598.jpg",
-  "score": 39.73,
-  "rank": 14,
+  "score": 40.16,
+  "rank": 12,
   "proposicoes": [
-    {
-      "id": 2627763,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre diretrizes nacionais para a atuação dos Conselhos Tutelares nos casos de violência sexual contra crianças e adolescentes associada à fome ou extrema vulnerabilidade social.",
-      "data": "2026-05-26T13:28",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627763"
-    },
-    {
-      "id": 2627887,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Institui a Política Nacional de Segurança Financeira da Mulher, com programas de educação econômica, microcrédito protegido e promoção da autonomia patrimonial.",
-      "data": "2026-05-26T13:34",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627887"
-    },
     {
       "id": 2628684,
       "tipo": "PL",
@@ -123,6 +105,33 @@
       "ementa": "Altera as Leis nº 13.643, de 3 de abril de 2018, e nº 13.869, de 5 de setembro de 2019, para dispor sobre o exercício das atividades de estética e cosmetologia, assegurar condições adequadas de atuação profissional e coibir restrições indevidas ao exercício da profissão.",
       "data": "2026-06-23T15:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634848"
+    },
+    {
+      "id": 2635019,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Cria o Programa Casa Segura, destinado a oferecer moradia temporária e assistência integral a mulheres com filhos menores em situação de divórcio ou dissolução de união estável sem condições de subsistência imediata.",
+      "data": "2026-06-24T11:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635019"
+    },
+    {
+      "id": 2635366,
+      "tipo": "PL",
+      "numero": 3300,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a garantia de acesso descentralizado aos medicamentos e tecnologias em saúde incorporados ao Sistema Único de Saúde (SUS) destinados ao tratamento da Asma e da Doença Pulmonar Obstrutiva Crônica (DPOC).",
+      "data": "2026-06-25T16:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635366"
+    },
+    {
+      "id": 2635370,
+      "tipo": "PL",
+      "numero": 3303,
+      "ano": 2026,
+      "ementa": "Institui a Lei Nacional de Diretrizes para Atenção Integral em Reabilitação Respiratória no âmbito do Sistema Único de Saúde – SUS.",
+      "data": "2026-06-25T17:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635370"
     }
   ],
   "discursos": [],

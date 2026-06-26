@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204518.jpg",
-  "score": 20.84,
-  "rank": 391,
-  "proposicoes": [],
+  "score": 21.26,
+  "rank": 380,
+  "proposicoes": [
+    {
+      "id": 2634971,
+      "tipo": "PL",
+      "numero": 3277,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.238, de 19 de novembro de 2021 (Estatuto da Pessoa com Câncer), para incluir a atualidade tecnológica e a equidade diagnóstica entre os princípios e os direitos previstos, e a Lei nº 14.758, de 19 de dezembro de 2023 (Política Nacional de Prevenção e Controle do Câncer), para dispor sobre métodos diagnósticos minimamente invasivos e avaliação de tecnologias diagnósticas no âmbito do Sistema Único de Saúde.",
+      "data": "2026-06-23T19:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634971"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-06-17T15:44",

@@ -4,18 +4,9 @@
   "partido": "PODE",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 50.75,
-  "rank": 5,
+  "score": 55.64,
+  "rank": 4,
   "proposicoes": [
-    {
-      "id": 2627875,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais - LGPD), para dispor sobre a Auditoria Algorítmica Preventiva em sistemas de Inteligência Artificial que afetam decisões de alto impacto social.",
-      "data": "2026-05-26T16:27",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627875"
-    },
     {
       "id": 2628364,
       "tipo": "PL",
@@ -33,15 +24,6 @@
       "ementa": "Estabelece redução escalonada da carga tributária incidente sobre as receitas decorrentes da venda de preparações do tipo utilizado na alimentação de cães e gatos, com o objetivo de promover o acesso à nutrição animal adequada, assegurar previsibilidade fiscal e estimular a formalização do setor.",
       "data": "2026-05-27T22:29",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628691"
-    },
-    {
-      "id": 2628721,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Estabelece diretrizes gerais para o reconhecimento das corridas de rua e eventos esportivos não formais como instrumentos de promoção da saúde e do esporte, vedando a instituição de taxas de natureza arrecadatória incompatíveis com essa finalidade.",
-      "data": "2026-05-26T18:05",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628721"
     },
     {
       "id": 2628795,
@@ -303,6 +285,69 @@
       "ementa": "Institui a Política Nacional de Soberania Digital da Amazônia e dá outras providências.",
       "data": "2026-06-23T18:17",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634931"
+    },
+    {
+      "id": 2635091,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015, que institui a Lei Brasileira de Inclusão da Pessoa com Deficiência - Estatuto da Pessoa com Deficiência.",
+      "data": "2026-06-24T13:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635091"
+    },
+    {
+      "id": 2635094,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para instituir a obrigatoriedade de sistemas de orientação por proximidade e realidade aumentada nos edifícios públicos federais, visando à ampliação da autonomia das pessoas com deficiência e pessoas idosas.",
+      "data": "2026-06-24T13:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635094"
+    },
+    {
+      "id": 2635096,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.985, de 18 de julho de 2000, que regulamenta o art. 225, § 1º, incisos I, II, III e VII da Constituição Federal, que institui o Sistema Nacional de Unidades de Conservação da Natureza e dá outras providências.",
+      "data": "2026-06-24T13:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635096"
+    },
+    {
+      "id": 2635098,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe Sobre a Obrigatoriedade de Parada Dos Veículos De Transporte Público Para Pessoas Idosas e Estabelece Penalidades Para as Empresas de Transporte Público que Descumprirem Essa Obrigação.",
+      "data": "2026-06-24T13:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635098"
+    },
+    {
+      "id": 2635117,
+      "tipo": "PL",
+      "numero": 3288,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Cidadania Territorial Digital para Áreas Rurais, Remotas e de Difícil Acesso e dá outras providências.",
+      "data": "2026-06-24T15:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635117"
+    },
+    {
+      "id": 2635365,
+      "tipo": "PL",
+      "numero": 3299,
+      "ano": 2026,
+      "ementa": "Institui o Direito ao Período de Adaptação Familiar na adoção, assegura ao trabalhador a possibilidade de antecipação de férias, flexibilização temporária da jornada e priorização de modalidades compatíveis de trabalho no período inicial de integração familiar.",
+      "data": "2026-06-25T16:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635365"
+    },
+    {
+      "id": 2635368,
+      "tipo": "PL",
+      "numero": 3301,
+      "ano": 2026,
+      "ementa": "Institui o Fundo Nacional de Apoio às Micro e Pequenas Empresas da Região Norte – FUNORTE-MPE, destinado a ampliar o acesso ao crédito, reduzir riscos financeiros, mitigar custos estruturais e promover o desenvolvimento produtivo regional, com prioridade técnica para territórios de maior vulnerabilidade econômica, e dá outras providências.",
+      "data": "2026-06-25T17:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635368"
     }
   ],
   "discursos": [],

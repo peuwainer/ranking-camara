@@ -4,18 +4,9 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220645.jpg",
-  "score": 37.97,
-  "rank": 20,
+  "score": 37.81,
+  "rank": 18,
   "proposicoes": [
-    {
-      "id": 2627701,
-      "tipo": "PL",
-      "numero": 2603,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) para tornar um agravante da infração de medida sanitária preventiva a incitação, por meio digital, de descumprimento da determinação do poder público destinada a impedir introdução ou propagação de doença contagiosa ou de contaminação microbiológica.",
-      "data": "2026-05-26T13:42",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2627701"
-    },
     {
       "id": 2630056,
       "tipo": "PL",
@@ -123,6 +114,15 @@
       "ementa": "Altera o art. 83 da Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para garantir às mulheres e às pessoas transmasculinas no sistema prisional que sejam gestantes, parturientes e/ou lactantes o direito ao cuidado e à amamentação de seus filhos de, no mínimo, até 12 (doze) meses de idade.",
       "data": "2026-06-22T14:36",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634636"
+    },
+    {
+      "id": 2635363,
+      "tipo": "PL",
+      "numero": 3298,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Incentivo às Paradas de Orgulho LGBTQIA+ e altera a Lei nº 14.399, de 8 de julho de 2022 (Lei Aldir Blanc).",
+      "data": "2026-06-25T16:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635363"
     }
   ],
   "discursos": [

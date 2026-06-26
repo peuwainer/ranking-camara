@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
-  "score": 35.06,
-  "rank": 34,
+  "score": 35.45,
+  "rank": 29,
   "proposicoes": [
     {
       "id": 2628445,
@@ -78,6 +78,15 @@
       "ementa": "",
       "data": "2026-06-19T12:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634439"
+    },
+    {
+      "id": 2635088,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para explicitar a aplicação do regime de autorização judicial às atividades de criação de conteúdo digital com finalidade econômica realizadas por crianças e adolescentes.",
+      "data": "2026-06-24T12:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635088"
     }
   ],
   "discursos": [],
