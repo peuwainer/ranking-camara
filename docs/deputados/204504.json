@@ -4,27 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
-  "score": 34.1,
-  "rank": 36,
+  "score": 27.8,
+  "rank": 69,
   "proposicoes": [
-    {
-      "id": 2628623,
-      "tipo": "PL",
-      "numero": 2684,
-      "ano": 2026,
-      "ementa": "Institui o selo Turismo Azul Autismo, para identificar prestadores de serviços de turismo que adotem práticas destinadas à inclusão e acessibilidade de pessoas com transtorno do espectro autista ou de seus pais, cônjuge ou responsável legal, e dá outras providências.",
-      "data": "2026-05-27T20:23",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628623"
-    },
-    {
-      "id": 2628624,
-      "tipo": "PL",
-      "numero": 2685,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre a isenção da taxa de licenciamento anual de veículos automotores cuja propriedade seja de pessoas jurídicas, associações, fundações e outras hipóteses previstas no inciso VI do art. 150 da Constituição da República Federativa do Brasil de 1988.",
-      "data": "2026-05-27T20:23",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628624"
-    },
     {
       "id": 2632797,
       "tipo": "PLP",
@@ -132,6 +114,15 @@
       "ementa": "Altera a Lei nº 4.117, de 27 de agosto de 1962, para dispor sobre a veiculação obrigatória, em emissoras de rádio e televisão públicas e estatais, de campanha de saúde pública em caso de epidemia.",
       "data": "2026-06-23T14:13",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634802"
+    },
+    {
+      "id": 2635392,
+      "tipo": "PL",
+      "numero": 3313,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.205, de 21 de março de 2001, para dispor sobre a concessão de prioridade aos doadores regulares de sangue nas campanhas públicas de vacinação no âmbito da União e dá outras providências.",
+      "data": "2026-06-26T11:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635392"
     }
   ],
   "discursos": [],

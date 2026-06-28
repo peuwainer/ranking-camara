@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160610.jpg",
-  "score": 22.56,
-  "rank": 320,
+  "score": 14.46,
+  "rank": 416,
   "proposicoes": [
-    {
-      "id": 2628942,
-      "tipo": "PL",
-      "numero": 2715,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para dispor sobre a dispensa do serviço de empregados públicos ou privados e servidores públicos que efetivamente exercerem a função de jurado.",
-      "data": "2026-05-28T15:12",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628942"
-    },
     {
       "id": 2630791,
       "tipo": "PLP",
@@ -35,15 +26,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-05-27T15:04",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. VALMIR ASSUNÇÃO (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, no debate da isenção do Imposto de Renda, os bolsonaristas, quando viram que seriam derrotados aqui no plená",
-      "transcricao": "O SR. VALMIR ASSUNÇÃO (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, no debate da isenção do Imposto de Renda, os bolsonaristas, quando viram que seriam derrotados aqui no plenário, propuseram uma isenção para quem ganha até 10 mil reais. Nós aprovamos o projeto de acordo com o nosso compromisso com o povo brasileiro de isenção para quem ganha até 5 mil reais. Agora, como eles estão vendo que vão ser derrotados, eles, que propuseram 52 horas de trabalho, ao verem que vai ser o fim da escala 6 por 1, no dia de hoje querem mudar para 4 por 3. Independentemente da vontade deles, nós vamos acabar com a escala 6 por 1 no dia de hoje, porque acreditamos que isso é fundamental para o povo brasileiro. Esse tem que ser o compromisso do PT e o compromisso desta Casa, Sr. Presidente."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

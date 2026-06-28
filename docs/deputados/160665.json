@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
-  "score": 26.19,
-  "rank": 180,
+  "score": 20.71,
+  "rank": 189,
   "proposicoes": [
     {
       "id": 2631190,
@@ -26,22 +26,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632666"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-05-27T21:24",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, volto a ressaltar, mais uma vez, o orgulho que a bancada do Republicanos tem na noite de hoje, um",
-      "transcricao": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, volto a ressaltar, mais uma vez, o orgulho que a bancada do Republicanos tem na noite de hoje, uma noite histórica para o Brasil, uma noite que tem como protagonistas V.Exa., que encaminhou esta matéria e que preside esta Casa, e o Relator, o Deputado Leo Prates, integrante da nossa bancada, que fez um trabalho excelente, um trabalho que tem sido elogiado por todos os juristas brasileiros. Então, o Republicanos encaminha \"sim\" e registra que todos nós integrantes da bancada temos orgulho de V.Exa. e do Deputado Leo Prates."
-    },
-    {
-      "data": "2026-05-27T20:36",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu queria, inicialmente, como integrante e Líder da bancada do Republican",
-      "transcricao": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu queria, inicialmente, como integrante e Líder da bancada do Republicanos, parabenizar V.Exa. Estamos votando hoje, em um momento histórico, uma matéria que vai contribuir muito para a melhoria da vida de todas as pessoas. Nós também nos orgulhamos muito porque essa missão foi dada a um integrante da nossa bancada, o Deputado Leo Prates. E ele a cumpriu com muita responsabilidade, com muito espírito público e, acima de tudo, com muito cuidado com as pessoas. Então, o Republicanos, neste momento, Sr. Presidente, através de V.Exa. e do Deputado Leo Prates, se orgulha muito por esse avanço que faremos no dia de hoje. Muito obrigado."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",

@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204416.jpg",
-  "score": 30.16,
-  "rank": 87,
+  "score": 26.55,
+  "rank": 78,
   "proposicoes": [
-    {
-      "id": 2628735,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Parecer do Relator, Dep. Sanderson (PL-RS), pela aprovação do PL 6529/25 e da Emenda 1/2026,  apresentada nesta comissão.",
-      "data": "2026-05-27T23:38",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628735"
-    },
     {
       "id": 2630262,
       "tipo": "SBT",
@@ -60,6 +51,15 @@
       "ementa": "Altera as Leis nº 9.433, de 1997, nº 9.984, de 2000, nº 11.445, de 2007, e nº 14.026, de 2020, para fortalecer o acesso à água, as soluções comunitárias de abastecimento e a gestão dos recursos hídricos.",
       "data": "2026-06-25T11:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635213"
+    },
+    {
+      "id": 2635421,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do relator, Deputado Sanderson, pela aprovação do PL 2849/2025 e do PL 2111/2026, com substitutivo.",
+      "data": "2026-06-26T16:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635421"
     }
   ],
   "discursos": [

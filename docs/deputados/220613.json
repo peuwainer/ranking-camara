@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220613.jpg",
-  "score": 8.25,
-  "rank": 502,
+  "score": 11.18,
+  "rank": 468,
   "proposicoes": [
     {
       "id": 2629285,
@@ -33,6 +33,24 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2635382,
+      "tipo": "PL",
+      "numero": 3306,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.098, de 19 de dezembro de 2000, para dispor sobre a obrigatoriedade de instalação de banheiros família em estabelecimentos públicos e privados de grande circulação.",
+      "data": "2026-06-26T09:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635382"
+    },
+    {
+      "id": 2635383,
+      "tipo": "PL",
+      "numero": 3307,
+      "ano": 2026,
+      "ementa": "Acrescenta o art. 38-A à Lei nº 13.869, de 5 de setembro de 2019 (Lei de Abuso de Autoridade), para tipificar condutas que atentem contra o livre exercício das prerrogativas de membros do Poder Legislativo.",
+      "data": "2026-06-26T09:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635383"
     }
   ],
   "discursos": [],

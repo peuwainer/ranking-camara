@@ -4,27 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220644.jpg",
-  "score": 25.39,
-  "rank": 210,
+  "score": 19.65,
+  "rank": 232,
   "proposicoes": [
-    {
-      "id": 2628399,
-      "tipo": "PL",
-      "numero": 2663,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.445, de 24 de maio de 2017, para incluir a obrigatoriedade de expulsão de estrangeiros que cometem crimes que configuram violência contra a mulher, estupro, inclusive de vulnerável, tráfico de drogas e homicídio doloso e qualificado.",
-      "data": "2026-05-27T15:52",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628399"
-    },
-    {
-      "id": 2628405,
-      "tipo": "PL",
-      "numero": 2664,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei n° 2.848, de 7 de dezembro de 1940 (Código Penal), para aumentar para além dos crimes sexuais, os de violência contra a mulher, nos casos de exceção de redução prescricional por idade.",
-      "data": "2026-05-27T15:55",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628405"
-    },
     {
       "id": 2629446,
       "tipo": "PL",
@@ -53,15 +35,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631287"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-05-27T15:24",
-      "fase": "Breves Comunicações",
-      "tipo": "BREVES COMUNICAÇÕES",
-      "resumo": "A SRA. ROSANGELA MORO (PL - SP. Sem revisão da oradora.) - Obrigada, Sr. Presidente. Presidente, como o brasileiro sabe que a economia está indo bem? Quando as pessoas têm dinheiro no bolso, quando as",
-      "transcricao": "A SRA. ROSANGELA MORO (PL - SP. Sem revisão da oradora.) - Obrigada, Sr. Presidente. Presidente, como o brasileiro sabe que a economia está indo bem? Quando as pessoas têm dinheiro no bolso, quando as pessoas têm poder de compra, quando as famílias não estão endividadas, quando as empresas que produzem e empregam no Brasil não se mudam para o Paraguai, quando não há um índice recorde de empresas pedindo recuperação judicial. O brasileiro já sentiu que a economia não vai bem, Presidente. E isso causa um desespero no Governo Lula a ponto de, em ano de eleição, numa medida absolutamente populista e eleitoreira, querer tratar do tema da jornada de trabalho dos nossos trabalhadores de uma maneira açodada, corrida, sem o verdadeiro debate  e o pior  e enganando os trabalhadores em busca da sua reeleição. Se esta proposta apresentada pelo Governo fosse boa e fosse benéfica para os trabalhadores, Presidente, ela valeria de imediato. Mas, não, o que o Governo Federal quer? Ele quer um prazo de 60 dias  ele quer vender a ideia de que ele é bonzinho  para todo mundo se adequar. Mas ele não quer que o verdadeiro efeito desta medida seja sentido pelos trabalhadores, pela família e pela sociedade. Ele quer que os efeitos sejam sentidos após as eleições. Então, isso mostra que o Governo não está preocupado coisa nenhuma com o trabalhador. Há uma proposta de emenda tramitando nesta Casa, que, ontem, foi objeto inclusive de questão de ordem pelo nosso Líder, Deputado Sóstenes, que precisa, no mínimo, tramitar apensada a esta proposta do Governo, porque é uma proposta que equaciona o direito dos trabalhadores de serem mais bem remunerados, o direito dos trabalhadores de terem mais tempo para sua vida, para sua família, para o seu lazer, com a qual não somos absolutamente contra, que é a proposta da PEC 40. Ela vai remunerar o trabalhador pelas horas trabalhadas, respeitando a liberdade do trabalhador. Há muitos trabalhadores, Presidente, que querem trabalhar além dessa jornada imposta pelo Governo Lula. E tanto ele sabe disso que só abre exceção para aquelas pessoas que recebem 20 mil reais ao mês terem esse direito respeitado."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

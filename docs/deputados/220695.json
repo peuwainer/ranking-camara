@@ -4,45 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-  "score": 36.53,
-  "rank": 22,
+  "score": 29.44,
+  "rank": 56,
   "proposicoes": [
-    {
-      "id": 2628188,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL nº 5.824/2025, e Projeto de Lei nº 1.661/2026, apensado, com Substitutivo.",
-      "data": "2026-05-27T11:07",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628188"
-    },
-    {
-      "id": 2628278,
-      "tipo": "SBT",
-      "numero": 6,
-      "ano": 0,
-      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL nº 2.373, de 2023, e PL nº 6.204/2025, apensado, com substitutivo.",
-      "data": "2026-05-27T11:30",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628278"
-    },
-    {
-      "id": 2628916,
-      "tipo": "EMC",
-      "numero": 1,
-      "ano": 2026,
-      "ementa": "Emenda modificativa ao PL nº 6.659/2025 - Altera a Lei nº 8.987, de 13 de fevereiro de 1995 (Lei de Concessões e Permissões), para garantir a segurança contra a violência de gênero no transporte público.",
-      "data": "2026-05-28T14:06",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628916"
-    },
-    {
-      "id": 2628917,
-      "tipo": "EMC",
-      "numero": 2,
-      "ano": 2026,
-      "ementa": "Emenda modificativa ao PL nº 6.659/2025 - Altera a Lei nº 8.987, de 13 de fevereiro de 1995 (Lei de Concessões e Permissões), para garantir a segurança contra a violência de gênero no transporte público",
-      "data": "2026-05-28T14:09",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628917"
-    },
     {
       "id": 2629622,
       "tipo": "SBT",
@@ -132,6 +96,15 @@
       "ementa": "Altera as Leis nº 13.643, de 3 de abril de 2018, e nº 13.869, de 5 de setembro de 2019, para dispor sobre o exercício das atividades de estética e cosmetologia, assegurar condições adequadas de atuação profissional e coibir restrições indevidas ao exercício da profissão.",
       "data": "2026-06-23T15:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634848"
+    },
+    {
+      "id": 2635414,
+      "tipo": "PFC",
+      "numero": 16,
+      "ano": 2026,
+      "ementa": "Propõe que a Comissão de Previdência, Assistência Social, Infância, Adolescência e Família realize fiscalização e controle sobre o cumprimento e a efetividade das legislações e políticas públicas voltadas ao atendimento, ao acompanhamento e à proteção de crianças e adolescentes vítimas de violência sexual, nas dimensões de segurança pública, saúde, assistência social e educação.",
+      "data": "2026-06-25T11:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635414"
     }
   ],
   "discursos": [],

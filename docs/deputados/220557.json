@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220557.jpg",
-  "score": 28.42,
-  "rank": 122,
+  "score": 23.39,
+  "rank": 126,
   "proposicoes": [
     {
       "id": 2629312,
@@ -24,6 +24,15 @@
       "ementa": "Confere ao Município de Ilhota, no Estado de Santa Catarina, o título de Capital Nacional da Lingerie.",
       "data": "2026-06-02T11:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629589"
+    },
+    {
+      "id": 2635379,
+      "tipo": "PL",
+      "numero": 3304,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o exercício da profissão de Neuropsicopedagogo Institucional, estabelece os requisitos para o exercício profissional e dá outras providências.",
+      "data": "2026-06-25T21:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635379"
     }
   ],
   "discursos": [],

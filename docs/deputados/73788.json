@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73788.jpg",
-  "score": 20.86,
-  "rank": 391,
+  "score": 15.72,
+  "rank": 393,
   "proposicoes": [
     {
       "id": 2633488,
@@ -17,15 +17,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-05-27T16:52",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. RICARDO BARROS (Bloco/PP - PR. Pela ordem. Sem revisão do orador.) - Sr. Presidente, acabou a votação na Comissão do texto principal. Quero declarar o nosso apoio ao acordo. A política é a arte ",
-      "transcricao": "O SR. RICARDO BARROS (Bloco/PP - PR. Pela ordem. Sem revisão do orador.) - Sr. Presidente, acabou a votação na Comissão do texto principal. Quero declarar o nosso apoio ao acordo. A política é a arte do possível. Neste momento, com tantos debates que fizemos, o possível foi o texto que está sendo aprovado na Comissão e que vem ao plenário da Câmara dos Deputados. O fim da escala 6 por 1 é uma nova ordem que se estabelecerá a partir de agora, com a transição possível e eventuais alterações que sejam feitas no Senado. É isso que o Congresso Nacional faz para refletir o debate público, a vontade da maioria e o que a sociedade consegue receber neste momento como a entrega de um acordo, o melhor possível a que conseguimos chegar. Obrigado, Presidente."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão de Ciência, Tecnologia e Inovação",

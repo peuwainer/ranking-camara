@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
-  "score": 29.11,
-  "rank": 105,
+  "score": 25.28,
+  "rank": 88,
   "proposicoes": [
-    {
-      "id": 2628660,
-      "tipo": "PL",
-      "numero": 2688,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.112, de 11 de dezembro de 1990, para assegurar a manutenção das vantagens pecuniárias acessórias ao servidor público beneficiário de horário especial em razão de deficiência própria ou de cônjuge, filho, companheiro ou dependente com deficiência ou Transtorno do Espectro Autista.",
-      "data": "2026-05-27T20:54",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2628660"
-    },
     {
       "id": 2629812,
       "tipo": "PL",
@@ -42,6 +33,15 @@
       "ementa": "Concede ao Município de Vargem Grande do Sul, no Estado de São Paulo, o título de Capital Nacional da Batata.",
       "data": "2026-06-10T20:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631703"
+    },
+    {
+      "id": 2635416,
+      "tipo": "PL",
+      "numero": 3321,
+      "ano": 2026,
+      "ementa": "Institui a Declaração Pública de Posicionamento Partidário, o Termo de Adesão Programática e o Portal Nacional de Transparência Partidária; e dá outras providências.",
+      "data": "2026-06-26T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635416"
     }
   ],
   "discursos": [],
