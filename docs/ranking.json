@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-06-29T11:23:09.309752+00:00",
+  "atualizado_em": "2026-06-30T10:01:05.725884+00:00",
   "legislatura": 57,
   "deputados": [
     {
@@ -2278,6 +2278,19 @@
       "orgaos": 7
     },
     {
+      "id": 220648,
+      "nome": "FERNANDO JOSE DE SOUZA MARANGONI",
+      "nome_urna": "Marangoni",
+      "partido": "PODE",
+      "uf": "SP",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220648.jpg",
+      "score": 21.02,
+      "proposicoes": 4,
+      "presenca_votacoes": 42.9,
+      "discursos": 0,
+      "orgaos": 7
+    },
+    {
       "id": 220665,
       "nome": "ERICA CLARISSA BORBA CORDEIRO DE MOURA",
       "nome_urna": "Clarissa Tércio",
@@ -2765,19 +2778,6 @@
       "partido": "PT",
       "uf": "MG",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220632.jpg",
-      "score": 20.13,
-      "proposicoes": 3,
-      "presenca_votacoes": 42.9,
-      "discursos": 0,
-      "orgaos": 7
-    },
-    {
-      "id": 220648,
-      "nome": "FERNANDO JOSE DE SOUZA MARANGONI",
-      "nome_urna": "Marangoni",
-      "partido": "PODE",
-      "uf": "SP",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220648.jpg",
       "score": 20.13,
       "proposicoes": 3,
       "presenca_votacoes": 42.9,

@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220648.jpg",
-  "score": 20.13,
-  "rank": 214,
+  "score": 21.02,
+  "rank": 176,
   "proposicoes": [
     {
       "id": 2630001,
@@ -33,6 +33,15 @@
       "ementa": "Institui o Marco Legal da Integridade Assistencial, da Governança e da Sustentabilidade da Saúde Suplementar.",
       "data": "2026-06-09T19:14",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630784"
+    },
+    {
+      "id": 2635433,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-06-29T13:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635433"
     }
   ],
   "discursos": [],
