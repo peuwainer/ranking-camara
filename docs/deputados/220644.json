@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220644.jpg",
-  "score": 19.65,
-  "rank": 231,
+  "score": 20.55,
+  "rank": 201,
   "proposicoes": [
     {
       "id": 2629446,
@@ -33,6 +33,15 @@
       "ementa": "Implementa mecanismos para o fortalecimento da capacidade operacional das organizações da sociedade civil executoras de políticas públicas voltadas a criança, adolescente, pessoa idosa, pessoa com deficiência e pessoas em situação de vulnerabilidade.",
       "data": "2026-06-10T14:01",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631287"
+    },
+    {
+      "id": 2635450,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa TEAmo Saúde, para reconhecimento e incentivo às instituições de saúde que promovam benefícios a profissionais com Transtorno do Espectro Autista (TEA) ou com dependentes nessa condição; altera a Lei nº 14.133, de 1º de abril de 2021, e a Lei nº 8.142, de 28 de dezembro de 1990; e dá outras providências.",
+      "data": "2026-06-30T09:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635450"
     }
   ],
   "discursos": [],

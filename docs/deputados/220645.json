@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220645.jpg",
-  "score": 30.41,
-  "rank": 49,
+  "score": 32.2,
+  "rank": 38,
   "proposicoes": [
     {
       "id": 2630056,
@@ -123,6 +123,24 @@
       "ementa": "Institui a Política Nacional de Incentivo às Paradas de Orgulho LGBTQIA+ e altera a Lei nº 14.399, de 8 de julho de 2022 (Lei Aldir Blanc).",
       "data": "2026-06-25T16:04",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635363"
+    },
+    {
+      "id": 2635557,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a publicidade de cunho misógino, sexista ou estimuladora de agressão ou violência sexual.",
+      "data": "2026-06-30T14:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635557"
+    },
+    {
+      "id": 2635571,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Selo de Transparência em Publicidade dirigida a Crianças, para assegurar identificação clara e inequívoca de conteúdos publicitários destinados ao público infantil, e dá outras providências.",
+      "data": "2026-06-30T15:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635571"
     }
   ],
   "discursos": [],

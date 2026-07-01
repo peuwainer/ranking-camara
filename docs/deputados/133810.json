@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/133810.jpg",
-  "score": 15.52,
-  "rank": 396,
+  "score": 15.76,
+  "rank": 391,
   "proposicoes": [
     {
       "id": 2633488,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-06-30T17:44",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. MARCELO MORAES (PL - RS. Sem revisão do orador.) - Presidente, no dia 4 de julho de 2024 nós tivemos a primeira manifestação do SOS Agro no Rio Grande do Sul. Mais de 5 mil agricultores se reuni",
+      "transcricao": "O SR. MARCELO MORAES (PL - RS. Sem revisão do orador.) - Presidente, no dia 4 de julho de 2024 nós tivemos a primeira manifestação do SOS Agro no Rio Grande do Sul. Mais de 5 mil agricultores se reuniram no ginásio da Fenarroz, em Cachoeira do Sul, para alertar o Governo Federal das dificuldades dos nossos agricultores de dar continuidade no pagamento das suas dívidas agrícolas, tendo em vista que o Rio Grande do Sul passou por 5 anos de seca e, em 2024, pela maior cheia da sua história. A partir dali, começamos uma romaria batendo nas portas do Governo Federal, dos Ministérios, pedindo sensibilidade e ajuda do Governo Lula para os nossos agricultores. Em não tendo resultado, na inércia do Governo Federal, começamos a trabalhar aqui na Câmara dos Deputados. Começamos a pressionar os colegas Deputados para a aprovação do Projeto de Lei nº 5.122, de 2023, que trata da securitização, tão importante para a economia do Estado do Rio Grande do Sul. Mesmo com toda a articulação do Governo para tentar protelar a votação do PL 5.122, na metade do ano passado nós conseguimos aprovar, com a grande maioria dos votos da Câmara dos Deputados, esse projeto, que foi enviado ao Senado Federal, onde, por manobras do Governo, ficou quase um ano aguardando votação. Há 15 dias, mais ou menos, nós conseguimos a aprovação desse projeto no Senado Federal. Agora ele volta para a Câmara dos Deputados e depende da boa vontade do Presidente Hugo Motta ou do Colégio de Líderes, para que seja votado aqui e tenha a possibilidade de ser vetado ou sancionado pelo Presidente Lula. O que eu veio pedir aqui, Presidente? Nós não temos mais tempo, já temos 2 anos de discussão, não temos mais prazo. Os agricultores dependem dessa renegociação. Para que V.Exas. tenham ideia, colegas, nós já temos 44 suicídios de agricultores no Estado do Rio Grande do Sul devido à incapacidade de pagarem suas contas. E é importante alertar que o Governo utiliza fake news. Há poucos dias, o Ministro Boulos, do Governo Lula, afirmou em rede nacional que nós queremos o perdão das dívidas. Isso é uma grande mentira, uma grande sacanagem. Os agricultores, que não têm culpa desses 5 anos de estiagem, vão pagar esse dinheiro para o Governo Federal com juros e correção monetária, honrados que são. Então, Presidente, não temos mais o que discutir, temos é que votar. A economia do Estado do Rio Grande do Sul depende da boa vontade desta Casa. Obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

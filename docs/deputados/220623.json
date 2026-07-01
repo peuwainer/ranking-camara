@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
-  "score": 21.43,
-  "rank": 162,
+  "score": 22.32,
+  "rank": 153,
   "proposicoes": [
     {
       "id": 2629977,
@@ -78,6 +78,15 @@
       "ementa": "Institui a Política Nacional de Proteção de Rios, cria o Sistema Nacional de Rios de Proteção Permanente e dá outras providências.",
       "data": "2026-06-12T13:37",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632251"
+    },
+    {
+      "id": 2635884,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Educação de Jovens e Adultos (PNEJA).",
+      "data": "2026-06-30T20:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635884"
     }
   ],
   "discursos": [],

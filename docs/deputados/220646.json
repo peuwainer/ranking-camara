@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220646.jpg",
-  "score": 17.45,
-  "rank": 339,
+  "score": 19.24,
+  "rank": 255,
   "proposicoes": [
     {
       "id": 2633488,
@@ -24,6 +24,24 @@
       "ementa": "Institui a Virada Nacional da Castração de Cães e Gatos e estabelece diretrizes para ações intensivas de manejo populacional ético no território nacional.",
       "data": "2026-06-18T14:36",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634117"
+    },
+    {
+      "id": 2635536,
+      "tipo": "PL",
+      "numero": 3335,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de adoção de medidas de proteção à fauna silvestre em canais de irrigação e outras estruturas hidráulicas artificiais, e dá outras providências.",
+      "data": "2026-06-30T13:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635536"
+    },
+    {
+      "id": 2635556,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para tornar obrigatória a determinação judicial de comparecimento do agressor a programas de recuperação e reeducação e para incluir a pessoa com deficiência entre os sujeitos protegidos",
+      "data": "2026-06-30T14:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635556"
     }
   ],
   "discursos": [],

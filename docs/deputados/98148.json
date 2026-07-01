@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/98148.jpg",
-  "score": 18.39,
-  "rank": 287,
+  "score": 19.19,
+  "rank": 258,
   "proposicoes": [
     {
       "id": 2629393,
@@ -51,6 +51,15 @@
       "ementa": "Institui o Selo de Identificação de Alimento Importado (SIAI) e acrescenta o art. 31-A à Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor).",
       "data": "2026-06-26T10:05",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635385"
+    },
+    {
+      "id": 2635696,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Cria o Selo Brasil Contra o Desperdício, atribuído a empresas e instituições que adotem medidas comprovadas de redução de desperdício de alimentos, água e energia.",
+      "data": "2026-06-30T18:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635696"
     }
   ],
   "discursos": [

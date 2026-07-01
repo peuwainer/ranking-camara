@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74156.jpg",
-  "score": 23.63,
-  "rank": 118,
+  "score": 24.53,
+  "rank": 104,
   "proposicoes": [
     {
       "id": 2630791,
@@ -42,6 +42,15 @@
       "ementa": "Institui obrigação de manutenção e apresentação de banco de dados de animais atendidos por Municípios e pessoas jurídicas que recebam recursos públicos federais destinados à proteção, cuidado e bem-estar animal.",
       "data": "2026-06-25T11:44",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635212"
+    },
+    {
+      "id": 2635883,
+      "tipo": "PL",
+      "numero": 3377,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021, para dispor sobre contratação pública de bens e serviços artesanais.",
+      "data": "2026-06-30T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635883"
     }
   ],
   "discursos": [],

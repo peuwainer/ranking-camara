@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 46.1,
-  "rank": 5,
+  "score": 46.89,
+  "rank": 6,
   "proposicoes": [
     {
       "id": 2629559,
@@ -240,6 +240,15 @@
       "ementa": "Parecer do Relator, Dep. Capitão Alden (PL-BA), pela aprovação do PL 1515/26, com substitutivo.",
       "data": "2026-06-24T10:05",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634997"
+    },
+    {
+      "id": 2635759,
+      "tipo": "PL",
+      "numero": 3371,
+      "ano": 2026,
+      "ementa": "Institui mecanismos de proteção da produção agropecuária nacional nos procedimentos de defesa comercial e estabelece critérios para a suspensão ou modificação de medidas antidumping e compensatórias aplicáveis a produtos agropecuários.",
+      "data": "2026-06-30T19:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635759"
     }
   ],
   "discursos": [

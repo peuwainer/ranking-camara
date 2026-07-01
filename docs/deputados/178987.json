@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178987.jpg",
-  "score": 31.24,
-  "rank": 44,
+  "score": 32.39,
+  "rank": 37,
   "proposicoes": [
     {
       "id": 2631190,
@@ -24,9 +24,26 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2635733,
+      "tipo": "PL",
+      "numero": 3366,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Eliminação Progressiva do Fósforo e dos Fosfatos em Produtos de Limpeza e Detergentes, estabelece medidas de prevenção da eutrofização dos corpos hídricos, fortalece a segurança hídrica nacional, incentiva a inovação tecnológica sustentável e dá outras providências.",
+      "data": "2026-06-30T18:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635733"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-06-30T17:56",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ORLANDO SILVA (Bloco/PCdoB - SP. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu venho a esta tribuna celebrar a aprovação na Comissão de Constituição e Justiça ",
+      "transcricao": "O SR. ORLANDO SILVA (Bloco/PCdoB - SP. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, eu venho a esta tribuna celebrar a aprovação na Comissão de Constituição e Justiça e de Cidadania de um projeto de lei de que eu tive a honra de ser o Relator, que veda o ensino a distância para os cursos da área de saúde. É evidente que nós temos que fazer com que as novas tecnologias sejam aliadas na formação dos nossos estudantes. É evidente que as novas tecnologias são fundamentais para a difusão de ciência, de cultura, para a conexão de pessoas, para estimular a atividade econômica. Agora, nós temos que ter parâmetros para a operação dessas novas tecnologias. Não é razoável que um curso da área de saúde, por exemplo, enfermagem, ou fisioterapia, ou fonoaudiologia, ou tantos outros cursos, mesmo o curso de medicina veterinária, tenha uma carga horária a partir de ensino a distância, diminuindo a importância da experiência, do treinamento, do contato físico, que é tão essencial para a formação desses graduandos nos diversos cursos das ciências da saúde. Por isso, eu fiquei feliz que houve uma composição política que uniu uma grande parte da CCJ  partidos de direita, partidos de esquerda, partidos de centro , todo mundo entendendo que é fundamental priorizar a boa formação dos nossos estudantes da área de saúde. Quero saudar, Presidente, o Fórum dos Conselhos, que reúne 14 carreiras e que, em todo esse processo, teve um papel muito ativo, comissão por comissão, discutindo com Deputados e Deputadas. E agora, na fase final da CCJ, também foi muito importante. O Presidente Leur Lomanto Júnior foi sensível ao pleito que nós fizemos, pautou a discussão. Houve uma discussão calorosa, intensa, acalorada e, na conclusão, conseguimos votar finalmente este projeto. Nós esperamos que a Câmara o encaminhe rapidamente ao Senado Federal e que nós possamos celebrar essa conquista da universidade brasileira, essa conquista da sociedade brasileira. Na medida em que nós temos uma melhor qualificação de profissionais na área de saúde, nós temos melhor qualidade nos serviços prestados na área de saúde e, desse modo, limitando o ensino a distância para os cursos da área de saúde, nós vamos proteger também os profissionais que são formados. Imagine que poderíamos ter profissionais de primeira e de segunda categoria. Imagina, você vai fazer uma consulta, vai ser atendido por um fisioterapeuta e vai se perguntar: \"Mas foi formado a distância ou presencialmente?\" É claro que, aqui e acolá, em uma disciplina ou outra, você pode usar recursos tecnológicos, mas o padrão deve ser o curso presencial. Esse é o recado que a Câmara dos Deputados deu: garantir excelência na formação dos profissionais de saúde, aqueles que cuidam do SUS, que cuidam da saúde do povo brasileiro. E eu espero que esse projeto de lei tenha sua tramitação concluída rapidamente, porque ele é terminativo na CCJ. E eu espero que ninguém tente um golpe de impedir que ele siga direto para o Senado. Se houver algum mal-intencionado que apresente o recurso, vamos derrotá-lo no Plenário para que o Senado conclua esse processo, garantindo excelência na formação dos profissionais de saúde. Concluo agradecendo todos os conselhos profissionais, os sindicatos de trabalhadores que se envolveram nesse processo e todos os Deputados e Deputadas que, nas diversas Comissões e na CCJ, votaram favoravelmente a esta proposta. Ganha a saúde brasileira e ganham os profissionais de saúde, formados presencialmente nas nossas universidades. Peço, Sr. Presidente, a divulgação deste pronunciamento nos meios de comunicação da Casa."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",

@@ -4,10 +4,36 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/154700.jpg",
-  "score": 12.96,
-  "rank": 440,
-  "proposicoes": [],
+  "score": 14.95,
+  "rank": 410,
+  "proposicoes": [
+    {
+      "id": 2635858,
+      "tipo": "PL",
+      "numero": 3374,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 - Código Penal, para tipificar o crime de corrupção sistêmica.",
+      "data": "2026-06-30T19:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635858"
+    },
+    {
+      "id": 2635859,
+      "tipo": "PL",
+      "numero": 3375,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Justiça Hídrica e Compensação pelo Saneamento – PROJUSAN, cria o Fundo Nacional de Recuperação e Compensação Hídrica – FUNRICH, e dá outras providências.",
+      "data": "2026-06-30T19:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635859"
+    }
+  ],
   "discursos": [
+    {
+      "data": "2026-06-30T16:16",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. PAULO SOARES (Bloco/PODE - SP. Sem revisão do orador.) - Presidente e todos que nos acompanham, boa tarde. Eu venho da região central do Estado de São Paulo, que tem sofrido demais com os proble",
+      "transcricao": "O SR. PAULO SOARES (Bloco/PODE - SP. Sem revisão do orador.) - Presidente e todos que nos acompanham, boa tarde. Eu venho da região central do Estado de São Paulo, que tem sofrido demais com os problemas dos hospitais filantrópicos. Estou aqui hoje a pedido do Hospital e Maternidade São José, da importante cidade de Barra Bonita, que está sofrendo de maneira profunda. É muito grave o que acontece neste momento no Hospital e Maternidade São José. Eu acabo de receber um comunicado da direção de que, a partir de amanhã, o pronto atendimento estará com as portas fechadas, ou seja, atendendo apenas referenciado. A grande questão é que o Município não possui uma Unidade de Pronto Atendimento  UPA ou outra porta de pronto atendimento. Como é que vai ficar a situação dessa população? Digo mais, em termos regionalizados, a população será obrigada a procurar o pronto-socorro da Santa Casa de Jahu, que já está sobrecarregado. Nós temos feito um trabalho nos últimos 3 anos de fortalecimento da saúde regional, mas está faltando o investimento chegar aonde precisa. Até quando o hospital filantrópico vai ter que passar o chapéu pedindo bênção para político? O hospital precisa ser pago pelo atendimento prestado e ponto final. Eu estou ingressando, inclusive, com um projeto de lei nesse sentido, logo nos próximos dias, para que a atualização da Tabela SUS seja a contento, para que ela acompanhe as despesas hospitalares. Não dá para continuar da maneira como estamos. No final do ano passado, evitamos o fechamento da Santa Casa de Jahu. Será que a gente vai conseguir evitar agora o fechamento do pronto atendimento do Hospital São José, em Barra Bonita, ou o pior vai acontecer? Eu tenho visitado os hospitais. Existem hospitais menores em Bocaina, Bariri, Dois Córregos, Pederneiras, Brotas, Municípios que podem acolher esse atendimento a partir de uma descentralização. E, para isso, é necessário que tenhamos pelo menos um pequeno investimento: um raio-x, um ultrassom, uma contratação de mão de obra. É um absurdo que a nossa população fique refém de uma situação tão vulnerável! O nosso trabalho sempre será feito aqui. Ao longo dos últimos meses, com o apoio de Deputados parceiros, nós conseguimos investimentos para alguns desses hospitais, como a Santa Casa de Bariri, mas ainda é pouco. É por isso que eu não me canso de batalhar pela saúde pública no coração do Estado de São Paulo. Para o senhor ter uma ideia, Presidente e pessoal que nos acompanha neste momento, o último hospital inaugurado naquela região, que é uma das que mais geram impostos no Brasil, foi há mais de 20 anos, o Hospital Estadual de Bauru. O pronto atendimento fica superlotado pela falta de leitos. A partir de agora, Barra Bonita pode deixar de ter o seu pronto atendimento, porque não deu certo a conversa na renovação de contrato com a Prefeitura. Com recursos municipais, estaduais, federais  seja de onde for o recurso , o importante é que a gente possa salvar os hospitais filantrópicos, as Santas Casas e os demais que prestam atendimento fundamental. Obrigado, Sr. Presidente. Eu peço, se possível, que este discurso seja transmitido no programa A Voz do Brasil como um apelo ao nosso País pela salvação dos hospitais filantrópicos."
+    },
     {
       "data": "2026-06-16T17:12",
       "fase": "Breves Comunicações",

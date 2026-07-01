@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg",
-  "score": 37.5,
-  "rank": 12,
+  "score": 41.99,
+  "rank": 8,
   "proposicoes": [
     {
       "id": 2629796,
@@ -168,6 +168,51 @@
       "ementa": "Institui o Estatuto de Defesa do Trabalhador, estabelece normas gerais de proteção contra abusos, atraso salarial, assédio moral, violência laboral, retaliação, discriminação e precarização fraudulenta nas relações de trabalho, altera a Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e dá outras providências.",
       "data": "2026-06-17T18:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633632"
+    },
+    {
+      "id": 2635753,
+      "tipo": "PL",
+      "numero": 3369,
+      "ano": 2026,
+      "ementa": "Institui a Lei Retorno Justo Territorial, cria a Política Nacional de Retorno Socioeconômico Territorial em Grandes Empreendimentos de Impacto Socioambiental, estabelece diretrizes para contratação territorial qualificada, percentual mínimo prioritário de vagas em refinarias, complexos petroquímicos, terminais de combustíveis e empreendimentos correlatos, institui o Fundo Soberano Territorial de Desenvolvimento, Educação e Qualificação Profissional, dispõe sobre investimento em educação pública, formação e valorização de professores nas áreas impactadas, e dá outras providências.",
+      "data": "2026-06-30T19:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635753"
+    },
+    {
+      "id": 2635761,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a criação do Cadastro Nacional Unificado de Pessoas com Necessidade de Cão de Serviço (CANECS) e da Identidade de Acesso Nacional (IAN), e estabelece normas para o reconhecimento do direito de acesso e embarque com cão de serviço em transportes coletivos.",
+      "data": "2026-06-30T19:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635761"
+    },
+    {
+      "id": 2635839,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, para disciplinar o recolhimento e guarda de animais soltos nas vias terrestres abertas à circulação.",
+      "data": "2026-06-30T19:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635839"
+    },
+    {
+      "id": 2635863,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre direitos dos consumidores do setor aéreo, tratando do direito de arrependimento na compra de passagens aéreas, alterações de voos, cancelamentos e responsabilidade das companhias aéreas em casos de alteração ou cancelamento, e dá outras providências.",
+      "data": "2026-06-30T19:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635863"
+    },
+    {
+      "id": 2635877,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.503, de 1997, que institui o Código de Trânsito Brasileiro, para agravar as penalidades aos condutores que dirigirem sob influência de álcool.",
+      "data": "2026-06-30T20:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635877"
     }
   ],
   "discursos": [],

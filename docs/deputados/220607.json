@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220607.jpg",
-  "score": 24.87,
-  "rank": 91,
+  "score": 27.56,
+  "rank": 71,
   "proposicoes": [
     {
       "id": 2631190,
@@ -33,6 +33,33 @@
       "ementa": "Dispõe sobre o reconhecimento da profissão de Trabalhador por Aplicativo, define suas categorias e estabelece a emissão de identificação profissional.",
       "data": "2026-06-23T09:50",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634703"
+    },
+    {
+      "id": 2635758,
+      "tipo": "PL",
+      "numero": 3370,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a destinação de parcela da arrecadação proveniente da exploração de apostas de quota fixa (Bets) para o financiamento de medicamentos e tratamentos destinados às pessoas com doenças raras e dá outras providências.",
+      "data": "2026-06-30T19:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635758"
+    },
+    {
+      "id": 2635776,
+      "tipo": "PL",
+      "numero": 3372,
+      "ano": 2026,
+      "ementa": "Institui as Feiras Livres Tradicionais de todo o território nacional como Patrimônio Cultural Imaterial Brasileiro e dá outras providências.",
+      "data": "2026-06-30T19:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635776"
+    },
+    {
+      "id": 2635862,
+      "tipo": "PL",
+      "numero": 3376,
+      "ano": 2026,
+      "ementa": "Institui a obrigatoriedade da criação de Espaços Públicos Físicos para Atendimento Especializado à Pessoa Idosa nos órgãos públicos e dá outras providências.",
+      "data": "2026-06-30T19:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635862"
     }
   ],
   "discursos": [],

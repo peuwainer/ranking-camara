@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74374.jpg",
-  "score": 29.76,
-  "rank": 52,
+  "score": 30.66,
+  "rank": 51,
   "proposicoes": [
     {
       "id": 2630225,
@@ -69,6 +69,15 @@
       "ementa": "Autoriza e estabelece diretrizes para criação do Programa de Incentivo ao Empreendedorismo da Pessoa Idosa “Empreender 60+”, e dá outras providências.",
       "data": "2026-06-24T12:29",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635080"
+    },
+    {
+      "id": 2635693,
+      "tipo": "PL",
+      "numero": 3363,
+      "ano": 2026,
+      "ementa": "Projeto de Lei que altera a Lei nº 8.080, para disciplinar o fornecimento de medicamentos incretinomiméticos registrados na ANVISA não incorporados ao SUS",
+      "data": "2026-06-30T17:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635693"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178993.jpg",
-  "score": 21.11,
-  "rank": 169,
+  "score": 22.01,
+  "rank": 161,
   "proposicoes": [
     {
       "id": 2632628,
@@ -15,6 +15,15 @@
       "ementa": "",
       "data": "2026-06-16T13:13",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632628"
+    },
+    {
+      "id": 2635504,
+      "tipo": "PL",
+      "numero": 3332,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Capacitação em Inovação Tecnológica para a Rastreabilidade Bovina Individual na Agricultura Familiar e nas Pequenas Propriedades Rurais – PNCIT.",
+      "data": "2026-06-30T12:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635504"
     }
   ],
   "discursos": [],

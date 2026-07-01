@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236284.jpg",
-  "score": 17.85,
-  "rank": 311,
+  "score": 19.65,
+  "rank": 237,
   "proposicoes": [
     {
       "id": 2635102,
@@ -15,6 +15,24 @@
       "ementa": "Dispõe sobre a redução gradual da duração normal do trabalho no âmbito das microempresas e empresas de pequeno porte, estabelece regras especiais de organização da jornada e do repouso semanal para determinadas atividades econômicas, institui o Programa Nacional de Redução da Jornada de Trabalho (PNRJT) e institui crédito fiscal de adaptação à redução da jornada de trabalho.",
       "data": "2026-06-24T13:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635102"
+    },
+    {
+      "id": 2635488,
+      "tipo": "PL",
+      "numero": 3329,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 1.521, de 26 de dezembro de 1951, para dispor sobre as penas aplicáveis ao crime de usura, instituir mecanismos nacionais de prevenção, denúncia, proteção às vítimas e combate às organizações criminosas que explorem crédito ilegal e os efeitos da condenação.",
+      "data": "2026-06-30T11:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635488"
+    },
+    {
+      "id": 2635510,
+      "tipo": "PL",
+      "numero": 3333,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a transferência da titularidade de bilhetes de transporte aéreo de passageiros, estabelece direitos dos consumidores, deveres das transportadoras aéreas e dá outras providências.",
+      "data": "2026-06-30T12:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635510"
     }
   ],
   "discursos": [],

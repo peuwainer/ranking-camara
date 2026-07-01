@@ -4,7 +4,7 @@
   "partido": "REPUBLICANOS",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220543.jpg",
-  "score": 40.97,
+  "score": 42.71,
   "rank": 7,
   "proposicoes": [
     {
@@ -87,9 +87,34 @@
       "ementa": "Ementa: Altera a Lei nº 7.565, de 19 de dezembro de 1986 (Código Brasileiro de Aeronáutica), para dispor sobre o cancelamento gratuito de passagens aéreas em casos de força maior na forma em que especifica.",
       "data": "2026-06-23T10:36",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634734"
+    },
+    {
+      "id": 2635491,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Conectividade Aérea da Amazônia Legal, estabelece mecanismos de compensação dos impactos da transição tributária sobre o transporte aéreo regional, cria instrumentos de equalização tarifária, garantia de oferta e incentivo à operação de rotas estratégicas, e dá outras providências.",
+      "data": "2026-06-30T11:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635491"
+    },
+    {
+      "id": 2635744,
+      "tipo": "PL",
+      "numero": 3368,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.634, de 27 de dezembro de 2007, para estabelecer diretrizes para a disponibilização digital de informações relativas ao acompanhamento da gestação, do parto e do puerpério no âmbito do Sistema Único de Saúde.",
+      "data": "2026-06-30T18:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635744"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-06-30T13:55",
+      "fase": "Encerramento",
+      "tipo": "DISCURSO ENCAMINHADO",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO RICARDO AYRES (SEM REGISTRO TAQUIGRÁFICO). O Sr. RICARDO AYRES (REPUBLICANOS-TO) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO RICARDO AYRES (SEM REGISTRO TAQUIGRÁFICO). O Sr. RICARDO AYRES (REPUBLICANOS-TO) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Deputados, Subo a esta tribuna para registrar a aprovação do Projeto de Lei nº 3.083, de 2012, de autoria do Senador Antonio Carlos Valadares, proposição que tive a honra de relatar na Comissão de Constituição e Justiça e de Cidadania. A matéria promove importante aperfeiçoamento na legislação do Imposto sobre a Propriedade Territorial Rural (ITR), ao reconhecer a realidade enfrentada por produtores rurais atingidos por situações de calamidade pública. O projeto estabelece que as áreas comprovadamente afetadas por secas, enchentes, geadas ou outros eventos que resultem em frustração de safras ou destruição de pastagens sejam consideradas como efetivamente utilizadas para fins de apuração do ITR. Trata-se de uma correção necessária para evitar que produtores já prejudicados por desastres naturais sofram, também, consequências tributárias incompatíveis com a realidade enfrentada. A proposta é pautada pelo bom senso e pela justiça fiscal. O produtor rural não deixa de utilizar sua propriedade por escolha própria. Ao contrário, continua investindo, produzindo, gerando empregos e contribuindo para o desenvolvimento econômico do País. Quando a produção é comprometida por circunstâncias alheias à sua vontade, é dever do Estado reconhecer essa excepcionalidade. Importante destacar que o projeto não cria benefícios indiscriminados. A aplicação da medida depende da comprovação da calamidade pública e dos danos efetivamente sofridos, preservando a segurança jurídica e garantindo a correta aplicação da legislação tributária. A matéria ganha ainda mais relevância diante do aumento da frequência dos eventos climáticos extremos observados em diversas regiões do Brasil. É fundamental que nossas leis estejam preparadas para responder a essas situações, assegurando tratamento justo aos contribuintes e evitando o agravamento de dificuldades já enfrentadas pelo setor produtivo. Senhoras e Senhores, A aprovação deste projeto reafirma o compromisso do Parlamento com a construção de normas mais equilibradas, razoáveis e compatíveis com a realidade do campo brasileiro. Trata-se de um avanço importante para a segurança jurídica, para a justiça tributária e para o fortalecimento de um setor essencial ao desenvolvimento nacional. Muito obrigado."
+    },
     {
       "data": "2026-06-17T13:55",
       "fase": "Encerramento",

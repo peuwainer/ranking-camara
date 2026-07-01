@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
-  "score": 25.05,
-  "rank": 89,
+  "score": 26.85,
+  "rank": 76,
   "proposicoes": [
     {
       "id": 2630557,
@@ -60,6 +60,24 @@
       "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para explicitar a aplicação do regime de autorização judicial às atividades de criação de conteúdo digital com finalidade econômica realizadas por crianças e adolescentes.",
       "data": "2026-06-24T12:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635088"
+    },
+    {
+      "id": 2635479,
+      "tipo": "SBT",
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Inclui Art. 19-V na Lei nº 8.080, de 19 de setembro de 1990, que \"Dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências\", para disciplinar a dispensação de medicamentos biossimilares pelo Sistema Único de Saúde (SUS), em substituição aos medicamentos biológicos originadores.",
+      "data": "2026-06-30T11:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635479"
+    },
+    {
+      "id": 2635750,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-06-30T19:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635750"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RN",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/213762.jpg",
-  "score": 23.66,
-  "rank": 116,
+  "score": 25.35,
+  "rank": 92,
   "proposicoes": [
     {
       "id": 2629912,
@@ -15,6 +15,24 @@
       "ementa": "Altera a Lei nº 11.664, de 29 de abril de 2008, para fortalecer ações de prevenção, rastreamento, diagnóstico precoce e monitoramento do câncer de colo do útero, com foco em equidade e acesso no SUS.",
       "data": "2026-06-02T14:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629912"
+    },
+    {
+      "id": 2635559,
+      "tipo": "PL",
+      "numero": 3340,
+      "ano": 2026,
+      "ementa": "Institui a Carteira Nacional do Cuidador Familiar Atípico (CCFA), estabelece direitos, diretrizes de proteção social, mecanismos de identificação e apoio às pessoas responsáveis pelo cuidado permanente de pessoas com deficiência, transtornos do neurodesenvolvimento, doenças raras, condições incapacitantes ou outras situações que demandem apoio continuado, cria o Cadastro Nacional dos Cuidadores Familiares Atípicos e dá outras providências.",
+      "data": "2026-06-30T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635559"
+    },
+    {
+      "id": 2635695,
+      "tipo": "PL",
+      "numero": 3364,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Educação para a Integridade e Promoção da Cidadania.",
+      "data": "2026-06-30T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635695"
     }
   ],
   "discursos": [
