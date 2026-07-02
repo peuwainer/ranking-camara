@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 50.1,
-  "rank": 4,
+  "score": 50.73,
+  "rank": 3,
   "proposicoes": [
     {
       "id": 2629635,
@@ -357,6 +357,24 @@
       "ementa": "Altera a Lei nº 14.818, de 16 de janeiro de 2024, para incorporar critérios de equidade territorial na execução do Programa Pé de Meia, com foco em estudantes residentes em áreas rurais, ribeirinhas, fluviais e de difícil acesso da Amazônia Legal.",
       "data": "2026-06-26T13:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635400"
+    },
+    {
+      "id": 2636141,
+      "tipo": "PL",
+      "numero": 3401,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Equalização Logística do Comércio em Áreas Remotas – ELO BRASIL, estabelece mecanismos de compensação de custos logísticos para micro e pequenas empresas, e dá outras providências.",
+      "data": "2026-07-01T12:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636141"
+    },
+    {
+      "id": 2636224,
+      "tipo": "PL",
+      "numero": 3409,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional Meninas Fortes, destinada à prevenção da violência contra meninas e adolescentes, à promoção da autonomia feminina, à proteção em ambientes físicos e digitais, ao fortalecimento da segurança preventiva e do protagonismo feminino, e dá outras providências.",
+      "data": "2026-07-01T15:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636224"
     }
   ],
   "discursos": [],

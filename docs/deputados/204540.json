@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204540.jpg",
-  "score": 22.17,
-  "rank": 158,
-  "proposicoes": [],
+  "score": 21.95,
+  "rank": 142,
+  "proposicoes": [
+    {
+      "id": 2636137,
+      "tipo": "PL",
+      "numero": 3398,
+      "ano": 2026,
+      "ementa": "Altera a Lei n° 13.935, de 11 de dezembro de 2019, e a Lei n° 14.819 de 16 de janeiro de 2024, para dispor sobre a inclusão de psicopedagogo nas equipes interdisciplinares de atenção psicossocial das comunidades escolares.",
+      "data": "2026-07-01T12:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636137"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

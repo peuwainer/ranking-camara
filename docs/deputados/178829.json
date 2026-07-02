@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
-  "score": 25.28,
-  "rank": 93,
+  "score": 24.42,
+  "rank": 97,
   "proposicoes": [
     {
       "id": 2629812,
@@ -42,6 +42,15 @@
       "ementa": "Institui a Declaração Pública de Posicionamento Partidário, o Termo de Adesão Programática e o Portal Nacional de Transparência Partidária; e dá outras providências.",
       "data": "2026-06-26T15:48",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635416"
+    },
+    {
+      "id": 2636564,
+      "tipo": "PL",
+      "numero": 3431,
+      "ano": 2026,
+      "ementa": "Reconhece o Lions Club do Brasil como Patrimônio Cívico-Social Nacional, em razão de sua histórica contribuição humanitária, educacional e comunitária.",
+      "data": "2026-07-01T19:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636564"
     }
   ],
   "discursos": [],

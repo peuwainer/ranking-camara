@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220635.jpg",
-  "score": 21.2,
-  "rank": 172,
+  "score": 23.55,
+  "rank": 111,
   "proposicoes": [
     {
       "id": 2630583,
@@ -42,6 +42,42 @@
       "ementa": "Estabelece normas de sustentabilidade, durabilidade e direito ao reparo em dispositivos eletrônicos portáteis e dá outras providências",
       "data": "2026-06-17T18:17",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633642"
+    },
+    {
+      "id": 2636477,
+      "tipo": "PL",
+      "numero": 3420,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para assegurar simetria entre os procedimentos de contratação e de cancelamento de serviços de prestação continuada.",
+      "data": "2026-07-01T17:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636477"
+    },
+    {
+      "id": 2636478,
+      "tipo": "PL",
+      "numero": 3421,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a suficiência probatória da Carteira de Identidade Nacional (CIN) com a simbologia de Pessoa com Deficiência (PCD) para o exercício de direitos legalmente assegurados à pessoa com deficiência.",
+      "data": "2026-07-01T17:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636478"
+    },
+    {
+      "id": 2636479,
+      "tipo": "PL",
+      "numero": 3422,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito de ingresso e permanência de pessoa com deficiência ou condição de saúde grave, acompanhada de cão e/ou gato de suporte emocional, em meios de transporte e em ambientes de uso coletivo, públicos ou privados, e dá outras providências.",
+      "data": "2026-07-01T17:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636479"
+    },
+    {
+      "id": 2636480,
+      "tipo": "PL",
+      "numero": 3423,
+      "ano": 2026,
+      "ementa": "Institui o Documento Nacional de Identificação do Cuidador Atípico (DNICA) e estabelece medidas para o reconhecimento, a proteção e o apoio a cuidadores principais de pessoas com deficiência, transtornos do neurodesenvolvimento ou doenças raras, em âmbito nacional.",
+      "data": "2026-07-01T17:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636480"
     }
   ],
   "discursos": [],

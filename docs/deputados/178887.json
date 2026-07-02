@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178887.jpg",
-  "score": 23.24,
-  "rank": 135,
+  "score": 41.19,
+  "rank": 9,
   "proposicoes": [
     {
       "id": 2631190,
@@ -24,9 +24,169 @@
       "ementa": "Inclui os representantes comerciais autônomos entre os beneficiários das linhas de financiamento do Programa Move Brasil, instituído pela Medida Provisória nº 1.359, de 19 de maio de 2026, destinadas à aquisição de veículos novos utilizados como instrumento de trabalho.",
       "data": "2026-06-23T09:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634706"
+    },
+    {
+      "id": 2636035,
+      "tipo": "PL",
+      "numero": 3380,
+      "ano": 2026,
+      "ementa": "Institui o Fundo Nacional da Agricultura Familiar (FNAF), dispõe sobre os critérios de transferência automática e obrigatória de recursos financeiros aos Estados, ao Distrito Federal e aos Municípios, cria contribuição sobre exportações de commodities agrícolas, altera a Lei nº 8.212, de 24 de julho de 1991, a Lei nº 10.833, de 29 de dezembro de 2003, a Lei nº 15.223, de 30 de setembro de 2025, e a Lei Complementar nº 101, de 4 de maio de 2000, e dá outras providências.",
+      "data": "2026-07-01T10:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636035"
+    },
+    {
+      "id": 2636037,
+      "tipo": "PLP",
+      "numero": 189,
+      "ano": 2026,
+      "ementa": "Autoriza, com fundamento no art. 163 e no art. 167, incisos VIII e IX, da Constituição Federal, a utilização de recursos dos orçamentos fiscal e da seguridade social para a constituição e a manutenção do Fundo Soberano do Brasil – FSB; institui o Regime de Poupança Pública Intergeracional; estabelece sua governança, fontes de recursos, política de investimentos, regra fiscal de utilização dos resultados, transparência e controle; e dá outras providências.",
+      "data": "2026-07-01T10:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636037"
+    },
+    {
+      "id": 2636038,
+      "tipo": "PL",
+      "numero": 3381,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a vedação da utilização de recursos públicos vinculados à educação básica e à saúde para o custeio de agentes de segurança pública e para o repasse a empresas privadas na gestão de instituições públicas de ensino e saúde; altera a Lei nº 14.113, de 25 de dezembro de 2020 (Fundeb), e a Lei nº 9.394, de 20 de dezembro de 1996 (LDB); e estabelece sanções administrativas e de responsabilidade fiscal para os entes federativos descumpridores.",
+      "data": "2026-07-01T10:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636038"
+    },
+    {
+      "id": 2636044,
+      "tipo": "PL",
+      "numero": 3382,
+      "ano": 2026,
+      "ementa": "Regulamenta o uso de automação, algoritmos e inteligência artificial em processos de fiscalização e na lavratura de autos de infração por órgãos e agências reguladoras federais; proíbe autuação unicamente fundamentada em decisão automatizada; exige revisão humana qualificada anterior à autuação formal; impõe obrigações de transparência, auditabilidade e notificação preventiva ao administrado; institui comitê consultivo para validação e acompanhamento de modelos; determina a publicação anual de indicadores de qualidade das fiscalizações assistidas por automação; disciplina sanções administrativas em caso de uso indevido; altera dispositivos das Leis nº 9.784/1999, nº 12.527/2011 e nº 13.709/2018; e dá outras providências.",
+      "data": "2026-07-01T10:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636044"
+    },
+    {
+      "id": 2636046,
+      "tipo": "PL",
+      "numero": 3383,
+      "ano": 2026,
+      "ementa": "Estabelece rito prioritário e prazos máximos para julgamento de temas reconhecidos como de repercussão geral pelo Supremo Tribunal Federal e de afetação da sistemática de recursos repetitivos pelo Superior Tribunal de Justiça; disciplina a conclusão do juízo de conformação e a modulação de efeitos nas instâncias ordinárias; cria a Força?Tarefa Nacional de Uniformização Jurisprudencial para acompanhamento, transparência e suporte técnico à implementação imediata das decisões, e dispõe sobre medidas administrativas de alocação de recursos e uso de tecnologia processual para casos de massa.",
+      "data": "2026-07-01T10:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636046"
+    },
+    {
+      "id": 2636048,
+      "tipo": "PL",
+      "numero": 3384,
+      "ano": 2026,
+      "ementa": "Veda a utilização direta ou indireta de ativos, reservas, participações e receitas vinculadas aos Regimes Próprios de Previdência Social (RPPS) e fundos previdenciários para integralização de capital, reestruturação financeira ou cobertura de perdas de instituições financeiras públicas ou sociedades de economia mista, salvo autorização do Congresso Nacional; exige estudos prévios (laudo atuarial e estudo de impacto financeiro independentes), assegura direito de preferência e mecanismos de proteção contra diluição, disciplina a vinculação de receitas de securitização, impõe comunicação prévia e autorização do Tribunal de Contas e do Ministério Público, estabelece regras de transparência, responsabilização administrativa, civil e penal para gestores e administradores, e dispõe sobre aplicação, competência fiscalizadora e disposições transitórias.",
+      "data": "2026-07-01T10:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636048"
+    },
+    {
+      "id": 2636049,
+      "tipo": "PL",
+      "numero": 3385,
+      "ano": 2026,
+      "ementa": "Estabelece normas de proteção e transparência para oferta de crédito a consumidores de baixa renda e sem histórico financeiro; obriga divulgação padronizada do Custo Efetivo Total (CET) e do valor total a pagar em linguagem acessível; proíbe a capitalização automática de juros e taxas punitivas imprevisíveis; limita penalidades por atraso; prevê regime de flexibilização contratual para renda flutuante; reconhece e incentiva modelos alternativos de avaliação de crédito (sandbox regulatório e linhas públicas de apoio); protege consumidores de créditos vinculados a dispositivos digitais (vedação de bloqueio remoto sem aviso e alternativas de renegociação); impõe dever de oferta de renegociação simplificada e de encaminhamento para educação financeira; estabelece fiscalização e sanções para práticas predatórias; e dá outras providências.",
+      "data": "2026-07-01T10:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636049"
+    },
+    {
+      "id": 2636052,
+      "tipo": "PL",
+      "numero": 3386,
+      "ano": 2026,
+      "ementa": "Institui o Procedimento Administrativo Prévio com Tentativa de Conciliação Eletrônica (PAPCE) como requisito de interesse de agir para o ajuizamento de ações contra a Administração Pública em matérias específicas, cria a Plataforma Nacional de Conciliação, e dispõe sobre assistência jurídica para vulneráveis, transparência e alteração da legislação correlata.",
+      "data": "2026-07-01T10:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636052"
+    },
+    {
+      "id": 2636054,
+      "tipo": "PL",
+      "numero": 3387,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Acesso Equitativo à Inovação em Saúde (PNAEIS) para incorporação acelerada e descentralizada de tecnologias prioritárias no âmbito do SUS, estabelece critérios de priorização e procedimento fast?track regulatório e administrativo, cria incentivos a parcerias público?privadas e centros regionais de diagnóstico, fortalece atenção básica e telemedicina com metas regionais, obriga avaliação de impacto em equidade pré?contratação, determina transparência e monitoramento por painel público regionalizado e dispõe sobre governança, financiamento e vigilância do programa.",
+      "data": "2026-07-01T10:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636054"
+    },
+    {
+      "id": 2636055,
+      "tipo": "PL",
+      "numero": 3388,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Parcerias para Inovação (PNPI), disciplina a vinculação de parcela dos recursos do Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT) para subvenções econômicas não reembolsáveis, financiamentos reembolsáveis revolventes, financiamento e certificação de Escritórios de Transferência de Tecnologia (ETTs) em universidades públicas, criação de sandboxes regulatórios setoriais temporários, e medidas de simplificação administrativa para startups derivadas de pesquisa; estabelece metas públicas de indicadores de transferência tecnológica, governança tripartite e prazos mínimos de continuidade dos programas financiados; define disposições sobre governança, prestação de contas e fiscalização, e dá outras providências.",
+      "data": "2026-07-01T10:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636055"
+    },
+    {
+      "id": 2636059,
+      "tipo": "PL",
+      "numero": 3389,
+      "ano": 2026,
+      "ementa": "Proíbe visitas domiciliares não solicitadas por instituições financeiras, correspondentes bancários e seus prepostos a aposentados e pensionistas do INSS para oferta de crédito consignado; exige que qualquer oferta a esse grupo ocorra somente mediante comunicação prévia e expressa do consumidor (por escrito ou por meio eletrônico autorizado), com informação clara sobre custos e direito de arrependimento mínimo de 7 dias; estabelece presunção de abusividade e nulidade relativa dos contratos celebrados em domicílio sem observância das regras; obriga registro e identificação dos prepostos, gravação/registro de ofertas em contato remoto, cria regime sancionador administrativo e civil, determina competência do Banco Central, do INSS e dos órgãos de defesa do consumidor para fiscalização e dá outras providências.",
+      "data": "2026-07-01T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636059"
+    },
+    {
+      "id": 2636060,
+      "tipo": "PL",
+      "numero": 3390,
+      "ano": 2026,
+      "ementa": "Veda a inscrição de débitos juridicamente prescritos em cadastros de proteção ao crédito ou, subsidiariamente, autoriza inscrição somente mediante consentimento expresso e informado do consumidor; exige identificação clara da condição \"DÍVIDA PRESCRITA – NÃO PASSÍVEL DE COBRANÇA JUDICIAL\" nos casos consensuais, veda qualquer impacto negativo no score ou em condições contratuais, determina remoção imediata das inscrições indevidas mediante comprovação da prescrição, estabelece prazo máximo de 5 (cinco) dias úteis para correção pelas plataformas, institui regime sancionador administrativo e indenização automática por dano moral presumido em casos de inscrição irregular, disciplina comunicações de cobrança e medidas de proteção de dados, e dá outras providências.",
+      "data": "2026-07-01T10:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636060"
+    },
+    {
+      "id": 2636061,
+      "tipo": "PL",
+      "numero": 3391,
+      "ano": 2026,
+      "ementa": "Dispõe sobre medidas de verificação e proteção da livre manifestação de vontade em atos processuais e notariais que envolvam indícios de violência doméstica, familiar ou patrimonial; estabelece preferência por atos presenciais, procedimento reservado e documentado de verificação prévia quando realizados virtualmente, protocolo de sinalização discreta para acionamento da rede de proteção, obrigação de orientação sobre canais de apoio, capacitação periódica de operadores e sanções administrativas para o descumprimento; altera normas correlatas e dá outras providências.",
+      "data": "2026-07-01T10:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636061"
+    },
+    {
+      "id": 2636062,
+      "tipo": "PL",
+      "numero": 3392,
+      "ano": 2026,
+      "ementa": "Estabelece normas mínimas de segurança, governança, rastreabilidade e responsabilização para o uso de sistemas de inteligência artificial em procedimentos judiciais eletrônicos; obriga higienização de entrada, encapsulamento e pré?filtragem de documentos, registro de logs de rastreabilidade, adoção de contratos de resposta e prompting por etapas, supervisão humana qualificada, diagnósticos de risco, auditorias periódicas e medidas de proteção contra envenenamento de bases; impõe obrigação de comunicação de suspeita de prompt injection ao juízo, ao Conselho Nacional de Justiça (CNJ) e às autoridades competentes; prevê sanções administrativas, civis e penais quando cabíveis; fixa prazo máximo de implementação e confere competência de fiscalização ao CNJ; e dá outras providências.",
+      "data": "2026-07-01T10:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636062"
+    },
+    {
+      "id": 2636064,
+      "tipo": "PL",
+      "numero": 3393,
+      "ano": 2026,
+      "ementa": "Estabelece obrigatoriedade de registro público eletrônico detalhado de benefícios previdenciários pagos por entes federativos e autarquias de previdência (valor bruto, descontos autorizados com indicação da base legal e identificador do responsável), institui auditorias periódicas por órgãos de controle (TCU, CGU e Ministério Público), exige autorização expressa e comprovada do beneficiário para descontos não compulsórios, cria mecanismo administrativo célere de restituição de valores indevidamente descontados, agrava sanções administrativas e penais aplicáveis a agentes públicos e intermediários que promovam descontos não autorizados e institui canal protegido para denúncias e proteção a whistleblowers; disciplina regras de transparência, proteção de dados e responsabilização, e dá outras providências.",
+      "data": "2026-07-01T10:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636064"
+    },
+    {
+      "id": 2636065,
+      "tipo": "PL",
+      "numero": 3394,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a transparência, deveres de verificação, guarda de evidências e responsabilização no uso de sistemas de inteligência artificial na prática forense; impõe obrigação de declaração nos autos da utilização de IA e identificação do fornecedor; exige conservação de prompts, resultados e documentos auxiliares por prazo mínimo; prevê sanções processuais, civis e disciplinares escalonadas para uso doloso ou por negligência grave; determina regras de proteção de dados e segredo profissional, responsabilidade de regresso do advogado em caso de culpa ou dolo; obriga comunicação imediata de incidentes e institui programa público de capacitação em boas práticas em cooperação com a OAB; e dá outras providências.",
+      "data": "2026-07-01T10:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636065"
+    },
+    {
+      "id": 2636067,
+      "tipo": "PL",
+      "numero": 3395,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a valorização das vias administrativas de atendimento e solução de conflitos nas relações de consumo, exige demonstração, na forma e limites previstos, de prévia tentativa de solução extrajudicial por canal idôneo em ações individuais prestacionais fundadas em relação de consumo, regulamenta exceções, obriga manutenção de canais acessíveis e prazos máximos de resposta pelos fornecedores regulados, disciplina procedimento judicial sucinto para regularização de prova e estabelece regime de responsabilização administrativa por descumprimento.",
+      "data": "2026-07-01T10:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636067"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-07-01T13:55",
+      "fase": "Encerramento",
+      "tipo": "DISCURSO ENCAMINHADO",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO RUBENS PEREIRA JÚNIOR (SEM REGISTRO TAQUIGRÁFICO). Sr. Presidente, Sras. e Srs. Deputados, nos termos do Regimento Interno, e dada a impossibilidade d",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO RUBENS PEREIRA JÚNIOR (SEM REGISTRO TAQUIGRÁFICO). Sr. Presidente, Sras. e Srs. Deputados, nos termos do Regimento Interno, e dada a impossibilidade de leitura em plenário, solicito a V.Exa. que seja dado como lido, para efeito de registro nos Anais desta Casa, este discurso de minha autoria. Em um cenário de primeiro turno que já demonstra a vigorosa preferência do eleitorado por continuidade, a pesquisa AtlasIntel/Bloomberg, divulgada nesta quarta-feira, coloca o presidente Luiz Inácio Lula da Silva à frente com 46,3?% das intenções de voto, enquanto o senador Flávio Bolsonaro registra 36,6?%. O levantamento, baseado em 4.999 entrevistados, possui margem de erro de um ponto percentual e nível de confiança de 95?%, sendo registrado no TSE sob o número BR-04582/2026, o que confere ao dado robustez técnica e institucional. A liderança de Lula, que representa um avanço de 2,3 pontos percentuais em relação ao levantamento de abril, revela a consolidação de um amplo espectro de apoio. O petista mantém a vantagem entre os eleitores mais idosos, com 54,6?% de intenção de voto, e entre aqueles que possuem ensino superior, atingindo 50,6?%. Também se destaca nas camadas de renda familiar entre R$?5?mil e R$?10?mil (53?%) e acima de R$?10?mil (50,4?%). Regionalmente, o Nordeste demonstra o maior apoio, com 57,7?% de intenções para o presidente, enquanto 88,4?% dos eleitores que o escolheram em 2022 afirmam que repetirão o voto, sinal de fidelização que transcende simples preferência momentânea. No campo oposto, Flávio Bolsonaro consolida uma base de apoio notável entre os jovens de 25 a 34 anos, segmento que o favorece com 41,4?% de intenção de voto, e entre as camadas de renda de R$?2?mil a R$?5?mil, onde atinge 43,6?% e 43,5?% respectivamente. Seu desempenho entre evangélicos (42,9?%) e no Sudeste (42,6?%) indica que sua mensagem ressoa fortemente em setores que tradicionalmente buscam representação conservadora. Contudo, a queda de 2,4 pontos percentuais em relação ao levantamento anterior demonstra que, embora sólida, sua candidatura ainda enfrenta volatilidade e necessidade de ampliar o alcance. A análise dos percentuais dos demais candidatos  Renan Santos, Ronaldo Caiado, Romeu Zema e os menores nomes  revela que a dispersão do voto entre a oposição ainda é significativa, embora em declínio, passando de 4?% para 3,2?% no recorte de intenções. O aumento de eleitores indecisos ou que optam por brancos e nulos, que subiu de 0,4?% para 1,2?%, indica uma zona de oportunidade para que o governo consolide sua liderança ao apresentar propostas claras e concretas que atendam às demandas desses eleitores indecisos. O presidente Lula tem demonstrado, ao longo de seu mandato, um compromisso inabalável com a política social, a recuperação econômica e a reafirmação do Brasil no cenário internacional. Programas como o Bolsa Família, a ampliação do acesso à educação técnica e a política de incentivo à indústria nacional têm contribuído para a percepção de progresso entre os eleitores que o apoiam. Esses resultados da pesquisa reforçam a narrativa de que as medidas governamentais estão traduzindo-se em confiança popular, o que se reflete nas intenções de voto registradas. A trajetória de Flávio Bolsonaro, embora ainda robusta em certos grupos, evidencia a necessidade de que o partido no poder continue a articular políticas que atendam às aspirações de jovens e de setores econômicos que se sentem representados por sua proposta. A interlocução constante entre o Executivo e a sociedade civil, bem como a transparência nas decisões legislativas, são elementos essenciais para transformar a vantagem numérica em vitória efetiva no segundo turno. Em face da proximidade do segundo turno, a importância de manter a unidade institucional se torna evidente. O Congresso, os partidos aliados e a sociedade civil devem evitar fragmentações que possam gerar oportunidades para a polarização excessiva. O apoio ao presidente Lula, portanto, não se resume a uma simples adesão partidária, mas representa um compromisso com a estabilidade democrática, com a continuidade das reformas estruturais e com a proteção dos direitos sociais conquistados. A pesquisa também aponta que a confiança nas instituições eleitorais permanece alta, com 95?% de nível de confiança no processo, reforçando a legitimidade da disputa. Essa confiança, aliada à clareza dos números, obriga que se evite o sensacionalismo e se priorize o debate baseado em fatos, contribuindo para que o eleitorado tome decisões informadas e conscientes. O governo federal, ao observar o cenário, deve redobrar os esforços em políticas de inclusão, geração de empregos de qualidade e fortalecimento da educação, assegurando que o crescimento de Lula se traduza em desenvolvimento real e duradouro para todo o país. A?? de articular agenda econômica, social e ambiental de forma integrada será decisiva para consolidar a liderança já evidenciada nas urnas. Por fim, é imprescindível que os parlamentares, os dirigentes partidários e os cidadãos reconheçam a magnitude do mandato que se desenha. O resultado da pesquisa não é apenas um termômetro de preferências, mas um mandato de confiança que exige responsabilidade, diálogo e compromisso com o bem-estar de todos os brasileiros. Ao apoiar o presidente Lula, reforçamos a trajetória de progresso que já demonstrou seus resultados e garantimos que o Brasil continue avançando rumo a um futuro mais justo e próspero. Muito obrigado. Era o que tinha a dizer."
+    },
     {
       "data": "2026-06-30T13:55",
       "fase": "Encerramento",

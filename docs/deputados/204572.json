@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204572.jpg",
-  "score": 33.73,
-  "rank": 28,
+  "score": 30.3,
+  "rank": 47,
   "proposicoes": [
     {
       "id": 2631129,
@@ -60,9 +60,25 @@
       "ementa": "Estabelece limite máximo ao número de concessões de liberdade provisória ou de medidas cautelares diversas da prisão em audiências de custódia para indivíduos reincidentes, com o objetivo de proteger a segurança pública, coibir a reiteração criminosa e garantir maior efetividade à persecução penal.",
       "data": "2026-06-16T16:35",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632794"
+    },
+    {
+      "id": 2636410,
+      "tipo": "PLP",
+      "numero": 192,
+      "ano": 2026,
+      "ementa": "Altera o art. 4º da Lei Complementar nº 224, de 26 de dezembro de 2025, para explicitar o alcance da exceção prevista no inciso II do § 8º quanto aos benefícios fiscais relacionados ao regime especial da Zona Franca de Manaus.",
+      "data": "2026-07-01T16:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636410"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-07-01T13:55",
+      "fase": "Encerramento",
+      "tipo": "DISCURSO ENCAMINHADO",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO CAPITÃO ALBERTO NETO (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, Senhoras e Senhores Deputados Mais uma vez, a Zona Franca de Manaus é alvo de um ",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO CAPITÃO ALBERTO NETO (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, Senhoras e Senhores Deputados Mais uma vez, a Zona Franca de Manaus é alvo de um ataque disfarçado de tecnicalidade. A Receita Federal publicou a Nota Cosit/Sutri/RFB nº 141/2026, retirando da alíquota zero de PIS e Cofins as vendas destinadas à Zona Franca de Manaus, sob o argumento de que esse benefício não estaria protegido da redução linear instituída no novo regime de diminuição dos incentivos fiscais federais. Na prática, empresas de todo o Brasil que fornecem insumos, matérias-primas e mercadorias para o polo industrial de Manaus passam a pagar mais para vender para a nossa região. O efeito cascata é imediato: custo de produção mais alto, competitividade mais baixa, e o modelo que sustenta duzentos mil empregos diretos e indiretos no Amazonas colocado em risco por uma nota técnica, sem debate, sem Congresso, sem transparência. Não é a primeira vez. Já vimos a Receita Federal e as Fazendas estaduais tentarem, repetidas vezes, cobranças indevidas sobre operações destinadas à Zona Franca de Manaus. Agora é a vez de reinterpretar unilateralmente a extensão de um benefício que a própria Constituição assegura até 2073. A Zona Franca não é um favor da União: é um instrumento de integração nacional, de soberania sobre a Amazônia e de preservação ambiental, reconhecido pelo constituinte originário e reafirmado pela Emenda Constitucional que estendeu sua vigência. Toda interpretação que reduza esse benefício por via infralegal é uma tentativa de fazer pela caneta o que o Congresso e a Constituição já negaram. Chega de tratar o Amazonas como variável de ajuste fiscal. Cada vez que a arrecadação aperta em Brasília, alguém lembra que existe incentivo na Zona Franca de Manaus para cortar  e nunca lembra que existe floresta em pé, emprego gerado e desenvolvimento sustentável para preservar. Essa lógica é injusta com quem cumpre a legislação, investiu na região e gera resultado concreto para o país. Registro aqui que vou oficiar à Receita Federal e à Casa Civil pedindo a revisão imediata da Nota Cosit/Sutri/RFB nº 141/2026, vou acionar a bancada do Amazonas para atuação conjunta, e vou levar o tema ao debate no âmbito da regulamentação da Reforma Tributária, para que a proteção da Zona Franca de Manaus não fique sujeita a interpretações administrativas que a esvaziam por dentro. Continuaremos vigilantes e vamos combater, em todas as frentes  jurídica, legislativa e política , qualquer medida que ameace esse modelo estratégico para a economia, o emprego e o desenvolvimento sustentável da Amazônia. Muito obrigado. Solicito a divulgação deste discurso nos meios de comunicação da Câmara dos Deputados e no programa Voz do Brasil."
+    },
     {
       "data": "2026-06-30T13:55",
       "fase": "Encerramento",

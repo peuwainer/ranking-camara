@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220578.jpg",
-  "score": 24.21,
-  "rank": 110,
+  "score": 23.88,
+  "rank": 105,
   "proposicoes": [
     {
       "id": 2631190,
@@ -33,6 +33,15 @@
       "ementa": "Institui o Marco Nacional de Modernização Econômica e Simplificação Regulatória, com o objetivo de fortalecer a liberdade econômica, reduzir a burocracia, promover a transformação digital da administração pública, incentivar a inovação, ampliar a segurança jurídica e elevar a competitividade nacional.",
       "data": "2026-06-11T15:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631841"
+    },
+    {
+      "id": 2636431,
+      "tipo": "PLP",
+      "numero": 193,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 182, de 1º de junho de 2021, para ampliar o marco legal das startups e do empreendedorismo inovador de modo a abranger a economia digital, a inteligência artificial, a bioeconomia e as compras públicas inovadoras, nos termos que especifica.",
+      "data": "2026-07-01T16:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636431"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204501.jpg",
-  "score": 34.35,
-  "rank": 26,
+  "score": 36.83,
+  "rank": 16,
   "proposicoes": [
     {
       "id": 2630263,
@@ -42,6 +42,24 @@
       "ementa": "Acrescenta o artigo 359-K-A ao Decreto Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para tipificar o crime de Traição à Pátria.",
       "data": "2026-06-30T17:37",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635684"
+    },
+    {
+      "id": 2636140,
+      "tipo": "PL",
+      "numero": 3400,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, e a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para instituir medida de restrição ao acesso às plataformas de apostas de quota fixa por devedores inadimplentes de obrigação alimentar.",
+      "data": "2026-07-01T12:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636140"
+    },
+    {
+      "id": 2636164,
+      "tipo": "PL",
+      "numero": 3402,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.483, de 21 de setembro de 2017",
+      "data": "2026-07-01T12:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636164"
     }
   ],
   "discursos": [

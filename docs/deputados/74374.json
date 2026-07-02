@@ -4,7 +4,7 @@
   "partido": "UNIÃO",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74374.jpg",
-  "score": 30.66,
+  "score": 30.03,
   "rank": 51,
   "proposicoes": [
     {
@@ -78,6 +78,15 @@
       "ementa": "Projeto de Lei que altera a Lei nº 8.080, para disciplinar o fornecimento de medicamentos incretinomiméticos registrados na ANVISA não incorporados ao SUS",
       "data": "2026-06-30T17:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635693"
+    },
+    {
+      "id": 2636465,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Estabelece diretrizes para a inclusão das pessoas idosas em atividades esportivas.",
+      "data": "2026-07-01T17:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636465"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160758.jpg",
-  "score": 24.21,
-  "rank": 109,
+  "score": 23.88,
+  "rank": 104,
   "proposicoes": [
     {
       "id": 2631190,
@@ -33,6 +33,15 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2636138,
+      "tipo": "PLP",
+      "numero": 190,
+      "ano": 2026,
+      "ementa": "Institui a modalidade de Microempreendedor Individual Atípico (MEI Atípico), destinada a beneficiários do Benefício de Prestação Continuada e seus cuidadores, e altera a Lei nº 8.742, de 7 de dezembro de 1993.",
+      "data": "2026-07-01T12:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636138"
     }
   ],
   "discursos": [],

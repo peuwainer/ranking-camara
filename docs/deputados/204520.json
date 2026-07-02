@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204520.jpg",
-  "score": 20.95,
-  "rank": 182,
+  "score": 21.61,
+  "rank": 152,
   "proposicoes": [
     {
       "id": 2629601,
@@ -33,6 +33,24 @@
       "ementa": "Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, a Lei nº 9.029, de 13 de abril de 1995, e a Lei nº 14.611, de 3 de julho de 2023, para assegurar a autonomia das entidades privadas na organização e na contratação de pessoal, vedar a imposição de cotas de composição por sexo ou outro critério por ato não previsto em lei formal e disciplinar os requisitos de comprovação de prática discriminatória nas relações de trabalho.",
       "data": "2026-06-25T13:31",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635230"
+    },
+    {
+      "id": 2635892,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Voto do Relator pela aprovação do Projeto de Lei nº 1.589, de 2026, com Substitutivo.",
+      "data": "2026-07-01T08:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635892"
+    },
+    {
+      "id": 2636217,
+      "tipo": "PL",
+      "numero": 3408,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para incluir as entidades privadas com atuação em defesa da vida como legitimadas para intervirem como assistente de acusação nas ações penais públicas, cuja vítima seja menor incapaz, envolvendo os crimes contra a vida e as lesões corporais.",
+      "data": "2026-07-01T14:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636217"
     }
   ],
   "discursos": [],

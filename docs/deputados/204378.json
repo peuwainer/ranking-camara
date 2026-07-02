@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204378.jpg",
-  "score": 20.78,
-  "rank": 192,
+  "score": 19.61,
+  "rank": 208,
   "proposicoes": [],
   "discursos": [
     {
@@ -90,12 +90,6 @@
       "sigla": "CMADS",
       "cargo": "Suplente",
       "desde": "2026-03-11T00:00"
-    },
-    {
-      "nome": "Comissão de Cultura",
-      "sigla": "CCULT",
-      "cargo": "Titular",
-      "desde": "2026-06-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204378/votacoes-nominais-plenario/2026"

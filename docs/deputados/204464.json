@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204464.jpg",
-  "score": 24.73,
-  "rank": 100,
+  "score": 24.7,
+  "rank": 93,
   "proposicoes": [
     {
       "id": 2631190,
@@ -44,7 +44,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635733"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-07-01T17:36",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. TALÍRIA PETRONE (Bloco/PSOL - RJ. Pela ordem. Sem revisão da oradora.) - Presidente, pelo menos quatro mulheres são assassinadas por dia vítimas de feminicídio só por serem mulheres, e a gente ",
+      "transcricao": "A SRA. TALÍRIA PETRONE (Bloco/PSOL - RJ. Pela ordem. Sem revisão da oradora.) - Presidente, pelo menos quatro mulheres são assassinadas por dia vítimas de feminicídio só por serem mulheres, e a gente sabe que o feminicídio é a ponta do iceberg. Para essas mulheres serem assassinadas, há toda uma cadeia de desproteção, que também tem como ponto de partida o ódio a essas mulheres , a ideia de que o homem pode tocar no corpo dessa mulher sem o consentimento dela, a ideia de que o homem é dono dessa mulher, a ideia de que o homem é proprietário da vida mulher. O ódio a mulheres, disseminado em ambientes digitais, disseminado aqui no plenário, muitas vezes, faz com que seja possível desferir sessenta socos em uma mulher no elevador, por exemplo, Sr. Presidente. Eu tenho certeza de que quem defende o Brasil, as mulheres quer enfrentar toda forma de violência e criminalizar a misoginia. Isso passa também por acabar com o ódio a mulheres, criminalizando a misoginia. O PSOL, a Federação PSOL REDE orienta \"sim\", Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo das razões do aumento de denúncias de violência obstétrica e a alta taxa de morte materna no Brasil",

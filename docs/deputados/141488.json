@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
-  "score": 33.13,
-  "rank": 31,
+  "score": 29.21,
+  "rank": 56,
   "proposicoes": [
-    {
-      "id": 2629533,
-      "tipo": "PL",
-      "numero": 2776,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a obrigatoriedade da instalação e uso de rampas de acesso para embarque e desembarque de passageiros em aeroportos nacionais na ausência de pontes de embarque.",
-      "data": "2026-06-01T18:34",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629533"
-    },
     {
       "id": 2630791,
       "tipo": "PLP",
@@ -60,6 +51,15 @@
       "ementa": "Dispõe sobre a proibição temporária do uso do fogo para fins agropecuários durante períodos de Emergência climática e risco extremo de incêndios florestais.",
       "data": "2026-06-25T17:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635369"
+    },
+    {
+      "id": 2636532,
+      "tipo": "PL",
+      "numero": 3428,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para restringir a modalidade lotérica denominada aposta de quota fixa às apostas incidentes sobre eventos reais de temática esportiva e vedar a exploração de apostas baseadas em eventos virtuais aleatórios.",
+      "data": "2026-07-01T18:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636532"
     }
   ],
   "discursos": [

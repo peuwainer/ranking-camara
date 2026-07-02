@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220529.jpg",
-  "score": 31.36,
-  "rank": 47,
+  "score": 32.24,
+  "rank": 32,
   "proposicoes": [
     {
       "id": 2630100,
@@ -24,6 +24,24 @@
       "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
       "data": "2026-06-10T12:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
+    },
+    {
+      "id": 2636461,
+      "tipo": "PL",
+      "numero": 3415,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para instituir o Registro Nacional de Bicicletas Elétricas – RENABE e estabelecer a obrigatoriedade de identificação das bicicletas elétricas.",
+      "data": "2026-07-01T17:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636461"
+    },
+    {
+      "id": 2636462,
+      "tipo": "PL",
+      "numero": 3416,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a prescrição, a dispensação, a comercialização, a administração, a publicidade e o controle de medicamentos anticoncepcionais hormonais de uso veterinário destinados a cadelas e gatas, e dá outras providências.",
+      "data": "2026-07-01T17:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636462"
     }
   ],
   "discursos": [

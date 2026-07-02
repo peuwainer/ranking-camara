@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
-  "score": 27.8,
-  "rank": 70,
+  "score": 27.71,
+  "rank": 61,
   "proposicoes": [
     {
       "id": 2632797,
@@ -123,6 +123,15 @@
       "ementa": "Altera a Lei nº 10.205, de 21 de março de 2001, para dispor sobre a concessão de prioridade aos doadores regulares de sangue nas campanhas públicas de vacinação no âmbito da União e dá outras providências.",
       "data": "2026-06-26T11:40",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635392"
+    },
+    {
+      "id": 2636051,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 4.117, de 27 de agosto de 1962, para assegurar a programação em Libras em canais de teledifusão para pessoas surdas.",
+      "data": "2026-07-01T10:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636051"
     }
   ],
   "discursos": [],

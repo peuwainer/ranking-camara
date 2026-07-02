@@ -4,18 +4,9 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220615.jpg",
-  "score": 20.62,
-  "rank": 197,
+  "score": 20.05,
+  "rank": 187,
   "proposicoes": [
-    {
-      "id": 2629545,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Altera o art. 5º da Lei nº 9.610, de 19 de fevereiro de 1998, para ampliar as regras que se aplicam aos direitos do autor para as comunidades étnicas e tradicionais.",
-      "data": "2026-06-01T16:38",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629545"
-    },
     {
       "id": 2630660,
       "tipo": "SBT",
@@ -33,6 +24,15 @@
       "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
       "data": "2026-06-10T12:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
+    },
+    {
+      "id": 2636544,
+      "tipo": "PL",
+      "numero": 3429,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340 de 7 de agosto de 2006 – Lei Maria da Penha, para reconhecer como forma de violência doméstica e familiar a violência vicária contra animais de estimação",
+      "data": "2026-07-01T18:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636544"
     }
   ],
   "discursos": [

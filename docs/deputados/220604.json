@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg",
-  "score": 41.99,
-  "rank": 8,
+  "score": 47.22,
+  "rank": 5,
   "proposicoes": [
     {
       "id": 2629796,
@@ -213,6 +213,78 @@
       "ementa": "Altera a Lei nº 9.503, de 1997, que institui o Código de Trânsito Brasileiro, para agravar as penalidades aos condutores que dirigirem sob influência de álcool.",
       "data": "2026-06-30T20:04",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635877"
+    },
+    {
+      "id": 2636192,
+      "tipo": "PL",
+      "numero": 3404,
+      "ano": 2026,
+      "ementa": "Altera a Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para estabelecer medidas de proteção à saúde, à segurança dos profissionais da indústria da confecção, da costura, do vestuário e do setor têxtil, e dá outras providências.",
+      "data": "2026-07-01T14:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636192"
+    },
+    {
+      "id": 2636194,
+      "tipo": "PL",
+      "numero": 3405,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Fortalecimento das Instituições Religiosas de Interesse Social – PRONAFIR, destinado ao apoio de ações sociais de relevante interesse público desenvolvidas por organizações religiosas sem fins lucrativos, e dá outras providências.",
+      "data": "2026-07-01T14:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636194"
+    },
+    {
+      "id": 2636199,
+      "tipo": "PL",
+      "numero": 3406,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proteção do trabalhador contra a contratação fraudulenta, a pejotização abusiva, a intermediação irregular de mão de obra e o inadimplemento de obrigações trabalhistas em contratos privados e públicos, institui mecanismos de prevenção, fiscalização integrada e proteção ao denunciante, e dá outras providências.",
+      "data": "2026-07-01T14:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636199"
+    },
+    {
+      "id": 2636212,
+      "tipo": "PL",
+      "numero": 3407,
+      "ano": 2026,
+      "ementa": "Institui a Lei IFA Protegido, altera a Lei nº 11.350, de 5 de outubro de 2006, para assegurar a vinculação, a transparência, o pagamento obrigatório e a vedação de desvio de finalidade do Incentivo Financeiro Adicional destinado aos Agentes Comunitários de Saúde e aos Agentes de Combate às Endemias, e dá outras providências.",
+      "data": "2026-07-01T14:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636212"
+    },
+    {
+      "id": 2636274,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 12.009, de 29 de julho de 2009, para modificar os incisos I e II do artigo 2º, reduzindo a idade mínima para o exercício da profissão de mototaxista, eliminando a exigência de dois anos de habilitação, e estabelece isenção de Imposto sobre Produtos Industrializados (IPI) e Imposto sobre Operações Financeiras (IOF) na aquisição e financiamento de motocicletas utilizadas nessas atividades profissionais.",
+      "data": "2026-07-01T15:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636274"
+    },
+    {
+      "id": 2636460,
+      "tipo": "PL",
+      "numero": 3414,
+      "ano": 2026,
+      "ementa": "Institui a gratuidade no transporte coletivo público para estudantes matriculados em cursos de qualificação profissional e de educação profissional técnica de nível médio, e dá outras providências.",
+      "data": "2026-07-01T17:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636460"
+    },
+    {
+      "id": 2636490,
+      "tipo": "PL",
+      "numero": 3424,
+      "ano": 2026,
+      "ementa": "Institui a Lei Emprego Local e Contrapartida Social nos Grandes Empreendimentos, cria a Política Nacional de Contrapartida Social, Empregabilidade Local e Qualificação Profissional nos empreendimentos de significativo impacto ambiental sujeitos ao licenciamento ambiental federal, estabelece diretrizes para priorização da contratação de trabalhadores residentes nos municípios diretamente impactados, condiciona benefícios federais à adoção de plano de empregabilidade local e dá outras providências.",
+      "data": "2026-07-01T17:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636490"
+    },
+    {
+      "id": 2636514,
+      "tipo": "PL",
+      "numero": 3425,
+      "ano": 2026,
+      "ementa": "Institui a Lei Professor Valorizado, Escola Forte, cria o Programa Nacional de Valorização e Condições de Trabalho dos Profissionais da Educação Básica, estabelece matriz federativa de valorização como critério de priorização, bonificação e condicionamento gradual de transferências voluntárias da União destinadas à educação básica pública, respeitadas as transferências constitucionais, legais, obrigatórias e essenciais, e dá outras providências.",
+      "data": "2026-07-01T18:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636514"
     }
   ],
   "discursos": [],

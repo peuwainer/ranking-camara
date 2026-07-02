@@ -4,26 +4,17 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 46.89,
-  "rank": 6,
+  "score": 45.49,
+  "rank": 7,
   "proposicoes": [
     {
       "id": 2629559,
       "tipo": "PL",
       "numero": 2785,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para ampliar a proteção penal contra maus-tratos aos animais, endurecer as penas para atos de crueldade injustificada, instituir medidas de proteção e responsabilização e criar o Cadastro Nacional de Condenados por Crimes de Maus-Tratos contra Animais.",
+      "ementa": "Altera o art. 32 da Lei nº 9.605, de 12 de fevereiro de 1998, para ampliar a proteção penal contra maus-tratos a animais de todas as espécies, e estabelece medidas de proteção e responsabilização.",
       "data": "2026-06-02T09:20",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629559"
-    },
-    {
-      "id": 2629567,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 7.713, de 22 de dezembro de 1988, para conceder isenção do Imposto sobre a Renda da Pessoa Física aos profissionais da segurança pública, nos termos do art. 144 da Constituição Federal.",
-      "data": "2026-06-01T14:59",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629567"
     },
     {
       "id": 2629888,
@@ -249,6 +240,24 @@
       "ementa": "Institui mecanismos de proteção da produção agropecuária nacional nos procedimentos de defesa comercial e estabelece critérios para a suspensão ou modificação de medidas antidumping e compensatórias aplicáveis a produtos agropecuários.",
       "data": "2026-06-30T19:27",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635759"
+    },
+    {
+      "id": 2635902,
+      "tipo": "SBT",
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 10.826, de 22 de dezembro de 2003, para expandir o rol de categorias autorizadas a portar arma de fogo funcional, estabelecer parâmetros legais destinados à aferição dos requisitos de efetiva necessidade e de atividade de risco, e dá outras providências.",
+      "data": "2026-07-01T08:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635902"
+    },
+    {
+      "id": 2636092,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Institui o Marco Legal de Integridade e Fiscalização de Pessoas Expostas Politicamente, estabelece diretrizes para identificação, monitoramento e auditoria baseados em risco, e dá outras providências",
+      "data": "2026-07-01T11:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636092"
     }
   ],
   "discursos": [

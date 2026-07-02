@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220704.jpg",
-  "score": 13.75,
-  "rank": 434,
+  "score": 13.41,
+  "rank": 433,
   "proposicoes": [
-    {
-      "id": 2629498,
-      "tipo": "PL",
-      "numero": 2766,
-      "ano": 2026,
-      "ementa": "Altera a Lei Geral do Esporte, e o Código de Processo Civil, para instituir mecanismo de restrição de acesso e permanência em arenas esportivas os devedores de obrigação alimentar, mediante integração aos sistemas de controle biométrico de acesso, e disciplinar medida executiva coercitiva destinada ao cumprimento da obrigação alimentar.",
-      "data": "2026-06-01T17:04",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629498"
-    },
     {
       "id": 2631190,
       "tipo": "PEC",
@@ -44,7 +35,22 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632326"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-07-01T17:56",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. CAROL DARTORA (Bloco/PT - PR. Pela ordem. Sem revisão da oradora.) - Eu quero aproveitar este 1 minuto para dizer que voto favoravelmente à urgência do PL da misoginia aqui nesta Casa, porque m",
+      "transcricao": "A SRA. CAROL DARTORA (Bloco/PT - PR. Pela ordem. Sem revisão da oradora.) - Eu quero aproveitar este 1 minuto para dizer que voto favoravelmente à urgência do PL da misoginia aqui nesta Casa, porque misoginia não é opinião, misoginia não é liberdade de expressão, misoginia é um tipo de discurso que mata mulheres todos os dias no Brasil. O Brasil está no ranking de feminicídio. A gente tem que ter um comprometimento real, prático. Esta Casa tem o dever de dar uma lição, demonstrar, ter um processo educativo para o Brasil sobre discursos que dizem que mulher foi feita só para procriar, que mulher não tem direito a nada, que mulher não pode trabalhar. São discursos que matam mulheres. Basta de ódio às mulheres! Basta de misoginia! Basta de viver num País em que ser mulher é tão difícil! Então, que a gente possa aprovar a criminalização da misoginia nesta Casa. Muito obrigada."
+    },
+    {
+      "data": "2026-07-01T15:00",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. CAROL DARTORA (Bloco/PT - PR. Sem revisão da oradora.) - Generosa... exagero. (Risos.) Sr. Presidente, nobres colegas, boa tarde a todas e todos. Hoje eu subo a esta tribuna para reafirmar um c",
+      "transcricao": "A SRA. CAROL DARTORA (Bloco/PT - PR. Sem revisão da oradora.) - Generosa... exagero. (Risos.) Sr. Presidente, nobres colegas, boa tarde a todas e todos. Hoje eu subo a esta tribuna para reafirmar um compromisso: defender a memória, a produção intelectual, a cultura e a vida das mulheres brasileiras. Eu quero começar celebrando uma grande conquista que acontece entre os dias 16 e 18 de julho, no Estado do Paraná. A cidade de Curitiba vai sediar o VI Seminário Nacional e o I Seminário Internacional Pretas Acadêmicas, um espaço criado para enfrentar a invisibilidade histórica da produção de conhecimento das mulheres negras. E eu tenho muito orgulho de ter começado essa construção e, como Deputada Federal, de contribuir para que ela aconteça por meio de investimento público. Neste ano, a gente tem a honra de receber Conceição Evaristo, uma das maiores intelectuais brasileiras, na abertura desse evento. Também registro outro momento histórico. Amanhã será lançado o Mafro Paraná, o Museu de Territórios Afro-Paranaenses da Universidade Federal do Paraná. Um museu que preserva a memória negra do nosso Estado e reafirma uma verdade que tentaram apagar por muito tempo: o Paraná também foi construído pelas mãos, pela inteligência e pela resistência da população negra. Mas celebrar conquistas também exige enfrentar os retrocessos. Por isso, aproveito este momento para fazer um apelo a esta Casa, para que vote a urgência do PL nº 896, de 2023, que já foi aprovado por unanimidade no Senado. O PL que criminaliza a misoginia. A misoginia não é uma opinião, não é uma brincadeira; é ódio dirigido às mulheres por serem mulheres. É uma violência que silencia, que exclui, que ameaça, mata e tenta impedir que mulheres ocupem a política, a ciência, a cultura e tantos outros espaços de poder. Aprovar esse projeto é dizer, com todas as letras, que a democracia brasileira não tolera o ódio como instrumento de intimidação e exclusão das mulheres. É fortalecer a proteção jurídica contra uma violência estrutural que alimenta o feminicídio, a violência política de gênero e os ataques cotidianos, especialmente nos ambientes digitais. Eu sigo defendendo o avanço da criminalização da misoginia e também dos projetos que propus para combater a misoginia nas redes, porque nenhuma mulher tem que ser silenciada por medo. Defender a produção intelectual das mulheres, preservar nossa memória e combater a misoginia fazem parte da mesma luta: a construção de um Brasil verdadeiramente democrático, justo, antirracista, comprometido com a igualdade e com o desenvolvimento de todos os sujeitos que compõem esta sociedade. Que possamos aprovar a criminalização da misoginia para construir ambientes verdadeiramente saudáveis para as mulheres. Sr. Presidente, peço que o meu pronunciamento seja divulgado nos meios de comunicação da Casa, em especial no programa A Voz do Brasil. Muito obrigada."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",
