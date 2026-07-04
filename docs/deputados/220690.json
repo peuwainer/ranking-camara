@@ -4,36 +4,9 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 45.49,
-  "rank": 7,
+  "score": 47.74,
+  "rank": 6,
   "proposicoes": [
-    {
-      "id": 2629559,
-      "tipo": "PL",
-      "numero": 2785,
-      "ano": 2026,
-      "ementa": "Altera o art. 32 da Lei nº 9.605, de 12 de fevereiro de 1998, para ampliar a proteção penal contra maus-tratos a animais de todas as espécies, e estabelece medidas de proteção e responsabilização.",
-      "data": "2026-06-02T09:20",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629559"
-    },
-    {
-      "id": 2629888,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, para instituir, no âmbito do Sistema Único de Segurança Pública (SUSP), o Programa Nacional de Capacitação em Comunicação Operativa (PRONCOMOP).",
-      "data": "2026-06-02T14:07",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629888"
-    },
-    {
-      "id": 2630083,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre a responsabilidade gerencial das empresas públicas e sociedade de economia mista.",
-      "data": "2026-06-03T13:54",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630083"
-    },
     {
       "id": 2630240,
       "tipo": "SBT",
@@ -258,6 +231,15 @@
       "ementa": "Institui o Marco Legal de Integridade e Fiscalização de Pessoas Expostas Politicamente, estabelece diretrizes para identificação, monitoramento e auditoria baseados em risco, e dá outras providências",
       "data": "2026-07-01T11:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636092"
+    },
+    {
+      "id": 2637093,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.303, de 30 de junho de 2016, para estabelecer critérios técnicos, econômicos e de governança para a celebração de contratos de patrocínio por empresas estatais, com vistas à transparência, eficiência e prevenção de desvios de finalidade no uso de recursos públicos.",
+      "data": "2026-07-03T16:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637093"
     }
   ],
   "discursos": [

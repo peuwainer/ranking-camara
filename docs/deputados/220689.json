@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220689.jpg",
-  "score": 12.91,
-  "rank": 440,
-  "proposicoes": [],
+  "score": 15.51,
+  "rank": 374,
+  "proposicoes": [
+    {
+      "id": 2636783,
+      "tipo": "PL",
+      "numero": 3439,
+      "ano": 2026,
+      "ementa": "Reconhece o Festejo de São Raimundo Nonato dos Mulundus, realizado no Município de Vargem Grande, Estado do Maranhão, como manifestação da cultura nacional.",
+      "data": "2026-07-02T12:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636783"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

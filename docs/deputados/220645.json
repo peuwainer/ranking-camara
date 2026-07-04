@@ -4,36 +4,9 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220645.jpg",
-  "score": 31.91,
-  "rank": 37,
+  "score": 32.26,
+  "rank": 35,
   "proposicoes": [
-    {
-      "id": 2630056,
-      "tipo": "PL",
-      "numero": 2877,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para vedar o reconhecimento da legítima defesa como excludente de ilicitude quando a conduta do agente resultar em morte de criança.",
-      "data": "2026-06-03T16:18",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630056"
-    },
-    {
-      "id": 2630091,
-      "tipo": "PL",
-      "numero": 2882,
-      "ano": 2026,
-      "ementa": "Altera o Artigo 483 do Decreto-Lei nº 5.452, de 1° de maio de 1943 (Consolidação das Leis do Trabalho.), visando a inclusão da LGBTfobia como hipótese de rescisão indireta de trabalho.",
-      "data": "2026-06-03T19:45",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630091"
-    },
-    {
-      "id": 2630092,
-      "tipo": "PL",
-      "numero": 2883,
-      "ano": 2026,
-      "ementa": "Altera o artigo 60 da Lei nº 14.133, de 1º de abril de 2021, visando ações de promoção da diversidade, inclusão, equidade de oportunidades e tratamento para pessoas LGBTQIA+ como critério de desempate nas Licitações e Contratos Administrativos.",
-      "data": "2026-06-03T19:55",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630092"
-    },
     {
       "id": 2630378,
       "tipo": "SBT",
@@ -150,6 +123,15 @@
       "ementa": "Estabelece medidas de prevenção e combate ao trabalho infantil em empresas de aplicativos de entregas ou transporte e dá outras providências.",
       "data": "2026-07-01T18:25",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636525"
+    },
+    {
+      "id": 2636927,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 – Código de Defesa do Consumidor, para incluir disposições específicas sobre a vedação a práticas discriminatórias de natureza racial nas relações de consumo, bem como prever sanções administrativas e penais correlatas.",
+      "data": "2026-07-02T15:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636927"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
-  "score": 27.71,
-  "rank": 61,
+  "score": 30.75,
+  "rank": 45,
   "proposicoes": [
     {
       "id": 2632797,
@@ -132,6 +132,15 @@
       "ementa": "Altera a Lei nº 4.117, de 27 de agosto de 1962, para assegurar a programação em Libras em canais de teledifusão para pessoas surdas.",
       "data": "2026-07-01T10:37",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636051"
+    },
+    {
+      "id": 2636989,
+      "tipo": "PL",
+      "numero": 3446,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Inclusão Produtiva da População em Situação de Rua nos contratos de obras e de serviços da administração pública federal, mediante reserva de percentual mínimo de vagas de trabalho; estabelece incentivos à adesão voluntária de Estados, Distrito Federal e Municípios; altera a Lei nº 14.133, de 1º de abril de 2021; e dá outras providências.",
+      "data": "2026-07-02T16:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636989"
     }
   ],
   "discursos": [],

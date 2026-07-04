@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204559.jpg",
-  "score": 16.19,
-  "rank": 352,
+  "score": 17.48,
+  "rank": 302,
   "proposicoes": [
     {
       "id": 2631190,
@@ -24,6 +24,15 @@
       "ementa": "Altera a redação do Código Civil, Lei nº 10.406, de 10 de janeiro de 2002, para disciplinar a relação de distribuição entre fornecedores e distribuidores.",
       "data": "2026-06-15T17:45",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632488"
+    },
+    {
+      "id": 2637051,
+      "tipo": "PLP",
+      "numero": 196,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para aperfeiçoar os critérios de enquadramento, permanência e exclusão das microempresas e empresas de pequeno porte do Simples Nacional.",
+      "data": "2026-07-03T13:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637051"
     }
   ],
   "discursos": [],

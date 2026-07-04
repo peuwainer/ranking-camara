@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204520.jpg",
-  "score": 21.61,
-  "rank": 152,
+  "score": 22.34,
+  "rank": 136,
   "proposicoes": [
-    {
-      "id": 2629601,
-      "tipo": "EMP",
-      "numero": 8,
-      "ano": 0,
-      "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
-      "data": "2026-06-02T09:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629601"
-    },
     {
       "id": 2631127,
       "tipo": "SBT",
@@ -51,6 +42,15 @@
       "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para incluir as entidades privadas com atuação em defesa da vida como legitimadas para intervirem como assistente de acusação nas ações penais públicas, cuja vítima seja menor incapaz, envolvendo os crimes contra a vida e as lesões corporais.",
       "data": "2026-07-01T14:53",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636217"
+    },
+    {
+      "id": 2636820,
+      "tipo": "PL",
+      "numero": 3441,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 4.357, de 16 de julho de 1964, e a Lei nº 8.212, de 24 de julho de 1991, para revogar dispositivos que restringem a distribuição de lucros, dividendos, bonificações, juros sobre capital próprio e demais formas lícitas de remuneração do capital por pessoas jurídicas com débitos perante a União, e estabelece norma expressa de não incidência de penalidades, restrições ou sanções administrativas fundadas nessa distribuição.",
+      "data": "2026-07-02T14:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636820"
     }
   ],
   "discursos": [],

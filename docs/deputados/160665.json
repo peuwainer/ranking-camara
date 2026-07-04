@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
-  "score": 19.68,
-  "rank": 205,
+  "score": 19.03,
+  "rank": 232,
   "proposicoes": [
     {
       "id": 2631190,
@@ -26,7 +26,22 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632666"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-07-01T18:12",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o bloco orienta \"sim\". Esta matéria já perdura aqui na Casa há muitos anos. É um problema muito g",
+      "transcricao": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o bloco orienta \"sim\". Esta matéria já perdura aqui na Casa há muitos anos. É um problema muito grave que precisa ser resolvido. É preciso que seja encaminhada uma solução. A gente vai votar apenas o requerimento de urgência. A Deputada Geovania de Sá inclusive já se sentou com o Governo para que se chegue a um entendimento, a uma composição da matéria. Este é um tema em que esta Casa precisa avançar. Portanto, o bloco orienta \"sim\"."
+    },
+    {
+      "data": "2026-07-01T17:28",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Sim, Presidente. Ontem, inclusive, a gente teve a oportunidade de ir à reunião de líderes e encaminhar essa suges",
+      "transcricao": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Sim, Presidente. Ontem, inclusive, a gente teve a oportunidade de ir à reunião de líderes e encaminhar essa sugestão, ou seja, a gente vota o requerimento. A Deputada Tabata tem sido de uma atenção enorme, já sentou com a nossa bancada, já ouviu as reivindicações, levou-as para depois trazer no texto. Então, a gente confia na Deputada, meu voto vai ser \"sim\". É óbvio que dentro da bancada há algumas pessoas com dificuldade, e a gente vai liberar essas pessoas naturalmente. Acho que é importante a gente avançar, ressalto o esforço que a Deputada Tabata tem feito num tema tão difícil, um tema tão sensível, mas eu acho que a gente vai chegar a um bom caminho."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",

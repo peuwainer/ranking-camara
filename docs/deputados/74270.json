@@ -4,10 +4,18 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74270.jpg",
-  "score": 13.23,
-  "rank": 436,
+  "score": 13.55,
+  "rank": 429,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-07-01T17:24",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. GILBERTO NASCIMENTO (Bloco/PODE - SP. Pela ordem. Sem revisão do orador.) - Presidente, eu quero, primeiro, parabenizar a Deputada Tabata Amaral pelo grande trabalho que está fazendo nesta matér",
+      "transcricao": "O SR. GILBERTO NASCIMENTO (Bloco/PODE - SP. Pela ordem. Sem revisão do orador.) - Presidente, eu quero, primeiro, parabenizar a Deputada Tabata Amaral pelo grande trabalho que está fazendo nesta matéria. Claro que é uma matéria complexa. É uma matéria que, aparentemente, nem os Deputados desta Casa conseguiram entender com facilidade. Nós não temos ainda o relatório em mãos, mas tudo bem. Conversamos ontem à tarde, o que é uma verdade, e, é claro, ela jamais faltaria com a verdade em uma questão como essa. Porém, quando a Deputada Tabata nos colocou ontem e trouxe algumas alterações que poderiam ser feitas, não houve, Deputada Tabata, também nesta Presidência, o seguinte: \"está fechado, O.k\". V.Exa. me passou, eu disse que passaria hoje e conversaria com o pessoal na Frente Parlamentar Evangélica, os que estiveram. Lamentavelmente, nós temos uma semana em que temos muito poucos Deputados nesta Casa, mas houve, inclusive, uma conversa com alguns Deputados e eu pedi, então, ao Deputado Ismael que pudesse conversar com V.Exa., que trouxe mais um ponto. Porém, Deputada, V.Exa. há de convir comigo o seguinte: Há mais de cem Deputados nessa bancada, uma bancada muito eclética, eu fiquei com dificuldade, inclusive alguns Deputados estão me ligando para saber o que é isso, as coisas aqui acontecem tão rápido, espalham-se. Então, eu teria muita dificuldade, Deputada, de votar neste momento, votar a favor, correto? Claro que gostaria que se V.Exa. pudesse, assim como o Deputado Gastão também manifestou... Concluo, Presidente, eu tenho muita dificuldade neste momento de votar com V.Exa., e claro, neste momento, a Frente Parlamentar Evangélica orientaria o voto \"não\", mas volto a dizer, eu acho que nós temos que ir um pouco mais a fundo, trabalhar um pouco mais essa questão, definir algumas coisas no projeto, porque logicamente isso, como bancada evangélica, acaba nos atingindo muito. Essa é a preocupação dos pastores, não só pastores, mas de todos os religiosos do Brasil. Muito obrigado, Deputada."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",

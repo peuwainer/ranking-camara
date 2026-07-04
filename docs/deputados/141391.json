@@ -4,18 +4,9 @@
   "partido": "CIDADANIA",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141391.jpg",
-  "score": 18.38,
-  "rank": 258,
+  "score": 19.13,
+  "rank": 227,
   "proposicoes": [
-    {
-      "id": 2630058,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera o art. 159 da Constituição Federal para disciplinar a distribuição de recursos pela União ao Fundo de Participação dos Municípios.",
-      "data": "2026-06-03T15:33",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630058"
-    },
     {
       "id": 2635549,
       "tipo": "PL",
@@ -42,6 +33,15 @@
       "ementa": "",
       "data": "2026-07-01T19:18",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636550"
+    },
+    {
+      "id": 2636569,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-07-02T08:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636569"
     }
   ],
   "discursos": [

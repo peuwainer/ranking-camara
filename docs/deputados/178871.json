@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178871.jpg",
-  "score": 34.9,
-  "rank": 21,
+  "score": 39.66,
+  "rank": 11,
   "proposicoes": [
-    {
-      "id": 2629601,
-      "tipo": "EMP",
-      "numero": 8,
-      "ano": 0,
-      "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
-      "data": "2026-06-02T09:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629601"
-    },
     {
       "id": 2630112,
       "tipo": "PRC",
@@ -132,6 +123,33 @@
       "ementa": "Altera a Lei nº 9.433, de 8 de janeiro de 1997, para isentar da cobrança pelo uso de recursos hídricos os agricultores e os empreendedores rurais que detenham imóvel rural de até quatro módulos fiscais e utilizem predominantemente mão de obra da própria família.",
       "data": "2026-06-30T12:46",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635527"
+    },
+    {
+      "id": 2636924,
+      "tipo": "PL",
+      "numero": 3442,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a realização da “Campanha Aniversário na Escola”, a realizar-se nos estabelecimentos de ensino de educação básica da rede pública.",
+      "data": "2026-07-02T15:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636924"
+    },
+    {
+      "id": 2636925,
+      "tipo": "PL",
+      "numero": 3443,
+      "ano": 2026,
+      "ementa": "Erige em monumento nacional a  Igreja Velha e o Sítio Histórico do Porto de São Mateus, no Estado do Espírito Santo.",
+      "data": "2026-07-02T15:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636925"
+    },
+    {
+      "id": 2637023,
+      "tipo": "PL",
+      "numero": 3448,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a participação de filhos de trabalhadores rurais e de produtores rurais em atividades de economia familiar e exploração agrícola",
+      "data": "2026-07-03T11:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637023"
     }
   ],
   "discursos": [

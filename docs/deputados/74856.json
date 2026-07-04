@@ -4,90 +4,9 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
-  "score": 64.0,
+  "score": 62.28,
   "rank": 1,
   "proposicoes": [
-    {
-      "id": 2629973,
-      "tipo": "PL",
-      "numero": 2856,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 7.347, de 24 de julho de 1985, para incluir as entidades dedicadas à proteção dos direitos de crianças e adolescentes entre os agentes legitimados para propor a ação civil pública.",
-      "data": "2026-06-03T12:13",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629973"
-    },
-    {
-      "id": 2629979,
-      "tipo": "PL",
-      "numero": 2857,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a obrigatoriedade da divulgação de informações relativas a promoção ou patrocínio de eventos artísticos, culturais e esportivos com recursos públicos, e dá outras providências.",
-      "data": "2026-06-03T12:28",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629979"
-    },
-    {
-      "id": 2629982,
-      "tipo": "PL",
-      "numero": 2858,
-      "ano": 2026,
-      "ementa": "Altera o art. 92 da Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para dispor sobre as informações do Cadastro Nacional de Inclusão da Pessoa com Deficiência (Cadastro-Inclusão).",
-      "data": "2026-06-03T12:38",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629982"
-    },
-    {
-      "id": 2629983,
-      "tipo": "PL",
-      "numero": 2859,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos), para disciplinar o conteúdo e os limites da anotação do novo casamento nos assentos dos casamentos anteriores.",
-      "data": "2026-06-03T12:50",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629983"
-    },
-    {
-      "id": 2629993,
-      "tipo": "PL",
-      "numero": 2860,
-      "ano": 2026,
-      "ementa": "Acrescenta § 9º ao art. 9º da Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer o sigilo de informações constantes dos boletins de ocorrência policial e dos autos de processos judiciais decorrentes da prática de violência doméstica e familiar contra a mulher.",
-      "data": "2026-06-03T13:14",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629993"
-    },
-    {
-      "id": 2630020,
-      "tipo": "EMC",
-      "numero": 1,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para dispor sobre o procedimento para a perda ou a suspensão do poder familiar.",
-      "data": "2026-06-02T15:04",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630020"
-    },
-    {
-      "id": 2630021,
-      "tipo": "PL",
-      "numero": 2863,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), a fim de determinar a isenção de custas processuais para a solicitação, a revisão e a adoção de medidas protetivas à mulher em situação de violência doméstica e familiar, independentemente de comprovação de hipossuficiência financeira.",
-      "data": "2026-06-03T14:52",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630021"
-    },
-    {
-      "id": 2630034,
-      "tipo": "PL",
-      "numero": 2868,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.099, de 26 de setembro de 1995, para estabelecer o cabimento de recurso adesivo no âmbito dos Juizados Especiais Cíveis.",
-      "data": "2026-06-03T15:35",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630034"
-    },
-    {
-      "id": 2630047,
-      "tipo": "PL",
-      "numero": 2875,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos), para dispor sobre o procedimento extrajudicial de atualização dos assentos de registro civil do filho no caso de alteração superveniente do nome do pai ou da mãe.",
-      "data": "2026-06-03T16:02",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630047"
-    },
     {
       "id": 2630690,
       "tipo": "PL",
@@ -312,9 +231,34 @@
       "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para estabelecer critérios para a valoração da retratação da vítima como prova nova na revisão criminal.",
       "data": "2026-07-01T18:17",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636520"
+    },
+    {
+      "id": 2636681,
+      "tipo": "PL",
+      "numero": 3437,
+      "ano": 2026,
+      "ementa": "Altera o parágrafo único do art. 496 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para adequá-lo à redação do caput do referido artigo, mediante a supressão da expressão “em ambos os casos”.",
+      "data": "2026-07-02T10:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636681"
+    },
+    {
+      "id": 2637089,
+      "tipo": "PL",
+      "numero": 3454,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes a serem observadas pelas instituições de educação superior na prevenção e apuração de condutas graves dos estudantes, incompatíveis com a convivência na comunidade acadêmica e com princípios e fins da educação nacional; e altera a Lei nº 13.185, de 6 de novembro de 2015, para incluir o trote violento como forma de bullying no ensino superior.",
+      "data": "2026-07-03T16:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637089"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-07-02T10:00",
+      "fase": "Encerramento",
+      "tipo": "DISCURSO ENCAMINHADO",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA LAURA CARNEIRO (SEM REGISTRO TAQUIGRÁFICO). A Sra. LAURA CARNEIRO (PSD-RJ) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Depu",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA LAURA CARNEIRO (SEM REGISTRO TAQUIGRÁFICO). A Sra. LAURA CARNEIRO (PSD-RJ) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Deputados. Há sessenta anos, a Lei nº 4.950-A, de 22 de abril de 1966, instituiu o Salário Mínimo Profissional da Engenharia e da Agronomia, reconhecendo a qualificação técnica e a relevância social dessas atividades. Hoje prestamos homenagem a essa conquista que atravessou gerações e contribuiu para valorizar duas das mais decisivas profissões para o desenvolvimento do Brasil. A história dessa lei se confunde com a história da modernização do País. Afinal, engenheiros e agrônomos sempre estiveram presentes nas grandes transformações de nosso setor produtivo, desde a expansão da infraestrutura até o desenvolvimento de novas tecnologias. O Brasil que conhecemos hoje foi, em grande medida, planejado e construído pelo trabalho desses profissionais. Nesse sentido, a criação do Salário Mínimo Profissional representou o reconhecimento de que a remuneração deve guardar relação com a complexidade das atribuições exercidas e com o impacto que elas produzem na vida da população. Não se tratava apenas de uma reivindicação corporativa, mas sim de compreendermos que o desenvolvimento nacional exige conhecimento técnico e responsabilidade profissional. Um entendimento, Senhoras e Senhores, que continua atual. Também é justo recordar aqueles que contribuíram para a construção dessa conquista. Entre eles, o engenheiro e ex-deputado Rubens Paiva, cuja atuação foi fundamental para a formulação da proposta posteriormente apresentada pelo então deputado Almino Affonso e transformada em lei. Ao resgatar essa trajetória, preservamos uma parte importante da memória de nosso País. Esta homenagem, portanto, não é uma simples celebração de uma norma jurídica. A celebração de hoje reconhece homens e mulheres que ajudaram e continuam ajudando o País a se desenvolver, com aumento de produtividade nas indústrias e no campo, e a encontrar soluções para desafios cada vez mais complexos. Em um tempo marcado por profundas transformações tecnológicas, o Brasil precisará, cada vez mais, da competência e do compromisso público dos profissionais da engenharia e da agronomia. Muito obrigada."
+    },
     {
       "data": "2026-07-01T13:55",
       "fase": "Encerramento",
@@ -356,20 +300,6 @@
       "tipo": "OUTROS",
       "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA LAURA CARNEIRO (SEM REGISTRO TAQUIGRÁFICO). A Sra. LAURA CARNEIRO (PSD-RJ) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Depu",
       "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA LAURA CARNEIRO (SEM REGISTRO TAQUIGRÁFICO). A Sra. LAURA CARNEIRO (PSD-RJ) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Deputados, enfermeiras e enfermeiros de todo o Brasil, técnicos e auxiliares de enfermagem, muito bom dia. Meus parabéns a todos vocês pela passagem, no dia de ontem, do Dia Internacional da Enfermagem, e, desde já, pelo Dia Nacional do Técnico e Auxiliar de Enfermagem, a ser comemorado na próxima quarta-feira. Estas datas são importantes para trazer visibilidade à categoria e enfatizar sua importância diante do conjunto da sociedade. As enfermeiras e enfermeiros já conhecem, é claro, o seu próprio trabalho, assim como os desafios que enfrentam. Mas é necessário repisar isso, ano após ano. Realçar o valor da enfermagem não é só discurso; é a base para construir o consenso em torno do aprimoramento de suas condições de trabalho. Afinal de contas, os profissionais de enfermagem são trabalhadores  daqueles que assumem a linha de frente em períodos mais conturbados e que, no dia a dia, mantêm o nosso sistema de saúde de pé. Que o seu dia seja festejado em maio, não muito depois do Dia Internacional dos Trabalhadores, é uma coincidência oportuna para realçar esse fato. A enfermagem exige, sim, amor, compaixão, empatia e outras qualidades profundamente humanas. Mas nada disso significa que enfermeiros, técnicos ou auxiliares abdiquem de ser respeitados enquanto trabalhadores. Ao contrário: é justamente para continuar exercendo bem o seu trabalho, doando-se ao cuidado dos pacientes, que os profissionais de enfermagem precisam ter boas condições de trabalho. Não se pode negar que a legislação vem avançando. A emenda constitucional e a lei que instituíram o piso nacional da enfermagem são prova disso. Mais recentemente, em 2023, entrou em vigor a Lei n. 14.602, que dispõe sobre as condições de repouso dos profissionais de enfermagem durante o horário de trabalho. Tenho orgulho de ter participado diretamente da aprovação dessa matéria, oferecendo a ela parecer favorável quando de sua apreciação pela Comissão de Seguridade Social e Família. As próximas conquistas da categoria, sejam quais forem, dependerão, como eu disse, de que continuemos a repisar, sempre, a importância da enfermagem brasileira. Isso se faz, sim, em sessões como esta que eu também requeri, mas também em outros ambientes e ocasiões. No ano passado, por exemplo, tive a satisfação de, ao lado da colega Jandira Feghali, participar da inauguração do Centro Histórico e Cultural da Escola de Enfermagem Alfredo Pinto, na Unirio, viabilizado por meio de emendas direcionadas pelos nossos mandatos. Devemos aproveitar toda oportunidade para afirmar o valor dessas profissões. Toda pessoa tem seus problemas de saúde, e muitos brasileiros certamente já se viram, por mais ou menos tempo, sob os cuidados de um profissional da enfermagem. Gratidão é o sentimento natural que essas situações despertam. A maior parte da sociedade já admira as enfermeiras e enfermeiros; só precisamos avivar esses sentimentos para impulsionar o apoio às demandas da categoria. Eu, de minha parte, já sou uma apoiadora. Por isso estou entre os requerentes da homenagem e por isso venho a esta sessão. Contem comigo. No que depender de mim, quero que o Dia Internacional da Enfermagem, a cada ano, seja um dia de orgulho e festejo para todos. Muito obrigada."
-    },
-    {
-      "data": "2026-06-03T10:00",
-      "fase": "Encerramento",
-      "tipo": "DISCURSO ENCAMINHADO",
-      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA LAURA CARNEIRO (SEM REGISTRO TAQUIGRÁFICO). A Sra. LAURA CARNEIRO (PSD-RJ) pronuncia o seguinte discurso: Senhor Presidente, nobres Colegas parlament",
-      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA LAURA CARNEIRO (SEM REGISTRO TAQUIGRÁFICO). A Sra. LAURA CARNEIRO (PSD-RJ) pronuncia o seguinte discurso: Senhor Presidente, nobres Colegas parlamentares, profissionais do Serviço Social, é com emoção e orgulho que ocupo esta tribuna no dia de hoje. Estamos reunidos nesta sessão para registrar e reverenciar um marco extraordinário na história da redemocratização, das políticas públicas e da dignidade humana em nossa nação: os noventa anos do Serviço Social no Brasil. Olhar para trás e compreender essa trajetória de quase um século é, na verdade, compreender a própria evolução da longa e árdua caminhada pelos direitos sociais no nosso País. O Serviço Social brasileiro nasceu em um contexto de profundas transformações urbanas e industriais e, ao longo das décadas, soube passar por um belíssimo processo de reconceituação. A categoria teve a coragem de romper definitivamente com as velhas visões meramente assistencialistas e caritativas para se consolidar como uma profissão com base técnica e, acima de tudo, intrinsecamente vinculada à justiça social e à emancipação da classe trabalhadora. Como uma parlamentar que traz na pele e no coração a defesa intransigente da promoção da justiça social, não posso deixar de saudar, com a maior veemência possível, a coragem, a sensibilidade e a resiliência de cada assistente social que atua de Norte a Sul deste País. São profissionais que, no cotidiano das realidades mais duras, traduzem a frieza dos textos legais e das teorias em acolhimento real, em escuta qualificada e na viabilização de direitos para o nosso povo. Os assistentes sociais são os verdadeiros arquitetos da cidadania nas periferias das grandes metrópoles, nas comunidades ribeirinhas, nos quilombos, nas aldeias indígenas, nos hospitais públicos e nas salas de aula. O assistente social opera na linha de frente mais complexa do nosso tecido social, enfrentando as marcas cruéis das desigualdades históricas, do racismo estrutural, da violência de gênero e da exclusão econômica que ainda teimam em assolar o Brasil. Compreender a grandeza do Serviço Social é internalizar o princípio fundamental de que as políticas sociais não são uma benesse, não são um favor e nem uma esmola de quem governa; elas são um direito inalienável de cada cidadão e um dever imperativo do Estado brasileiro. O projeto ético-político que rege essa categoria profissional é um dos documentos mais bonitos e maduros da nossa história trabalhista, pois ele coloca a liberdade, a democracia e a universalização dos direitos no centro de sua atuação. Esse projeto nos inspira diariamente aqui no Congresso Nacional, nos provocando e nos lembrando constantemente de que a nossa jovem democracia só será plena, forte e inabalável quando a periferia tiver voz, quando as minorias forem protegidas e quando a dignidade humana deixar de ser uma promessa constitucional para se tornar uma realidade palpável na mesa de cada família trabalhadora. Portanto, nobres Pares, celebrar estes noventa anos não é apenas olhar para o passado com nostalgia, mas sim firmar um pacto inegociável com o futuro. O momento histórico que vivemos exige de nós atenção redobrada e coragem política. Não podemos permitir o desmonte das redes de proteção que tanto custaram para ser erguidas. Daqui desta tribuna, renovo solenemente o meu compromisso com a valorização de toda a categoria profissional dos assistentes sociais, o que passa necessariamente pela defesa de pisos salariais dignos, pela garantia de condições adequadas de trabalho e pela preservação da jornada de trinta horas semanais sem redução salarial, uma conquista histórica que protege a saúde física e mental desses trabalhadores que lidam diariamente com a dor e a vulnerabilidade alheias. Mais do que isso, assumo o compromisso de lutar incansavelmente pelo fortalecimento do Sistema Único de Assistência Social (SUAS) e pela sua dotação orçamentária robusta, pois sabemos que, sem financiamento público sério e continuado, a justiça social se transforma em letra morta. Finalizo o meu pronunciamento ciente de que a caminhada é longa, mas imensamente abastecida pela esperança e pela energia que emanam desta celebração. Festejar o Serviço Social no Brasil é, fundamentalmente, celebrar a resistência criativa e a utopia realista de um País sem miséria, sem preconceitos de qualquer natureza, sem opressões e com plena igualdade de oportunidades. Que possamos, inspirados pelo legado ético e combativo desses noventa anos de história, continuar marchando de mãos dadas, com passos firmes e corações corajosos, na construção de uma sociedade genuinamente justa, plural, fraterna e solidária. Muito obrigada!"
-    },
-    {
-      "data": "2026-06-02T13:55",
-      "fase": "Encerramento",
-      "tipo": "DISCURSO ENCAMINHADO",
-      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA LAURA CARNEIRO (SEM REGISTRO TAQUIGRÁFICO). A Sra. LAURA CARNEIRO (PSD-RJ) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Depu",
-      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA LAURA CARNEIRO (SEM REGISTRO TAQUIGRÁFICO). A Sra. LAURA CARNEIRO (PSD-RJ) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Deputados, é com muita satisfação que divulgo uma ótima notícia para o Estado do Rio de Janeiro, especialmente para a população serrana fluminense. Foi sancionada a Lei nº 15.417, de 25 de maio de 2026, que reconhece  com muita justiça  a Expo Cordeiro como manifestação da cultura nacional. Essa Lei teve origem em iniciativa de minha autoria, o PL nº 1.164, de 2025, que buscou consagrar essa tradição centenária que atravessa gerações, fortalece a identidade da população de Cordeiro e expressa, de forma viva e permanente, a vitalidade da sua cultura. A Expo Cordeiro teve a primeira edição em 1921. Foi inaugurada pelo Presidente Epitácio Pessoa como parte das comemorações do centenário da Independência do Brasil. É considerada a mais antiga exposição agropecuária do País em atividade contínua. São mais de cem anos de existência bem-sucedida. O que começou como uma feira voltada à pecuária incorporou, ao longo do tempo, uma série de mudanças. Hoje, a Expo Cordeiro é um grande evento, que reúne criadores, produtores, empresas, e visitantes de diferentes regiões do País. A programação costuma incluir as exposições propriamente ditas, julgamento de animais, torneios leiteiros, leilões, atividades técnicas, apresentações culturais, grandes shows musicais e atrações voltadas às famílias. É uma combinação muito feliz de cultura, atividade econômica e entretenimento. Quem conhece exposição sabe o impacto que ela exerce em Cordeiro. Ela dinamiza a economia local, fortalece o setor agropecuário, impulsiona o comércio, movimenta serviços, estimula o turismo. Além disso  é importante destacar  ela preserva uma memória coletiva da região. Mantém vivas práticas, costumes e formas de sociabilidade profundamente ligadas à história do interior fluminense e à própria história brasileira. Por essa razão, em 2021, quando completou cem anos, a Expo Cordeiro foi reconhecida como Patrimônio Cultural Imaterial do Estado do Rio de Janeiro. A iniciativa aprovada no Congresso Nacional dá um passo além e reconhece sua relevância para todo o Brasil. Afinal, eventos como a Expo Cordeiro são especialmente relevantes em um País tão grande e diverso como o nosso. Sua força e permanência funcionam como uma espécie de conector entre populações urbanas e rurais. Um espaço que preserva conhecimentos, práticas e valores tradicionais como parte imprescindível da pluralidade cultural brasileira. Quero registrar, Senhor Presidente, meu reconhecimento aos parlamentares que contribuíram para essa conquista. Na Câmara dos Deputados, à Deputada Jandira Feghali, relatora da matéria na Comissão de Cultura, e ao Deputado Ricardo Ayres, relator na Comissão de Constituição e Justiça e de Cidadania. No Senado Federal, sou grata pela relatoria sensível e qualificada do Senador Flávio Arns, que compreendeu bem a dimensão cultural, social e econômica da matéria. Cumprimento, finalmente, os organizadores da Expo Cordeiro, a querida população do município de Cordeiro, os produtores rurais, os trabalhadores, os artistas e todos aqueles que contribuem para manter viva essa tradição. Diante da fragilidade do tecido social que marca o nosso tempo, reconhecer a Expo Cordeiro como parte da cultura nacional é reafirmar a importância das nossas raízes, da nossa memória, da vida comunitária como referência de identidade, como fator de pertencimento. Como elo afetivo que nos une a todos como brasileiros. Muito obrigada."
     }
   ],
   "orgaos": [

@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/150418.jpg",
-  "score": 19.0,
-  "rank": 231,
+  "score": 20.29,
+  "rank": 187,
   "proposicoes": [
     {
       "id": 2631190,
@@ -24,6 +24,15 @@
       "ementa": "Obriga as instituições financeiras e entidades congêneres a colher a assinatura física de pessoas com idade igual ou superior a sessenta anos para a contratação de operações de crédito.",
       "data": "2026-06-30T20:14",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636029"
+    },
+    {
+      "id": 2636817,
+      "tipo": "PL",
+      "numero": 3440,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.036, de 11 de maio de 1990, para permitir movimentação da conta vinculada do FGTS no caso em que o adquirente já seja proprietário ou promitente comprador de imóvel localizado no Município onde resida e para proibir que o uso do FGTS por um dos membros do casal impeça o exercício do direito do outro em financiamento imobiliário.",
+      "data": "2026-07-02T14:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636817"
     }
   ],
   "discursos": [],

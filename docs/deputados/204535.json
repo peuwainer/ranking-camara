@@ -4,18 +4,9 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg",
-  "score": 38.27,
-  "rank": 11,
+  "score": 39.39,
+  "rank": 13,
   "proposicoes": [
-    {
-      "id": 2629844,
-      "tipo": "PLP",
-      "numero": 156,
-      "ano": 2026,
-      "ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990, para estabelecer hipótese de inelegibilidade decorrente de condenação por crime de homotransfobia.",
-      "data": "2026-06-02T17:27",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629844"
-    },
     {
       "id": 2630603,
       "tipo": "SBT",
@@ -60,6 +51,15 @@
       "ementa": "Institui o Seguro Solidariedade para as vítimas e familiares atingidos por calamidades, desastres e tragédias na forma que especifica.",
       "data": "2026-07-01T15:36",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636247"
+    },
+    {
+      "id": 2637011,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 179, de 24 de fevereiro de 2021, que \"Define os objetivos do Banco Central do Brasil e dispõe sobre sua autonomia e sobre a nomeação e a exoneração de seu Presidente e de seus Diretores; e altera artigo da Lei nº 4.595, de 31 de dezembro de 1964\", para vedar a nomeação de pessoas com contas ou empresas em paraísos ou refúgios fiscais para a Diretoria Colegiada do Banco Central.",
+      "data": "2026-07-03T10:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637011"
     }
   ],
   "discursos": [

@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
-  "score": 24.42,
-  "rank": 97,
+  "score": 25.15,
+  "rank": 91,
   "proposicoes": [
-    {
-      "id": 2629812,
-      "tipo": "PL",
-      "numero": 2830,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.751, de 12 de dezembro de 2023, para instituir normas gerais sobre a Indenização por Supressão de Folga Operacional devida aos policiais militares e bombeiros militares dos Estados, do Distrito Federal e dos Territórios.",
-      "data": "2026-06-02T17:04",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629812"
-    },
     {
       "id": 2631700,
       "tipo": "PL",
@@ -51,6 +42,15 @@
       "ementa": "Reconhece o Lions Club do Brasil como Patrimônio Cívico-Social Nacional, em razão de sua histórica contribuição humanitária, educacional e comunitária.",
       "data": "2026-07-01T19:53",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636564"
+    },
+    {
+      "id": 2636593,
+      "tipo": "PL",
+      "numero": 3435,
+      "ano": 2026,
+      "ementa": "Concede ao Município de Guaraçaí, no Estado de São Paulo, o título de Capital Nacional do Abacaxi Havaiano.",
+      "data": "2026-07-02T09:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636593"
     }
   ],
   "discursos": [],

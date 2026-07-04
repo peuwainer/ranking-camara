@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74467.jpg",
-  "score": 15.25,
-  "rank": 390,
+  "score": 15.86,
+  "rank": 365,
   "proposicoes": [
     {
       "id": 2631190,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-07-01T18:12",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DAMIÃO FELICIANO (Bloco/UNIÃO - PB. Pela ordem. Sem revisão do orador.) - Presidente, o UNIÃO encaminha o voto \"sim\" por entender que se trata de uma matéria importante, que a Deputada Geovania ",
+      "transcricao": "O SR. DAMIÃO FELICIANO (Bloco/UNIÃO - PB. Pela ordem. Sem revisão do orador.) - Presidente, o UNIÃO encaminha o voto \"sim\" por entender que se trata de uma matéria importante, que a Deputada Geovania já vem debatendo. Este assunto foi extremamente debatido, e, naturalmente, a sociedade de Santa Catarina e do Brasil espera que essa matéria seja aprovada para que se possa solucionar esse problema. Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei n. 2614, de 2024, do Poder Executivo, que \"aprova o Plano Nacional de Educação para o decênio 2024-2034\"",

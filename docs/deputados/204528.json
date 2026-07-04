@@ -4,17 +4,26 @@
   "partido": "NOVO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
-  "score": 25.0,
-  "rank": 87,
+  "score": 27.96,
+  "rank": 60,
   "proposicoes": [
     {
-      "id": 2629601,
-      "tipo": "EMP",
-      "numero": 8,
-      "ano": 0,
-      "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
-      "data": "2026-06-02T09:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629601"
+      "id": 2636748,
+      "tipo": "PL",
+      "numero": 3438,
+      "ano": 2026,
+      "ementa": "Institui diretrizes para a promoção da integração entre educação e esporte nas categorias de base, por meio de programas de incentivo e cooperação.",
+      "data": "2026-07-02T11:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636748"
+    },
+    {
+      "id": 2637029,
+      "tipo": "PL",
+      "numero": 3449,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 6.839, de 30 de outubro de 1980, para vedar a exigência de registro de pessoas jurídicas em conselhos profissionais quando a atividade básica não for privativa de profissão regulamentada, e dá outras providências.",
+      "data": "2026-07-03T11:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637029"
     }
   ],
   "discursos": [

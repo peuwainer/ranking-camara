@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
-  "score": 35.04,
-  "rank": 20,
+  "score": 38.95,
+  "rank": 15,
   "proposicoes": [
     {
       "id": 2630104,
@@ -51,6 +51,24 @@
       "ementa": "Altera o Decreto-Lei nº 5.452, de 1º de maio de 1943 (Consolidação das Leis do Trabalho), para disciplinar a prova nas ações coletivas trabalhistas, vedar o uso de ato infralegal e de disparidade estatística como fundamento de condenação e exigir a comprovação de dolo ou culpa na caracterização do dano moral coletivo, ressalvadas hipóteses específicas de responsabilidade objetiva relacionadas a acidente de trabalho em atividade de risco e ao meio ambiente do trabalho.",
       "data": "2026-07-01T18:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636521"
+    },
+    {
+      "id": 2636988,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Julia Zanatta (PL-SC), pela aprovação do PL 2600/2019, dos PLs 2638/2019, 6064/2019, 2646/2022, 45/2025 e 1125/2023, apensados, e do Substitutivo da Comissão de Desenvolvimento Econômico, com substitutivo.",
+      "data": "2026-07-02T16:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636988"
+    },
+    {
+      "id": 2637095,
+      "tipo": "PL",
+      "numero": 3455,
+      "ano": 2026,
+      "ementa": "Acrescenta o art. 3º-A à Lei nº 13.874, de 20 de setembro de 2019, para dispor sobre a liberdade de organização do quadro funcional da pessoa jurídica de direito privado e sobre os requisitos de prova para fins sancionatórios.",
+      "data": "2026-07-03T16:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637095"
     }
   ],
   "discursos": [

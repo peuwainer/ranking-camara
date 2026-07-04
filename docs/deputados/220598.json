@@ -4,27 +4,9 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220598.jpg",
-  "score": 32.34,
-  "rank": 30,
+  "score": 34.51,
+  "rank": 23,
   "proposicoes": [
-    {
-      "id": 2629671,
-      "tipo": "EMP",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Tipifica penalmente a alteração de fotos, vídeos e som com o uso de sistema de Inteligência Artificial para praticar violência contra a mulher.",
-      "data": "2026-06-02T14:23",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629671"
-    },
-    {
-      "id": 2629877,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Institui a Política Nacional de Educação e Combate à Evasão Escolar e dá outras providências.",
-      "data": "2026-06-02T15:09",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629877"
-    },
     {
       "id": 2631190,
       "tipo": "PEC",
@@ -123,6 +105,15 @@
       "ementa": "Autoriza a instalação, em todo o território nacional, de câmeras de reconhecimento facial nas estações ferroviárias e rodoviárias, no interior dos vagões das composições, em vias públicas e repartições públicas; e dá outras providências.",
       "data": "2026-07-01T16:20",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636290"
+    },
+    {
+      "id": 2637084,
+      "tipo": "PL",
+      "numero": 3452,
+      "ano": 2026,
+      "ementa": "Proíbe doações eleitorais por pessoas naturais condenadas, com trânsito em julgado ou por decisão proferida por órgão judicial colegiado, pelos crimes que especifica.",
+      "data": "2026-07-03T14:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637084"
     }
   ],
   "discursos": [
