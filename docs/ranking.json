@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-05T09:15:12.596024+00:00",
+  "atualizado_em": "2026-07-06T10:43:43.382454+00:00",
   "legislatura": 57,
   "deputados": [
     {
@@ -185,19 +185,6 @@
       "orgaos": 5
     },
     {
-      "id": 220559,
-      "nome": "JULIA PEDROSO ZANATTA",
-      "nome_urna": "Julia Zanatta",
-      "partido": "PL",
-      "uf": "SC",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
-      "score": 38.95,
-      "proposicoes": 7,
-      "presenca_votacoes": 73.7,
-      "discursos": 15,
-      "orgaos": 8
-    },
-    {
       "id": 220654,
       "nome": "PAULO FRANCISCO MUNIZ BILYNSKYJ",
       "nome_urna": "Delegado Paulo Bilynskyj",
@@ -209,6 +196,19 @@
       "presenca_votacoes": 84.2,
       "discursos": 1,
       "orgaos": 12
+    },
+    {
+      "id": 220559,
+      "nome": "JULIA PEDROSO ZANATTA",
+      "nome_urna": "Julia Zanatta",
+      "partido": "PL",
+      "uf": "SC",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
+      "score": 37.95,
+      "proposicoes": 6,
+      "presenca_votacoes": 73.7,
+      "discursos": 15,
+      "orgaos": 8
     },
     {
       "id": 204501,
@@ -1069,19 +1069,6 @@
       "orgaos": 6
     },
     {
-      "id": 206018,
-      "nome": "CÉLIA NUNES CORREA",
-      "nome_urna": "Célia Xakriabá",
-      "partido": "PSOL",
-      "uf": "MG",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/206018.jpg",
-      "score": 25.83,
-      "proposicoes": 6,
-      "presenca_votacoes": 42.1,
-      "discursos": 1,
-      "orgaos": 11
-    },
-    {
       "id": 104552,
       "nome": "MARIA DO SOCORRO NERI MEDEIROS DE SOUZA",
       "nome_urna": "Socorro Neri",
@@ -1223,6 +1210,19 @@
       "presenca_votacoes": 47.4,
       "discursos": 0,
       "orgaos": 9
+    },
+    {
+      "id": 206018,
+      "nome": "CÉLIA NUNES CORREA",
+      "nome_urna": "Célia Xakriabá",
+      "partido": "PSOL",
+      "uf": "MG",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/206018.jpg",
+      "score": 24.83,
+      "proposicoes": 5,
+      "presenca_votacoes": 42.1,
+      "discursos": 1,
+      "orgaos": 11
     },
     {
       "id": 220635,
@@ -1641,19 +1641,6 @@
       "orgaos": 1
     },
     {
-      "id": 161440,
-      "nome": "RAFAEL PEZENTI",
-      "nome_urna": "Pezenti",
-      "partido": "MDB",
-      "uf": "SC",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/161440.jpg",
-      "score": 22.72,
-      "proposicoes": 6,
-      "presenca_votacoes": 47.4,
-      "discursos": 0,
-      "orgaos": 4
-    },
-    {
       "id": 178943,
       "nome": "MARCOS BEZERRA RIBEIRO SOARES",
       "nome_urna": "Marcos Soares",
@@ -1977,6 +1964,19 @@
       "presenca_votacoes": 47.4,
       "discursos": 0,
       "orgaos": 12
+    },
+    {
+      "id": 161440,
+      "nome": "RAFAEL PEZENTI",
+      "nome_urna": "Pezenti",
+      "partido": "MDB",
+      "uf": "SC",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/161440.jpg",
+      "score": 21.72,
+      "proposicoes": 5,
+      "presenca_votacoes": 47.4,
+      "discursos": 0,
+      "orgaos": 4
     },
     {
       "id": 152605,
@@ -4332,19 +4332,6 @@
       "orgaos": 6
     },
     {
-      "id": 220651,
-      "nome": "SIMONE APARECIDA MARQUETO CURRALADAS",
-      "nome_urna": "Simone Marquetto",
-      "partido": "PP",
-      "uf": "SP",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
-      "score": 16.79,
-      "proposicoes": 2,
-      "presenca_votacoes": 36.8,
-      "discursos": 0,
-      "orgaos": 6
-    },
-    {
       "id": 162332,
       "nome": "LUIZ HILOSHI NISHIMORI",
       "nome_urna": "Luiz Nishimori",
@@ -4772,6 +4759,19 @@
       "presenca_votacoes": 47.4,
       "discursos": 1,
       "orgaos": 2
+    },
+    {
+      "id": 220651,
+      "nome": "SIMONE APARECIDA MARQUETO CURRALADAS",
+      "nome_urna": "Simone Marquetto",
+      "partido": "PP",
+      "uf": "SP",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220651.jpg",
+      "score": 15.79,
+      "proposicoes": 1,
+      "presenca_votacoes": 36.8,
+      "discursos": 0,
+      "orgaos": 6
     },
     {
       "id": 221328,
@@ -6256,19 +6256,6 @@
       "orgaos": 2
     },
     {
-      "id": 220564,
-      "nome": "YANDRA BARRETO FERREIRA",
-      "nome_urna": "Yandra Moura",
-      "partido": "UNIÃO",
-      "uf": "SE",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220564.jpg",
-      "score": 8.9,
-      "proposicoes": 2,
-      "presenca_votacoes": 10.5,
-      "discursos": 0,
-      "orgaos": 6
-    },
-    {
       "id": 220526,
       "nome": "GILVAN AGUIAR COSTA",
       "nome_urna": "Gilvan da Federal",
@@ -6358,6 +6345,19 @@
       "presenca_votacoes": 15.8,
       "discursos": 1,
       "orgaos": 5
+    },
+    {
+      "id": 220564,
+      "nome": "YANDRA BARRETO FERREIRA",
+      "nome_urna": "Yandra Moura",
+      "partido": "UNIÃO",
+      "uf": "SE",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220564.jpg",
+      "score": 7.9,
+      "proposicoes": 1,
+      "presenca_votacoes": 10.5,
+      "discursos": 0,
+      "orgaos": 6
     },
     {
       "id": 204524,
