@@ -4,8 +4,8 @@
   "partido": "REDE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220637.jpg",
-  "score": 29.39,
-  "rank": 52,
+  "score": 29.77,
+  "rank": 56,
   "proposicoes": [
     {
       "id": 2631190,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-07-07T20:40",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. MARINA SILVA (Bloco/REDE - SP. Pela ordem. Sem revisão da oradora.) - Sra. Presidente, Sras. e Srs. Deputados, primeiro eu quero dizer da importância do que nós estamos votando. Temos uma situa",
+      "transcricao": "A SRA. MARINA SILVA (Bloco/REDE - SP. Pela ordem. Sem revisão da oradora.) - Sra. Presidente, Sras. e Srs. Deputados, primeiro eu quero dizer da importância do que nós estamos votando. Temos uma situação grave de feminicídio no Brasil, de violência contra meninas e mulheres, que aumentou 316% nos últimos 10 anos. Isso é inadmissível quando a gente pensa a fragilidade, o desamparo a que essas mulheres são submetidas. Então, Sra. Presidente, nós estamos votando algo que tem magnitude civilizatória, que diz respeito à vida, à dignidade humana. Só para se ter uma ideia, São Paulo foi o Estado em que mais aumentou o percentual de feminicídio. Quando se compara com 2022, o aumento em relação à agressão a mulheres foi de 37% e em relação à violência contra vulneráveis, 7%. Portanto, nós encaminhamos o voto \"sim\". Achamos que esta Casa está oferecendo ao Brasil uma das formas de resposta, mas a maior resposta é estruturalmente termos as secretarias funcionando durante tempo integral, com pessoas preparadas para acolher e atender as mulheres quando fazem suas queixas."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/161550.jpg",
-  "score": 12.29,
-  "rank": 455,
-  "proposicoes": [],
+  "score": 14.15,
+  "rank": 432,
+  "proposicoes": [
+    {
+      "id": 2637614,
+      "tipo": "PL",
+      "numero": 3527,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.019, de 31 de julho de 2014, para permitir, em caráter excepcional, o pagamento de servidores públicos com recursos de parcerias, desde que não haja conflito de horários.",
+      "data": "2026-07-07T14:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637614"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

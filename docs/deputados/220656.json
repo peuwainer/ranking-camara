@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220656.jpg",
-  "score": 18.76,
-  "rank": 244,
+  "score": 19.56,
+  "rank": 252,
   "proposicoes": [
     {
       "id": 2630532,
@@ -35,7 +35,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634051"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-07-07T19:16",
+      "fase": "Ordem do Dia",
+      "tipo": "PARECER",
+      "resumo": "A SRA. FERNANDA PESSOA (Bloco/PSD - CE. Para proferir parecer. Sem revisão da oradora.) - Quero dar o meu cordial boa-noite ao nosso Presidente. \"II - Voto da Relatora Compete à Mesa Diretora, nos ter",
+      "transcricao": "A SRA. FERNANDA PESSOA (Bloco/PSD - CE. Para proferir parecer. Sem revisão da oradora.) - Quero dar o meu cordial boa-noite ao nosso Presidente. \"II - Voto da Relatora Compete à Mesa Diretora, nos termos do art. 15, inciso II, do Regimento Interno da Câmara dos Deputados, apreciar projetos de resolução que disponham sobre matéria de organização interna da Câmara dos Deputados, examinando-os tanto sob o prisma da admissibilidade quanto do mérito. Quanto à constitucionalidade formal, a matéria insere-se na competência privativa da Câmara dos Deputados para dispor sobre sua organização e funcionamento (art. 51, IV, da Constituição Federal). A iniciativa parlamentar é legítima, por se tratar de matéria interna corporis, e a espécie normativa adotada (projeto de resolução) é a adequada, conforme o art. 109, inciso I, do Regimento Interno da Câmara dos Deputados, dispensando sanção presidencial. Considero meritório e oportuno o projeto ora examinado, tendo em vista a relevância de ressaltar ações e trabalhos realizados para o desenvolvimento social, econômico e cultural do Nordeste. Padre Cícero foi responsável por tornar Juazeiro do Norte um Município autônomo e contribuiu para o seu crescimento. O seu cuidado pastoral com os mais pobres, desvalidos e desemparados revelou também uma visão de empreendedor à frente de seu tempo. A valorização do desenvolvimento regional do Nordeste é um vetor essencial para o cumprimento dos objetivos da República, entre eles a redução de desigualdades internas de nosso País. Propomos apenas um ajuste: a supressão do § 3º do art. 2º da proposição em análise, pois entendemos que não há necessidade de vedação para o oferecimento da comenda a pessoas que estejam no exercício de mandato político ou àqueles com vínculos consanguíneos ou familiares com Parlamentares, o que tornará a comenda democrática e acessível a todos. Sob o prisma da constitucionalidade material, a proposição não contraria princípios ou regras constitucionais, harmonizando-se em especial com o art. 3º, II e III (II - garantir o desenvolvimento nacional; III - erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais). Caracteriza-se pela juridicidade e observa os ditames da Lei Complementar nº 95, de 1998, no tocante à técnica legislativa. II.1 - Conclusão do voto Ante o exposto, pela Mesa Diretora, somos pela aprovação do mérito do Projeto de Resolução de nº 34, de 2026, com a emenda anexa. Pela Comissão de Constituição e Justiça e de Cidadania, somos pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Resolução de nº 34, de 2026, com emenda anexa da Mesa Diretora.\" Aproveito para parabenizar o nosso grande Deputado Luiz Gastão pela iniciativa. Era isso, Sr. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

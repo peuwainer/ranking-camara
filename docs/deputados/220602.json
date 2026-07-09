@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220602.jpg",
-  "score": 19.91,
-  "rank": 200,
+  "score": 21.57,
+  "rank": 169,
   "proposicoes": [
     {
       "id": 2631190,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021, para dispor sobre contratação pública de bens e serviços artesanais.",
       "data": "2026-06-30T20:05",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635883"
+    },
+    {
+      "id": 2637237,
+      "tipo": "PL",
+      "numero": 3479,
+      "ano": 2026,
+      "ementa": "Estabelece o marco legal do Registro Nacional de Beneficiários Finais, dispõe sobre a integração, atualização, verificação, interoperabilidade e acesso às informações relativas aos beneficiários finais de pessoas jurídicas e estruturas legais, e fortalece os mecanismos de prevenção à lavagem de dinheiro, corrupção, evasão fiscal, ocultação patrimonial e infiltração da criminaliza organizada na economia formal.",
+      "data": "2026-07-06T13:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637237"
     }
   ],
   "discursos": [],

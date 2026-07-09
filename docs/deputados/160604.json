@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160604.jpg",
-  "score": 25.33,
-  "rank": 89,
+  "score": 28.6,
+  "rank": 64,
   "proposicoes": [
     {
       "id": 2631190,
@@ -78,9 +78,57 @@
       "ementa": "Autoriza a instalação, em todo o território nacional, de câmeras de reconhecimento facial nas estações ferroviárias e rodoviárias, no interior dos vagões das composições, em vias públicas e repartições públicas; e dá outras providências.",
       "data": "2026-07-01T16:20",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636290"
+    },
+    {
+      "id": 2637237,
+      "tipo": "PL",
+      "numero": 3479,
+      "ano": 2026,
+      "ementa": "Estabelece o marco legal do Registro Nacional de Beneficiários Finais, dispõe sobre a integração, atualização, verificação, interoperabilidade e acesso às informações relativas aos beneficiários finais de pessoas jurídicas e estruturas legais, e fortalece os mecanismos de prevenção à lavagem de dinheiro, corrupção, evasão fiscal, ocultação patrimonial e infiltração da criminaliza organizada na economia formal.",
+      "data": "2026-07-06T13:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637237"
+    },
+    {
+      "id": 2638392,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.445, de 5 de janeiro de 2007, para dispor sobre o cálculo da tarifa do serviço de abastecimento de água em condomínios com múltiplas unidades imobiliárias e medidor único.",
+      "data": "2026-07-08T17:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638392"
+    },
+    {
+      "id": 2638393,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre o cálculo da tarifa do serviço de abastecimento de água em condomínios com múltiplas unidades imobiliárias e medidor único.",
+      "data": "2026-07-08T17:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638393"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-07-07T21:36",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. PEDRO UCZAI (Bloco/PT - SC. Pela ordem. Sem revisão do orador.) - Eu ia fazer uma questão de ordem. V.Exa. já me conhece há tempos, e eu queria fazer uma manifestação para ter o direito, inclusi",
+      "transcricao": "O SR. PEDRO UCZAI (Bloco/PT - SC. Pela ordem. Sem revisão do orador.) - Eu ia fazer uma questão de ordem. V.Exa. já me conhece há tempos, e eu queria fazer uma manifestação para ter o direito, inclusive, de cumprimentar o Deputado Coronel Meira pela seriedade e pelo contexto que construiu nessa relação com os Estados Unidos. Nós estivemos lá também. Levamos um documento de cooperação com os Estados Unidos na área de segurança. Gosto da afirmação do nobre Deputado quando o conceito e a concepção se mantêm íntegros e coerentes: crime organizado. Parabéns, Deputado Coronel Meira! Nós podemos ter divergências de posicionamento, mas a sua seriedade e a sua responsabilidade com a questão do crime organizado, do narcotráfico, são muito mais sérias do que fazer proselitismo político e eleitoral neste Parlamento. Quando eu o cumprimento, é porque a concepção de V.Exa. eu também tenho, que é enfrentar o crime organizado e o narcotráfico em cooperação, o segundo conceito que V.Exa. defendeu, que é a mesma concepção que tenho: em cooperação, mantendo a soberania dos Estados Unidos. O senhor não foi lá para fazer interferência nos Estados Unidos. Da mesma forma, V.Exa. defende a segurança pública no Brasil sem interferência, mantendo a soberania nacional. Por isso, o conceito de cooperação e o conceito de crime organizado são os conceitos mais coerentes num debate sério, num debate responsável de enfrentamento. Já votamos aqui o PL Antifacção. Todos nós o aprovamos. Há a PEC da segurança pública, há financiamento para pegar o andar de cima. E o maior desafio, Deputado Coronel Meira, está aqui no Brasil. A droga vai daqui para os Estados Unidos, e a arma vem de lá, mas daqui para lá também vai o ilícito para fundos e volta licitamente para cá. Portanto, o dinheiro, os bilhões de reais do narcotráfico e do crime organizado, dos quais o andar de cima se apropria, alimentam a violência nos nossos países, especialmente no Brasil. Por isso, quando o Governo brasileiro quer enfrentar as facções criminosas, está no caminho certo. E o Parlamento deu a contribuição para que o Governo pudesse enfrentar o crime organizado. Nesses termos, nós podemos, na decência aqui, na pluralidade e diversidade que temos neste Parlamento, caminhar para aquilo que efetivamente funciona e interessa para nós, brasileiros, que é enfrentar o crime organizado, enfrentar o narcotráfico. E isso só vai acontecer se enfrentarmos o andar de cima em cooperação, mantendo a soberania nacional. Parabéns, Deputado Coronel Meira. Quem diria que um Líder da bancada do PT faria esse diálogo com V.Exa., que reconheceu os conceitos centrais, sem proselitismo eleitoral."
+    },
+    {
+      "data": "2026-07-07T21:16",
+      "fase": "Ordem do Dia",
+      "tipo": "COMO LÍDER",
+      "resumo": "O SR. PEDRO UCZAI (Bloco/PT - SC. Como Líder. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, Flávio Bolsonaro, o patriota entreguista, vai para os Estados Unidos defender o",
+      "transcricao": "O SR. PEDRO UCZAI (Bloco/PT - SC. Como Líder. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, Flávio Bolsonaro, o patriota entreguista, vai para os Estados Unidos defender os interesses de Trump pela sexta vez, para defender, contra o Pix, os interesses da Visa e da Mastercard. E não sou eu quem estou falando: é a carta de Flávio Bolsonaro endereçada ao Secretário de Estado norte-americano, Marco Rubio. Flávio Bolsonaro, com Eduardo Bolsonaro, pediu o tarifaço contra o Brasil no ano passado para conseguir a anistia de seu pai, Jair Bolsonaro, prejudicando os empresários e os trabalhadores brasileiros. Agora, novamente, pede um novo tarifaço dos Estados Unidos contra o Brasil. Numa primeira investigação, 25%; e numa segunda investigação, 12,5%. Entreguista! Vira-lata! Ele provavelmente foi para os Estados Unidos buscar parte dos 61 milhões que Daniel Vorcaro mandou para o fundo do Texas, da corrupção, da bandalheira do Banco Master, do \"Bolsomaster\", que estão lá nos Estados Unidos. Pede para o Trump mandar o dinheiro ilícito que foi para os Estados Unidos! Pede para os bandidos que estão lá nos Estados Unidos retornarem para o Brasil os fundos do ilícito, do narcotráfico e do crime organizado! Não, ele vai lá advogar a favor dos Estados Unidos. Vira-lata! Lambe-botas do Trump! Entreguista contra a soberania do nosso Brasil! Esse é Flávio Bolsonaro. Está havendo repercussão eleitoral diante das corrupções do Banco Master, de Daniel Vorcaro e de toda a sua turma no Rio de Janeiro e aqui em Brasília. Agora surgiu o caso de mais uma mansão de 10 milhões sendo disputada por um jogador, seu advogado e tantas outras falcatruas de Flávio Bolsonaro. E ele vai para os Estados Unidos advogar contra o Brasil, contra o empresariado brasileiro. Quero ver os empresários de Santa Catarina, do setor madeireiro, porque virá um tarifaço em setores estratégicos da economia novamente. Esses entreguistas, esses vira-latas, esses lambe-botas dos Estados Unidos não podem prosperar neste País. Flávio já deveria ficar lá junto com o irmão Eduardo Bolsonaro. Parabéns ao Presidente Lula e ao Ministro Mauro Vieira por dizerem que o Brasil é soberano! O Pix é do Brasil e dos brasileiros. Ninguém mexe no nosso Pix. O Banco Central é público, sem taxa, sem impostos. E nossa bancada apresentou uma emenda constitucional para garantir o Pix para o Brasil. Não mexam com o Pix! Não defendam o Visa e o Mastercard! Nós queremos o Pix! O Presidente Lula continua defendendo o Brasil, continua defendendo a economia brasileira, continua defendendo o nosso País, os interesses nacionais, o empresariado brasileiro, os trabalhadores brasileiros para gerar emprego aqui, oportunidade aqui. Que orgulho de ser brasileiro com um Presidente desse, e não com aquele ex-Presidente que se ajoelhava para os Estados Unidos! O próprio The Washington Post colocava Jair Bolsonaro lustrando o sapato do Presidente dos Estados Unidos. Nós queremos o Brasil para os brasileiros. Nós queremos as terras raras para o Brasil, e não ver o Senador Flávio Bolsonaro entregando para o Trump as nossas riquezas naturais, como os minerais estratégicos. Nós queremos a Petrobras nossa, nós queremos o Pix nosso. Nós queremos, Presidente Lula, o Brasil dos brasileiros. Por isso, continue transformando este Brasil num Brasil cada vez mais digno, mais justo, com mais oportunidades para o povo brasileiro. Que os vira-latas fiquem nos Estados Unidos, porque o Brasil é dos brasileiros!"
+    },
+    {
+      "data": "2026-07-07T20:28",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. PEDRO UCZAI (Bloco/PT - SC. Pela ordem. Sem revisão do orador.) - Nossa Federação e nossa bancada votam com muito orgulho \"sim\". Parabéns à nossa colega de bancada Deputada Jack Rocha, parabéns ",
+      "transcricao": "O SR. PEDRO UCZAI (Bloco/PT - SC. Pela ordem. Sem revisão do orador.) - Nossa Federação e nossa bancada votam com muito orgulho \"sim\". Parabéns à nossa colega de bancada Deputada Jack Rocha, parabéns à nossa Relatora Jandira Feghali e a todos que participaram da construção deste texto. O Presidente Lula lançou o Pacto Nacional contra o Feminicídio, mostrando o compromisso do Governo brasileiro contra a violência contra as mulheres neste País. Segundo, o Parlamento tem que fazer a sua parte e construir legislação não para depois que acontece o feminicídio, mas para evitá-lo. O Parlamento tem que construir uma política nacional de prevenção à violência contra as mulheres e garantir financiamento. Qual é a grande novidade deste projeto? É o financiamento, é garantir recurso público para financiar e proteger as mulheres do Brasil. Orientamos \"sim\"."
+    },
     {
       "data": "2026-06-30T19:00",
       "fase": "Ordem do Dia",

@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220565.jpg",
-  "score": 14.61,
-  "rank": 400,
+  "score": 14.82,
+  "rank": 416,
   "proposicoes": [
     {
       "id": 2631190,
@@ -24,6 +24,15 @@
       "ementa": "Institui diretrizes nacionais para o aprimoramento do atendimento em saúde às mulheres vítimas de violência e cria instrumentos de avaliação de risco, registro clínico e fluxo integrado de atendimento.",
       "data": "2026-06-16T10:48",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632566"
+    },
+    {
+      "id": 2637237,
+      "tipo": "PL",
+      "numero": 3479,
+      "ano": 2026,
+      "ementa": "Estabelece o marco legal do Registro Nacional de Beneficiários Finais, dispõe sobre a integração, atualização, verificação, interoperabilidade e acesso às informações relativas aos beneficiários finais de pessoas jurídicas e estruturas legais, e fortalece os mecanismos de prevenção à lavagem de dinheiro, corrupção, evasão fiscal, ocultação patrimonial e infiltração da criminaliza organizada na economia formal.",
+      "data": "2026-07-06T13:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637237"
     }
   ],
   "discursos": [],

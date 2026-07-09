@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141398.jpg",
-  "score": 18.72,
-  "rank": 249,
+  "score": 20.19,
+  "rank": 223,
   "proposicoes": [
     {
       "id": 2631190,
@@ -24,6 +24,15 @@
       "ementa": "Institui o Dia Nacional dos Trabalhadores em  Centrais de Abastecimento de Alimentos do Brasil.",
       "data": "2026-06-17T20:04",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633976"
+    },
+    {
+      "id": 2637237,
+      "tipo": "PL",
+      "numero": 3479,
+      "ano": 2026,
+      "ementa": "Estabelece o marco legal do Registro Nacional de Beneficiários Finais, dispõe sobre a integração, atualização, verificação, interoperabilidade e acesso às informações relativas aos beneficiários finais de pessoas jurídicas e estruturas legais, e fortalece os mecanismos de prevenção à lavagem de dinheiro, corrupção, evasão fiscal, ocultação patrimonial e infiltração da criminaliza organizada na economia formal.",
+      "data": "2026-07-06T13:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637237"
     }
   ],
   "discursos": [],

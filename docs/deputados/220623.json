@@ -4,18 +4,9 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
-  "score": 20.39,
-  "rank": 179,
+  "score": 22.78,
+  "rank": 146,
   "proposicoes": [
-    {
-      "id": 2630337,
-      "tipo": "PL",
-      "numero": 2919,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para inserir expressamente a conduta de abandono de animais no tipo penal previsto em seu art. 32.",
-      "data": "2026-06-08T16:04",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630337"
-    },
     {
       "id": 2631190,
       "tipo": "PEC",
@@ -51,6 +42,33 @@
       "ementa": "Institui a Política Nacional de Educação de Jovens e Adultos (PNEJA).",
       "data": "2026-06-30T20:21",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635884"
+    },
+    {
+      "id": 2637609,
+      "tipo": "PL",
+      "numero": 3522,
+      "ano": 2026,
+      "ementa": "Altera a redação da Lei nº 12.334, de 20 de setembro de 2010, para dispor sobre a declaração de emergência em barragens pelo empreendedor, as medidas emergenciais de proteção das pessoas e da natureza e o exercício de poder de polícia administrativa do órgão fiscalizador.",
+      "data": "2026-07-07T13:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637609"
+    },
+    {
+      "id": 2637611,
+      "tipo": "PL",
+      "numero": 3524,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de terrorismo de barragem, consistente no acionamento indevido de sirenes ou sistemas de alerta associados a barragens.",
+      "data": "2026-07-07T14:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637611"
+    },
+    {
+      "id": 2637650,
+      "tipo": "PL",
+      "numero": 3528,
+      "ano": 2026,
+      "ementa": "Dispõe sobre requisitos mínimos para a realização de procedimentos cirúrgicos de esterilização em animais e dá outras providências.",
+      "data": "2026-07-07T15:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637650"
     }
   ],
   "discursos": [],

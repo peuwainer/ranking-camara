@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160556.jpg",
-  "score": 23.17,
-  "rank": 119,
+  "score": 23.56,
+  "rank": 131,
   "proposicoes": [
-    {
-      "id": 2630382,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe o credenciamento de profissionais e de empresas da área de saúde, para o atendimento de pacientes do Sistema Único de Saúde (SUS) em nível ambulatorial.",
-      "data": "2026-06-08T15:03",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630382"
-    },
     {
       "id": 2631190,
       "tipo": "PEC",
@@ -33,6 +24,15 @@
       "ementa": "Altera a Lei nº 10.708, de 31 de julho de 2003, para incluir egressos de Alas de Tratamento Psiquiátrico e estruturas congêneres do sistema prisional no Programa De Volta para Casa.",
       "data": "2026-06-24T14:42",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635106"
+    },
+    {
+      "id": 2637237,
+      "tipo": "PL",
+      "numero": 3479,
+      "ano": 2026,
+      "ementa": "Estabelece o marco legal do Registro Nacional de Beneficiários Finais, dispõe sobre a integração, atualização, verificação, interoperabilidade e acesso às informações relativas aos beneficiários finais de pessoas jurídicas e estruturas legais, e fortalece os mecanismos de prevenção à lavagem de dinheiro, corrupção, evasão fiscal, ocultação patrimonial e infiltração da criminaliza organizada na economia formal.",
+      "data": "2026-07-06T13:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637237"
     }
   ],
   "discursos": [

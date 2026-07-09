@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/206018.jpg",
-  "score": 24.83,
-  "rank": 94,
+  "score": 29.6,
+  "rank": 58,
   "proposicoes": [
     {
       "id": 2631190,
@@ -51,6 +51,51 @@
       "ementa": "Institui o Programa Nacional “Autor da Quebrada, Autor da Aldeia, Autor da Fronteira” e dá outras providências.",
       "data": "2026-06-25T10:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635165"
+    },
+    {
+      "id": 2637838,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Reconhece a Poesia Oral Improvisada como manifestação da cultura nacional e expressão viva da tradição literária popular do Brasil.",
+      "data": "2026-07-07T18:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637838"
+    },
+    {
+      "id": 2637850,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Lei Nacional de Direitos Linguísticos dos Povos Indígenas, estabelece princípios, direitos, garantias, diretrizes de proteção, revitalização, financiamento, oficialização e presença institucional das línguas indígenas, dispõe sobre o direito a intérprete, educação multilíngue e dá outras providências.",
+      "data": "2026-07-07T19:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637850"
+    },
+    {
+      "id": 2637871,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Lei da Logística Reversa Comunitária no Norte, estabelece mecanismos de inclusão produtiva de associações comunitárias, catadores e cooperativas indígenas e rurais na cadeia da logística reversa, cria instrumentos de remuneração por serviço ambiental e dá outras providências.",
+      "data": "2026-07-07T19:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637871"
+    },
+    {
+      "id": 2637874,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.326, de 24 de julho de 2006, para reconhecer expressamente os povos indígenas como beneficiários da Política Nacional da Agricultura Familiar e Empreendimentos Familiares Rurais.",
+      "data": "2026-07-07T19:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637874"
+    },
+    {
+      "id": 2637879,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Redução do Custo de Alimentos em Fronteira e Áreas Isoladas, estabelece instrumentos federais de logística, armazenagem, compras públicas e incentivo ao abastecimento regional, define metas e mecanismos de monitoramento de preços, e dá outras providências.",
+      "data": "2026-07-07T19:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637879"
     }
   ],
   "discursos": [

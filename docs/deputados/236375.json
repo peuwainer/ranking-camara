@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236375.jpg",
-  "score": 18.45,
-  "rank": 263,
+  "score": 19.19,
+  "rank": 266,
   "proposicoes": [
     {
       "id": 2633448,
@@ -36,6 +36,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-07-08T16:20",
+      "fase": "Breves Comunicações",
+      "tipo": "FALA DO PRESIDENTE OU NO EXERCÍCIO DA PRESIDÊNCIA",
+      "resumo": "O SR. PRESIDENTE (Marcos Braz. Bloco/PSDB - RJ) - Srs. Deputados, vou fazer um breve comunicado, um relato da minha satisfação por ter a oportunidade de presidir uma sessão aqui na Câmara dos Deputado",
+      "transcricao": "O SR. PRESIDENTE (Marcos Braz. Bloco/PSDB - RJ) - Srs. Deputados, vou fazer um breve comunicado, um relato da minha satisfação por ter a oportunidade de presidir uma sessão aqui na Câmara dos Deputados; a Câmara dos Deputados que um dia teve o Ulysses Guimarães e tantos outros Deputados que nos engrandeceram e fizeram valer a democracia deste País. Eu, que sou da Baixada Fluminense, que nasci na Baixada Fluminense, que vim das arquibancadas da torcida do Flamengo, sinto muito prazer por isso. Estou muito agradecido a Deus e a todos que me deram a oportunidade de estar aqui. Muito obrigado."
+    },
     {
       "data": "2026-06-09T18:16",
       "fase": "Ordem do Dia",

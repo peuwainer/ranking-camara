@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236518.jpg",
-  "score": 12.11,
-  "rank": 457,
+  "score": 12.16,
+  "rank": 461,
   "proposicoes": [
     {
       "id": 2632571,
@@ -27,6 +27,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-07-07T14:52",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. SANTIN ROVEDA (Bloco/UNIÃO - PR. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu já fui Prefeito, Secretário de Justiça, Presidente do Detran, hoje estou como Deputado Federal. Quero cu",
+      "transcricao": "O SR. SANTIN ROVEDA (Bloco/UNIÃO - PR. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu já fui Prefeito, Secretário de Justiça, Presidente do Detran, hoje estou como Deputado Federal. Quero cumprimentar os colegas, amigos do Estado do Paraná: o nosso Prefeito de Maria Helena, Marlon Rancer Marques, presente hoje em Brasília junto conosco, que está em busca de recursos, possibilidades, liberações importantes para o Município que tanto o aprova. Também está aqui o Prefeito Valtinho, de Terra Boa, um trabalhador, um amigo do povo paranaense, que vem demonstrando sua capacidade e competência como Prefeito, e também o Prefeito Anderson Manique Barreto, de Coronel Vivida, no nosso Estado do Paraná, Estado brilhante da agricultura, da indústria e do empreendedorismo. Vamos trabalhar!"
+    },
     {
       "data": "2026-06-30T16:36",
       "fase": "Breves Comunicações",
@@ -61,6 +68,12 @@
       "sigla": "CME",
       "cargo": "Suplente",
       "desde": "2026-06-30T00:00"
+    },
+    {
+      "nome": "Comissão de Turismo",
+      "sigla": "CTUR",
+      "cargo": "Suplente",
+      "desde": "2026-07-07T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/236518/votacoes-nominais-plenario/2026"

@@ -4,9 +4,19 @@
   "partido": "PP",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220583.jpg",
-  "score": 26.14,
-  "rank": 77,
-  "proposicoes": [],
+  "score": 27.52,
+  "rank": 74,
+  "proposicoes": [
+    {
+      "id": 2638449,
+      "tipo": "PL",
+      "numero": 3604,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.826, de 22 de dezembro de 2003, para estender a isenção das taxas previstas em seu art. 11 aos integrantes das categorias de que trata o art. 6º quando aposentados, transferidos para a reserva remunerada ou reformados.",
+      "data": "2026-07-08T19:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638449"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

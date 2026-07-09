@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178873.jpg",
-  "score": 39.08,
+  "score": 38.18,
   "rank": 14,
   "proposicoes": [
-    {
-      "id": 2630480,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre a terminologia oficial relativa à filariose e ao linfedema avançado.",
-      "data": "2026-06-08T17:41",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630480"
-    },
     {
       "id": 2631190,
       "tipo": "PEC",
@@ -42,9 +33,25 @@
       "ementa": "Acrescenta o art. 81-A à Lei n° 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para determinar o registro, em boletim de ocorrência, da motivação do fato pela condição de pessoa com deficiência da vítima.",
       "data": "2026-06-17T19:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633955"
+    },
+    {
+      "id": 2637237,
+      "tipo": "PL",
+      "numero": 3479,
+      "ano": 2026,
+      "ementa": "Estabelece o marco legal do Registro Nacional de Beneficiários Finais, dispõe sobre a integração, atualização, verificação, interoperabilidade e acesso às informações relativas aos beneficiários finais de pessoas jurídicas e estruturas legais, e fortalece os mecanismos de prevenção à lavagem de dinheiro, corrupção, evasão fiscal, ocultação patrimonial e infiltração da criminaliza organizada na economia formal.",
+      "data": "2026-07-06T13:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637237"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-07-07T20:00",
+      "fase": "Ordem do Dia",
+      "tipo": "DISCUSSÃO",
+      "resumo": "O SR. HELDER SALOMÃO (Bloco/PT - ES. Sem revisão do orador.) - Eu quero, inicialmente, parabenizar a Deputada Jack Rocha e as demais Parlamentares da bancada feminina que assinam essa importante propo",
+      "transcricao": "O SR. HELDER SALOMÃO (Bloco/PT - ES. Sem revisão do orador.) - Eu quero, inicialmente, parabenizar a Deputada Jack Rocha e as demais Parlamentares da bancada feminina que assinam essa importante proposta legislativa e também a Deputada Jandira Feghali pela relatoria do projeto de lei que cria o Sistema Nacional de Enfrentamento da Violência contra Meninas e Mulheres. Nós sabemos que os desafios são grandes. Não foi à toa que o Presidente Lula lançou o Pacto Nacional Brasil contra o Feminicídio, Deputado Patrus. Nós vivemos um tempo em que, infelizmente, os feminicídios têm aumentado no nosso País. Enquanto a violência, de maneira geral, reduz com as ações que têm sido adotadas, o feminicídio tem aumentado. E isso se deve a várias razões: à cultura machista, patriarcal, ao machismo estrutural e também a discursos de ódio, de intolerância, de misoginia. A gente ouve aqui Parlamentares da Oposição dizerem que o Presidente Lula não gosta das mulheres ou não respeita as mulheres. Como assim? Lembro do que disse o ex-Presidente, que disse que teve quatro filhos; e, na quinta tentativa, ele fraquejou porque não foi um homem, foi uma mulher. Quando você ouve isso de um líder, de um Presidente da República, o que seus liderados ou seus apoiadores vão compreender? Que a mulher deve ser submissa ao homem, que a mulher representa alguém que não tem condições de viver em igualdade numa sociedade. Quem não se lembra do que disse Paulo Figueiredo esses dias? Paulo Figueiredo, para quem não se lembra, é o apoiador número um, que vive nos Estados Unidos, do Senador Flávio Bolsonaro, filho de João Figueiredo, que já presidiu este País. Ele disse que as mulheres votam mal, Deputada Tabata, que as mulheres não sabem votar. Como assim? Como, no século XXI, nós ainda temos que ouvir alguém que apoia um candidato a Presidente da República dizer que as mulheres votam mal, Jandira Feghali, que as mulheres não sabem votar? Então, esse projeto precisa ser aprovado porque nós precisamos enfrentar com decisão a violência política contra a mulher."
+    },
     {
       "data": "2026-07-02T10:56",
       "fase": "Ordem do Dia",

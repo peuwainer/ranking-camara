@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141450.jpg",
-  "score": 19.29,
-  "rank": 219,
+  "score": 19.44,
+  "rank": 255,
   "proposicoes": [
     {
       "id": 2633488,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre o agravamento de penalidades referentes a corrida, disputa ou competição automobilística ou ainda de exibição ou demonstração de perícia em manobra de veículo automotor, em via pública.",
       "data": "2026-06-22T15:35",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634647"
+    },
+    {
+      "id": 2637802,
+      "tipo": "PL",
+      "numero": 3537,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para agravar as penalidades para a condução de motocicletas, motonetas e ciclomotores fazendo malabarismo (Lei do Grau).",
+      "data": "2026-07-07T18:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637802"
     }
   ],
   "discursos": [],

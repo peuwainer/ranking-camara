@@ -4,27 +4,9 @@
   "partido": "PODE",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 41.73,
-  "rank": 9,
+  "score": 49.06,
+  "rank": 5,
   "proposicoes": [
-    {
-      "id": 2630308,
-      "tipo": "PL",
-      "numero": 2917,
-      "ano": 2026,
-      "ementa": "Institui o Marco Legal da Soberania Financeira Digital Brasileira e da Proteção das Infraestruturas Estratégicas Nacionais de Pagamentos, estabelece a Política Nacional de Soberania Financeira Digital, dispõe sobre a proteção dos sistemas nacionais de pagamentos digitais, a defesa dos usuários, a prevenção de fraudes financeiras digitais, a inclusão financeira territorial, a proteção de dados financeiros estratégicos e dá outras providências.",
-      "data": "2026-06-08T15:31",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630308"
-    },
-    {
-      "id": 2630380,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Institui a Política Nacional de Apoio Psicológico a Profissionais de Serviços Essenciais e estabelece sua articulação com a Rede de Atenção Psicossocial do Sistema Único de Saúde.",
-      "data": "2026-06-08T15:26",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630380"
-    },
     {
       "id": 2631153,
       "tipo": "PL",
@@ -240,6 +222,114 @@
       "ementa": "Institui a Política Nacional Meninas Fortes, destinada à prevenção da violência contra meninas e adolescentes, à promoção da autonomia feminina, à proteção em ambientes físicos e digitais, ao fortalecimento da segurança preventiva e do protagonismo feminino, e dá outras providências.",
       "data": "2026-07-01T15:06",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636224"
+    },
+    {
+      "id": 2637218,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-07-06T12:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637218"
+    },
+    {
+      "id": 2637507,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.445, de 5 de janeiro de 2007, que estabelece as diretrizes nacionais para o saneamento básico, para dispor sobre a transparência de informações relativas ao reúso de água promovido por condomínios edilícios, com divulgação periódica de dados operacionais.",
+      "data": "2026-07-07T11:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637507"
+    },
+    {
+      "id": 2637513,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Bairro + Perto (BAIRRO + PERTO) e dá outras providências.",
+      "data": "2026-07-07T11:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637513"
+    },
+    {
+      "id": 2637745,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre a instalação obrigatória de dispositivos de segurança nas piscinas coletivas.",
+      "data": "2026-07-07T16:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637745"
+    },
+    {
+      "id": 2637766,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Estabelece princípios, garantias, direitos e deveres para o desenvolvimento, a implementação e a aplicação da inteligência artificial no Brasil, visando promover sua utilização segura, ética e responsável.",
+      "data": "2026-07-07T17:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637766"
+    },
+    {
+      "id": 2637775,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a definição, qualificação e prerrogativas das instituições municipais de ensino superior (Imes) e institui o Programa de Apoio às Instituições Municipais de Educação Superior (Proimes).",
+      "data": "2026-07-07T18:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637775"
+    },
+    {
+      "id": 2637786,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a observância de normas da Associação Brasileira de Normas Técnicas na instalação, operação e manutenção de sistemas de iluminação de áreas externas em locais públicos que utilizem postes metálicos.",
+      "data": "2026-07-07T18:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637786"
+    },
+    {
+      "id": 2637809,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Cidades Antiviolência, com o objetivo de prevenir a violência e a criminalidade a partir do espaço urbano e da inteligência territorial; e altera as Leis nºs 10.257, de 10 de julho de 2001 (Estatuto da Cidade), 13.675, de 11 de junho de 2018, e 13.756, de 12 de dezembro de 2018, que institui o Fundo Nacional de Segurança Pública (FNSP).",
+      "data": "2026-07-07T18:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637809"
+    },
+    {
+      "id": 2637824,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), para incluir a resiliência climática e a sustentabilidade como fatores de preferência nas contratações de saneamento básico.",
+      "data": "2026-07-07T18:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637824"
+    },
+    {
+      "id": 2637835,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui, nos programas habitacionais públicos ou financiados com recursos públicos, prioridade de atendimento às famílias de que façam parte pessoas com neoplasia maligna.",
+      "data": "2026-07-07T18:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637835"
+    },
+    {
+      "id": 2637858,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.124, de 2005, que dispõe sobre o Sistema Nacional de Habitação de Interesse Social – SNHIS e dá outras providências",
+      "data": "2026-07-07T19:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637858"
+    },
+    {
+      "id": 2637863,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre o incentivo à inclusão plena, a permanência no trabalho e a promoção do empreendedorismo das pessoas com deficiência, em igualdade de condições.",
+      "data": "2026-07-07T19:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637863"
     }
   ],
   "discursos": [],

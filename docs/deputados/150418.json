@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/150418.jpg",
-  "score": 20.29,
-  "rank": 187,
+  "score": 21.57,
+  "rank": 170,
   "proposicoes": [
     {
       "id": 2631190,
@@ -86,16 +86,22 @@
       "desde": "2026-03-04T00:00"
     },
     {
+      "nome": "Comissão de Ciência, Tecnologia e Inovação",
+      "sigla": "CCTI",
+      "cargo": "Suplente",
+      "desde": "2026-04-17T00:00"
+    },
+    {
       "nome": "Comissão de Minas e Energia",
       "sigla": "CME",
       "cargo": "Titular",
       "desde": "2026-04-17T00:00"
     },
     {
-      "nome": "Comissão de Ciência, Tecnologia e Inovação",
-      "sigla": "CCTI",
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
       "cargo": "Suplente",
-      "desde": "2026-04-17T00:00"
+      "desde": "2026-07-08T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/150418/votacoes-nominais-plenario/2026"

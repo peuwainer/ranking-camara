@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220655.jpg",
-  "score": 14.88,
-  "rank": 397,
+  "score": 17.44,
+  "rank": 343,
   "proposicoes": [
     {
       "id": 2631357,
@@ -15,6 +15,24 @@
       "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
       "data": "2026-06-10T15:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631357"
+    },
+    {
+      "id": 2637787,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre o Sistema Nacional de Enfrentamento da Violência contra Meninas e Mulheres e a destinação de recursos às ações de enfrentamento ao feminicídio e de garantia da vida de meninas e mulheres.",
+      "data": "2026-07-07T18:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637787"
+    },
+    {
+      "id": 2638323,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dá ao art. 5º do substitutivo nova redação.",
+      "data": "2026-07-08T16:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638323"
     }
   ],
   "discursos": [],

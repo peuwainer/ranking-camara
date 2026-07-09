@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178945.jpg",
-  "score": 10.78,
-  "rank": 469,
+  "score": 15.36,
+  "rank": 406,
   "proposicoes": [
     {
       "id": 2633488,
@@ -15,6 +15,42 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2638355,
+      "tipo": "PL",
+      "numero": 3583,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de cobertura assistencial integral por especialidades médicas nos planos privados de assistência à saúde e estabelece sanções por negativa de acesso.",
+      "data": "2026-07-08T16:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638355"
+    },
+    {
+      "id": 2638357,
+      "tipo": "PL",
+      "numero": 3584,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de cobertura assistencial mínima por especialidade médica nos planos privados de assistência à saúde.",
+      "data": "2026-07-08T16:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638357"
+    },
+    {
+      "id": 2638358,
+      "tipo": "PL",
+      "numero": 3585,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de previsão orçamentária para a implantação de Centros de Atendimento à Pessoa com Transtorno do Espectro Autista (TEA), institui o Cadastro Nacional da Pessoa com Transtorno do Espectro Autista e dá outras providências. Lei Rede Azul Brasil.",
+      "data": "2026-07-08T16:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638358"
+    },
+    {
+      "id": 2638359,
+      "tipo": "PL",
+      "numero": 3586,
+      "ano": 2026,
+      "ementa": "Institui critérios para o repasse de recursos destinados ao custeio de políticas públicas voltadas à população idosa nos municípios brasileiros.",
+      "data": "2026-07-08T16:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638359"
     }
   ],
   "discursos": [

@@ -4,9 +4,28 @@
   "partido": "AVANTE",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/91228.jpg",
-  "score": 31.54,
-  "rank": 39,
-  "proposicoes": [],
+  "score": 33.42,
+  "rank": 29,
+  "proposicoes": [
+    {
+      "id": 2638264,
+      "tipo": "PL",
+      "numero": 3568,
+      "ano": 2026,
+      "ementa": "Altera a legislação do Imposto sobre a Renda da Pessoa Física para permitir a dedução das despesas com assistência médico-veterinária e planos de saúde de animais domésticos de estimação da base de cálculo do Imposto de Renda da Pessoa Física (IRPF), e dá outras providências.",
+      "data": "2026-07-08T14:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638264"
+    },
+    {
+      "id": 2638297,
+      "tipo": "PL",
+      "numero": 3576,
+      "ano": 2026,
+      "ementa": "Altera o art. 473 da Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para permitir a ausência justificada do empregado em razão da necessidade de prestar cuidados indispensáveis a animal de estimação sob sua responsabilidade.",
+      "data": "2026-07-08T15:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638297"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

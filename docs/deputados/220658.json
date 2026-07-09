@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220658.jpg",
-  "score": 22.23,
-  "rank": 139,
+  "score": 23.09,
+  "rank": 141,
   "proposicoes": [
     {
       "id": 2631190,
@@ -44,7 +44,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634848"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-07-07T19:28",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LUIZ GASTÃO (Bloco/PSD - CE. Pela ordem. Sem revisão do orador.) - Presidente, muito obrigado. Hoje a Câmara fez justiça a um grande nordestino, a um grande brasileiro, o Padre Cícero, que foi, ",
+      "transcricao": "O SR. LUIZ GASTÃO (Bloco/PSD - CE. Pela ordem. Sem revisão do orador.) - Presidente, muito obrigado. Hoje a Câmara fez justiça a um grande nordestino, a um grande brasileiro, o Padre Cícero, que foi, acima de tudo, um grande desenvolvimentista, não só para Juazeiro mas também para todo o Nordeste, referenciado ainda por gerações. Então, eu queria agradecer a V.Exa., Sr. Presidente. Agradeço também à Deputada Fernanda Pessoa por ter relatado o projeto. Quase a chamei de Roberta, porque seu pai, Roberto Pessoa, é um grande admirador e um grande entusiasta do Padre Cícero, é Embaixador do Padre Cícero. Deputada Fernanda Pessoa, o projeto não poderia ter sido relatado por outra pessoa, senão V.Exa. Agradeço a toda a bancada do Cerá e a todos os Deputados, que, de forma unânime, acabam de aprovar esta comenda, e a V.Exa., Sr. Presidente, por conduzir este trabalho. Muito obrigado, Sr. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a verificar a situação dos municípios que perderam recursos financeiros do FPM, depois dos cálculos feitos pelo TCU, com base no Censo inacabado do IBGE",

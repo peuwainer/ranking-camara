@@ -4,54 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178871.jpg",
-  "score": 39.66,
-  "rank": 11,
+  "score": 35.11,
+  "rank": 23,
   "proposicoes": [
-    {
-      "id": 2630112,
-      "tipo": "PRC",
-      "numero": 30,
-      "ano": 2026,
-      "ementa": "Acrescenta parágrafo ao art. 82 do Regimento Interno da Câmara dos Deputados, para estabelecer a execução do Hino Nacional Brasileiro no início da primeira Ordem do Dia de cada semana legislativa.",
-      "data": "2026-06-08T09:24",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630112"
-    },
-    {
-      "id": 2630113,
-      "tipo": "PL",
-      "numero": 2895,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 12.305, de 2 de agosto de 2010, para criar o Programa Nacional de Incentivo à Coleta Seletiva Residencial e dispor sobre a participação do consumidor na Política Nacional de Resíduos Sólidos.",
-      "data": "2026-06-08T09:28",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630113"
-    },
-    {
-      "id": 2630252,
-      "tipo": "PL",
-      "numero": 2905,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 10.858, de 13 de abril de 2004, para tratar do credenciamento de farmácias populares.",
-      "data": "2026-06-08T14:08",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630252"
-    },
-    {
-      "id": 2630301,
-      "tipo": "PL",
-      "numero": 2916,
-      "ano": 2026,
-      "ementa": "Concede o título de Capital Nacional da Produção da Pimenta Rosa e da Pimenta-do-Reino ao Município de São Mateus, no Estado do Espírito Santo",
-      "data": "2026-06-08T15:21",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630301"
-    },
-    {
-      "id": 2630375,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Estabelece o regime de salvaguarda, no âmbito de investimentos estrangeiros, de ativos estratégicos essenciais para garantir a defesa e soberania nacional e a segurança do aprovisionamento do país em serviços fundamentais para o interesse nacional, assim como regulamenta o recebimento de recursos estrangeiros pelas Organizações Não Governamentais.",
-      "data": "2026-06-08T17:52",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630375"
-    },
     {
       "id": 2630415,
       "tipo": "PL",
@@ -60,15 +15,6 @@
       "ementa": "Institui o Selo Brasileiro de Rochas Naturais, dispõe sobre os critérios de certificação, a competência administrativa e as penalidades pelo uso indevido do Selo.",
       "data": "2026-06-09T09:59",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630415"
-    },
-    {
-      "id": 2630523,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Institui a Ocupação Nacional de Extensionista Rural, estabelece diretrizes gerais para sua definição profissional e multidisciplinar, reconhece as atividades específicas da Assistência Técnica e Extensão Rural (ATER) e dá outras providências.",
-      "data": "2026-06-08T16:24",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630523"
     },
     {
       "id": 2630828,
@@ -150,9 +96,41 @@
       "ementa": "Dispõe sobre a participação de filhos de trabalhadores rurais e de produtores rurais em atividades de economia familiar e exploração agrícola",
       "data": "2026-07-03T11:22",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637023"
+    },
+    {
+      "id": 2637413,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Estabelece o regime de salvaguarda, no âmbito de investimentos estrangeiros, de ativos estratégicos essenciais para garantir a defesa e soberania nacional e a segurança do aprovisionamento do país em serviços fundamentais para o interesse nacional, assim como regulamenta o recebimento de recursos estrangeiros pelas Organizações Não Governamentais.",
+      "data": "2026-07-06T17:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637413"
+    },
+    {
+      "id": 2638323,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dá ao art. 5º do substitutivo nova redação.",
+      "data": "2026-07-08T16:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638323"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-07-07T22:00",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. EVAIR VIEIRA DE MELO (Bloco/REPUBLICANOS - ES. Pela ordem. Sem revisão do orador.) - Presidente Sargento Fahur, que honra ser presidido por V.Exa. no encerramento dos trabalhos desta noite. Mas,",
+      "transcricao": "O SR. EVAIR VIEIRA DE MELO (Bloco/REPUBLICANOS - ES. Pela ordem. Sem revisão do orador.) - Presidente Sargento Fahur, que honra ser presidido por V.Exa. no encerramento dos trabalhos desta noite. Mas, Napoleão Bonaparte deve estar se revirando no túmulo. Ele, que foi um guerreiro, um líder, um homem que abriu territórios, um homem que liderou a França no seu tempo, criou a Ordem Nacional da Legião de Honra, que se tornou a maior honraria do Governo francês. Napoleão preservou inclusive espaços culturais, artísticos, de enfrentamento e, quando esteve em Firenze, encantou-se com sua ponte e não a destruiu. Mas, em outros tempos, ele criou essa honraria para prestigiar guerreiros, desbravadores, pioneiros, homens e mulheres que tiveram a coragem de honrar a história dos seus valores. Mas a França caiu na desgraça de ter Emmanuel Macron como seu Presidente. Ele pega essa honraria, que já foi concedida, por exemplo, a Juscelino Kubitschek, e presta o desserviço de entregá-la à Deputada Marina Silva, a \"Marina Fumaça\". Vejam o contraditório de tudo isso. A França é a Nação europeia que mais trabalha contra o Brasil. Fundos do Governo francês alimentam ONGs no Brasil para falarem mal do nosso País, para criticarem o nosso agronegócio. A França é quem lidera em território europeu a não confirmação do Acordo Mercosul-União Europeia. A Deputada Marina Silva é conhecida como a maior praga do agro brasileiro. Se existe alguém que destrói o agro brasileiro, não só com as suas atitudes e decisões, mas também com narrativa, chama-se Marina Silva. E ela, que saiu pelas portas dos fundos do Ministério do Meio Ambiente daquele Governo que ela mesma chamou de o mais corrupto da história, em vez de ser homenageada em seu território, em seu país, é homenageada por quem? Pelo Emmanuel Macron, que entrega uma honraria de Napoleão à Deputada Marina Silva. Ela deveria, primeiro, estudar a história de Napoleão para saber se era digna dessa honraria, porque nós estamos envergonhados. E está comprovado que a Deputada Marina Silva é contratada de ONGs internacionais por discurso, por narrativa ou por outros interesses para trabalhar contra o Brasil, pois, de novo, a Nação europeia que mais investe contra o Brasil, que mais fala mal do agro do Brasil, homenageia a nossa ex-Ministra do Meio Ambiente, essa mesma que foi contra o Marco do Saneamento; essa mesma que foi contra a modernização do novo licenciamento ambiental; essa mesma que chamou o agro de ogro; essa mesma que diz que existem 30 milhões de brasileiros passando fome  aprendeu a mentir com seu líder. Portanto, fica aqui o meu repúdio mais uma vez e meu lamento porque o Governo francês não respeita a sua história e porque um Presidente ideologicamente de esquerda que trabalha contra o Brasil homenageou essa pessoa que tanto atrapalha nosso País. Se chega alimento à mesa do brasileiro hoje é porque nós tivemos coragem de enfrentar a Ministra Marina Silva, as suas ideologias e as aberrações que ela liderou a partir do seu Ministério, tendo em vista o próprio fracasso que foi a lavagem de dinheiro desse evento que fizeram em Belém. Portanto, fica aqui o meu repúdio mais uma vez. Lamento que, realmente, a Deputada Marina Silva, em vez de trabalhar para o Brasil, tanto atrapalha o agro brasileiro. A Deputada Marina Silva fugiu do seu Estado. Ela fala que nasceu na floresta, viveu na floresta. Deputada Marina, igual a V.Exa. há muita gente aqui, mas eu moro no Estado em que eu nasci, moro na região em que eu nasci, não tenho vergonha do meu povo, não fui me esconder num arranha-céu de São Paulo. Eu estou aqui em nome dos capixabas, graças aos capixabas. Eu honro o meu povo e a minha gente, tenho orgulho da história e vivo no meio dela. Não peguei o mandato e fugi. Você deveria voltar para o Acre, voltar para a floresta, no meio daqueles seus de quem você hoje tem vergonha e a quem tanto atrapalha. Se dependesse da Marina Silva, o povo do Acre não estaria passando fome, estaria na miséria absoluta. E este é o número que o Lula permitiu, Deputado Sargento Fahur, para finalizar novamente, durante os 3 anos do seu Governo: a população de rua no Brasil saiu de 198 mil para 392 mil em 3 anos. Esse é o Governo Lula, esse é o Governo da Marina Silva. Vai vendo, Brasil."
+    },
+    {
+      "data": "2026-07-07T21:08",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. EVAIR VIEIRA DE MELO (Bloco/REPUBLICANOS - ES. Pela ordem. Sem revisão do orador.) - Sr. Presidente, trago três notícias que serão a pá de cal para enterrar, em definitivo, o Governo do Sr. Barr",
+      "transcricao": "O SR. EVAIR VIEIRA DE MELO (Bloco/REPUBLICANOS - ES. Pela ordem. Sem revisão do orador.) - Sr. Presidente, trago três notícias que serão a pá de cal para enterrar, em definitivo, o Governo do Sr. Barrabás. Nós notificamos o Itamaraty para que se manifestasse a respeito da decisão americana de reconhecer o PCC e o Comando Vermelho como organizações terroristas. E quais seriam as ações concretas que o Itamaraty estava tratando junto ao Governo americano? De forma insana, uma loucura total, o Ministro Mauro Vieira respondeu a esta Câmara do Deputados dizendo que a principal alegação dele nada mais era do que o risco do uso da força militar americana em território brasileiro. Mauro Vieira disse que esse reconhecimento do PCC e do Comando Vermelho seria uma estratégia americana para invadir o Brasil. Naturalmente, nós acionamos a embaixada americana, e olha a manifestação do Governo americano. \"Esse comentário do embaixador brasileiro é um absurdo. Os Estados Unidos estão tomando medidas decisivas no âmbito de suas próprias competências soberanas para combater os narcoterroristas. Essas gangues brasileiras agora atuam nos Estados Unidos, e vamos defender nosso país contra elas.\" Ele também afirma que as alegações do embaixador brasileiro são alegações vagas de intervenções militares que podem ajudar e incentivar grupos terroristas. Disse que alegações vagas de intervenção costumam servir de pretexto para ajudar e incentivar alguns dos grupos mais violentos do mundo. É lamentável e deplorável a manifestação do desqualificado embaixador brasileiro. Não satisfeito com isso, o tal do Lula, o tal do Nove Dedos, o Barrabás determinou a retirada de quase 150 mil matérias jornalísticas do ar. As entidades estão dizendo que é censura. Ele está usando isso para dizer que está no período de defeso eleitoral. Portanto, a EBC determinou a retirada de 146 mil conteúdos jornalísticos, incluindo matérias, áudios, podcasts e fotos. O Lula determinou uma varredura e uma limpeza de todas as notas e matérias que citavam o seu Governo. Um ponto grave é essa coisa de impedir propaganda institucional em período eleitoral, outro bem diferente é despublicar arquivo jornalístico e apagar conteúdo de interesse público. Portanto, nós estamos acionando o Supremo Tribunal Federal, estamos acionando a Secom para explicar por que o Lula mandou apagar quase 150 mil matérias jornalísticas de cunho político. Qual é a grande notícia do dia? Cadê os demagogos que falaram que o Lula erradicou a pobreza, que o Lula voltou a botar comida na mesa do brasileiro que não comia, que tinha meia refeição e agora está de barriga cheia? Mentira! Mentira! \"População em situação de rua durante o Governo Lula sai de 198 mil para mais de 392 mil pessoas.\" Eu não sei se é Barrabás, se é Lulanóquio, mas esse Lula é um mentiroso. Na verdade, ele contamina os seus aliados. Como explicar isso, meu Brasil? Saiu de 198 mil pessoas de rua... Nós estávamos saindo de uma pandemia, quando o setor produtivo do Brasil sofreu um revés. O Lula, em 3 anos, elevou esse número para quase 400 mil pessoas. Eu quero ver onde os defensores vão enfiar a cara com essa mentira que eles contaram. Os números estão postos aqui. Então, são três notícias para escandalizar a República. O Governo americano chama de absurdo, chama de narrativa sem fundamento quando o Mauro Vieira diz que o Governo americano tinha uma estratégia para invadir o Brasil. Acho que o Mauro Vieira foi motivo de deboche e de chacota. É inadmissível o embaixador brasileiro ter tamanha ignorância de protocolos internacionais. Quase zombaram dele dentro da embaixada americana. A segunda notícia é que eles falam de democracia, mas o Lula mandou tirar quase 150 mil matérias jornalísticas, mandou apagar. Por último, saiu de 200 mil para 392 mil o número de pessoas de rua. Que vergonha! Vai vendo, Brasil!"
+    },
     {
       "data": "2026-06-30T20:00",
       "fase": "Breves Comunicações",

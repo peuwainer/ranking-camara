@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178931.jpg",
-  "score": 20.34,
-  "rank": 182,
+  "score": 22.61,
+  "rank": 154,
   "proposicoes": [
     {
       "id": 2631190,
@@ -33,6 +33,24 @@
       "ementa": "Altera a Lei nº 8.987, de 1995, para disciplinar a ocupação de faixas de domínio por infraestrutura de serviço público.",
       "data": "2026-07-03T11:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637016"
+    },
+    {
+      "id": 2637136,
+      "tipo": "PL",
+      "numero": 3473,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a exposição de produtos alimentícios ultraprocessados nas áreas de caixa, nos corredores de acesso direto aos caixas e nas áreas de pagamento em estabelecimentos comerciais",
+      "data": "2026-07-06T10:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637136"
+    },
+    {
+      "id": 2637137,
+      "tipo": "PL",
+      "numero": 3474,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.811, de 12 de janeiro de 2024, para instituir, no ensino fundamental, a Política Escolar de Prevenção à Violência Sexual contra Crianças e Adolescentes.",
+      "data": "2026-07-06T10:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637137"
     }
   ],
   "discursos": [],

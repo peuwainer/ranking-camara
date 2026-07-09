@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220560.jpg",
-  "score": 13.54,
-  "rank": 430,
-  "proposicoes": [],
+  "score": 15.4,
+  "rank": 402,
+  "proposicoes": [
+    {
+      "id": 2638337,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 14.260, de 8 de dezembro de 2021, para tornar permanentes os incentivos à indústria da reciclagem.",
+      "data": "2026-07-08T16:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638337"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

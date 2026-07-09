@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220613.jpg",
-  "score": 10.38,
-  "rank": 472,
+  "score": 12.16,
+  "rank": 460,
   "proposicoes": [
     {
       "id": 2632580,
@@ -60,6 +60,15 @@
       "ementa": "Dispõe sobre a ampliação da autorização de embarque armado em aeronaves civis para policiais civis dos Estados e do Distrito Federal, nos termos da regulamentação da aviação civil.",
       "data": "2026-07-01T08:43",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635893"
+    },
+    {
+      "id": 2638010,
+      "tipo": "PL",
+      "numero": 3546,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 (Lei Brasileira de Inclusão da Pessoa com Deficiência), para definir o público beneficiário da reserva de vagas de estacionamento.",
+      "data": "2026-07-08T09:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638010"
     }
   ],
   "discursos": [],

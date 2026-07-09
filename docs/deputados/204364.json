@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204364.jpg",
-  "score": 15.51,
-  "rank": 376,
+  "score": 16.52,
+  "rank": 373,
   "proposicoes": [
     {
       "id": 2633488,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-07-07T22:08",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ELI BORGES (Bloco/REPUBLICANOS - TO. Pela ordem. Sem revisão do orador.) - Meu querido Deputado Sargento Fahur, V.Exa. na Presidência daria certinho comandando o Brasil. A questão também é do ag",
+      "transcricao": "O SR. ELI BORGES (Bloco/REPUBLICANOS - TO. Pela ordem. Sem revisão do orador.) - Meu querido Deputado Sargento Fahur, V.Exa. na Presidência daria certinho comandando o Brasil. A questão também é do agro. Está, sim, meio que emperrada essa securitização, esse projeto. Avança um passo, avança outro. A verdade, Presidente, é que os produtores rurais, sobretudo aqueles que estão com dívidas, juros altos e uma série de itens que envolvem isso, que são pessoas que trabalham, que produzem, que movimentam a economia do agro brasileiro, que é um terço do PIB e que garantiu o Brasil na época da Covid, precisam muito dessa matéria. São pessoas já testadas no campo, são pessoas já testadas na vida rural. Então, esse é um assunto pelo qual eu clamo para que esta Casa, a Presidência desta Casa, o faça acontecer na maior brevidade possível, Presidente. Obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei n. 2614, de 2024, do Poder Executivo, que \"aprova o Plano Nacional de Educação para o decênio 2024-2034\"",

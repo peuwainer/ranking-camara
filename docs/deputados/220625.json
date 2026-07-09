@@ -4,17 +4,26 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220625.jpg",
-  "score": 22.09,
-  "rank": 144,
+  "score": 23.67,
+  "rank": 129,
   "proposicoes": [
     {
-      "id": 2630087,
+      "id": 2638134,
       "tipo": "SBT",
       "numero": 2,
       "ano": 0,
-      "ementa": "Acrescenta o inciso XI ao § 1º do art. 24 e inciso XXI ao art.42, ambos da Lei nº 13.019 de 31/07/2014, para tornar obrigatória a apresentação de listagem de médicos responsáveis pela efetiva prestação de serviços ao SUS, e outras providências.",
-      "data": "2026-06-07T22:11",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630087"
+      "ementa": "Institui o Sistema Nacional de Prevenção e Combate ao Feminicídio – SINA-FEM, estabelece mecanismos integrados de proteção às mulheres, cria o Alerta Imediato de Risco Feminicida, o Monitoramento Obrigatório do Agressor, o Protocolo Nacional de Execução de Medidas Protetivas, a Rede Nacional de Acolhimento às Mulheres, o Fundo Nacional de Amparo aos Órfãos do Feminicídio, e dá outras providências.",
+      "data": "2026-07-08T13:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638134"
+    },
+    {
+      "id": 2638222,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre a responsabilização civil e penal dos familiares de autores de violência doméstica e familiar que pratiquem atos de revitimização da ofendida, especialmente por meio de ameaças, intimidações ou pressões ilegítimas.",
+      "data": "2026-07-08T13:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638222"
     }
   ],
   "discursos": [],

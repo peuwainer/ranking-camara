@@ -4,9 +4,55 @@
   "partido": "REDE",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178866.jpg",
-  "score": 16.72,
-  "rank": 340,
-  "proposicoes": [],
+  "score": 21.99,
+  "rank": 162,
+  "proposicoes": [
+    {
+      "id": 2637142,
+      "tipo": "PL",
+      "numero": 3475,
+      "ano": 2026,
+      "ementa": "Cria o Dia Nacional da Planta Medicinal e das Farmácias Vivas e dá outras providências.",
+      "data": "2026-07-06T10:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637142"
+    },
+    {
+      "id": 2637143,
+      "tipo": "PL",
+      "numero": 3476,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.426, de 30 de março de 2017, para expandir a política de saúde de cães e gatos, incluindo a prevenção de doenças por meio de vacinação, e estabelece critérios para a destinação de recursos federais.",
+      "data": "2026-07-06T10:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637143"
+    },
+    {
+      "id": 2637764,
+      "tipo": "PL",
+      "numero": 3534,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, para estabelecer a irrepetibilidade de valores recebidos de boa-fé, a título de benefício previdenciário ou assistencial, por força de decisão judicial de caráter provisório posteriormente modificada ou revogada.",
+      "data": "2026-07-07T17:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637764"
+    },
+    {
+      "id": 2637765,
+      "tipo": "PL",
+      "numero": 3535,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.675, de 2018, para determinar o uso de tecnologias de segurança pública no combate a crimes contra os animais.",
+      "data": "2026-07-07T17:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637765"
+    },
+    {
+      "id": 2637771,
+      "tipo": "PL",
+      "numero": 3536,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998 (Lei de Crimes Ambientais), para tipificar como crime de abandono a conduta do tutor ou responsável que não retirar animal de estabelecimento veterinário no prazo de 72 horas após notificação formal, e estabelece obrigação de informação ao público.",
+      "data": "2026-07-07T17:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637771"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

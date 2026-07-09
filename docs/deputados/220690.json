@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 47.74,
+  "score": 48.39,
   "rank": 6,
   "proposicoes": [
-    {
-      "id": 2630240,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, para instituir, no âmbito do Sistema Único de Segurança Pública (SUSP), o Programa Nacional de Capacitação em Comunicação Operativa (PRONCOMOP).",
-      "data": "2026-06-08T12:41",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630240"
-    },
     {
       "id": 2631110,
       "tipo": "SBT",
@@ -240,6 +231,42 @@
       "ementa": "Altera a Lei nº 13.303, de 30 de junho de 2016, para estabelecer critérios técnicos, econômicos e de governança para a celebração de contratos de patrocínio por empresas estatais, com vistas à transparência, eficiência e prevenção de desvios de finalidade no uso de recursos públicos.",
       "data": "2026-07-03T16:50",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637093"
+    },
+    {
+      "id": 2637125,
+      "tipo": "PL",
+      "numero": 3472,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Controle e Rastreabilidade de Produtos Químicos Controlados e altera a Lei nº 10.357, de 27 de dezembro de 2001, para aperfeiçoar os mecanismos de controle e fiscalização de produtos químicos suscetíveis de utilização na produção ilícita de entorpecentes, drogas sintéticas e substâncias psicotrópicas.",
+      "data": "2026-07-06T07:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637125"
+    },
+    {
+      "id": 2637511,
+      "tipo": "SBT",
+      "numero": 6,
+      "ano": 0,
+      "ementa": "Amplia o direito ao porte de arma de fogo para Guardas Civis Municipais e vigilantes, reduz exigências burocráticas, reconhece o risco permanente da atividade e fortalece a segurança pública por meio do armamento responsável.",
+      "data": "2026-07-07T11:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637511"
+    },
+    {
+      "id": 2637787,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre o Sistema Nacional de Enfrentamento da Violência contra Meninas e Mulheres e a destinação de recursos às ações de enfrentamento ao feminicídio e de garantia da vida de meninas e mulheres.",
+      "data": "2026-07-07T18:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637787"
+    },
+    {
+      "id": 2638272,
+      "tipo": "PL",
+      "numero": 3571,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.358, de 24 de março de 2026, a Lei nº 9.605, de 12 de fevereiro de 1998, e a Lei nº 14.312, de 14 de março de 2022, para ampliar a proteção às vítimas, aos profissionais de segurança pública e aos membros das Forças Armadas e fortalecer o enfrentamento às organizações criminosas, grupos paramilitares, milícias privadas e facções criminosas.",
+      "data": "2026-07-08T15:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638272"
     }
   ],
   "discursos": [

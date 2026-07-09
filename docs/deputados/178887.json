@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178887.jpg",
-  "score": 43.96,
-  "rank": 7,
+  "score": 43.83,
+  "rank": 9,
   "proposicoes": [
     {
       "id": 2631190,
@@ -177,6 +177,24 @@
       "ementa": "Dispõe sobre a valorização das vias administrativas de atendimento e solução de conflitos nas relações de consumo, exige demonstração, na forma e limites previstos, de prévia tentativa de solução extrajudicial por canal idôneo em ações individuais prestacionais fundadas em relação de consumo, regulamenta exceções, obriga manutenção de canais acessíveis e prazos máximos de resposta pelos fornecedores regulados, disciplina procedimento judicial sucinto para regularização de prova e estabelece regime de responsabilização administrativa por descumprimento.",
       "data": "2026-07-01T10:50",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636067"
+    },
+    {
+      "id": 2638120,
+      "tipo": "PL",
+      "numero": 3555,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Regularização e Inserção Produtiva do Microempreendedor Individual (PRIMEI); institui regime permanente e diferenciado de renegociação para débitos de MEI inscritos em dívida ativa; disciplina modalidades de parcelamento, descontos e entrada proporcional para quitação de débitos; torna obrigatória a utilização da plataforma Contrata+Brasil (ou equivalente) por entes e entidades públicas com prioridade a MEI e prazo máximo de pagamento; estabelece critérios objetivos de avaliação da capacidade de pagamento, normas sobre garantias e parcela mínima, obriga relatório anual de impacto fiscal e social e dispõe sobre integração tecnológica entre PGFN, RFB, unidades de Dívida Ativa e instrumentos de processamento de dados; e dá outras providências.",
+      "data": "2026-07-08T12:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638120"
+    },
+    {
+      "id": 2638121,
+      "tipo": "PL",
+      "numero": 3556,
+      "ano": 2026,
+      "ementa": "Cria o Cadastro Nacional Integrado de Benefícios (CNIB), estabelece a obrigação de integração e cruzamento de dados entre CadÚnico, INSS, Receita Federal, Ministérios da Cidadania e da Educação, órgãos estaduais e municipais e demais bases públicas para mapeamento integral de benefícios e deduções recebidos por cada cidadão; institui revisão periódica de elegibilidade para benefícios não contributivos (inclusive BPC/LOAS), regras técnicas de interoperabilidade, governança, segurança da informação, proteção de dados pessoais e transparência; prevê mecanismos automáticos de identificação, bloqueio e correção de sobreposições, fraudes ou pagamentos indevidos; disciplina relatórios públicos e procedimentos de auditoria e controle; e dá outras providências.",
+      "data": "2026-07-08T12:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638121"
     }
   ],
   "discursos": [

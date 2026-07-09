@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160545.jpg",
-  "score": 17.09,
-  "rank": 317,
+  "score": 19.57,
+  "rank": 249,
   "proposicoes": [
     {
       "id": 2633488,
@@ -15,6 +15,24 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2638235,
+      "tipo": "PL",
+      "numero": 3565,
+      "ano": 2026,
+      "ementa": "Altera o art. 339 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal.",
+      "data": "2026-07-08T14:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638235"
+    },
+    {
+      "id": 2638390,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer pela APROVAÇÃO do Projeto de Lei nº 630, de 2026, e de seus apensos PL nº 724, de 2026; PL nº 1.039, de 2026; e PL nº 1.180, de 2026, na forma do Substitutivo apresentado.",
+      "data": "2026-07-08T17:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638390"
     }
   ],
   "discursos": [],

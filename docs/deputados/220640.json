@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220640.jpg",
-  "score": 19.63,
-  "rank": 211,
+  "score": 21.44,
+  "rank": 178,
   "proposicoes": [
     {
       "id": 2631190,
@@ -24,9 +24,26 @@
       "ementa": "Dispõe sobre a proibição temporária do uso do fogo para fins agropecuários durante períodos de Emergência climática e risco extremo de incêndios florestais.",
       "data": "2026-06-25T17:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635369"
+    },
+    {
+      "id": 2637237,
+      "tipo": "PL",
+      "numero": 3479,
+      "ano": 2026,
+      "ementa": "Estabelece o marco legal do Registro Nacional de Beneficiários Finais, dispõe sobre a integração, atualização, verificação, interoperabilidade e acesso às informações relativas aos beneficiários finais de pessoas jurídicas e estruturas legais, e fortalece os mecanismos de prevenção à lavagem de dinheiro, corrupção, evasão fiscal, ocultação patrimonial e infiltração da criminaliza organizada na economia formal.",
+      "data": "2026-07-06T13:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637237"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-07-07T15:36",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. JULIANA CARDOSO (Bloco/PT - SP. Sem revisão da oradora.) - Obrigada, Presidente. Boa tarde, Deputados, Deputadas e público que nos acompanha pela TV Câmara. Eu subo a esta tribuna hoje, Sr. Pre",
+      "transcricao": "A SRA. JULIANA CARDOSO (Bloco/PT - SP. Sem revisão da oradora.) - Obrigada, Presidente. Boa tarde, Deputados, Deputadas e público que nos acompanha pela TV Câmara. Eu subo a esta tribuna hoje, Sr. Presidente, para denunciar uma situação inaceitável e escancarada do abandono de milhares de famílias paulistanas. Uma reportagem revelou que moradores do bairro da cidade de São Paulo estão sem coleta de esgoto e estão submetidos a cortes diários de abastecimento de água. E o pior: estão recebendo da Sabesp as contas que chegam a mais de 25 mil reais. Esta é uma realidade que revolta qualquer pessoa comprometida com a dignidade humana de trabalhador e trabalhadora. Como explicar que uma família fique dias enfrentando interrupções no abastecimento, sem saneamento adequado, e ainda seja tratada como se fosse responsável por uma dívida dessa magnitude, Sr. Deputado? Água e saneamento são direitos. E há outro absurdo, senhoras e senhores. As comunidades da favela Linhas Corrente, na Vila Prudente, e várias comunidades de São Mateus, na Zona Leste da cidade de São Paulo, estão recebendo contas de esgoto. Só que há um detalhe: não existe rede de coleta de esgoto da Sabesp nessas comunidades. Saneamento básico, senhoras e senhores, é um direito garantido pela Constituição e condição indispensável para a saúde pública dessa região do Estado de São Paulo e de todo o Brasil e para a dignidade das pessoas. O que nós estamos vendo na cidade de São Paulo, senhoras e senhores, é uma lógica do lucro se sobrepondo ao interesse público. Enquanto comunidades convivem com torneiras secas, esgoto a céu aberto e serviços precários, mais uma vez as cobranças chegam em suas casas. Eu pergunto: como se enfrenta essa enorme dificuldade para sobreviver? Essa não é apenas uma discussão sobre tarifas, senhoras e senhores. É uma discussão sobre justiça social. É preciso que a Sabesp explique imediatamente essas cobranças, revise todos os casos denunciados e garanta atendimento digno às famílias atingidas. Também é fundamental que os órgãos de fiscalização e defesa do consumidor acompanhem essa situação e apurem as irregularidades. Nós alertamos, durante as privatizações, que colocar um serviço essencial sob a lógica prioritária do mercado poderia aprofundar desigualdades e ampliar injustiças. Eu, como Deputada Federal do Estado de São Paulo, vou assegurar a fiscalização, vou cobrar a transparência, vou defender o direito da população paulista ao acesso universal à água e ao saneamento, principalmente com a instalação de rede de esgoto. Por fim, Sr. Presidente, fazem 40 dias que o projeto 6 por 1 está parado no Senado. Chega! Acabou! Podemos colocar esse projeto para ser aprovado antes do recesso. O povo, as mulheres não aguentam mais só trabalhar. Pelo fim da escala 6 por 1! Presidente, eu peço que este pronunciamento seja divulgado no programa A Voz do Brasil. Obrigada."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

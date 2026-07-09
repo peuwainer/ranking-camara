@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/210989.jpg",
-  "score": 20.79,
-  "rank": 172,
+  "score": 21.38,
+  "rank": 181,
   "proposicoes": [
     {
       "id": 2632666,
@@ -62,7 +62,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635553"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-07-07T16:00",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. BRUNO FARIAS (Bloco/REPUBLICANOS - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, hoje nós temos a honra de receber aqui nesta Casa nossa futura Deputada Estadual Camila Cardoso e nos",
+      "transcricao": "O SR. BRUNO FARIAS (Bloco/REPUBLICANOS - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, hoje nós temos a honra de receber aqui nesta Casa nossa futura Deputada Estadual Camila Cardoso e nosso futuro Deputado Federal Wagner Batista, ao lado do Dr. Mateus Gonçalves, esse trio importante que está aqui no Congresso Nacional cobrando as pautas de interesse da enfermagem. Camila e Wagner, antes de serem Deputados, já estão rodando os gabinetes e hoje já estiveram na residência oficial do Senador Davi Alcolumbre, cobrando que se paute a tão sonhada PEC 19. Bem-vinda, Camila! Tenha a certeza de que vai somar muito aqui nesta Casa, junto comigo, para brigar pelas pautas da enfermagem. Muito obrigado por tudo que você tem feito pela categoria. Bem-vindo, Wagner! Bem-vindo, Dr. Matheus! Sr. Presidente, queria que V.Exa. registrasse no programa A Voz do Brasil essas ilustres presenças aqui no Congresso Nacional."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa, sem ônus para a Câmara dos Deputados, destinada a acompanhar os impactos sociais, ambientais e econômicos na região do Município de Conceição do Pará, no estado de Minas Gerais, em função de um deslizamento de pilha de rejeitos de minério da mineradora Jaguar Mining",

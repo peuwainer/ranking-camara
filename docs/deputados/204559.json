@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204559.jpg",
-  "score": 17.48,
-  "rank": 302,
+  "score": 18.44,
+  "rank": 299,
   "proposicoes": [
     {
       "id": 2631190,
@@ -35,7 +35,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637051"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-07-07T14:24",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ZÉ NETO (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, queria aqui convidar os Deputados e convidar a população da minha cidade, do meu Estado, do Bahia, porque amanhã nós",
+      "transcricao": "O SR. ZÉ NETO (Bloco/PT - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, queria aqui convidar os Deputados e convidar a população da minha cidade, do meu Estado, do Bahia, porque amanhã nós vamos fazer um seminário. Foi uma solicitação feita por mim à Comissão Especial que cuida do Projeto de Lei nº 108, de 2021, do reajuste do Simples e do MEI e que agora, recentemente, agregou também o projeto de lei do Governo, que é o Projeto de Lei nº 18.626, que trata também do Simples e do MEI. Queremos aumentar os tetos do Simples e do MEI e fazer esse debate de forma madura. Vamos estar com o nosso Relator Jorge Goetten presente. Lembro que esta Comissão Especial é presidida pela Deputada Ortiz, e a gente vai fazer com que tenhamos condição de conversar com quem está lá ponta. Quero agradecer aqui muito o empenho do CDL de Feira de Santana, da Associação Comercial de Feira de Santana, da Federação do Comércio da Bahia, da Associação Comercial de Salvador, que também tem ajudado muito nesse evento, do SEBRAE nacional e estadual e também dos sindicatos de comerciários de Feira. Estamos conversando com trabalhadores, estamos conversando com empresários, porque o MEI e o Simples são responsáveis por mais de 90% dos empregos gerados neste País. Não é tema político, não é tema partidário, é tema de interesse do Estado, do nosso desenvolvimento. Amanhã, no Centro de Convenções de Feira de Santana, a partir das 9 horas, teremos esse importante evento nacional. Queria deixar aqui o convite e o agradecimento. Que Deus nos ilumine e que possamos sair de lá com propostas importantes para que até semana que vem possamos votar essa matéria e termos, evidentemente, toda a sintonia com os interesses dos trabalhadores, com os interesses dos empreendedores deste País, para fortalecer na nossa economia e a conexão do Legislativo com quem mais precisa e com o nosso País."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, que \"regula os serviços de transporte remunerado privado individual de passageiros e de coleta e entrega de bens prestados pelas empresas operadoras de plataforma digital\"",

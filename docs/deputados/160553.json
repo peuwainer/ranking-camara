@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
-  "score": 5.46,
-  "rank": 506,
+  "score": 6.31,
+  "rank": 505,
   "proposicoes": [
     {
       "id": 2631190,
@@ -24,9 +24,26 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2637851,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-07-07T19:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637851"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-07-07T19:04",
+      "fase": "Ordem do Dia",
+      "tipo": "PARECER",
+      "resumo": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Para proferir parecer. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, este projeto altera a Lei nº 8.036, de 11 de maio de 1990, que dispõe sobre o Fund",
+      "transcricao": "O SR. ANTONIO BRITO (Bloco/PSD - BA. Para proferir parecer. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, este projeto altera a Lei nº 8.036, de 11 de maio de 1990, que dispõe sobre o Fundo de Garantia do Tempo de Serviço para prorrogar o prazo de aplicação de recursos do FGTS em operações de crédito destinadas a entidades beneficentes, hospitais e Santas Casas, hospitais filantrópicos, e a instituições sem fins lucrativos; e dispõe sobre a aplicação do § 2º do art. 38 da Lei Complementar nº 187, de 16 de dezembro de 2021. Este projeto vem em função da Medida Provisória nº 1.336, de 2026, que teve seu prazo expirado e trata da possibilidade de as Santas Casas e hospitais filantrópicos terem o Caixa Hospitais baseado na lei do FGTS. Ele foi apresentado pelo nobre Deputado Paulo Pimenta, a quem quero agradecer por todo esse empenho às Santas Casas, em nome da Frente Parlamentar de Apoio às Santas Casas, Hospitais e Entidades Filantrópicas. Peço permissão para ir direto à conclusão do voto, Sr. Presidente. \"V. Conclusão do voto Ante o exposto, no âmbito da Comissão de Saúde, votamos pela aprovação do Projeto de Lei nº 2.465, de 2026, na forma do substitutivo em anexo. No âmbito da Comissão de Trabalho, votamos pela aprovação do Projeto de Lei nº 2.465, de 2026, na forma do substitutivo da Comissão de Saúde. No âmbito da Comissão de Finanças e Tributação, votamos, no mérito, pela aprovação do Projeto de Lei nº 2.465, de 2026, na forma do substitutivo da Comissão de Saúde; e, quanto à adequação financeira e orçamentária, pela não implicação financeira ou orçamentária, em aumento ou diminuição da receita e da despesa pública, não cabendo à Comissão de Finanças e Tributação manifestar-se quanto à sua adequação e compatibilidade orçamentária e financeira. No âmbito da Comissão de Constituição e Justiça e de Cidadania, votamos pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 2.465, de 2026, e do substitutivo da Comissão de Saúde.\" Este é o voto. Peço a aprovação, Sr. Presidente. Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a elaborar propostas para analisar o enfrentamento da tuberculose como compromisso internacional para a eliminação desta doença como problema de saúde pública até o ano de 2030, conforme preconizado pela Organização das Nações Unidas (ONU)",

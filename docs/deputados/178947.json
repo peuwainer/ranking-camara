@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178947.jpg",
-  "score": 12.25,
-  "rank": 456,
+  "score": 13.85,
+  "rank": 442,
   "proposicoes": [
     {
       "id": 2631357,
@@ -42,9 +42,25 @@
       "ementa": "Altera a Lei Complementar nº 73, de 10 de fevereiro de 1993, que institui a Lei Orgânica da Advocacia-Geral da União.",
       "data": "2026-06-16T18:54",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632845"
+    },
+    {
+      "id": 2637787,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre o Sistema Nacional de Enfrentamento da Violência contra Meninas e Mulheres e a destinação de recursos às ações de enfrentamento ao feminicídio e de garantia da vida de meninas e mulheres.",
+      "data": "2026-07-07T18:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637787"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-07-08T16:36",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. SÓSTENES CAVALCANTE (PL - RJ. Pela ordem. Sem revisão do orador.) - Ilustre Presidente, essa cadeira lhe cabe muito bem. V.Exa. fica muito bem nesta cadeira! Mesmo sabendo que temos um President",
+      "transcricao": "O SR. SÓSTENES CAVALCANTE (PL - RJ. Pela ordem. Sem revisão do orador.) - Ilustre Presidente, essa cadeira lhe cabe muito bem. V.Exa. fica muito bem nesta cadeira! Mesmo sabendo que temos um Presidente que muito nos honra nesta Casa, vê-lo aí alegra muito o meu coração pela integridade e correição do seu mandato nesta Casa. Eu quero, com muita alegria, dirigir-me aos brasileiros para dar as boas-vindas a uma grande liderança política, que é o Tropa, um jovem da Baixada Fluminense que está colocando o seu nome à disposição do nosso partido como pré-candidato estadual. Ele está visitando Brasília. Ao lado dele, está também outra jovem liderança, um dos Líderes do PL Jovem no âmbito do Brasil, o nosso Rafael Satiê. Hoje, ele é Vereador do Município do Rio de Janeiro e pré-candidato a Deputado Federal. Quem sabe, sendo a vontade do carioca, ele estará aqui, a partir de 2027, nesta Casa conosco? Eu quero dar as boas-vindas a ambos os jovens líderes do nosso partido e dizer que Brasília recebe vocês de braços abertos para continuar ajudando a população do Estado do Rio de Janeiro nessa força da juventude. Muito obrigado. Bom trabalho para todos nós!"
+    },
     {
       "data": "2026-06-30T19:48",
       "fase": "Breves Comunicações",

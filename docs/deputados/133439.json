@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/133439.jpg",
-  "score": 24.88,
-  "rank": 92,
+  "score": 27.83,
+  "rank": 73,
   "proposicoes": [
     {
       "id": 2631190,
@@ -60,6 +60,33 @@
       "ementa": "Altera a Lei Complementar nº 179, de 24 de fevereiro de 2021, para aperfeiçoar os objetivos do Banco Central do Brasil, reforçar a fundamentação técnica das decisões de política monetária e ampliar a prestação de contas sobre seus efeitos no emprego e na atividade econômica.",
       "data": "2026-07-02T14:45",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636829"
+    },
+    {
+      "id": 2638392,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.445, de 5 de janeiro de 2007, para dispor sobre o cálculo da tarifa do serviço de abastecimento de água em condomínios com múltiplas unidades imobiliárias e medidor único.",
+      "data": "2026-07-08T17:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638392"
+    },
+    {
+      "id": 2638393,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre o cálculo da tarifa do serviço de abastecimento de água em condomínios com múltiplas unidades imobiliárias e medidor único.",
+      "data": "2026-07-08T17:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638393"
+    },
+    {
+      "id": 2638395,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Emenda de plenáro",
+      "data": "2026-07-08T17:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638395"
     }
   ],
   "discursos": [],

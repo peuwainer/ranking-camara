@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220671.jpg",
-  "score": 23.59,
-  "rank": 114,
+  "score": 24.76,
+  "rank": 109,
   "proposicoes": [
-    {
-      "id": 2630214,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 12.114, de 9 de dezembro de 2009, para dispor sobre a prioridade de repasse de recursos do Fundo Nacional sobre Mudança do Clima para a Amazônia Legal.",
-      "data": "2026-06-08T11:11",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630214"
-    },
     {
       "id": 2630791,
       "tipo": "PLP",
@@ -51,6 +42,24 @@
       "ementa": "Altera a Lei n° 6.001, de 19 de dezembro de 1973 (Estatuto do Índio), para incluir a obrigatoriedade da contratação de intérpretes de línguas indígenas nos órgãos de proteção que atendem povos indígenas em situação de violação de direitos, e dá outras providências.",
       "data": "2026-06-30T11:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635495"
+    },
+    {
+      "id": 2637201,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para aumentar a pena do Crime de Pichação, bem como prever outras sanções.",
+      "data": "2026-07-06T12:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637201"
+    },
+    {
+      "id": 2637237,
+      "tipo": "PL",
+      "numero": 3479,
+      "ano": 2026,
+      "ementa": "Estabelece o marco legal do Registro Nacional de Beneficiários Finais, dispõe sobre a integração, atualização, verificação, interoperabilidade e acesso às informações relativas aos beneficiários finais de pessoas jurídicas e estruturas legais, e fortalece os mecanismos de prevenção à lavagem de dinheiro, corrupção, evasão fiscal, ocultação patrimonial e infiltração da criminaliza organizada na economia formal.",
+      "data": "2026-07-06T13:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637237"
     }
   ],
   "discursos": [],

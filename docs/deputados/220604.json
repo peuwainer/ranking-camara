@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg",
-  "score": 49.76,
-  "rank": 5,
+  "score": 51.24,
+  "rank": 4,
   "proposicoes": [
     {
       "id": 2630651,
@@ -267,6 +267,42 @@
       "ementa": "Institui a Lei Professor Valorizado, Escola Forte, cria o Programa Nacional de Valorização e Condições de Trabalho dos Profissionais da Educação Básica, estabelece matriz federativa de valorização como critério de priorização, bonificação e condicionamento gradual de transferências voluntárias da União destinadas à educação básica pública, respeitadas as transferências constitucionais, legais, obrigatórias e essenciais, e dá outras providências.",
       "data": "2026-07-01T18:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636514"
+    },
+    {
+      "id": 2638375,
+      "tipo": "PL",
+      "numero": 3590,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o fortalecimento do enfrentamento ao crime organizado mediante a ampliação da responsabilização administrativa e civil de pessoas jurídicas que, direta ou indiretamente, se beneficiem de atividades ilícitas, estabelece mecanismos de rastreabilidade econômica, diligência reforçada e prevenção à infiltração de organizações criminosas em atividades econômicas lícitas, altera a Lei nº 12.850, de 2 de agosto de 2013, e a Lei nº 9.613, de 3 de março de 1998, e dá outras providências.",
+      "data": "2026-07-08T16:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638375"
+    },
+    {
+      "id": 2638380,
+      "tipo": "PL",
+      "numero": 3591,
+      "ano": 2026,
+      "ementa": "Institui a Lei Trabalho Protegido, Futuro Qualificado, cria a Política Nacional de Proteção do Trabalhador em Transições Produtivas, Tecnológicas, Energéticas, Climáticas e Organizacionais, estabelece o Plano de Transição Laboral e Requalificação Profissional, disciplina medidas de prevenção à dispensa coletiva, recolocação assistida, qualificação permanente, transparência e proteção da empregabilidade, e dá outras providências.",
+      "data": "2026-07-08T17:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638380"
+    },
+    {
+      "id": 2638382,
+      "tipo": "PL",
+      "numero": 3592,
+      "ano": 2026,
+      "ementa": "Institui a Lei Rede Fé Solidária de Interesse Social, dispõe sobre o apoio a ações sociais desenvolvidas por organizações religiosas sem fins lucrativos, estabelece diretrizes de transparência, controle, prestação de contas e vedação de uso de recursos públicos em atividades exclusivamente religiosas, e dá outras providências.",
+      "data": "2026-07-08T17:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638382"
+    },
+    {
+      "id": 2638451,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 10.741, de 1º de outubro de 2003, que dispõe sobre o Estatuto da Pessoa Idosa e dá outras providências, para prover efetividade, em todo o território nacional, ao exercício de benefícios nela previstos.",
+      "data": "2026-07-08T19:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638451"
     }
   ],
   "discursos": [],

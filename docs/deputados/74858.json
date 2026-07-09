@@ -4,27 +4,9 @@
   "partido": "PT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74858.jpg",
-  "score": 25.34,
-  "rank": 88,
+  "score": 24.41,
+  "rank": 115,
   "proposicoes": [
-    {
-      "id": 2630343,
-      "tipo": "PL",
-      "numero": 2920,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990, e a Lei nº 15.358, de 24 de março de 2026, para incluir expressamente no rol dos crimes hediondos as modalidades ultraviolentas de homicídio doloso, latrocínio, extorsão e extorsão mediante sequestro praticadas no contexto de organizações criminosas ultraviolentas, grupos paramilitares ou milícias privadas.",
-      "data": "2026-06-08T16:22",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630343"
-    },
-    {
-      "id": 2630391,
-      "tipo": "PL",
-      "numero": 2928,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a regulamentação do exercício das profissões de Analista de Sistemas, Desenvolvedor de Sistemas, Engenheiro de Sistemas, Analista de Redes, Administrador de Banco de Dados, Suporte em Informática e suas correlatas, cria o Conselho Federal e os Conselhos Regionais de Informática e dá outras providências.",
-      "data": "2026-06-08T19:08",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630391"
-    },
     {
       "id": 2630551,
       "tipo": "PL",
@@ -78,6 +60,15 @@
       "ementa": "Acrescenta o artigo 359-K-A ao Decreto Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para tipificar o crime de Traição à Pátria.",
       "data": "2026-06-30T17:37",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635684"
+    },
+    {
+      "id": 2637237,
+      "tipo": "PL",
+      "numero": 3479,
+      "ano": 2026,
+      "ementa": "Estabelece o marco legal do Registro Nacional de Beneficiários Finais, dispõe sobre a integração, atualização, verificação, interoperabilidade e acesso às informações relativas aos beneficiários finais de pessoas jurídicas e estruturas legais, e fortalece os mecanismos de prevenção à lavagem de dinheiro, corrupção, evasão fiscal, ocultação patrimonial e infiltração da criminaliza organizada na economia formal.",
+      "data": "2026-07-06T13:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637237"
     }
   ],
   "discursos": [],

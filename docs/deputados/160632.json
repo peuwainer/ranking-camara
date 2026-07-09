@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160632.jpg",
-  "score": 16.41,
-  "rank": 347,
+  "score": 17.52,
+  "rank": 336,
   "proposicoes": [
     {
       "id": 2631190,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-07-07T14:52",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ZÉ SILVA (Bloco/UNIÃO - MG. Pela ordem. Sem revisão do orador.) - Caro Presidente, colegas Parlamentares, depois de um pé na estrada pelos grotões de Minas, de norte a sul, de leste a oeste, pel",
+      "transcricao": "O SR. ZÉ SILVA (Bloco/UNIÃO - MG. Pela ordem. Sem revisão do orador.) - Caro Presidente, colegas Parlamentares, depois de um pé na estrada pelos grotões de Minas, de norte a sul, de leste a oeste, pelo nosso Triângulo Mineiro, nosso Vale do Jequitinhonha e o Norte de Minas Gerais, hoje é um dia muito importante. Por isso eu fiz questão de estar presente aqui, independentemente das reuniões que nós estamos fazendo de forma remota, que, na minha visão, reduzem a qualidade do debate, mas a minha presença é para garantir que o Projeto de Lei nº 5.122, de 2023, que trata da renegociação das dívidas dos produtores rurais, seja colocado em votação. Nós já o aprovamos aqui na Câmara, foi para o Senado e volta para a Câmara. Espero que agora o Presidente do Colégio de Líderes o coloque na pauta. Nossos produtores não querem favor do Congresso, do Governo, de ninguém. Eles precisam de respeito, respeito à agricultura familiar, respeito a todos os produtores rurais. Não se trata de perdão de dívida, e sim de renegociação em virtude das condições da fábrica  o agro, nossa agricultura, nossa fábrica a céu aberto  que é sujeita à falta de chuva, a excesso de chuva, pragas e doenças. Portanto, o produtor merece respeito. E respeito é colocar em votação o projeto de renegociação das dívidas dos produtores rurais. Obrigado, Presidente"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a fiscalizar os rompimentos de barragens, em especial acompanhar a repactuação do acordo de Mariana e a reparação do crime de Brumadinho",
