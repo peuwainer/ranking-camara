@@ -4,8 +4,8 @@
   "partido": "SOLIDARIEDADE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
-  "score": 36.53,
-  "rank": 19,
+  "score": 38.9,
+  "rank": 14,
   "proposicoes": [
     {
       "id": 2631190,
@@ -69,6 +69,15 @@
       "ementa": "",
       "data": "2026-06-17T19:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633974"
+    },
+    {
+      "id": 2638663,
+      "tipo": "PL",
+      "numero": 3626,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Atenção Integral à Pessoa com Pé Torto Congênito, no âmbito do Sistema Único de Saúde (SUS), e dá outras providências.",
+      "data": "2026-07-09T15:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638663"
     }
   ],
   "discursos": [],

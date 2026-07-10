@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204457.jpg",
-  "score": 17.77,
-  "rank": 329,
+  "score": 19.6,
+  "rank": 288,
   "proposicoes": [
     {
       "id": 2633488,
@@ -15,6 +15,15 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2638502,
+      "tipo": "PL",
+      "numero": 3614,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Cuidados Paliativos no âmbito do Sistema Único de Saúde e assegura o acesso aos cuidados paliativos desde o diagnóstico de doença ameaçadora da continuidade da vida.",
+      "data": "2026-07-09T12:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638502"
     }
   ],
   "discursos": [],

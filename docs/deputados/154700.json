@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/154700.jpg",
-  "score": 18.27,
-  "rank": 309,
+  "score": 22.45,
+  "rank": 171,
   "proposicoes": [
     {
       "id": 2635858,
@@ -24,6 +24,33 @@
       "ementa": "Institui o Programa Nacional de Justiça Hídrica e Compensação pelo Saneamento – PROJUSAN, cria o Fundo Nacional de Recuperação e Compensação Hídrica – FUNRICH, e dá outras providências.",
       "data": "2026-06-30T19:45",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635859"
+    },
+    {
+      "id": 2638460,
+      "tipo": "PL",
+      "numero": 3608,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.764, de 17 de dezembro de 2012, para dispor sobre o acesso da pessoa com transtorno do espectro autista ao mercado de trabalho.",
+      "data": "2026-07-08T19:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638460"
+    },
+    {
+      "id": 2638461,
+      "tipo": "PL",
+      "numero": 3609,
+      "ano": 2026,
+      "ementa": "Confere ao Município de Jaú, no Estado de São Paulo, o título de Capital Nacional do Transplante de Medula Óssea.",
+      "data": "2026-07-08T19:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638461"
+    },
+    {
+      "id": 2638462,
+      "tipo": "PL",
+      "numero": 3610,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Descentralização da Média e Alta Complexidade do Sistema Único de Saúde – PRODESUS, cria o Programa Médico Perto de Casa, estabelece mecanismos de otimização dos recursos públicos da saúde e fortalecimento dos hospitais filantrópicos e Santas Casas, e dá outras providências.",
+      "data": "2026-07-08T19:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638462"
     }
   ],
   "discursos": [

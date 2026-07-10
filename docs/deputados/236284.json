@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236284.jpg",
-  "score": 19.57,
-  "rank": 250,
+  "score": 21.54,
+  "rank": 206,
   "proposicoes": [
     {
       "id": 2635102,
@@ -33,6 +33,15 @@
       "ementa": "Dispõe sobre a transferência da titularidade de bilhetes de transporte aéreo de passageiros, estabelece direitos dos consumidores, deveres das transportadoras aéreas e dá outras providências.",
       "data": "2026-06-30T12:11",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635510"
+    },
+    {
+      "id": 2638762,
+      "tipo": "PL",
+      "numero": 3629,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a identificação física e rastreabilidade da ocupação de postes integrantes das redes de distribuição de energia elétrica por prestadores de serviços de telecomunicações e por outros ocupantes autorizados.",
+      "data": "2026-07-09T16:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638762"
     }
   ],
   "discursos": [],

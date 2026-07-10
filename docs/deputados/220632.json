@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220632.jpg",
-  "score": 21.46,
-  "rank": 176,
+  "score": 24.43,
+  "rank": 129,
   "proposicoes": [
-    {
-      "id": 2630791,
-      "tipo": "PLP",
-      "numero": 163,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a aposentadoria especial no âmbito do Regime Geral de Previdência Social, estabelece seus requisitos e critérios de comprovação, define penosidade, e dá tratamento específico aos motoristas profissionais do transporte rodoviário de cargas de longa distância.",
-      "data": "2026-06-09T19:43",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630791"
-    },
     {
       "id": 2631190,
       "tipo": "PEC",
@@ -42,6 +33,33 @@
       "ementa": "Estabelece o marco legal do Registro Nacional de Beneficiários Finais, dispõe sobre a integração, atualização, verificação, interoperabilidade e acesso às informações relativas aos beneficiários finais de pessoas jurídicas e estruturas legais, e fortalece os mecanismos de prevenção à lavagem de dinheiro, corrupção, evasão fiscal, ocultação patrimonial e infiltração da criminaliza organizada na economia formal.",
       "data": "2026-07-06T13:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637237"
+    },
+    {
+      "id": 2638457,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Cria a Política Nacional de Residência em Área Profissional da Saúde.",
+      "data": "2026-07-09T07:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638457"
+    },
+    {
+      "id": 2638519,
+      "tipo": "PL",
+      "numero": 3617,
+      "ano": 2026,
+      "ementa": "Confere o título de Capital Nacional dos Botecos ao Município de Belo Horizonte, no Estado de Minas Gerais.",
+      "data": "2026-07-09T12:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638519"
+    },
+    {
+      "id": 2638529,
+      "tipo": "PL",
+      "numero": 3621,
+      "ano": 2026,
+      "ementa": "Reconhece como manifestação da cultura nacional e patrimônio cultural imaterial brasileiro o Clube da Esquina.",
+      "data": "2026-07-09T14:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638529"
     }
   ],
   "discursos": [],

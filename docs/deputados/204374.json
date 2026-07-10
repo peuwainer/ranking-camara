@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204374.jpg",
-  "score": 37.44,
-  "rank": 16,
+  "score": 39.52,
+  "rank": 12,
   "proposicoes": [
     {
       "id": 2633015,
@@ -33,6 +33,24 @@
       "ementa": "Reconhece a Oktoberfest de Blumenau, no Estado de Santa Catarina, como patrimônio cultural imaterial do Brasil.",
       "data": "2026-07-01T15:20",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636233"
+    },
+    {
+      "id": 2638622,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Alterar o artigo 194 da Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências.",
+      "data": "2026-07-09T15:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638622"
+    },
+    {
+      "id": 2638804,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a manutenção de decisões judiciais transitadas em julgado em matéria tributária, que possa ser revertida em virtude de decisão em controle concentrado ou difuso de constitucionalidade",
+      "data": "2026-07-09T18:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638804"
     }
   ],
   "discursos": [],

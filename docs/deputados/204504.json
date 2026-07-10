@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
-  "score": 31.88,
-  "rank": 42,
+  "score": 36.79,
+  "rank": 22,
   "proposicoes": [
     {
       "id": 2632797,
@@ -159,6 +159,33 @@
       "ementa": "Institui pensão especial para crianças e adolescentes órfãos de pai, mãe ou de ambos os genitores, independentemente da causa do óbito, em situação de vulnerabilidade socioeconômica.",
       "data": "2026-07-08T17:51",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638416"
+    },
+    {
+      "id": 2638471,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Disciplina a convocação de cadeia de rádio e televisão para pronunciamentos oficiais; altera a Lei nº 4.117, de 27 de agosto de 1962, a Lei nº 1.079, de 10 de abril de 1950 e a Lei nº 9.504, de 30 de setembro de 1997.",
+      "data": "2026-07-09T09:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638471"
+    },
+    {
+      "id": 2638525,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.472, de 16 de julho de 1997, para fomentar a universalidade e continuidade da telefonia móvel na área rural.",
+      "data": "2026-07-09T13:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638525"
+    },
+    {
+      "id": 2638528,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para dispor sobre os recursos mínimos de acessibilidade disponibilizados nos sítios na internet das unidades do Poder Judiciário.",
+      "data": "2026-07-09T13:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638528"
     }
   ],
   "discursos": [],
