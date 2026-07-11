@@ -4,18 +4,9 @@
   "partido": "PCdoB",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74060.jpg",
-  "score": 24.65,
-  "rank": 123,
+  "score": 28.37,
+  "rank": 94,
   "proposicoes": [
-    {
-      "id": 2631190,
-      "tipo": "PEC",
-      "numero": 13,
-      "ano": 2026,
-      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
-      "data": "2026-06-10T12:08",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
-    },
     {
       "id": 2632707,
       "tipo": "SBT",
@@ -42,6 +33,15 @@
       "ementa": "Altera a Lei nº 11.977, de 7 de julho de 2009, para dispor sobre a suspensão da cobrança de parcelas do Programa Minha Casa, Minha Vida em caso de desemprego do beneficiário e para criar banco de dados dos beneficiários do programa que estejam desempregados para terem preferência em contratações em empresas terceirizadas com contratos com a administração pública.",
       "data": "2026-07-06T15:17",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637291"
+    },
+    {
+      "id": 2638907,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Marco Nacional de Atendimento ao Consumidor e estabelece normas gerais para o funcionamento dos Serviços de Atendimento ao Consumidor (SACs) no Brasil, com fundamento no art. 24, §1º, da Constituição Federal, e na Lei nº 8.078, de 11 de setembro de 1990 – Código de Defesa do Consumidor.",
+      "data": "2026-07-10T12:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638907"
     }
   ],
   "discursos": [

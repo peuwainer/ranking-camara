@@ -4,18 +4,9 @@
   "partido": "MISSÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204536.jpg",
-  "score": 31.56,
-  "rank": 51,
+  "score": 36.29,
+  "rank": 25,
   "proposicoes": [
-    {
-      "id": 2631361,
-      "tipo": "EMP",
-      "numero": 13,
-      "ano": 0,
-      "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
-      "data": "2026-06-10T16:01",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631361"
-    },
     {
       "id": 2631731,
       "tipo": "SBT",
@@ -78,6 +69,15 @@
       "ementa": "Institui normas gerais para a utilização de Fontes Humanas Confidenciais (FHC) nas atividades de polícia judiciária e de investigação criminal e dá outras providências.",
       "data": "2026-07-09T19:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638830"
+    },
+    {
+      "id": 2638852,
+      "tipo": "PL",
+      "numero": 3631,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para aumentar as penas de dano e dano qualificado.",
+      "data": "2026-07-09T20:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638852"
     }
   ],
   "discursos": [

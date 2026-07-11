@@ -4,18 +4,9 @@
   "partido": "UNIÃO",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74554.jpg",
-  "score": 34.41,
-  "rank": 26,
+  "score": 33.02,
+  "rank": 46,
   "proposicoes": [
-    {
-      "id": 2631190,
-      "tipo": "PEC",
-      "numero": 13,
-      "ano": 2026,
-      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
-      "data": "2026-06-10T12:08",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
-    },
     {
       "id": 2633488,
       "tipo": "PEC",
@@ -26,15 +17,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-06-10T18:08",
-      "fase": "Breves Comunicações",
-      "tipo": "BREVES COMUNICAÇÕES",
-      "resumo": "O SR. JOSÉ ROCHA (Bloco/UNIÃO - BA. Sem revisão do orador.) - Sr. Presidente desta sessão, Deputado Hildo Rocha, a quem eu sempre costumo chamar de \"meu primo rico\", ilustre representante do Maranhão ",
-      "transcricao": "O SR. JOSÉ ROCHA (Bloco/UNIÃO - BA. Sem revisão do orador.) - Sr. Presidente desta sessão, Deputado Hildo Rocha, a quem eu sempre costumo chamar de \"meu primo rico\", ilustre representante do Maranhão aqui nesta Casa, tem lutado muito para o desenvolvimento do seu Estado, honra-me muito aqui tê-lo como colega nesta Casa. Contudo, Sras. e Srs. Parlamentares, eu venho à tribuna para registrar que amanhã, dia 11 de junho, se comemora o Dia da Marinha. Hoje, como Presidente da Frente Parlamentar Mista de Apoio ao Programa Antártico Brasileiro  Proantar, venho prestar uma justa e merecida homenagem à nossa gloriosa Marinha do Brasil, que nesta semana celebra sua data magna. Relembramos o heroico 11 de junho de 1865, dia em que o Almirante Barroso e seus bravos marinheiros garantiram nas águas do Riachuelo a soberania e o destino da nossa Nação. Celebrar o Dia da Marinha não é apenas resgatar o passado, é reconhecer o trabalho incansável de milhares de homens e mulheres que hoje protegem as nossas riquezas na Amazônia Azul, uma área de quase 6 milhões de quilômetros quadrados, fundamental para a nossa economia e segurança. Ao longo de sua história, a Marinha tem desempenhado papel essencial na construção do desenvolvimento do País. Presente em nossas águas jurisdicionais, nos rios que integram e conectam regiões distantes, nas operações de busca e salvamento, nas ações humanitárias e no apoio às populações mais vulneráveis, a instituição reafirma diariamente seu compromisso com a sociedade brasileira. Esta Casa reconhece o valor estratégico da nossa força naval. Apoiar o desenvolvimento científico e tecnológico da Marinha, como o programa de desenvolvimento de submarinos e o programa de fragatas, é garantir um Brasil forte, independente e respeitado no cenário global. Em nome do povo brasileiro, manifesto nosso profundo respeito e gratidão a todos os marinheiros, fuzileiros navais, oficiais e servidores civis que dão vida à Força Armada  homens e mulheres que, sob o lema imortal de Riachuelo, cumprem diariamente o seu dever. Quero fazer também aqui o registro do Almirante Holsey, que comanda essa importante Força do País, com muita dedicação, lealdade e, sobretudo, civismo. Viva a Marinha do Brasil! Muito obrigado, Sr. Presidente."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

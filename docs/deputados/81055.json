@@ -4,18 +4,9 @@
   "partido": "PCdoB",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/81055.jpg",
-  "score": 23.1,
-  "rank": 155,
+  "score": 26.73,
+  "rank": 131,
   "proposicoes": [
-    {
-      "id": 2631190,
-      "tipo": "PEC",
-      "numero": 13,
-      "ano": 2026,
-      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
-      "data": "2026-06-10T12:08",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
-    },
     {
       "id": 2634925,
       "tipo": "SBT",
@@ -42,6 +33,15 @@
       "ementa": "Dispõe sobre o Programa Nacional de Incentivo à Docência Inclusiva.",
       "data": "2026-07-07T16:18",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637724"
+    },
+    {
+      "id": 2638876,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre o direito de acompanhamento de pais ou responsáveis legais durante atendimentos clínicos e terapêuticos de crianças com Transtorno do Espectro Autista (TEA), no território nacional, e dá outras providências.",
+      "data": "2026-07-10T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638876"
     }
   ],
   "discursos": [

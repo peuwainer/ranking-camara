@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220553.jpg",
-  "score": 28.76,
-  "rank": 74,
+  "score": 30.75,
+  "rank": 64,
   "proposicoes": [
-    {
-      "id": 2631190,
-      "tipo": "PEC",
-      "numero": 13,
-      "ano": 2026,
-      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
-      "data": "2026-06-10T12:08",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
-    },
     {
       "id": 2632218,
       "tipo": "PL",
@@ -53,15 +44,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637237"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-06-10T16:32",
-      "fase": "Breves Comunicações",
-      "tipo": "BREVES COMUNICAÇÕES",
-      "resumo": "A SRA. DENISE PESSÔA (Bloco/PT - RS. Sem revisão da oradora.) - Sr. Presidente, Sras. e Srs. Deputados, eu ocupo a tribuna para falar um pouco sobre um projeto que eu apresentei que trata de dignidade",
-      "transcricao": "A SRA. DENISE PESSÔA (Bloco/PT - RS. Sem revisão da oradora.) - Sr. Presidente, Sras. e Srs. Deputados, eu ocupo a tribuna para falar um pouco sobre um projeto que eu apresentei que trata de dignidade, de justiça e de igualdade de oportunidades para milhões de mulheres brasileiras. Eu apresentei o Projeto de Lei nº 2.307, de 2026, que institui medidas de acolhimento e retenção das trabalhadoras após o encerramento da licença-maternidade. Parece uma proposta simples, objetiva, mas ela é necessária para que o retorno ao trabalho não se transforme em um processo silencioso de exclusão profissional. A licença-maternidade é um direito conquistado com muita luta, mas a verdade é que para muitas mulheres as dificuldades começam justamente quando ela termina. Quantas mulheres retornam ao trabalho e encontram um ambiente diferente daquele que deixaram? Quantas percebem que perderam espaço, oportunidades ou perspectivas de crescimento? Quantas acabam deixando seus empregos ou sendo desligadas logo após o período de estabilidade? Essa realidade não é fruto da imaginação. Entre 2020 e 2025, mais de 380 mil mulheres foram demitidas sem justa causa após retornarem da licença-maternidade. São milhares de famílias impactadas e milhares de mulheres, que justamente em um dos momentos mais importantes de suas vidas enfrentam insegurança profissional e financeira. Por esse motivo, este projeto propõe que empresas com vinte ou mais empregados adotem programas estruturados de retorno ao trabalho, programas que garantam acolhimento, alinhamento de atividades, atualização sobre mudanças ocorridas durante o afastamento e, sempre que possível, a preservação do cargo, da função e da jornada exercida antes da licença. A gente está falando de respeito. Respeito à mulher, que concilia trabalho, maternidade e tantas outras responsabilidades. Respeito à profissional, que não pode ser tratada com menos comprometimento ou como sendo menos capaz, porque teve um filho. Respeito às famílias, que dependem da renda dessa mulher para viver com dignidade. Este projeto faz justiça às mulheres trabalhadoras deste País. E não há contradição entre proteção social e desenvolvimento econômico. Ao contrário, uma sociedade mais justa é também uma sociedade mais forte. O mercado de trabalho não pode exigir que mulheres escolham entre ser mãe e ter uma carreira. Essa é uma escolha injusta que os homens raramente são obrigados a fazer. Então, nenhuma mulher pode ser punida profissionalmente por gerar e cuidar da vida. Peço, Sr Presidente, que esta fala seja transmitida no programa A Voz do Brasil. Muito obrigada."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

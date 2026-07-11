@@ -4,18 +4,9 @@
   "partido": "PV",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/69871.jpg",
-  "score": 24.07,
-  "rank": 134,
+  "score": 22.75,
+  "rank": 248,
   "proposicoes": [
-    {
-      "id": 2631190,
-      "tipo": "PEC",
-      "numero": 13,
-      "ano": 2026,
-      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
-      "data": "2026-06-10T12:08",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
-    },
     {
       "id": 2636572,
       "tipo": "PL",
@@ -44,15 +35,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637237"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-06-10T17:16",
-      "fase": "Breves Comunicações",
-      "tipo": "BREVES COMUNICAÇÕES",
-      "resumo": "O SR. BACELAR (Bloco/PV - BA. Sem revisão do orador.) - Deputado Hildo Rocha, que preside esta sessão, Sras. e Srs. Deputados, a Comissão de Turismo realizou hoje audiência pública para reavaliar o en",
-      "transcricao": "O SR. BACELAR (Bloco/PV - BA. Sem revisão do orador.) - Deputado Hildo Rocha, que preside esta sessão, Sras. e Srs. Deputados, a Comissão de Turismo realizou hoje audiência pública para reavaliar o enquadramento do transporte aéreo internacional no novo regime tributário. Caso se concretizem as possibilidades que a reforma tributária traz, o setor aéreo internacional será taxado em cerca de 26,5%, com grande impacto sobre o consumidor, sobre a conectividade e sobre a atratividade do Brasil, com graves reflexos na geração de emprego e renda. Essa possibilidade, Sr. Presidente, ocorre no momento em que, graças ao trabalho do Governo do Presidente Lula, o turismo no Brasil bate recordes. Em 2025, 9 milhões e 300 mil turistas estrangeiros visitaram o nosso País. As empresas aéreas transportaram 100 milhões de passageiros. Todo esse círculo virtuoso poderá ser perdido caso a gente aplique ao transporte aéreo internacional alíquota tributária cheia. Entre impostos e taxas, a carga tributária hoje no Brasil representa cerca de 29% do valor de uma passagem aérea, impedindo que milhões de brasileiros utilizem esse transporte, que não é luxo. Num país de dimensões continentais como as do Brasil, a aviação regional, o transporte aéreo regional e o transporte aéreo como um todo são de fundamental importância para o desenvolvimento regional, para o desenvolvimento do turismo, para o transporte de cargas. Se a gente tributa o transporte aéreo internacional, nós vamos também encarecer o transporte de cargas, vamos aumentar o preço de produtos que chegam ao consumidor. E volto a dizer: o maior impacto é na área do turismo, atividade que hoje já representa cerca de 10% do PIB brasileiro e que tem tudo para superar outras atividades econômicas, inclusive a atividade agropecuária. Estamos aqui pedindo ao Ministério da Fazenda, ao Ministério dos Portos, ao Ministério do Turismo e ao MDIC que, juntos, encontrem uma solução urgente para que o transporte aéreo internacional não seja taxado no Brasil. Obrigado, Presidente."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, avaliação e acompanhamento das iniciativas e medidas adotadas para transição energética - Fontes Renováveis e Produção de Hidrogênio Verde no Brasil",

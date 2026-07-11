@@ -4,9 +4,19 @@
   "partido": "PRD",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204427.jpg",
-  "score": 18.59,
-  "rank": 330,
-  "proposicoes": [],
+  "score": 22.36,
+  "rank": 268,
+  "proposicoes": [
+    {
+      "id": 2638931,
+      "tipo": "PL",
+      "numero": 3640,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para afastar a retenção na fonte do Imposto sobre a Renda das Pessoas Físicas sobre lucros e dividendos distribuídos por microempresa ou empresa de pequeno porte optante pelo Simples Nacional.",
+      "data": "2026-07-10T14:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638931"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -4,9 +4,19 @@
   "partido": "PDT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160666.jpg",
-  "score": 29.01,
-  "rank": 70,
-  "proposicoes": [],
+  "score": 29.24,
+  "rank": 83,
+  "proposicoes": [
+    {
+      "id": 2638932,
+      "tipo": "PL",
+      "numero": 3641,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a criação da Universidade Federal do Noroeste da Bahia, com sede no Município de Irecê.",
+      "data": "2026-07-10T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638932"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73788.jpg",
-  "score": 17.07,
-  "rank": 378,
+  "score": 22.12,
+  "rank": 278,
   "proposicoes": [
     {
       "id": 2633488,
@@ -15,6 +15,24 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2638925,
+      "tipo": "PL",
+      "numero": 3637,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para dispor sobre a forma de apresentação do prazo de validade dos produtos.",
+      "data": "2026-07-10T14:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638925"
+    },
+    {
+      "id": 2638926,
+      "tipo": "PL",
+      "numero": 3638,
+      "ano": 2026,
+      "ementa": "Altera a legislação do Imposto sobre a Renda da Pessoa Física para permitir a dedução de despesas com Práticas Integrativas e Complementares em Saúde – PICS, institui o Cadastro Nacional de Terapeutas Integrativos Habilitados – CNTIH e dá outras providências.",
+      "data": "2026-07-10T14:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638926"
     }
   ],
   "discursos": [],

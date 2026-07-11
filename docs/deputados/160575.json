@@ -4,27 +4,9 @@
   "partido": "PT",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160575.jpg",
-  "score": 46.07,
-  "rank": 9,
+  "score": 49.56,
+  "rank": 8,
   "proposicoes": [
-    {
-      "id": 2631190,
-      "tipo": "PEC",
-      "numero": 13,
-      "ano": 2026,
-      "ementa": "Altera o art. 9º da Emenda Constitucional nº 132, de 20 de dezembro de 2023, para permitir a concessão de créditos do Imposto sobre Bens e Serviços através de fomento indireto a doadores e patrocinadores de projetos culturais e esportivos.",
-      "data": "2026-06-10T12:08",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631190"
-    },
-    {
-      "id": 2631374,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Institui a obrigatoriedade de horário especial destinado às pessoas com impedimentos de natureza física, sensorial, intelectual, mental, transtorno de espectro autista, idosos e seus acompanhantes no âmbito do território nacional, em museus, centros culturais e ambientes similares.",
-      "data": "2026-06-10T15:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2631374"
-    },
     {
       "id": 2635883,
       "tipo": "PL",
@@ -87,6 +69,15 @@
       "ementa": "Estabelece normas gerais de Direção Pública Responsável para ocupantes de cargos de direção e funções de liderança no âmbito da Administração Pública.",
       "data": "2026-07-09T13:22",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638523"
+    },
+    {
+      "id": 2638860,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade da oferta de tradução e interpretação em Língua Brasileira de Sinais – Libras em bens culturais que envolvam o uso vocal de linguagem, destinados ao público em geral, quando a plateia comportar mais de quatrocentos espectadores, e dá outras providências.",
+      "data": "2026-07-10T10:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638860"
     }
   ],
   "discursos": [
