@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220534.jpg",
-  "score": 22.15,
-  "rank": 280,
+  "score": 22.0,
+  "rank": 281,
   "proposicoes": [
-    {
-      "id": 2632238,
-      "tipo": "PL",
-      "numero": 3079,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015, a Lei nº 12.764, de 27 de dezembro de 2012, e a Lei nº 7.853, de 24 de outubro de 1989, para reconhecer o responsável legal atípico da pessoa com deficiência, instituir a Carteira de Identificação do Responsável Legal Atípico e estabelecer mecanismos de dilação de prazo para pagamento de contas de consumo e de renegociação de financiamentos habitacionais",
-      "data": "2026-06-12T11:50",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632238"
-    },
     {
       "id": 2632515,
       "tipo": "PL",
@@ -42,6 +33,15 @@
       "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 — Código Penal, a Lei nº 12.850, de 2 de agosto de 2013, e a Lei nº 9.613, de 3 de março de 1998, para tipificar a fraude mediante desconto indevido em folha de pagamento, benefício, pensão ou provento, e dá outras providências",
       "data": "2026-06-26T11:35",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635391"
+    },
+    {
+      "id": 2639263,
+      "tipo": "PL",
+      "numero": 3660,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.991, de 24 de julho de 2000, para incluir a eficiência energética em estabelecimentos públicos de saúde integrantes do Sistema Único de Saúde (SUS) entre as prioridades dos programas de eficiência energética das concessionárias e permissionárias de distribuição de energia elétrica, e dá outras providências",
+      "data": "2026-07-13T16:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639263"
     }
   ],
   "discursos": [],

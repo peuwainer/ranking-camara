@@ -4,36 +4,9 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
-  "score": 76.12,
+  "score": 72.74,
   "rank": 1,
   "proposicoes": [
-    {
-      "id": 2632230,
-      "tipo": "PL",
-      "numero": 3077,
-      "ano": 2026,
-      "ementa": "Altera o § 5º do art. 43 da Lei nº 8.213, de 24 de julho de 1991, para dispensar o segurado com sequelas de poliomielite da reavaliação das condições que ensejaram o afastamento ou a aposentadoria por incapacidade permanente.",
-      "data": "2026-06-12T10:41",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632230"
-    },
-    {
-      "id": 2632236,
-      "tipo": "PL",
-      "numero": 3078,
-      "ano": 2026,
-      "ementa": "Estabelece normas especiais para o tratamento diferenciado a ser dado pelo poder público ao atendimento à criança e ao adolescente na elaboração das propostas orçamentárias e dos relatórios de execução orçamentária, em cada esfera de governo.",
-      "data": "2026-06-12T11:19",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632236"
-    },
-    {
-      "id": 2632294,
-      "tipo": "PL",
-      "numero": 3089,
-      "ano": 2026,
-      "ementa": "Institui o Programa de Cuidados na Família Extensa, como parte integrante da política de atendimento à criança e ao adolescente.",
-      "data": "2026-06-12T17:38",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632294"
-    },
     {
       "id": 2632351,
       "tipo": "SBT",
@@ -276,6 +249,15 @@
       "ementa": "Dispõe sobre a transferência simbólica da sede do Governo Federal para o Município do Rio de Janeiro, no Estado do Rio de Janeiro, no dia 20 de janeiro de cada ano.",
       "data": "2026-07-10T09:37",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638856"
+    },
+    {
+      "id": 2639248,
+      "tipo": "PL",
+      "numero": 3656,
+      "ano": 2026,
+      "ementa": "Acrescenta dispositivo à Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), a fim de prever prazo para realização da cirurgia de reversão da ostomia.",
+      "data": "2026-07-13T15:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639248"
     }
   ],
   "discursos": [

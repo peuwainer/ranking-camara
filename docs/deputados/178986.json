@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178986.jpg",
-  "score": 26.0,
-  "rank": 144,
+  "score": 27.09,
+  "rank": 119,
   "proposicoes": [
     {
       "id": 2637237,
@@ -15,6 +15,15 @@
       "ementa": "Estabelece o marco legal do Registro Nacional de Beneficiários Finais, dispõe sobre a integração, atualização, verificação, interoperabilidade e acesso às informações relativas aos beneficiários finais de pessoas jurídicas e estruturas legais, e fortalece os mecanismos de prevenção à lavagem de dinheiro, corrupção, evasão fiscal, ocultação patrimonial e infiltração da criminaliza organizada na economia formal.",
       "data": "2026-07-06T13:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637237"
+    },
+    {
+      "id": 2639236,
+      "tipo": "PL",
+      "numero": 3655,
+      "ano": 2026,
+      "ementa": "Altera a Decreto-Lei n° 5.452 de 1º de maio de 1943 que altera a Consolidação das Leis do Trabalho para dispor sobre uso da imagem do empregado nas mídias sociais do empregador.",
+      "data": "2026-07-13T14:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639236"
     }
   ],
   "discursos": [

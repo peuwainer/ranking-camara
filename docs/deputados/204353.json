@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204353.jpg",
-  "score": 2.48,
+  "score": 3.61,
   "rank": 509,
-  "proposicoes": [],
+  "proposicoes": [
+    {
+      "id": 2639254,
+      "tipo": "PL",
+      "numero": 3658,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Segurança Neonatal em maternidades e estabelecimentos de saúde que realizem partos, com medidas destinadas à prevenção da subtração, sequestro, desaparecimento e troca de recém-nascidos.",
+      "data": "2026-07-13T15:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639254"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
