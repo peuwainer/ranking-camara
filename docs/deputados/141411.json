@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141411.jpg",
-  "score": 24.88,
-  "rank": 168,
+  "score": 27.93,
+  "rank": 114,
   "proposicoes": [
     {
       "id": 2633488,
@@ -15,6 +15,24 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2639344,
+      "tipo": "PL",
+      "numero": 3674,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a suspensão cautelar de descontos em folha de pagamento relativos a empréstimos consignados, cartões de crédito consignados, cartões de benefício consignados, Reserva de Margem Consignável (RMC) e Reserva de Cartão Consignado (RCC), quando houver indícios de irregularidades nas instituições financeiras ou nas operações contratadas, e dá outras providências.",
+      "data": "2026-07-14T11:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639344"
+    },
+    {
+      "id": 2639545,
+      "tipo": "PL",
+      "numero": 3701,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para excluir os jogos virtuais de resultado exclusivamente algorítmico do regime jurídico das apostas de quota fixa, vedar sua exploração em território nacional e dar outras providências.",
+      "data": "2026-07-14T19:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639545"
     }
   ],
   "discursos": [],

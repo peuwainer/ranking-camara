@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220665.jpg",
-  "score": 24.76,
-  "rank": 174,
+  "score": 26.03,
+  "rank": 166,
   "proposicoes": [
     {
       "id": 2633488,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634442"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-07-14T17:12",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. CLARISSA TÉRCIO (Bloco/PP - PE. Pela ordem. Sem revisão da oradora.) - Obrigada. A Esquerda é especialista em mentiras, mas não só é especialista em mentiras, como também em acusar os seus adve",
+      "transcricao": "A SRA. CLARISSA TÉRCIO (Bloco/PP - PE. Pela ordem. Sem revisão da oradora.) - Obrigada. A Esquerda é especialista em mentiras, mas não só é especialista em mentiras, como também em acusar os seus adversários de mentir. Isso me leva a crer que realmente não leram o projeto. Art. 20-C: \"Na interpretação desta lei, o juiz deve considerar como discriminatória qualquer atitude ou tratamento dado à pessoa ou a grupos minoritários que cause constrangimento, humilhação, vergonha (...)\" Está no projeto, minha gente, é só ler! Qualquer pessoa, qualquer mulher que se sentir constrangida, humilhada, envergonhada... Por exemplo, se alguém falar que mulher não sabe jogar futebol, que mulher não sabe fazer política, que mulher não sabe dirigir  a gente ouve isso o tempo todo , é constrangimento, é humilhação, de acordo com o art. 20-C. Vamos ler o projeto, vamos estudar para parar de ficar acusando os outros de mentiras."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

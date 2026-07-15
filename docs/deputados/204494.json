@@ -4,8 +4,8 @@
   "partido": "PRD",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
-  "score": 23.39,
-  "rank": 227,
+  "score": 23.89,
+  "rank": 241,
   "proposicoes": [
     {
       "id": 2632413,
@@ -33,6 +33,15 @@
       "ementa": "Institui a Lei de Incentivo à Adoção e Proteção Animal e altera as Leis nº 9.250, de 1995, e nº 9.249, de 1995 e dá outras providências.",
       "data": "2026-07-02T14:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2636833"
+    },
+    {
+      "id": 2639539,
+      "tipo": "PLP",
+      "numero": 208,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para ampliar o regime diferenciado aplicável à aquisição de automóveis por pessoas com transtornos do neurodesenvolvimento que apresentem limitações funcionais relevantes.",
+      "data": "2026-07-14T19:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639539"
     }
   ],
   "discursos": [],

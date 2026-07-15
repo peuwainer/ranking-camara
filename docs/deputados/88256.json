@@ -4,9 +4,19 @@
   "partido": "PV",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/88256.jpg",
-  "score": 22.21,
-  "rank": 275,
-  "proposicoes": [],
+  "score": 24.44,
+  "rank": 216,
+  "proposicoes": [
+    {
+      "id": 2639355,
+      "tipo": "PL",
+      "numero": 3676,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.279, de 14 de maio de 1996, para estabelecer prazo específico de vigência para patentes de invenção relativas a medicamentos, produtos farmacêuticos e processos de obtenção de medicamentos.",
+      "data": "2026-07-14T11:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639355"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-06-17T16:48",

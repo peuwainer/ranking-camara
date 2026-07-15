@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204480.jpg",
-  "score": 23.51,
-  "rank": 223,
+  "score": 27.37,
+  "rank": 124,
   "proposicoes": [
     {
       "id": 2635684,
@@ -24,6 +24,33 @@
       "ementa": "Estabelece o marco legal do Registro Nacional de Beneficiários Finais, dispõe sobre a integração, atualização, verificação, interoperabilidade e acesso às informações relativas aos beneficiários finais de pessoas jurídicas e estruturas legais, e fortalece os mecanismos de prevenção à lavagem de dinheiro, corrupção, evasão fiscal, ocultação patrimonial e infiltração da criminaliza organizada na economia formal.",
       "data": "2026-07-06T13:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637237"
+    },
+    {
+      "id": 2639456,
+      "tipo": "PL",
+      "numero": 3683,
+      "ano": 2026,
+      "ementa": "Institui o Regime de Proteção contra o Assédio Comercial Digital dirigido aos beneficiários da Previdência Social e dá outras providências.",
+      "data": "2026-07-14T14:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639456"
+    },
+    {
+      "id": 2639457,
+      "tipo": "PL",
+      "numero": 3684,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.820, de 17 de dezembro de 2003, para vedar a imposição de contratação de produtos ou serviços acessórios em operações de crédito consignado destinadas a aposentados e pensionistas do Regime Geral de Previdência Social e estabelecer medidas de proteção ao consumidor.",
+      "data": "2026-07-14T14:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639457"
+    },
+    {
+      "id": 2639458,
+      "tipo": "PL",
+      "numero": 3685,
+      "ano": 2026,
+      "ementa": "Institui medidas especiais de proteção de dados pessoais de aposentados, pensionistas e beneficiários de benefícios previdenciários e assistenciais, estabelece regras para o tratamento e compartilhamento dessas informações e dá outras providências.",
+      "data": "2026-07-14T14:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639458"
     }
   ],
   "discursos": [],

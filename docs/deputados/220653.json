@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220653.jpg",
-  "score": 22.38,
-  "rank": 262,
+  "score": 22.77,
+  "rank": 291,
   "proposicoes": [
     {
       "id": 2634892,
@@ -15,6 +15,15 @@
       "ementa": "Obriga as instituições financeiras e entidades congêneres a colher a assinatura física de pessoas com idade igual ou superior a sessenta anos para a contratação de operações de crédito.",
       "data": "2026-06-23T15:06",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634892"
+    },
+    {
+      "id": 2639455,
+      "tipo": "PL",
+      "numero": 3682,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996, para estabelecer normas de publicidade responsável aplicáveis às atividades econômicas com potencial de dependência comportamental e dá outras providências.",
+      "data": "2026-07-14T14:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639455"
     }
   ],
   "discursos": [],
