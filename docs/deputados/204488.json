@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204488.jpg",
-  "score": 22.58,
-  "rank": 295,
+  "score": 23.55,
+  "rank": 257,
   "proposicoes": [
     {
       "id": 2633488,
@@ -24,6 +24,15 @@
       "ementa": "Institui a Política Nacional de Fiscalização Aérea Remota para a Proteção Animal, de adesão voluntária pelos Estados, pelo Distrito Federal e pelos Municípios, com o objetivo de prevenir e combater os maus-tratos a animais mediante o uso de aeronaves não tripuladas e tecnologias de sensoriamento remoto.",
       "data": "2026-06-19T16:53",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634537"
+    },
+    {
+      "id": 2639634,
+      "tipo": "PL",
+      "numero": 3704,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para proibir a veiculação de publicidade exterior e em espaços públicos de plataformas de apostas de quota fixa (“bets”) em todo o território nacional, e dá outras providências.",
+      "data": "2026-07-15T10:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639634"
     }
   ],
   "discursos": [],

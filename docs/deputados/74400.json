@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74400.jpg",
-  "score": 24.02,
-  "rank": 236,
+  "score": 25.0,
+  "rank": 201,
   "proposicoes": [
     {
       "id": 2637237,
@@ -24,6 +24,15 @@
       "ementa": "Emenda de plenáro",
       "data": "2026-07-08T17:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638395"
+    },
+    {
+      "id": 2639736,
+      "tipo": "PL",
+      "numero": 3720,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.713, de 22 de dezembro de 1988, para conceder isenção do Imposto sobre a Renda da Pessoa Física incidente sobre rendimentos de aposentadoria, pensão e demais benefícios previdenciários.",
+      "data": "2026-07-15T14:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639736"
     }
   ],
   "discursos": [],

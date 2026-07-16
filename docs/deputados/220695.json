@@ -4,27 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-  "score": 36.32,
-  "rank": 28,
+  "score": 35.34,
+  "rank": 34,
   "proposicoes": [
-    {
-      "id": 2632402,
-      "tipo": "SBT",
-      "numero": 8,
-      "ano": 0,
-      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL 2373/23 e do PL 6204/25, apensado, com substitutivo.",
-      "data": "2026-06-15T14:16",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632402"
-    },
-    {
-      "id": 2632439,
-      "tipo": "SBT",
-      "numero": 5,
-      "ano": 0,
-      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação deste, com substitutivo.",
-      "data": "2026-06-15T15:23",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632439"
-    },
     {
       "id": 2632623,
       "tipo": "PLP",
@@ -132,6 +114,15 @@
       "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do Projeto de Lei nº1.800/2025, com substitutivo.",
       "data": "2026-07-13T18:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639274"
+    },
+    {
+      "id": 2639549,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do Projeto de Lei nº 3.210/2024, com substitutivo.",
+      "data": "2026-07-15T08:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639549"
     }
   ],
   "discursos": [],

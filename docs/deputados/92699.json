@@ -4,9 +4,19 @@
   "partido": "PSD",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/92699.jpg",
-  "score": 18.56,
-  "rank": 404,
-  "proposicoes": [],
+  "score": 19.53,
+  "rank": 388,
+  "proposicoes": [
+    {
+      "id": 2639607,
+      "tipo": "PL",
+      "numero": 3703,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.182, de 27 de setembro de 2005, para prever indicadores de desempenho operacional dos aeroportos explorados mediante concessão e disciplinar sanções progressivas em caso de descumprimento reiterado.",
+      "data": "2026-07-15T09:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639607"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -4,8 +4,8 @@
   "partido": "CIDADANIA",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141391.jpg",
-  "score": 26.17,
-  "rank": 157,
+  "score": 27.12,
+  "rank": 137,
   "proposicoes": [
     {
       "id": 2635549,
@@ -51,6 +51,15 @@
       "ementa": "",
       "data": "2026-07-08T18:13",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638409"
+    },
+    {
+      "id": 2639692,
+      "tipo": "PL",
+      "numero": 3716,
+      "ano": 2026,
+      "ementa": "Revoga dispositivo da Lei nº 10.848, de 15 de março de 2004.",
+      "data": "2026-07-15T12:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639692"
     }
   ],
   "discursos": [

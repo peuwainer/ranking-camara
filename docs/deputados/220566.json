@@ -4,9 +4,55 @@
   "partido": "REPUBLICANOS",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220566.jpg",
-  "score": 10.11,
-  "rank": 492,
-  "proposicoes": [],
+  "score": 14.97,
+  "rank": 460,
+  "proposicoes": [
+    {
+      "id": 2639653,
+      "tipo": "PLP",
+      "numero": 212,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 224, de 26 de dezembro de 2025, para excluir da redução linear de incentivos e benefícios tributários as Comunidades Terapêuticas certificadas, quando caracterizadas como entidades assistenciais sem fins lucrativos, e dá outras providências.",
+      "data": "2026-07-15T11:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639653"
+    },
+    {
+      "id": 2639655,
+      "tipo": "PL",
+      "numero": 3709,
+      "ano": 2026,
+      "ementa": "Altera as Leis nºs 13.675, de 11 de junho de 2018, e 13.756, de 12 de dezembro de 2018, para instituir o Painel Nacional de Violência e Importunação no Transporte Público, estabelecer mecanismos de integração entre segurança pública e mobilidade urbana e criar o Selo Transporte Seguro para Mulheres.",
+      "data": "2026-07-15T11:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639655"
+    },
+    {
+      "id": 2639657,
+      "tipo": "PL",
+      "numero": 3710,
+      "ano": 2026,
+      "ementa": "Cria a Rota Turística da Fé Jardim da Imaculada, no Município de Cidade Ocidental, Estado de Goiás.",
+      "data": "2026-07-15T11:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639657"
+    },
+    {
+      "id": 2639658,
+      "tipo": "PL",
+      "numero": 3711,
+      "ano": 2026,
+      "ementa": "Institui o Sistema Nacional de Certificação e Qualificação das Comunidades Terapêuticas - SNCT, cria o Cadastro Nacional das Comunidades Terapêuticas Certificadas - CNCTC, estabelece requisitos mínimos de funcionamento, padrões de conformidade sanitária, assistencial e de direitos humanos, e dá outras providências.",
+      "data": "2026-07-15T11:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639658"
+    },
+    {
+      "id": 2639659,
+      "tipo": "PL",
+      "numero": 3712,
+      "ano": 2026,
+      "ementa": "Dispõe sobre os critérios e limites para o protesto de dívidas relativas a serviços de utilidade pública prestados por concessionários de serviços públicos, especifica condições para inclusão facultativa dos emolumentos cartorários nas faturas de consumo e estabelece diretrizes para a atuação dos tabelionatos de protesto como instrumentos de recuperação de crédito e inclusão financeira.",
+      "data": "2026-07-15T11:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639659"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-06-17T14:36",

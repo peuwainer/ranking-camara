@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220648.jpg",
-  "score": 24.3,
-  "rank": 221,
+  "score": 25.27,
+  "rank": 191,
   "proposicoes": [
     {
       "id": 2635433,
@@ -33,6 +33,15 @@
       "ementa": "Acrescenta os arts. 64-A, 64-B, 64-C, 64-D, 64-E, 64-F e 64-G e altera o art. 226 do Regimento Interno da Câmara dos Deputados para dispor sobre as frentes parlamentares.",
       "data": "2026-07-07T19:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637859"
+    },
+    {
+      "id": 2639848,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o marco regulatório das relações contratuais de correspondência bancária no País, estabelece diretrizes de proteção econômica, paridade de condições comerciais, transparência e devido processo sancionador, e dá outras providências.",
+      "data": "2026-07-15T17:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639848"
     }
   ],
   "discursos": [

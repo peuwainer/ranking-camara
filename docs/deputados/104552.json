@@ -5,17 +5,8 @@
   "uf": "AC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/104552.jpg",
   "score": 28.27,
-  "rank": 105,
+  "rank": 113,
   "proposicoes": [
-    {
-      "id": 2632322,
-      "tipo": "PL",
-      "numero": 3100,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.029, de 13 de abril de 1995, e a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para vedar práticas discriminatórias contra pessoas com lúpus, fibromialgia e outras doenças autoimunes ou crônicas na relação e trabalho e assegurar medidas de adaptação razoável da jornada.",
-      "data": "2026-06-15T09:56",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632322"
-    },
     {
       "id": 2634356,
       "tipo": "SBT",
@@ -96,6 +87,15 @@
       "ementa": "Estabelece diretrizes para a carreira e as atribuições dos profissionais de apoio e suporte que atuam como Auxiliares de Educação Infantil.",
       "data": "2026-07-13T17:36",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639269"
+    },
+    {
+      "id": 2639765,
+      "tipo": "SBT",
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Bioeconomia, em articulação com a implementação de diretrizes e bases do planejamento do desenvolvimento nacional equilibrado, e altera a Lei nº 10.177, de 12 de janeiro de 2001; a Lei Complementar nº 124, de 3 de janeiro de 2007; a Lei Complementar nº 125, de 3 de janeiro de 2007; a Lei Complementar nº 129, de 8 de janeiro de 2009; e a Lei nº 12.187, de 29 de dezembro de 2009.",
+      "data": "2026-07-15T15:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639765"
     }
   ],
   "discursos": [],

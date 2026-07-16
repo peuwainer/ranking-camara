@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220669.jpg",
-  "score": 24.44,
-  "rank": 217,
+  "score": 25.41,
+  "rank": 186,
   "proposicoes": [
     {
       "id": 2633488,
@@ -51,6 +51,15 @@
       "ementa": "Institui a Política Nacional de Proteção e Promoção dos Direitos da Mãe Solo.",
       "data": "2026-07-09T10:13",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638475"
+    },
+    {
+      "id": 2639817,
+      "tipo": "PL",
+      "numero": 3726,
+      "ano": 2026,
+      "ementa": "Prevê a conciliação especializada nas demandas de assistência à saúde.",
+      "data": "2026-07-15T16:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639817"
     }
   ],
   "discursos": [],

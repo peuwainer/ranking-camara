@@ -4,45 +4,9 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204472.jpg",
-  "score": 37.72,
-  "rank": 20,
+  "score": 43.55,
+  "rank": 10,
   "proposicoes": [
-    {
-      "id": 2632432,
-      "tipo": "PL",
-      "numero": 3112,
-      "ano": 2026,
-      "ementa": "Dispõe sobre critérios de elegibilidade em competições esportivas oficiais financiadas com recursos públicos e dá outras providências.",
-      "data": "2026-06-15T15:12",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632432"
-    },
-    {
-      "id": 2632435,
-      "tipo": "PL",
-      "numero": 3114,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Transparência, Qualificação Técnica e Controle Social das Indicações para Diretorias e Conselhos das Agências Reguladoras Federais, estabelece requisitos mínimos de experiência profissional, cria o procedimento de Auditoria Pública de Currículo e dá outras providências.",
-      "data": "2026-06-15T15:17",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632435"
-    },
-    {
-      "id": 2632457,
-      "tipo": "PL",
-      "numero": 3116,
-      "ano": 2026,
-      "ementa": "Institui o Marco do Apoio Jurídico ao Policial em Serviço, cria o Fundo Federal de Assistência Jurídica ao Agente de Segurança Pública e estabelece mecanismos de proteção jurídica aos integrantes dos órgãos de segurança pública que respondam a procedimentos administrativos, cíveis ou penais decorrentes de atos praticados no estrito cumprimento do dever legal ou no exercício regular da função.",
-      "data": "2026-06-15T15:55",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632457"
-    },
-    {
-      "id": 2632461,
-      "tipo": "PL",
-      "numero": 3117,
-      "ano": 2026,
-      "ementa": "Institui o Marco do Crédito Privado Desburocratizado do Agronegócio – FIAGRO LIVRE, simplifica a emissão de Cédulas de Produto Rural (CPR), amplia o acesso de pequenos e médios produtores rurais ao mercado de capitais, reduz exigências burocráticas para operações de crédito privado rural e dá outras providências.",
-      "data": "2026-06-15T16:06",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632461"
-    },
     {
       "id": 2632605,
       "tipo": "PL",
@@ -141,6 +105,96 @@
       "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para instituir a Avaliação Nacional de Eficiência da Despesa Pública e estabelecer requisitos de transparência e demonstração de alternativas de racionalização de despesas para projetos de lei que instituam ou majorem tributos federais, e dá outras providências.",
       "data": "2026-07-08T19:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638458"
+    },
+    {
+      "id": 2639768,
+      "tipo": "PL",
+      "numero": 3722,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Resiliência das Comunicações em Situações de Emergência e Desastres, estabelece o Regime Emergencial de Compartilhamento de Redes de Telecomunicações, RECORE garante o direito à conectividade de emergência durante estados de calamidade pública e interrupções generalizadas dos serviços de telecomunicações e dá outras providências.",
+      "data": "2026-07-15T15:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639768"
+    },
+    {
+      "id": 2639770,
+      "tipo": "PL",
+      "numero": 3723,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Acesso Acelerado às Terapias Antimicrobianas Inovadoras PNAATI, estabelece regime regulatório especial para pesquisa, desenvolvimento, avaliação e disponibilização de terapias destinadas ao tratamento de infecções causadas por microrganismos resistentes aos antimicrobianos, cria o Programa Nacional de Terapia Fágica, disciplina procedimentos prioritários perante a Agência Nacional de Vigilância Sanitária, ANVISA e dá outras providências.",
+      "data": "2026-07-15T15:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639770"
+    },
+    {
+      "id": 2639771,
+      "tipo": "PLP",
+      "numero": 213,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para instituir o Regime de Transparência da Qualidade do Ajuste Fiscal, o Resultado Fiscal Estrutural Primário, o Índice de Qualidade do Ajuste Fiscal – IQAF e o Relatório de Responsabilidade com o Contribuinte, e dá outras providências.",
+      "data": "2026-07-15T15:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639771"
+    },
+    {
+      "id": 2639838,
+      "tipo": "PL",
+      "numero": 3736,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.848, de 25 de junho de 2019, para instituir o Regime de Responsabilidade Regulatória, o Sistema Nacional de Transparência Regulatória, o Relatório de Impacto Legislativo-Regulatório e mecanismos de controle parlamentar sobre atos normativos de elevado impacto econômico e social, e dá outras providências.",
+      "data": "2026-07-15T17:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639838"
+    },
+    {
+      "id": 2639853,
+      "tipo": "PL",
+      "numero": 3740,
+      "ano": 2026,
+      "ementa": "Institui o Marco Nacional de Transparência, Governança, Avaliação e Prestação de Contas da Educação Básica Pública, estabelece normas sobre divulgação de indicadores de desempenho escolar, custos educacionais, gestão por resultados, transparência ativa e controle social, e dá outras providências.",
+      "data": "2026-07-15T18:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639853"
+    },
+    {
+      "id": 2639857,
+      "tipo": "PL",
+      "numero": 3741,
+      "ano": 2026,
+      "ementa": "Institui o Marco Nacional de Transparência, Governança, Avaliação e Prestação de Contas da Educação Básica Pública, estabelece normas sobre divulgação de indicadores de desempenho escolar, custos educacionais, gestão por resultados, transparência ativa e controle social, e dá outras providências.",
+      "data": "2026-07-15T18:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639857"
+    },
+    {
+      "id": 2639860,
+      "tipo": "PL",
+      "numero": 3743,
+      "ano": 2026,
+      "ementa": "Institui o Marco Legal da Transparência Algorítmica na Administração Tributária, estabelece normas de governança para utilização de sistemas de inteligência artificial e de decisões automatizadas na fiscalização tributária, assegura direitos dos contribuintes, cria mecanismos de supervisão humana, transparência, auditoria e prestação de contas, e dá outras providências.",
+      "data": "2026-07-15T18:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639860"
+    },
+    {
+      "id": 2639862,
+      "tipo": "PL",
+      "numero": 3744,
+      "ano": 2026,
+      "ementa": "Institui o Marco Legal do Mercado Descentralizado de Energia Elétrica – MMDEE, estabelece normas para o comércio bilateral de energia elétrica, cria o Ambiente Regulatório Experimental para inovação no setor elétrico, disciplina as comunidades energéticas inteligentes, os ativos energéticos digitais, os contratos inteligentes, a comercialização descentralizada de energia elétrica, altera a Lei nº 14.300, de 6 de janeiro de 2022, a Lei nº 9.427, de 26 de dezembro de 1996, e a Lei nº 10.848, de 15 de março de 2004, e dá outras providências.",
+      "data": "2026-07-15T18:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639862"
+    },
+    {
+      "id": 2639930,
+      "tipo": "PL",
+      "numero": 3746,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.989, de 24 de fevereiro de 1995, e a Lei nº 12.009, de 29 de julho de 2009, para estender aos mototaxistas os benefícios concedidos aos taxistas na aquisição de veículos destinados ao exercício da atividade profissional e dá outras providências.",
+      "data": "2026-07-15T18:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639930"
+    },
+    {
+      "id": 2639931,
+      "tipo": "PL",
+      "numero": 3747,
+      "ano": 2026,
+      "ementa": "Institui o Estatuto das Futuras Gerações, estabelece normas de proteção do patrimônio público intergeracional, transforma o Fundo Social instituído pela Lei nº 12.351, de 22 de dezembro de 2010, em Fundo Soberano Permanente das Futuras Gerações, disciplina a gestão das receitas extraordinárias provenientes da exploração de recursos naturais não renováveis e dá outras providências.",
+      "data": "2026-07-15T18:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639931"
     }
   ],
   "discursos": [],

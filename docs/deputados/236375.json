@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236375.jpg",
-  "score": 24.07,
-  "rank": 234,
+  "score": 25.04,
+  "rank": 197,
   "proposicoes": [
     {
       "id": 2633448,
@@ -33,6 +33,15 @@
       "ementa": "Altera os art. 150 Constituição Federal para incluir as entidades esportivas sem fins lucrativos.",
       "data": "2026-06-17T17:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633488"
+    },
+    {
+      "id": 2639858,
+      "tipo": "PL",
+      "numero": 3742,
+      "ano": 2026,
+      "ementa": "Proíbe a monetização de conteúdos em qualquer plataforma digital, rede sociais, podcasts, canais de vídeos e sites por detentores de mandatos eletivos que tenham por objeto o exercício do mandato ou que sejam produzidos com emprego de recursos públicos, e dá outras providências.",
+      "data": "2026-07-15T18:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639858"
     }
   ],
   "discursos": [

@@ -4,9 +4,19 @@
   "partido": "AVANTE",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/235712.jpg",
-  "score": 19.61,
-  "rank": 384,
-  "proposicoes": [],
+  "score": 20.57,
+  "rank": 365,
+  "proposicoes": [
+    {
+      "id": 2639724,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Enfrentamento Integrado ao HIV e à Aids (PNEI-HIV), com foco em prevenção combinada, diagnóstico precoce, inovação tecnológica, combate à discriminação e ampliação do acesso a tratamentos e estratégias de imunização, e dá outras providências.",
+      "data": "2026-07-15T14:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639724"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-07-08T14:32",

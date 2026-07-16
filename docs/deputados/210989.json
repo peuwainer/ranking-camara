@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/210989.jpg",
-  "score": 26.59,
-  "rank": 146,
+  "score": 30.47,
+  "rank": 77,
   "proposicoes": [
     {
       "id": 2632666,
@@ -60,6 +60,42 @@
       "ementa": "Dispõe sobre a obrigatoriedade de assistência médica e hospitalar aos profissionais de enfermagem pelas instituições de saúde empregadoras e dá outras providências.",
       "data": "2026-06-30T14:38",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635553"
+    },
+    {
+      "id": 2639818,
+      "tipo": "PL",
+      "numero": 3727,
+      "ano": 2026,
+      "ementa": "Esta Lei estabelece o padrão mínimo de funcionamento das Instituições de Longa Permanência para Idosos e dá outras providências.",
+      "data": "2026-07-15T16:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639818"
+    },
+    {
+      "id": 2639819,
+      "tipo": "PL",
+      "numero": 3728,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o dimensionamento mínimo das equipes do Serviço de Atendimento Móvel de Urgência (SAMU), estabelece parâmetros para a composição dos profissionais da enfermagem nas unidades móveis de atendimento pré-hospitalar e dá outras providências.",
+      "data": "2026-07-15T16:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639819"
+    },
+    {
+      "id": 2639820,
+      "tipo": "PL",
+      "numero": 3729,
+      "ano": 2026,
+      "ementa": "Cria a Universidade Federal da Enfermagem.",
+      "data": "2026-07-15T16:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639820"
+    },
+    {
+      "id": 2639821,
+      "tipo": "PL",
+      "numero": 3730,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a oferta de próteses e dispositivos de reabilitação para pacientes com perdas de substância corporal decorrentes de doenças, síndromes ou traumas, no âmbito do Sistema Único de Saúde (SUS), e dá outras providências.",
+      "data": "2026-07-15T16:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639821"
     }
   ],
   "discursos": [
