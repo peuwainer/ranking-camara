@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220645.jpg",
-  "score": 31.73,
-  "rank": 63,
+  "score": 39.46,
+  "rank": 28,
   "proposicoes": [
     {
       "id": 2634636,
@@ -78,6 +78,33 @@
       "ementa": "Acrescenta dispositivos à Lei nº 11.340, de 7 de Agosto de 2006 (Lei Maria da Penha), para instituir o Marco Legal das Rondas Maria da Penha, destinadas à fiscalização do cumprimento das medidas protetivas de urgência e à prevenção da violência doméstica e familiar contra a mulher.",
       "data": "2026-07-14T12:30",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639365"
+    },
+    {
+      "id": 2640238,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para estabelecer prazo prioritário de devolução do valor pago por produto essencial, quando não houver reposição imediata.",
+      "data": "2026-07-16T16:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640238"
+    },
+    {
+      "id": 2640242,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Reestruturação Financeira das Famílias, com diretrizes para prevenção e tratamento do superendividamento, e dá outras providências.",
+      "data": "2026-07-16T16:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640242"
+    },
+    {
+      "id": 2640251,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a prioridade e gratuidade na taxa de emissão de documentos para mulheres vítimas de violência em todo País.",
+      "data": "2026-07-16T17:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640251"
     }
   ],
   "discursos": [],

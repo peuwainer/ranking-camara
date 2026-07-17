@@ -4,18 +4,9 @@
   "partido": "MDB",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/98148.jpg",
-  "score": 23.66,
-  "rank": 256,
+  "score": 25.28,
+  "rank": 313,
   "proposicoes": [
-    {
-      "id": 2632704,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 12.187, de 29 de dezembro de 2009 – Política Nacional sobre Mudança do Clima – PNMC, para vedar embargos em propriedades sem prévia lavratura de auto de infração e vedar embargos coletivos.",
-      "data": "2026-06-16T14:08",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632704"
-    },
     {
       "id": 2633488,
       "tipo": "PEC",
@@ -62,15 +53,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638415"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-06-16T18:08",
-      "fase": "Breves Comunicações",
-      "tipo": "BREVES COMUNICAÇÕES",
-      "resumo": "O SR. COBALCHINI (Bloco/MDB - SC. Sem revisão do orador.) - Muito obrigado, Presidente Luiz Lima. Hoje pela manhã, participei de uma audiência pública promovida pela ANTT para tratar sobre novas conce",
-      "transcricao": "O SR. COBALCHINI (Bloco/MDB - SC. Sem revisão do orador.) - Muito obrigado, Presidente Luiz Lima. Hoje pela manhã, participei de uma audiência pública promovida pela ANTT para tratar sobre novas concessões de rodovias em Santa Catarina. Na semana passada, participei de audiência semelhante a esta na cidade de Chapecó para falarmos da concessão da BR-282, da BR-470 e da BR-163. O projeto que a ANTT nos apresentou eu julgo muito aquém daquilo de que o nosso Estado catarinense precisa. São três rodovias, 30 anos de concessão e em torno de 80 quilômetros de duplicação dessas rodovias no nosso Estado. Santa Catarina é um Estado pujante, desenvolvido, com uma boa qualidade de vida, mas temos apenas uma rodovia duplicada e duas rodovias concessionadas. Os últimos grandes investimentos no nosso Estado, exceto a BR-101, que está duplicada, foram feitos nas décadas de 50, 60, 70. A partir daí, não houve nenhuma ampliação em nenhuma rodovia, e os acidentes se multiplicam. As mortes na BR-470, na BR-282, na BR-101 também se multiplicam. Por quê? Porque são rodovias em pista simples. Santa Catarina é um Estado exportador. Grande parte das mercadorias que são exportadas, 50%, saem lá do extremo oeste, do oeste de Santa Catarina, a 500 quilômetros dos nossos portos, com mobilidade zero, com risco muito grande de acidentes. Por isso, nós queremos que esse projeto seja revisto e que nós tenhamos a totalidade dessas duas rodovias, tanto a BR-470 quanto a BR-282, duplicada. A BR-153, também uma rodovia importante, que corta a cidade de Concórdia, merece também, assim como a BR-282 e a BR-470, ser concessionada, merece receber as melhorias que a Região do Alto Uruguai reclama, com muita razão. Eu peço, Sr. Presidente, que a nossa manifestação seja veiculada no programa A Voz do Brasil. Muito obrigado."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",

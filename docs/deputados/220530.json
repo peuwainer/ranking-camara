@@ -4,18 +4,9 @@
   "partido": "UNIÃO",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220530.jpg",
-  "score": 31.69,
-  "rank": 64,
+  "score": 39.71,
+  "rank": 25,
   "proposicoes": [
-    {
-      "id": 2632572,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 10.883 e a Lei nº 10.826 para reconhecer como atividade de risco as atribuições desempenhadas pelos integrantes da Carreira de Auditor Fiscal Federal Agropecuário e autorizar o porte de arma de fogo, e dá outras providências.\nAutor: Deputado CAPITÃO ALDEN\nRelator: Deputado MESSIAS DONATO",
-      "data": "2026-06-16T10:55",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632572"
-    },
     {
       "id": 2633251,
       "tipo": "PL",
@@ -69,6 +60,24 @@
       "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), e a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para disciplinar a visitação de crianças e adolescentes a pessoas privadas de liberdade, assegurar condições adequadas à sua proteção integral e prever formas complementares de convivência familiar.",
       "data": "2026-07-15T17:11",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639835"
+    },
+    {
+      "id": 2640029,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade de comunicação à vítima de crime acerca dos atos relevantes da investigação criminal e da ação penal, e dá outras providências.\nAutor: Deputado DUDA RAMOS\nRelator: Deputado MESSIAS DONATO",
+      "data": "2026-07-16T09:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640029"
+    },
+    {
+      "id": 2640031,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre o Protocolo Nacional de Investigação e Perícias nos Crimes de Feminicídio.\nAutora: Deputada LÊDA BORGES\nRelator: Deputado MESSIAS DONATO",
+      "data": "2026-07-16T10:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640031"
     }
   ],
   "discursos": [
