@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220655.jpg",
-  "score": 27.09,
-  "rank": 244,
+  "score": 24.44,
+  "rank": 221,
   "proposicoes": [
     {
       "id": 2637787,
@@ -24,6 +24,15 @@
       "ementa": "Dá ao art. 5º do substitutivo nova redação.",
       "data": "2026-07-08T16:22",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638323"
+    },
+    {
+      "id": 2640325,
+      "tipo": "PL",
+      "numero": 3778,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.960, de 21 de dezembro de 1989, para disciplinar prazo diferenciado da prisão temporária em investigações de organizações criminosas e associações criminosas de elevada complexidade, que demandem técnicas especiais de obtenção de prova.",
+      "data": "2026-07-17T13:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640325"
     }
   ],
   "discursos": [],

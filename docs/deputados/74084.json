@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74084.jpg",
-  "score": 58.94,
-  "rank": 4,
+  "score": 54.52,
+  "rank": 7,
   "proposicoes": [
     {
       "id": 2637104,
@@ -258,6 +258,15 @@
       "ementa": "Institui a Política Nacional de Inclusão Digital da Juventude – PNIDJ, destinada a ampliar o acesso de jovens às tecnologias digitais, promover sua qualificação profissional, incentivar a inovação, o empreendedorismo e a inclusão digital, e dá outras providências.",
       "data": "2026-07-13T19:25",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639315"
+    },
+    {
+      "id": 2640420,
+      "tipo": "PL",
+      "numero": 3781,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para reforçar as regras relativas à publicidade e à comunicação comercial das apostas de quota fixa.",
+      "data": "2026-07-17T15:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640420"
     }
   ],
   "discursos": [],

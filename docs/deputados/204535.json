@@ -4,27 +4,9 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg",
-  "score": 44.3,
-  "rank": 13,
+  "score": 45.16,
+  "rank": 10,
   "proposicoes": [
-    {
-      "id": 2632960,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Institui o Dia Nacional do Professor e da Professora de Sociologia.",
-      "data": "2026-06-17T09:35",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632960"
-    },
-    {
-      "id": 2633648,
-      "tipo": "PL",
-      "numero": 3191,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.192, de 4 de agosto de 2021, e a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), para aperfeiçoar a prevenção e a repressão à violência política contra a mulher praticada por meios digitais.",
-      "data": "2026-06-17T18:19",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2633648"
-    },
     {
       "id": 2636247,
       "tipo": "SBT",
@@ -60,6 +42,15 @@
       "ementa": "Altera as Leis nº 9.294, de 15 de julho de 1996 e 14.790, de 29 de dezembro de 2023, para vedar a propaganda comercial de apostas de quota fixa.",
       "data": "2026-07-13T14:05",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639213"
+    },
+    {
+      "id": 2640428,
+      "tipo": "PL",
+      "numero": 3782,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.597, de 14 de junho de 2023 (Lei Geral do Esporte), para vedar a publicidade comercial e o patrocínio de empresas e plataformas digitais destinadas à divulgação de conteúdo pornográfico ou à intermediação de serviços sexuais em eventos esportivos e nos uniformes de clubes e entidades esportivas.",
+      "data": "2026-07-17T16:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640428"
     }
   ],
   "discursos": [

@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
-  "score": 22.51,
-  "rank": 383,
+  "score": 34.27,
+  "rank": 50,
   "proposicoes": [
-    {
-      "id": 2632933,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre a análise e remediação de solos e alimentos em áreas afetadas por enchentes causadas por eventos climáticos intensos e dá outras providências.",
-      "data": "2026-06-17T09:10",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2632933"
-    },
     {
       "id": 2634065,
       "tipo": "SBT",
@@ -33,6 +24,141 @@
       "ementa": "Dispõe sobre o reconhecimento do relevante interesse coletivo e a importância social das atividades desempenhadas pelo Conselho Nacional da Segurança Privada (CONASEP), seus Conselhos Comunitários de Segurança Privada (CONSEPRIS) e seus filiados, incluindo atividades de Bombeiro Civil, e dá outras providências.",
       "data": "2026-07-06T08:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637103"
+    },
+    {
+      "id": 2640461,
+      "tipo": "PL",
+      "numero": 3788,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para dispor sobre as diretrizes de assistência farmacêutica clínica aos pacientes diagnosticados com fibromialgia no âmbito do Sistema Único de Saúde (SUS).",
+      "data": "2026-07-17T18:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640461"
+    },
+    {
+      "id": 2640462,
+      "tipo": "PL",
+      "numero": 3789,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para assegurar ao consumidor o direito de verificação presencial do peso in natura de carnes, peixes, crustáceos e demais cortes cárneos precificados por peso pré-cocção em estabelecimentos de alimentação.",
+      "data": "2026-07-17T18:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640462"
+    },
+    {
+      "id": 2640463,
+      "tipo": "PL",
+      "numero": 3790,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 5.956, de 3 de dezembro de 1973, que dispõe sobre a regulamentação técnica da etiquetagem de produtos têxteis, para estabelecer parâmetros de acessibilidade sensorial e autorizar formas alternativas de indicação de informações obrigatórias em peças de vestuário.",
+      "data": "2026-07-17T18:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640463"
+    },
+    {
+      "id": 2640464,
+      "tipo": "PL",
+      "numero": 3791,
+      "ano": 2026,
+      "ementa": "Altera a Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para disciplinar a ocorrência de afastamento por motivo de saúde imediatamente anterior ao início das férias.",
+      "data": "2026-07-17T18:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640464"
+    },
+    {
+      "id": 2640465,
+      "tipo": "PL",
+      "numero": 3792,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, para estabelecer diretrizes de acessibilidade sensorial e rotulagem informativa na fabricação de vestuário e produtos têxteis destinados a pessoas com Transtorno do Espectro Autista (TEA).",
+      "data": "2026-07-17T18:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640465"
+    },
+    {
+      "id": 2640466,
+      "tipo": "PL",
+      "numero": 3793,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para instituir a Rede de Atenção Integral às Pessoas com Fibromialgia e estabelecer garantias de proteção social.",
+      "data": "2026-07-17T18:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640466"
+    },
+    {
+      "id": 2640467,
+      "tipo": "PL",
+      "numero": 3794,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social - LOAS), para estabelecer procedimentos intersetoriais de busca ativa prévios à suspensão ou ao bloqueio do Benefício de Prestação Continuada (BPC) na hipótese de beneficiários acometidos por transtornos mentais graves e persistentes.",
+      "data": "2026-07-17T18:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640467"
+    },
+    {
+      "id": 2640468,
+      "tipo": "PL",
+      "numero": 3795,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção e Monitoramento da Frota Pública, estabelecendo mecanismos de rastreamento, controle e recuperação de veículos pertencentes à Administração Pública.",
+      "data": "2026-07-17T18:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640468"
+    },
+    {
+      "id": 2640469,
+      "tipo": "PL",
+      "numero": 3796,
+      "ano": 2026,
+      "ementa": "Institui o Cadastro Nacional de Veículos Públicos Furtados ou Roubados e estabelece diretrizes para a integração de dados entre órgãos de segurança pública e entidades de trânsito.",
+      "data": "2026-07-17T18:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640469"
+    },
+    {
+      "id": 2640470,
+      "tipo": "PL",
+      "numero": 3797,
+      "ano": 2026,
+      "ementa": "Institui a Política Federal de Proteção e Monitoramento da Frota Pública Federal e estabelece diretrizes de cooperação federativa para rastreamento, controle, segurança, governança de dados e recuperação de veículos oficiais.",
+      "data": "2026-07-17T18:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640470"
+    },
+    {
+      "id": 2640471,
+      "tipo": "PL",
+      "numero": 3798,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.608, de 10 de abril de 2012, que institui a Política Nacional de Proteção e Defesa Civil (PNPDEC), para estabelecer a prioridade absoluta no atendimento e na assistência a crianças, adolescentes e gestantes em situações de desastres climáticos e ambientais.",
+      "data": "2026-07-17T18:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640471"
+    },
+    {
+      "id": 2640472,
+      "tipo": "PL",
+      "numero": 3799,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021, para estabelecer critério de pontuação e preferência em licitações públicas para empresas certificadas com selo de prevenção ao assédio moral e sexual no ambiente de trabalho.",
+      "data": "2026-07-17T18:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640472"
+    },
+    {
+      "id": 2640473,
+      "tipo": "PL",
+      "numero": 3800,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para assegurar o direito à proteção especial contra os impactos da crise climática, da degradação ambiental e de desastres naturais, inserindo a perspectiva de sustentabilidade ecológica no princípio da prioridade absoluta.",
+      "data": "2026-07-17T18:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640473"
+    },
+    {
+      "id": 2640474,
+      "tipo": "PL",
+      "numero": 3801,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para instituir a medida cautelar de afastamento imediato do agressor do domicílio ou do local de convivência com a pessoa idosa em situações de iminente risco à sua integridade física, psicológica ou patrimonial.",
+      "data": "2026-07-17T18:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640474"
+    },
+    {
+      "id": 2640475,
+      "tipo": "PL",
+      "numero": 3802,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a fim de estabelecer causa de aumento de pena para os crimes de lesão corporal, maus-tratos e de exposição a perigo quando praticados contra pessoa idosa no âmbito doméstico, familiar ou por quem detenha a obrigação de cuidado, guarda ou vigilância.",
+      "data": "2026-07-17T18:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640475"
     }
   ],
   "discursos": [],

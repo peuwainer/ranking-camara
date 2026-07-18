@@ -4,8 +4,8 @@
   "partido": "NOVO",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/156190.jpg",
-  "score": 38.74,
-  "rank": 35,
+  "score": 38.77,
+  "rank": 22,
   "proposicoes": [
     {
       "id": 2637029,
@@ -24,6 +24,24 @@
       "ementa": "Estabelece mecanismos para assegurar o atendimento tempestivo no âmbito do Sistema Único de Saúde (SUS), disciplina o aproveitamento de exames realizados na rede privada e institui medidas para os casos de descumprimento dos prazos de referência.",
       "data": "2026-07-16T09:36",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640024"
+    },
+    {
+      "id": 2640434,
+      "tipo": "PL",
+      "numero": 3784,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.036, de 11 de maio de 1990, para estabelecer remuneração mínima das contas vinculadas do Fundo de Garantia do Tempo de Serviço (FGTS) correspondente à variação do Índice Nacional de Preços ao Consumidor Amplo (IPCA) acrescida dos juros legais.",
+      "data": "2026-07-17T16:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640434"
+    },
+    {
+      "id": 2640435,
+      "tipo": "PL",
+      "numero": 3785,
+      "ano": 2026,
+      "ementa": "Institui o Programa Conecta Trabalho (CONECTA), com a finalidade de ampliar o acesso à educação profissional e tecnológica e ao mercado de trabalho.",
+      "data": "2026-07-17T16:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640435"
     }
   ],
   "discursos": [
