@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220666.jpg",
-  "score": 26.75,
-  "rank": 92,
-  "proposicoes": [],
+  "score": 26.81,
+  "rank": 91,
+  "proposicoes": [
+    {
+      "id": 2641424,
+      "tipo": "PL",
+      "numero": 4729,
+      "ano": 2026,
+      "ementa": "Altera o art. 233-A da Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), para reduzir o prazo de habilitação ao voto em trânsito dos integrantes das Forças Armadas, dos agentes de segurança pública de que trata o art. 144 da Constituição Federal e das guardas municipais em serviço no dia da eleição, para impor à Justiça Eleitoral o dever de organizar a votação desses eleitores, para assegurar a dispensa remunerada de até duas horas de serviço para o exercício do voto e para instituir sanção pelo descumprimento.",
+      "data": "2026-07-20T13:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641424"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-07-08T18:56",

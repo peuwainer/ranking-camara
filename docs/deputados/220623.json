@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
-  "score": 27.77,
-  "rank": 73,
+  "score": 28.03,
+  "rank": 72,
   "proposicoes": [
     {
       "id": 2635884,
@@ -42,6 +42,42 @@
       "ementa": "Dispõe sobre requisitos mínimos para a realização de procedimentos cirúrgicos de esterilização em animais e dá outras providências.",
       "data": "2026-07-07T15:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637650"
+    },
+    {
+      "id": 2641425,
+      "tipo": "PL",
+      "numero": 4730,
+      "ano": 2026,
+      "ementa": "Institui o Programa Envelhecer nos Territórios e o Programa Viva Mais Cidadania, voltados à promoção e proteção dos direitos humanos das pessoas idosas, e dá outras providências.",
+      "data": "2026-07-20T14:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641425"
+    },
+    {
+      "id": 2641449,
+      "tipo": "PL",
+      "numero": 4745,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a inserção de mensagens educativas de conscientização sobre proteção animal em embalagens de alimentos destinados a animais.",
+      "data": "2026-07-21T13:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641449"
+    },
+    {
+      "id": 2641453,
+      "tipo": "PL",
+      "numero": 4747,
+      "ano": 2026,
+      "ementa": "Inscreve o nome de Henriqueta Lisboa no Livro dos Heróis e Heroínas da Pátria.",
+      "data": "2026-07-21T13:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641453"
+    },
+    {
+      "id": 2641458,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Dia Nacional do Cuidador Escolar, a ser celebrado anualmente em 3 de dezembro.",
+      "data": "2026-07-21T15:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641458"
     }
   ],
   "discursos": [],

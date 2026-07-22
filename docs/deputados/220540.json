@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 26.4,
-  "rank": 101,
+  "score": 47.66,
+  "rank": 5,
   "proposicoes": [
     {
       "id": 2634854,
@@ -951,6 +951,2976 @@
       "ementa": "Institui a Política Nacional de Resiliência Operacional dos Sistemas de Pagamentos Instantâneos, com diretrizes voltadas à continuidade, segurança e confiabilidade das infraestruturas nacionais de pagamentos digitais, e dá outras providências.",
       "data": "2026-07-17T19:57",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641074"
+    },
+    {
+      "id": 2641078,
+      "tipo": "PL",
+      "numero": 4391,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Governança Algorítmica no Sistema Financeiro Nacional e estabelece diretrizes para a utilização responsável de sistemas algorítmicos em atividades financeiras de alto impacto.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641078"
+    },
+    {
+      "id": 2641079,
+      "tipo": "PL",
+      "numero": 4392,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção do Consumidor em Decisões Financeiras Automatizadas e estabelece diretrizes para a utilização responsável de sistemas automatizados na prestação de serviços financeiros.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641079"
+    },
+    {
+      "id": 2641080,
+      "tipo": "PL",
+      "numero": 4393,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Transparência das Decisões Financeiras Automatizadas e estabelece diretrizes para a transparência na utilização de sistemas automatizados no âmbito do Sistema Financeiro Nacional.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641080"
+    },
+    {
+      "id": 2641081,
+      "tipo": "PL",
+      "numero": 4394,
+      "ano": 2026,
+      "ementa": "Institui o Estatuto Nacional dos Dados Estratégicos e da Soberania Informacional Brasileira, estabelece princípios, diretrizes e normas gerais para a identificação, classificação, governança, proteção e utilização dos dados estratégicos de interesse nacional, institui a Política Nacional dos Dados Estratégicos Brasileiros e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641081"
+    },
+    {
+      "id": 2641082,
+      "tipo": "PL",
+      "numero": 4395,
+      "ano": 2026,
+      "ementa": "Institui o Marco Legal da Governança dos Riscos Digitais Extremos para Proteção da Vida, estabelece a Política Nacional de Governança dos Riscos Digitais Extremos, dispõe sobre o regime jurídico aplicável aos Prestadores de Serviços Digitais Estratégicos, cria instrumentos de prevenção, gestão, cooperação institucional e resposta a riscos digitais extremos capazes de comprometer a vida e a integridade física das pessoas, e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641082"
+    },
+    {
+      "id": 2641083,
+      "tipo": "PL",
+      "numero": 4396,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.692, de 10 de junho de 2008, para instituir a Bolsa Permanência Projovem, atualizar o auxílio financeiro devido aos estudantes do Programa Nacional de Inclusão de Jovens – Projovem e criar adicional de equidade territorial para a Região Norte, com atenção prioritária ao fator amazônico, às áreas rurais, indígenas, ribeirinhas, fronteiriças e de difícil acesso.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641083"
+    },
+    {
+      "id": 2641084,
+      "tipo": "PL",
+      "numero": 4397,
+      "ano": 2026,
+      "ementa": "Institui a Lei da Transparência no Ranqueamento Comercial de Plataformas e estabelece regras de transparência para resultados, recomendações, classificações e destaques influenciados por relações comerciais em ambientes digitais.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641084"
+    },
+    {
+      "id": 2641085,
+      "tipo": "PL",
+      "numero": 4398,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Capacidade Computacional Estratégica, estabelece diretrizes para o fortalecimento da soberania computacional brasileira e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641085"
+    },
+    {
+      "id": 2641086,
+      "tipo": "PL",
+      "numero": 4399,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção, Desenvolvimento e Resiliência das Infraestruturas Digitais Estratégicas Nacionais e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641086"
+    },
+    {
+      "id": 2641087,
+      "tipo": "PL",
+      "numero": 4400,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Governança de Dados para Inteligência Artificial e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641087"
+    },
+    {
+      "id": 2641088,
+      "tipo": "PL",
+      "numero": 4401,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Data Centers Estratégicos e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641088"
+    },
+    {
+      "id": 2641089,
+      "tipo": "PL",
+      "numero": 4402,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Soberania Digital da Amazônia e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641089"
+    },
+    {
+      "id": 2641090,
+      "tipo": "PL",
+      "numero": 4403,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Semicondutores Estratégicos e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641090"
+    },
+    {
+      "id": 2641091,
+      "tipo": "PL",
+      "numero": 4404,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Cidadania Territorial Digital para Áreas Rurais, Remotas e de Difícil Acesso e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641091"
+    },
+    {
+      "id": 2641092,
+      "tipo": "PL",
+      "numero": 4405,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Soberania Informacional Ambiental da Amazônia e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641092"
+    },
+    {
+      "id": 2641093,
+      "tipo": "PL",
+      "numero": 4406,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Governança e Soberania dos Dados Estratégicos do Agronegócio Brasileiro e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641093"
+    },
+    {
+      "id": 2641094,
+      "tipo": "PL",
+      "numero": 4407,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Acesso Gratuito à Água Potável em Espaços Públicos de Grande Fluxo e estabelece diretrizes para a disponibilização de pontos públicos de hidratação à população.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641094"
+    },
+    {
+      "id": 2641095,
+      "tipo": "PL",
+      "numero": 4408,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Segurança da Circulação em Ambientes Coletivos de Grande Fluxo e estabelece diretrizes para prevenção de acidentes associados à distração digital e a outros fatores de risco comportamental",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641095"
+    },
+    {
+      "id": 2641096,
+      "tipo": "PL",
+      "numero": 4409,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Infraestrutura Urbana de Sombreamento e cria o Programa Nacional de Coberturas Urbanas de Sombra.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641096"
+    },
+    {
+      "id": 2641097,
+      "tipo": "PL",
+      "numero": 4410,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Conforto Térmico e Ventilação Adequada em Escolas Públicas e Unidades Básicas de Saúde localizadas em regiões de elevada exposição ao calor e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641097"
+    },
+    {
+      "id": 2641098,
+      "tipo": "PL",
+      "numero": 4411,
+      "ano": 2026,
+      "ementa": "Institui a Lei da Neutralidade Comercial da Interface Digital e estabelece regras de transparência para conteúdos patrocinados, impulsionamentos pagos e mecanismos de promoção comercial em ambientes digitais.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641098"
+    },
+    {
+      "id": 2641099,
+      "tipo": "PL",
+      "numero": 4412,
+      "ano": 2026,
+      "ementa": "Institui a Lei da Informação Clara sobre Conteúdo Patrocinado e Publicidade Nativa e estabelece regras de transparência para conteúdos comerciais em ambientes digitais.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641099"
+    },
+    {
+      "id": 2641100,
+      "tipo": "PL",
+      "numero": 4413,
+      "ano": 2026,
+      "ementa": "Institui a Lei da Proteção ao Consumidor contra Publicidade Sonora Automática e estabelece regras de transparência e controle do usuário sobre reproduções publicitárias com áudio em ambientes digitais.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641100"
+    },
+    {
+      "id": 2641101,
+      "tipo": "PL",
+      "numero": 4414,
+      "ano": 2026,
+      "ementa": "Institui a Lei de Transparência nas Assinaturas Híbridas Digitais e estabelece direitos dos consumidores em contratos de serviços digitais que combinem pagamento periódico e exposição à publicidade.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641101"
+    },
+    {
+      "id": 2641102,
+      "tipo": "PL",
+      "numero": 4415,
+      "ano": 2026,
+      "ementa": "Institui a Lei da Moderação Comercial Ética em Plataformas Digitais e estabelece regras mínimas de transparência sobre priorização comercial de conteúdos, impulsionamentos pagos e favorecimento algorítmico vinculado à publicidade.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641102"
+    },
+    {
+      "id": 2641103,
+      "tipo": "PL",
+      "numero": 4416,
+      "ano": 2026,
+      "ementa": "Institui a Lei de Proteção da Saúde Mental no Ambiente Publicitário Digital e estabelece diretrizes para promoção de práticas publicitárias digitalmente responsáveis.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641103"
+    },
+    {
+      "id": 2641104,
+      "tipo": "PL",
+      "numero": 4417,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Infraestrutura Essencial para Feiras Livres e Mercados Populares de Abastecimento e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641104"
+    },
+    {
+      "id": 2641105,
+      "tipo": "PL",
+      "numero": 4418,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Mobilidade Comunitária Vertical e cria o Programa Nacional de Recuperação de Escadarias Urbanas Comunitárias, e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641105"
+    },
+    {
+      "id": 2641106,
+      "tipo": "PL",
+      "numero": 4419,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Iluminação de Travessias Urbanas Críticas e cria o Programa Nacional de Iluminação de Rotas Comunitárias Essenciais, e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641106"
+    },
+    {
+      "id": 2641107,
+      "tipo": "PL",
+      "numero": 4420,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para instituir a inabilitação para guarda, tutela, posse ou adoção de animais nos casos de condenação por maus tratos.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641107"
+    },
+    {
+      "id": 2641108,
+      "tipo": "PL",
+      "numero": 4421,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para instituir o Cadastro Nacional de Inabilitação para Guarda e Adoção de Animais e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641108"
+    },
+    {
+      "id": 2641109,
+      "tipo": "PL",
+      "numero": 4422,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para instituir medida cautelar de suspensão temporária da guarda, posse, tutela, criação, adoção ou manutenção de animais nos casos de indícios de maus tratos.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641109"
+    },
+    {
+      "id": 2641110,
+      "tipo": "PL",
+      "numero": 4423,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Infraestrutura Sanitária Pública de Pequena Escala e cria o Programa Nacional de Banheiros Públicos Funcionais em Pequenos Municípios.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641110"
+    },
+    {
+      "id": 2641111,
+      "tipo": "PL",
+      "numero": 4424,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Conforto Térmico Habitacional Popular e cria o Programa Nacional de Telhados Refletivos Populares.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641111"
+    },
+    {
+      "id": 2641112,
+      "tipo": "PL",
+      "numero": 4425,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção Térmica dos Trabalhadores Expostos a Condições Climáticas Extremas e estabelece diretrizes para prevenção dos riscos decorrentes da exposição prolongada ao calor excessivo em atividades laborais realizadas em ambientes externos.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641112"
+    },
+    {
+      "id": 2641113,
+      "tipo": "PL",
+      "numero": 4426,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Resfriamento Urbano Natural e cria o Programa Nacional de Arborização de Emergência em Bairros Críticos.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641113"
+    },
+    {
+      "id": 2641114,
+      "tipo": "PL",
+      "numero": 4427,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Desenvolvimento Econômico de Proximidade e Combate aos Desertos Comerciais Urbanos e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641114"
+    },
+    {
+      "id": 2641115,
+      "tipo": "PL",
+      "numero": 4428,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Infraestrutura Produtiva de Entrada para o Empreendedorismo Popular e cria o Programa Nacional de Microestruturas Comerciais Populares – Microbox Popular.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641115"
+    },
+    {
+      "id": 2641116,
+      "tipo": "PL",
+      "numero": 4429,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Infraestrutura Produtiva Compartilhada e cria o Programa Nacional de Oficinas Comunitárias Compartilhadas, e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641116"
+    },
+    {
+      "id": 2641117,
+      "tipo": "PL",
+      "numero": 4430,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Infraestrutura Verde para Saneamento Descentralizado e Soluções Baseadas na Natureza e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641117"
+    },
+    {
+      "id": 2641118,
+      "tipo": "PL",
+      "numero": 4431,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Microdrenagem Urbana Comunitária e cria o Programa Nacional de Drenagem de Quintais, Vielas e Áreas Urbanas de Pequena Escala, e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641118"
+    },
+    {
+      "id": 2641119,
+      "tipo": "PL",
+      "numero": 4432,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Vigilância Comunitária da Qualidade da Água para Consumo Humano e cria o Programa Nacional de Monitoramento Simplificado de Águas em Pequenas Comunidades, e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641119"
+    },
+    {
+      "id": 2641120,
+      "tipo": "PL",
+      "numero": 4433,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Eficiência Hídrica na Administração Pública e cria o Programa Nacional de Reuso de Água em Equipamentos Públicos.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641120"
+    },
+    {
+      "id": 2641121,
+      "tipo": "PL",
+      "numero": 4434,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Saneamento Comunitário Compartilhado e cria o Programa Nacional de Sistemas Inteligentes Coletivos de Tratamento Local de Esgoto, e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641121"
+    },
+    {
+      "id": 2641122,
+      "tipo": "PL",
+      "numero": 4435,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Segurança Hídrica Comunitária e cria o Programa Nacional de Filtros Comunitários de Água para Localidades Vulneráveis, e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641122"
+    },
+    {
+      "id": 2641123,
+      "tipo": "PL",
+      "numero": 4436,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Infraestrutura Urbana de Resposta Rápida e cria o Programa Nacional de Pequenas Obras Urbanas de Alto Impacto Social, e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641123"
+    },
+    {
+      "id": 2641124,
+      "tipo": "PL",
+      "numero": 4437,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Áreas Públicas de Abrigo Climático e Resposta Comunitária e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641124"
+    },
+    {
+      "id": 2641125,
+      "tipo": "PL",
+      "numero": 4438,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Rotas Comunitárias de Emergência e Resiliência Territorial e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641125"
+    },
+    {
+      "id": 2641126,
+      "tipo": "PL",
+      "numero": 4439,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Segurança Operacional da Navegação Comunitária e Mobilidade Fluvial Essencial e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641126"
+    },
+    {
+      "id": 2641127,
+      "tipo": "PL",
+      "numero": 4440,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Reservas Logísticas Estratégicas para Continuidade dos Serviços Essenciais em Comunidades Isoladas e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641127"
+    },
+    {
+      "id": 2641128,
+      "tipo": "PL",
+      "numero": 4441,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Mobilidade Fluvial Comunitária de Pequena Escala e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641128"
+    },
+    {
+      "id": 2641129,
+      "tipo": "PL",
+      "numero": 4442,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Continuidade Operacional da Mobilidade Fluvial Comunitária e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641129"
+    },
+    {
+      "id": 2641130,
+      "tipo": "PL",
+      "numero": 4443,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Infraestrutura Essencial de Portos Comunitários e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641130"
+    },
+    {
+      "id": 2641131,
+      "tipo": "PL",
+      "numero": 4444,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Pontos Fluviais Comunitários de Integração Territorial e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641131"
+    },
+    {
+      "id": 2641132,
+      "tipo": "PL",
+      "numero": 4445,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Centros Comunitários de Beneficiamento e Agregação de Valor Local e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641132"
+    },
+    {
+      "id": 2641133,
+      "tipo": "PL",
+      "numero": 4446,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Fortalecimento dos Circuitos Econômicos Locais e da Economia Popular e dá outras providências.",
+      "data": "2026-07-17T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641133"
+    },
+    {
+      "id": 2641134,
+      "tipo": "PL",
+      "numero": 4447,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Convivência Residencial Responsável com Animais de Estimação e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641134"
+    },
+    {
+      "id": 2641135,
+      "tipo": "PL",
+      "numero": 4448,
+      "ano": 2026,
+      "ementa": "Institui a Lei Nacional de Convivência Urbana Responsável com Animais de Estimação e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641135"
+    },
+    {
+      "id": 2641136,
+      "tipo": "PL",
+      "numero": 4449,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Mobilidade Assistencial Contínua e Transporte Sanitário Programado e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641136"
+    },
+    {
+      "id": 2641137,
+      "tipo": "PL",
+      "numero": 4450,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Ambiência Assistencial e Dignidade da Espera em Serviços de Saúde e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641137"
+    },
+    {
+      "id": 2641138,
+      "tipo": "PL",
+      "numero": 4451,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Higiene Têxtil e Lavanderias Comunitárias de Saúde e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641138"
+    },
+    {
+      "id": 2641139,
+      "tipo": "PL",
+      "numero": 4452,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Assistência Farmacêutica Itinerante e Distribuição Territorial de Medicamentos e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641139"
+    },
+    {
+      "id": 2641140,
+      "tipo": "PL",
+      "numero": 4453,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Capacidade Operacional Essencial da Atenção Primária à Saúde e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641140"
+    },
+    {
+      "id": 2641141,
+      "tipo": "PL",
+      "numero": 4454,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Resiliência Municipal e Continuidade dos Serviços Essenciais e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641141"
+    },
+    {
+      "id": 2641142,
+      "tipo": "PL",
+      "numero": 4455,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Mobilidade Comunitária Sazonal em Áreas Sujeitas a Cheias e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641142"
+    },
+    {
+      "id": 2641143,
+      "tipo": "PL",
+      "numero": 4456,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Resiliência Comunicacional Comunitária e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641143"
+    },
+    {
+      "id": 2641144,
+      "tipo": "PL",
+      "numero": 4457,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Distribuição Territorial de Medicamentos Sensíveis, cria o Programa Nacional Medicamento Presente e estabelece diretrizes para prevenção de desabastecimentos, fortalecimento da logística farmacêutica e ampliação da segurança do abastecimento de medicamentos estratégicos no território nacional.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641144"
+    },
+    {
+      "id": 2641145,
+      "tipo": "PL",
+      "numero": 4458,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Transparência dos Custos Logísticos em Regiões de Difícil Acesso, cria o Programa Custo Amazônico Transparente e estabelece mecanismos de monitoramento, divulgação e informação ao consumidor sobre fatores logísticos que impactam a formação de preços em regiões remotas do território nacional.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641145"
+    },
+    {
+      "id": 2641146,
+      "tipo": "PL",
+      "numero": 4459,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Equalização Logística de Produtos Essenciais, cria o Programa Brasil Mais Integrado e estabelece diretrizes para redução das desigualdades territoriais de abastecimento e fortalecimento da logística de distribuição de bens essenciais em regiões de difícil acesso.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641146"
+    },
+    {
+      "id": 2641147,
+      "tipo": "PL",
+      "numero": 4460,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Apoio Técnico Permanente aos Pequenos Municípios, cria o Programa Engenharia para o Desenvolvimento Local e estabelece diretrizes para fortalecimento da capacidade técnica municipal em infraestrutura, manutenção e projetos de interesse público.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641147"
+    },
+    {
+      "id": 2641148,
+      "tipo": "PL",
+      "numero": 4461,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Infraestrutura Compartilhada de Manutenção Pública, cria o Programa Nacional de Oficinas Públicas Intermunicipais e estabelece diretrizes para fortalecimento da manutenção de veículos, máquinas e equipamentos utilizados na prestação de serviços públicos.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641148"
+    },
+    {
+      "id": 2641149,
+      "tipo": "PL",
+      "numero": 4462,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Capacidade Operacional Compartilhada dos Municípios, cria o Programa Nacional de Pequenos Pátios Públicos de Máquinas Compartilhadas e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641149"
+    },
+    {
+      "id": 2641150,
+      "tipo": "PL",
+      "numero": 4463,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Valorização dos Mercados Públicos Tradicionais, cria o Programa Nacional de Recuperação de Mercados Municipais Antigos e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641150"
+    },
+    {
+      "id": 2641151,
+      "tipo": "PL",
+      "numero": 4464,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Gestão do Ciclo de Vida dos Ativos Públicos e de Manutenção Preventiva do Patrimônio Público e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641151"
+    },
+    {
+      "id": 2641152,
+      "tipo": "PL",
+      "numero": 4465,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Infraestrutura Funerária Sustentável e Resiliência dos Serviços Funerários Municipais e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641152"
+    },
+    {
+      "id": 2641153,
+      "tipo": "PL",
+      "numero": 4466,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Permanência Terapêutica para Pacientes em Tratamento Fora do Domicílio e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641153"
+    },
+    {
+      "id": 2641154,
+      "tipo": "PL",
+      "numero": 4467,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Manutenção Contínua de Vicinais Estratégicas – VICINAL VIVA, estabelece diretrizes para conservação preventiva de estradas vicinais essenciais e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641154"
+    },
+    {
+      "id": 2641155,
+      "tipo": "PL",
+      "numero": 4468,
+      "ano": 2026,
+      "ementa": "Institui o Marco Legal da Soberania Financeira Digital Brasileira e da Proteção das Infraestruturas Estratégicas Nacionais de Pagamentos, estabelece a Política Nacional de Soberania Financeira Digital, dispõe sobre a proteção dos sistemas nacionais de pagamentos digitais, a defesa dos usuários, a prevenção de fraudes financeiras digitais, a inclusão financeira territorial, a proteção de dados financeiros estratégicos e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641155"
+    },
+    {
+      "id": 2641156,
+      "tipo": "PL",
+      "numero": 4469,
+      "ano": 2026,
+      "ementa": "Institui o Estatuto Nacional de Proteção Financeira da Pessoa Idosa e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641156"
+    },
+    {
+      "id": 2641157,
+      "tipo": "PL",
+      "numero": 4470,
+      "ano": 2026,
+      "ementa": "Institui o Marco Legal da Segurança Financeira Digital, estabelece a Política Nacional de Prevenção e Enfrentamento às Fraudes Financeiras Digitais, dispõe sobre os direitos dos consumidores financeiros digitais, os deveres preventivos das instituições participantes do Sistema Financeiro Nacional, a proteção contra fraudes tecnológicas e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641157"
+    },
+    {
+      "id": 2641158,
+      "tipo": "PL",
+      "numero": 4471,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção Animal em Grandes Eventos – PNPA-GE, estabelece diretrizes para a prevenção e mitigação de impactos sobre animais domésticos, comunitários, silvestres e de produção durante eventos de grande porte, e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641158"
+    },
+    {
+      "id": 2641159,
+      "tipo": "PL",
+      "numero": 4472,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional Cão Seguro em Grandes Eventos Esportivos e Datas Comemorativas, destinado à prevenção de danos causados por fogos de artifício e outros estímulos sonoros intensos a cães e demais animais domésticos.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641159"
+    },
+    {
+      "id": 2641160,
+      "tipo": "PL",
+      "numero": 4473,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Garantia de Recuperação Patrimonial das Vítimas de Fraudes Digitais, estabelece direitos das vítimas de fraudes financeiras praticadas por meios digitais, cria mecanismos de recuperação patrimonial, mediação financeira digital, monitoramento nacional e proteção prioritária aos grupos vulneráveis, e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641160"
+    },
+    {
+      "id": 2641161,
+      "tipo": "PL",
+      "numero": 4474,
+      "ano": 2026,
+      "ementa": "Institui o Marco Nacional de Prevenção e Combate às Fraudes Digitais, estabelece a Política Nacional de Prevenção e Combate às Fraudes Digitais, cria mecanismos de prevenção, proteção, resposta rápida, recuperação patrimonial das vítimas, cooperação institucional e educação digital, e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641161"
+    },
+    {
+      "id": 2641162,
+      "tipo": "PL",
+      "numero": 4475,
+      "ano": 2026,
+      "ementa": "Institui o Estatuto da Segurança Financeira Digital, estabelece direitos dos usuários de serviços financeiros digitais, dispõe sobre prevenção e resposta a fraudes, proteção de grupos vulneráveis, educação financeira digital, transparência e cooperação institucional, e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641162"
+    },
+    {
+      "id": 2641163,
+      "tipo": "PL",
+      "numero": 4476,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção dos Ativos Informacionais Estratégicos do Brasil, estabelece princípios, diretrizes e instrumentos para a proteção, governança e utilização estratégica de dados econômicos, financeiros e tecnológicos de interesse nacional, promove o desenvolvimento da inteligência artificial nacional e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641163"
+    },
+    {
+      "id": 2641164,
+      "tipo": "PL",
+      "numero": 4477,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Infraestruturas Digitais Estratégicas, estabelece diretrizes para proteção, resiliência, continuidade operacional, modernização, desenvolvimento e governança das infraestruturas digitais essenciais ao funcionamento do Estado, da economia e da sociedade brasileira, cria o Sistema Nacional de Proteção das Infraestruturas Digitais Estratégicas – SINPIDE e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641164"
+    },
+    {
+      "id": 2641165,
+      "tipo": "PL",
+      "numero": 4478,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Participação Econômica do Consumidor na Economia dos Dados Financeiros, estabelece direitos relacionados ao valor econômico gerado pelo compartilhamento voluntário de dados financeiros, cria mecanismos de transparência, incentivo econômico, governança e proteção patrimonial no âmbito do Open Finance e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641165"
+    },
+    {
+      "id": 2641166,
+      "tipo": "PL",
+      "numero": 4479,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção da Autonomia Tecnológica Brasileira, estabelece diretrizes para a soberania tecnológica nacional, a proteção das infraestruturas digitais estratégicas, a resiliência computacional, a inteligência artificial estratégica, a soberania dos dados críticos, a computação em nuvem de interesse nacional, e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641166"
+    },
+    {
+      "id": 2641167,
+      "tipo": "PL",
+      "numero": 4480,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional Pet Seguro em Grandes Eventos e Datas de Elevada Sensibilidade Sonora, estabelece medidas de prevenção de fugas, desaparecimentos, acidentes e situações de sofrimento de animais domésticos, cria o Sistema Nacional de Alerta Pet, a Rede Nacional de Apoio Emergencial Animal e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641167"
+    },
+    {
+      "id": 2641168,
+      "tipo": "PL",
+      "numero": 4481,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção Animal em Eventos de Grande Porte, estabelece diretrizes para prevenção e mitigação de impactos sobre animais domésticos, comunitários e fauna urbana, cria o Plano de Proteção Animal para Grandes Eventos e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641168"
+    },
+    {
+      "id": 2641169,
+      "tipo": "PL",
+      "numero": 4482,
+      "ano": 2026,
+      "ementa": "Institui a Semana Nacional de Proteção dos Animais em Datas Festivas, estabelece ações de conscientização, prevenção de acidentes, proteção animal e promoção da guarda responsável em períodos de grande movimentação social e utilização de fogos de artifício, e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641169"
+    },
+    {
+      "id": 2641170,
+      "tipo": "PL",
+      "numero": 4483,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional Cão Seguro, destinado à proteção de animais domésticos com elevada sensibilidade a ruídos intensos, e estabelece medidas de prevenção, orientação, identificação e apoio aos tutores em situações de risco.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641170"
+    },
+    {
+      "id": 2641171,
+      "tipo": "PL",
+      "numero": 4484,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional dos Portos da Cidadania, cria o Programa Nacional Porto Digno e estabelece diretrizes para modernização, acessibilidade, segurança operacional, integração logística e fortalecimento da cidadania em pequenos portos municipais e instalações hidroviárias de interesse local.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641171"
+    },
+    {
+      "id": 2641172,
+      "tipo": "PL",
+      "numero": 4485,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Banheiros Familiares em Equipamentos Públicos e estabelece diretrizes para implantação de espaços sanitários familiares acessíveis em equipamentos públicos de atendimento coletivo.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641172"
+    },
+    {
+      "id": 2641173,
+      "tipo": "PL",
+      "numero": 4486,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Infraestrutura Familiar e Acessível nas Praias Brasileiras, cria o Programa Praia Acolhedora, estabelece diretrizes para promoção da acessibilidade, do acolhimento familiar, da inclusão e da melhoria da infraestrutura de uso público em praias marítimas, fluviais e lacustres, e dá outras providências.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641173"
+    },
+    {
+      "id": 2641174,
+      "tipo": "PL",
+      "numero": 4487,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Infraestrutura Pública de Descanso para Trabalhadores em Deslocamento, cria o Programa Nacional Estação do Trabalhador e estabelece diretrizes para promoção da saúde, segurança, bem estar e dignidade de trabalhadores que exercem suas atividades em deslocamento permanente ou itinerante.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641174"
+    },
+    {
+      "id": 2641175,
+      "tipo": "PL",
+      "numero": 4488,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Redução do Desperdício Alimentar em Áreas Remotas, cria o Programa Cadeia Fria para Todos e estabelece diretrizes para ampliação da conservação, armazenamento, transporte e distribuição de alimentos perecíveis em regiões de difícil acesso.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641175"
+    },
+    {
+      "id": 2641176,
+      "tipo": "PL",
+      "numero": 4489,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Infraestrutura Comunitária de Gelo e Conservação, destinado a ampliar o acesso a estruturas comunitárias de produção de gelo, armazenamento refrigerado e conservação de alimentos perecíveis em áreas remotas e regiões de interesse social e econômico.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641176"
+    },
+    {
+      "id": 2641177,
+      "tipo": "PL",
+      "numero": 4490,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Segurança Energética dos Pequenos Serviços Públicos, cria o Programa Energia Essencial e estabelece diretrizes para ampliação da resiliência energética de unidades públicas de atendimento essencial à população.",
+      "data": "2026-07-17T19:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641177"
+    },
+    {
+      "id": 2641179,
+      "tipo": "PL",
+      "numero": 4491,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Restituição Presumida em Casos de Golpe contra Pessoa Idosa – PROTEGE IDOSO, estabelece diretrizes para responsabilização por falha de segurança bancária, disciplina o procedimento de restituição célere de valores e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641179"
+    },
+    {
+      "id": 2641180,
+      "tipo": "PL",
+      "numero": 4492,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Incentivo à Reciclagem com Remuneração em Municípios Sem Escala Econômica – RECICLA BRASIL LOCAL, destinada ao fortalecimento da coleta seletiva, valorização do trabalho dos catadores, estruturação de cooperativas e viabilização econômica da reciclagem em pequenos municípios e localidades de baixa densidade produtiva.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641180"
+    },
+    {
+      "id": 2641181,
+      "tipo": "PL",
+      "numero": 4493,
+      "ano": 2026,
+      "ementa": "Institui medidas nacionais de proteção térmica coletiva em áreas urbanas vulneráveis e cria a Rede Nacional de Pequenas Centrais Comunitárias de Resfriamento Climático.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641181"
+    },
+    {
+      "id": 2641182,
+      "tipo": "PL",
+      "numero": 4494,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Transporte de Pacientes da Amazônia – REMOÇÃO VIDA, destinado à estruturação permanente do transporte sanitário terrestre, fluvial e aéreo em áreas remotas e de difícil acesso da Amazônia Legal.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641182"
+    },
+    {
+      "id": 2641183,
+      "tipo": "PL",
+      "numero": 4495,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Redução do Tempo de Interrupção de Serviços Públicos Essenciais – RESPOSTA ESSENCIAL, destinado à redução do tempo de interrupção de serviços de água, energia elétrica e atendimento público essencial em situações críticas, especialmente em áreas vulneráveis e regiões remotas.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641183"
+    },
+    {
+      "id": 2641184,
+      "tipo": "PL",
+      "numero": 4496,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Salas de Estabilização em Municípios Isolados – SALVAR+, destinado ao fortalecimento da resposta emergencial em localidades remotas, rurais e de difícil acesso antes da transferência hospitalar.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641184"
+    },
+    {
+      "id": 2641185,
+      "tipo": "PL",
+      "numero": 4497,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Soluções Simplificadas e Descentralizadas de Esgotamento Sanitário – SANEAR LOCAL, destinada à implantação de tecnologias simplificadas de saneamento em áreas sem cobertura de rede convencional de esgoto.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641185"
+    },
+    {
+      "id": 2641186,
+      "tipo": "PL",
+      "numero": 4498,
+      "ano": 2026,
+      "ementa": "Institui o Selo de Origem do Norte – SONORTE, destinado à identificação, valorização, rastreabilidade e promoção comercial de produtos de base local oriundos da Região Norte do Brasil, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641186"
+    },
+    {
+      "id": 2641187,
+      "tipo": "PL",
+      "numero": 4499,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Energia Solar Comunitária em Territórios Indígenas e Comunidades Ribeirinhas – SOL DA FLORESTA, e estabelece diretrizes para ampliação do acesso à energia elétrica sustentável em áreas isoladas e de difícil acesso.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641187"
+    },
+    {
+      "id": 2641188,
+      "tipo": "PL",
+      "numero": 4500,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Pequenas Pontes Urbanas e Passarelas – TRAVESSIA SEGURA, destinado à implantação, recuperação e adequação de travessias urbanas e comunitárias de pequeno porte em áreas de vulnerabilidade territorial e social.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641188"
+    },
+    {
+      "id": 2641189,
+      "tipo": "PL",
+      "numero": 4501,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Infraestrutura Sanitária Mínima em Mercados Públicos, Feiras Livres e Centros Populares de Comercialização, estabelece diretrizes para instalação e manutenção de banheiros públicos e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641189"
+    },
+    {
+      "id": 2641190,
+      "tipo": "PL",
+      "numero": 4502,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Prevenção de Complicações Graves do Diabetes Mellitus no âmbito do Sistema Único de Saúde – SUS, estabelece diretrizes de priorização tecnológica para pacientes de alto risco e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641190"
+    },
+    {
+      "id": 2641191,
+      "tipo": "PL",
+      "numero": 4503,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção contra Interrupção do Tratamento Automatizado do Diabetes Mellitus no âmbito do Sistema Único de Saúde – SUS, estabelece diretrizes para continuidade operacional das tecnologias de controle glicêmico contínuo e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641191"
+    },
+    {
+      "id": 2641192,
+      "tipo": "PL",
+      "numero": 4504,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção, Salvaguarda e Transmissão da Memória Oral dos Povos de Fronteira, cria mecanismos de registro, preservação, valorização educacional e difusão cultural dos saberes orais tradicionais em regiões fronteiriças brasileiras, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641192"
+    },
+    {
+      "id": 2641193,
+      "tipo": "PL",
+      "numero": 4505,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Protocolo de Coação Bancária Digital – BOTÃO SEGURO, estabelece diretrizes para implementação de mecanismo padronizado de alerta silencioso em aplicativos bancários e dispõe sobre procedimentos mínimos de resposta em situações de coação ou ameaça ao usuário.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641193"
+    },
+    {
+      "id": 2641194,
+      "tipo": "PL",
+      "numero": 4506,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Sala Segura da Mulher em Delegacias sem unidade especializada e estabelece padrão mínimo de atendimento.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641194"
+    },
+    {
+      "id": 2641195,
+      "tipo": "PL",
+      "numero": 4507,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Tarifa Social do Transporte Intermunicipal em Regiões Remotas, destinada à redução do custo de deslocamentos essenciais para populações residentes em áreas isoladas, de difícil acesso ou baixa integração territorial.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641195"
+    },
+    {
+      "id": 2641196,
+      "tipo": "PL",
+      "numero": 4508,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Tecnologias Inteligentes para o Tratamento do Diabetes Mellitus no âmbito do Sistema Único de Saúde – SUS, estabelece diretrizes para integração de monitoramento contínuo, teleassistência, inteligência preditiva e tecnologias automatizadas de controle glicêmico, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641196"
+    },
+    {
+      "id": 2641197,
+      "tipo": "PL",
+      "numero": 4509,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Transparência da Malha Aérea Regional – CÉU ABERTO, estabelece a obrigatoriedade de divulgação padronizada de dados operacionais do transporte aéreo regional e dispõe sobre mecanismos de monitoramento, acesso à informação e controle social.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641197"
+    },
+    {
+      "id": 2641198,
+      "tipo": "PL",
+      "numero": 4510,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Transparência e Direito ao Preço Justo de Combustíveis em Regiões Isoladas, estabelece mecanismos de transparência da composição de preços dos combustíveis em áreas de elevado custo logístico e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641198"
+    },
+    {
+      "id": 2641199,
+      "tipo": "PL",
+      "numero": 4511,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional do Combo Alimentar Regional da Agricultura Familiar, destinada à integração entre compras públicas, segurança alimentar e fornecimento de cestas alimentares compostas por produtos regionais produzidos localmente.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641199"
+    },
+    {
+      "id": 2641200,
+      "tipo": "PL",
+      "numero": 4512,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Acesso Prioritário à Bomba de Insulina para Crianças e Adolescentes com Diabetes Mellitus Tipo 1 no âmbito do Sistema Único de Saúde – SUS, estabelece diretrizes de proteção terapêutica contínua, prevenção de hipoglicemia grave e apoio escolar, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641200"
+    },
+    {
+      "id": 2641201,
+      "tipo": "PL",
+      "numero": 4513,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Água Comunitária para Pequenas Localidades – ÁGUA PERTO, destinado à implantação de soluções simplificadas de abastecimento de água em comunidades rurais, pequenas localidades e áreas sem cobertura adequada de abastecimento público.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641201"
+    },
+    {
+      "id": 2641202,
+      "tipo": "PL",
+      "numero": 4514,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Armazenagem e Cadeia Fria da Agricultura Familiar – PRONACAF, destinado à redução de perdas produtivas, ampliação da renda rural, fortalecimento da segurança alimentar e estruturação logística da agricultura familiar, da pesca artesanal e da produção comunitária.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641202"
+    },
+    {
+      "id": 2641203,
+      "tipo": "PL",
+      "numero": 4515,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Calçadas Acessíveis Essenciais, destinado à implantação, adequação e padronização mínima de calçadas em áreas de acesso a serviços públicos essenciais, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641203"
+    },
+    {
+      "id": 2641204,
+      "tipo": "PL",
+      "numero": 4516,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Cozinhas Comunitárias de Pequeno Porte – COZINHA PERTO, destinado à implantação, adequação e manutenção de cozinhas comunitárias simplificadas em municípios pequenos, periferias urbanas, áreas rurais, comunidades tradicionais e localidades em situação de vulnerabilidade alimentar.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641204"
+    },
+    {
+      "id": 2641205,
+      "tipo": "PL",
+      "numero": 4517,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Miniagroindústrias Comunitárias – PROMIC, destinado ao fortalecimento do beneficiamento local da produção comunitária, da agricultura familiar, da pesca artesanal, do extrativismo e da sociobiodiversidade, com foco na agregação de valor, geração de renda e desenvolvimento regional sustentável.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641205"
+    },
+    {
+      "id": 2641206,
+      "tipo": "PL",
+      "numero": 4518,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Pavimentação de Pequenos Trechos Críticos – ACESSO ESSENCIAL, destinado à execução de intervenções localizadas de pavimentação em vias de acesso a escolas, unidades de saúde, áreas produtivas e serviços públicos essenciais.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641206"
+    },
+    {
+      "id": 2641207,
+      "tipo": "PL",
+      "numero": 4519,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Pequenos Estaleiros Comunitários e Manutenção de Embarcações – PROESTALEIRO COMUNITÁRIO, destinado ao fortalecimento da infraestrutura fluvial comunitária, da logística regional amazônica, da economia naval de pequeno porte e da manutenção de embarcações utilizadas por populações tradicionais, ribeirinhas, indígenas, pescadores artesanais e comunidades isoladas.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641207"
+    },
+    {
+      "id": 2641208,
+      "tipo": "PL",
+      "numero": 4520,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Redução do Custo do Gás em Áreas Isoladas – GÁS ESSENCIAL, destinado à redução do impacto logístico sobre o preço do gás liquefeito de petróleo – GLP em municípios remotos e localidades de elevado custo de abastecimento.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641208"
+    },
+    {
+      "id": 2641209,
+      "tipo": "PL",
+      "numero": 4521,
+      "ano": 2026,
+      "ementa": "Estabelece padrões mínimos de funcionamento, segurança operacional e infraestrutura essencial para pequenos portos públicos municipais e terminais hidroviários de interesse local.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641209"
+    },
+    {
+      "id": 2641210,
+      "tipo": "PL",
+      "numero": 4522,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Mercados Populares em Vazios Alimentares – MERCADO PERTO, destinado ao apoio à implantação, modernização e funcionamento de feiras e mercados populares em localidades com baixa oferta de alimentos frescos e saudáveis.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641210"
+    },
+    {
+      "id": 2641211,
+      "tipo": "PL",
+      "numero": 4523,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Transporte Fluvial Comunitário – NAVEGA BRASIL, destinado ao apoio à aquisição, manutenção e operação de embarcações comunitárias voltadas ao acesso a serviços públicos essenciais em regiões ribeirinhas e localidades dependentes de transporte hidroviário.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641211"
+    },
+    {
+      "id": 2641212,
+      "tipo": "PL",
+      "numero": 4524,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Abrigos Climáticos em Pontos de Ônibus – PARADA SEGURA, destinado à implantação e adequação de estruturas de proteção climática, conforto urbano e segurança em pontos de transporte coletivo.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641212"
+    },
+    {
+      "id": 2641213,
+      "tipo": "PL",
+      "numero": 4525,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Autonomia Tecnológica da Pessoa com Diabetes Mellitus no âmbito do Sistema Único de Saúde – SUS, reconhece tecnologias contínuas de controle glicêmico como instrumentos de autonomia funcional e prevenção de incapacidade, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641213"
+    },
+    {
+      "id": 2641214,
+      "tipo": "PL",
+      "numero": 4526,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Compras Públicas da Produção Indígena e das Comunidades Tradicionais e estabelece diretrizes para aquisição de alimentos, artesanato, produtos da bioeconomia e insumos locais pela administração pública.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641214"
+    },
+    {
+      "id": 2641215,
+      "tipo": "PL",
+      "numero": 4527,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Conectividade de Emergência para Polos Base e Escolas Indígenas – CONEXÃO ESSENCIAL, e estabelece diretrizes para garantia de comunicação mínima operacional em áreas indígenas remotas e de difícil acesso.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641215"
+    },
+    {
+      "id": 2641216,
+      "tipo": "PL",
+      "numero": 4528,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Continuidade Tecnológica do Tratamento do Diabetes Mellitus Tipo 1 no Sistema Único de Saúde – SUS, estabelece diretrizes para garantia da continuidade terapêutica de tecnologias assistivas e dispositivos de monitoramento glicêmico contínuo, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641216"
+    },
+    {
+      "id": 2641217,
+      "tipo": "PL",
+      "numero": 4529,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Equidade Tarifária Pós-Interligação de Sistemas Isolados ao Sistema Interligado Nacional, com aplicação prioritária ao Estado de Roraima, cria mecanismos de modicidade tarifária, transparência regulatória, transição energética justa e mitigação de impactos tarifários extraordinários.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641217"
+    },
+    {
+      "id": 2641218,
+      "tipo": "PL",
+      "numero": 4530,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Infraestrutura Mínima para Casas de Apoio Indígena em Centros Urbanos, estabelece padrões obrigatórios de funcionamento, acolhimento e dignidade para indígenas em deslocamento para tratamento de saúde, acompanhamento médico, procedimentos administrativos, educação ou proteção social, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641218"
+    },
+    {
+      "id": 2641219,
+      "tipo": "PL",
+      "numero": 4531,
+      "ano": 2026,
+      "ementa": "Institui a Lei de Transparência sobre Monetização da Atenção Digital, estabelece normas de divulgação simplificada sobre mecanismos de monetização baseados em retenção comportamental, tempo de tela e exposição publicitária em plataformas digitais, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641219"
+    },
+    {
+      "id": 2641220,
+      "tipo": "PL",
+      "numero": 4532,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção ao Ambiente Digital Menos Invasivo, estabelece parâmetros de transparência, proporcionalidade e limitação da publicidade digital excessivamente intrusiva em plataformas digitais, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641220"
+    },
+    {
+      "id": 2641221,
+      "tipo": "PL",
+      "numero": 4533,
+      "ano": 2026,
+      "ementa": "Institui a Lei de Proteção de Crianças e Adolescentes contra Hiperpublicidade Digital, estabelece limites à publicidade direcionada e às técnicas agressivas de retenção e impulsionamento comercial voltadas ao público infantojuvenil em plataformas digitais, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641221"
+    },
+    {
+      "id": 2641222,
+      "tipo": "PL",
+      "numero": 4534,
+      "ano": 2026,
+      "ementa": "Institui a Lei de Proteção do Consumidor em Plataformas Gratuitas Digitais, estabelece regras mínimas de transparência sobre monetização publicitária, coleta de dados, perfilamento comercial e funcionamento algorítmico em serviços digitais gratuitos, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641222"
+    },
+    {
+      "id": 2641223,
+      "tipo": "PL",
+      "numero": 4535,
+      "ano": 2026,
+      "ementa": "Institui a Lei da Transparência Algorítmica Publicitária, estabelece regras de informação simplificada ao consumidor sobre utilização de dados pessoais para publicidade comportamental, perfilamento comercial e direcionamento algorítmico de anúncios em plataformas digitais, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641223"
+    },
+    {
+      "id": 2641224,
+      "tipo": "PL",
+      "numero": 4536,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Transparência e Igualdade de Acesso da Pessoa Idosa à Saúde Suplementar, altera a Lei nº 9.656, de 3 de junho de 1998, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641224"
+    },
+    {
+      "id": 2641225,
+      "tipo": "PL",
+      "numero": 4537,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção à Continuidade Assistencial da Pessoa Idosa na Saúde Suplementar, altera a Lei nº 9.656, de 3 de junho de 1998, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641225"
+    },
+    {
+      "id": 2641226,
+      "tipo": "PL",
+      "numero": 4538,
+      "ano": 2026,
+      "ementa": "Institui diretrizes para inclusão facultativa de pais e mães economicamente dependentes nos programas e sistemas de assistência à saúde destinados a servidores públicos e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641226"
+    },
+    {
+      "id": 2641227,
+      "tipo": "PL",
+      "numero": 4539,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção da Pessoa Idosa na Saúde Suplementar, estabelece direitos específicos dos consumidores idosos beneficiários de planos privados de assistência à saúde, cria mecanismos de transparência, proteção contratual, fiscalização e educação financeira, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641227"
+    },
+    {
+      "id": 2641228,
+      "tipo": "PL",
+      "numero": 4540,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Transparência dos Reajustes Aplicados aos Beneficiários Idosos de Planos Privados de Assistência à Saúde, altera a Lei nº 9.656, de 3 de junho de 1998, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641228"
+    },
+    {
+      "id": 2641229,
+      "tipo": "PL",
+      "numero": 4541,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Garantia do Atendimento Humano à Pessoa Idosa em Serviços Essenciais e Digitais, estabelece o direito de opção por atendimento humano para pessoas idosas e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641229"
+    },
+    {
+      "id": 2641230,
+      "tipo": "PL",
+      "numero": 4542,
+      "ano": 2026,
+      "ementa": "Institui o Estatuto da Acessibilidade Digital da Pessoa Idosa, estabelece direitos, garantias e padrões mínimos de acessibilidade em ambientes digitais públicos e privados, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641230"
+    },
+    {
+      "id": 2641231,
+      "tipo": "PL",
+      "numero": 4543,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção contra a Exclusão Digital da Pessoa Idosa, estabelece garantias de acesso alternativo a serviços essenciais e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641231"
+    },
+    {
+      "id": 2641232,
+      "tipo": "PL",
+      "numero": 4544,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Autonomia Digital da Pessoa Idosa, estabelece diretrizes para promoção da inclusão, acessibilidade, segurança e cidadania digital da população idosa e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641232"
+    },
+    {
+      "id": 2641233,
+      "tipo": "PL",
+      "numero": 4545,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Garantia do Direito à Alternativa Não Digital para a Pessoa Idosa e para pessoas em situação de vulnerabilidade digital, assegura meios alternativos de acesso a serviços essenciais e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641233"
+    },
+    {
+      "id": 2641234,
+      "tipo": "PL",
+      "numero": 4546,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Humanização dos Serviços Digitais, estabelece direitos dos usuários em ambientes digitais, cria mecanismos de proteção contra barreiras tecnológicas excessivas, assegura a possibilidade de escalonamento para atendimento humano e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641234"
+    },
+    {
+      "id": 2641235,
+      "tipo": "PL",
+      "numero": 4547,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Combate ao Isolamento Social Digital da Pessoa Idosa, reconhece a exclusão e o isolamento digital como fatores de vulnerabilidade social, estabelece diretrizes para promoção da convivência, inclusão tecnológica, saúde mental e participação comunitária da população idosa, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641235"
+    },
+    {
+      "id": 2641236,
+      "tipo": "PL",
+      "numero": 4548,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Transparência Algorítmica em Serviços Essenciais para Pessoas Idosas, estabelece direitos relacionados ao uso de sistemas automatizados e algoritmos em serviços essenciais, cria mecanismos de supervisão humana, transparência e proteção contra discriminação tecnológica, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641236"
+    },
+    {
+      "id": 2641237,
+      "tipo": "PL",
+      "numero": 4549,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Embaixadores Digitais da Terceira Idade – PROEDI, destinado à promoção da inclusão digital, da cidadania tecnológica, da participação social e do protagonismo da pessoa idosa, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641237"
+    },
+    {
+      "id": 2641238,
+      "tipo": "PL",
+      "numero": 4550,
+      "ano": 2026,
+      "ementa": "Institui o Marco Legal dos Direitos da Pessoa Idosa no Ambiente Digital e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641238"
+    },
+    {
+      "id": 2641239,
+      "tipo": "PL",
+      "numero": 4551,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional TRANSPORTE DIGNO, destinada à prevenção e controle da superlotação no transporte público coletivo, estabelece parâmetros de segurança, mecanismos de identificação de excesso de lotação, prazos reduzidos de resposta obrigatória, canais de denúncia com encaminhamento a órgãos independentes e medidas de proteção à integridade dos passageiros.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641239"
+    },
+    {
+      "id": 2641240,
+      "tipo": "PL",
+      "numero": 4552,
+      "ano": 2026,
+      "ementa": "Institui diretrizes para a organização do transporte escolar em situações de emergência decorrentes de cheia e seca na Amazônia Legal, e estabelece a obrigatoriedade de plano alternativo de atendimento educacional nos Municípios afetados.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641240"
+    },
+    {
+      "id": 2641241,
+      "tipo": "PL",
+      "numero": 4553,
+      "ano": 2026,
+      "ementa": "Institui a Lei de Combate aos “Dark Patterns” nas Plataformas Digitais, estabelece normas de proteção do consumidor contra mecanismos manipulativos em ambientes digitais, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641241"
+    },
+    {
+      "id": 2641242,
+      "tipo": "PL",
+      "numero": 4554,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proteção da experiência digital contratada pelo consumidor e veda práticas de degradação artificial de serviços digitais destinadas à indução de migração para planos mais caros.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641242"
+    },
+    {
+      "id": 2641243,
+      "tipo": "PL",
+      "numero": 4555,
+      "ano": 2026,
+      "ementa": "Institui deveres de transparência, previsibilidade e comunicação prévia nas alterações unilaterais promovidas por plataformas digitais em serviços ofertados aos consumidores.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641243"
+    },
+    {
+      "id": 2641244,
+      "tipo": "PL",
+      "numero": 4556,
+      "ano": 2026,
+      "ementa": "Dispõe sobre transparência publicitária e proteção do consumidor em serviços de streaming contratados mediante assinatura paga.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641244"
+    },
+    {
+      "id": 2641245,
+      "tipo": "PL",
+      "numero": 4557,
+      "ano": 2026,
+      "ementa": "Institui o Estatuto do Consumidor Digital de Plataformas e Serviços de Streaming, estabelece direitos mínimos dos consumidores em ambientes digitais, serviços de assinatura, plataformas de streaming e aplicações de internet, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641245"
+    },
+    {
+      "id": 2641246,
+      "tipo": "PL",
+      "numero": 4558,
+      "ano": 2026,
+      "ementa": "Institui a Lei da Integridade da Assinatura Digital, estabelece normas de proteção da expectativa legítima do consumidor em serviços digitais contratados mediante assinatura, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641246"
+    },
+    {
+      "id": 2641247,
+      "tipo": "PL",
+      "numero": 4559,
+      "ano": 2026,
+      "ementa": "Institui a Lei da Publicidade Responsável em Conteúdo Educacional e Infantil, estabelece limites à publicidade invasiva em plataformas digitais voltadas à educação, ao ensino remoto e a conteúdos destinados predominantemente a crianças, adolescentes e estudantes, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641247"
+    },
+    {
+      "id": 2641248,
+      "tipo": "PL",
+      "numero": 4560,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Tratamento Fora do Domicílio Automatizado – TFD Auto, estabelece mecanismos de liberação célere de passagens, diárias e hospedagem para pacientes do Sistema Único de Saúde, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641248"
+    },
+    {
+      "id": 2641249,
+      "tipo": "PL",
+      "numero": 4561,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes nacionais para a proteção da criança em rotas longas de transporte escolar, fixa parâmetros de tempo máximo de deslocamento diário, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641249"
+    },
+    {
+      "id": 2641250,
+      "tipo": "PL",
+      "numero": 4562,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Redução de Custos e Inovação da Construção em Áreas Remotas – CONSTRUIR BRASIL, estabelece diretrizes para modernização logística, tecnológica e produtiva da construção civil em territórios de difícil acesso, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641250"
+    },
+    {
+      "id": 2641251,
+      "tipo": "PL",
+      "numero": 4563,
+      "ano": 2026,
+      "ementa": "Institui o Regime Especial de Comércio Transfronteiriço Popular, estabelece mecanismos de inclusão produtiva, inovação e industrialização na Região Norte, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641251"
+    },
+    {
+      "id": 2641252,
+      "tipo": "PL",
+      "numero": 4564,
+      "ano": 2026,
+      "ementa": "Institui regime jurídico de simplificação, acessibilidade e transparência das faturas de serviços públicos essenciais para idosos e populações ribeirinhas, estabelece padrões de comunicação clara e canal de atendimento humano obrigatório, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641252"
+    },
+    {
+      "id": 2641253,
+      "tipo": "PL",
+      "numero": 4565,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Formalização Assistida do Trabalhador de Rua – Rua Legal, com foco em licença simplificada, inclusão financeira, microseguro e acesso a meios de pagamento digital, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641253"
+    },
+    {
+      "id": 2641254,
+      "tipo": "PL",
+      "numero": 4566,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Integração Econômica do Norte – PNIEN, cria o Sistema Nacional de Corredores Econômicos Internacionais do Norte, estabelece diretrizes para facilitação de comércio, desenvolvimento produtivo e governança interfederativa, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641254"
+    },
+    {
+      "id": 2641255,
+      "tipo": "PL",
+      "numero": 4567,
+      "ano": 2026,
+      "ementa": "Institui o Sistema Nacional de Proteção e Valorização do Trabalho em Plataformas de Entrega – SINPROT Delivery, estabelece mecanismos de proteção automática por operação, subvenção pública estratégica e incentivos à redução de custos operacionais, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641255"
+    },
+    {
+      "id": 2641256,
+      "tipo": "PL",
+      "numero": 4568,
+      "ano": 2026,
+      "ementa": "Institui o regime jurídico da Teletriagem de Urgência em Regiões Isoladas, estabelece a integração com o SAMU e a Atenção Primária à Saúde, e dá outras providências",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641256"
+    },
+    {
+      "id": 2641257,
+      "tipo": "PL",
+      "numero": 4569,
+      "ano": 2026,
+      "ementa": "Institui regime jurídico de transparência e controle de encargos logísticos em plataformas digitais de comércio eletrônico nas regiões com isolamento logístico relevante, com foco na Amazônia Legal, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641257"
+    },
+    {
+      "id": 2641258,
+      "tipo": "PL",
+      "numero": 4570,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Recuperação de Vicinais Estratégicas – CAMINHO DA PRODUÇÃO E DO SERVIÇO, destinada à requalificação de estradas vicinais com função essencial para o acesso a serviços públicos e o escoamento da produção, e estabelece diretrizes de planejamento, execução e monitoramento.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641258"
+    },
+    {
+      "id": 2641259,
+      "tipo": "PL",
+      "numero": 4571,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional do Exame Preventivo Itinerante da Mulher em Áreas Remotas, estabelece calendário nacional com metas mínimas de cobertura e dispõe sobre sua execução, financiamento, monitoramento e avaliação.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641259"
+    },
+    {
+      "id": 2641260,
+      "tipo": "PL",
+      "numero": 4572,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Água Potável de Pequena Escala – “Água na Porta”, destinado à implantação e manutenção de sistemas compactos de abastecimento de água potável em escolas, unidades básicas de saúde e comunidades sem acesso regular à rede pública, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641260"
+    },
+    {
+      "id": 2641261,
+      "tipo": "PL",
+      "numero": 4573,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Apoio a Mães Solo em Municípios de Baixa Oferta de Serviços, estabelece diretrizes para a integração de políticas de renda, cuidado e orientação jurídica, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641261"
+    },
+    {
+      "id": 2641262,
+      "tipo": "PL",
+      "numero": 4574,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Capacitação Rápida de Jovens para Obras, Energia Solar e Serviços de Reparos – “Trabalho Já”, com foco na formação profissional de curta duração vinculada à demanda concreta do mercado, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641262"
+    },
+    {
+      "id": 2641263,
+      "tipo": "PL",
+      "numero": 4575,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Farmácia Itinerante da Amazônia – PFIA, destinado à entrega periódica de medicamentos de uso contínuo em comunidades ribeirinhas, indígenas e localidades de difícil acesso, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641263"
+    },
+    {
+      "id": 2641264,
+      "tipo": "PL",
+      "numero": 4576,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Kit Bebê Essencial para Gestantes inscritas no Cadastro Único em Áreas Remotas, estabelece diretrizes para fornecimento de enxoval mínimo, orientação e acompanhamento, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641264"
+    },
+    {
+      "id": 2641265,
+      "tipo": "PL",
+      "numero": 4577,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Permanência Escolar na Amazônia Rural e Fluvial, estabelece incentivo financeiro vinculado à frequência escolar e medidas de conectividade educacional, e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641265"
+    },
+    {
+      "id": 2641266,
+      "tipo": "PL",
+      "numero": 4578,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Conectividade por Infraestrutura de Travessia de Pequeno Porte em Comunidades Isoladas – CAMINHO SEGURO, dispõe sobre a implantação, padronização, monitoramento e financiamento de pontes e passagens de pequeno porte, e estabelece metas nacionais de redução do isolamento territorial.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641266"
+    },
+    {
+      "id": 2641267,
+      "tipo": "PL",
+      "numero": 4579,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Saúde Bucal Fluvial e Rural, com implantação de consultórios odontológicos móveis permanentes, e dispõe sobre sua execução, financiamento, monitoramento e avaliação.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641267"
+    },
+    {
+      "id": 2641268,
+      "tipo": "PL",
+      "numero": 4580,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Sinalização Básica de Emergência em Áreas de Risco – ALERTA COMUNITÁRIO, destinada à implantação de sinalização preventiva e orientação emergencial em áreas vulneráveis a desastres, acidentes e situações de risco coletivo.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641268"
+    },
+    {
+      "id": 2641269,
+      "tipo": "PL",
+      "numero": 4581,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Segurança e Qualidade do Transporte Escolar Rural e Ribeirinho – CAMINHO SEGURO, estabelece padrões mínimos nacionais para transporte escolar em áreas remotas e dá outras providências.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641269"
+    },
+    {
+      "id": 2641270,
+      "tipo": "PL",
+      "numero": 4582,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Bloqueio Integrado e Neutralização Econômica de Dispositivos Móveis Subtraídos – CELULAR SEGURO, estabelece diretrizes para registro, comunicação, bloqueio e interoperabilidade entre agentes públicos e privados, e dispõe sobre mecanismos proporcionais de prevenção, resposta rápida e cooperação.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641270"
+    },
+    {
+      "id": 2641271,
+      "tipo": "PL",
+      "numero": 4583,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Compras Governamentais da Bioeconomia Local – BIOCOMPRA, destinada à promoção da aquisição pública de produtos da bioeconomia brasileira, da sociobiodiversidade e da produção sustentável de base territorial, com prioridade para agricultores familiares, povos indígenas, comunidades tradicionais, cooperativas e pequenos empreendimentos locais.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641271"
+    },
+    {
+      "id": 2641272,
+      "tipo": "PL",
+      "numero": 4584,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Microdrenagem Comunitária – DRENAR BRASIL, destinado ao apoio à execução de pequenas obras de drenagem urbana, prevenção de alagamentos recorrentes e redução de riscos em áreas urbanas vulneráveis.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641272"
+    },
+    {
+      "id": 2641273,
+      "tipo": "PL",
+      "numero": 4585,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Transição Energética Popular – ENERGIA EM CASA, destinado à concessão de subsídios para sistemas solares simplificados, equipamentos elétricos eficientes de cocção e redução da dependência energética de famílias de baixa renda.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641273"
+    },
+    {
+      "id": 2641274,
+      "tipo": "PL",
+      "numero": 4586,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção de Crianças e Adolescentes contra Extorsão Sexual Digital – PROTEGE INFÂNCIA, estabelece obrigações de prevenção, detecção e resposta rápida por provedores de aplicações de internet, e dispõe sobre cooperação com autoridades competentes.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641274"
+    },
+    {
+      "id": 2641275,
+      "tipo": "PL",
+      "numero": 4587,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Apoio à Comercialização da Produção Tradicional de Fronteira – FRONTEIRA PRODUZ, com o objetivo de fortalecer a geração de renda local, ampliar o acesso a mercados e reduzir a dependência de grandes intermediários econômicos nas regiões de fronteira.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641275"
+    },
+    {
+      "id": 2641276,
+      "tipo": "PL",
+      "numero": 4588,
+      "ano": 2026,
+      "ementa": "Estabelece padrões mínimos obrigatórios de infraestrutura de espera em serviços públicos de atendimento presencial e cria o Índice Nacional de Dignidade da Espera em Equipamentos Públicos.",
+      "data": "2026-07-17T20:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641276"
+    },
+    {
+      "id": 2641277,
+      "tipo": "PL",
+      "numero": 4589,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Estoques Estratégicos Municipais para Situações de Cheias, Secas e Isolamento – RESPOSTA IMEDIATA, estabelece diretrizes para a constituição de estoques mínimos de emergência e mecanismos de pronta resposta a desastres e eventos extremos.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641277"
+    },
+    {
+      "id": 2641278,
+      "tipo": "PL",
+      "numero": 4590,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Garantia de Oferta Mínima de Transporte Intermunicipal – CONECTA BRASIL, estabelece a obrigatoriedade de planejamento de serviços essenciais em regiões de baixa oferta e dispõe sobre mecanismos de indução, monitoramento e transparência.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641278"
+    },
+    {
+      "id": 2641279,
+      "tipo": "PL",
+      "numero": 4591,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Habitação Resiliente em Áreas de Alagamento – MORAR ADAPTADO, estabelece diretrizes para produção, adaptação e financiamento de unidades habitacionais resilientes a eventos hidrológicos, com prioridade para a Região Amazônica, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641279"
+    },
+    {
+      "id": 2641280,
+      "tipo": "PL",
+      "numero": 4592,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Hidrovias Comunitárias de Pequena Escala – NAVEGA SEGURO, destinada à organização, sinalização e segurança de rotas fluviais de uso local, com implantação de infraestrutura simplificada e apoio à mobilidade de comunidades ribeirinhas.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641280"
+    },
+    {
+      "id": 2641281,
+      "tipo": "PL",
+      "numero": 4593,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Implantação de Berçários Públicos em Áreas de Alta Vulnerabilidade, estabelece critérios territoriais, modelo simplificado de implantação e diretrizes de funcionamento, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641281"
+    },
+    {
+      "id": 2641282,
+      "tipo": "PL",
+      "numero": 4594,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Inclusão Produtiva do Trabalhador Popular Urbano, cria o Cadastro Nacional Simplificado do Trabalhador Popular, estabelece diretrizes para formalização progressiva, inclusão produtiva e ordenamento urbano, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641282"
+    },
+    {
+      "id": 2641283,
+      "tipo": "PL",
+      "numero": 4595,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Infraestrutura e Instrumentos para Internacionalização do Norte – PNIIN, estabelece diretrizes para modernização logística, aduaneira, produtiva e tecnológica da Região Norte, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641283"
+    },
+    {
+      "id": 2641285,
+      "tipo": "PL",
+      "numero": 4596,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Pesquisa Orientada ao Interesse Público e de Maturação Tecnológica, estabelece diretrizes para o alinhamento de parte do fomento público à pesquisa, ao desenvolvimento e à inovação a prioridades nacionais, estaduais, municipais, territoriais e populacionais, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641285"
+    },
+    {
+      "id": 2641289,
+      "tipo": "PL",
+      "numero": 4597,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Previdência Informada, com atendimento ativo para orientação de trabalhadores autônomos, informais e de baixa proteção contributiva, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641289"
+    },
+    {
+      "id": 2641290,
+      "tipo": "PL",
+      "numero": 4598,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Reabilitação Pós-AVC e Pós-Trauma em Municípios Sem Especialista, estabelece modelo híbrido de atendimento, protocolos simplificados e mecanismos de suporte assistencial contínuo, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641290"
+    },
+    {
+      "id": 2641292,
+      "tipo": "PL",
+      "numero": 4599,
+      "ano": 2026,
+      "ementa": "Institui regime jurídico especial de transparência econômica vinculada à modicidade tarifária do Gás Liquefeito de Petróleo (GLP) em mercados isolados com falha logística estrutural, cria mecanismos regulatórios de reequilíbrio econômico condicionados ao repasse ao consumidor final, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641292"
+    },
+    {
+      "id": 2641293,
+      "tipo": "PL",
+      "numero": 4600,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Mutirão Assistido de Regularização Fundiária Urbana Popular – MORAR LEGAL, estabelece mecanismos de apoio técnico e jurídico simplificado para famílias de baixa renda e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641293"
+    },
+    {
+      "id": 2641295,
+      "tipo": "PL",
+      "numero": 4601,
+      "ano": 2026,
+      "ementa": "Institui regime jurídico de opção qualificada de restituição automática ao consumidor por cancelamento de voos em mercados aéreos concentrados, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641295"
+    },
+    {
+      "id": 2641297,
+      "tipo": "PL",
+      "numero": 4602,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional PERIFERIA SEM ALAGAMENTO – ÁGUA FORA, destinado à execução de microobras de drenagem em áreas urbanas vulneráveis, estabelece critérios técnicos de dimensionamento, metas obrigatórias, mecanismos de controle, transparência e responsabilização por omissão.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641297"
+    },
+    {
+      "id": 2641298,
+      "tipo": "PL",
+      "numero": 4603,
+      "ano": 2026,
+      "ementa": "Institui a Política de Microcrédito com Carência Logística para a Região Norte, com calendário financeiro adaptado à sazonalidade hidrológica, aos ciclos de abastecimento e às especificidades territoriais, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641298"
+    },
+    {
+      "id": 2641299,
+      "tipo": "PL",
+      "numero": 4604,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Acesso Aéreo Social – VOAR DIREITO, destinada a garantir condições de deslocamento aéreo a pessoas de baixa renda residentes em unidades federativas com restrição de acesso terrestre, para fins de tratamento de saúde e educação, e estabelece mecanismos de subsídio, priorização e transparência.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641299"
+    },
+    {
+      "id": 2641300,
+      "tipo": "PL",
+      "numero": 4605,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Alerta Hidrológico Comunitário – VIGIA ÁGUA, dispõe sobre a implantação obrigatória de sistemas locais de monitoramento e alerta para eventos hidrológicos extremos, estabelece parâmetros técnicos mínimos, metas nacionais de cobertura e mecanismos de governança, monitoramento e responsabilização.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641300"
+    },
+    {
+      "id": 2641301,
+      "tipo": "PL",
+      "numero": 4606,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Apoio ao Cuidador Familiar de Pessoa Dependente, estabelece medidas de capacitação, certificação, suporte remoto, assistência e incentivo ao cuidado, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641301"
+    },
+    {
+      "id": 2641302,
+      "tipo": "PL",
+      "numero": 4607,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Defesa Civil Escolar – ESCOLA PREPARADA, estabelece diretrizes para a preparação da comunidade escolar para eventos extremos, e dispõe sobre treinamentos periódicos, protocolos de emergência e integração com o sistema de proteção e defesa civil.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641302"
+    },
+    {
+      "id": 2641303,
+      "tipo": "PL",
+      "numero": 4608,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Ensino Técnico Territorializado em Manutenção, Energia e Logística no Interior, com prioridade para a Amazônia Legal e regiões de baixa densidade econômica e educacional, integrada à Rede Federal de Educação Profissional, Científica e Tecnológica, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641303"
+    },
+    {
+      "id": 2641304,
+      "tipo": "PL",
+      "numero": 4609,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição de exigir comparecimento presencial do cidadão quando a prestação de serviço público ou de serviço público delegado puder ser realizada de forma remota, assegurando a racionalização do atendimento e a valorização do tempo do usuário.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641304"
+    },
+    {
+      "id": 2641305,
+      "tipo": "PL",
+      "numero": 4610,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição de exigir do cidadão documentos ou informações já apresentados no âmbito do mesmo processo administrativo, assegurando racionalidade, eficiência e respeito ao usuário dos serviços públicos.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641305"
+    },
+    {
+      "id": 2641306,
+      "tipo": "PL",
+      "numero": 4611,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição de manter o cidadão em espera indefinida, sem definição de prazo, na prestação de serviços públicos e de serviços públicos delegados.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641306"
+    },
+    {
+      "id": 2641307,
+      "tipo": "PL",
+      "numero": 4612,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição de respostas automáticas, genéricas ou evasivas, especialmente em serviços de teleatendimento, e institui mecanismo independente de monitoramento e responsabilização por descumprimento.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641307"
+    },
+    {
+      "id": 2641308,
+      "tipo": "PL",
+      "numero": 4613,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição de transferência indevida de responsabilidade no atendimento ao cidadão, vedado o encaminhamento sucessivo e injustificado entre setores, órgãos ou unidades sem solução efetiva da demanda.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641308"
+    },
+    {
+      "id": 2641309,
+      "tipo": "PL",
+      "numero": 4614,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proteção da família socioafetiva nos planos e seguros privados de assistência à saúde, assegurando a inclusão de dependentes vinculados por relação familiar socioafetiva.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641309"
+    },
+    {
+      "id": 2641310,
+      "tipo": "PL",
+      "numero": 4615,
+      "ano": 2026,
+      "ementa": "Dispõe sobre transparência, motivação, reavaliação contínua e racionalização procedimental na aplicação e execução de transferências do Fundo Nacional de Saúde relativas a emendas parlamentares destinadas a ações e serviços públicos de saúde, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641310"
+    },
+    {
+      "id": 2641311,
+      "tipo": "PL",
+      "numero": 4616,
+      "ano": 2026,
+      "ementa": "Dispõe sobre critérios de preço justo e transparência na cobrança pela permanência de motocicletas, motonetas e ciclomotores em estacionamentos privados, com vistas à proteção do consumidor e à prevenção de práticas abusivas.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641311"
+    },
+    {
+      "id": 2641312,
+      "tipo": "PL",
+      "numero": 4617,
+      "ano": 2026,
+      "ementa": "Institui o Regime Especial de Infraestrutura Logística e Conectividade Estruturante da Região Norte – REICON Norte, estabelece metas físicas e indicadores de competitividade, integra instrumentos de financiamento e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641312"
+    },
+    {
+      "id": 2641313,
+      "tipo": "PL",
+      "numero": 4618,
+      "ano": 2026,
+      "ementa": "Institui o Relatório Anual de Impacto Econômico sobre a Pessoa Idosa – RAIEI, com a finalidade de consolidar e divulgar informações sobre os efeitos das condições econômicas na população idosa, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641313"
+    },
+    {
+      "id": 2641314,
+      "tipo": "PL",
+      "numero": 4619,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de publicação anual do Relatório Cidadão de Falhas e Correções, em linguagem simples e acessível, pelos órgãos da administração pública e concessionárias de serviços públicos.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641314"
+    },
+    {
+      "id": 2641315,
+      "tipo": "PL",
+      "numero": 4620,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a reserva obrigatória de vagas de estacionamento para gestantes, puérperas e pessoas acompanhadas de criança de colo em estacionamentos públicos e privados de uso coletivo, estabelece critérios nacionais de sinalização, utilização e fiscalização, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641315"
+    },
+    {
+      "id": 2641316,
+      "tipo": "PL",
+      "numero": 4621,
+      "ano": 2026,
+      "ementa": "Institui o Sistema Nacional de Competitividade Econômica das Cadeias Produtivas Estratégicas da Amazônia Legal, cria mecanismos de garantia de renda, crédito, agregação de valor, compras públicas, incentivo logístico e acesso a mercados, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641316"
+    },
+    {
+      "id": 2641317,
+      "tipo": "PL",
+      "numero": 4622,
+      "ano": 2026,
+      "ementa": "Institui o Sistema Nacional de Monitoramento e Competitividade da Transição Energética – SINTRANS, cria o Índice Nacional de Transição Energética – INTE, estabelece mecanismos de transparência, ranqueamento federativo e incentivos vinculados ao desempenho dos entes subnacionais, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641317"
+    },
+    {
+      "id": 2641318,
+      "tipo": "PL",
+      "numero": 4623,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito à tentativa de solução no primeiro atendimento prestado por órgãos da administração pública e concessionárias de serviços públicos, vedando o encerramento automático de demandas sem análise efetiva do caso concreto.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641318"
+    },
+    {
+      "id": 2641319,
+      "tipo": "PL",
+      "numero": 4624,
+      "ano": 2026,
+      "ementa": "Institui o Marco Nacional de Continuidade Operacional, Vigilância Permanente e Transparência Logística da Saúde Indígena, estabelece metas nacionais mínimas de tempo- resposta assistencial, com prioridade para a Amazônia Legal, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641319"
+    },
+    {
+      "id": 2641320,
+      "tipo": "PL",
+      "numero": 4625,
+      "ano": 2026,
+      "ementa": "Institui o VIVA – Vida Integrada de Serviços ao Cidadão, plataforma digital destinada a reunir protocolos, benefícios, agendamentos e interações administrativas em ambiente único, acessível e organizado para o usuário.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641320"
+    },
+    {
+      "id": 2641321,
+      "tipo": "PL",
+      "numero": 4626,
+      "ano": 2026,
+      "ementa": "Institui regime jurídico de garantia de atendimento bancário presencial mínimo em municípios sem alternativa adequada de acesso a serviços financeiros, estabelece padrões de presença física periódica ou compartilhada, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641321"
+    },
+    {
+      "id": 2641322,
+      "tipo": "PL",
+      "numero": 4627,
+      "ano": 2026,
+      "ementa": "Institui diretrizes para a concessão de auxílio material escolar com critérios de equidade territorial, considerando custos logísticos diferenciados em municípios de difícil acesso, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641322"
+    },
+    {
+      "id": 2641323,
+      "tipo": "PL",
+      "numero": 4628,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Busca Ativa de Crianças Fora da Creche, estabelece a obrigatoriedade de mapeamento da demanda e de transparência das filas por território, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641323"
+    },
+    {
+      "id": 2641324,
+      "tipo": "PL",
+      "numero": 4629,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional CAMINHO ILUMINADO, destinada à garantia de iluminação pública adequada em rotas de acesso a estabelecimentos de ensino e unidades básicas de saúde, estabelece indicadores obrigatórios de cobertura, critérios técnicos de desempenho e mecanismos de responsabilização por omissão.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641324"
+    },
+    {
+      "id": 2641325,
+      "tipo": "PL",
+      "numero": 4630,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional CASA SEGURA BRASIL, destinado à requalificação de moradias em situação de inadequação habitacional de risco sanitário e estrutural, e estabelece diretrizes para a promoção da dignidade habitacional em áreas de vulnerabilidade social.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641325"
+    },
+    {
+      "id": 2641326,
+      "tipo": "PL",
+      "numero": 4631,
+      "ano": 2026,
+      "ementa": "Institui o regime jurídico de continuidade mínima de conectividade para chamadas de emergência em comunidades isoladas, estabelece a obrigação de cobertura funcional para os códigos 190, 192 e 193, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641326"
+    },
+    {
+      "id": 2641327,
+      "tipo": "PL",
+      "numero": 4632,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Cozinhas Produtivas Comunitárias – “Cozinha que Gera Renda”, destinado à estruturação, regularização sanitária e produtiva de espaços coletivos de produção de alimentos por mulheres e pequenos grupos, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641327"
+    },
+    {
+      "id": 2641328,
+      "tipo": "PL",
+      "numero": 4633,
+      "ano": 2026,
+      "ementa": "Institui diretrizes nacionais para a implantação de cobertura, sombra e condições mínimas de conforto em paradas de transporte coletivo urbano, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641328"
+    },
+    {
+      "id": 2641329,
+      "tipo": "PL",
+      "numero": 4634,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Compensação Imediata por Interrupção no Fornecimento de Energia Elétrica – REEMBOLSO INSTANTÂNEO DE APAGÃO, estabelece critérios para indenização automática ao consumidor e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641329"
+    },
+    {
+      "id": 2641330,
+      "tipo": "PL",
+      "numero": 4635,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Implantação de Laboratórios Maker em Escolas Públicas de Regiões de Fronteira e de Vulnerabilidade Social com Baixo Índice de Economia Tecnológica, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641330"
+    },
+    {
+      "id": 2641331,
+      "tipo": "PL",
+      "numero": 4636,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Soluções Sanitárias Simplificadas – “Lei da Fossa Segura”, voltada à implantação, regularização e manutenção de sistemas de esgotamento sanitário adequados em áreas sem acesso à rede pública, especialmente em comunidades rurais, ribeirinhas e de difícil acesso, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641331"
+    },
+    {
+      "id": 2641332,
+      "tipo": "PL",
+      "numero": 4637,
+      "ano": 2026,
+      "ementa": "Institui regime jurídico de transparência integral de preço em plataformas digitais de intermediação de consumo - Lei do Preço Real no App, veda práticas de preço isca em contextos de sobrecusto logístico regional, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641332"
+    },
+    {
+      "id": 2641333,
+      "tipo": "PL",
+      "numero": 4638,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional “Material Escolar Garantido” (MEG), destinado à garantia de material escolar essencial a estudantes em situação de vulnerabilidade, inclusive da rede privada beneficiários de bolsas, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641333"
+    },
+    {
+      "id": 2641334,
+      "tipo": "PL",
+      "numero": 4639,
+      "ano": 2026,
+      "ementa": "Estabelece parâmetros de tempo máximo razoável de acesso a serviços públicos essenciais, determinando que a organização da prestação de serviços públicos considere limites de deslocamento territorial da população.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641334"
+    },
+    {
+      "id": 2641335,
+      "tipo": "PL",
+      "numero": 4640,
+      "ano": 2026,
+      "ementa": "Dispõe sobre percentuais mínimos de cacau para produtos comercializados como chocolate, estabelece critérios de denominação comercial, prevê mecanismos excepcionais de ajuste em situações de escassez e define diretrizes de proteção ao mercado interno e ao consumidor.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641335"
+    },
+    {
+      "id": 2641336,
+      "tipo": "PL",
+      "numero": 4641,
+      "ano": 2026,
+      "ementa": "Institui o Plano Amazônico de Redução e Resposta a Endemias na Amazônia Legal, com prioridade para o Estado de Roraima, estabelece metas nacionais de redução da incidência de malária, mecanismos automáticos de resposta epidemiológica, coordenação interfederativa e transparência, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641336"
+    },
+    {
+      "id": 2641337,
+      "tipo": "PL",
+      "numero": 4642,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Certificação por Competência para Progressão Educacional, em caráter experimental, aplicável inicialmente ao ingresso em instituições federais de ensino superior, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641337"
+    },
+    {
+      "id": 2641338,
+      "tipo": "PL",
+      "numero": 4643,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Conectividade Aérea da Amazônia Legal, estabelece mecanismos de compensação dos impactos da transição tributária sobre o transporte aéreo regional, cria instrumentos de equalização tarifária, garantia de oferta e incentivo à operação de rotas estratégicas, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641338"
+    },
+    {
+      "id": 2641339,
+      "tipo": "PL",
+      "numero": 4644,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Equalização do Custo dos Combustíveis em Áreas Remotas, cria mecanismo federal de compensação logística para combustíveis destinados ao consumo final em regiões de elevado custo estrutural de abastecimento, estabelece diretrizes de repasse ao consumidor e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641339"
+    },
+    {
+      "id": 2641340,
+      "tipo": "PL",
+      "numero": 4645,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Execução Territorial da Saúde Mental, estabelece parâmetros mínimos de capacidade instalada, indicadores de desempenho, transparência da fila de regulação e diretrizes de teleassistência para regiões de difícil acesso, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641340"
+    },
+    {
+      "id": 2641341,
+      "tipo": "PL",
+      "numero": 4646,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Presença Educativa em Grandes Eventos de Interesse Público, para promover a difusão de campanhas de prevenção, cidadania e interesse social em eventos públicos e privados de grande circulação.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641341"
+    },
+    {
+      "id": 2641342,
+      "tipo": "PL",
+      "numero": 4647,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes para priorização de veículos movidos a energia renovável nas contratações públicas e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641342"
+    },
+    {
+      "id": 2641343,
+      "tipo": "PL",
+      "numero": 4648,
+      "ano": 2026,
+      "ementa": "Garante ao cidadão o direito à privacidade no atendimento em serviços públicos e em serviços de interesse público, assegurando condições mínimas de confidencialidade em atendimentos que envolvam informações pessoais sensíveis ou protegidas por sigilo legal.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641343"
+    },
+    {
+      "id": 2641344,
+      "tipo": "PL",
+      "numero": 4649,
+      "ano": 2026,
+      "ementa": "Institui o Programa Crédito Bicicleta Brasil, destinado a ampliar o acesso à bicicleta como meio de transporte, por meio de mecanismos facilitados de financiamento, incentivo à mobilidade ativa e promoção da descarbonização urbana.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641344"
+    },
+    {
+      "id": 2641345,
+      "tipo": "PL",
+      "numero": 4650,
+      "ano": 2026,
+      "ementa": "Institui o Programa Empresa Amiga da Primeira Infância, estabelece incentivo fiscal à oferta e ao custeio de creche e educação infantil para filhos de trabalhadores, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641345"
+    },
+    {
+      "id": 2641346,
+      "tipo": "PL",
+      "numero": 4651,
+      "ano": 2026,
+      "ementa": "Institui o Programa Medicamento Contínuo Garantido ao Idoso – PMCGI, como instrumento de organização, monitoramento e garantia de continuidade do fornecimento de medicamentos no âmbito do Sistema Único de Saúde (SUS), sem criação de novo benefício assistencial.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641346"
+    },
+    {
+      "id": 2641347,
+      "tipo": "PL",
+      "numero": 4652,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Compras Públicas de Pequeno Porte – PNCP PP, com o objetivo de promover o desenvolvimento econômico local por meio da ampliação da participação de microempreendedores, microempresas e pequenos produtores nas contratações públicas, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641347"
+    },
+    {
+      "id": 2641348,
+      "tipo": "PL",
+      "numero": 4653,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Estado Itinerante, destinado a ampliar o acesso da população a serviços públicos essenciais por meio de unidades móveis, atendimentos itinerantes e ações periódicas em territórios com dificuldades de acesso.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641348"
+    },
+    {
+      "id": 2641349,
+      "tipo": "PL",
+      "numero": 4654,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Estímulo ao Consumo Local Sazonal – PRONACOLS, com a concessão de incentivo ao consumo em estabelecimentos locais durante períodos de maior demanda econômica, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641349"
+    },
+    {
+      "id": 2641350,
+      "tipo": "PL",
+      "numero": 4655,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Produção Sazonal e Economia Local – PRONAPSEL, destinado a fomentar a produção local de bens e serviços em períodos de maior consumo ao longo do calendário nacional, promovendo geração de renda, inclusão produtiva e desenvolvimento econômico regional, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641350"
+    },
+    {
+      "id": 2641351,
+      "tipo": "PL",
+      "numero": 4656,
+      "ano": 2026,
+      "ementa": "Institui o Programa Páscoa Digna da Criança, destinado à promoção de ações de segurança alimentar, inclusão social e bem estar de crianças em situação de vulnerabilidade, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641351"
+    },
+    {
+      "id": 2641352,
+      "tipo": "PL",
+      "numero": 4657,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição de aplicação de penalidades ao cidadão por erro formal sanável, quando ausente má-fé, no âmbito da prestação de serviços públicos e de serviços públicos delegados.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641352"
+    },
+    {
+      "id": 2641353,
+      "tipo": "PL",
+      "numero": 4658,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição de atendimento desumanizado, caracterizado por tratamento frio, mecânico, desrespeitoso ou indiferente ao cidadão, na prestação de serviços públicos e de serviços públicos delegados, e estabelece deveres, parâmetros mínimos de conduta e consequências administrativas.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641353"
+    },
+    {
+      "id": 2641354,
+      "tipo": "PL",
+      "numero": 4659,
+      "ano": 2026,
+      "ementa": "Altera a legislação do imposto sobre a renda da pessoa física para permitir a dedução de despesas com aquisição de livros universitários constantes de bibliografia acadêmica do ensino superior.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641354"
+    },
+    {
+      "id": 2641355,
+      "tipo": "PL",
+      "numero": 4660,
+      "ano": 2026,
+      "ementa": "Estabelece o princípio da distância justa no acesso a serviços públicos essenciais, determinando que a Administração Pública considere limites razoáveis de deslocamento territorial e adote soluções alternativas quando houver barreiras geográficas significativas.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641355"
+    },
+    {
+      "id": 2641356,
+      "tipo": "PL",
+      "numero": 4661,
+      "ano": 2026,
+      "ementa": "Institui a Lei da Vedação ao Retrocesso na Proteção do Consumidor e estabelece princípios destinados a preservar o nível de proteção jurídica nas relações de consumo.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641356"
+    },
+    {
+      "id": 2641357,
+      "tipo": "PL",
+      "numero": 4662,
+      "ano": 2026,
+      "ementa": "Institui a Lei de Integridade do Sistema de Defesa do Consumidor, estabelece princípios para preservação da finalidade protetiva das normas de defesa do consumidor e dispõe sobre limites à mitigação de direitos do consumidor em relações de consumo.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641357"
+    },
+    {
+      "id": 2641358,
+      "tipo": "PL",
+      "numero": 4663,
+      "ano": 2026,
+      "ementa": "Institui a Lei do Empreendedor Livre, cria a figura do Empreendedor de Dignidade Econômica – EDE, assegura o direito ao exercício de atividade econômica de baixo risco sem exigência prévia de alvarás ou licenças até limite de renda mensal, estabelece a fiscalização orientadora e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641358"
+    },
+    {
+      "id": 2641359,
+      "tipo": "PL",
+      "numero": 4664,
+      "ano": 2026,
+      "ementa": "Institui a Lei Nacional do Vencimento Justo, assegurando ao consumidor prazo mínimo de 5 (cinco) dias úteis para pagamento sem incidência de multa, juros ou penalidades quando a cobrança for disponibilizada no vencimento ou após esta data.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641359"
+    },
+    {
+      "id": 2641360,
+      "tipo": "PL",
+      "numero": 4665,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.656, de 3 de junho de 1998, para reconhecer a cuidadora principal de pessoa com deficiência ou transtorno do neurodesenvolvimento como sujeito de direitos próprios e assegurar a cobertura de cuidado em saúde mental pelos planos privados de assistência à saúde, inclusive os de autogestão, e estabelece diretrizes no âmbito do Sistema Único de Saúde.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641360"
+    },
+    {
+      "id": 2641361,
+      "tipo": "PL",
+      "numero": 4666,
+      "ano": 2026,
+      "ementa": "Dispõe sobre medidas trabalhistas de apoio ao acolhimento inicial de animais resgatados em situação de risco ou extrema vulnerabilidade, assegurando ausência justificada ao trabalhador em hipóteses de guarda responsável inicial e atendimento emergencial.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641361"
+    },
+    {
+      "id": 2641362,
+      "tipo": "PL",
+      "numero": 4667,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a realização de mutirões periódicos de atendimentos terapêuticos multidisciplinares, multiprofissionais, interdisciplinares e intersetoriais, em espaços públicos, destinados a pessoas com deficiência, com vistas à promoção da inclusão, da reabilitação, da integração social e da redução de barreiras de acesso aos serviços públicos.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641362"
+    },
+    {
+      "id": 2641363,
+      "tipo": "PL",
+      "numero": 4668,
+      "ano": 2026,
+      "ementa": "Institui a Lei da Neutralidade Regulatória do Consumidor e estabelece diretrizes para assegurar que normas regulatórias e políticas econômicas não reduzam o nível de proteção jurídica nas relações de consumo.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641363"
+    },
+    {
+      "id": 2641364,
+      "tipo": "PL",
+      "numero": 4669,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigação de adoção de medidas corretivas sistêmicas quando constatada repetição relevante de falhas ou reclamações na prestação de serviços públicos e de serviços públicos delegados.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641364"
+    },
+    {
+      "id": 2641365,
+      "tipo": "PL",
+      "numero": 4670,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de disponibilização de canal digital mínimo para agendamento com data e horário definidos na prestação de serviços públicos essenciais.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641365"
+    },
+    {
+      "id": 2641366,
+      "tipo": "PL",
+      "numero": 4671,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de apresentação integral e prévia das exigências necessárias à prestação de serviços públicos e de serviços públicos delegados, vedando a formulação sucessiva e fragmentada de exigências ao cidadão.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641366"
+    },
+    {
+      "id": 2641367,
+      "tipo": "PL",
+      "numero": 4672,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de informação ao consumidor quando houver redução quantitativa ou qualitativa relevante na composição de produtos alimentícios comercializados sob mesma marca, apresentação ou identidade visual, e dá outras providências.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641367"
+    },
+    {
+      "id": 2641368,
+      "tipo": "PL",
+      "numero": 4673,
+      "ano": 2026,
+      "ementa": "Amplia as hipóteses de dedução no cálculo do imposto sobre a renda da pessoa física para incluir despesas com formação educacional complementar, qualificação profissional e aprendizagem de competências contemporâneas.",
+      "data": "2026-07-17T20:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641368"
+    },
+    {
+      "id": 2641369,
+      "tipo": "PL",
+      "numero": 4674,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Incentivo Econômico à Mobilidade Ativa, estabelece medidas para redução do custo de bicicletas e componentes essenciais, e cria diretrizes para estímulo ao uso da bicicleta como meio de transporte urbano e instrumento de descarbonização.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641369"
+    },
+    {
+      "id": 2641370,
+      "tipo": "PL",
+      "numero": 4675,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a utilização de indicadores oficiais de congestionamento e litigiosidade judicial como evidência institucional para a formulação, revisão e priorização de políticas públicas pelo Poder Executivo, e dá outras providências.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641370"
+    },
+    {
+      "id": 2641371,
+      "tipo": "PL",
+      "numero": 4676,
+      "ano": 2026,
+      "ementa": "Institui o Índice de Litigiosidade Territorial (ILT) como instrumento técnico de mensuração da litigiosidade reiterada associada à atuação estatal em determinado território, para fins de apoio federativo, reforço administrativo e revisão regulatória pelo Poder Executivo, e dá outras providências.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641371"
+    },
+    {
+      "id": 2641372,
+      "tipo": "PL",
+      "numero": 4677,
+      "ano": 2026,
+      "ementa": "Institui o Índice Federal de Demanda Flutuante (IFDF), aplicável a territórios de fronteira internacional sujeitos a migração recorrente, como instrumento técnico de correção federativa para fins de planejamento e suplementação financeira extraordinária da União.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641372"
+    },
+    {
+      "id": 2641373,
+      "tipo": "PL",
+      "numero": 4678,
+      "ano": 2026,
+      "ementa": "Institui o Índice Nacional de Custo de Vida da Pessoa Idosa – VIVA IDOSO (ICVI), com a finalidade de mensurar as despesas essenciais da população idosa no Brasil, e dá outras providências.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641373"
+    },
+    {
+      "id": 2641374,
+      "tipo": "PL",
+      "numero": 4679,
+      "ano": 2026,
+      "ementa": "Reconhece o ônus territorial como fator legítimo para formulação e execução de políticas públicas e institui o Índice Nacional de Ônus Territorial – INOT, destinado a identificar desigualdades decorrentes de distância geográfica, isolamento territorial e dificuldade de acesso a serviços essenciais.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641374"
+    },
+    {
+      "id": 2641375,
+      "tipo": "PL",
+      "numero": 4680,
+      "ano": 2026,
+      "ementa": "Institui o Índice Nacional de Vida Simples – INVS, destinado a avaliar, de forma objetiva e comparável, a qualidade, previsibilidade, clareza e resolutividade da prestação de serviços públicos.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641375"
+    },
+    {
+      "id": 2641376,
+      "tipo": "PL",
+      "numero": 4681,
+      "ano": 2026,
+      "ementa": "Institui a função social complementar das Estações Rádio Base em áreas prioritárias de interesse público, para ampliação do acesso local à conectividade digital em áreas urbanas vulneráveis, rurais e de fronteira.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641376"
+    },
+    {
+      "id": 2641377,
+      "tipo": "PL",
+      "numero": 4682,
+      "ano": 2026,
+      "ementa": "Institui o Programa Crédito Livro Universitário, destinado a ampliar o acesso de estudantes do ensino superior à aquisição de livros acadêmicos, técnicos e científicos em língua portuguesa ou estrangeira.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641377"
+    },
+    {
+      "id": 2641378,
+      "tipo": "PL",
+      "numero": 4683,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Prioridade Absoluta na Investigação e Julgamento de Crimes contra a Dignidade Sexual de Crianças e Adolescentes, estabelece prazos procedimentais prioritários, mecanismos de produção imediata de prova, responsabilização por atraso injustificado e dá outras providências.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641378"
+    },
+    {
+      "id": 2641379,
+      "tipo": "PL",
+      "numero": 4684,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito do cidadão ao aviso prévio razoável antes da produção de efeitos de novas regras, procedimentos ou exigências na prestação de serviços públicos e de serviços públicos delegados.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641379"
+    },
+    {
+      "id": 2641380,
+      "tipo": "PL",
+      "numero": 4685,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito do cidadão ao comprovante de tentativa de atendimento quando não for possível a prestação do serviço público ou de serviço público delegado, por motivo alheio à sua vontade.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641380"
+    },
+    {
+      "id": 2641381,
+      "tipo": "PL",
+      "numero": 4686,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes para a disponibilização de infraestrutura mínima de estacionamento seguro para bicicletas em estabelecimentos de grande circulação de público, como medida de incentivo à mobilidade ativa, acessibilidade urbana e proteção ao usuário de transporte não motorizado.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641381"
+    },
+    {
+      "id": 2641382,
+      "tipo": "PL",
+      "numero": 4687,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a aplicação de recursos de emendas parlamentares destinadas ao Sistema Único de Saúde para aquisição complementar e temporária de medicamentos no âmbito municipal, estabelece garantias procedimentais de transparência, motivação e reprogramação para superação de impedimentos técnicos e dá outras providências.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641382"
+    },
+    {
+      "id": 2641383,
+      "tipo": "PL",
+      "numero": 4688,
+      "ano": 2026,
+      "ementa": "Assegura aos entregadores em atividade profissional o direito de acesso gratuito à água potável, a instalações sanitárias e a condições mínimas de espera em estabelecimentos que utilizem regularmente serviços de entrega ou retirada de mercadorias.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641383"
+    },
+    {
+      "id": 2641384,
+      "tipo": "PL",
+      "numero": 4689,
+      "ano": 2026,
+      "ementa": "Institui o Estatuto da Vida Simples, estabelecendo princípios de clareza, respeito, previsibilidade e solução na atuação do poder público perante o cidadão.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641384"
+    },
+    {
+      "id": 2641385,
+      "tipo": "PL",
+      "numero": 4690,
+      "ano": 2026,
+      "ementa": "Institui o Estatuto do Atendimento Digno ao Cidadão, estabelecendo direitos mínimos, deveres de conduta, padrões de atendimento e mecanismos de correção na prestação de serviços públicos e de serviços públicos delegados.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641385"
+    },
+    {
+      "id": 2641386,
+      "tipo": "PL",
+      "numero": 4691,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Garantia de Exames Essenciais para Pessoas Idosas de Baixa Renda, com definição de rol mínimo obrigatório de exames periódicos, no âmbito do Sistema Único de Saúde (SUS).",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641386"
+    },
+    {
+      "id": 2641387,
+      "tipo": "PL",
+      "numero": 4692,
+      "ano": 2026,
+      "ementa": "Estabelece garantias ao cidadão quanto ao uso de sistemas automatizados pela Administração Pública, assegurando o direito de contestar dados utilizados em decisões automatizadas e vedando bloqueios administrativos automáticos permanentes sem revisão humana.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641387"
+    },
+    {
+      "id": 2641388,
+      "tipo": "PL",
+      "numero": 4693,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de identificação qualificada, selo de vendedor verificado, divulgação de reputação comercial e responsabilização de plataformas digitais em ofertas de produtos ou serviços realizadas em ambientes virtuais, e altera a Lei nº 8.078/1990.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641388"
+    },
+    {
+      "id": 2641389,
+      "tipo": "PL",
+      "numero": 4694,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Compensação Territorial de Mobilidade Essencial em Regiões de Vulnerabilidade Logística, cria o Programa de Compensação de Mobilidade Essencial da Região Norte – COMPENSA NORTE, e estabelece medidas temporárias de proteção econômica a famílias de baixa renda e trabalhadores autônomos em áreas de elevado custo estrutural de combustíveis.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641389"
+    },
+    {
+      "id": 2641390,
+      "tipo": "PL",
+      "numero": 4695,
+      "ano": 2026,
+      "ementa": "Proíbe a criação, solicitação, divulgação e facilitação de conteúdo sexual sintético não consentido com imagem de pessoa identificável, estabelece crimes, agravantes e deveres de prevenção e remoção aplicáveis a provedores de aplicações e serviços digitais, e dispõe sobre sanções administrativas e medidas de urgência.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641390"
+    },
+    {
+      "id": 2641391,
+      "tipo": "PL",
+      "numero": 4696,
+      "ano": 2026,
+      "ementa": "Reconhece dados estatísticos e indicadores produzidos pelo Poder Judiciário como evidência oficial de falhas sistêmicas de políticas públicas, para fins de formulação, avaliação, revisão e priorização de ações pelo Poder Executivo, e dá outras providências.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641391"
+    },
+    {
+      "id": 2641392,
+      "tipo": "PL",
+      "numero": 4697,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição de dispensar o cidadão sem justificativa formal e sem nova data definida para continuidade do atendimento prestado por órgãos públicos e concessionárias de serviços públicos.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641392"
+    },
+    {
+      "id": 2641393,
+      "tipo": "PL",
+      "numero": 4698,
+      "ano": 2026,
+      "ementa": "Garante o direito à adaptação escolar protegida da criança e do adolescente em situação de adoção, assegurando medidas de acolhimento institucional no período inicial de integração ao ambiente escolar.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641393"
+    },
+    {
+      "id": 2641394,
+      "tipo": "PL",
+      "numero": 4699,
+      "ano": 2026,
+      "ementa": "Institui o direito à estrutura mínima digna em espaços públicos de espera para acesso a serviços públicos essenciais, como medida de adaptação às mudanças climáticas e proteção à saúde pública.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641394"
+    },
+    {
+      "id": 2641395,
+      "tipo": "PL",
+      "numero": 4700,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito à prioridade automática no reagendamento de atendimento ao cidadão quando a prestação de serviço público ou de serviço público delegado for frustrada por falha administrativa, técnica ou operacional não imputável ao usuário.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641395"
+    },
+    {
+      "id": 2641396,
+      "tipo": "PL",
+      "numero": 4701,
+      "ano": 2026,
+      "ementa": "Assegura ao cidadão o direito à revisão humana e à explicação mínima de decisões administrativas tomadas por sistemas automatizados ou protocolos padronizados.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641396"
+    },
+    {
+      "id": 2641397,
+      "tipo": "PL",
+      "numero": 4702,
+      "ano": 2026,
+      "ementa": "Institui o direito ao acesso mínimo essencial à energia elétrica para a pessoa idosa em situação de vulnerabilidade, mediante a criação da Faixa de Consumo Vital da Pessoa Idosa, e dá outras providências.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641397"
+    },
+    {
+      "id": 2641398,
+      "tipo": "PL",
+      "numero": 4703,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito do cidadão de estar acompanhado por pessoa de sua confiança em atendimentos públicos sensíveis, asseguradas as garantias de sigilo e proteção de dados.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641398"
+    },
+    {
+      "id": 2641399,
+      "tipo": "PL",
+      "numero": 4704,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Produção Energética Renovável da Amazônia Legal – AMAZÔNIA COMBUSTÍVEL DO FUTURO, cria o Sistema Nacional de Competitividade dos Combustíveis Renováveis Estratégicos da Amazônia Legal, estabelece instrumentos de incentivo à produção, agroindustrialização, certificação, comercialização, financiamento, garantia de crédito, compras públicas e acesso a mercados, e dá outras providências.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641399"
+    },
+    {
+      "id": 2641400,
+      "tipo": "PL",
+      "numero": 4705,
+      "ano": 2026,
+      "ementa": "Institui o Direito ao Amparo Emergencial Integral às Famílias Atingidas por Desastres, estabelece obrigações imediatas do Estado, fixa prazos máximos de resposta, assegura prioridade processual às ações indenizatórias e dá outras providências.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641400"
+    },
+    {
+      "id": 2641401,
+      "tipo": "PL",
+      "numero": 4706,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de produção, pelo Poder Executivo, de relatórios cidadãos, mapas de impacto e rankings temáticos de políticas públicas, com base em evidências institucionais oficiais, e dá outras providências.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641401"
+    },
+    {
+      "id": 2641402,
+      "tipo": "PL",
+      "numero": 4707,
+      "ano": 2026,
+      "ementa": "Institui assistência financeira suplementar da União destinada à implementação progressiva dos serviços de psicologia e serviço social nas redes públicas de educação básica.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641402"
+    },
+    {
+      "id": 2641403,
+      "tipo": "PL",
+      "numero": 4708,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito ao reagendamento automático de atendimento quando o serviço público ou serviço público delegado for cancelado por iniciativa do órgão ou da concessionária, vedada a exigência de novo pedido pelo cidadão.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641403"
+    },
+    {
+      "id": 2641404,
+      "tipo": "PL",
+      "numero": 4709,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito do cidadão à escuta mínima qualificada, vedada a negativa, o encaminhamento ou a conclusão de demandas sem consideração efetiva da manifestação do usuário na prestação de serviços públicos e de serviços públicos delegados.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641404"
+    },
+    {
+      "id": 2641405,
+      "tipo": "PL",
+      "numero": 4710,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito do cidadão à explicação clara, objetiva e compreensível, vedado o uso de linguagem excessivamente técnica, evasiva ou inacessível nas decisões, orientações e respostas prestadas por órgãos públicos e concessionárias de serviços públicos.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641405"
+    },
+    {
+      "id": 2641406,
+      "tipo": "PL",
+      "numero": 4711,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito do cidadão à identificação clara do responsável pelo atendimento, análise ou encaminhamento de sua demanda, na prestação de serviços públicos e de serviços públicos delegados.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641406"
+    },
+    {
+      "id": 2641407,
+      "tipo": "PL",
+      "numero": 4712,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito do cidadão à informação clara e realista sobre os prazos para prestação de serviços públicos e de serviços públicos delegados, vedada a indicação de prazos genéricos, imprecisos ou inexequíveis.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641407"
+    },
+    {
+      "id": 2641408,
+      "tipo": "PL",
+      "numero": 4713,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito do cidadão à informação e à escolha do procedimento mais simples, sempre que houver mais de uma forma válida de prestação de serviços públicos ou de serviços públicos delegados.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641408"
+    },
+    {
+      "id": 2641409,
+      "tipo": "PL",
+      "numero": 4714,
+      "ano": 2026,
+      "ementa": "Garante ao cidadão mecanismo rápido de mediação administrativa para solução de conflitos com o poder público.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641409"
+    },
+    {
+      "id": 2641410,
+      "tipo": "PL",
+      "numero": 4715,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito do cidadão a prazo de adaptação sem aplicação de penalidades quando houver mudança de procedimentos, exigências ou rotinas na prestação de serviços públicos e de serviços públicos delegados.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641410"
+    },
+    {
+      "id": 2641411,
+      "tipo": "PL",
+      "numero": 4716,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito do cidadão à previsibilidade mínima quanto às etapas, prazos e procedimentos na prestação de serviços públicos e de serviços públicos delegados.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641411"
+    },
+    {
+      "id": 2641412,
+      "tipo": "PL",
+      "numero": 4717,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito do cidadão à resposta conclusiva, vedadas respostas evasivas, genéricas ou meramente formais nas demandas dirigidas a órgãos públicos e a concessionárias de serviços públicos.",
+      "data": "2026-07-17T20:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641412"
+    },
+    {
+      "id": 2641413,
+      "tipo": "PL",
+      "numero": 4718,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.947, de 16 de junho de 2009, para instituir mecanismos permanentes de governança, rastreabilidade da execução, monitoramento, avaliação de desempenho, gestão baseada em evidências e melhoria contínua do Programa Nacional de Alimentação Escolar – PNAE.",
+      "data": "2026-07-17T20:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641413"
+    },
+    {
+      "id": 2641414,
+      "tipo": "PL",
+      "numero": 4719,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.880, de 9 de junho de 2004, para instituir mecanismos permanentes de governança, monitoramento, rastreabilidade da execução, gestão baseada em evidências e avaliação da eficiência do Programa Nacional de Apoio ao Transporte do Escolar – PNATE.",
+      "data": "2026-07-17T20:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641414"
+    },
+    {
+      "id": 2641446,
+      "tipo": "PL",
+      "numero": 4742,
+      "ano": 2026,
+      "ementa": "Institui a Lei da Vedação à Publicidade Oculta em Plataformas de Streaming, estabelece normas de transparência publicitária em conteúdos audiovisuais e serviços digitais por assinatura, e dá outras providências.",
+      "data": "2026-07-21T12:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641446"
     }
   ],
   "discursos": [],

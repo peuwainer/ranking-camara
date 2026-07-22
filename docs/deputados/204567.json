@@ -4,9 +4,19 @@
   "partido": "PSD",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204567.jpg",
-  "score": 11.86,
-  "rank": 483,
-  "proposicoes": [],
+  "score": 11.93,
+  "rank": 479,
+  "proposicoes": [
+    {
+      "id": 2641416,
+      "tipo": "PL",
+      "numero": 4721,
+      "ano": 2026,
+      "ementa": "Consolida, em lei federal o Programa Nacional de Certificação e Rastreabilidade da Pesca Artesanal Sustentável e cria o Selo Nacional da Pesca Artesanal Brasileira.",
+      "data": "2026-07-20T12:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641416"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

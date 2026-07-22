@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236375.jpg",
-  "score": 19.87,
-  "rank": 368,
+  "score": 19.93,
+  "rank": 366,
   "proposicoes": [
     {
       "id": 2639858,
@@ -24,6 +24,15 @@
       "ementa": "Confere à cidade de Santa Maria Madalena, no Estado do Rio de Janeiro, o título de Capital Nacional do Astroturismo e a declara \"Cidade das Estrelas\" no âmbito do território nacional.",
       "data": "2026-07-16T15:39",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640228"
+    },
+    {
+      "id": 2641425,
+      "tipo": "PL",
+      "numero": 4730,
+      "ano": 2026,
+      "ementa": "Institui o Programa Envelhecer nos Territórios e o Programa Viva Mais Cidadania, voltados à promoção e proteção dos direitos humanos das pessoas idosas, e dá outras providências.",
+      "data": "2026-07-20T14:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641425"
     }
   ],
   "discursos": [

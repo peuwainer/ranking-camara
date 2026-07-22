@@ -4,8 +4,8 @@
   "partido": "MISSÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204536.jpg",
-  "score": 31.65,
-  "rank": 40,
+  "score": 31.78,
+  "rank": 41,
   "proposicoes": [
     {
       "id": 2635116,
@@ -60,6 +60,24 @@
       "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para aumentar as penas de dano e dano qualificado.",
       "data": "2026-07-09T20:17",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638852"
+    },
+    {
+      "id": 2641445,
+      "tipo": "PRC",
+      "numero": 40,
+      "ano": 2026,
+      "ementa": "Acrescenta o art. 227-B ao Regimento Interno da Câmara dos Deputados para estabelecer o efeito administrativo de natureza pecuniária decorrente da ausência injustificada de Deputado nas sessões deliberativas.",
+      "data": "2026-07-21T12:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641445"
+    },
+    {
+      "id": 2641447,
+      "tipo": "PL",
+      "numero": 4743,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para excluir do texto legal a causa de isenção de pena para furtos contra ascendentes, descendentes e irmãos.",
+      "data": "2026-07-21T12:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641447"
     }
   ],
   "discursos": [
