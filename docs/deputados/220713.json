@@ -4,9 +4,46 @@
   "partido": "MDB",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220713.jpg",
-  "score": 11.86,
-  "rank": 484,
-  "proposicoes": [],
+  "score": 12.12,
+  "rank": 478,
+  "proposicoes": [
+    {
+      "id": 2641464,
+      "tipo": "PL",
+      "numero": 4754,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 7.716, de 5 de janeiro de 1989, para tipificar e agravar a punição de atos de preconceito, discriminação e violência motivados pela condição de vulnerabilidade econômica ou pela situação de rua da vítima, e dá outras providências.",
+      "data": "2026-07-22T10:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641464"
+    },
+    {
+      "id": 2641465,
+      "tipo": "PL",
+      "numero": 4755,
+      "ano": 2026,
+      "ementa": "Institui o Sistema Nacional de Monitoramento Judicial do Feminicídio, cria mecanismos de reavaliação obrigatória de risco em casos de descumprimento de medida protetiva de urgência e estabelece medidas de transparência e integração de dados entre o Poder Judiciário, as polícias e os órgãos de segurança pública, com vistas à redução dos índices de feminicídio no Brasil.",
+      "data": "2026-07-22T10:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641465"
+    },
+    {
+      "id": 2641466,
+      "tipo": "PL",
+      "numero": 4756,
+      "ano": 2026,
+      "ementa": "Institui medidas complementares de proteção, atendimento prioritário e inclusão social das pessoas com deficiência, com disposições específicas voltadas às pessoas com Transtorno do Espectro Autista (TEA) e às pessoas com Síndrome de Down, e dá outras providências.",
+      "data": "2026-07-22T10:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641466"
+    },
+    {
+      "id": 2641467,
+      "tipo": "PL",
+      "numero": 4757,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Apoio e Valorização do Cuidador Familiar, cria a Bolsa Cuidador para pessoas de baixa renda que se dedicam ao cuidado de dependentes, idosos ou pessoas com deficiência, assegura reconhecimento previdenciário do tempo de cuidado e dá outras providências.",
+      "data": "2026-07-22T11:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641467"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

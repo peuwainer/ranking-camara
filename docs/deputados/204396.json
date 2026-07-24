@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204396.jpg",
-  "score": 23.76,
-  "rank": 187,
-  "proposicoes": [],
+  "score": 23.82,
+  "rank": 178,
+  "proposicoes": [
+    {
+      "id": 2641560,
+      "tipo": "PL",
+      "numero": 4770,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996, que dispõe sobre as restrições ao uso e à propaganda de produtos fumígeros, bebidas alcoólicas, medicamentos, terapias e defensivos agrícolas, a fim de proibir a propaganda de apostas de quota fixa (bets), no formato das proibições impostas às propagandas de cigarro.",
+      "data": "2026-07-23T13:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641560"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

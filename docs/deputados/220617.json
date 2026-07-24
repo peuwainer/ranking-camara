@@ -4,9 +4,19 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220617.jpg",
-  "score": 18.56,
-  "rank": 403,
-  "proposicoes": [],
+  "score": 18.62,
+  "rank": 400,
+  "proposicoes": [
+    {
+      "id": 2641468,
+      "tipo": "PL",
+      "numero": 4758,
+      "ano": 2026,
+      "ementa": "Altera o art. 30 da Lei nº 13.756, de 12 de dezembro de 2018, para destinar parcela do produto da arrecadação da loteria de apostas de quota fixa ao financiamento de ações e serviços de saúde prestados pelas Associações de Pais e Amigos dos Excepcionais (APAEs) e pela rede pública especializada no atendimento às pessoas com Transtorno do Espectro Autista (TEA).",
+      "data": "2026-07-22T11:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641468"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

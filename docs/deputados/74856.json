@@ -4,18 +4,9 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
-  "score": 48.07,
+  "score": 48.39,
   "rank": 3,
   "proposicoes": [
-    {
-      "id": 2634640,
-      "tipo": "PL",
-      "numero": 3250,
-      "ano": 2026,
-      "ementa": "Institui a Rede Nacional de Proteção e Defesa dos Direitos Humanos das Pessoas Idosas.",
-      "data": "2026-06-22T15:03",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634640"
-    },
     {
       "id": 2635052,
       "tipo": "SBT",
@@ -30,7 +21,7 @@
       "tipo": "PRC",
       "numero": 37,
       "ano": 2026,
-      "ementa": "Altera a Resolução nº 17, de 1989, da Câmara dos Deputados, que aprova o Regimento Interno da Câmara dos Deputados, para estabelecer que o apoiamento necessário à apresentação da proposta de emenda à Constituição se dá sem compromisso com o mérito da proposta.",
+      "ementa": "Altera a Resolução nº 17, de 1989, da Câmara dos Deputados, que aprova o Regimento Interno da Câmara dos Deputados, para estabelecer que o apoiamento necessário à apresentação da proposta de emenda à Constituição ou das suas respectivas emendas se dá sem compromisso com o mérito da proposta.",
       "data": "2026-06-25T10:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635172"
     },
@@ -240,6 +231,60 @@
       "ementa": "Institui o Programa Nacional de Desenvolvimento Sustentável da Aquicultura (ProAqui).",
       "data": "2026-07-21T15:24",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641461"
+    },
+    {
+      "id": 2641483,
+      "tipo": "PL",
+      "numero": 4763,
+      "ano": 2026,
+      "ementa": "Altera os arts. 217-A, 218 e 218-A do Decreto-Lei n° 2.848, de 7 de dezembro de 1940 – Código Penal, para estender os efeitos da norma à vítima com idade igual a 14 (quatorze) anos.",
+      "data": "2026-07-22T13:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641483"
+    },
+    {
+      "id": 2641484,
+      "tipo": "PL",
+      "numero": 4764,
+      "ano": 2026,
+      "ementa": "Altera o art. 1.336 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para disciplinar o ressarcimento de honorários advocatícios decorrentes da cobrança extrajudicial de contribuições condominiais inadimplidas.",
+      "data": "2026-07-22T13:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641484"
+    },
+    {
+      "id": 2641536,
+      "tipo": "PL",
+      "numero": 4766,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.155, de 4 de agosto de 2015, que institui o Programa de Modernização da Gestão e de Responsabilidade Fiscal do Futebol Brasileiro - PROFUT, para vedar a publicidade e o patrocínio de conteúdo sexual, de erotização ou sexualmente explícito às entidades desportivas que aderirem ao PROFUT ou que utilizem estádio público mediante concessão.",
+      "data": "2026-07-22T16:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641536"
+    },
+    {
+      "id": 2641559,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei 8.069, de 13 de julho de 1990, dispondo sobre a possibilidade de utilização do fundo da Criança e Adolescente para custeio de projetos para pessoas com espectro autista e com doenças raras.",
+      "data": "2026-07-23T13:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641559"
+    },
+    {
+      "id": 2641565,
+      "tipo": "PL",
+      "numero": 4771,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.394, de 29 de novembro de 1985, que regula o exercício da profissão de Técnico em Radiologia, para assegurar condições dignas de repouso aos profissionais de radiologia durante a jornada de trabalho.",
+      "data": "2026-07-23T13:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641565"
+    },
+    {
+      "id": 2641575,
+      "tipo": "PL",
+      "numero": 4779,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes para a política de segurança alimentar e nutricional e altera a Lei nº 11.346, de 15 de setembro de 2006, para incluir o Programa Nacional \"Prato Feito\" no âmbito do Sistema Nacional de Segurança Alimentar e Nutricional - SISAN.",
+      "data": "2026-07-23T17:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641575"
     }
   ],
   "discursos": [

@@ -4,27 +4,9 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 27.92,
+  "score": 27.85,
   "rank": 73,
   "proposicoes": [
-    {
-      "id": 2634555,
-      "tipo": "SBT",
-      "numero": 3,
-      "ano": 0,
-      "ementa": "Dispõe sobre o salário profissional nacional dos Condutores de Ambulância.",
-      "data": "2026-06-22T11:01",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634555"
-    },
-    {
-      "id": 2634712,
-      "tipo": "PL",
-      "numero": 3260,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.029, de 13 de abril de 1995, e a Consolidação das Leis do Trabalho – CLT, para assegurar que a caracterização de discriminação nas relações de trabalho dependa da demonstração de conduta discriminatória efetiva, vedando a responsabilização baseada exclusivamente em critérios estatísticos ou na composição demográfica dos quadros funcionais.",
-      "data": "2026-06-23T10:03",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634712"
-    },
     {
       "id": 2634990,
       "tipo": "SBT",
@@ -150,6 +132,15 @@
       "ementa": "Altera a Lei nº 13.303, de 30 de junho de 2016 (Lei das Estatais), para determinar que sejam especificados pelo órgão supervisor da empresa estatal os objetivos de políticas públicas compatíveis com o imperativo de segurança nacional ou o relevante interesse coletivo que justifica a manutenção de suas atividades.",
       "data": "2026-07-14T15:40",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639466"
+    },
+    {
+      "id": 2641463,
+      "tipo": "PL",
+      "numero": 4753,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a cooperação interinstitucional, as medidas cautelares e o enfrentamento a fraudes financeiras.",
+      "data": "2026-07-22T09:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641463"
     }
   ],
   "discursos": [],

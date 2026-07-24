@@ -4,45 +4,9 @@
   "partido": "MDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160598.jpg",
-  "score": 24.03,
-  "rank": 172,
+  "score": 23.97,
+  "rank": 171,
   "proposicoes": [
-    {
-      "id": 2634628,
-      "tipo": "PL",
-      "numero": 3245,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a proteção do consumidor vulnerável em ambientes digitais de apostas de quota fixa, estabelece deveres de transparência, mecanismos de proteção ao usuário e veda práticas de indução ao comportamento compulsivo.",
-      "data": "2026-06-22T14:11",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634628"
-    },
-    {
-      "id": 2634630,
-      "tipo": "PL",
-      "numero": 3247,
-      "ano": 2026,
-      "ementa": "Institui a política nacional para a prevenção, identificação e atenção ao transtorno do jogo no âmbito do Sistema Único de Saúde (SUS).",
-      "data": "2026-06-22T14:14",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634630"
-    },
-    {
-      "id": 2634633,
-      "tipo": "PL",
-      "numero": 3248,
-      "ano": 2026,
-      "ementa": "Estabelece medidas de proteção da renda familiar e de prevenção do superendividamento relacionado à utilização de plataformas de apostas de quota fixa.",
-      "data": "2026-06-22T14:17",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634633"
-    },
-    {
-      "id": 2634848,
-      "tipo": "PL",
-      "numero": 3268,
-      "ano": 2026,
-      "ementa": "Altera as Leis nº 13.643, de 3 de abril de 2018, e nº 13.869, de 5 de setembro de 2019, para dispor sobre o exercício das atividades de estética e cosmetologia, assegurar condições adequadas de atuação profissional e coibir restrições indevidas ao exercício da profissão.",
-      "data": "2026-06-23T15:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2634848"
-    },
     {
       "id": 2635019,
       "tipo": "SBT",
@@ -105,6 +69,33 @@
       "ementa": "Dispõe sobre deveres de transparência e responsabilidade na divulgação remunerada de apostas por influenciadores digitais.",
       "data": "2026-07-15T20:59",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640016"
+    },
+    {
+      "id": 2641571,
+      "tipo": "PL",
+      "numero": 4775,
+      "ano": 2026,
+      "ementa": "Institui o Mês Nacional de Conscientização das Doenças da Tireoide — Maio Azul.",
+      "data": "2026-07-23T16:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641571"
+    },
+    {
+      "id": 2641572,
+      "tipo": "PL",
+      "numero": 4776,
+      "ano": 2026,
+      "ementa": "Dispõe sobre as diretrizes nacionais para a atenção integral às doenças tireoidianas no âmbito do Sistema Único de Saúde (SUS).",
+      "data": "2026-07-23T16:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641572"
+    },
+    {
+      "id": 2641573,
+      "tipo": "PL",
+      "numero": 4777,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Rastreamento Organizado e Atenção ao Câncer de Tireoide no âmbito do Sistema Único de Saúde (SUS).",
+      "data": "2026-07-23T16:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641573"
     }
   ],
   "discursos": [],

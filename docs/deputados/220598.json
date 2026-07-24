@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220598.jpg",
-  "score": 33.49,
-  "rank": 25,
+  "score": 34.11,
+  "rank": 21,
   "proposicoes": [
     {
       "id": 2635687,
@@ -275,6 +275,12 @@
       "sigla": "CCJC",
       "cargo": "Suplente",
       "desde": "2026-07-15T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial para debater e acompanhar a tramitação do Projeto de Lei nº 657, de 2025, que altera que altera a Lei nº 9.394, de 20 de dezembro de 1996, de diretrizes e bases da educação nacional (LDB), para dispensar a existência de diagnóstico clínico ou apresentação de laudo médico para educação especial",
+      "sigla": "SUBPL657",
+      "cargo": "Titular",
+      "desde": "2026-07-23T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220598/votacoes-nominais-plenario/2026"

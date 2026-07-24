@@ -4,9 +4,28 @@
   "partido": "UNIÃO",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160632.jpg",
-  "score": 21.61,
-  "rank": 308,
-  "proposicoes": [],
+  "score": 21.74,
+  "rank": 302,
+  "proposicoes": [
+    {
+      "id": 2641568,
+      "tipo": "PL",
+      "numero": 4774,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.146 de 6 de julho de 2015 - Estatuto da Pessoa com Deficiência, para assegurar às pessoas com deficiência o acesso adequado a serviços de transporte individual privado remunerado de passageiros, prestado por meio de plataforma digital.",
+      "data": "2026-07-23T15:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641568"
+    },
+    {
+      "id": 2641574,
+      "tipo": "PL",
+      "numero": 4778,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.628, de 20 de julho de 2023, para dispor sobre a correção do valor máximo para aquisições de alimentos a ser observada anualmente no âmbito do Programa de Aquisição de Alimentos (PAA).",
+      "data": "2026-07-23T16:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641574"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-07-07T14:52",
