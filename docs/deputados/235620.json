@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/235620.jpg",
-  "score": 21.75,
-  "rank": 301,
-  "proposicoes": [],
+  "score": 21.81,
+  "rank": 299,
+  "proposicoes": [
+    {
+      "id": 2641591,
+      "tipo": "PL",
+      "numero": 4789,
+      "ano": 2026,
+      "ementa": "Institui o piso salarial profissional nacional dos motoristas profissionais empregados no transporte rodoviário de cargas que atuem em operações de longa distância",
+      "data": "2026-07-24T13:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641591"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-07-15T16:08",

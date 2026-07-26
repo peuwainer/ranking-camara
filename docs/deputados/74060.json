@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74060.jpg",
-  "score": 26.24,
-  "rank": 112,
+  "score": 26.37,
+  "rank": 105,
   "proposicoes": [
     {
       "id": 2637237,
@@ -42,6 +42,24 @@
       "ementa": "Regulamenta o uso do Selo Verde Cacau Cabruca e do Selo Verde Cacau Amazônia nos produtos finais destinados ao consumidor; concede incentivo fiscal de PIS/Cofins a fabricantes que utilizem cacau rastreado e certificado; institui o Cadastro Nacional do Cacau Rastreável; e dá outras providências.",
       "data": "2026-07-13T16:20",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639257"
+    },
+    {
+      "id": 2641598,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a certificação obrigatória para a comercialização de produtos eletrônicos recondicionados no País.",
+      "data": "2026-07-24T18:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641598"
+    },
+    {
+      "id": 2641599,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Institui a obrigatoriedade de registro de CPF por aposta, pagamento automático via PIX, registro público em blockchain (timechain), e veda valor mínimo de aposta em plataformas eletrônicas, visando transparência, segurança e proteção do consumidor.",
+      "data": "2026-07-24T18:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641599"
     }
   ],
   "discursos": [

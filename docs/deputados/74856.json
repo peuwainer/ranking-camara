@@ -4,27 +4,9 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
-  "score": 48.39,
+  "score": 48.58,
   "rank": 3,
   "proposicoes": [
-    {
-      "id": 2635052,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 10.406, de 10 de janeiro de 2002, Código Civil e a Lei n º 13.105, de 16 de março de 2015, Código de Processo Civil, no tocante à curatela.",
-      "data": "2026-06-24T11:45",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635052"
-    },
-    {
-      "id": 2635172,
-      "tipo": "PRC",
-      "numero": 37,
-      "ano": 2026,
-      "ementa": "Altera a Resolução nº 17, de 1989, da Câmara dos Deputados, que aprova o Regimento Interno da Câmara dos Deputados, para estabelecer que o apoiamento necessário à apresentação da proposta de emenda à Constituição ou das suas respectivas emendas se dá sem compromisso com o mérito da proposta.",
-      "data": "2026-06-25T10:15",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635172"
-    },
     {
       "id": 2635380,
       "tipo": "PL",
@@ -285,6 +267,51 @@
       "ementa": "Estabelece diretrizes para a política de segurança alimentar e nutricional e altera a Lei nº 11.346, de 15 de setembro de 2006, para incluir o Programa Nacional \"Prato Feito\" no âmbito do Sistema Nacional de Segurança Alimentar e Nutricional - SISAN.",
       "data": "2026-07-23T17:14",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641575"
+    },
+    {
+      "id": 2641584,
+      "tipo": "PL",
+      "numero": 4786,
+      "ano": 2026,
+      "ementa": "Cria o título \"Cidade Amiga da Mulher\" a ser conferido aos Municípios que se destacarem na adoção de políticas públicas voltadas à promoção da equidade de gênero, à saúde, à segurança e à autonomia das mulheres.",
+      "data": "2026-07-24T13:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641584"
+    },
+    {
+      "id": 2641585,
+      "tipo": "PL",
+      "numero": 4787,
+      "ano": 2026,
+      "ementa": "Cria o título \"Cidade Amiga da Primeira Infância\" a ser conferido aos Municípios que se destacarem na adoção de políticas públicas voltadas ao desenvolvimento integral de crianças de 0 a 6 anos",
+      "data": "2026-07-24T13:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641585"
+    },
+    {
+      "id": 2641589,
+      "tipo": "PL",
+      "numero": 4788,
+      "ano": 2026,
+      "ementa": "Cria o título Cidade Amiga dos Animais a ser conferido aos Municípios que se destacarem na adoção de políticas públicas de proteção, saúde e bem-estar animal.",
+      "data": "2026-07-24T13:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641589"
+    },
+    {
+      "id": 2641592,
+      "tipo": "PL",
+      "numero": 4790,
+      "ano": 2026,
+      "ementa": "Cria o título Cidade Amiga da Pessoa com Deficiência a ser conferido aos Municípios que se destacarem na adoção de políticas públicas de acessibilidade, inclusão e autonomia.",
+      "data": "2026-07-24T13:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641592"
+    },
+    {
+      "id": 2641593,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-07-24T16:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641593"
     }
   ],
   "discursos": [

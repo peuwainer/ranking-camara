@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220610.jpg",
-  "score": 20.29,
+  "score": 20.36,
   "rank": 356,
-  "proposicoes": [],
+  "proposicoes": [
+    {
+      "id": 2641581,
+      "tipo": "PL",
+      "numero": 4783,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.723, de 28 de dezembro de 1993, para dispor sobre a obrigatoriedade de oferta de gasolina integralmente isenta de etanol anidro para a preservação de veículos de coleção e proteção da frota de veículos não biocombustíveis.",
+      "data": "2026-07-23T20:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641581"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-07-08T18:16",
