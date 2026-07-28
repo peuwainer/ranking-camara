@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-07-27T10:17:47.850835+00:00",
+  "atualizado_em": "2026-07-28T08:59:15.845941+00:00",
   "legislatura": 57,
   "deputados": [
     {
@@ -302,25 +302,25 @@
       "orgaos": 6
     },
     {
-      "id": 204512,
-      "nome": "MARCELO EDUARDO FREITAS",
-      "nome_urna": "Delegado Marcelo Freitas",
-      "partido": "UNIÃO",
-      "uf": "MG",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204512.jpg",
-      "score": 33.75,
-      "proposicoes": 0,
-      "presenca_votacoes": 100.0,
-      "discursos": 0,
-      "orgaos": 6
-    },
-    {
       "id": 204404,
       "nome": "LUCAS BELLO REDECKER",
       "nome_urna": "Lucas Redecker",
       "partido": "PSD",
       "uf": "RS",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204404.jpg",
+      "score": 33.88,
+      "proposicoes": 2,
+      "presenca_votacoes": 100.0,
+      "discursos": 0,
+      "orgaos": 6
+    },
+    {
+      "id": 204512,
+      "nome": "MARCELO EDUARDO FREITAS",
+      "nome_urna": "Delegado Marcelo Freitas",
+      "partido": "UNIÃO",
+      "uf": "MG",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204512.jpg",
       "score": 33.75,
       "proposicoes": 0,
       "presenca_votacoes": 100.0,
@@ -679,6 +679,19 @@
       "orgaos": 15
     },
     {
+      "id": 220604,
+      "nome": "MARCOS PAULO BARBOSA TAVARES",
+      "nome_urna": "Marcos Tavares",
+      "partido": "PDT",
+      "uf": "RJ",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg",
+      "score": 29.94,
+      "proposicoes": 28,
+      "presenca_votacoes": 66.7,
+      "discursos": 0,
+      "orgaos": 13
+    },
+    {
       "id": 220658,
       "nome": "LUIZ GASTÃO BITTENCOURT DA SILVA",
       "nome_urna": "Luiz Gastão",
@@ -690,19 +703,6 @@
       "presenca_votacoes": 66.7,
       "discursos": 2,
       "orgaos": 14
-    },
-    {
-      "id": 220604,
-      "nome": "MARCOS PAULO BARBOSA TAVARES",
-      "nome_urna": "Marcos Tavares",
-      "partido": "PDT",
-      "uf": "RJ",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg",
-      "score": 29.81,
-      "proposicoes": 26,
-      "presenca_votacoes": 66.7,
-      "discursos": 0,
-      "orgaos": 13
     },
     {
       "id": 204369,
@@ -835,6 +835,19 @@
       "orgaos": 11
     },
     {
+      "id": 74374,
+      "nome": "GERALDO RESENDE PEREIRA",
+      "nome_urna": "Geraldo Resende",
+      "partido": "UNIÃO",
+      "uf": "MS",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74374.jpg",
+      "score": 28.46,
+      "proposicoes": 5,
+      "presenca_votacoes": 66.7,
+      "discursos": 0,
+      "orgaos": 13
+    },
+    {
       "id": 220576,
       "nome": "ALFREDO GASPAR DE MENDONÇA NETO",
       "nome_urna": "Alfredo Gaspar",
@@ -846,19 +859,6 @@
       "presenca_votacoes": 77.8,
       "discursos": 2,
       "orgaos": 6
-    },
-    {
-      "id": 74374,
-      "nome": "GERALDO RESENDE PEREIRA",
-      "nome_urna": "Geraldo Resende",
-      "partido": "UNIÃO",
-      "uf": "MS",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74374.jpg",
-      "score": 28.39,
-      "proposicoes": 4,
-      "presenca_votacoes": 66.7,
-      "discursos": 0,
-      "orgaos": 13
     },
     {
       "id": 220557,
@@ -1381,6 +1381,19 @@
       "orgaos": 10
     },
     {
+      "id": 74253,
+      "nome": "JULIO LUIZ BAPTISTA LOPES",
+      "nome_urna": "Julio Lopes",
+      "partido": "PP",
+      "uf": "RJ",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74253.jpg",
+      "score": 26.32,
+      "proposicoes": 2,
+      "presenca_votacoes": 66.7,
+      "discursos": 1,
+      "orgaos": 9
+    },
+    {
       "id": 204557,
       "nome": "SIDNEY RICARDO DE OLIVEIRA LEITE",
       "nome_urna": "Sidney Leite",
@@ -1418,19 +1431,6 @@
       "presenca_votacoes": 66.7,
       "discursos": 0,
       "orgaos": 10
-    },
-    {
-      "id": 74253,
-      "nome": "JULIO LUIZ BAPTISTA LOPES",
-      "nome_urna": "Julio Lopes",
-      "partido": "PP",
-      "uf": "RJ",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74253.jpg",
-      "score": 26.26,
-      "proposicoes": 1,
-      "presenca_votacoes": 66.7,
-      "discursos": 1,
-      "orgaos": 9
     },
     {
       "id": 204406,
@@ -3877,19 +3877,6 @@
       "orgaos": 4
     },
     {
-      "id": 235620,
-      "nome": "ILACIR BICALHO DE BARROS",
-      "nome_urna": "Ilacir Bicalho",
-      "partido": "REPUBLICANOS",
-      "uf": "MG",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/235620.jpg",
-      "score": 21.81,
-      "proposicoes": 1,
-      "presenca_votacoes": 66.7,
-      "discursos": 2,
-      "orgaos": 1
-    },
-    {
       "id": 221329,
       "nome": "RICARDO MARTINS DAVID",
       "nome_urna": "Ricardo Abrão",
@@ -4501,6 +4488,19 @@
       "orgaos": 1
     },
     {
+      "id": 220582,
+      "nome": "DANIEL BARBOSA DE ALMEIDA SILVA",
+      "nome_urna": "Daniel Barbosa",
+      "partido": "PP",
+      "uf": "AL",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220582.jpg",
+      "score": 20.62,
+      "proposicoes": 3,
+      "presenca_votacoes": 55.6,
+      "discursos": 0,
+      "orgaos": 6
+    },
+    {
       "id": 74400,
       "nome": "PAULO ROBERTO SEVERO PIMENTA",
       "nome_urna": "Paulo Pimenta",
@@ -4681,19 +4681,6 @@
       "presenca_votacoes": 66.7,
       "discursos": 0,
       "orgaos": 0
-    },
-    {
-      "id": 220582,
-      "nome": "DANIEL BARBOSA DE ALMEIDA SILVA",
-      "nome_urna": "Daniel Barbosa",
-      "partido": "PP",
-      "uf": "AL",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220582.jpg",
-      "score": 20.0,
-      "proposicoes": 3,
-      "presenca_votacoes": 55.6,
-      "discursos": 0,
-      "orgaos": 5
     },
     {
       "id": 178857,
@@ -5684,6 +5671,19 @@
       "orgaos": 5
     },
     {
+      "id": 204410,
+      "nome": "LUISA CANZIANI DOS SANTOS SILVEIRA",
+      "nome_urna": "Luisa Canziani",
+      "partido": "UNIÃO",
+      "uf": "PR",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204410.jpg",
+      "score": 16.51,
+      "proposicoes": 1,
+      "presenca_votacoes": 44.4,
+      "discursos": 0,
+      "orgaos": 5
+    },
+    {
       "id": 220629,
       "nome": "DANDARA TONANTZIN SILVA CASTRO",
       "nome_urna": "Dandara",
@@ -5729,19 +5729,6 @@
       "partido": "PL",
       "uf": "BA",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141458.jpg",
-      "score": 16.45,
-      "proposicoes": 0,
-      "presenca_votacoes": 44.4,
-      "discursos": 0,
-      "orgaos": 5
-    },
-    {
-      "id": 204410,
-      "nome": "LUISA CANZIANI DOS SANTOS SILVEIRA",
-      "nome_urna": "Luisa Canziani",
-      "partido": "UNIÃO",
-      "uf": "PR",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204410.jpg",
       "score": 16.45,
       "proposicoes": 0,
       "presenca_votacoes": 44.4,
@@ -6028,8 +6015,8 @@
       "partido": "PT",
       "uf": "PR",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/107283.jpg",
-      "score": 14.01,
-      "proposicoes": 1,
+      "score": 14.07,
+      "proposicoes": 2,
       "presenca_votacoes": 44.4,
       "discursos": 0,
       "orgaos": 1
@@ -6657,6 +6644,19 @@
       "presenca_votacoes": 0.0,
       "discursos": 0,
       "orgaos": 1
+    },
+    {
+      "id": 204482,
+      "nome": "EUCLYDES MARCOS PETTERSEN NETO",
+      "nome_urna": "Euclydes Pettersen",
+      "partido": "REPUBLICANOS",
+      "uf": "MG",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204482.jpg",
+      "score": 0.0,
+      "proposicoes": 0,
+      "presenca_votacoes": 0.0,
+      "discursos": 0,
+      "orgaos": 0
     }
   ]
 }

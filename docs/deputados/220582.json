@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220582.jpg",
-  "score": 20.0,
-  "rank": 361,
+  "score": 20.62,
+  "rank": 346,
   "proposicoes": [
     {
       "id": 2636554,
@@ -66,6 +66,12 @@
       "sigla": "CSAUDE",
       "cargo": "Suplente",
       "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Subcomissão Especial para debater e acompanhar a tramitação do Projeto de Lei nº 657, de 2025, que altera que altera a Lei nº 9.394, de 20 de dezembro de 1996, de diretrizes e bases da educação nacional (LDB), para dispensar a existência de diagnóstico clínico ou apresentação de laudo médico para educação especial",
+      "sigla": "SUBPL657",
+      "cargo": "Suplente",
+      "desde": "2026-07-24T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220582/votacoes-nominais-plenario/2026"
