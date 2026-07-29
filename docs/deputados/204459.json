@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204459.jpg",
-  "score": 22.57,
-  "rank": 249,
+  "score": 22.64,
+  "rank": 248,
   "proposicoes": [
     {
       "id": 2635883,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021, para dispor sobre contratação pública de bens e serviços artesanais.",
       "data": "2026-06-30T20:05",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635883"
+    },
+    {
+      "id": 2641647,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), e a Lei no 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos), para dispor sobre a averbação da exclusão, no registro civil, da filiação, bem como do sobrenome do genitor (a) que for condenado por crime de violência sexual, lesão corporal de natureza grave ou gravíssima ou de tortura cometidos contra seu filho (a).",
+      "data": "2026-07-28T11:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641647"
     }
   ],
   "discursos": [],

@@ -4,7 +4,7 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
-  "score": 48.46,
+  "score": 48.58,
   "rank": 3,
   "proposicoes": [
     {
@@ -294,6 +294,24 @@
       "ementa": "",
       "data": "2026-07-24T16:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641593"
+    },
+    {
+      "id": 2641648,
+      "tipo": "PL",
+      "numero": 4802,
+      "ano": 2026,
+      "ementa": "Institui a Campanha Nacional Saúde Renal para Todos.",
+      "data": "2026-07-28T12:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641648"
+    },
+    {
+      "id": 2641659,
+      "tipo": "PL",
+      "numero": 4805,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Incentivo à Implementação de Telhados Verdes.",
+      "data": "2026-07-28T14:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641659"
     }
   ],
   "discursos": [
