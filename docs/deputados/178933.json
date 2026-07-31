@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178933.jpg",
-  "score": 15.95,
-  "rank": 444,
+  "score": 16.01,
+  "rank": 445,
   "proposicoes": [
     {
       "id": 2638234,
@@ -24,6 +24,15 @@
       "ementa": "Institui a Política Nacional de Desenvolvimento da Cadeia Produtiva do Leite e Derivados e dá outras providências.",
       "data": "2026-07-08T17:21",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638385"
+    },
+    {
+      "id": 2641722,
+      "tipo": "PL",
+      "numero": 4828,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990, Lei de Crimes Hediondos, para dispor sobre a execução da pena após acórdão condenatório em segundo grau.",
+      "data": "2026-07-29T16:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641722"
     }
   ],
   "discursos": [],

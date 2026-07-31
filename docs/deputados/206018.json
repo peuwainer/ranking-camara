@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/206018.jpg",
-  "score": 27.21,
-  "rank": 80,
+  "score": 27.34,
+  "rank": 85,
   "proposicoes": [
     {
       "id": 2637838,
@@ -51,6 +51,24 @@
       "ementa": "Institui a Política Nacional de Redução do Custo de Alimentos em Fronteira e Áreas Isoladas, estabelece instrumentos federais de logística, armazenagem, compras públicas e incentivo ao abastecimento regional, define metas e mecanismos de monitoramento de preços, e dá outras providências.",
       "data": "2026-07-07T19:50",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637879"
+    },
+    {
+      "id": 2641718,
+      "tipo": "PL",
+      "numero": 4825,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito ao transporte gratuito e ao fornecimento de alimentação aos brigadistas florestais em serviço.",
+      "data": "2026-07-29T16:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641718"
+    },
+    {
+      "id": 2641730,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a instituição do Programa Nacional de Resiliência Climática e Soluções Baseadas na Natureza, e estabelece diretrizes para a adaptação e mitigação de desastres naturais.",
+      "data": "2026-07-29T19:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641730"
     }
   ],
   "discursos": [],

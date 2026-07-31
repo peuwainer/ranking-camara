@@ -4,9 +4,19 @@
   "partido": "PP",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73768.jpg",
-  "score": 27.09,
-  "rank": 84,
-  "proposicoes": [],
+  "score": 27.15,
+  "rank": 87,
+  "proposicoes": [
+    {
+      "id": 2641675,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa de Securitização das Dívidas Rurais – PSDR, destinado à reestruturação de operações de crédito rural de produtores afetados por crises sistêmicas no setor agropecuário, e dá outras providências",
+      "data": "2026-07-29T10:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641675"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

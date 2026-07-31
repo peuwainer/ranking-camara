@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141421.jpg",
-  "score": 22.7,
-  "rank": 243,
+  "score": 22.77,
+  "rank": 245,
   "proposicoes": [
     {
       "id": 2637297,
@@ -33,6 +33,15 @@
       "ementa": "Prevê a conciliação especializada nas demandas de assistência à saúde.",
       "data": "2026-07-15T16:14",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639817"
+    },
+    {
+      "id": 2641679,
+      "tipo": "PL",
+      "numero": 4809,
+      "ano": 2026,
+      "ementa": "Assegura a concessão provisória automática do BPC quando ultrapassado o prazo legal de 45 dias para apreciação do requerimento administrativo.",
+      "data": "2026-07-29T09:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641679"
     }
   ],
   "discursos": [],

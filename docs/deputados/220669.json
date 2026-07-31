@@ -5,17 +5,8 @@
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220669.jpg",
   "score": 21.52,
-  "rank": 308,
+  "rank": 309,
   "proposicoes": [
-    {
-      "id": 2635881,
-      "tipo": "PRC",
-      "numero": 39,
-      "ano": 2026,
-      "ementa": "Concede ao Sr. Carlo Michelangelo Ancelotti o título de cidadão honorário da República Federativa do Brasil.",
-      "data": "2026-06-30T19:56",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2635881"
-    },
     {
       "id": 2637297,
       "tipo": "PL",
@@ -42,6 +33,15 @@
       "ementa": "Prevê a conciliação especializada nas demandas de assistência à saúde.",
       "data": "2026-07-15T16:14",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639817"
+    },
+    {
+      "id": 2641679,
+      "tipo": "PL",
+      "numero": 4809,
+      "ano": 2026,
+      "ementa": "Assegura a concessão provisória automática do BPC quando ultrapassado o prazo legal de 45 dias para apreciação do requerimento administrativo.",
+      "data": "2026-07-29T09:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641679"
     }
   ],
   "discursos": [],

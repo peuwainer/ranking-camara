@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220641.jpg",
-  "score": 25.69,
-  "rank": 121,
+  "score": 25.27,
+  "rank": 136,
   "proposicoes": [
     {
       "id": 2639108,
@@ -24,17 +24,27 @@
       "ementa": "Institui normas gerais para a garantia da continuidade do cuidado em saúde, estabelece critérios para a manutenção, a revisão, a substituição e a interrupção de tratamentos continuados e veda sua limitação com fundamento exclusivamente quantitativo, administrativo, contratual ou financeiro.",
       "data": "2026-07-23T19:36",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641580"
-    }
-  ],
-  "discursos": [
+    },
     {
-      "data": "2026-06-30T17:36",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. RODRIGO GAMBALE (Bloco/PODE - SP. Pela ordem. Sem revisão do orador.) - Presidente, obrigado. Eu só quero fazer uma menção: hoje é um dia muito importante para a saúde no nosso Brasil, para os a",
-      "transcricao": "O SR. RODRIGO GAMBALE (Bloco/PODE - SP. Pela ordem. Sem revisão do orador.) - Presidente, obrigado. Eu só quero fazer uma menção: hoje é um dia muito importante para a saúde no nosso Brasil, para os agentes comunitários de saúde  ACS e os agentes de combate às endemias  ACEs. Nós aprovamos a Proposta de Emenda à Constituição nº 14, de 2021, aqui na Casa, com votação quase recorde, e hoje ela está sendo votada no Senado, para dar uma aposentadoria especial aos ACS e ACEs, que dedicam a sua vida e o seu trabalho a visitar famílias, a percorrer bairros, cidades, cuidando da família e da saúde do povo brasileiro, e para tirá-los da precariedade. Hoje eu tenho certeza de que esse será um grande ganho para o Brasil. Espero que o Senado aprove o texto da Câmara na integralidade e que o Presidente da República sancione esse texto, porque os ACS e ACEs merecem muito. Obrigado pela oportunidade, Presidente."
+      "id": 2641685,
+      "tipo": "PL",
+      "numero": 4812,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para prever causa de aumento de pena nos crimes de lesão corporal contra a mulher e nos crimes contra a dignidade sexual praticados no transporte público de passageiros ou em locais públicos ou abertos ao público, e a Lei nº 13.675, de 11 de junho de 2018, para incluir diretrizes de prevenção no Plano Nacional de Prevenção e Enfrentamento à Violência contra a Mulher, e dá outras providências.",
+      "data": "2026-07-29T10:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641685"
+    },
+    {
+      "id": 2641686,
+      "tipo": "PL",
+      "numero": 4813,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para prever sanções restritivas do uso de redes sociais, aplicações de mensageria e serviços de telecomunicação aos condenados pelo crime de divulgação não consentida de intimidade sexual.",
+      "data": "2026-07-29T10:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641686"
     }
   ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a elaborar propostas para analisar o enfrentamento da tuberculose como compromisso internacional para a eliminação desta doença como problema de saúde pública até o ano de 2030, conforme preconizado pela Organização das Nações Unidas (ONU)",
