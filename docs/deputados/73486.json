@@ -4,9 +4,19 @@
   "partido": "PDT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73486.jpg",
-  "score": 39.27,
-  "rank": 9,
-  "proposicoes": [],
+  "score": 49.33,
+  "rank": 4,
+  "proposicoes": [
+    {
+      "id": 2641769,
+      "tipo": "PL",
+      "numero": 4851,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 12.694, de 24 de julho de 2012, nº 13.675, de 11 de junho de 2018, nº 13.756, de 12 de dezembro de 2018, e nº 9.503, de 23 de setembro de 1997, para disciplinar medidas de proteção integral aos profissionais de segurança pública e defesa social ameaçados em decorrência do exercício da função e aos seus familiares.",
+      "data": "2026-07-31T15:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641769"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-07-08T18:32",

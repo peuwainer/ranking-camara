@@ -4,9 +4,19 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220646.jpg",
-  "score": 20.64,
-  "rank": 343,
-  "proposicoes": [],
+  "score": 30.69,
+  "rank": 306,
+  "proposicoes": [
+    {
+      "id": 2641754,
+      "tipo": "PL",
+      "numero": 4844,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito de ingresso e permanência de pessoa acompanhada de animal com deficiência em espaços públicos e privados de uso coletivo e dá outras providências.",
+      "data": "2026-07-31T10:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641754"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
