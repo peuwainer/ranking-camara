@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220673.jpg",
-  "score": 23.26,
-  "rank": 405,
+  "score": 23.33,
+  "rank": 404,
   "proposicoes": [
     {
       "id": 2637610,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para disciplinar as adaptações destinadas ao repouso do condutor em caminhões e caminhões-tratores e estabelecer procedimento simplificado para sua regularização.",
       "data": "2026-07-09T12:25",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638511"
+    },
+    {
+      "id": 2641935,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a aquisição, a posse e o porte de arma de fogo no território nacional, institui o Sistema Nacional de Registro de Armas de Fogo (SINRAF) e revoga dispositivos da Lei nº 10.826, de 22 de dezembro de 2003.",
+      "data": "2026-08-04T16:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641935"
     }
   ],
   "discursos": [],

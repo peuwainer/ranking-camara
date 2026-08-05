@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73788.jpg",
-  "score": 32.0,
-  "rank": 285,
+  "score": 32.07,
+  "rank": 284,
   "proposicoes": [
     {
       "id": 2638925,
@@ -24,6 +24,15 @@
       "ementa": "Altera a legislação do Imposto sobre a Renda da Pessoa Física para permitir a dedução de despesas com Práticas Integrativas e Complementares em Saúde – PICS, institui o Cadastro Nacional de Terapeutas Integrativos Habilitados – CNTIH e dá outras providências.",
       "data": "2026-07-10T14:31",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638926"
+    },
+    {
+      "id": 2641899,
+      "tipo": "PL",
+      "numero": 4873,
+      "ano": 2026,
+      "ementa": "Altera a Lei 9.503 de 1997 que Instituiu o Código de Trânsito Brasileiro para prever aumento de pena e restrição de habilitação para condutores de veículos automotores, que cometerem homicídio sob efeito de álcool e drogas.",
+      "data": "2026-08-04T11:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641899"
     }
   ],
   "discursos": [],

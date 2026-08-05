@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204387.jpg",
-  "score": 41.02,
+  "score": 41.09,
   "rank": 20,
-  "proposicoes": [],
+  "proposicoes": [
+    {
+      "id": 2641860,
+      "tipo": "PL",
+      "numero": 4869,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, e o Decreto-Lei nº 3.689, de 3 de outubro de 1941, para agravar as consequências administrativas, civis, penais e processuais aplicáveis ao condutor que, sob influência de álcool ou de outra substância psicoativa, provocar morte ou invalidez permanente.",
+      "data": "2026-08-03T17:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641860"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-07-15T16:04",

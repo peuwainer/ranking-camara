@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 37.33,
-  "rank": 52,
+  "score": 37.58,
+  "rank": 47,
   "proposicoes": [
     {
       "id": 2637125,
@@ -69,6 +69,42 @@
       "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para reforçar a proteção da vítima em Medida Protetiva de Urgência, bem como a responsabilização dos agentes de segurança pública, nos casos previstos.",
       "data": "2026-07-20T06:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641658"
+    },
+    {
+      "id": 2641787,
+      "tipo": "PL",
+      "numero": 4858,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.029, de 13 de abril de 1995, e a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei n.º 5.452, de 1943, para dispor sobre os critérios de caracterização de conduta discriminatória nas relações de trabalho e sobre a produção probatória nas ações judiciais trabalhistas.",
+      "data": "2026-08-03T08:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641787"
+    },
+    {
+      "id": 2641932,
+      "tipo": "SBT",
+      "numero": 7,
+      "ano": 0,
+      "ementa": "Amplia o direito ao porte de arma de fogo para Guardas Civis Municipais e vigilantes, reduz exigências burocráticas, reconhece o risco permanente da atividade e fortalece a segurança pública por meio do armamento responsável.",
+      "data": "2026-08-04T15:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641932"
+    },
+    {
+      "id": 2641938,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 667, de 2 de julho de 1969, que reorganiza as Polícias Militares e os Corpos de Bombeiros Militares dos Estados, dos Territórios e do Distrito Federal, e dá outras providências, para assegurar acesso a plano de saúde a policiais e bombeiros militares.",
+      "data": "2026-08-03T09:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641938"
+    },
+    {
+      "id": 2641939,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, e a Lei nº 13.756, de 12 de dezembro de 2018, para reconhecer a atividade dos profissionais de segurança pública e defesa social como de natureza permanente de risco e estabelecer diretrizes de valorização e proteção, com critérios de priorização na transferência de recursos do Fundo Nacional de Segurança Pública.",
+      "data": "2026-08-03T10:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641939"
     }
   ],
   "discursos": [],
