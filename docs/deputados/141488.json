@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
-  "score": 32.35,
-  "rank": 282,
+  "score": 32.98,
+  "rank": 239,
   "proposicoes": [
-    {
-      "id": 2637237,
-      "tipo": "PL",
-      "numero": 3479,
-      "ano": 2026,
-      "ementa": "Estabelece o marco legal do Registro Nacional de Beneficiários Finais, dispõe sobre a integração, atualização, verificação, interoperabilidade e acesso às informações relativas aos beneficiários finais de pessoas jurídicas e estruturas legais, e fortalece os mecanismos de prevenção à lavagem de dinheiro, corrupção, evasão fiscal, ocultação patrimonial e infiltração da criminaliza organizada na economia formal.",
-      "data": "2026-07-06T13:23",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637237"
-    },
     {
       "id": 2641462,
       "tipo": "PL",
@@ -33,6 +24,15 @@
       "ementa": "Altera o Decreto-Lei nº 986, de 21 de outubro de 1969, para dispor sobre a publicação, nos rótulos, embalagens e materiais publicitários dos alimentos, do percentual de fruta presente na composição, e das condições de uso de termos sobre a efetiva utilização de frutas no produto final.",
       "data": "2026-07-30T13:05",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641741"
+    },
+    {
+      "id": 2641974,
+      "tipo": "PL",
+      "numero": 4889,
+      "ano": 2026,
+      "ementa": "Proíbe a exportação de animais vivos destinados ao abate ou à engorda para posterior abate fora do território nacional, e dá outras providências.",
+      "data": "2026-08-05T10:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641974"
     }
   ],
   "discursos": [

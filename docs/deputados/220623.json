@@ -4,36 +4,9 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
-  "score": 37.95,
-  "rank": 44,
+  "score": 37.82,
+  "rank": 51,
   "proposicoes": [
-    {
-      "id": 2637609,
-      "tipo": "PL",
-      "numero": 3522,
-      "ano": 2026,
-      "ementa": "Altera a redação da Lei nº 12.334, de 20 de setembro de 2010, para dispor sobre a declaração de emergência em barragens pelo empreendedor, as medidas emergenciais de proteção das pessoas e da natureza e o exercício de poder de polícia administrativa do órgão fiscalizador.",
-      "data": "2026-07-07T13:37",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637609"
-    },
-    {
-      "id": 2637611,
-      "tipo": "PL",
-      "numero": 3524,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de terrorismo de barragem, consistente no acionamento indevido de sirenes ou sistemas de alerta associados a barragens.",
-      "data": "2026-07-07T14:03",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637611"
-    },
-    {
-      "id": 2637650,
-      "tipo": "PL",
-      "numero": 3528,
-      "ano": 2026,
-      "ementa": "Dispõe sobre requisitos mínimos para a realização de procedimentos cirúrgicos de esterilização em animais e dá outras providências.",
-      "data": "2026-07-07T15:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637650"
-    },
     {
       "id": 2641425,
       "tipo": "PL",
@@ -69,6 +42,15 @@
       "ementa": "Institui o Dia Nacional do Cuidador Escolar, a ser celebrado anualmente em 3 de dezembro.",
       "data": "2026-07-21T15:04",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641458"
+    },
+    {
+      "id": 2642137,
+      "tipo": "PL",
+      "numero": 4918,
+      "ano": 2026,
+      "ementa": "Dispõe medidas de proteção da saúde da população em cenários de ondas de calor e outros eventos climáticos extremos, no âmbito SUS, e dá outras providências.",
+      "data": "2026-08-06T13:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642137"
     }
   ],
   "discursos": [],

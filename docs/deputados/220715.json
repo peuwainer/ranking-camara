@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
-  "score": 51.24,
-  "rank": 2,
+  "score": 41.25,
+  "rank": 21,
   "proposicoes": [
-    {
-      "id": 2637103,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre o reconhecimento do relevante interesse coletivo e a importância social das atividades desempenhadas pelo Conselho Nacional da Segurança Privada (CONASEP), seus Conselhos Comunitários de Segurança Privada (CONSEPRIS) e seus filiados, incluindo atividades de Bombeiro Civil, e dá outras providências.",
-      "data": "2026-07-06T08:55",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637103"
-    },
     {
       "id": 2640461,
       "tipo": "PL",
@@ -4893,6 +4884,15 @@
       "ementa": "Cria a Política Nacional de Apoio à Autorregulação Emocional e ao Desenvolvimento de Habilidades Sociais na Educação Básica.",
       "data": "2026-08-04T11:47",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641903"
+    },
+    {
+      "id": 2642129,
+      "tipo": "PFC",
+      "numero": 23,
+      "ano": 2026,
+      "ementa": "Propõe que a Comissão de Integração Nacional e Desenvolvimento Regional realize, com o auxílio do Tribunal de Contas da União, ato de fiscalização e controle destinado a verificar a regularidade, a eficiência e a efetividade da aplicação de recursos públicos federais destinados a ações de proteção e defesa civil, prevenção, mitigação e resposta a desastres em áreas classificadas como de risco alto e muito alto no Município de Manaus, Estado do Amazonas, no período de 2023 a 2025.",
+      "data": "2026-07-17T18:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642129"
     }
   ],
   "discursos": [],

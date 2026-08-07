@@ -5,35 +5,8 @@
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
   "score": 37.58,
-  "rank": 47,
+  "rank": 52,
   "proposicoes": [
-    {
-      "id": 2637125,
-      "tipo": "PL",
-      "numero": 3472,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Controle e Rastreabilidade de Produtos Químicos Controlados e altera a Lei nº 10.357, de 27 de dezembro de 2001, para aperfeiçoar os mecanismos de controle e fiscalização de produtos químicos suscetíveis de utilização na produção ilícita de entorpecentes, drogas sintéticas e substâncias psicotrópicas.",
-      "data": "2026-07-06T07:23",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637125"
-    },
-    {
-      "id": 2637511,
-      "tipo": "SBT",
-      "numero": 6,
-      "ano": 0,
-      "ementa": "Amplia o direito ao porte de arma de fogo para Guardas Civis Municipais e vigilantes, reduz exigências burocráticas, reconhece o risco permanente da atividade e fortalece a segurança pública por meio do armamento responsável.",
-      "data": "2026-07-07T11:39",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637511"
-    },
-    {
-      "id": 2637787,
-      "tipo": "EMP",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre o Sistema Nacional de Enfrentamento da Violência contra Meninas e Mulheres e a destinação de recursos às ações de enfrentamento ao feminicídio e de garantia da vida de meninas e mulheres.",
-      "data": "2026-07-07T18:12",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637787"
-    },
     {
       "id": 2638272,
       "tipo": "PL",
@@ -105,6 +78,33 @@
       "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, e a Lei nº 13.756, de 12 de dezembro de 2018, para reconhecer a atividade dos profissionais de segurança pública e defesa social como de natureza permanente de risco e estabelecer diretrizes de valorização e proteção, com critérios de priorização na transferência de recursos do Fundo Nacional de Segurança Pública.",
       "data": "2026-08-03T10:12",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641939"
+    },
+    {
+      "id": 2641965,
+      "tipo": "PL",
+      "numero": 4886,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 1.079, de 10 de abril de 1950, que define os crimes de responsabilidade e regula o respectivo processo de julgamento, para adequar os seus dispositivos aos preceitos da Constituição Federal de 1988.",
+      "data": "2026-08-05T07:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641965"
+    },
+    {
+      "id": 2642115,
+      "tipo": "PL",
+      "numero": 4912,
+      "ano": 2026,
+      "ementa": "Altera a legislação aplicável ao regime aduaneiro especial de drawback para importação de amêndoas de cacau, a fim de estabelecer regras específicas de prazo, restringir sua utilização ao período de entressafra da produção nacional, ampliar a transparência na execução do regime e prever sanções pelo descumprimento das obrigações assumidas.",
+      "data": "2026-08-06T10:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642115"
+    },
+    {
+      "id": 2642128,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Altera o Código de Processo Civil e a Lei Geral do Esporte para prever restrição judicial de acesso a eventos esportivos como medida executiva coercitiva em caso de inadimplemento de obrigação alimentar.",
+      "data": "2026-08-06T07:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642128"
     }
   ],
   "discursos": [],

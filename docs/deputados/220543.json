@@ -4,9 +4,37 @@
   "partido": "REPUBLICANOS",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220543.jpg",
-  "score": 36.76,
-  "rank": 65,
-  "proposicoes": [],
+  "score": 37.93,
+  "rank": 50,
+  "proposicoes": [
+    {
+      "id": 2642033,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui diretrizes para a instalação e adequação progressiva de faixas de travessia de pedestres com sinalização acessível, tátil e pictográfica, voltadas à inclusão e segurança de pessoas com deficiência, no âmbito do Sistema Nacional de Trânsito",
+      "data": "2026-08-05T14:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642033"
+    },
+    {
+      "id": 2642180,
+      "tipo": "PL",
+      "numero": 4926,
+      "ano": 2026,
+      "ementa": "Altera a Lei n° 8.080, de 19 de setembro de 1990, para incentivar o aprimoramento de profissionais de saúde no uso da Língua Brasileira de Sinais- Libras no âmbito do Sistema Único de Saúde.",
+      "data": "2026-08-06T18:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642180"
+    },
+    {
+      "id": 2642181,
+      "tipo": "PL",
+      "numero": 4927,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.211, de 17 de setembro de 2025 (Estatuto Digital da Criança e do Adolescente), para dispor sobre mecanismo público de verificação de idade.",
+      "data": "2026-08-06T18:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642181"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-07-15T11:00",
@@ -28,13 +56,6 @@
       "tipo": "DISCURSO ENCAMINHADO",
       "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO RICARDO AYRES (SEM REGISTRO TAQUIGRÁFICO). O Sr. RICARDO AYRES (REPUBLICANOS-TO) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores",
       "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO RICARDO AYRES (SEM REGISTRO TAQUIGRÁFICO). O Sr. RICARDO AYRES (REPUBLICANOS-TO) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Deputados, Subo a esta tribuna para tratar de um tema que afeta diretamente milhares de brasileiros que convivem com a obesidade e o diabetes: a recente restrição imposta pela Agência Nacional de Vigilância Sanitária (Anvisa) à importação, por pessoas físicas, de medicamentos à base de semaglutida e tirzepatida para uso próprio. Diante dessa medida, apresentei um Projeto de Decreto Legislativo e uma Indicação à Anvisa, com o objetivo de promover a revisão da Resolução-RE nº 1.519, de 2026, para restabelecer a possibilidade de importação desses medicamentos por pacientes que possuam prescrição médica, observados critérios rigorosos de segurança e limites quantitativos compatíveis com o tratamento. As quebradeiras de coco babaçu transformam o fruto em óleo, farinha, sabão, carvão, artesanato e tantos outros produtos que garantem renda e dignidade às suas famílias. Ao mesmo tempo, exercem um papel fundamental na preservação dos babaçuais e na manutenção de um modo de vida que integra cultura, desenvolvimento sustentável e respeito ao meio ambiente. É importante deixar claro que nossa proposta não autoriza a comercialização desses medicamentos no Brasil, tampouco flexibiliza as exigências sanitárias para sua venda. O que buscamos é assegurar que pacientes que dependem desse tratamento possam exercer seu direito de importar o medicamento para uso próprio, como ocorreu por muitos anos sob regras estabelecidas pela própria Anvisa. Sabemos que a obesidade é uma doença crônica, reconhecida pelas autoridades de saúde, e que está associada a diversas outras enfermidades, como diabetes, hipertensão e doenças cardiovasculares. O acesso ao tratamento adequado representa uma questão de saúde pública e de qualidade de vida para milhares de famílias brasileiras. Nos últimos dias, pesquisadores da Universidade Estadual de Campinas (Unicamp) divulgaram estudo que identificou a presença do princípio ativo declarado em medicamentos adquiridos no Paraguai. Evidentemente, esse resultado não elimina a necessidade de fiscalização sanitária nem substitui o rigoroso controle de qualidade exercido pela Anvisa. Entretanto, acrescenta um elemento técnico relevante ao debate e reforça a importância de que eventuais decisões regulatórias sejam continuamente avaliadas à luz de evidências científicas, do diálogo institucional e do equilíbrio regulatório. Nosso propósito é construir uma solução que concilie a proteção da saúde da população com o direito dos pacientes ao tratamento prescrito por seus médicos. O Parlamento tem o dever de acompanhar decisões regulatórias que impactam diretamente a vida das pessoas, sempre respeitando a competência dos órgãos técnicos, mas também ouvindo a sociedade e aqueles que dependem dessas terapias. Senhoras e Senhores, Seguirei trabalhando para que possamos encontrar uma solução responsável, segura e juridicamente adequada, preservando a autoridade da Anvisa, mas garantindo que a regulação não imponha obstáculos desproporcionais ao acesso de pacientes a tratamentos essenciais. Saúde pública também significa assegurar que quem precisa de tratamento tenha condições de obtê-lo com segurança, responsabilidade e respeito à dignidade da pessoa humana. Muito Obrigada."
-    },
-    {
-      "data": "2026-07-07T22:08",
-      "fase": "Encerramento",
-      "tipo": "OUTROS",
-      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO RICARDO AYRES (SEM REGISTRO TAQUIGRÁFICO). O Sr. RICARDO AYRES (REPUBLICANOS-TO) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores",
-      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO RICARDO AYRES (SEM REGISTRO TAQUIGRÁFICO). O Sr. RICARDO AYRES (REPUBLICANOS-TO) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Deputados, Subo a esta tribuna para registrar a repercussão nacional da Lei nº 15.431, de 2026, originada do Projeto de Lei nº 37/2025, de minha autoria, que reconhece o ofício das quebradeiras de coco babaçu como manifestação da cultura nacional nos estados do Tocantins, Maranhão, Piauí e Pará. Recentemente, essa importante conquista ganhou destaque em reportagem do Jornal do Campo, da TV Anhanguera, e do G1 Tocantins, dando visibilidade a uma atividade que há gerações sustenta famílias, preserva tradições e protege o meio ambiente. O reconhecimento conferido por essa lei representa uma vitória histórica para milhares de mulheres que dedicam suas vidas ao extrativismo do babaçu. Mais do que uma atividade econômica, trata-se de um patrimônio cultural construído ao longo de gerações, marcado pelo conhecimento tradicional, pelo trabalho coletivo e pelo uso sustentável dos recursos naturais. As quebradeiras de coco babaçu transformam o fruto em óleo, farinha, sabão, carvão, artesanato e tantos outros produtos que garantem renda e dignidade às suas famílias. Ao mesmo tempo, exercem um papel fundamental na preservação dos babaçuais e na manutenção de um modo de vida que integra cultura, desenvolvimento sustentável e respeito ao meio ambiente. É motivo de grande satisfação ver essa conquista alcançando os meios de comunicação e permitindo que todo o Brasil conheça a importância dessas mulheres. O reconhecimento legal fortalece sua identidade, amplia sua visibilidade e reafirma o compromisso do Parlamento com a valorização das comunidades tradicionais brasileiras. Quero registrar minha gratidão às quebradeiras de coco babaçu, aos movimentos sociais, às lideranças comunitárias e a todos que contribuíram para essa conquista. A aprovação do projeto e sua transformação em lei demonstram que o Congresso Nacional pode produzir resultados concretos para proteger nossa cultura e reconhecer aqueles que ajudam a construir a história do nosso País. Senhoras e Senhores, Valorizar as quebradeiras de coco babaçu é valorizar a cultura brasileira, a força das mulheres do campo e a riqueza do Tocantins e de toda a região dos babaçuais. Tenho orgulho de ter contribuído para que esse reconhecimento se tornasse realidade e seguirei trabalhando para que essas comunidades tenham cada vez mais respeito, proteção e oportunidades. Muito obrigado."
     }
   ],
   "orgaos": [

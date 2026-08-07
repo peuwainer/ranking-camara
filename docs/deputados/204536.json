@@ -4,18 +4,9 @@
   "partido": "MISSÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204536.jpg",
-  "score": 43.13,
-  "rank": 16,
+  "score": 49.2,
+  "rank": 6,
   "proposicoes": [
-    {
-      "id": 2637603,
-      "tipo": "PL",
-      "numero": 3521,
-      "ano": 2026,
-      "ementa": "Institui mecanismos de responsabilização administrativa aos pais ou responsáveis legais por atos de indisciplina praticados por estudantes da educação básica em instituições de ensino públicas e privadas.",
-      "data": "2026-07-07T13:30",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637603"
-    },
     {
       "id": 2638396,
       "tipo": "SBT",
@@ -141,6 +132,24 @@
       "ementa": "Altera a Lei nº Lei nº 11.343, de 23 de agosto de 2006 (Lei de Drogas), para incluir como elementares do tipo os verbos “encomendar”, “solicitar”, “ajustar a aquisição”, “oferecer dinheiro ou qualquer vantagem” e “efetuar pagamento por drogas”.",
       "data": "2026-08-04T16:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641953"
+    },
+    {
+      "id": 2642135,
+      "tipo": "PL",
+      "numero": 4917,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para autorizar a seleção aleatória ou por amostragem das pessoas a serem submetidas à abordagem e à busca pessoal em via pública.",
+      "data": "2026-08-06T13:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642135"
+    },
+    {
+      "id": 2642169,
+      "tipo": "PL",
+      "numero": 4922,
+      "ano": 2026,
+      "ementa": "Altera a Lei n° 8.730, de 10 de novembro de 1993, para ampliar a transparência patrimonial de agentes políticos e autoridades, mediante a apresentação e a divulgação de declaração de bens, sua atualização anual e a comunicação de Movimentação Patrimonial ou Rendimento Relevante.",
+      "data": "2026-08-06T15:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642169"
     }
   ],
   "discursos": [
@@ -220,13 +229,6 @@
       "tipo": "PELA ORDEM",
       "resumo": "O SR. KIM KATAGUIRI (MISSÃO - SP. Pela ordem. Sem revisão do orador.) - Presidente, a urgência do projeto que a gente aprovou agora é fundamental porque muitos pais, inclusive, procuraram-me em relaçã",
       "transcricao": "O SR. KIM KATAGUIRI (MISSÃO - SP. Pela ordem. Sem revisão do orador.) - Presidente, a urgência do projeto que a gente aprovou agora é fundamental porque muitos pais, inclusive, procuraram-me em relação a esse projeto, que criava a obrigatoriedade de conceder férias escolares no período da Copa Feminina, que nós teremos no ano que vem. Muitos pais estavam preocupados, porque eles não tinham essa programação, eles não tinham a possibilidade de cuidar dos seus filhos, de não mantê-los na escola com esse novo calendário que tinha sido imposto. A urgência do projeto que nós aprovamos agora torna meramente facultativo para a escola adequar suas férias ou não em vez de ser uma obrigação. Então, acho que esse é um projeto importante para atender vários pais que têm feito apelos de não fazer sentido e de prejudicá-los demais não ter onde deixar os seus filhos durante o período da Copa do Mundo Feminina. Então, registro o voto favorável do Partido Missão."
-    },
-    {
-      "data": "2026-07-07T20:36",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. KIM KATAGUIRI (MISSÃO - SP. Pela ordem. Sem revisão do orador.) - Sra. Presidente, eu quero começar elogiando o trabalho da Deputada Jandira porque, em termos de mérito, eu não tenho nenhum reto",
-      "transcricao": "O SR. KIM KATAGUIRI (MISSÃO - SP. Pela ordem. Sem revisão do orador.) - Sra. Presidente, eu quero começar elogiando o trabalho da Deputada Jandira porque, em termos de mérito, eu não tenho nenhum retoque a fazer. Acho que o texto avançou bastante em relação ao anterior. Mas eu tenho que dar a orientação \"não\" da MISSÃO, por causa do nosso posicionamento contra carimbar verba de qualquer natureza para qualquer tipo de política pública, da flexibilidade orçamentária do Poder Executivo, e não positivação legal de qualquer tipo de carimbo. A orientação é \"não\", Presidente."
     }
   ],
   "orgaos": [

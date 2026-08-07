@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
-  "score": 41.14,
-  "rank": 19,
+  "score": 41.27,
+  "rank": 20,
   "proposicoes": [
     {
       "id": 2639473,
@@ -78,6 +78,24 @@
       "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do  Adolescente, para fortalecer a proteção dos dados pessoais de crianças e adolescentes no ambiente digital.",
       "data": "2026-08-03T14:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641821"
+    },
+    {
+      "id": 2641968,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021, para revogar a hipótese de dispensa de licitação prevista no inciso XVIII do caput do art. 75 e estabelecer regras de transição destinadas a assegurar a continuidade da execução do Programa Cozinha Solidária.",
+      "data": "2026-08-05T09:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641968"
+    },
+    {
+      "id": 2641971,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.947, de 16 de junho de 2009, para dispor sobre a manutenção da oferta de alimentação escolar aos estudantes da educação básica em situação de insegurança alimentar durante os períodos de recesso e férias escolares.",
+      "data": "2026-08-05T09:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641971"
     }
   ],
   "discursos": [],

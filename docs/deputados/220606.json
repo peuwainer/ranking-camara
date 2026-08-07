@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220606.jpg",
-  "score": 42.02,
-  "rank": 17,
+  "score": 44.54,
+  "rank": 15,
   "proposicoes": [
-    {
-      "id": 2637237,
-      "tipo": "PL",
-      "numero": 3479,
-      "ano": 2026,
-      "ementa": "Estabelece o marco legal do Registro Nacional de Beneficiários Finais, dispõe sobre a integração, atualização, verificação, interoperabilidade e acesso às informações relativas aos beneficiários finais de pessoas jurídicas e estruturas legais, e fortalece os mecanismos de prevenção à lavagem de dinheiro, corrupção, evasão fiscal, ocultação patrimonial e infiltração da criminaliza organizada na economia formal.",
-      "data": "2026-07-06T13:23",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637237"
-    },
     {
       "id": 2641582,
       "tipo": "PL",
@@ -42,6 +33,15 @@
       "ementa": "Dispõe sobre a regulamentação da atribuição de títulos profissionais, atividades, competências e caracterização do âmbito de atuação dos profissionais de Administração, para fins de identificação do exercício profissional.",
       "data": "2026-08-04T17:46",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641961"
+    },
+    {
+      "id": 2642172,
+      "tipo": "PL",
+      "numero": 4923,
+      "ano": 2026,
+      "ementa": "Altera o art. 20 da Lei nº 8.742, de 7 de dezembro de 1993, e o art. 34 da Lei nº 10.741, de 1º de outubro de 2003, para estabelecer idade mínima de 62 (sessenta e dois) anos para a concessão do benefício de prestação continuada à mulher.",
+      "data": "2026-08-06T16:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642172"
     }
   ],
   "discursos": [

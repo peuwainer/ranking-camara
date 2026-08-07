@@ -4,18 +4,9 @@
   "partido": "PP",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220549.jpg",
-  "score": 39.79,
-  "rank": 25,
+  "score": 40.42,
+  "rank": 23,
   "proposicoes": [
-    {
-      "id": 2637279,
-      "tipo": "PL",
-      "numero": 3481,
-      "ano": 2026,
-      "ementa": "Altera o art. 67 da Lei n. 15.421, de 1º de Junho de 2026, que dispôs sobre as medidas relativas à realização da Copa do Mundo Feminina da Fédération Internationale de Football Association (FIFA) 2027 na República Federativa do Brasil.",
-      "data": "2026-07-06T14:49",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637279"
-    },
     {
       "id": 2641634,
       "tipo": "PL",
@@ -24,6 +15,15 @@
       "ementa": "Dispõe sobre medidas adicionais de Jogo Responsável aplicáveis à modalidade de loteria de apostas de quota fixa autorizadas no território nacional, estabelece mecanismos de proteção aos apostadores, especialmente aos jovens adultos, e dá outras providências.",
       "data": "2026-07-28T11:14",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641634"
+    },
+    {
+      "id": 2641975,
+      "tipo": "PL",
+      "numero": 4890,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.656, de 3 de junho de 1998, para dispor sobre o método de pagamento de órteses próteses e materiais especiais",
+      "data": "2026-08-05T10:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641975"
     }
   ],
   "discursos": [

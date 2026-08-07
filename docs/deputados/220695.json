@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-  "score": 34.83,
-  "rank": 129,
+  "score": 34.96,
+  "rank": 123,
   "proposicoes": [
     {
       "id": 2638211,
@@ -69,6 +69,24 @@
       "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL  5.498/2023 e do PL  5.958/2023 e do PL 5.687/2025, apensados,  com  Substitutivo.\n\n,",
       "data": "2026-08-04T14:29",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641921"
+    },
+    {
+      "id": 2642133,
+      "tipo": "PL",
+      "numero": 4914,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Monitoramento e Avaliação da Saúde Mental de Crianças e Adolescentes, estabelece diretrizes para a produção, integração, análise e divulgação de indicadores destinados ao aperfeiçoamento das políticas públicas, altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), e dá outras providências.",
+      "data": "2026-08-06T12:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642133"
+    },
+    {
+      "id": 2642141,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, que dispõe sobre os Planos de Benefícios da Previdência Social, para isentar de carência a concessão de salário-maternidade às seguradas especial, facultativa e contribuinte individual.",
+      "data": "2026-08-06T14:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642141"
     }
   ],
   "discursos": [],

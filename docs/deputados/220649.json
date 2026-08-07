@@ -4,18 +4,9 @@
   "partido": "UNIÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220649.jpg",
-  "score": 17.06,
-  "rank": 460,
+  "score": 7.07,
+  "rank": 470,
   "proposicoes": [
-    {
-      "id": 2637703,
-      "tipo": "PL",
-      "numero": 3531,
-      "ano": 2026,
-      "ementa": "Altera o artigo 387 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), e institui a Política Nacional de Reparação Prioritária às Vítimas de Infrações Penais, para fortalecer os mecanismos de reparação e restituição dos danos materiais e morais decorrentes da prática criminosa, conferindo prioridade à satisfação do crédito da vítima no âmbito da execução penal, e dá outras providências.",
-      "data": "2026-07-07T15:31",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2637703"
-    },
     {
       "id": 2638928,
       "tipo": "PL",
@@ -33,6 +24,15 @@
       "ementa": "Altera os arts. 33 e 40 da Lei nº 11.343, de 23 de agosto de 2006 (Lei Antidrogas), para majorar as penas do crime de tráfico ilícito de drogas, bem como elevar as frações das causas de aumento de pena, para reforçar a proteção da infância e da juventude contra o aliciamento pelo crime organizado.",
       "data": "2026-07-28T17:05",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641669"
+    },
+    {
+      "id": 2642061,
+      "tipo": "PL",
+      "numero": 4902,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.022, de 8 de agosto de 2014, que dispõe sobre o Estatuto Geral das Guardas Municipais, e a Lei nº 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas – Sinarm, define crimes e dá outras providências (Estatuto do Desarmamento), para fortalecer institucionalmente as Guardas Municipais, ampliar as garantias funcionais de seus integrantes ativos e aposentados, assegurar o porte funcional de arma de fogo em âmbito nacional, instituir o Fundo Municipal de Segurança Pública, criar a carteira funcional do Guarda Civil Municipal aposentado e dá outras providências.",
+      "data": "2026-08-05T16:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642061"
     }
   ],
   "discursos": [],

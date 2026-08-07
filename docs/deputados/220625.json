@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220625.jpg",
-  "score": 37.0,
-  "rank": 56,
+  "score": 37.2,
+  "rank": 58,
   "proposicoes": [
     {
       "id": 2638134,
@@ -24,6 +24,33 @@
       "ementa": "Dispõe sobre a responsabilização civil e penal dos familiares de autores de violência doméstica e familiar que pratiquem atos de revitimização da ofendida, especialmente por meio de ameaças, intimidações ou pressões ilegítimas.",
       "data": "2026-07-08T13:57",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2638222"
+    },
+    {
+      "id": 2642149,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer rito de urgência nos casos de descumprimento de medidas protetivas de urgência, aperfeiçoar mecanismos de prevenção ao feminicídio e determinar a análise imediata de risco e a retirada de armas de fogo do agressor.",
+      "data": "2026-08-06T15:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642149"
+    },
+    {
+      "id": 2642153,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos) e a Lei nº 13.431, de 4 de abril de 2017,\npara fortalecer a proteção de crianças e adolescentes vítimas de violência sexual, ampliar a responsabilização dos agressores e assegurar o direito à reparação integral das vítimas.",
+      "data": "2026-08-06T15:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642153"
+    },
+    {
+      "id": 2642154,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei n° 14.965, de 9 de setembro de 2024, para dispor sobre a filmagem integral dos Testes de Aptidão Física e sobre a descrição objetiva da avaliação psicológica nos concursos públicos.",
+      "data": "2026-08-06T15:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642154"
     }
   ],
   "discursos": [],
