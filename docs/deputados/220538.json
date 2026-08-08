@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220538.jpg",
-  "score": 34.38,
-  "rank": 137,
-  "proposicoes": [],
+  "score": 34.44,
+  "rank": 127,
+  "proposicoes": [
+    {
+      "id": 2642204,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Linha de Crédito Especial Pronaf Cacau no âmbito do Programa Nacional de Fortalecimento da Agricultura Familiar; estabelece condições diferenciadas de acesso para produtores detentores do Selo Verde Cacau; e dá outras providências.",
+      "data": "2026-08-07T11:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642204"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

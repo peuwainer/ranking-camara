@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220665.jpg",
-  "score": 36.89,
-  "rank": 64,
+  "score": 37.52,
+  "rank": 46,
   "proposicoes": [
     {
       "id": 2639648,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (LDB), para incluir o estudo dos princípios e fundamentos da Constituição Federal na educação básica.",
       "data": "2026-07-15T11:09",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639648"
+    },
+    {
+      "id": 2642207,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade da acessibilidade plena em totens de autoatendimento, instalados em estabelecimentos públicos e privados, e dá outras providências.",
+      "data": "2026-08-07T11:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642207"
     }
   ],
   "discursos": [

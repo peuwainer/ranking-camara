@@ -4,9 +4,19 @@
   "partido": "MDB",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73806.jpg",
-  "score": 0.62,
-  "rank": 508,
-  "proposicoes": [],
+  "score": 0.69,
+  "rank": 505,
+  "proposicoes": [
+    {
+      "id": 2642188,
+      "tipo": "PL",
+      "numero": 4929,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.732, de 22 de novembro de 2012, para prever o encaminhamento de pacientes do Sistema Único de Saúde a estabelecimento privado quando houver descumprimento dos prazos legais para diagnóstico ou tratamento do câncer.",
+      "data": "2026-08-07T09:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642188"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

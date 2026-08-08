@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220644.jpg",
-  "score": 31.88,
-  "rank": 320,
-  "proposicoes": [],
+  "score": 31.94,
+  "rank": 295,
+  "proposicoes": [
+    {
+      "id": 2642209,
+      "tipo": "PL",
+      "numero": 4935,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei n° 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar a conduta de divulgar, expor ou disponibilizar dados pessoais, biométricos ou informações que permitam a identificação de vítimas de violência doméstica, familiar ou crimes contra a dignidade sexual.",
+      "data": "2026-08-07T11:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642209"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

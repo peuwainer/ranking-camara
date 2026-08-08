@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220640.jpg",
-  "score": 35.06,
-  "rank": 112,
+  "score": 35.13,
+  "rank": 106,
   "proposicoes": [
     {
       "id": 2640276,
@@ -15,6 +15,15 @@
       "ementa": "Estabelece regras de proteção e defesa das pessoas idosas contra jogos de azar.",
       "data": "2026-07-17T10:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640276"
+    },
+    {
+      "id": 2642225,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 14.835, de 4 de abril de 2024 (Lei do Sistema Nacional de Cultura), e a Lei nº 8.429, de 2 de junho de 1992 (Lei de Improbidade Administrativa), para dispor sobre a garantia de isonomia material e a vedação à assimetria de tratamento no apoio estatal a eventos de natureza religiosa.",
+      "data": "2026-08-07T13:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642225"
     }
   ],
   "discursos": [],
