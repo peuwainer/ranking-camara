@@ -4,9 +4,28 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160561.jpg",
-  "score": 31.25,
-  "rank": 343,
-  "proposicoes": [],
+  "score": 31.38,
+  "rank": 324,
+  "proposicoes": [
+    {
+      "id": 2642402,
+      "tipo": "PL",
+      "numero": 4962,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Apoio aos Municípios para Contratação de Profissionais Especializados no Atendimento à Pessoa com Transtorno do Espectro Autista (TEA) e à sua Família, no âmbito do Sistema Único de Saúde e do Sistema Único de Assistência Social, e dá outras providências.",
+      "data": "2026-08-10T15:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642402"
+    },
+    {
+      "id": 2642403,
+      "tipo": "PL",
+      "numero": 4963,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Apoio aos Municípios para Aquisição e Distribuição Gratuita de Protetores Auriculares (Abafadores de Ruído) a Pessoas com Transtorno do Espectro Autista (TEA), e dá outras providências.",
+      "data": "2026-08-10T15:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642403"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

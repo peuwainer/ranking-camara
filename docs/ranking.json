@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-10T08:08:55.979694+00:00",
+  "atualizado_em": "2026-08-11T07:30:44.676455+00:00",
   "legislatura": 57,
   "deputados": [
     {
@@ -165,8 +165,8 @@
       "partido": "MISSÃO",
       "uf": "SP",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204536.jpg",
-      "score": 43.0,
-      "proposicoes": 13,
+      "score": 43.12,
+      "proposicoes": 15,
       "presenca_votacoes": 100.0,
       "discursos": 6,
       "orgaos": 2
@@ -497,6 +497,19 @@
       "orgaos": 13
     },
     {
+      "id": 73579,
+      "nome": "JOÃO ALBERTO FRAGA SILVA",
+      "nome_urna": "Alberto Fraga",
+      "partido": "PL",
+      "uf": "DF",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73579.jpg",
+      "score": 38.08,
+      "proposicoes": 2,
+      "presenca_votacoes": 100.0,
+      "discursos": 3,
+      "orgaos": 4
+    },
+    {
       "id": 220615,
       "nome": "HENRIQUE DOS SANTOS VIEIRA LIMA",
       "nome_urna": "Pastor Henrique Vieira",
@@ -508,19 +521,6 @@
       "presenca_votacoes": 100.0,
       "discursos": 2,
       "orgaos": 7
-    },
-    {
-      "id": 73579,
-      "nome": "JOÃO ALBERTO FRAGA SILVA",
-      "nome_urna": "Alberto Fraga",
-      "partido": "PL",
-      "uf": "DF",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73579.jpg",
-      "score": 38.02,
-      "proposicoes": 1,
-      "presenca_votacoes": 100.0,
-      "discursos": 3,
-      "orgaos": 4
     },
     {
       "id": 74295,
@@ -568,8 +568,8 @@
       "partido": "PL",
       "uf": "BA",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-      "score": 37.52,
-      "proposicoes": 10,
+      "score": 37.65,
+      "proposicoes": 12,
       "presenca_votacoes": 100.0,
       "discursos": 0,
       "orgaos": 11
@@ -581,8 +581,8 @@
       "partido": "PL",
       "uf": "RN",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/213762.jpg",
-      "score": 37.52,
-      "proposicoes": 10,
+      "score": 37.58,
+      "proposicoes": 11,
       "presenca_votacoes": 100.0,
       "discursos": 0,
       "orgaos": 11
@@ -984,6 +984,19 @@
       "partido": "PSOL",
       "uf": "SP",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220645.jpg",
+      "score": 35.95,
+      "proposicoes": 5,
+      "presenca_votacoes": 100.0,
+      "discursos": 0,
+      "orgaos": 9
+    },
+    {
+      "id": 220666,
+      "nome": "LUIZ DE FRANÇA E SILVA MEIRA",
+      "nome_urna": "Coronel Meira",
+      "partido": "PL",
+      "uf": "PE",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220666.jpg",
       "score": 35.88,
       "proposicoes": 4,
       "presenca_votacoes": 100.0,
@@ -1002,19 +1015,6 @@
       "presenca_votacoes": 100.0,
       "discursos": 1,
       "orgaos": 6
-    },
-    {
-      "id": 220666,
-      "nome": "LUIZ DE FRANÇA E SILVA MEIRA",
-      "nome_urna": "Coronel Meira",
-      "partido": "PL",
-      "uf": "PE",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220666.jpg",
-      "score": 35.75,
-      "proposicoes": 2,
-      "presenca_votacoes": 100.0,
-      "discursos": 0,
-      "orgaos": 9
     },
     {
       "id": 74253,
@@ -1277,27 +1277,14 @@
       "orgaos": 6
     },
     {
-      "id": 220641,
-      "nome": "RODRIGO GAMBALE VIEIRA",
-      "nome_urna": "Rodrigo Gambale",
-      "partido": "PODE",
-      "uf": "SP",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220641.jpg",
-      "score": 35.26,
-      "proposicoes": 4,
-      "presenca_votacoes": 100.0,
-      "discursos": 0,
-      "orgaos": 8
-    },
-    {
       "id": 220556,
       "nome": "ANA PAULA DE SOUZA LIMA",
       "nome_urna": "Ana Paula Lima",
       "partido": "PT",
       "uf": "SC",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220556.jpg",
-      "score": 35.19,
-      "proposicoes": 3,
+      "score": 35.26,
+      "proposicoes": 4,
       "presenca_votacoes": 100.0,
       "discursos": 0,
       "orgaos": 8
@@ -1309,8 +1296,21 @@
       "partido": "REPUBLICANOS",
       "uf": "DF",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204372.jpg",
-      "score": 35.19,
-      "proposicoes": 3,
+      "score": 35.26,
+      "proposicoes": 4,
+      "presenca_votacoes": 100.0,
+      "discursos": 0,
+      "orgaos": 8
+    },
+    {
+      "id": 220641,
+      "nome": "RODRIGO GAMBALE VIEIRA",
+      "nome_urna": "Rodrigo Gambale",
+      "partido": "PODE",
+      "uf": "SP",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220641.jpg",
+      "score": 35.26,
+      "proposicoes": 4,
       "presenca_votacoes": 100.0,
       "discursos": 0,
       "orgaos": 8
@@ -1407,6 +1407,19 @@
       "orgaos": 8
     },
     {
+      "id": 220687,
+      "nome": "MARCIO JOSE HONAISER",
+      "nome_urna": "Márcio Honaiser",
+      "partido": "SOLIDARIEDADE",
+      "uf": "MA",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220687.jpg",
+      "score": 35.06,
+      "proposicoes": 1,
+      "presenca_votacoes": 100.0,
+      "discursos": 0,
+      "orgaos": 8
+    },
+    {
       "id": 204559,
       "nome": "JOSÉ CERQUEIRA DE SANTANA NETO",
       "nome_urna": "Zé Neto",
@@ -1485,19 +1498,6 @@
       "orgaos": 8
     },
     {
-      "id": 220687,
-      "nome": "MARCIO JOSE HONAISER",
-      "nome_urna": "Márcio Honaiser",
-      "partido": "SOLIDARIEDADE",
-      "uf": "MA",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220687.jpg",
-      "score": 35.0,
-      "proposicoes": 0,
-      "presenca_votacoes": 100.0,
-      "discursos": 0,
-      "orgaos": 8
-    },
-    {
       "id": 180214,
       "nome": "RAIMUNDO DINIZ ARAÚJO",
       "nome_urna": "Pastor Diniz",
@@ -1569,8 +1569,8 @@
       "partido": "REPUBLICANOS",
       "uf": "BA",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-      "score": 34.76,
-      "proposicoes": 6,
+      "score": 34.83,
+      "proposicoes": 7,
       "presenca_votacoes": 100.0,
       "discursos": 0,
       "orgaos": 7
@@ -1584,6 +1584,19 @@
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220632.jpg",
       "score": 34.57,
       "proposicoes": 3,
+      "presenca_votacoes": 100.0,
+      "discursos": 0,
+      "orgaos": 7
+    },
+    {
+      "id": 220538,
+      "nome": "JOSÉ FRANCISCO LOPES DE ALBUQUERQUE",
+      "nome_urna": "Albuquerque",
+      "partido": "REPUBLICANOS",
+      "uf": "RR",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220538.jpg",
+      "score": 34.5,
+      "proposicoes": 2,
       "presenca_votacoes": 100.0,
       "discursos": 0,
       "orgaos": 7
@@ -1636,19 +1649,6 @@
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160632.jpg",
       "score": 34.5,
       "proposicoes": 2,
-      "presenca_votacoes": 100.0,
-      "discursos": 0,
-      "orgaos": 7
-    },
-    {
-      "id": 220538,
-      "nome": "JOSÉ FRANCISCO LOPES DE ALBUQUERQUE",
-      "nome_urna": "Albuquerque",
-      "partido": "REPUBLICANOS",
-      "uf": "RR",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220538.jpg",
-      "score": 34.44,
-      "proposicoes": 1,
       "presenca_votacoes": 100.0,
       "discursos": 0,
       "orgaos": 7
@@ -1810,6 +1810,19 @@
       "orgaos": 6
     },
     {
+      "id": 220618,
+      "nome": "JOSÉ PORTUGAL NETO",
+      "nome_urna": "Sargento Portugal",
+      "partido": "PODE",
+      "uf": "RJ",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220618.jpg",
+      "score": 33.94,
+      "proposicoes": 3,
+      "presenca_votacoes": 100.0,
+      "discursos": 0,
+      "orgaos": 6
+    },
+    {
       "id": 204495,
       "nome": "AIRTON LUIZ FALEIRO",
       "nome_urna": "Airton Faleiro",
@@ -1849,6 +1862,19 @@
       "orgaos": 6
     },
     {
+      "id": 220697,
+      "nome": "JADYEL SILVA ALENCAR",
+      "nome_urna": "Jadyel Alencar",
+      "partido": "REPUBLICANOS",
+      "uf": "PI",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220697.jpg",
+      "score": 33.88,
+      "proposicoes": 2,
+      "presenca_votacoes": 100.0,
+      "discursos": 0,
+      "orgaos": 6
+    },
+    {
       "id": 204404,
       "nome": "LUCAS BELLO REDECKER",
       "nome_urna": "Lucas Redecker",
@@ -1875,19 +1901,6 @@
       "orgaos": 6
     },
     {
-      "id": 220618,
-      "nome": "JOSÉ PORTUGAL NETO",
-      "nome_urna": "Sargento Portugal",
-      "partido": "PODE",
-      "uf": "RJ",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220618.jpg",
-      "score": 33.88,
-      "proposicoes": 2,
-      "presenca_votacoes": 100.0,
-      "discursos": 0,
-      "orgaos": 6
-    },
-    {
       "id": 160538,
       "nome": "ELVINO JOSÉ BOHN GASS",
       "nome_urna": "Bohn Gass",
@@ -1907,19 +1920,6 @@
       "partido": "PP",
       "uf": "PR",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73768.jpg",
-      "score": 33.81,
-      "proposicoes": 1,
-      "presenca_votacoes": 100.0,
-      "discursos": 0,
-      "orgaos": 6
-    },
-    {
-      "id": 220697,
-      "nome": "JADYEL SILVA ALENCAR",
-      "nome_urna": "Jadyel Alencar",
-      "partido": "REPUBLICANOS",
-      "uf": "PI",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220697.jpg",
       "score": 33.81,
       "proposicoes": 1,
       "presenca_votacoes": 100.0,
@@ -2349,11 +2349,24 @@
       "partido": "PT",
       "uf": "SP",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
-      "score": 33.26,
-      "proposicoes": 3,
+      "score": 33.33,
+      "proposicoes": 4,
       "presenca_votacoes": 100.0,
       "discursos": 1,
       "orgaos": 2
+    },
+    {
+      "id": 91228,
+      "nome": "WALDEMAR DE ANDRADA IGNÁCIO DE OLIVEIRA",
+      "nome_urna": "Waldemar Oliveira",
+      "partido": "AVANTE",
+      "uf": "PE",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/91228.jpg",
+      "score": 33.32,
+      "proposicoes": 3,
+      "presenca_votacoes": 100.0,
+      "discursos": 0,
+      "orgaos": 5
     },
     {
       "id": 220548,
@@ -2375,6 +2388,19 @@
       "partido": "PL",
       "uf": "SP",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
+      "score": 33.25,
+      "proposicoes": 2,
+      "presenca_votacoes": 100.0,
+      "discursos": 0,
+      "orgaos": 5
+    },
+    {
+      "id": 220565,
+      "nome": "ADRIANA SAUTHIER ACCORSI",
+      "nome_urna": "Delegada Adriana Accorsi",
+      "partido": "PT",
+      "uf": "GO",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220565.jpg",
       "score": 33.25,
       "proposicoes": 2,
       "presenca_votacoes": 100.0,
@@ -2408,19 +2434,6 @@
       "orgaos": 5
     },
     {
-      "id": 91228,
-      "nome": "WALDEMAR DE ANDRADA IGNÁCIO DE OLIVEIRA",
-      "nome_urna": "Waldemar Oliveira",
-      "partido": "AVANTE",
-      "uf": "PE",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/91228.jpg",
-      "score": 33.25,
-      "proposicoes": 2,
-      "presenca_votacoes": 100.0,
-      "discursos": 0,
-      "orgaos": 5
-    },
-    {
       "id": 220605,
       "nome": "EDUARDO CARVALHO BANDEIRA DE MELLO",
       "nome_urna": "Bandeira de Mello",
@@ -2440,19 +2453,6 @@
       "partido": "PV",
       "uf": "PE",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/88256.jpg",
-      "score": 33.19,
-      "proposicoes": 1,
-      "presenca_votacoes": 100.0,
-      "discursos": 0,
-      "orgaos": 5
-    },
-    {
-      "id": 220565,
-      "nome": "ADRIANA SAUTHIER ACCORSI",
-      "nome_urna": "Delegada Adriana Accorsi",
-      "partido": "PT",
-      "uf": "GO",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220565.jpg",
       "score": 33.19,
       "proposicoes": 1,
       "presenca_votacoes": 100.0,
@@ -3331,6 +3331,19 @@
       "orgaos": 4
     },
     {
+      "id": 73433,
+      "nome": "ARLINDO CHIGNALIA JUNIOR",
+      "nome_urna": "Arlindo Chinaglia",
+      "partido": "PT",
+      "uf": "SP",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73433.jpg",
+      "score": 32.5,
+      "proposicoes": 0,
+      "presenca_votacoes": 100.0,
+      "discursos": 0,
+      "orgaos": 4
+    },
+    {
       "id": 204460,
       "nome": "Carlos Roberto Jordy Coelho de Mattos",
       "nome_urna": "Carlos Jordy",
@@ -3877,19 +3890,6 @@
       "orgaos": 3
     },
     {
-      "id": 73433,
-      "nome": "ARLINDO CHIGNALIA JUNIOR",
-      "nome_urna": "Arlindo Chinaglia",
-      "partido": "PT",
-      "uf": "SP",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73433.jpg",
-      "score": 31.88,
-      "proposicoes": 0,
-      "presenca_votacoes": 100.0,
-      "discursos": 0,
-      "orgaos": 3
-    },
-    {
       "id": 220692,
       "nome": "ADALBERTO ROSA BARRETO",
       "nome_urna": "Dal Barreto",
@@ -4202,6 +4202,19 @@
       "orgaos": 2
     },
     {
+      "id": 160561,
+      "nome": "JOSÉ OLIMPIO SILVEIRA MORAES",
+      "nome_urna": "Missionário José Olimpio",
+      "partido": "PL",
+      "uf": "SP",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160561.jpg",
+      "score": 31.38,
+      "proposicoes": 2,
+      "presenca_votacoes": 100.0,
+      "discursos": 0,
+      "orgaos": 2
+    },
+    {
       "id": 204398,
       "nome": "LUIS FELIPE BONATTO FRANCISCHINI",
       "nome_urna": "Felipe Francischini",
@@ -4449,19 +4462,6 @@
       "orgaos": 2
     },
     {
-      "id": 160561,
-      "nome": "JOSÉ OLIMPIO SILVEIRA MORAES",
-      "nome_urna": "Missionário José Olimpio",
-      "partido": "PL",
-      "uf": "SP",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160561.jpg",
-      "score": 31.25,
-      "proposicoes": 0,
-      "presenca_votacoes": 100.0,
-      "discursos": 0,
-      "orgaos": 2
-    },
-    {
       "id": 194260,
       "nome": "NIVALDO FERREIRA DE ALBUQUERQUE NETO",
       "nome_urna": "Nivaldo Albuquerque",
@@ -4631,6 +4631,19 @@
       "orgaos": 1
     },
     {
+      "id": 154178,
+      "nome": "MILTON VIEIRA PINTO",
+      "nome_urna": "Milton Vieira",
+      "partido": "REPUBLICANOS",
+      "uf": "SP",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/154178.jpg",
+      "score": 30.69,
+      "proposicoes": 1,
+      "presenca_votacoes": 100.0,
+      "discursos": 0,
+      "orgaos": 1
+    },
+    {
       "id": 178905,
       "nome": "FABIO PAULINO GARCIA",
       "nome_urna": "Fabio Garcia",
@@ -4689,19 +4702,6 @@
       "partido": "REPUBLICANOS",
       "uf": "BA",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204558.jpg",
-      "score": 30.62,
-      "proposicoes": 0,
-      "presenca_votacoes": 100.0,
-      "discursos": 0,
-      "orgaos": 1
-    },
-    {
-      "id": 154178,
-      "nome": "MILTON VIEIRA PINTO",
-      "nome_urna": "Milton Vieira",
-      "partido": "REPUBLICANOS",
-      "uf": "SP",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/154178.jpg",
       "score": 30.62,
       "proposicoes": 0,
       "presenca_votacoes": 100.0,
@@ -4845,8 +4845,8 @@
       "partido": "PT",
       "uf": "PI",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/191923.jpg",
-      "score": 22.7,
-      "proposicoes": 4,
+      "score": 22.76,
+      "proposicoes": 5,
       "presenca_votacoes": 50.0,
       "discursos": 1,
       "orgaos": 9
@@ -4910,8 +4910,8 @@
       "partido": "PT",
       "uf": "RJ",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220602.jpg",
-      "score": 22.0,
-      "proposicoes": 2,
+      "score": 22.07,
+      "proposicoes": 3,
       "presenca_votacoes": 50.0,
       "discursos": 0,
       "orgaos": 11
@@ -5749,6 +5749,19 @@
       "orgaos": 4
     },
     {
+      "id": 236284,
+      "nome": "GLYCON MOREIRA FRANCO",
+      "nome_urna": "Glaycon Franco",
+      "partido": "PSDB",
+      "uf": "MG",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236284.jpg",
+      "score": 17.07,
+      "proposicoes": 3,
+      "presenca_votacoes": 50.0,
+      "discursos": 0,
+      "orgaos": 3
+    },
+    {
       "id": 236518,
       "nome": "HILTON SANTIN ROVEDA",
       "nome_urna": "Santin Roveda",
@@ -5768,19 +5781,6 @@
       "partido": "PODE",
       "uf": "SP",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220635.jpg",
-      "score": 17.0,
-      "proposicoes": 2,
-      "presenca_votacoes": 50.0,
-      "discursos": 0,
-      "orgaos": 3
-    },
-    {
-      "id": 236284,
-      "nome": "GLYCON MOREIRA FRANCO",
-      "nome_urna": "Glaycon Franco",
-      "partido": "PSDB",
-      "uf": "MG",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236284.jpg",
       "score": 17.0,
       "proposicoes": 2,
       "presenca_votacoes": 50.0,
@@ -5911,8 +5911,8 @@
       "partido": "PRD",
       "uf": "MA",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204566.jpg",
-      "score": 16.44,
-      "proposicoes": 3,
+      "score": 16.64,
+      "proposicoes": 6,
       "presenca_votacoes": 50.0,
       "discursos": 0,
       "orgaos": 2
@@ -6126,6 +6126,19 @@
       "orgaos": 9
     },
     {
+      "id": 178964,
+      "nome": "HEITOR JOSE SCHUCH",
+      "nome_urna": "Heitor Schuch",
+      "partido": "PSD",
+      "uf": "RS",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
+      "score": 5.13,
+      "proposicoes": 2,
+      "presenca_votacoes": 0.0,
+      "discursos": 0,
+      "orgaos": 8
+    },
+    {
       "id": 220558,
       "nome": "MARCOS ANTONIO PEREIRA GOMES",
       "nome_urna": "Zé Trovão",
@@ -6134,19 +6147,6 @@
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220558.jpg",
       "score": 5.13,
       "proposicoes": 2,
-      "presenca_votacoes": 0.0,
-      "discursos": 0,
-      "orgaos": 8
-    },
-    {
-      "id": 178964,
-      "nome": "HEITOR JOSE SCHUCH",
-      "nome_urna": "Heitor Schuch",
-      "partido": "PSD",
-      "uf": "RS",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
-      "score": 5.06,
-      "proposicoes": 1,
       "presenca_votacoes": 0.0,
       "discursos": 0,
       "orgaos": 8
@@ -6503,6 +6503,19 @@
       "orgaos": 2
     },
     {
+      "id": 226075,
+      "nome": "PRISCILA BEZERRA DA COSTA",
+      "nome_urna": "Priscila Costa",
+      "partido": "PL",
+      "uf": "CE",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/226075.jpg",
+      "score": 1.25,
+      "proposicoes": 0,
+      "presenca_votacoes": 0.0,
+      "discursos": 0,
+      "orgaos": 2
+    },
+    {
       "id": 220660,
       "nome": "YURY BRUNO ALENCAR ARAUJO",
       "nome_urna": "Yury do Paredão",
@@ -6594,30 +6607,17 @@
       "orgaos": 1
     },
     {
-      "id": 160508,
-      "nome": "AFONSO BANDEIRA FLORENCE",
-      "nome_urna": "Afonso Florence",
-      "partido": "PT",
-      "uf": "BA",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160508.jpg",
-      "score": 0.0,
-      "proposicoes": 0,
-      "presenca_votacoes": 0.0,
-      "discursos": 0,
-      "orgaos": 0
-    },
-    {
       "id": 178963,
       "nome": "LUIS ANTONIO FRANCISCATTO COVATTI",
       "nome_urna": "Covatti Filho",
       "partido": "PP",
       "uf": "RS",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178963.jpg",
-      "score": 0.0,
+      "score": 0.62,
       "proposicoes": 0,
       "presenca_votacoes": 0.0,
       "discursos": 0,
-      "orgaos": 0
+      "orgaos": 1
     },
     {
       "id": 204482,
@@ -6626,6 +6626,19 @@
       "partido": "REPUBLICANOS",
       "uf": "MG",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204482.jpg",
+      "score": 0.13,
+      "proposicoes": 2,
+      "presenca_votacoes": 0.0,
+      "discursos": 0,
+      "orgaos": 0
+    },
+    {
+      "id": 160508,
+      "nome": "AFONSO BANDEIRA FLORENCE",
+      "nome_urna": "Afonso Florence",
+      "partido": "PT",
+      "uf": "BA",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160508.jpg",
       "score": 0.0,
       "proposicoes": 0,
       "presenca_votacoes": 0.0,

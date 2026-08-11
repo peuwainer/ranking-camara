@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220666.jpg",
-  "score": 35.75,
-  "rank": 78,
+  "score": 35.88,
+  "rank": 77,
   "proposicoes": [
     {
       "id": 2641424,
@@ -24,6 +24,24 @@
       "ementa": "Altera a Lei Complementar nº 213, de 15 de janeiro de 2025, e o Decreto-Lei nº 73, de 21 de novembro de 1966, a Lei nº 10.190, de 14 de fevereiro de 2001, a Lei Complementar nº 126, de 15 de janeiro de 2007, e a Lei nº 12.249, de 11 de junho de 2010, para instituir regime jurídico próprio, proporcional e autogerido para as associações de proteção patrimonial mutualista, e dá outras providências.",
       "data": "2026-08-05T09:50",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641972"
+    },
+    {
+      "id": 2642384,
+      "tipo": "PL",
+      "numero": 4958,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 — Código Penal, para tipificar os crimes de coação coletiva violenta e de obstrução coercitiva de via, e as Leis nº 8.072, de 25 de julho de 1990, e 15.358, de 24 de março de 2026.",
+      "data": "2026-08-10T13:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642384"
+    },
+    {
+      "id": 2642386,
+      "tipo": "PL",
+      "numero": 4959,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, para aperfeiçoar o monitoramento da vitimização e da saúde ocupacional dos profissionais de segurança pública e defesa social e instituir o Procedimento de Avaliação e Aprendizagem Pós-Evento Crítico",
+      "data": "2026-08-10T13:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642386"
     }
   ],
   "discursos": [],

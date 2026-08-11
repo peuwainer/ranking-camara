@@ -4,7 +4,7 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 37.52,
+  "score": 37.65,
   "rank": 44,
   "proposicoes": [
     {
@@ -96,6 +96,24 @@
       "ementa": "Altera o Código de Processo Civil e a Lei Geral do Esporte para prever restrição judicial de acesso a eventos esportivos como medida executiva coercitiva em caso de inadimplemento de obrigação alimentar.",
       "data": "2026-08-06T07:13",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642128"
+    },
+    {
+      "id": 2642325,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Acrescenta o inciso IX ao artigo 29 da Lei 14.967 de 09 de setembro de 2024 para prever direito à prisão especial ao vigilante supervisor e ao vigilante por ato decorrente do serviço.",
+      "data": "2026-08-10T10:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642325"
+    },
+    {
+      "id": 2642381,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Altera o art. 22 da Lei nº 14.751, de 12 de dezembro de 2023, que institui a Lei Orgânica Nacional das Polícias Militares, para prever o direito de averbação do tempo de exercício de mandato eletivo para fins de inatividade dos militares estaduais a quem esteja exercendo o mandato ou tenha exercido.",
+      "data": "2026-08-10T09:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642381"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
-  "score": 5.06,
-  "rank": 473,
+  "score": 5.13,
+  "rank": 472,
   "proposicoes": [
     {
       "id": 2641077,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 11.101, de 9 de fevereiro de 2005, para dispor sobre a essencialidade dos estoques de grãos no âmbito da recuperação judicial.",
       "data": "2026-07-21T09:48",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641077"
+    },
+    {
+      "id": 2642376,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-08-10T13:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642376"
     }
   ],
   "discursos": [],
