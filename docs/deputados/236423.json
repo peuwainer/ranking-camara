@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236423.jpg",
-  "score": 31.88,
-  "rank": 322,
-  "proposicoes": [],
+  "score": 31.94,
+  "rank": 302,
+  "proposicoes": [
+    {
+      "id": 2642498,
+      "tipo": "PL",
+      "numero": 4972,
+      "ano": 2026,
+      "ementa": "Inscreve o nome do Padre Inácio de Sousa Rolim no Livro dos Heróis e Heroínas da Pátria.",
+      "data": "2026-08-11T11:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642498"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

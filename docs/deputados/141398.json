@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141398.jpg",
-  "score": 32.56,
-  "rank": 246,
+  "score": 34.38,
+  "rank": 149,
   "proposicoes": [
     {
       "id": 2641582,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641582"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-11T16:32",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. CARLOS ZARATTINI (Bloco/PT - SP. Sem revisão do orador.) - Muito obrigado, Sr. Presidente. Sras. e Srs. Deputados, hoje nós estamos aqui nesta sessão de esforço concentrado da Câmara dos Deputad",
+      "transcricao": "O SR. CARLOS ZARATTINI (Bloco/PT - SP. Sem revisão do orador.) - Muito obrigado, Sr. Presidente. Sras. e Srs. Deputados, hoje nós estamos aqui nesta sessão de esforço concentrado da Câmara dos Deputados, e o Senado também realiza uma sessão que trata de vários assuntos. Mas até agora não entrou na pauta o assunto esperado por 70% dos brasileiros, que é o projeto de lei aprovado por esta Casa com uma esmagadora maioria, mais de 400 votos, que acaba com a escala 6 por 1 e reduz para 40 horas a jornada semanal de trabalho, sem redução de salário. É incrível vermos que o Presidente do Senado, o Senador Davi Alcolumbre, não quer nem sequer discutir essa matéria; ela nem sequer foi encaminhada à Comissão de Constituição e Justiça para ter a sua primeira análise. É necessário que a gente faça uma pressão sobre o Senador, Presidente do Senado e do Congresso Nacional, porque o povo brasileiro quer resolver esse problema o mais rápido possível, não é deixar para as calendas gregas, deixar para depois da eleição. O povo, inclusive, quer saber quem vota a favor, quem vota contra esse projeto, porque é um projeto que permite às famílias brasileiras terem melhor convivência, permite às mulheres brasileiras poderem ter dia de descanso, permite às crianças brasileiras conviverem mais um dia com seus pais. É disso que se trata. Nós não conseguimos entender por que o Senador Davi Alcolumbre não coloca em pauta essa PEC tão importante para o povo brasileiro. Nós lutamos muito para aprovar essa PEC aqui na Câmara. Houve entendimento, houve acordo, houve um consenso bastante amplo de que ela deveria caminhar e caminhou. Apenas 22 Deputados votaram contra, a esmagadora maioria votou favoravelmente. Por isso, nós queremos solicitar ao Presidente do Senado Federal, Senador Davi Alcolumbre: coloque a sua mão na consciência, pense nas famílias brasileiras. O Brasil já ganhou produtividade, já temos aqui muitas e muitas empresas funcionando com novas tecnologias, com inteligência artificial, as estradas brasileiras, ao longo desses últimos 40 anos, foram pavimentadas, melhorou o trânsito, o tempo de percurso é menor. Nós conseguimos avançar muito na construção civil também, os prédios são construídos cada vez com menos tempo, com menos demora. O comércio está totalmente informatizado. Então, é sim possível acabar com a escala seis por um. Bote para votar, Senador Davi."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 733, de 2025, do Sr. Leur Lomanto Júnior, que \"dispõe sobre o Sistema Portuário Brasileiro, regula a exploração dos portos, as atividades de operação portuária, o trabalho portuário e dá outras providências\"",

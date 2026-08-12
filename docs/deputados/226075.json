@@ -4,10 +4,18 @@
   "partido": "PL",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/226075.jpg",
-  "score": 1.25,
-  "rank": 501,
+  "score": 3.07,
+  "rank": 485,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-11T19:12",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. PRISCILA COSTA (PL - CE. Sem revisão da oradora.) - Cumprimento V.Exa., querido Presidente. Cumprimento todos os colegas que nos acompanham aqui no Plenário da Câmara Federal. Hoje é o meu prim",
+      "transcricao": "A SRA. PRISCILA COSTA (PL - CE. Sem revisão da oradora.) - Cumprimento V.Exa., querido Presidente. Cumprimento todos os colegas que nos acompanham aqui no Plenário da Câmara Federal. Hoje é o meu primeiro dia de retorno como Deputada Federal. Há pouco tempo eu estava como Vereadora da cidade de Fortaleza, e sonhei com este dia. Imaginei que eu estaria aqui dando motivos para celebrar a beleza e a vida do meu Estado querido, que é o Estado do Ceará, mas, infelizmente, o dia de hoje vem me lembrar que é com profundo lamento, vergonha e constrangimento que eu venho falar sobre todo o sofrimento que o povo do Ceará tem vivido com o avanço da violência no nosso Estado. A força policial está de joelhos, e dizer que a força policial está de joelhos é dizer que o próprio povo está de joelhos, sem a proteção que o Estado deveria garantir para a vida de cada um dos cearenses. A prova disso é que o que acontece hoje vem relembrar bem a situação do Estado do Ceará, pois hoje nós perdemos um policial de 27 anos. Um jovem líder que colocava os seus sonhos à disposição da sociedade cearense para proteger aqueles que precisavam hoje perdeu a sua vida. Perdeu a sua vida um policial de 27 anos, fardado, enquanto saía do seu serviço. Usando farda, um policial foi assassinado e carbonizado dentro do seu carro. Aquela farda que simbolizava respeito agora no Ceará simboliza impotência, impotência diante da certeza da impunidade daqueles que querem fazer o mal. Sangue de policiais tem sido derramado no meu Estado, e eu digo isso com profunda vergonha e também lamento. Há poucos dias, durante um debate eleitoral, o Governador do Estado do Ceará, Elmano de Freitas, do Partido dos Trabalhadores, teve a coragem de dizer e nos fazer ouvir que o Estado do Ceará estaria vivendo o seu melhor momento da segurança pública. Ele quis insinuar que o Ceará estaria vivendo o seu melhor momento da vida pública. Mas é este tipo de notícia que o cearense já acorda recebendo: a morte de um policial fardado. Eu quero lembrar aqui que eu vivo em um Estado que há 12 anos é governado pelo Partido dos Trabalhadores. A minha capital é a única capital governada pelo Partido dos Trabalhadores. É isto que o PT tem para entregar ali no nosso Estado e onde ele passa: um lugar marcado pelo sangue. Por isso eu quero dizer: ou o povo cearense arranca o PT do Ceará, ou o PT vai arrancar cada gota de sangue do povo cearense. Em outubro, no Brasil e no Ceará, isso vai acabar. Muito obrigada, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

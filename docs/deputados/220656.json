@@ -4,10 +4,18 @@
   "partido": "PSD",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220656.jpg",
-  "score": 33.12,
-  "rank": 204,
+  "score": 34.94,
+  "rank": 137,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-11T17:04",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. FERNANDA PESSOA (Bloco/PSD - CE. Sem revisão da oradora.) - Sr. Presidente, colegas Deputados, assessores, imprensa, amanhã, às 9 horas da manhã, teremos uma sessão solene muito especial em hom",
+      "transcricao": "A SRA. FERNANDA PESSOA (Bloco/PSD - CE. Sem revisão da oradora.) - Sr. Presidente, colegas Deputados, assessores, imprensa, amanhã, às 9 horas da manhã, teremos uma sessão solene muito especial em homenagem aos 20 anos da Lei Maria da Penha, uma das maiores conquistas do nosso País no enfrentamento à violência contra a mulher. É impossível falar desta lei sem lembrar que Maria da Penha é cearense, uma mulher de garra, determinada, que transformou a própria dor em luta e fez com que sua história mudasse a vida de milhões de brasileiras. A sua coragem mostrou que nenhuma mulher deve aceitar a violência como destino, mas, 20 anos depois, ainda temos muito o que avançar. O feminicídio continua destruindo famílias e tirando vidas. Precisamos fortalecer a prevenção, a proteção e, principalmente, a punição de quem agride e mata as mulheres. Por isso, reforço a urgência de avançarmos na votação da lei que tipifica a misoginia. O ódio e o desprezo contra as mulheres precisam ser reconhecidos e combatidos com firmeza pela sociedade e pelo Estado. Que os 20 anos da Lei Maria da Penha sejam não apenas uma celebração, mas também um chamado à ação. Que nenhuma mulher seja silenciada, violentada ou morta por ser mulher. Maria da Penha é cearense, sua dor virou resistência e sua luta continua sendo a luta de todas nós. Era o que tinha a dizer, Sr. Presidente. Muito obrigada."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

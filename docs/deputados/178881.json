@@ -4,10 +4,18 @@
   "partido": "REPUBLICANOS",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178881.jpg",
-  "score": 2.5,
-  "rank": 484,
+  "score": 4.94,
+  "rank": 477,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-11T17:52",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. ALUISIO MENDES (Bloco/REPUBLICANOS - MA. Sem revisão do orador.) - Muito obrigado, Presidente. É motivo de muita alegria usar a tribuna desta Casa hoje, numa sessão sendo presidida por V.Exa., p",
+      "transcricao": "O SR. ALUISIO MENDES (Bloco/REPUBLICANOS - MA. Sem revisão do orador.) - Muito obrigado, Presidente. É motivo de muita alegria usar a tribuna desta Casa hoje, numa sessão sendo presidida por V.Exa., por quem tenho grande apreço. Eu uso esta tribuna para registrar um fato muito importante. Hoje, na reunião de Líderes, foi definida a instalação da Comissão Especial da PEC que vai rediscutir a maioridade penal. Este é um tema que suscita muita discussão na sociedade, com aprovação de mais de 80% da população brasileira. Quero agradecer ao meu Líder, Deputado Augusto Coutinho, e ao Presidente desta Casa, Deputado Hugo Motta, que me indicaram para presidir esta importante Comissão. Tenho certeza de que farei isso com muita responsabilidade e muito orgulho, porque, desde que cheguei a esta Casa, em 2015, tenho debatido esse assunto. Aliás, fui um dos grandes idealizadores da aprovação da maioridade penal em 2016, que, infelizmente, ficou mais de 10 anos parada no Senado Federal. Agora esta Casa volta a discutir o tema, com a importância de a sociedade estar vigilante. Não tenho dúvida nenhuma de que irei presidir essa Comissão com muita isenção, mas a minha posição é pela aprovação da PEC. A sociedade brasileira não consegue mais conviver com essa impunidade. Temos visto todos os dias jovens cometendo crimes atrozes e ficando impunes. A sociedade não aceita mais isso. Nós teremos a oportunidade, no decorrer da Comissão Especial, em que iremos ouvir todas as autoridades e especialistas sobre esse tema, de debater com profundidade e fazer com que esta Comissão entregue à sociedade o que ela tanto espera: a redução da maioridade penal neste País para 16 anos. Presidente, quero aproveitar a oportunidade para parabenizar e agradecer à Prefeita Dra. Fernanda, de Fortaleza dos Nogueiras, cidade em que visitei na quarta-feira durante a 13ª Festa do Vaqueiro, a maior da região sul do Maranhão. Isso não poderia ser diferente, porque é capitaneada e conduzida hoje pela Dra. Fernanda, nossa Prefeita, uma das melhores Prefeitas do Maranhão, que revolucionou a cidade de Fortaleza dos Nogueiras. Nessa grande festa, tivemos a participação de vários parceiros, grandes amigos, como o Prefeito de São Pedro dos Crentes, Rômulo Arruda; o Prefeito de Lajeado Novo, Itaires Tratozao; e o Prefeito de São João do Paraíso, Marcos Vinicius. Esses quatro jovens Prefeitos têm revolucionado a política do nosso Estado, principalmente nos seus Municípios. Quero deixar aqui os meus parabéns à Dra. Fernanda pela grande festa, que teve a aceitação de toda a população e de toda a região, e se consolidou como a maior festa popular de toda a região sul do Maranhão. Muito obrigado, Presidente. Eu gostaria que o meu pronunciamento fosse divulgado nos meios de comunicação da Casa."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 18, de 2025, do Poder Executivo, que \"altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública\"",
@@ -32,6 +40,12 @@
       "sigla": "CFFC",
       "cargo": "Suplente",
       "desde": "2026-02-10T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 32, de 2015, do Sr. Gonzaga Patriota, que \"altera a redação dos artigos 14 e 228 da Constituição Federal, para estabelecer a plena maioridade civil e penal aos dezesseis anos de idade\", e apensadas",
+      "sigla": "PEC03215",
+      "cargo": "Titular",
+      "desde": "2026-08-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178881/votacoes-nominais-plenario/2026"

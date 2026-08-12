@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204501.jpg",
-  "score": 36.51,
-  "rank": 64,
+  "score": 37.14,
+  "rank": 66,
   "proposicoes": [
     {
       "id": 2639456,
@@ -104,6 +104,12 @@
       "sigla": "PEC22119",
       "cargo": "Presidente",
       "desde": "2026-04-29T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3080, de 2020, do Senhor Alexandre Frota, que \"Institui a política pública nacional para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autismo, e dá outras providências\", e apensados",
+      "sigla": "PL308020",
+      "cargo": "Titular",
+      "desde": "2026-08-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204501/votacoes-nominais-plenario/2026"

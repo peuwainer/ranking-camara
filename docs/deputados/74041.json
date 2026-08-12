@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74041.jpg",
-  "score": 31.94,
-  "rank": 290,
+  "score": 33.76,
+  "rank": 168,
   "proposicoes": [
     {
       "id": 2641582,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641582"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-11T16:48",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. LUIZ COUTO (Bloco/PT - PB. Sem revisão do orador.) - Pois é, Sr. Presidente, é um milagre! Eu quero fazer um chamado à consciência, um chamado à responsabilidade, um chamado à ação. Nós estamos ",
+      "transcricao": "O SR. LUIZ COUTO (Bloco/PT - PB. Sem revisão do orador.) - Pois é, Sr. Presidente, é um milagre! Eu quero fazer um chamado à consciência, um chamado à responsabilidade, um chamado à ação. Nós estamos diante de uma situação de extrema gravidade no Brasil, de uma situação que não permite mais silêncio, omissão nem adiamento. A violência contra as mulheres precisa ser enfrentada com todas as forças do Estado, da soberania brasileira e da sociedade brasileira. E o Parlamento tem uma responsabilidade fundamental nesta luta. Por isso, desta tribuna, quero convidar todos e todas os Parlamentares, independentemente do partido ou de posição política, a se unirem em torno de uma causa que deve estar acima das diferenças: a proteção da vida das mulheres brasileiras. Eu assinei o manifesto pela criminalização da misoginia porque acredito que precisamos dar um passo decisivo. Misoginia não é opinião, não é brincadeira, não é liberdade de expressão. Misoginia é discriminação, é violência, é a expressão de uma cultura de ódio e de desprezo contra as mulheres. Muitas vezes, é justamente aí que começa a escala da violência: começa o discurso que inferioriza; começa a humilhação; começa o controle; começa a ameaça; começa o ódio; começa o machismo, que considera a mulher um ser inferior, alguém que pode ser dominada, submetida ou silenciada. O Projeto de Lei nº 896, de 2023, já aprovado pelo Senado, chegou a esta Câmara e recebeu o regime de urgência aprovado pelo Plenário. O texto trata a misoginia como uma forma grave de discriminação contra as mulheres e prevê sua equiparação aos crimes previstos na legislação de combate ao racismo. Nós já discutimos, já ouvimos especialistas, já constituímos grupo de trabalho, já demos um relatório. É hora de votar, de votar, Sr. Presidente. E eu quero, desta tribuna, fazer um apelo ao Presidente da Câmara dos Deputados: Presidente Hugo Motta, coloque o projeto de criminalização da misoginia em votação no Plenário o mais rapidamente possível, se possível, ainda nesta semana. A sociedade não pode esperar. Sr. Presidente, eu peço publicidade deste pronunciamento, que não foi possível fazer por completo, pelos meios de comunicação da Casa e pelo programa A Voz do Brasil."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Direitos Humanos, Minorias e Igualdade Racial",

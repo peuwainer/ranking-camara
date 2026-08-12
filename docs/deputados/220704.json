@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220704.jpg",
-  "score": 35.69,
-  "rank": 82,
+  "score": 37.51,
+  "rank": 56,
   "proposicoes": [
     {
       "id": 2642011,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642011"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-11T19:16",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. CAROL DARTORA (Bloco/PT - PR. Sem revisão da oradora.) - Muito obrigada. Boa noite a todas e todos. Bom, o Brasil precisa escolher que projeto de País quer construir. De um lado, temos o projet",
+      "transcricao": "A SRA. CAROL DARTORA (Bloco/PT - PR. Sem revisão da oradora.) - Muito obrigada. Boa noite a todas e todos. Bom, o Brasil precisa escolher que projeto de País quer construir. De um lado, temos o projeto democrático do Presidente Lula, que voltou a colocar desenvolvimento, trabalho e redução das desigualdades no centro das decisões. Do outro lado, temos o bolsonarismo, que, como a gente vê, segue apostando na divisão do povo, no ódio, no ataque às instituições e na retirada de direitos. E essa diferença aparece nos resultados. O Brasil cresceu 2,3% em 2025 e, no primeiro trimestre de 2026, o PIB avançou mais de 1,1%, com crescimento na agropecuária, na indústria e nos serviços. Isso é desenvolvimento. Mas nós queremos avançar ainda mais, porque desenvolvimento não é apenas fazer o PIB crescer, desenvolvimento é melhorar a vida das pessoas. E é por isso também que defendemos o fim da escala 6 por 1. Não existe País verdadeiramente desenvolvido quando o seu povo não tem tempo para viver e não tem tempo para dividi-lo com suas famílias. Não existe País verdadeiramente desenvolvido quando, especialmente, mulheres negras e periféricas acumulam jornadas dentro e fora de casa. E desenvolvimento também significa garantir direito de viver às mulheres. Nos 20 anos da Lei Maria da Penha, a gente viu o absurdo de o agressor da própria Maria da Penha receber espaço em rede nacional. Dar palco a agressor não é liberdade de expressão, é violência simbólica. Por isso, defendemos a criminalização da misoginia. Inclusive tenho uma proposta de lei para criminalizar a misoginia digital, porque o feminicídio não começa no ato, ele começa no discurso de ódio, na ameaça, na perseguição e na naturalização da violência contra as mulheres. E é na diferença entres os projetos que estão em disputa que a população tem que prestar atenção muito bem. Nós escolhemos a democracia contra o autoritarismo, o desenvolvimento contra o retrocesso. Nós escolhemos o direito das pessoas contra o ódio. Nós escolhemos vida digna contra a exploração. Defender o Governo do Presidente Lula é defender um Brasil que voltou a crescer, mas que precisa continuar avançando para que esse crescimento chegue à mesa como comida e salário na vida do nosso povo todos os dias. Por favor, eu peço que a minha palavra seja divulgada no programa Voz do Brasil. E quero dizer que, lá no Paraná, a gente gosta de receber as pessoas muito bem, com chimarrão, com bolinho de fubá. Ninguém vai ser recebido lá com tiro, não, porque o que a gente gosta de cultivar lá é a boa convivência. Muito obrigada."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204495.jpg",
-  "score": 33.88,
-  "rank": 141,
+  "score": 35.7,
+  "rank": 101,
   "proposicoes": [
     {
       "id": 2641582,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641795"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-11T18:04",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. AIRTON FALEIRO (Bloco/PT - PA. Sem revisão do orador.) - Sr. Presidente, eu quero compartilhar com V.Exas. e comemorar que hoje é o Dia Nacional dos Estudantes e das Estudantes. E eu falo nesta ",
+      "transcricao": "O SR. AIRTON FALEIRO (Bloco/PT - PA. Sem revisão do orador.) - Sr. Presidente, eu quero compartilhar com V.Exas. e comemorar que hoje é o Dia Nacional dos Estudantes e das Estudantes. E eu falo nesta data sobre a animação, a emoção de um belo evento que realizei ontem à noite, uma live, um evento virtual com mais de 100 lideranças da luta juvenil relacionadas ao nosso mandato. E o evento foi para ouvi-los; ouvi-los sobre o balanço da atuação do nosso mandato, ouvi-los sobre o que eles pautam como políticas e pautas atuais e perspectivas futuras, inclusive para os próximos 4 anos que virão. Na verdade, foi um evento em que eu observei o reconhecimento dos avanços conquistados a partir das lutas do movimento estudantil, a partir das lutas por melhorias em diversas áreas. E nós recebemos o reconhecimento de que apoiar o esporte  o nosso mandato apoia muito o esporte amador como uma forma de integração social, de disciplina e de acolhimento dessa juventude  foi reconhecido como uma coisa importante. Políticas transversais como a cultura, que dialoga diretamente com a juventude  e o nosso mandato; aliás, eu sou campeão de emendas para a cultura, sou campeão de emendas para o esporte amador, mas há um terceiro componente, porque também sou campeão de emendas para as universidades e institutos federais. E essa juventude, esse movimento estudantil traz reivindicações desde melhorias no auxílio estudantil, na Bolsa Permanência, mas traz como pauta ampliação de novos cursos para gerar novas oportunidades. Eu observei que se faz uma relação direta entre um curso de nível superior, de nível tecnológico com a geração do emprego, mas a nossa juventude vai para além disso. Nossa juventude quer ter protagonismo na socioeconomia, protagonismo no empreendedorismo, quer ter oportunidades para desenvolver também o seu próprio negócio. Nesse sentido, Sr. Presidente, eu quero comemorar este Dia do Estudante também pelo avanço que conseguimos obter no Estado do Pará. Lá nós só tínhamos uma universidade, a Ufpa. Foi criada, no Governo do Presidente Lula, a Ufopa, em Santarém, e no Governo da Presidenta Dilma Rousseff, a Unifesspa, em Marabá. Os Institutos Federais se multiplicaram de um para dezoito e agora temos mais cinco novos campus de universidades. E eu não vejo outro caminho. Por isso é importante ressaltarmos que ter oportunidade de estudar, ter um Pé-de-Meia, programa que permite ao nosso jovem concluir o ensino médio, ver ali um degrau para fazer um curso tecnológico ou, então, o nível superior, é uma conquista que tem que ser valorizada. Portanto, viva a luta do movimento estudantil! Solicito que divulgue nos meios de comunicação este pronunciamento. Obrigado, Sr. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",

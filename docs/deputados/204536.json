@@ -4,8 +4,8 @@
   "partido": "MISSÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204536.jpg",
-  "score": 43.12,
-  "rank": 13,
+  "score": 43.19,
+  "rank": 17,
   "proposicoes": [
     {
       "id": 2641445,
@@ -141,6 +141,15 @@
       "ementa": "Altera a Lei nº Lei nº 11.343, de 2006 (Lei de Drogas), para excluir a hipótese de tráfico privilegiado.",
       "data": "2026-08-10T15:01",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642401"
+    },
+    {
+      "id": 2642485,
+      "tipo": "PL",
+      "numero": 4968,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal) e o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para instituir a indissociabilidade da sanção pecuniária e estabelecer o rito de conversão da multa não paga em atividade laboral ou prestação de serviços à comunidade e dá outras providências.",
+      "data": "2026-08-11T10:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642485"
     }
   ],
   "discursos": [

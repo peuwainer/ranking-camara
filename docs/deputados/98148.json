@@ -4,10 +4,18 @@
   "partido": "MDB",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/98148.jpg",
-  "score": 32.5,
-  "rank": 260,
+  "score": 34.32,
+  "rank": 155,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-11T18:56",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. COBALCHINI (Bloco/MDB - SC. Sem revisão do orador.) - Obrigado, Presidente, meu querido amigo Ricardo Maia. Subo a esta tribuna hoje para fazer um relato de extrema importância para o futuro do ",
+      "transcricao": "O SR. COBALCHINI (Bloco/MDB - SC. Sem revisão do orador.) - Obrigado, Presidente, meu querido amigo Ricardo Maia. Subo a esta tribuna hoje para fazer um relato de extrema importância para o futuro do Estado de Santa Catarina e, em especial, para a região do Meio-Oeste do nosso Estado. Hoje tive uma reunião extremamente importante no Departamento Nacional de Infraestrutura de Transportes  DNIT, com o Diretor de Infraestrutura Ferroviária, Eloi Palma, e com representantes da Secretaria Nacional de Transporte Ferroviário do Ministério dos Transportes. Para que todos compreendam o contexto da pauta que trouxemos hoje à Capital Federal, precisamos olhar para a nossa história. Em 1910, foi inaugurada a centenária Ferrovia São Paulo-Rio Grande, uma obra histórica que cortou o Sul do Brasil e que, por mais de um século, foi o motor do desenvolvimento de dezenas de cidades do Vale do Rio do Peixe. O tempo passou, a tecnologia do transporte mudou e os grandes trens de carga hoje utilizam novos corredores logísticos. Aquele traçado original, com suas curvas e relevo acentuado, tornou-se incompatível com o transporte pesado moderno. É aqui que surge uma oportunidade histórica e inadiável. O contrato de concessão ferroviária atual se encerra em fevereiro de 2027. Diante da devolução e desativação operacional desse trecho, a União se depara com duas escolhas: ou deixa 372 quilômetros de leito ferroviário abandonados, virando um passivo público exposto ao mato, ao vandalismo e a invasões, ou transforma essa infraestrutura em um ativo extraordinário para a sociedade. Foi exatamente para apresentar essa solução que fomos ao DNIT e apresentamos aos diretores do Instituto Caminho do Rio do Peixe a proposta de converter esses 372 quilômetros que ligam União da Vitória, no Paraná, até Marcelino Ramos, no Rio Grande do Sul, atravessando 20 Municípios catarinenses, o coração de Santa Catarina em uma grande via verde de padrão internacional. É um projeto voltado ao cicloturismo de longa distância, caminhadas ecológicas, lazer e preservação da memória histórica de nossas pontes e túneis centenários. Gostaria que V.Exa. fizesse veicular nossa manifestação no programa A Voz do Brasil. Muito obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",

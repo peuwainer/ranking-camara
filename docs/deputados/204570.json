@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204570.jpg",
-  "score": 32.0,
-  "rank": 286,
+  "score": 32.2,
+  "rank": 292,
   "proposicoes": [
     {
       "id": 2639469,
@@ -24,6 +24,33 @@
       "ementa": "Dispõe sobre a obrigatoriedade da presença de profissionais de apoio escolar em sala de aula para estudantes que necessitem de suporte à inclusão educacional e dá outras providências.\nAutor: Deputado DUARTE JR.\nRelator: Deputado PASTOR GIL",
       "data": "2026-08-03T09:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641791"
+    },
+    {
+      "id": 2642574,
+      "tipo": "PL",
+      "numero": 4983,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proteção do consumidor nos contratos de serviços digitais de assinatura, plataformas de streaming e serviços congêneres, estabelece regras para cancelamento imediato, proíbe a renovação automática sem autorização expressa do consumidor, cria sanções administrativas, civis e penais, amplia os poderes fiscalizatórios dos órgãos de defesa do consumidor e dá outras providências.",
+      "data": "2026-08-11T14:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642574"
+    },
+    {
+      "id": 2642679,
+      "tipo": "PL",
+      "numero": 4985,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para proibir a utilização de sistemas de fiscalização eletrônica por velocidade média em vias públicas em todo o território nacional",
+      "data": "2026-08-11T14:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642679"
+    },
+    {
+      "id": 2642680,
+      "tipo": "PL",
+      "numero": 4986,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de atendimento emergencial, resgate, salvamento e suporte médico em rodovias concedidas, privatizadas ou exploradas sob regime de concessão ou permissão, estabelece tempo máximo de resposta em ocorrências, impõe a instalação de unidade de pronto atendimento em cada praça de pedágio, define deveres de fiscalização e sanções, e dá outras providências.",
+      "data": "2026-08-11T14:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642680"
     }
   ],
   "discursos": [],

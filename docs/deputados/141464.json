@@ -4,9 +4,19 @@
   "partido": "PT",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141464.jpg",
-  "score": 18.75,
-  "rank": 406,
-  "proposicoes": [],
+  "score": 18.81,
+  "rank": 404,
+  "proposicoes": [
+    {
+      "id": 2642678,
+      "tipo": "PL",
+      "numero": 4984,
+      "ano": 2026,
+      "ementa": "Estabelece critérios transitórios para a apuração de receitas patrimoniais retroativas e disciplina os efeitos administrativos das multas relacionadas à ocupação e ao uso de áreas federais por barracas de praia na Praia do Futuro, no Município de Fortaleza, Estado do Ceará.",
+      "data": "2026-08-11T14:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642678"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

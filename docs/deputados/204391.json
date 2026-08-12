@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204391.jpg",
-  "score": 31.88,
-  "rank": 308,
-  "proposicoes": [],
+  "score": 31.94,
+  "rank": 297,
+  "proposicoes": [
+    {
+      "id": 2642699,
+      "tipo": "PL",
+      "numero": 5000,
+      "ano": 2026,
+      "ementa": "Reconhece a Romaria de Nossa Senhora d’Abadia do Muquém, realizada no Município de Niquelândia, Estado de Goiás, como manifestação da cultura nacional.",
+      "data": "2026-08-11T16:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642699"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

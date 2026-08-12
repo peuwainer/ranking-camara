@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
-  "score": 33.25,
-  "rank": 184,
+  "score": 33.32,
+  "rank": 199,
   "proposicoes": [
     {
       "id": 2640036,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre a transferência de propriedade de veículo classificado com dano de média ou grande monta.",
       "data": "2026-07-17T16:36",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640431"
+    },
+    {
+      "id": 2642468,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986, que dispõe sobre o Código Brasileiro de Aeronáutica, para tratar sobre a disponibilização de equipamento de ascenso e descenso ou rampa para passageiros com necessidade de assistência especial no transporte aéreo.",
+      "data": "2026-08-11T10:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642468"
     }
   ],
   "discursos": [],

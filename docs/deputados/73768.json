@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73768.jpg",
-  "score": 33.81,
-  "rank": 148,
+  "score": 35.7,
+  "rank": 102,
   "proposicoes": [
     {
       "id": 2641675,
@@ -15,9 +15,26 @@
       "ementa": "Institui o Programa de Securitização das Dívidas Rurais – PSDR, destinado à reestruturação de operações de crédito rural de produtores afetados por crises sistêmicas no setor agropecuário, e dá outras providências",
       "data": "2026-07-29T10:26",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641675"
+    },
+    {
+      "id": 2642542,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Nacional de Armazenagem e Secagem da Produção Agropecuária – PNAS, com o objetivo de reduzir perdas, ampliar a capacidade de estocagem e fortalecer a infraestrutura produtiva no meio rural.",
+      "data": "2026-08-11T13:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642542"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-11T18:12",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. DILCEU SPERAFICO (Bloco/PP - PR. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, é uma satisfação poder usar o plenário neste momento. Quero acusar a presença de meus amigos Ve",
+      "transcricao": "O SR. DILCEU SPERAFICO (Bloco/PP - PR. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, é uma satisfação poder usar o plenário neste momento. Quero acusar a presença de meus amigos Vereadores da cidade de Iporã, que nos prestigiam aqui em Brasília, neste momento, vindo aqui, por meio de representatividade da Câmara de lá, solicitar recursos para aquele Município. Agradeço a visita deles e fico muito satisfeito de tê-los aqui conosco. Nós queremos também salientar algo importante do nosso Estado do Paraná. A região oeste do Paraná é a maior produtora do agropecuário do Estado. Temos os maiores PIBs agropecuários. A cidade de Toledo é destaque nacional há 13 anos consecutivos com o maior PIB agropecuário do Estado. O que faz esse item ser tão elevado é a produção de suínos que nós temos no nosso Município. Sou de Toledo e tenho muito orgulho de sua grande produção de suínos. Para comemorar isso, nada mais justo de que lá em Toledo tenhamos a maior festa gastronômica baseada na carne suína. É a grande festa do porco assado no rolete, prato que hoje é conhecido nacionalmente. A nossa cidade é divulgada através desse prato. Queria aqui parabenizar a diretoria do Caça e Pesca, na pessoa do Presidente Jair Pagnussat e do Presidente da festa, Luiz Brixner, duas pessoas que se dedicam muito para que essa festa seja realmente a maior festa do Brasil. Então, queria aproveitar este momento aqui na Câmara dos Deputados para estender o convite para toda a população do Paraná, do Brasil, inclusive de outros países, para que prestigiem essa festa no dia 13 de setembro. Todos que estarão lá serão muito bem recebidos com um espaço maravilhoso no Clube Caça e Pesca. Todos que estiverem lá poderão degustar ao mesmo tempo um prato. Mais de 30, 40 mil pessoas estarão naquele momento festejando. Isso engrandece muito a produção nacional. O oeste do Paraná é o maior produtor de proteínas do Brasil, um destaque muito especial é o suíno. Por isso, a festa no Caça e Pesca do porco no rolete tem que ser muito bem comemorada. Venha para a festa do porco no rolete, em Toledo, dia 13 de setembro, no Caça e Pesca. Obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Representação Brasileira no Parlamento do Mercosul",

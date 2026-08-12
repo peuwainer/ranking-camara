@@ -4,9 +4,19 @@
   "partido": "MDB",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220532.jpg",
-  "score": 31.25,
-  "rank": 347,
-  "proposicoes": [],
+  "score": 31.31,
+  "rank": 331,
+  "proposicoes": [
+    {
+      "id": 2642504,
+      "tipo": "PL",
+      "numero": 4976,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.601, de 19 de junho de 2023, para instituir a Regra Especial de Transição Produtiva no âmbito do Programa Bolsa Família, com a finalidade de incentivar o trabalho, a formalização, a geração de emprego e renda e assegurar transição gradual da assistência social para a autonomia econômica",
+      "data": "2026-08-11T11:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642504"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

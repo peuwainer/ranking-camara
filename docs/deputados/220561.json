@@ -4,9 +4,28 @@
   "partido": "PSD",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220561.jpg",
-  "score": 32.5,
-  "rank": 263,
-  "proposicoes": [],
+  "score": 32.63,
+  "rank": 251,
+  "proposicoes": [
+    {
+      "id": 2642781,
+      "tipo": "PL",
+      "numero": 5010,
+      "ano": 2026,
+      "ementa": "Institui a Estratégia Nacional de Enfrentamento à Endometriose e à Dor Pélvica Crônica, no âmbito do Sistema Único de Saúde, e dá outras providências.",
+      "data": "2026-08-11T19:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642781"
+    },
+    {
+      "id": 2642783,
+      "tipo": "PL",
+      "numero": 5011,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 6.015, de 31 de dezembro de 1973, e nº 7.116, de 29 de agosto de 1983, para disciplinar o certificado de estado civil da pessoa divorciada e dá outras providências.",
+      "data": "2026-08-11T19:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642783"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

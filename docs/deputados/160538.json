@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160538.jpg",
-  "score": 33.81,
-  "rank": 147,
+  "score": 35.63,
+  "rank": 105,
   "proposicoes": [
     {
       "id": 2641582,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641582"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-11T16:04",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. BOHN GASS (Bloco/PT - RS. Sem revisão do orador.) - Colegas Deputados, Deputadas, Deputada Benedita da Silva, Presidente dos nossos trabalhos, misoginia não é opinião, é ódio contra as mulheres.",
+      "transcricao": "O SR. BOHN GASS (Bloco/PT - RS. Sem revisão do orador.) - Colegas Deputados, Deputadas, Deputada Benedita da Silva, Presidente dos nossos trabalhos, misoginia não é opinião, é ódio contra as mulheres. E esta Casa precisa aprovar de uma vez o projeto que torna crime quem tem e pratica essa atitude nojenta. Temos o dever de dizer: chega de misoginia! Quem incentiva a discriminação e quem espalha desprezo contra mulheres, só por serem mulheres, é sim um criminoso. A misoginia é uma autorização à violência. Por respeito às mulheres brasileiras, precisamos fazer o que os Senadores e Senadoras já fizeram. Lá no Senado já votaram: foram 67 votos a favor e nenhum voto contra. E a Câmara não aprovou, não votou ainda. Nós temos condições de colocar em pauta hoje. É por isso que estou fazendo este pedido: por favor, coloquemos na Ordem do Dia esta votação. E não tentem confundir isto com censura. Aqui se trata de responsabilizar quem pratica condutas que ferem a dignidade e o direito das mulheres. É disso que se trata, e é isso que esse projeto enfrenta. Parece mentira, mas há até quem monetize e ganhe dinheiro compartilhando e transformando isso em espetáculo: o ódio e a violência contra as mulheres. Então, criminalizar a misoginia é reafirmar o direito de toda mulher de viver com liberdade, com respeito e com dignidade. Ou alguém aqui acha que as mulheres não têm esse direito? Esse debate nós precisamos fazer na sociedade. Quando existe ódio e violência, ele foi provocado por alguém que criou uma cultura de agressão e de violência. E isso nós precisamos banir votando esse projeto. Façamos como o Senado já fez. Temos a oportunidade de pautar a matéria para votar nesta Casa e aprovar um tema tão importante, que é o projeto da misoginia. Obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a estudar e analisar formas de prevenção e auxílio a desastres e calamidades naturais que vêm assolando o Território Nacional",

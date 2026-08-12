@@ -4,7 +4,7 @@
   "partido": "PP",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
-  "score": 41.27,
+  "score": 43.15,
   "rank": 18,
   "proposicoes": [
     {
@@ -96,9 +96,26 @@
       "ementa": "Altera a Lei nº 11.947, de 16 de junho de 2009, para dispor sobre a manutenção da oferta de alimentação escolar aos estudantes da educação básica em situação de insegurança alimentar durante os períodos de recesso e férias escolares.",
       "data": "2026-08-05T09:35",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641971"
+    },
+    {
+      "id": 2642796,
+      "tipo": "SBT",
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Institui a \"Semana Nacional de Combate à Ludopatia e Proteção de Crianças e Adolescentes contra os Perigos dos Jogos de Azar\" e dá outras providências.",
+      "data": "2026-08-11T20:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642796"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-11T16:20",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. SILVIA CRISTINA (Bloco/PP - RO. Sem revisão da oradora.) - Presidente, mais uma vez a PEC 47 foi deixada de lado. Ela estava pronta para ser pautada neste esforço concentrado desta semana aqui ",
+      "transcricao": "A SRA. SILVIA CRISTINA (Bloco/PP - RO. Sem revisão da oradora.) - Presidente, mais uma vez a PEC 47 foi deixada de lado. Ela estava pronta para ser pautada neste esforço concentrado desta semana aqui na Câmara dos Deputados, mas a matéria não está na pauta, infelizmente, para a nossa surpresa. Não dá mais para esperar. A PEC nº 47, aguardada há muitos anos, garante a transposição dos servidores dos ex-Territórios Federais para os quadros da União. Há quase 2 meses, infelizmente. o relatório de admissibilidade da matéria foi aprovado na Comissão de Constituição e Justiça e de Cidadania, mas até agora ela não foi votada. É uma vergonha essa demora. Por isso, tomamos a iniciativa e protocolamos um requerimento de inclusão extrapauta da PEC nº 47. Precisamos de 22 assinaturas para que ela seja pautada na CCJC e para que o processo não demore mais. Peço aos Deputados membros da Comissão e àqueles que nos assistem que nos ajudem. É uma vergonha ela não ter sido votada na CCJC! Não estamos pedindo um favor; trata-se de justiça e do reconhecimento ao trabalho de homens e mulheres que se dedicaram a vida toda à construção dos ex-Territórios, especialmente no Estado que tanto amo e trabalho, o Estado de Rondônia. Faz mais de 2 anos que a PEC nº 47 tramita nesta Casa, estando parada na CCJC há quase 2 meses, após a aprovação do parecer de admissibilidade. Enquanto isso, os servidores seguem injustiçados. É desumano o que está acontecendo e, por isso, nós não podemos esperar mais. A PEC 47, para nós, é prioridade para os rondonienses e fará justiça a milhares de servidores. A partir de agora, serei incansável na coleta dessas 22 assinaturas na CCJC. Quero agradecer aos Deputados Delegado Paulo Bilynskyj e Thiago Flores, que já assinaram o requerimento, e peço encarecidamente a colaboração dos demais Parlamentares. É justiça, é questão de humanidade e de reconhecimento aos trabalhadores dos ex-territórios que precisam que essa pauta seja aprovada. Muito obrigada, Presidente. Solicito que este pronunciamento seja divulgado no programa A Voz do Brasil."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a acompanhar as ações de prevenção e combate ao câncer, ao acidente vascular cerebral (AVC) e às doenças do coração.",

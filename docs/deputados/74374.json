@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74374.jpg",
-  "score": 38.45,
-  "rank": 35,
+  "score": 38.51,
+  "rank": 44,
   "proposicoes": [
     {
       "id": 2640213,
@@ -51,6 +51,15 @@
       "ementa": "Dispõe sobre atenção integral à saúde das pessoas com condições pós-covid no âmbito Sistema Único de Saúde.",
       "data": "2026-08-05T12:54",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641997"
+    },
+    {
+      "id": 2642464,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Institui o Programa Nacional de Saúde Bucal na Terceira Idade, estabelecendo a obrigatoriedade de avaliação diagnóstica e planejamento terapêutico odontológico em clínicas geriátricas e instituições de longa permanência para idosos, públicas e privadas, no momento da admissão, com o objetivo de promover ações de prevenção, diagnóstico e tratamento das condições de saúde bucal da população com 60 (sessenta) anos ou mais, com foco no cuidado humanizado, multidisciplinar e continuado",
+      "data": "2026-08-11T09:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642464"
     }
   ],
   "discursos": [],

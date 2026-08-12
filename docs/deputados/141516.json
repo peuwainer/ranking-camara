@@ -4,9 +4,19 @@
   "partido": "PSDB",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141516.jpg",
-  "score": 16.25,
-  "rank": 460,
-  "proposicoes": [],
+  "score": 16.31,
+  "rank": 457,
+  "proposicoes": [
+    {
+      "id": 2642487,
+      "tipo": "PL",
+      "numero": 4969,
+      "ano": 2026,
+      "ementa": "Reconhece o Município de Tiradentes, no Estado de Minas Gerais, como a Cidade Símbolo da Liberdade do Brasil.",
+      "data": "2026-08-11T10:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642487"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

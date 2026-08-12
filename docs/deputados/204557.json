@@ -4,9 +4,37 @@
   "partido": "PSD",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204557.jpg",
-  "score": 36.25,
-  "rank": 74,
-  "proposicoes": [],
+  "score": 36.44,
+  "rank": 77,
+  "proposicoes": [
+    {
+      "id": 2642499,
+      "tipo": "PL",
+      "numero": 4973,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.820, de 17 de dezembro de 2003, para estabelecer limite para as taxas de juros das operações de crédito consignado e instituir mecanismos de proteção ao consumidor.",
+      "data": "2026-08-11T11:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642499"
+    },
+    {
+      "id": 2642502,
+      "tipo": "PL",
+      "numero": 4974,
+      "ano": 2026,
+      "ementa": "Institui o Programa Informalidade Zero, destinado à redução progressiva da informalidade econômica e à regularização contábil, tributária, trabalhista, previdenciária e cadastral de pessoas físicas e jurídicas que exerçam atividade econômica informal.",
+      "data": "2026-08-11T11:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642502"
+    },
+    {
+      "id": 2642503,
+      "tipo": "PL",
+      "numero": 4975,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para fortalecer a educação financeira na educação básica, com ênfase em competências práticas para a vida cotidiana.",
+      "data": "2026-08-11T11:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642503"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

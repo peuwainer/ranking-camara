@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220606.jpg",
-  "score": 45.66,
-  "rank": 10,
+  "score": 45.72,
+  "rank": 12,
   "proposicoes": [
     {
       "id": 2641582,
@@ -42,6 +42,15 @@
       "ementa": "Altera o art. 20 da Lei nº 8.742, de 7 de dezembro de 1993, e o art. 34 da Lei nº 10.741, de 1º de outubro de 2003, para estabelecer idade mínima de 62 (sessenta e dois) anos para a concessão do benefício de prestação continuada à mulher.",
       "data": "2026-08-06T16:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642172"
+    },
+    {
+      "id": 2642734,
+      "tipo": "PL",
+      "numero": 5004,
+      "ano": 2026,
+      "ementa": "Institui diretrizes para a criação e implementação de programas de passe livre destinado a atletas e paratletas pela União, pelos Estados, pelo Distrito Federal e pelos Municípios.",
+      "data": "2026-08-11T16:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642734"
     }
   ],
   "discursos": [

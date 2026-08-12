@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220546.jpg",
-  "score": 33.81,
-  "rank": 149,
+  "score": 37.45,
+  "rank": 60,
   "proposicoes": [
     {
       "id": 2639250,
@@ -17,7 +17,22 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639250"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-11T20:16",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. RODOLFO NOGUEIRA (PL - MS. Pela ordem. Sem revisão do orador.) - Presidente Sargento Fahur, eu queria lembrar todo o Brasil que em 2022 muitos Deputados Federais e Parlamentares foram eleitos de",
+      "transcricao": "O SR. RODOLFO NOGUEIRA (PL - MS. Pela ordem. Sem revisão do orador.) - Presidente Sargento Fahur, eu queria lembrar todo o Brasil que em 2022 muitos Deputados Federais e Parlamentares foram eleitos defendendo aquela bandeira, aquele jargão tão conhecido do nosso Presidente Jair Bolsonaro: \"Deus, Pátria, família e liberdade\". Mas chegaram aqui, Presidente Sargento Fahur, e venderam Deus, venderam a Pátria, venderam a família e negociaram a liberdade. Negociaram por emendas, por cargos, por coisas que aconteceram por trás desses gabinetes que nós nem sabemos. Mas nós sabemos uma coisa: além de venderem as bandeiras, eles traíram o povo, traíram a população, traíram seus eleitores, traíram o Brasil, traíram a Pátria. Hoje eu chamo atenção de todos os eleitores de todos os Estados do nosso Brasil: prestem atenção nas votações que cada um fez aqui neste Plenário, nos Deputados que não negociaram as bandeiras, que não negociaram o seu caráter e que não negociaram o seu voto. Preste atenção, eleitor, para você não cair em nova cilada agora em 2023, não eleger Deputados que se dizem conservadores, de direita, e que chegaram aqui e traíram o nosso Presidente Bolsonaro e traíram a nossa Nação. Muito obrigado, Presidente."
+    },
+    {
+      "data": "2026-08-11T19:44",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. RODOLFO NOGUEIRA (PL - MS. Pela ordem. Sem revisão do orador.) - Presidente, o Brasil não aguenta mais 4 anos de PT. O Brasil não aguenta mais 1 ano de PT. O Brasil não aguenta mais 1 mês de PT.",
+      "transcricao": "O SR. RODOLFO NOGUEIRA (PL - MS. Pela ordem. Sem revisão do orador.) - Presidente, o Brasil não aguenta mais 4 anos de PT. O Brasil não aguenta mais 1 ano de PT. O Brasil não aguenta mais 1 mês de PT. Presidente, o Brasil está num caos econômico, numa falência financeira. Hoje 80% do povo brasileiro se encontra endividado. A indústria está falida, o agro está falido, o comércio está em falência, e o Brasil está ruindo, rumo à Venezuela. Presidente, é uma vergonha um pai de família, no começo do mês, depois de pagar, com o próprio salário, o aluguel, a água, a conta de luz, ir ao mercado para fazer as suas compras e não conseguir encher o carrinho para o sustento da sua família. Essa foi a promessa do Presidente Lula. Aquele mentiroso prometeu tirar o povo brasileiro da pobreza, ou melhor, ele cumpriu a sua promessa: tirou o povo brasileiro da pobreza e está trazendo para a miséria. Essa é a realidade do Brasil. Ninguém aguenta mais governo do PT. Ninguém aguenta mais esse desgoverno. Agora, ainda por cima, esse ataque baixo da Esquerda contra o nosso candidato a Vice-Presidente da República, o Deputado Alfredo Gaspar, um ataque vil, um ataque sutil do Deputado Lindbergh e da Senadora Soraya com base em mentiras. Tudo foi desmascarado aqui na Câmara dos Deputados, na Polícia Legislativa. Foi comprovado que eles compraram as testemunhas, influenciaram o testemunho contra o Deputado Alfredo Gaspar, um homem honrado, um homem digno, um homem que vai representar a Vice-Presidência do Brasil. Eu quero profetizar aqui, Deputado Sargento Fahur, nosso Presidente, que o Brasil, em janeiro, rumará para a prosperidade. Em janeiro de 2027, Flávio Bolsonaro, Alfredo Gaspar e o Presidente Jair Bolsonaro subirão a rampa! Vamos resgatar este Brasil para colocá-lo nas mãos dos brasileiros e mudar a história do nosso povo! Muito obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",

@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
-  "score": 5.13,
-  "rank": 472,
+  "score": 6.95,
+  "rank": 471,
   "proposicoes": [
     {
       "id": 2641077,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642376"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-11T16:44",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. HEITOR SCHUCH (Bloco/PSD - RS. Pela ordem. Sem revisão do orador.) - Muito Obrigado, Sr. Presidente e colegas Deputados e Deputadas. Eu quero fazer um alerta. Depois desse recesso parlamentar, e",
+      "transcricao": "O SR. HEITOR SCHUCH (Bloco/PSD - RS. Pela ordem. Sem revisão do orador.) - Muito Obrigado, Sr. Presidente e colegas Deputados e Deputadas. Eu quero fazer um alerta. Depois desse recesso parlamentar, eu andei muito pelos sindicatos, cooperativas e propriedades rurais falando para agricultores: \"Vai sobrar recurso do Plano Safra\". Por quê? Porque os agricultores não estão conseguindo se enquadrar na medida provisória anunciada, que está em vigor, os agricultores não conseguem se enquadrar. Se 10% ou 15 % conseguirem enquadramento, é muito. Portanto, Sr. Ministro da Fazenda, é preciso rever e ampliar o escopo dessa medida provisória. Diante disso, eu quero que publiquem nesta Casa, nos Anais, um documento feito pela Fetag com as observações que a gente precisa fazer para que os agricultores tenham crédito, porque, sem crédito, não haverá safra!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Representação Brasileira no Parlamento do Mercosul",

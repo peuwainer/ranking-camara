@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "AC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/230768.jpg",
-  "score": 33.19,
-  "rank": 195,
+  "score": 33.32,
+  "rank": 200,
   "proposicoes": [
     {
       "id": 2642151,
@@ -15,6 +15,24 @@
       "ementa": "Institui o Marco de Fomento à Economia Digital no Brasil.",
       "data": "2026-08-06T15:38",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642151"
+    },
+    {
+      "id": 2642750,
+      "tipo": "PL",
+      "numero": 5005,
+      "ano": 2026,
+      "ementa": "Dá a denominação de “DOM LUÍS HERBST” à ponte sobre o Rio Juruá, localizada na Rodovia BR-364, no município de Cruzeiro do Sul, Estado do Acre, conhecida como Ponte da União.",
+      "data": "2026-08-11T18:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642750"
+    },
+    {
+      "id": 2642764,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Altera o art. 13 da Lei nº 11.442, de 5 de janeiro de 2007, para tornar facultativa a contratação de seguros no transporte rodoviário de cargas.",
+      "data": "2026-08-11T18:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642764"
     }
   ],
   "discursos": [],

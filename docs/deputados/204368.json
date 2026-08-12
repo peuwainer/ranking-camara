@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204368.jpg",
-  "score": 30.62,
-  "rank": 360,
-  "proposicoes": [],
+  "score": 30.69,
+  "rank": 358,
+  "proposicoes": [
+    {
+      "id": 2642708,
+      "tipo": "PL",
+      "numero": 5001,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Atenção ao Diagnóstico Tardio do Transtorno do Espectro Autista (TEA) e estabelece outras providências.",
+      "data": "2026-08-11T16:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642708"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

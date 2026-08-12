@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160758.jpg",
-  "score": 36.31,
-  "rank": 65,
+  "score": 38.13,
+  "rank": 45,
   "proposicoes": [
     {
       "id": 2641724,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641724"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-11T18:08",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DOMINGOS SÁVIO (PL - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, apenas para fazer um registro. Eu me dirigi agora à reunião do Colégio de Líderes para ressaltar a importância de e",
+      "transcricao": "O SR. DOMINGOS SÁVIO (PL - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente, apenas para fazer um registro. Eu me dirigi agora à reunião do Colégio de Líderes para ressaltar a importância de esta Casa votar o PL 108/2019, que atualiza a tabela do microempreendedor individual e também do Simples Nacional, que alcança a micro e pequena empresas. Vivemos hoje um momento de desespero do pequeno e microempreendedor, com juros altos, dificuldades enormes no comércio, e a tabela achatada inviabiliza ainda mais essas atividades do micro e pequeno empreendedor. Nós temos batalhado por isso. E eu, como Presidente da Frente Parlamentar de Comércio e Serviços, tenho me empenhado para isso. Conseguimos aprovar o regime de urgência e agora precisamos votar o projeto no Plenário, para que, ainda este ano, o Senado conclua essa votação, atualizando essa tabela do Simples, aumentando o limite dela, porque senão a empresa deixa de existir, porque ele é Simples justamente para atender à pequena empresa, que não consegue montar uma megaestrutura de contabilidade e suportar esses impostos tão altos que existem no Brasil. Muito obrigado, Sr. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a fiscalizar os rompimentos de barragens, em especial acompanhar a repactuação do acordo de Mariana e a reparação do crime de Brumadinho",

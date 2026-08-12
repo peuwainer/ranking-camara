@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
-  "score": 34.89,
-  "rank": 120,
+  "score": 35.58,
+  "rank": 113,
   "proposicoes": [
     {
       "id": 2639661,
@@ -78,6 +78,15 @@
       "ementa": "Cria o Fundo de Autonomia Financeira Emergencial para Mulheres em Situação de Violência Doméstica e Familiar (FAFE), destinado a custear mudança de residência, aluguel e despesas de subsistência nos primeiros meses de rompimento com o agressor, e dá outras providências.",
       "data": "2026-07-30T11:27",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641737"
+    },
+    {
+      "id": 2642492,
+      "tipo": "PL",
+      "numero": 4970,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503/97 (Código de Trânsito Brasileiro), para tornar obrigatória e gratuita a transferência eletrônica de propriedade de veículos pelos órgãos executivos de trânsito dos Estados e do Distrito Federal, e para fixar prazo de implementação.",
+      "data": "2026-08-11T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642492"
     }
   ],
   "discursos": [],
@@ -123,6 +132,12 @@
       "sigla": "CESPO",
       "cargo": "Titular",
       "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 32, de 2015, do Sr. Gonzaga Patriota, que \"altera a redação dos artigos 14 e 228 da Constituição Federal, para estabelecer a plena maioridade civil e penal aos dezesseis anos de idade\", e apensadas",
+      "sigla": "PEC03215",
+      "cargo": "Suplente",
+      "desde": "2026-08-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178829/votacoes-nominais-plenario/2026"

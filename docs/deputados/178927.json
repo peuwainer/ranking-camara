@@ -4,10 +4,18 @@
   "partido": "PV",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178927.jpg",
-  "score": 31.25,
-  "rank": 330,
+  "score": 33.07,
+  "rank": 244,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-11T18:44",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ALIEL MACHADO (Bloco/PV - PR. Pela ordem. Sem revisão do orador.) - Sr. Presidente, está havendo febre amarela no Município de União da Vitória, mas é uma febre amarela boa, positiva. Trata-se d",
+      "transcricao": "O SR. ALIEL MACHADO (Bloco/PV - PR. Pela ordem. Sem revisão do orador.) - Sr. Presidente, está havendo febre amarela no Município de União da Vitória, mas é uma febre amarela boa, positiva. Trata-se da torcida organizada do Iguaçu, que está invicta. (Exibe camisa.) Eu tive a alegria de conhecer o projeto e de destinar recursos a ações sociais. A cidade, abraçada pelo Rio Iguaçu, que faz divisa com Santa Catarina, ao lado de Porto União, está alegrando os moradores que se envolvem com o time da cidade e demonstram muito orgulho. Há também a Fúria Iguaçuana que, junto com a Febre Amarela, leva os torcedores para o estádio, fazendo a cidade sentir orgulho do seu time. Quero parabenizar o Presidente da Associação Atlética Iguaçu, José Luis Ruski; o gestor Apóstolo Carlos; e o diretor e coordenador do projeto, Rodrigo. É um orgulho trazer as cores de União da Vitória, de fazer parte desse projeto, dessas ações. A cidade tem muita satisfação com isso. Ela passou por muitos desafios com as enchentes, mas também prospera. O ex-Prefeito Bachir e toda a equipe fazem um acompanhamento com muito carinho e amor. Eu quero agradecer esse mimo e dizer que eu tenho muito orgulho de defender a cidade de União da Vitória em diversos aspectos, em muitos recursos. em muitas áreas, e agora de acompanhar o projeto do Iguaçu. Viva o Iguaçu! Obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",

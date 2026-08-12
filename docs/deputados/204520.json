@@ -4,10 +4,18 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204520.jpg",
-  "score": 33.12,
-  "rank": 212,
+  "score": 35.57,
+  "rank": 115,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-11T16:16",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. JUNIO AMARAL (PL - MG. Sem revisão do orador.) - Deputado Luiz, eu estava pensando aqui se a gente não tem que dar uma assistência ao Deputado Solla. Eu estou desconfiado seriamente de que ele e",
+      "transcricao": "O SR. JUNIO AMARAL (PL - MG. Sem revisão do orador.) - Deputado Luiz, eu estava pensando aqui se a gente não tem que dar uma assistência ao Deputado Solla. Eu estou desconfiado seriamente de que ele está com um problema sério de cabeça, ou então o eleitorado dele é muito burro  se bem que, para votar nele, não há como ser muito diferente disso. Mas como o cara sobe a esta tribuna e faz esses vínculos absurdos, como se estivesse num set de gravação, no sentido artístico da coisa, em que ele pode falar o que quiser, sem conexão com a realidade, como em uma peça de ficção? Ele tenta vincular o escândalo do INSS, em que o Governo Lula está atolado até o pescoço, com Flávio Bolsonaro. O que tem a ver? Agora, nos últimos dias, depois de tantas outras evidências, de tantos outros apontamentos, e de pessoas vinculadas à Lula, direta ou indiretamente, terem sido flagradas com mensagens, depósitos, indicações, vem a relação com Roberta Luchsinger, quase irmã siamesa do Lulinha, ou melhor, do \"Careca do INSS\"  são tantos personagem envolvidos com os esquemas que a gente até se perde. Ela é unha e carne com o \"Careca do INSS\", o personagem central dos escândalos, um dos responsáveis por desviar mais de 6 bilhões de reais dos aposentados do Brasil. Roberta foi flagrada, pelo que aponta o portal Poder360, fazendo repasses financeiros para Marcola, não o Marcola do tráfico, não, que é outro bandido  sempre vinculados ao Lula os bandidos , mas o Marcola assessor pessoal do atual Presidente. O cara, que é unha e carne dele e que está compartilhando momentos íntimos com o Presidente, assessor há muito tempo, petista raiz, agora foi flagrado recebendo dessa mulher, dessa lobista, a parceira do \"Careca do INSS\", tanto dinheiro. Foram muitos repasses em on, oficiais, tanto é que ele próprio, quando perguntado, assumiu, falou que recebeu mesmo bastante dinheiro dessa senhora, mas, segundo ele, era empréstimo. Cidadão comum, quando vai recorrer ao empréstimo, pelo que eu conheço, procura uma instituição financeira, procura familiares próximos. Mas ele foi procurar quem? Uma das lobistas mais famosas negativamente, que também está envolvida em todo esse escândalo de roubo dos aposentados. Isso que nós estamos falando de dinheiro oficial. Imagina as malas! Por falar em malas, o Sr. Geddel Vieira Lima, o homem das malas de 50 milhões de reais, esses dias estava lá na Bahia recebendo o Lula. Sem nenhuma vergonha na cara, Lula bota esse pessoal para perto dele, sabe por quê? Porque essa é uma conduta natural. Ele se enxerga em cidadãos como esses, em bandidos como esses. São da mesma laia. E aí sobe o Deputado ali para tentar fazer com que o eleitorado dele, como eu disse, desprovido, sim, de inteligência  isso é uma evidência , caia numa conversa dessas. Que bom que esta Casa aqui tem espaço para que a gente possa usar a tribuna e restabelecer a verdade tão evidente até no noticiário que tanto puxa-saco do Lula. Então, Presidente, eu tenho certeza de que a maior parte do eleitorado deste País está atenta. Não precisa ser estudante de política, não precisa acompanhar os noticiários a fundo, não precisa compreender o básico de lógica, lá do primário, não precisa, é só ser um animal racional que se chega à conclusão de que não dá mais para essa facção criminosa continuar comandando o Brasil, não dá mais para tanta gente subir nesta tribuna aqui falando mentira, tentando inverter os fatos, como se fosse a coisa mais natural do mundo. O eleitorado tem que dar resposta, dar um basta neste tratamento para que a classe política que está ao lado desse bandido que hoje ocupa o poder o trate como imbecil. É por isso que eu tenho a convicção de que a maior parte do povo brasileiro vai dar as respostas nas urnas, e nós vamos retomar esta Nação para estancar a sangria do roubo dos aposentados, para colocar bandidos do colarinho branco na cadeia, o que, infelizmente, passou a ser normal. Há tanta podridão, tanto crime escancarado. Até a imprensa, infelizmente, está se acostumando com essa inversão de valores e com essa cobertura do alto escalão do Judiciário a tanta gente bandida, a tanta gente sem vergonha, que não está nem aí para o povo brasileiro. Obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa, sem ônus para a Câmara dos Deputados, destinada a acompanhar os impactos sociais, ambientais e econômicos na região do Município de Conceição do Pará, no estado de Minas Gerais, em função de um deslizamento de pilha de rejeitos de minério da mineradora Jaguar Mining",
@@ -38,6 +46,12 @@
       "sigla": "CME",
       "cargo": "Suplente",
       "desde": "2026-02-23T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 32, de 2015, do Sr. Gonzaga Patriota, que \"altera a redação dos artigos 14 e 228 da Constituição Federal, para estabelecer a plena maioridade civil e penal aos dezesseis anos de idade\", e apensadas",
+      "sigla": "PEC03215",
+      "cargo": "Suplente",
+      "desde": "2026-08-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204520/votacoes-nominais-plenario/2026"

@@ -4,10 +4,17 @@
   "partido": "AVANTE",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160510.jpg",
-  "score": 0.0,
-  "rank": 513,
+  "score": 0.62,
+  "rank": 510,
   "proposicoes": [],
   "discursos": [],
-  "orgaos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Fiscalização Financeira e Controle",
+      "sigla": "CFFC",
+      "cargo": "Titular",
+      "desde": "2026-08-11T00:00"
+    }
+  ],
   "url_votacoes": "https://www.camara.leg.br/deputados/160510/votacoes-nominais-plenario/2026"
 }

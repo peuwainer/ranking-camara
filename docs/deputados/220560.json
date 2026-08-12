@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220560.jpg",
-  "score": 2.5,
-  "rank": 488,
-  "proposicoes": [],
+  "score": 2.56,
+  "rank": 486,
+  "proposicoes": [
+    {
+      "id": 2642801,
+      "tipo": "SBT",
+      "numero": 5,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-08-11T20:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642801"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

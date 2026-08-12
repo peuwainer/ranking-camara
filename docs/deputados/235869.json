@@ -4,10 +4,18 @@
   "partido": "REPUBLICANOS",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/235869.jpg",
-  "score": 31.88,
-  "rank": 307,
+  "score": 33.69,
+  "rank": 193,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-11T16:56",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. JOÃO CARLOS (Bloco/REPUBLICANOS - AM. Sem revisão do orador.) - Obrigado, Sr. Presidente. Sras. e Srs. Deputados, a palavra de Deus nos ensina, no livro de Eclesiastes, que há um tempo determina",
+      "transcricao": "O SR. JOÃO CARLOS (Bloco/REPUBLICANOS - AM. Sem revisão do orador.) - Obrigado, Sr. Presidente. Sras. e Srs. Deputados, a palavra de Deus nos ensina, no livro de Eclesiastes, que há um tempo determinado para todas as coisas debaixo do céu. A vida pública também possui seus ciclos. Há momentos de começar e de concluir, de partir, de retornar, de aprender e de colocar a experiência adquirida a serviço daqueles que confiaram em nós. Hoje, preciso comunicar o encerramento desse período em que exerci o mandato de Deputado Federal e o meu retorno à Câmara Municipal de Manaus, onde tenho a honra de exercer o mandato de Vereador. Na vida pública, nenhuma função deve ser tratada como propriedade pessoal. O mandato é uma confiança pública e para nós cristãos também uma responsabilidade diante de Deus. O caráter temporário do seu exercício não torna temporário o dever. Durante este período, procurei exercer esta função com seriedade, humildade e consciência das consequências de cada escolha. Representar o Amazonas em Brasília significa também reafirmar uma verdade elementar: o Brasil não pode ser compreendido apenas a partir do centro do mapa ou da realidade de suas grandes metrópoles. A Amazônia não é uma paisagem a ser observada de longe. O Amazonas não é uma nota de rodapé do Brasil. Somos parte constitutiva da Nação, com uma realidade própria que precisa estar presente nas decisões tomadas em âmbito nacional. A experiência só adquire sentido completo quando não permanece presa à instituição em que foi adquirida. O conhecimento guardado pode se transformar em mero instrumento de distinção pessoal; mas, quando devolvido à comunidade, transforma-se em serviço público. Retorno a Manaus com uma compreensão mais ampla das possibilidades e também dos limites da atuação parlamentar  não com a pretensão de que Brasília tenha todas as respostas, mas com melhores condições de compreender quais perguntas a nossa cidade pode trazer ao debate nacional. O território não é apenas uma extensão desenhada no mapa: é espaço vivido, trabalhado, identidade, relações e pertencimento. Manaus é esse território concreto, onde a política deixa de ser apenas uma formulação geral e encontra a vida como ela realmente acontece  no cotidiano das famílias, na rotina dos bairros, na fé das comunidades e nas necessidades que nem sempre cabem em um relatório. Por isso, retornar à Câmara Municipal de Manaus não significa recuar. Trata-se de uma transição institucional que recebo com muita tranquilidade. Muda o espaço de atuação, mas permanece o dever público, e a atuação municipal não é menor em importância; é diferente própria e indispensável, porque é no Município que muitas decisões públicas encontram diretamente a vida cotidiana da população. Temos mais o que falar, mas o meu tempo é resumido. Presidente, agradeço a V.Exa. e a todos desta Casa. Deus os abençoe."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Minas e Energia",
