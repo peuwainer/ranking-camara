@@ -4,9 +4,55 @@
   "partido": "PDT",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204496.jpg",
-  "score": 30.0,
-  "rank": 364,
-  "proposicoes": [],
+  "score": 30.32,
+  "rank": 227,
+  "proposicoes": [
+    {
+      "id": 2643181,
+      "tipo": "PL",
+      "numero": 5031,
+      "ano": 2026,
+      "ementa": "Institui o Código de Conduta Brasil para Prevenção e Enfrentamento da Exploração Sexual de Crianças e Adolescentes no Turismo e estabelece diretrizes para sua observância nos meios de hospedagem.",
+      "data": "2026-08-12T16:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643181"
+    },
+    {
+      "id": 2643182,
+      "tipo": "PL",
+      "numero": 5032,
+      "ano": 2026,
+      "ementa": "Confere o título de Capital Nacional da Fé e da Diversidade Religiosa ao Município de Belém, no Estado do Pará.",
+      "data": "2026-08-12T16:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643182"
+    },
+    {
+      "id": 2643184,
+      "tipo": "PL",
+      "numero": 5033,
+      "ano": 2026,
+      "ementa": "Institui o Código de Conduta Brasil para Prevenção e Enfrentamento da Exploração Sexual de Crianças e Adolescentes no Turismo e estabelece diretrizes para sua observância nos meios de hospedagem.",
+      "data": "2026-08-12T16:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643184"
+    },
+    {
+      "id": 2643185,
+      "tipo": "PL",
+      "numero": 5034,
+      "ano": 2026,
+      "ementa": "Confere o título de Capital Nacional da Fé e da Diversidade Religiosa ao Município de Belém, no Estado do Pará.",
+      "data": "2026-08-12T16:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643185"
+    },
+    {
+      "id": 2643187,
+      "tipo": "PL",
+      "numero": 5035,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.998, de 11 de janeiro de 1990, para assegurar ao empregado doméstico o direito ao abono salarial.",
+      "data": "2026-08-12T16:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643187"
+    }
+  ],
   "discursos": [],
   "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/204496/votacoes-nominais-plenario/2026"

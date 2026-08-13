@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RN",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/213762.jpg",
-  "score": 37.58,
-  "rank": 54,
+  "score": 33.42,
+  "rank": 115,
   "proposicoes": [
     {
       "id": 2639484,
@@ -105,6 +105,24 @@
       "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, para obrigar o Sistema Único de Saúde a disponibilizar testes automatizados de rastreamento ocular para  detecção do transtorno do espectro autista.",
       "data": "2026-08-10T12:45",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642362"
+    },
+    {
+      "id": 2642903,
+      "tipo": "PL",
+      "numero": 5021,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.959, de 29 de junho de 2009, para instituir o Sistema Nacional de Rastreabilidade da Pesca Artesanal (SNRPA), criar a Guia Nacional de Trânsito e Rastreabilidade do Pescado Artesanal (GNTRPA), disciplinar a rastreabilidade, a circulação, o transporte e a primeira comercialização do pescado artesanal, promover a integração eletrônica entre os órgãos públicos competentes, simplificar procedimentos administrativos, fortalecer a pesca artesanal brasileira e dar outras providências.",
+      "data": "2026-08-12T12:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642903"
+    },
+    {
+      "id": 2642915,
+      "tipo": "PL",
+      "numero": 5022,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Atendimento Humanizado, Prevenção da Revitimização e Promoção do Acesso Efetivo à Justiça das Mulheres em Situação de Violência Doméstica e Familiar, complementa a Lei nº 11.340, de 7 de agosto de 2006, estabelece diretrizes gerais para a atuação integrada dos órgãos públicos e dá outras providências.",
+      "data": "2026-08-12T12:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642915"
     }
   ],
   "discursos": [],

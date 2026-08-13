@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73788.jpg",
-  "score": 31.94,
-  "rank": 300,
+  "score": 33.56,
+  "rank": 112,
   "proposicoes": [
     {
       "id": 2641899,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641899"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-12T20:20",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. RICARDO BARROS (Bloco/PP - PR. Pela ordem. Sem revisão do orador.) - Sr. Presidente, hoje a Lei Maria da Penha está completando 20 anos. Trata-se de uma medida muito importante aprovada pelo Con",
+      "transcricao": "O SR. RICARDO BARROS (Bloco/PP - PR. Pela ordem. Sem revisão do orador.) - Sr. Presidente, hoje a Lei Maria da Penha está completando 20 anos. Trata-se de uma medida muito importante aprovada pelo Congresso Nacional, por este nosso Plenário da Câmara dos Deputados, que, ao longo do tempo, salvou muitas vidas e reduziu o feminicídio. Ainda precisamos melhorar o monitoramento dos agressores, para garantir que não se aproximem das mulheres ameaçadas. Mas o resultado, ao longo desses 20 anos  temos que reconhecer , foi muito produtivo. Então, fica aqui o meu reconhecimento e o agradecimento a todos que participaram desse processo, tanto do processo legislativo quanto da implantação da lei ao longo do tempo, através dos investigadores, através da polícia, através das delegacias. Muitas delegacias para mulheres foram implantadas em todo o Brasil para atendê-las de forma mais adequada. As mulheres se sentem mais à vontade na Delegacia da Mulher para, com uma delegada, fazer a denúncia, abrir o seu coração, porque o agressor normalmente está dentro de casa. E não é fácil para uma mãe atuar nesse momento. Mas temos avançado. Portanto, fica aqui o agradecimento a todos que participam e ao Poder Judiciário também, que tem feito justiça para com essas mulheres ameaçadas em todo o Brasil. Parabéns a todos pelos 20 anos da Lei Maria da Penha!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Ciência, Tecnologia e Inovação",
@@ -36,6 +44,12 @@
       "sigla": "CMO",
       "cargo": "Titular",
       "desde": "2026-06-15T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 32, de 2015, do Sr. Gonzaga Patriota, que \"altera a redação dos artigos 14 e 228 da Constituição Federal, para estabelecer a plena maioridade civil e penal aos dezesseis anos de idade\", e apensadas",
+      "sigla": "PEC03215",
+      "cargo": "Suplente",
+      "desde": "2026-08-12T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/73788/votacoes-nominais-plenario/2026"

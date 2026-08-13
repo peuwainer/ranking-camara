@@ -4,9 +4,19 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/171786.jpg",
-  "score": 33.75,
-  "rank": 187,
-  "proposicoes": [],
+  "score": 20.94,
+  "rank": 406,
+  "proposicoes": [
+    {
+      "id": 2643283,
+      "tipo": "PL",
+      "numero": 5042,
+      "ano": 2026,
+      "ementa": "Determina que as despesas de capital e parcela das despesas custeadas com receitas próprias de autarquias federais não sejam alcançadas pelo mecanismo de limitação de empenho e movimentação financeira previsto na LRF, e não sejam incluídas na base de cálculo e nos limites estabelecidos no Novo Arcabouço Fiscal para as despesas primárias do Governo Federal.",
+      "data": "2026-08-12T17:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643283"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

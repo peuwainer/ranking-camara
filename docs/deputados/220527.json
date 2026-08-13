@@ -4,10 +4,27 @@
   "partido": "PT",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220527.jpg",
-  "score": 38.64,
-  "rank": 43,
-  "proposicoes": [],
+  "score": 38.06,
+  "rank": 29,
+  "proposicoes": [
+    {
+      "id": 2643283,
+      "tipo": "PL",
+      "numero": 5042,
+      "ano": 2026,
+      "ementa": "Determina que as despesas de capital e parcela das despesas custeadas com receitas próprias de autarquias federais não sejam alcançadas pelo mecanismo de limitação de empenho e movimentação financeira previsto na LRF, e não sejam incluídas na base de cálculo e nos limites estabelecidos no Novo Arcabouço Fiscal para as despesas primárias do Governo Federal.",
+      "data": "2026-08-12T17:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643283"
+    }
+  ],
   "discursos": [
+    {
+      "data": "2026-08-12T15:52",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. JACK ROCHA (Bloco/PT - ES. Sem revisão da oradora.) - Sr. Presidente, nobres colegas Deputados e Deputadas, hoje foi um dia muito importante. Celebramos aqui, neste plenário, em sessão solene, ",
+      "transcricao": "A SRA. JACK ROCHA (Bloco/PT - ES. Sem revisão da oradora.) - Sr. Presidente, nobres colegas Deputados e Deputadas, hoje foi um dia muito importante. Celebramos aqui, neste plenário, em sessão solene, os 20 anos da Lei Maria da Penha, 20 anos desde que o Brasil decidiu que a violência contra a mulher não era um assunto privado e é um assunto de responsabilidade do Estado brasileiro. A Lei Maria da Penha mudou a história deste País porque ela rompe com uma cultura que durante séculos, séculos e séculos houve uma tentativa de manter as mulheres em silêncio. Ela deu nome à violência, criou instrumentos de proteção, responsabilizou os agressores e acima de tudo afirmou algo que deveria ser óbvio: nenhuma mulher deve viver com medo dentro da própria casa, do seu local de trabalho. Vinte anos depois, nós precisamos reconhecer que a violência contra mulheres e meninas não desapareceu, mudou de forma, ocupando os espaços e ganhando novas ferramentas, inclusive no meio digital, através das redes sociais. Uma ameaça na rua pode ser direcionada a uma mulher, no entanto, receber milhares de ameaças por celular e por aplicativos de mensagem não apenas atinge uma pessoa, mas também milhares de mulheres. Por isso, nós aqui precisamos falar da necessidade de aprovar o PL da Misoginia, porque proteger as mulheres significa impedir que o ódio encontre terreno para transformar a violência em algo no campo intangível. Vinte anos da Lei Maria da Penha nos mostram e nos ensinam que, quando a sociedade reconhece que a violência que antes era naturalizada, dá-lhe um nome, cria instrumentos e passa a salvar vidas. Nenhuma menina deve crescer aprendendo a ter medo, nenhuma mulher deve ser silenciada pelo ódio, nenhuma de nós precisa morrer para que o Estado reconheça que a violência começou muito antes. Nós precisamos aprovar não apenas o PL da Misoginia, para proteger contra a violência doméstica. Cito o caso da menina de 13 anos que tirou a própria vida ao vivo em uma sala onde centenas de pessoas assistiam a essa dor aparentemente naturalizada. Nós estamos aqui para honrar todas as mulheres que lutaram pelo direito de meninas e mulheres no nosso Brasil. Sr. Presidente, nobres colegas, Deputados e Deputadas, quero conclamar cada um e cada uma para se somarem às mulheres brasileiras que veem nesse ambiente legislativo a crença e a esperança de que o Brasil pode ser um país mais justo e mais igual, sobretudo, democrático, com a participação de todas. Muito obrigada."
+    },
     {
       "data": "2026-07-15T13:36",
       "fase": "Ordem do Dia",

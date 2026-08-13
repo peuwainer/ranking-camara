@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/224333.jpg",
-  "score": 33.19,
-  "rank": 212,
+  "score": 34.25,
+  "rank": 88,
   "proposicoes": [
     {
       "id": 2641582,
@@ -15,9 +15,26 @@
       "ementa": "Dispõe sobre a criação e o funcionamento de Cooperativas Solidárias, visando a promoção social da cidadania, da organização coletiva mutualista e dos direitos fundamentais de vida digna, conforme especifica.",
       "data": "2026-07-24T09:47",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641582"
+    },
+    {
+      "id": 2643283,
+      "tipo": "PL",
+      "numero": 5042,
+      "ano": 2026,
+      "ementa": "Determina que as despesas de capital e parcela das despesas custeadas com receitas próprias de autarquias federais não sejam alcançadas pelo mecanismo de limitação de empenho e movimentação financeira previsto na LRF, e não sejam incluídas na base de cálculo e nos limites estabelecidos no Novo Arcabouço Fiscal para as despesas primárias do Governo Federal.",
+      "data": "2026-08-12T17:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643283"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-12T15:40",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. WELTER (Bloco/PT - PR. Sem revisão do orador.) - Sra. Presidenta, Srs. e Sras. Deputadas, povo brasileiro, a economia do País está estabilizada. Estamos praticamente em pleno emprego. A inflação",
+      "transcricao": "O SR. WELTER (Bloco/PT - PR. Sem revisão do orador.) - Sra. Presidenta, Srs. e Sras. Deputadas, povo brasileiro, a economia do País está estabilizada. Estamos praticamente em pleno emprego. A inflação está controlada; a renda, mais bem distribuída; o salário, corrigido acima da inflação; o Brasil, respeitado no mundo. Apesar dos tarifaços, negociamos com todo o planeta, ampliamos mercados, geramos emprego, geramos desenvolvimento e diminuição das desigualdades sociais. Saímos do Mapa da Fome. O Governo brasileiro tem feito um esforço hercúleo para transformar este País num país mais justo e democrático. Qual é o nosso grande desafio para esse processo que está começando, vai começar oficialmente a partir do dia 16? Nós, que defendemos a democracia plena... Eu, que defendo intransigentemente a democracia como um todo, sei que isso significa radicalizar o orçamento, colocar para ascender, para fazer com que todos tenham oportunidade, igualdade e oportunidade. Qual é o grande desafio? Como é que nós vamos vencer as fake news que são criadas para desmentir? Quando é que nossos adversários vão começar a discutir política e economia? Quando é que os candidatos concorrentes do Presidente Lula vão discutir para valer, e não vão ficar usando mentiras, usando articulações internacionais para intervirem nas políticas locais? O Brasil é soberano; o Brasil é independente. A democracia é que está em risco. Essas fake news, que são evidentes, que circulam no WhatsApp de todo mundo, precisam ser reguladas. Não é possível termos essas mentiras que contam! Aliás, no pleito de 2018, para o período até 2022, quem ganhou as eleições foram as mentiras, com a estratégia do Steve Bannon, na época. Agora, continua essa estratégia, que tem ingerência externa, para interferir no processo político eleitoral. Nós não podemos admitir isso. O País precisa de democracia, o País precisa continuar crescendo, distribuindo renda, gerando oportunidade para a nossa gente. Eu não tenho dúvida de que o País está no rumo certo. Todos os Municípios brasileiros receberam projetos que pensam primeiro nas pessoas: ou é uma unidade de saúde, ou é uma unidade de educação infantil, ou é um hospital novo, uma escola nova, infraestrutura. O Programa de Aceleração do Crescimento (PAC) voltou para resolver problemas locais. Os entes federados estão dialogando independentemente da visão política. Portanto, vamos defender a democracia, sim, e vamos combater as fake news, porque é isso que está causando distorções nas democracias, tanto na América Latina como no mundo. Presidente, gostaria de que fosse divulgado no programa A Voz do Brasil e nos órgãos de comunicação da Casa o meu pronunciamento. Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados",

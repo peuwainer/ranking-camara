@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220640.jpg",
-  "score": 36.95,
-  "rank": 67,
+  "score": 36.82,
+  "rank": 39,
   "proposicoes": [
     {
       "id": 2640276,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 14.835, de 4 de abril de 2024 (Lei do Sistema Nacional de Cultura), e a Lei nº 8.429, de 2 de junho de 1992 (Lei de Improbidade Administrativa), para dispor sobre a garantia de isonomia material e a vedação à assimetria de tratamento no apoio estatal a eventos de natureza religiosa.",
       "data": "2026-08-07T13:37",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642225"
+    },
+    {
+      "id": 2643283,
+      "tipo": "PL",
+      "numero": 5042,
+      "ano": 2026,
+      "ementa": "Determina que as despesas de capital e parcela das despesas custeadas com receitas próprias de autarquias federais não sejam alcançadas pelo mecanismo de limitação de empenho e movimentação financeira previsto na LRF, e não sejam incluídas na base de cálculo e nos limites estabelecidos no Novo Arcabouço Fiscal para as despesas primárias do Governo Federal.",
+      "data": "2026-08-12T17:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643283"
     }
   ],
   "discursos": [
@@ -89,6 +98,12 @@
       "sigla": "CFT",
       "cargo": "Suplente",
       "desde": "2026-04-17T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 32, de 2015, do Sr. Gonzaga Patriota, que \"altera a redação dos artigos 14 e 228 da Constituição Federal, para estabelecer a plena maioridade civil e penal aos dezesseis anos de idade\", e apensadas",
+      "sigla": "PEC03215",
+      "cargo": "Titular",
+      "desde": "2026-08-12T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220640/votacoes-nominais-plenario/2026"

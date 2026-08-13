@@ -4,10 +4,28 @@
   "partido": "UNIÃO",
   "uf": "RN",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/109429.jpg",
-  "score": 36.25,
-  "rank": 83,
-  "proposicoes": [],
-  "discursos": [],
+  "score": 37.31,
+  "rank": 35,
+  "proposicoes": [
+    {
+      "id": 2643311,
+      "tipo": "PL",
+      "numero": 5044,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Qualidade e Equidade da Educação Infantil.",
+      "data": "2026-08-12T18:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643311"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-08-12T18:56",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. BENES LEOCÁDIO (Bloco/UNIÃO - RN. Pela ordem. Sem revisão do orador.) - Presidente Hugo Motta, nobres Deputados e Deputadas, é um momento de alegria para o nosso mandato aqui nesta Casa, ao apre",
+      "transcricao": "O SR. BENES LEOCÁDIO (Bloco/UNIÃO - RN. Pela ordem. Sem revisão do orador.) - Presidente Hugo Motta, nobres Deputados e Deputadas, é um momento de alegria para o nosso mandato aqui nesta Casa, ao apresentarmos esse PL 80, de 2026, que visa prorrogar a isenção desse tributo, o AFRMM, que diz respeito à manutenção da Marinha Mercante no nosso Brasil. Mas quero aqui ressaltar: a economia potiguar sofreria muito se perdêssemos a continuidade dessa isenção que já vem sendo feita há décadas, como aqui registrou o nobre Deputado Heitor Schuch, que leu o relatório do nobre Deputado Júnior Ferrari, a quem a gente agradece pela disposição, pela sensibilidade e pela preocupação que teve não só com o Rio Grande do Norte, mas também com as Regiões Norte e Nordeste como um todo, que seriam afetadas diretamente com a não prorrogação dessa isenção. Nós pleiteávamos isso a cada 5 anos e, a depender do humor do Governo do plantão, teríamos ou não essa continuidade. Mas aqui registramos a sensibilidade do nosso Presidente Hugo Motta mais uma vez, em pautar esta matéria que, com certeza, vem trazer grande alívio e segurança para a indústria salineira potiguar. Para V.Exas. terem uma ideia, só de empregos gerados diretamente por essa atividade são cerca de 15 mil empregos no meu Rio Grande do Norte. E 98% de todo o sal marinho brasileiro é produzido no nosso Estado, nos Municípios de Macau, Guamaré, Mossoró, Porto do Mangue, Areia Branca, Grossos, representando uma área ocupada de 36 mil hectares, através de 35 salinas distribuídas nesses Municípios. A gente agradece o esforço do Siesal, o sindicato da indústria salineira do meu Estado do Rio Grande do Norte, à Federação das Indústrias, a todos os sindicatos dos trabalhadores nessa atividade e, sobretudo, à Câmara dos Deputados, que cumpre o seu papel de atender a solicitação de um segmento tão importante, inclusive para a manutenção dos preços desse insumo na cesta básica. Se assim não fosse, nós sofreríamos invasão do sal importado do Chile, que entraria numa concorrência desleal aqui com o nosso País. Muito obrigado, Presidente. Obrigado ao Deputado Júnior Ferrari, ao Deputado Heitor Schuch e a todos os Deputados e Deputadas que nos apoiaram nessa proposta. Sinto-me hoje  um Deputado Federal representando o meu Estado do Rio Grande do Norte  realizado, pelo sentimento do dever cumprido de defender a economia do meu Rio Grande do Norte. Muito obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a verificar a situação dos municípios que perderam recursos financeiros do FPM, depois dos cálculos feitos pelo TCU, com base no Censo inacabado do IBGE",
@@ -72,8 +90,14 @@
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 32, de 2015, do Sr. Gonzaga Patriota, que \"altera a redação dos artigos 14 e 228 da Constituição Federal, para estabelecer a plena maioridade civil e penal aos dezesseis anos de idade\", e apensadas",
       "sigla": "PEC03215",
-      "cargo": "Suplente",
-      "desde": "2026-08-11T00:00"
+      "cargo": "2º Vice-Presidente",
+      "desde": "2026-08-12T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 32, de 2015, do Sr. Gonzaga Patriota, que \"altera a redação dos artigos 14 e 228 da Constituição Federal, para estabelecer a plena maioridade civil e penal aos dezesseis anos de idade\", e apensadas",
+      "sigla": "PEC03215",
+      "cargo": "Titular",
+      "desde": "2026-08-12T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/109429/votacoes-nominais-plenario/2026"

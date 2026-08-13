@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236375.jpg",
-  "score": 32.69,
-  "rank": 250,
+  "score": 32.82,
+  "rank": 149,
   "proposicoes": [
     {
       "id": 2639858,
@@ -33,6 +33,24 @@
       "ementa": "Institui o Programa Envelhecer nos Territórios e o Programa Viva Mais Cidadania, voltados à promoção e proteção dos direitos humanos das pessoas idosas, e dá outras providências.",
       "data": "2026-07-20T14:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641425"
+    },
+    {
+      "id": 2642888,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do relator sobre o PROJETO DE LEI Nº 1.705, DE 2025, que altera o art. a Lei nº 8.899, de 29 de junho de 1994, que concede passe livre às pessoas portadoras de deficiência no sistema de transporte coletivo interestadual, para estender o benefício aos portadores de doenças graves ou incapacitantes, nas condições que especifica, e dá outras providências.",
+      "data": "2026-08-12T12:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642888"
+    },
+    {
+      "id": 2643206,
+      "tipo": "SBT",
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Parecer do relator ao Projeto de Lei nº 2.842/2023, que proíbe apostas esportivas em ações individuais durante eventos esportivos e estabelece regulamentações para apostas em números  de gols e resultados de partidas.",
+      "data": "2026-08-12T16:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643206"
     }
   ],
   "discursos": [],

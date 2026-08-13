@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220603.jpg",
-  "score": 33.75,
-  "rank": 174,
-  "proposicoes": [],
+  "score": 25.23,
+  "rank": 344,
+  "proposicoes": [
+    {
+      "id": 2643393,
+      "tipo": "PL",
+      "numero": 5051,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social – LOAS), para incentivar a inserção no mercado de trabalho dos pais ou responsáveis legais por crianças e adolescentes com deficiência beneficiários do Benefício de Prestação Continuada – PBC, sem a perda imediata do beneficio assistencial.",
+      "data": "2026-08-12T19:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643393"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

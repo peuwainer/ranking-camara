@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204407.jpg",
-  "score": 41.2,
-  "rank": 23,
+  "score": 42.19,
+  "rank": 13,
   "proposicoes": [
     {
       "id": 2642236,
@@ -18,6 +18,20 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-08-12T16:48",
+      "fase": "Ordem do Dia",
+      "tipo": "DISCUSSÃO",
+      "resumo": "A SRA. FERNANDA MELCHIONNA (Bloco/PSOL - RS. Sem revisão da oradora.) - Sr. Presidente, primeiro eu quero registrar que eu me inscrevi lá atrás, quando votamos a urgência desse projeto. Deputado Paulo",
+      "transcricao": "A SRA. FERNANDA MELCHIONNA (Bloco/PSOL - RS. Sem revisão da oradora.) - Sr. Presidente, primeiro eu quero registrar que eu me inscrevi lá atrás, quando votamos a urgência desse projeto. Deputado Paulo Pimenta, meu colega do Rio Grande do Sul e Líder do Governo, esse projeto surgiu num momento em que os combustíveis na bomba seguiam aumentando, teoricamente em nome do conflito, ou melhor, do ataque dos Estados Unidos no Oriente Médio, mas a gente sabe que também pesa muito o fato de o refino e da distribuição seguirem privados. Desde que o Governo Lula mudou corretamente a política de preços para que a paridade do petróleo não ficasse mais vinculada ao dólar  prática adotada por Temer e Bolsonaro que fez avançar enormemente  reduziu o preço da extração, mas não foi repassado para o consumidor, porque o refino e a distribuição seguem privados. De qualquer maneira, o PLP era muito meritório. Eu não posso conceber uma lógica de ajuste fiscal que entrou como \"jabuti\" aqui. Falei, já na largada, para o Presidente Hugo Motta que, quando chega um texto enorme com um monte de \"jabutis\" de matérias alheias para conter o aumento dos combustíveis, bom para o povo não é. Aqui, nós temos um ataque pesado contra o arcabouço fiscal, que aumenta medidas para impedir que o Governo não possa investir em área social. Vejam V.Exas., hoje o investimento público, aquilo que se gasta com saúde, educação, assistência, é limitado, Deputado Glauber. O gasto financeiro, o que se paga para os bancos, para a especulação, para juros de amortização, é ilimitado, Líder Tarcísio Motta. Aqui se dificultam ainda mais, para agora e 2027, as bandas que podem ser utilizadas em ampliação de políticas públicas, inclusive em caso de superávit, o que não é a minha regra, como os neoliberais gostam de falar, mas inclusive nesses casos. Para piorar, a Relatora tirou da receita corrente líquida, nessa emenda do Bruno Moretti, o valor daquilo que se arrecada com a extração de petróleo. O que isso significa? Que se ataca diretamente o piso da educação e da saúde. Atenção, universidades públicas! Atenção, institutos federais! Atenção, defensores do Sistema Único de Saúde! Aqui estão tirando bilhões do cálculo. Eles não têm coragem de atacar o piso, porque sabem que vão perder voto em época de eleição. Aí arranjam essas manobras para tirar recurso da receita líquida e, sim, atacar o piso da saúde e da educação. Depois, na eleição, ainda vão pedir voto."
+    },
+    {
+      "data": "2026-08-12T16:12",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. FERNANDA MELCHIONNA (Bloco/PSOL - RS. Pela ordem. Sem revisão da oradora.) - Presidente, quero registrar que várias coisas foram incluídas nesse projeto. Eu voto pela retirada justamente por is",
+      "transcricao": "A SRA. FERNANDA MELCHIONNA (Bloco/PSOL - RS. Pela ordem. Sem revisão da oradora.) - Presidente, quero registrar que várias coisas foram incluídas nesse projeto. Eu voto pela retirada justamente por isso. O Parlamento, quando vota em cima da hora temas que dizem respeito a arcabouço fiscal, terras raras, etc, geralmente erra e atende a interesses privados. Isso não estava no projeto original, e apareceu hoje. Então, quero deixar esse registro enquanto a Deputada Marussa vai à tribuna. Presidente, cumprimento-o também pois sabemos do que aconteceu ontem na reunião de Líderes. Já nos solidarizamos com o Deputado Pedro Uczai. Acho que V.Exa. foi prudente. Mas também trago o tema da necessidade de pautar a revogação da Lei da Alienação Parental. O que aconteceu com o menino Gustavo  aquela brutalidade, com a mãe Sabrina, que viu o filho ser violentado desta maneira pelo genitor, que tinha medida judicial para estar com o filho  é a demonstração de que essa lei é falida, que tem servido para torturar crianças e revitimizar mulheres. Nós aprovamos um projeto meu, da Deputada Sâmia e da Deputada Vivi na CCJ. Há recurso do Deputado Carlos Jordy para que seja pautado no Plenário. É regimental  claro que é uma vergonha , mas é regimental. E nós gostaríamos de conversar com V.Exa. sobre a importância de enfrentar esse recurso e proteger as crianças e mulheres brasileiras."
+    },
     {
       "data": "2026-08-11T18:28",
       "fase": "Breves Comunicações",
@@ -89,14 +103,14 @@
       "desde": "2026-03-03T00:00"
     },
     {
-      "nome": "Comissão de Defesa dos Direitos da Mulher",
-      "sigla": "CMULHER",
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
       "cargo": "Titular",
       "desde": "2026-03-10T00:00"
     },
     {
-      "nome": "Comissão de Educação",
-      "sigla": "CE",
+      "nome": "Comissão de Defesa dos Direitos da Mulher",
+      "sigla": "CMULHER",
       "cargo": "Titular",
       "desde": "2026-03-10T00:00"
     },
@@ -111,6 +125,12 @@
       "sigla": "CSPCCO",
       "cargo": "Suplente",
       "desde": "2026-07-14T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Suplente",
+      "desde": "2026-08-12T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204407/votacoes-nominais-plenario/2026"

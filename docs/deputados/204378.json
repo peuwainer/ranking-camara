@@ -4,10 +4,18 @@
   "partido": "PL",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204378.jpg",
-  "score": 21.25,
-  "rank": 384,
+  "score": 28.67,
+  "rank": 272,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-12T15:44",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. CORONEL CHRISÓSTOMO (PL - RO. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu gostaria de fazer uma solicitação a V.Exa. em nome do meu povo de Rondônia. Estou eu aqui e a Deputada Silv",
+      "transcricao": "O SR. CORONEL CHRISÓSTOMO (PL - RO. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu gostaria de fazer uma solicitação a V.Exa. em nome do meu povo de Rondônia. Estou eu aqui e a Deputada Silvia Cristina lutando pela mesma causa: a PEC 47. Sr. Presidente Hugo Motta, eu sei que o senhor já disse que quer que isso aconteça, mas eu gostaria de solicitar a V.Exa., que está conversando com o nobre Deputado, que a gente possa votar ainda antes da eleição a PEC 47. Presidente Hugo Motta, solicito a V.Exa. que isso possa acontecer já, porque nós queremos muito atender aos nossos funcionários, aos nossos servidores, que merecem vir para o quadro federal, na PEC 47. Rondônia merece; os outros Estados merecem também. Sr. Presidente, essa é uma solicitação para que a gente possa fazer justiça a Rondônia e também aos outros Estados, que merecem que a PEC 47 seja votada aqui nesta Casa. Eles já estão velhinhos, porque estão lutando há muito tempo, Presidente Hugo Motta, para que a PEC 47 seja votada, e, com certeza, para que todos votem \"sim\", favoravelmente a essa PEC tão importante para os nossos Estados. Obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a verificar a situação dos municípios que perderam recursos financeiros do FPM, depois dos cálculos feitos pelo TCU, com base no Censo inacabado do IBGE",

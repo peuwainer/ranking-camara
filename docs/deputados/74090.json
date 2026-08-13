@@ -4,10 +4,18 @@
   "partido": "PSD",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74090.jpg",
-  "score": 3.75,
-  "rank": 479,
+  "score": 17.62,
+  "rank": 443,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-12T15:36",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ÁTILA LINS (Bloco/PSD - AM. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente. Eu só quero registrar que, ontem, estive numa audiência com o Sr. Ministro da Saúde, na companhia do",
+      "transcricao": "O SR. ÁTILA LINS (Bloco/PSD - AM. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente. Eu só quero registrar que, ontem, estive numa audiência com o Sr. Ministro da Saúde, na companhia do Prefeito de Lábrea, Gerlando Lopes, que se encontra em Brasília, quando tratamos da liberação do projeto de construção da nova maternidade do Município, da liberação de outros recursos da saúde e tratamos da questão da saúde indígena. Depois, fomos ao FNDE para tratar da educação. Finalmente, fomos ao Programa Luz para Todos, onde o Coordenador Miguel Marques nos atendeu muito bem e vai, com certeza, priorizar as comunidades mais distantes de Lábrea com o programa Luz para Todos. Queria que ficasse registrada nos Anais da Casa essa visita do Prefeito de Lábrea e as audiências que foram a ele concedidas em minha companhia. Por fim, gostaria de reiterar, Sra. Presidente, que nós estamos realmente apresentando dois projetos que estão tramitando. O primeiro fixa uma gratificação para que os policiais militares, bombeiros militares e guardas municipais possam adquirir, possam comprar os seus fardamentos. Outro projeto cria uma delegacia especializada da mulher em todos os Municípios brasileiros. Não vamos ter nenhum problema de que haja outras delegacias, mas haverá uma para atender exclusivamente a mulher, em todos os Municípios, para nós tentarmos combater o feminicídio que está grassando no País. Muito obrigado a V.Exa. Peço que meu pronunciamento seja divulgado nos meios de comunicação desta Casa."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei n. 2614, de 2024, do Poder Executivo, que \"aprova o Plano Nacional de Educação para o decênio 2024-2034\"",

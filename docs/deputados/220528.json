@@ -4,9 +4,19 @@
   "partido": "PSB",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220528.jpg",
-  "score": 35.0,
-  "rank": 131,
-  "proposicoes": [],
+  "score": 26.48,
+  "rank": 326,
+  "proposicoes": [
+    {
+      "id": 2643199,
+      "tipo": "PL",
+      "numero": 5036,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Desenvolvimento Infantil, Intervenção Precoce e Inclusão Integrada - PNDII.",
+      "data": "2026-08-12T16:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643199"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

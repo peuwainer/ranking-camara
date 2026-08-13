@@ -4,18 +4,9 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220641.jpg",
-  "score": 35.26,
-  "rank": 118,
+  "score": 18.13,
+  "rank": 436,
   "proposicoes": [
-    {
-      "id": 2639108,
-      "tipo": "PL",
-      "numero": 3648,
-      "ano": 2026,
-      "ementa": "Institui o Programa Atleta Nota 10, destinado a ampliar o acesso e a permanência de estudantes-atletas egressos da rede pública de ensino na educação superior, mediante adesão voluntária de instituições privadas de ensino superior.",
-      "data": "2026-07-13T08:01",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639108"
-    },
     {
       "id": 2641580,
       "tipo": "PL",
@@ -42,6 +33,15 @@
       "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para prever sanções restritivas do uso de redes sociais, aplicações de mensageria e serviços de telecomunicação aos condenados pelo crime de divulgação não consentida de intimidade sexual.",
       "data": "2026-07-29T10:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641686"
+    },
+    {
+      "id": 2642947,
+      "tipo": "PL",
+      "numero": 5023,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para fixar parâmetros mínimos de distância da zona de advertência e da zona de exclusão na monitoração eletrônica de agressores, para estender às duas zonas o alerta automático e simultâneo à vítima e à autoridade policial, e para dispor sobre o alerta de falha técnica dos dispositivos de monitoração e sobre o modo de notificação à vítima.",
+      "data": "2026-08-12T12:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642947"
     }
   ],
   "discursos": [],

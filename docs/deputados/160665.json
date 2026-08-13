@@ -4,9 +4,37 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
-  "score": 33.75,
-  "rank": 171,
-  "proposicoes": [],
+  "score": 33.94,
+  "rank": 92,
+  "proposicoes": [
+    {
+      "id": 2643149,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Regulamenta o art. 201, § 1º, inciso II, da Constituição Federal, para dispor sobre os requisitos e critérios diferenciados para a concessão de aposentadoria aos beneficiários do regime geral de previdência social, nos casos de atividades exercidas sob condições especiais que prejudiquem a saúde, e dá outras providências.",
+      "data": "2026-08-12T16:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643149"
+    },
+    {
+      "id": 2643226,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre as diretrizes para o desenvolvimento do futebol feminino na República Federativa do Brasil e dá outras providências.",
+      "data": "2026-08-12T17:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643226"
+    },
+    {
+      "id": 2643306,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "EMENDA DE PLENÁRIO 080 DE 2026",
+      "data": "2026-08-12T18:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643306"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

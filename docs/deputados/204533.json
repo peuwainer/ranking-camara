@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204533.jpg",
-  "score": 16.31,
-  "rank": 456,
+  "score": 14.25,
+  "rank": 473,
   "proposicoes": [
     {
       "id": 2640227,
@@ -15,6 +15,15 @@
       "ementa": "Dispõe sobre os direitos dos professores contratados por tempo determinado.",
       "data": "2026-07-16T15:34",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640227"
+    },
+    {
+      "id": 2642865,
+      "tipo": "PL",
+      "numero": 5016,
+      "ano": 2026,
+      "ementa": "Cria o Fundo Nacional de Educação Inclusiva — FNEI; altera as Leis nº 9.424, de 24 de dezembro de 1996, nº 9.766, de 18 de dezembro de 1998, e nº 9.998, de 17 de agosto de 2000; estabelece mecanismos de articulação com o Fundo Social — FS, o Fundo de Universalização dos Serviços de Telecomunicações — Fust e o Fundo Nacional de Investimento em Infraestrutura Social — FIIS; e dá outras providências.",
+      "data": "2026-08-12T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642865"
     }
   ],
   "discursos": [],

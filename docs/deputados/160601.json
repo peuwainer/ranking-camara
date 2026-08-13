@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160601.jpg",
-  "score": 33.12,
-  "rank": 237,
-  "proposicoes": [],
+  "score": 33.19,
+  "rank": 129,
+  "proposicoes": [
+    {
+      "id": 2643364,
+      "tipo": "PL",
+      "numero": 5046,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 07 de agosto de 2006, e a Lei nº 14.344, de 24 de maio de 2022, para estabelecer avaliação obrigatória de risco e proteção imediata de crianças e adolescentes em contexto de violência doméstica e familiar, e dá outras providências.",
+      "data": "2026-08-12T18:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643364"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

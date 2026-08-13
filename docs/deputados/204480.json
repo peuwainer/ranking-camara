@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204480.jpg",
-  "score": 32.76,
-  "rank": 249,
+  "score": 32.82,
+  "rank": 150,
   "proposicoes": [
     {
       "id": 2639456,
@@ -42,6 +42,15 @@
       "ementa": "Altera a Lei nº 7.713, de 22 de dezembro de 1988, para conceder isenção do Imposto sobre a Renda da Pessoa Física incidente sobre rendimentos de aposentadoria, pensão e demais benefícios previdenciários.",
       "data": "2026-07-15T14:22",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639736"
+    },
+    {
+      "id": 2643283,
+      "tipo": "PL",
+      "numero": 5042,
+      "ano": 2026,
+      "ementa": "Determina que as despesas de capital e parcela das despesas custeadas com receitas próprias de autarquias federais não sejam alcançadas pelo mecanismo de limitação de empenho e movimentação financeira previsto na LRF, e não sejam incluídas na base de cálculo e nos limites estabelecidos no Novo Arcabouço Fiscal para as despesas primárias do Governo Federal.",
+      "data": "2026-08-12T17:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643283"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220671.jpg",
-  "score": 34.5,
-  "rank": 144,
+  "score": 17.44,
+  "rank": 444,
   "proposicoes": [
     {
       "id": 2642467,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.",
       "data": "2026-08-11T11:53",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642510"
+    },
+    {
+      "id": 2643283,
+      "tipo": "PL",
+      "numero": 5042,
+      "ano": 2026,
+      "ementa": "Determina que as despesas de capital e parcela das despesas custeadas com receitas próprias de autarquias federais não sejam alcançadas pelo mecanismo de limitação de empenho e movimentação financeira previsto na LRF, e não sejam incluídas na base de cálculo e nos limites estabelecidos no Novo Arcabouço Fiscal para as despesas primárias do Governo Federal.",
+      "data": "2026-08-12T17:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643283"
     }
   ],
   "discursos": [],

@@ -4,18 +4,9 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220635.jpg",
-  "score": 17.0,
-  "rank": 447,
+  "score": 27.71,
+  "rank": 296,
   "proposicoes": [
-    {
-      "id": 2639256,
-      "tipo": "PL",
-      "numero": 3659,
-      "ano": 2026,
-      "ementa": "Institui o Acordo de Acesso Global e Compartilhamento de Risco para aquisição de medicamentos órfãos e de alto custo destinados a doenças raras e ultrarraras no âmbito do Sistema Único de Saúde, e de outras providências.",
-      "data": "2026-07-13T16:06",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639256"
-    },
     {
       "id": 2639738,
       "tipo": "PL",
@@ -24,6 +15,15 @@
       "ementa": "Institui a Campanha Nacional de Conscientização sobre a Hidratação no Período de Inverno no âmbito do Sistema Único de Saúde (SUS).",
       "data": "2026-07-15T14:45",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639738"
+    },
+    {
+      "id": 2643232,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer ao PL 631/2026, que cria o Marco Regulatório dos Planos de Assistência Veterinária (planos de saúde pet) e dá outras providências.",
+      "data": "2026-08-12T17:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643232"
     }
   ],
   "discursos": [],

@@ -4,9 +4,19 @@
   "partido": "MDB",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141408.jpg",
-  "score": 35.62,
-  "rank": 108,
-  "proposicoes": [],
+  "score": 22.82,
+  "rank": 387,
+  "proposicoes": [
+    {
+      "id": 2643117,
+      "tipo": "PL",
+      "numero": 5025,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.795, de 8 de outubro de 2008, que \"Dispõe sobre o Sistema de Consórcio\", para definir direitos aplicáveis aos consorciados desistentes ou excluídos de grupos de consórcios.",
+      "data": "2026-08-12T15:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643117"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

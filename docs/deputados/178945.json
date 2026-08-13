@@ -4,10 +4,18 @@
   "partido": "REPUBLICANOS",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178945.jpg",
-  "score": 18.12,
-  "rank": 430,
+  "score": 29.84,
+  "rank": 239,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-12T20:28",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. ROSANGELA GOMES (Bloco/REPUBLICANOS - RJ. Pela ordem. Sem revisão da oradora.) - Presidente Hugo Motta, Sras. Deputadas e Srs. Deputados, venho à tribuna pedir a V.Exa. uma ajuda. V.Exa. foi um",
+      "transcricao": "A SRA. ROSANGELA GOMES (Bloco/REPUBLICANOS - RJ. Pela ordem. Sem revisão da oradora.) - Presidente Hugo Motta, Sras. Deputadas e Srs. Deputados, venho à tribuna pedir a V.Exa. uma ajuda. V.Exa. foi um dos cabeças que ajudou a puxar a PEC 383. Junto com os Líderes, Deputados e Deputadas, levamos à aprovação, de forma maciça, essa PEC importantíssima para os trabalhadores e usuários dos SUAS. E nós aqui a aprovamos de forma bastante importante. E V.Exa. foi, junto com os Líderes, um dos avalistas dessa matéria tão importante para a nossa sociedade. Naquela ocasião, o Líder do Governo  assim como os demais Líderes  colocou-se à disposição para articular também no Senado a aprovação dessa PEC, que lá recebeu nova numeração: PEC nº 7. Sr. Presidente, peço mais 30 segundos para concluir. Venho, humildemente, pedir a V.Exa. que, com seu prestígio, com a sua grandeza, com a sua dedicação à pauta da assistência social, faça uma intervenção junto ao Presidente do Senado, para que a gente possa nomear o Relator da PEC 7 e aprovarmos, ainda este ano, essa legislação de fundamental importância para toda a assistência do País. Sr. Presidente, muito obrigada e reitero que se faz necessária a intervenção de V.Exa. junto ao Presidente Davi Alcolumbre. Que Deus abençoe a todos!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

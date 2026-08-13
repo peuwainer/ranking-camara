@@ -4,18 +4,9 @@
   "partido": "UNIÃO",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220530.jpg",
-  "score": 41.53,
-  "rank": 21,
+  "score": 34.72,
+  "rank": 79,
   "proposicoes": [
-    {
-      "id": 2639267,
-      "tipo": "PL",
-      "numero": 3661,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 10.406, de 2002 (Código Civil) e a Lei nº 13.105, de 2015 (Código de Processo Civil) - para garantir a destinação prioritária de bens do condenado por feminicídio à manutenção dos filhos e dependentes órfãos da vítima e dá outras providências.",
-      "data": "2026-07-13T17:16",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639267"
-    },
     {
       "id": 2639486,
       "tipo": "SBT",
@@ -24,15 +15,6 @@
       "ementa": "PROJETO DE LEI Nº 1.248, DE 2026\n\nAltera a Lei nº 10.883 e a Lei nº 10.826 para reconhecer como atividade de risco as atribuições desempenhadas pelos integrantes da Carreira de Auditor Fiscal Federal Agropecuário e autorizar o porte de arma de fogo, e dá outras providências.\nAutor: Deputado CAPITÃO ALDEN\nRelator: Deputado MESSIAS DONATO",
       "data": "2026-07-14T17:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639486"
-    },
-    {
-      "id": 2639495,
-      "tipo": "EMC",
-      "numero": 1,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a obrigatoriedade, os prazos e a abrangência da divulgação detalhada de decisões e laudos laboratoriais de natureza sanitária, zoosanitária e fitossanitária pelos órgãos da Administração Pública direta e indireta, e dá outras providências.",
-      "data": "2026-07-13T16:20",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639495"
     },
     {
       "id": 2639835,
@@ -69,6 +51,15 @@
       "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 - Lei de Execução Penal, para instituir critérios técnicos multidisciplinares obrigatórios de verificação da identidade de gênero para fins de classificação e custódia de pessoas privadas de liberdade, e dá outras providências.",
       "data": "2026-08-11T13:35",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642572"
+    },
+    {
+      "id": 2642890,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa \"Recomeço com Fé\", que integra comunidades terapêuticas de base religiosa ao sistema de execução penal; estabelece a medida de acolhimento terapêutico-espiritual como alternativa à pena privativa de liberdade para crimes de menor potencial ofensivo relacionados ao uso de drogas; define critérios de credenciamento das entidades participantes; e dá outras providências.\nAutor: Deputado EROS BIONDINI\nRelator: Deputado MESSIAS DONATO",
+      "data": "2026-08-12T12:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642890"
     }
   ],
   "discursos": [

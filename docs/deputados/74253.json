@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74253.jpg",
-  "score": 35.75,
-  "rank": 99,
+  "score": 27.86,
+  "rank": 292,
   "proposicoes": [
     {
       "id": 2639533,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 13.756, de 12 de dezembro de 2018, para incluir, entre as destinações dos recursos do Fundo Nacional de Segurança Pública (FNSP), o custeio direto da defesa judicial e extrajudicial de agentes públicos federais de segurança pública que respondam a processo judicial ou administrativo em decorrência do exercício regular de suas atribuições constitucionais, legais e regulamentares, e dá outras providências.",
       "data": "2026-07-27T14:11",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641615"
+    },
+    {
+      "id": 2643104,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-08-12T14:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643104"
     }
   ],
   "discursos": [],
@@ -87,6 +96,12 @@
       "sigla": "PEC22119",
       "cargo": "Titular",
       "desde": "2026-04-28T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 32, de 2015, do Sr. Gonzaga Patriota, que \"altera a redação dos artigos 14 e 228 da Constituição Federal, para estabelecer a plena maioridade civil e penal aos dezesseis anos de idade\", e apensadas",
+      "sigla": "PEC03215",
+      "cargo": "Suplente",
+      "desde": "2026-08-12T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/74253/votacoes-nominais-plenario/2026"

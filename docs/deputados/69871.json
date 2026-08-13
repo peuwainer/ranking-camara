@@ -4,8 +4,8 @@
   "partido": "PV",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/69871.jpg",
-  "score": 32.76,
-  "rank": 246,
+  "score": 33.82,
+  "rank": 97,
   "proposicoes": [
     {
       "id": 2641415,
@@ -42,9 +42,26 @@
       "ementa": "Altera a Lei nº 8.742, de 7 de dezembro de 1993, para instituir o Auxílio Transitório ao Cuidador Principal, destinado à mãe ou, na sua falta, ao cuidador não remunerado de pessoa com deficiência titular do Benefício de Prestação Continuada, em razão do falecimento da pessoa cuidada, e altera a Lei nº 8.213, de 24 de julho de 1991, para assegurar o cômputo do período de dedicação integral aos cuidados como tempo de contribuição previdenciária.",
       "data": "2026-08-05T09:05",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641966"
+    },
+    {
+      "id": 2643283,
+      "tipo": "PL",
+      "numero": 5042,
+      "ano": 2026,
+      "ementa": "Determina que as despesas de capital e parcela das despesas custeadas com receitas próprias de autarquias federais não sejam alcançadas pelo mecanismo de limitação de empenho e movimentação financeira previsto na LRF, e não sejam incluídas na base de cálculo e nos limites estabelecidos no Novo Arcabouço Fiscal para as despesas primárias do Governo Federal.",
+      "data": "2026-08-12T17:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643283"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-12T15:44",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. BACELAR (Bloco/PV - BA. Sem revisão do orador.) - Presidente Hugo Motta, Sras. e Srs. Parlamentares, perder um filho é uma dor que não se explica; palavras não traduzem. Para milhares de mães br",
+      "transcricao": "O SR. BACELAR (Bloco/PV - BA. Sem revisão do orador.) - Presidente Hugo Motta, Sras. e Srs. Parlamentares, perder um filho é uma dor que não se explica; palavras não traduzem. Para milhares de mães brasileiras, as mães atípicas, para cuidadores voluntários, essa dor vem ainda mais dura, com uma realidade cruel, pois, quando o seu filho ou ente querido, que era beneficiário do Benefício de Prestação Continuada (BPC), morre, imediatamente esse benefício é encerrado. E, com ele, muitas vezes, também desaparece a segurança alimentar, desaparece qualquer tipo de renda para quem dedicou toda a sua vida a cuidar desses entes. São pessoas que se afastaram do mercado de trabalho, que se afastaram de uma qualificação profissional, que muitas vezes até se isolaram socialmente. E o Estado não protege essas mães. Por isso, estou apresentando o projeto de lei que cria um auxílio transitório ao cuidador principal. Esse auxílio terá duração de 1 ano, com valor de meio salário mínimo, para garantir a essa mãe, para garantir a esse cuidador voluntário a reinserção no mercado de trabalho e numa vida social. É um apoio temporário para garantir que essas mães e cuidadores não fiquem desamparados justamente quando mais precisam. É um auxílio que reconhece essa realidade muitas vezes invisível: cuidar também é trabalho. E por isso, nesse mesmo projeto, procuramos garantir que o tempo dedicado ao cuidado seja reconhecido também para fins de aposentadoria, porque anos de dedicação não podem simplesmente desaparecer da vida previdenciária dessas pessoas. A Câmara tem tido uma atenção muito especial com as mães atípicas, mas, infelizmente, a interrupção do Benefício de Prestação Continuada  BPC tem causado muitos transtornos às mães atípicas e aos cuidadores voluntários. Tenho certeza de que conseguirei, de meus ilustres pares, a aprovação desse projeto de lei, que virá atender a esse reclamo das mães atípicas. Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, avaliação e acompanhamento das iniciativas e medidas adotadas para transição energética - Fontes Renováveis e Produção de Hidrogênio Verde no Brasil",

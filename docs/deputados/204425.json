@@ -4,10 +4,25 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204425.jpg",
-  "score": 31.88,
-  "rank": 324,
+  "score": 29.59,
+  "rank": 241,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-12T17:36",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. SILVIO COSTA FILHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Presidente, primeiro, eu quero parabenizá-lo pela capacidade de dialogar com o setor produtivo, com a sociedade",
+      "transcricao": "O SR. SILVIO COSTA FILHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Presidente, primeiro, eu quero parabenizá-lo pela capacidade de dialogar com o setor produtivo, com a sociedade civil organizada. Parabenizo, mais uma vez, a Relatora Marussa Boldrin, que teve a capacidade de conversar com todos os setores, os Parlamentares, os Líderes, o setor produtivo. Quem ganha com essa matéria é o povo brasileiro, porque o setor sucroenergético é fundamental para o desenvolvimento da economia brasileira, sobretudo para o Nordeste do Brasil, que estava sendo prejudicado por conta dessa crise internacional. Foram meses difíceis. Eu tenho certeza de que, com a aprovação desse PLP 114, hoje, é uma sinalização positiva para o mercado, para o setor, que vai permanecer se fortalecendo, gerando emprego, renda e movimentando a economia brasileira. Segundo, quero parabenizar o nosso Ministro do Planejamento e Orçamento, Bruno Moretti, que se faz aqui presente e pôde atender a todos os questionamentos e dúvidas. Pudemos construir, de maneira coletiva, um texto que preservasse a agenda fiscal do País, mas que, ao mesmo tempo, tivéssemos a preocupação com a preservação do setor produtivo brasileiro, fortalecendo, sem dúvida alguma, os pilares, como o setor sucroenergético brasileiro. Presidente, a Maioria apoia a matéria. Nós votamos \"sim\" por entender fundamental o PLP 114, além dos minerais críticos, do setor sucroenergético, entre outros. Presidente Hugo Motta, parabéns! Mais uma vez, V.Exa. dá uma demonstração de liderança e articulação, cumprindo de maneira democrática o seu papel institucional de conduzir os trabalhos aqui da Casa. Parabéns a V.Exa.! A Maioria vota \"sim\"."
+    },
+    {
+      "data": "2026-08-12T17:08",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. SILVIO COSTA FILHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Presidente, primeiro, quero dizer da alegria de vê-lo presidindo a sessão na tarde de hoje. Segundo, como Líder",
+      "transcricao": "O SR. SILVIO COSTA FILHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Presidente, primeiro, quero dizer da alegria de vê-lo presidindo a sessão na tarde de hoje. Segundo, como Líder da Maioria, quero parabenizar a nossa querida Relatora Marussa pelo excelente relatório que apresenta na tarde de hoje. Ela pôde, ao longo desses últimos dias, construir esse relatório com o setor produtivo, com a sociedade civil organizada, com o Governo, com todos os Líderes na Casa, para que aprovássemos, no dia de hoje, uma matéria tão importante para o setor sucroenergético brasileiro, um setor que gera emprego e renda. Isso será fundamental para fortalecer esse setor importante para o Nordeste e para o Brasil. Quero parabenizar V.Exa., Presidente Hugo Motta, que desde o primeiro momento teve a capacidade de dialogar com todos os Líderes. Ontem tivemos uma reunião muito importante com os Líderes partidários, para que pudéssemos, no dia de hoje, trabalhar para votar essa matéria importante, que dialoga com vários temas. Tenho certeza de que esse é um avanço significativo em várias áreas que estão sendo apreciadas no dia de hoje. Parabéns a V.Exa.!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Trabalho",

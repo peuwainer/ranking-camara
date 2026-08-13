@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178873.jpg",
-  "score": 18.19,
-  "rank": 419,
+  "score": 29.96,
+  "rank": 237,
   "proposicoes": [
     {
       "id": 2641582,
@@ -15,9 +15,26 @@
       "ementa": "Dispõe sobre a criação e o funcionamento de Cooperativas Solidárias, visando a promoção social da cidadania, da organização coletiva mutualista e dos direitos fundamentais de vida digna, conforme especifica.",
       "data": "2026-07-24T09:47",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641582"
+    },
+    {
+      "id": 2643283,
+      "tipo": "PL",
+      "numero": 5042,
+      "ano": 2026,
+      "ementa": "Determina que as despesas de capital e parcela das despesas custeadas com receitas próprias de autarquias federais não sejam alcançadas pelo mecanismo de limitação de empenho e movimentação financeira previsto na LRF, e não sejam incluídas na base de cálculo e nos limites estabelecidos no Novo Arcabouço Fiscal para as despesas primárias do Governo Federal.",
+      "data": "2026-08-12T17:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643283"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-12T16:04",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. HELDER SALOMÃO (Bloco/PT - ES. Pela ordem. Sem revisão do orador.) - Sr. Presidente, a Federação Brasil da Esperança orienta \"não\". Presidente, a orientação da nossa federação é \"não\", porque nó",
+      "transcricao": "O SR. HELDER SALOMÃO (Bloco/PT - ES. Pela ordem. Sem revisão do orador.) - Sr. Presidente, a Federação Brasil da Esperança orienta \"não\". Presidente, a orientação da nossa federação é \"não\", porque nós queremos discutir mais profundamente essa matéria. Portanto, somos contra o requerimento de urgência e queremos ter um aprofundamento maior sobre a matéria que está em pauta. Achamos precipitado votar, nesse momento, o requerimento de urgência."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a fiscalizar os rompimentos de barragens, em especial acompanhar a repactuação do acordo de Mariana e a reparação do crime de Brumadinho",

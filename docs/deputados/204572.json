@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204572.jpg",
-  "score": 40.65,
-  "rank": 27,
+  "score": 31.24,
+  "rank": 206,
   "proposicoes": [
     {
       "id": 2639641,
@@ -36,6 +36,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-08-12T13:00",
+      "fase": "Encerramento",
+      "tipo": "DISCURSO ENCAMINHADO",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO CAPITÃO ALBERTO NETO (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, Senhoras e Senhores Deputados, Há vinte anos, no dia 7 de agosto de 2006, o Brasi",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO CAPITÃO ALBERTO NETO (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, Senhoras e Senhores Deputados, Há vinte anos, no dia 7 de agosto de 2006, o Brasil sancionava a Lei nº 11.340, a Lei Maria da Penha. Nascida da luta de uma mulher que sobreviveu a duas tentativas de feminicídio e passou quase duas décadas esperando por Justiça, essa lei se tornou um dos marcos mais importantes na história da proteção às mulheres brasileiras, reconhecida internacionalmente como uma das legislações mais avançadas do mundo no enfrentamento à violência doméstica. A Lei Maria da Penha mudou a forma como o Estado brasileiro trata a violência contra a mulher. Ela rompeu, de uma vez por todas, com a velha lógica de que briga de marido e mulher é assunto de dentro de casa. Ela reconheceu que violência doméstica não é uma questão privada  é uma violação de direitos humanos que exige resposta efetiva do poder público. Criou as medidas protetivas de urgência, fortaleceu delegacias e juizados especializados, e ampliou o próprio conceito de violência para além da agressão física, reconhecendo a violência psicológica, sexual, patrimonial, moral e, mais recentemente, em 2026, a violência vicária, quando o agressor usa filhos e pessoas próximas como instrumento para atingir a mulher. Mas, senhoras e senhores, vinte anos depois, é preciso dizer com toda a honestidade: a lei avançou, mas a violência não recuou na mesma proporção. No Amazonas, os números do primeiro semestre de 2026 são alarmantes. Foram 21.007 ocorrências de violência doméstica contra mulheres registradas pela Secretaria de Segurança Pública entre janeiro e junho  uma média de 116 casos por dia, ou cinco a cada hora. É um crescimento de 5% em relação ao mesmo período do ano passado. E, como bem apontou a OAB do Amazonas, o maior desafio hoje não é mais apenas a existência da lei, é transformar esse direito em proteção efetiva e acessível, especialmente para as mulheres que vivem no interior do nosso estado, onde delegacias especializadas, juizados e rede de apoio muitas vezes simplesmente não chegam. No Brasil como um todo, 2025 registrou 1.571 vítimas de feminicídio  o maior número da série histórica desde 2015. Isso significa que, apesar de vinte anos de Lei Maria da Penha, ainda estamos perdendo vidas de mulheres brasileiras todos os dias. Celebrar os 20 anos dessa lei não pode ser um gesto simbólico. Tem que ser um compromisso renovado: de levar delegacia especializada, casa-abrigo e juizado até o interior do Amazonas e não apenas até a capital; de garantir que toda mulher, ribeirinha ou da cidade, saiba onde buscar ajuda e tenha, de fato, acesso a essa ajuda; e de tratar cada boletim de ocorrência como um alerta que pode, se ignorado, se transformar em uma tragédia irreversível. À Maria da Penha Maia Fernandes, que transformou sua própria dor em proteção para milhões de mulheres brasileiras, nosso respeito e nossa gratidão. E a todas as mulheres do Amazonas que hoje ainda enfrentam o silêncio, o medo e a distância do Estado: este mandato seguirá cobrando que a lei que leva o nome de uma sobrevivente chegue, de fato, a cada canto do nosso estado. Muito obrigado. Solicito a divulgação deste discurso nos meios de comunicação da Câmara dos Deputados e no programa Voz do Brasil."
+    },
     {
       "data": "2026-08-11T15:00",
       "fase": "Encerramento",
@@ -106,6 +113,12 @@
       "sigla": "SUB8J",
       "cargo": "Titular",
       "desde": "2026-03-11T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 32, de 2015, do Sr. Gonzaga Patriota, que \"altera a redação dos artigos 14 e 228 da Constituição Federal, para estabelecer a plena maioridade civil e penal aos dezesseis anos de idade\", e apensadas",
+      "sigla": "PEC03215",
+      "cargo": "Suplente",
+      "desde": "2026-08-12T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204572/votacoes-nominais-plenario/2026"

@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204416.jpg",
-  "score": 38.07,
-  "rank": 51,
-  "proposicoes": [],
+  "score": 33.02,
+  "rank": 145,
+  "proposicoes": [
+    {
+      "id": 2643161,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-08-12T16:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643161"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-07-15T16:40",

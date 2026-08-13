@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220615.jpg",
-  "score": 38.08,
-  "rank": 49,
+  "score": 37.06,
+  "rank": 37,
   "proposicoes": [
     {
       "id": 2641654,
@@ -75,6 +75,12 @@
       "sigla": "SUB8J",
       "cargo": "Titular",
       "desde": "2026-03-11T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 32, de 2015, do Sr. Gonzaga Patriota, que \"altera a redação dos artigos 14 e 228 da Constituição Federal, para estabelecer a plena maioridade civil e penal aos dezesseis anos de idade\", e apensadas",
+      "sigla": "PEC03215",
+      "cargo": "Titular",
+      "desde": "2026-08-12T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220615/votacoes-nominais-plenario/2026"

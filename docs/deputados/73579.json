@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73579.jpg",
-  "score": 39.9,
-  "rank": 31,
+  "score": 38.32,
+  "rank": 25,
   "proposicoes": [
     {
       "id": 2639772,
@@ -24,9 +24,25 @@
       "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para disciplinar a informação ao consumidor sobre a redução quantitativa de produtos comercializados no mercado nacional, e dá outras providências.",
       "data": "2026-08-10T14:48",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642394"
+    },
+    {
+      "id": 2643230,
+      "tipo": "PL",
+      "numero": 5038,
+      "ano": 2026,
+      "ementa": "Altera a Consolidação das Leis do Trabalho e a Lei nº 8.213, de 24 de julho de 1991, para ampliar a proteção trabalhista e previdenciária nos casos de aborto não criminoso e natimorto, assegurar garantia provisória de emprego e instituir acompanhamento psicológico no Sistema Único de Saúde (SUS), e dá outras providências.",
+      "data": "2026-08-12T17:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643230"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-08-12T16:00",
+      "fase": "Ordem do Dia",
+      "tipo": "ENCAMINHAMENTO DE VOTAÇÃO",
+      "resumo": "O SR. ALBERTO FRAGA (PL - DF. Sem revisão do orador.) - Sr. Presidente, este requerimento de urgência  e que fique claro que nós não vamos discutir o mérito agora  é apenas para corrigir uma grande ",
+      "transcricao": "O SR. ALBERTO FRAGA (PL - DF. Sem revisão do orador.) - Sr. Presidente, este requerimento de urgência  e que fique claro que nós não vamos discutir o mérito agora  é apenas para corrigir uma grande injustiça que, na última reforma da Previdência, foi praticada pelo Governo Bolsonaro contra os vigilantes, contra os mineiros, contra os eletricitários, contra aqueles que fazem o trabalho de radiologia. Então, o projeto vem nessa linha. Ele precisa ser melhor discutido. O Governo vai ter que entrar nessa negociação, porque é um projeto que visa tirar algumas injustiças que foram cometidas. Não se admite que alguém que exerça a sua profissão com risco de vida não tenha uma aposentadoria especial; não se admite que aquele que exerça a sua profissão sofrendo os riscos de uma grave doença não tenha o amparo do Governo Federal ou da nossa legislação. Por isso, eu peço o apoio dos colegas para que a gente aprove a urgência e para que a gente possa discutir este projeto com mais calma aqui no Plenário. Certamente por ter sido aprovado já em duas Comissões, o projeto está muito fácil e muito perto daquilo que a gente tem idealizado. Por isso, agradeço aos colegas, agradeço a V.Exa. por ter colocado este requerimento em votação. Com isso, eu espero a aprovação deste requerimento. Muito obrigado, Presidente."
+    },
     {
       "data": "2026-08-11T15:52",
       "fase": "Breves Comunicações",
@@ -80,6 +96,12 @@
       "sigla": "CDC",
       "cargo": "Suplente",
       "desde": "2026-06-09T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 32, de 2015, do Sr. Gonzaga Patriota, que \"altera a redação dos artigos 14 e 228 da Constituição Federal, para estabelecer a plena maioridade civil e penal aos dezesseis anos de idade\", e apensadas",
+      "sigla": "PEC03215",
+      "cargo": "Suplente",
+      "desde": "2026-08-12T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/73579/votacoes-nominais-plenario/2026"

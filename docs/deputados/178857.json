@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178857.jpg",
-  "score": 36.33,
-  "rank": 78,
+  "score": 34.76,
+  "rank": 76,
   "proposicoes": [
     {
       "id": 2641425,
@@ -33,6 +33,15 @@
       "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, para disciplinar o pagamento de salários e benefícios durante o período de divergência entre a perícia médica do INSS e a avaliação do empregador, estabelecendo mecanismo de ressarcimento.",
       "data": "2026-08-11T11:10",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642493"
+    },
+    {
+      "id": 2643283,
+      "tipo": "PL",
+      "numero": 5042,
+      "ano": 2026,
+      "ementa": "Determina que as despesas de capital e parcela das despesas custeadas com receitas próprias de autarquias federais não sejam alcançadas pelo mecanismo de limitação de empenho e movimentação financeira previsto na LRF, e não sejam incluídas na base de cálculo e nos limites estabelecidos no Novo Arcabouço Fiscal para as despesas primárias do Governo Federal.",
+      "data": "2026-08-12T17:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643283"
     }
   ],
   "discursos": [
