@@ -4,27 +4,9 @@
   "partido": "PL",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204572.jpg",
-  "score": 31.24,
-  "rank": 206,
+  "score": 27.39,
+  "rank": 282,
   "proposicoes": [
-    {
-      "id": 2639641,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Parecer do Relator, Dep. Capitão Alberto Neto (PL-AM), pela aprovação, com substitutivo.",
-      "data": "2026-07-15T10:47",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639641"
-    },
-    {
-      "id": 2640014,
-      "tipo": "PL",
-      "numero": 3749,
-      "ano": 2026,
-      "ementa": "Institui a Política Nacional de Saúde Mental Ocupacional dos Profissionais da Educação, aplicável às redes pública e privada de ensino.",
-      "data": "2026-07-15T19:56",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640014"
-    },
     {
       "id": 2642016,
       "tipo": "PL",
@@ -33,6 +15,15 @@
       "ementa": "Dispõe sobre diretrizes nacionais para a custódia, isolamento, vigilância, documentação, transporte e destinação de grandes  apreensões de substância entorpecente, quando localizadas em área rural, de difícil acesso ou em extensão incompatível com remoção imediata integral.",
       "data": "2026-08-05T14:17",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642016"
+    },
+    {
+      "id": 2643452,
+      "tipo": "PL",
+      "numero": 5054,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Capacitação e Produção de Mobiliário Escolar no Sistema Prisional — PROCAP-ME.",
+      "data": "2026-08-13T09:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643452"
     }
   ],
   "discursos": [
@@ -49,20 +40,6 @@
       "tipo": "DISCURSO ENCAMINHADO",
       "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO CAPITÃO ALBERTO NETO (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, Senhoras e Senhores Deputados, O Brasil viveu, mais uma vez, o retrato da falênci",
       "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO CAPITÃO ALBERTO NETO (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, Senhoras e Senhores Deputados, O Brasil viveu, mais uma vez, o retrato da falência do modelo de saída temporária de presos. Não estou falando de uma exceção isolada. Estou falando de um padrão que se repete a cada feriado  e que, neste Dia dos Pais, voltou a expor famílias brasileiras ao risco que o próprio Estado libera para as ruas. Em Vila Velha, no Espírito Santo, um homem que cumpria pena por tráfico deixou o presídio pela saidinha e, horas depois, destruiu a própria casa e agrediu a companheira. Ele responde agora por lesão corporal, tráfico de drogas e associação ao tráfico  tudo cometido durante os dias em que deveria estar, segundo a lógica do benefício, se reaproximando da família de forma pacífica. Em Sarandi, no Paraná, o caso é ainda mais grave. Um homem beneficiado pela saída temporária invadiu a casa da ex-companheira com a intenção declarada de matá-la. Não a encontrou. Esfaqueou o ex-cunhado que estava no local. Um crime premeditado, armado, cometido por alguém que o sistema prisional julgou apto a caminhar livremente pelas ruas por alguns dias. E no norte do Piauí, dois homens que estavam soltos pela saidinha foram mortos a tiros depois de anunciarem publicamente que iriam buscar armas para tomar um ponto de tráfico de um grupo rival. Ou seja: usaram a liberdade temporária não para reencontrar a família, mas para retomar a articulação do crime organizado. Isso não é ressocialização. Isso é o Estado devolvendo às ruas, com data marcada, o risco que a sociedade já havia conseguido conter atrás das grades. Cada um desses casos tem um nome, uma vítima, uma família que vai carregar essa marca para sempre. E cada um deles pergunta a mesma coisa: até quando o benefício de quem errou vai pesar mais do que a segurança de quem nunca fez nada de errado? Defendo, com toda a firmeza, que é hora de rever com rigor os critérios da saída temporária: fiscalização efetiva, restrição para condenados por crimes violentos e contra a mulher, e consequência real e imediata para quem descumpre as regras do benefício. Segurança pública não pode ser um jogo de sorte para quem está em casa esperando o pai, o marido, o filho voltarem em segurança. A prioridade tem que ser sempre a proteção de quem não fez nada além de confiar no Estado. Muito obrigado. Solicito a divulgação deste discurso nos meios de comunicação da Câmara dos Deputados e no programa Voz do Brasil."
-    },
-    {
-      "data": "2026-07-15T12:36",
-      "fase": "Ordem do Dia",
-      "tipo": "COMO LÍDER",
-      "resumo": "O SR. CAPITÃO ALBERTO NETO (PL - AM. Como Líder. Sem revisão do orador.) - Obrigado, Presidente. O Brasil está em choque e o Congresso Nacional precisa dar uma resposta para o nosso povo. Um bebê de 1",
-      "transcricao": "O SR. CAPITÃO ALBERTO NETO (PL - AM. Como Líder. Sem revisão do orador.) - Obrigado, Presidente. O Brasil está em choque e o Congresso Nacional precisa dar uma resposta para o nosso povo. Um bebê de 10 meses, em Fortaleza, foi estuprado pelo padrasto e pelo primo  um bebê de 10 meses. Eu sou lá do Estado do Amazonas e, só nos 5 primeiros meses, lá no Amazonas, nós tivemos mais de 630 estupros de vulneráveis. O Brasil está com um terreno fértil para estuprador e o Congresso Nacional precisa dar uma resposta, e essa resposta já foi começada. Eu fui o Relator do Projeto de Lei nº 6.831, lá na CCJ, que foi aprovado, apesar do voto contra da Esquerda, apesar da Oposição. O projeto é simples, ele dobra a pena para estuprador. Estuprador não pode ter vida fácil neste País, não pode passar poucos dias na cadeia e logo voltar à sua vida criminosa. Ele causou um desastre na vida de uma pessoa, de uma criança. A gente não pode mais passar a mão na cabeça de criminosos. O Brasil, infelizmente, virou o País dos estupradores. Ou a gente dá uma resposta dura ou nós vamos perder todos os dias bebês, crianças, filhos, netos para esses monstros que estão à solta pelo nosso País, em cada canto da nossa Nação. O Congresso Nacional precisa dar uma resposta. O PL 6.831 traz uma resposta simples: o endurecimento da lei, em que se dobra a pena. Ela passa de 20 anos para estupro de vulnerável. Nós colocamos castração química para o estuprador poder progredir na pena. Quer progredir de pena, quer ter benefício penal? Está aí, castração química para o estuprador. A Esquerda acha que isso é pena cruel, que é inconstitucional. Crueldade é o que esses estupradores estão fazendo com as nossas crianças. E o Congresso está calado, está em silêncio, está lento, não está conseguindo dar uma resposta rápida para proteger os nossos filhos, para proteger as nossas mulheres, em especial. Por isso, eu venho aqui, hoje, à tribuna, para pedir ao Presidente Hugo Motta que paute o PL 6.831. Nós precisamos dar uma resposta para a população. O Congresso não pode ficar calado. Nós vamos dobrar a pena, nós vamos colocar castração química para o estuprador, nós vamos colocar um fim a essa vida fácil para quem quer violentar as nossas crianças e as mulheres do nosso País. Tenho dito, Presidente, e peço ajuda do Congresso  cobrem o Presidente. Peço ajuda da população  vamos cobrar o Congresso Nacional, cada Deputado, o Presidente da Casa  para que a gente possa endurecer a pena para os estupradores. Obrigado, Presidente, tenho dito."
-    },
-    {
-      "data": "2026-07-15T11:00",
-      "fase": "Encerramento",
-      "tipo": "DISCURSO ENCAMINHADO",
-      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO CAPITÃO ALBERTO NETO (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, Senhoras e Senhores Deputados Venho a esta tribuna denunciar mais um capítulo da ",
-      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO CAPITÃO ALBERTO NETO (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, Senhoras e Senhores Deputados Venho a esta tribuna denunciar mais um capítulo da grave crise que atinge a Fundação de Medicina Tropical Doutor Heitor Vieira Dourado, o Hospital Tropical, em Manaus  referência nacional no tratamento de doenças infecciosas e parasitárias na Amazônia, incluindo HIV/AIDS, Hepatites Virais e outras enfermidades tropicais. Reportagem do Portal Rios de Notícias trouxe o relato de um acompanhante de paciente denunciando a suspensão do fornecimento de refeições na unidade. Esse relato não é um fato isolado. Já em janeiro de 2024, o mesmo portal revelou que contratos essenciais ao funcionamento do Hospital Tropical  entre eles o de alimentação  não vinham sendo honrados havia meses, por falta de repasse financeiro do governo do Estado, ao lado de falta de material de limpeza, medicamentos e reagentes para exames. A Defensoria Pública do Amazonas chegou a acionar a Justiça para obrigar o governo estadual a repassar R$ 9,4 milhões em recursos atrasados à Fundação. Passados mais de dois anos, voltamos a ver acompanhantes denunciando falta de comida dentro do próprio Hospital Tropical. Isso mostra que o problema não foi resolvido  apenas silenciado por um tempo. Quem paga essa conta é sempre o mesmo: o paciente amazonense, muitas vezes vindo do interior, e a família que o acompanha, sem alimentação básica durante a internação. É inaceitável que uma instituição de referência nacional, símbolo da capacidade científica e assistencial do Amazonas, continue sendo sucateada por má gestão de recursos que já foram destinados a ela. Cobro da Secretaria de Estado de Saúde do Amazonas explicações públicas imediatas e a regularização definitiva de todos os contratos essenciais do Hospital Tropical  especialmente os que garantem alimentação digna a pacientes e acompanhantes. Cobro também que este episódio não se repita novamente daqui a mais dois anos. Saúde não se faz com descaso. Vidas não podem depender da boa vontade de quem, mesmo sem receber, ainda tenta segurar o hospital de pé. Era o que tinha a dizer. Muito obrigado. Solicito a divulgação deste discurso nos meios de comunicação da Câmara dos Deputados e no programa Voz do Brasil."
     }
   ],
   "orgaos": [

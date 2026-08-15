@@ -4,17 +4,17 @@
   "partido": "PCdoB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178987.jpg",
-  "score": 31.4,
-  "rank": 193,
+  "score": 36.31,
+  "rank": 51,
   "proposicoes": [
     {
-      "id": 2639476,
+      "id": 2643736,
       "tipo": "PL",
-      "numero": 3690,
+      "numero": 5072,
       "ano": 2026,
-      "ementa": "Institui o Protocolo Nacional Antirracista para prevenção, acolhimento, atendimento e encaminhamento de vítimas de racismo e injúria racial em estabelecimentos privados de grande circulação de pessoas e dá outras providências.",
-      "data": "2026-07-14T16:22",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639476"
+      "ementa": "Institui o Passe Enem, benefício tarifário destinado a assegurar gratuidade no transporte público coletivo aos participantes do Exame Nacional do Ensino Médio nos dias de aplicação das provas, e dispõe sobre seu custeio pela União.",
+      "data": "2026-08-13T16:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643736"
     }
   ],
   "discursos": [],
@@ -72,6 +72,12 @@
       "sigla": "CDHMIR",
       "cargo": "Suplente",
       "desde": "2026-02-23T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 32, de 2015, do Sr. Gonzaga Patriota, que \"altera a redação dos artigos 14 e 228 da Constituição Federal, para estabelecer a plena maioridade civil e penal aos dezesseis anos de idade\", e apensadas",
+      "sigla": "PEC03215",
+      "cargo": "Titular",
+      "desde": "2026-08-13T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178987/votacoes-nominais-plenario/2026"

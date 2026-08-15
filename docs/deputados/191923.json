@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/191923.jpg",
-  "score": 32.66,
-  "rank": 152,
+  "score": 35.88,
+  "rank": 60,
   "proposicoes": [
-    {
-      "id": 2639672,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre o uso de umidificadores de ar em instituições de ensino públicas e privadas situadas em localidades com umidade relativa do ar inferior a 40%.",
-      "data": "2026-07-15T12:09",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639672"
-    },
     {
       "id": 2639954,
       "tipo": "SBT",
@@ -53,15 +44,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642316"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-07-15T12:12",
-      "fase": "Breves Comunicações",
-      "tipo": "BREVES COMUNICAÇÕES",
-      "resumo": "O SR. FLÁVIO NOGUEIRA (Bloco/PT - PI. Sem revisão do orador.) - Sr. Presidente, Presidente Otoni, prazer vê-lo na Presidência. O nosso Estado do Piauí, hoje, já tem seu porto, que era um sonho irreali",
-      "transcricao": "O SR. FLÁVIO NOGUEIRA (Bloco/PT - PI. Sem revisão do orador.) - Sr. Presidente, Presidente Otoni, prazer vê-lo na Presidência. O nosso Estado do Piauí, hoje, já tem seu porto, que era um sonho irrealizável à vista de muitos. Mas o Governador Rafael Fonteles é, de fato, um visionário, mas um visionário de senso realista, um visionário que não tem ideias abstratas. Ele vê o futuro, enxerga que pode ser realizado aquilo que todos nós, às vezes, pensamos impossível. O Porto Piauí, nesta semana, Deputado Rollemberg, chegou a exportar para a China, atravessando os mares, o minério de ferro extraído de Piripiri  que tem grandes reservas  através de navios oceânicos que fundearam na costa piauiense. Levaram esse minério por navios graneleiros. Tornou-se aquilo que era realizável, que poderia ser realizável. Temos o Piauí exportando o nosso minério. Esse minério era extraído lá em Piripiri, levado por carretas até o porto de Pecém. Agora, com o nosso porto, economiza-se, por essa perna rodoviária, 200 quilômetros, fazendo que possa ser mais viável a exportação do nosso minério. Portanto, Sr. Presidente, nós temos ali, através da Lion Mining  a empresa que extrai e que exporta  e do Porto Piauí, a escrita de um capítulo na história da logística do Piauí, do Nordeste e do Brasil. A logística do Porto Piauí é importantíssima para a exportação dos minérios, como também de grãos daqui a pouco, do nosso Piauí e também dos outros Estados, levando os produtos piauenses e os produtos brasileiros para todo o mundo. É um Piauí novo, um Piauí gigante, que está agora escrevendo a sua história para a exportação de seus produtos, no caso, o minério de ferro. Muito obrigado, Sr. Presidente. Espero que este meu pronunciamento seja, portanto, divulgado pelo A Voz do Brasil. Obrigado."
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a estudar e analisar formas de prevenção e auxílio a desastres e calamidades naturais que vêm assolando o Território Nacional",

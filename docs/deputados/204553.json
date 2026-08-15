@@ -4,18 +4,29 @@
   "partido": "AVANTE",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204553.jpg",
-  "score": 26.17,
-  "rank": 336,
-  "proposicoes": [],
-  "discursos": [
+  "score": 21.88,
+  "rank": 377,
+  "proposicoes": [
     {
-      "data": "2026-07-14T17:32",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. PASTOR SARGENTO ISIDÓRIO (AVANTE - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, a Bahia está em Brasília desde sexta-feira, com trabalhadores e trabalhadoras",
-      "transcricao": "O SR. PASTOR SARGENTO ISIDÓRIO (AVANTE - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, a Bahia está em Brasília desde sexta-feira, com trabalhadores e trabalhadoras lutando para que o Senado faça como fez a Câmara Federal, que defina para os trabalhadores a escala 6 por 1, escala escravocrata. Que o Senado siga o caminho que V.Exa. seguiu fazendo um esforço com as Lideranças para aprovarmos a escala 5 por 2. Até agora o Senado não fez isso, levando-nos a fazer sacrifício nas estradas, acampando nos terrenos de Brasília, dando testa a policiais que são mandados. Eles não têm culpa, mas têm de vir a todo momento oprimir os trabalhadores aqui. Nós precisamos defini-la no Senado. Trabalhadores, Sr. Presidente, e trabalhadoras não são robôs e também não são escravos. Trabalhadores e trabalhadoras desta Nação são a alavanca do progresso nacional. Eu tenho dito aqui e não vou parar: o trabalhador precisa ter tempo para cuidar da saúde, para cuidar da família e repito, sim, poder carinhosamente namorar sua esposa para que sua família seja abençoada. Trabalhadores e trabalhadoras não são robôs. Eu quero parabenizar V.Exa., Presidente Hugo Motta, cada Deputado e Deputada desta Casa que se debruçou carinhosamente em favor dos trabalhadores e trabalhadoras. Quando foi para ter as férias, queriam 15 dias, quando foi para o 13º, eles disseram que o País ia falir. Toda vez que é em benefício do trabalhador, a oligarquia... (Desligamento do microfone.)"
+      "id": 2643773,
+      "tipo": "PL",
+      "numero": 5074,
+      "ano": 2026,
+      "ementa": "Institui normas gerais de proteção econômica do militar dos Estados, do Distrito Federal e dos Territórios definitivamente incapacitado em decorrência do exercício da função ou em razão dela; Cria a complementação mensal dos proventos, para praças, equiparando a remuneração de referência do posto de capitão da respectiva instituição; para o oficial, equiparando a remuneração de referência do posto de coronel; com reforma as respectivas funções; altera o Decreto-Lei nº 667, de 2 de julho de 1969, e a Lei nº 14.751, de 12 de dezembro de 2023.",
+      "data": "2026-08-14T09:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643773"
+    },
+    {
+      "id": 2643797,
+      "tipo": "PL",
+      "numero": 5078,
+      "ano": 2026,
+      "ementa": "Institui o Auxílio Emergencial às Famílias de Vítimas de Violência Urbana praticada por Agentes Públicos da União, dos Estados ou do Distrito Federal, destinado aos dependentes em situação de vulnerabilidade econômica, assegura a análise, a implantação e o primeiro pagamento no prazo de trinta dias contado do requerimento e regulamenta o art. 245 da Constituição Federal.",
+      "data": "2026-08-14T11:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643797"
     }
   ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204485.jpg",
-  "score": 24.55,
-  "rank": 357,
-  "proposicoes": [],
+  "score": 27.19,
+  "rank": 286,
+  "proposicoes": [
+    {
+      "id": 2643502,
+      "tipo": "PL",
+      "numero": 5055,
+      "ano": 2026,
+      "ementa": "Denomina “Agápito Ferreira” a estação ferroviária localizada no Município de Itariri, Estado de São Paulo.",
+      "data": "2026-08-13T10:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643502"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

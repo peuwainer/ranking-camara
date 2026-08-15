@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220602.jpg",
-  "score": 28.49,
-  "rank": 275,
+  "score": 31.07,
+  "rank": 233,
   "proposicoes": [
-    {
-      "id": 2639712,
-      "tipo": "PL",
-      "numero": 3717,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 11.540, de 12 de novembro de 2007, a Lei nº 10.973, de 2 de dezembro de 2004, e a Lei nº 11.196, de 21 de novembro de 2005 (Lei do Bem), para estabelecer mecanismos de proteção e manutenção de patentes estratégicas desenvolvidas por Instituições Científicas, Tecnológicas e de Inovação (ICTs) públicas.",
-      "data": "2026-07-15T13:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639712"
-    },
     {
       "id": 2641785,
       "tipo": "PL",
@@ -33,6 +24,15 @@
       "ementa": "Institui a Política Nacional de Prevenção e Enfrentamento à Infodemia em Saúde e estabelece diretrizes para a comunicação de risco e a promoção da alfabetização científica e informacional em saúde.",
       "data": "2026-08-10T13:22",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642380"
+    },
+    {
+      "id": 2643776,
+      "tipo": "PL",
+      "numero": 5076,
+      "ano": 2026,
+      "ementa": "Institui a Lei de Proteção da Soberania Econômica Nacional contra a Aplicação Extraterritorial de Medidas Estrangeiras, dispõe sobre a proteção das pessoas submetidas à jurisdição brasileira contra medidas coercitivas unilaterais incompatíveis com o ordenamento jurídico nacional, e dá outras providências.",
+      "data": "2026-08-14T10:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643776"
     }
   ],
   "discursos": [],

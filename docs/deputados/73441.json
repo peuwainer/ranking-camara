@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73441.jpg",
-  "score": 24.55,
-  "rank": 355,
-  "proposicoes": [],
+  "score": 21.19,
+  "rank": 387,
+  "proposicoes": [
+    {
+      "id": 2643807,
+      "tipo": "PL",
+      "numero": 5082,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de dispersão e desagregação hídrica rápida para papéis higiênicos fabricados e comercializados no território nacional, altera a Lei 12.305, de 2 de agosto de 2010, e dá outras providências.",
+      "data": "2026-08-14T12:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643807"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

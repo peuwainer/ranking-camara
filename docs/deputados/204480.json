@@ -4,45 +4,9 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204480.jpg",
-  "score": 32.82,
-  "rank": 150,
+  "score": 32.63,
+  "rank": 175,
   "proposicoes": [
-    {
-      "id": 2639456,
-      "tipo": "PL",
-      "numero": 3683,
-      "ano": 2026,
-      "ementa": "Institui o Regime de Proteção contra o Assédio Comercial Digital dirigido aos beneficiários da Previdência Social e dá outras providências.",
-      "data": "2026-07-14T14:39",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639456"
-    },
-    {
-      "id": 2639457,
-      "tipo": "PL",
-      "numero": 3684,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 10.820, de 17 de dezembro de 2003, para vedar a imposição de contratação de produtos ou serviços acessórios em operações de crédito consignado destinadas a aposentados e pensionistas do Regime Geral de Previdência Social e estabelecer medidas de proteção ao consumidor.",
-      "data": "2026-07-14T14:44",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639457"
-    },
-    {
-      "id": 2639458,
-      "tipo": "PL",
-      "numero": 3685,
-      "ano": 2026,
-      "ementa": "Institui medidas especiais de proteção de dados pessoais de aposentados, pensionistas e beneficiários de benefícios previdenciários e assistenciais, estabelece regras para o tratamento e compartilhamento dessas informações e dá outras providências.",
-      "data": "2026-07-14T14:44",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639458"
-    },
-    {
-      "id": 2639736,
-      "tipo": "PL",
-      "numero": 3720,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 7.713, de 22 de dezembro de 1988, para conceder isenção do Imposto sobre a Renda da Pessoa Física incidente sobre rendimentos de aposentadoria, pensão e demais benefícios previdenciários.",
-      "data": "2026-07-15T14:22",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639736"
-    },
     {
       "id": 2643283,
       "tipo": "PL",
@@ -51,6 +15,15 @@
       "ementa": "Determina que as despesas de capital e parcela das despesas custeadas com receitas próprias de autarquias federais não sejam alcançadas pelo mecanismo de limitação de empenho e movimentação financeira previsto na LRF, e não sejam incluídas na base de cálculo e nos limites estabelecidos no Novo Arcabouço Fiscal para as despesas primárias do Governo Federal.",
       "data": "2026-08-12T17:56",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643283"
+    },
+    {
+      "id": 2643776,
+      "tipo": "PL",
+      "numero": 5076,
+      "ano": 2026,
+      "ementa": "Institui a Lei de Proteção da Soberania Econômica Nacional contra a Aplicação Extraterritorial de Medidas Estrangeiras, dispõe sobre a proteção das pessoas submetidas à jurisdição brasileira contra medidas coercitivas unilaterais incompatíveis com o ordenamento jurídico nacional, e dá outras providências.",
+      "data": "2026-08-14T10:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643776"
     }
   ],
   "discursos": [],

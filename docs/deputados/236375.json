@@ -5,17 +5,8 @@
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236375.jpg",
   "score": 32.82,
-  "rank": 149,
+  "rank": 169,
   "proposicoes": [
-    {
-      "id": 2639858,
-      "tipo": "PL",
-      "numero": 3742,
-      "ano": 2026,
-      "ementa": "Proíbe a monetização de conteúdos em qualquer plataforma digital, rede sociais, podcasts, canais de vídeos e sites por detentores de mandatos eletivos que tenham por objeto o exercício do mandato ou que sejam produzidos com emprego de recursos públicos, e dá outras providências.",
-      "data": "2026-07-15T18:27",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639858"
-    },
     {
       "id": 2640228,
       "tipo": "PL",
@@ -51,6 +42,15 @@
       "ementa": "Parecer do relator ao Projeto de Lei nº 2.842/2023, que proíbe apostas esportivas em ações individuais durante eventos esportivos e estabelece regulamentações para apostas em números  de gols e resultados de partidas.",
       "data": "2026-08-12T16:59",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643206"
+    },
+    {
+      "id": 2643808,
+      "tipo": "PL",
+      "numero": 5083,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de emissão, controle e fiscalização do Perfil Profissiográfico Previdenciário (PPP) e do Laudo Técnico das Condições Ambientais do Trabalho (LTCAT) para os médicos-veterinários, inclusive contribuintes individuais, com vistas ao efetivo reconhecimento da atividade especial por exposição a agentes nocivos, e dá outras providências.",
+      "data": "2026-08-14T12:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643808"
     }
   ],
   "discursos": [],

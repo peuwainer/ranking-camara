@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178871.jpg",
-  "score": 29.55,
-  "rank": 243,
-  "proposicoes": [],
+  "score": 26.19,
+  "rank": 322,
+  "proposicoes": [
+    {
+      "id": 2643824,
+      "tipo": "PL",
+      "numero": 5085,
+      "ano": 2026,
+      "ementa": "Concede isenção do Imposto de Importação (II) sobre medicamentos destinados ao tratamento de enfermidades graves ou doenças raras, quando importados por pessoa física para uso próprio ou individual, inclusive por meio de bagagem acompanhada.",
+      "data": "2026-08-14T13:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643824"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

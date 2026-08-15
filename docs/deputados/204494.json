@@ -4,18 +4,9 @@
   "partido": "PRD",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
-  "score": 22.88,
-  "rank": 386,
+  "score": 23.75,
+  "rank": 364,
   "proposicoes": [
-    {
-      "id": 2639539,
-      "tipo": "PLP",
-      "numero": 208,
-      "ano": 2026,
-      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para ampliar o regime diferenciado aplicável à aquisição de automóveis por pessoas com transtornos do neurodesenvolvimento que apresentem limitações funcionais relevantes.",
-      "data": "2026-07-14T19:05",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639539"
-    },
     {
       "id": 2643298,
       "tipo": "SBT",
@@ -24,6 +15,15 @@
       "ementa": "",
       "data": "2026-08-12T18:20",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643298"
+    },
+    {
+      "id": 2643775,
+      "tipo": "PL",
+      "numero": 5075,
+      "ano": 2026,
+      "ementa": "Denomina \"Rodovia André Luís Almeida\" o trecho de rodovia federal que liga o entroncamento com a rodovia MG-129 ao Distrito de Florália, no Município de Santa Bárbara, Estado de Minas Gerais.",
+      "data": "2026-08-14T10:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643775"
     }
   ],
   "discursos": [],

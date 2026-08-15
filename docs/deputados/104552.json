@@ -4,18 +4,9 @@
   "partido": "PP",
   "uf": "AC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/104552.jpg",
-  "score": 32.78,
-  "rank": 151,
+  "score": 37.07,
+  "rank": 41,
   "proposicoes": [
-    {
-      "id": 2639765,
-      "tipo": "SBT",
-      "numero": 4,
-      "ano": 0,
-      "ementa": "Institui a Política Nacional de Bioeconomia, em articulação com a implementação de diretrizes e bases do planejamento do desenvolvimento nacional equilibrado, e altera a Lei nº 10.177, de 12 de janeiro de 2001; a Lei Complementar nº 124, de 3 de janeiro de 2007; a Lei Complementar nº 125, de 3 de janeiro de 2007; a Lei Complementar nº 129, de 8 de janeiro de 2009; e a Lei nº 12.187, de 29 de dezembro de 2009.",
-      "data": "2026-07-15T15:31",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639765"
-    },
     {
       "id": 2640261,
       "tipo": "SBT",
@@ -33,6 +24,15 @@
       "ementa": "Altera a Lei nº 13.431, de 4 de abril de 2017, para dispor sobre medidas destinadas a assegurar a continuidade dos estudos de vítimas de violência no ambiente escolar.",
       "data": "2026-08-03T13:47",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641814"
+    },
+    {
+      "id": 2643837,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa “Escola da Floresta”, voltado à educação bilíngue e intercultural em comunidades tradicionais da Amazônia Legal, e dá outras providências.",
+      "data": "2026-08-14T14:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643837"
     }
   ],
   "discursos": [],

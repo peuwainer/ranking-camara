@@ -4,18 +4,9 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220635.jpg",
-  "score": 27.71,
-  "rank": 296,
+  "score": 32.2,
+  "rank": 198,
   "proposicoes": [
-    {
-      "id": 2639738,
-      "tipo": "PL",
-      "numero": 3721,
-      "ano": 2026,
-      "ementa": "Institui a Campanha Nacional de Conscientização sobre a Hidratação no Período de Inverno no âmbito do Sistema Único de Saúde (SUS).",
-      "data": "2026-07-15T14:45",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639738"
-    },
     {
       "id": 2643232,
       "tipo": "SBT",
@@ -24,6 +15,42 @@
       "ementa": "Parecer ao PL 631/2026, que cria o Marco Regulatório dos Planos de Assistência Veterinária (planos de saúde pet) e dá outras providências.",
       "data": "2026-08-12T17:12",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643232"
+    },
+    {
+      "id": 2643657,
+      "tipo": "PL",
+      "numero": 5059,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Localização de Pessoas com Transtorno do Espectro Autista (TEA) e Doença de Alzheimer, denominado Programa Localiza+, e dá outras providências.",
+      "data": "2026-08-13T12:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643657"
+    },
+    {
+      "id": 2643658,
+      "tipo": "PL",
+      "numero": 5060,
+      "ano": 2026,
+      "ementa": "Altera a redação do inciso XIV do art. 6º da Lei nº 7.713, de 22 de dezembro de 1988, para substituir a expressão \"espondiloartrose anquilosante\" por \"espondilite anquilosante\", adequando a terminologia ao consenso médico-científico vigente.",
+      "data": "2026-08-13T12:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643658"
+    },
+    {
+      "id": 2643659,
+      "tipo": "PL",
+      "numero": 5061,
+      "ano": 2026,
+      "ementa": "Institui o Dispositivo de Conexão Física (DCF) como medida de proteção à incolumidade física de crianças e adolescentes com Transtorno do Espectro Autista (TEA) e outros transtornos do neurodesenvolvimento em situações de risco iminente de deslocamento não acompanhado; e dá outras providências.",
+      "data": "2026-08-13T12:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643659"
+    },
+    {
+      "id": 2643689,
+      "tipo": "PL",
+      "numero": 5062,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 6.360, de 23 de setembro de 1976, para acrescentar disposição sobre a obrigatoriedade de informação sobre o antídoto aplicável na rotulagem de raticidas e de produtos saneantes com princípios ativos de risco.",
+      "data": "2026-08-13T13:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643689"
     }
   ],
   "discursos": [],

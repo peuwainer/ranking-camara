@@ -4,18 +4,9 @@
   "partido": "PSDB",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236284.jpg",
-  "score": 23.49,
-  "rank": 380,
+  "score": 26.07,
+  "rank": 326,
   "proposicoes": [
-    {
-      "id": 2639828,
-      "tipo": "PL",
-      "numero": 3734,
-      "ano": 2026,
-      "ementa": "Dispõe sobre as diretrizes e as ações da Política Nacional de Incentivo à Prevenção, ao Diagnóstico Precoce e ao Tratamento da Infertilidade no âmbito do Sistema Único de Saúde.",
-      "data": "2026-07-15T17:05",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2639828"
-    },
     {
       "id": 2641680,
       "tipo": "PL",
@@ -33,6 +24,15 @@
       "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para instituir a Política Nacional de Prevenção ao Transtorno do Jogo e Promoção do Jogo Responsável e fortalecer os mecanismos de proteção aos apostadores.",
       "data": "2026-08-10T10:12",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642322"
+    },
+    {
+      "id": 2643856,
+      "tipo": "PL",
+      "numero": 5088,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.022, de 8 de agosto de 2014 (Estatuto Geral das Guardas Municipais) para instituir diretrizes de capacitação, controle e transparência para o armamento das guardas municipais, e dá outras providências.",
+      "data": "2026-08-14T15:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643856"
     }
   ],
   "discursos": [],

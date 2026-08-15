@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
-  "score": 33.27,
-  "rank": 119,
+  "score": 31.63,
+  "rank": 217,
   "proposicoes": [
     {
       "id": 2643283,
@@ -15,6 +15,15 @@
       "ementa": "Determina que as despesas de capital e parcela das despesas custeadas com receitas próprias de autarquias federais não sejam alcançadas pelo mecanismo de limitação de empenho e movimentação financeira previsto na LRF, e não sejam incluídas na base de cálculo e nos limites estabelecidos no Novo Arcabouço Fiscal para as despesas primárias do Governo Federal.",
       "data": "2026-08-12T17:56",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643283"
+    },
+    {
+      "id": 2643736,
+      "tipo": "PL",
+      "numero": 5072,
+      "ano": 2026,
+      "ementa": "Institui o Passe Enem, benefício tarifário destinado a assegurar gratuidade no transporte público coletivo aos participantes do Exame Nacional do Ensino Médio nos dias de aplicação das provas, e dispõe sobre seu custeio pela União.",
+      "data": "2026-08-13T16:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643736"
     }
   ],
   "discursos": [],

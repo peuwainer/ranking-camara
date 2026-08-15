@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/230765.jpg",
-  "score": 28.34,
-  "rank": 278,
+  "score": 26.82,
+  "rank": 301,
   "proposicoes": [
     {
       "id": 2641747,
@@ -24,6 +24,33 @@
       "ementa": "Determina que as despesas de capital e parcela das despesas custeadas com receitas próprias de autarquias federais não sejam alcançadas pelo mecanismo de limitação de empenho e movimentação financeira previsto na LRF, e não sejam incluídas na base de cálculo e nos limites estabelecidos no Novo Arcabouço Fiscal para as despesas primárias do Governo Federal.",
       "data": "2026-08-12T17:56",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643283"
+    },
+    {
+      "id": 2643543,
+      "tipo": "PL",
+      "numero": 5056,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Valorização da Preceptoria e da Supervisão de Estágio em Enfermagem e estabelece condições para seu exercício seguro nos serviços de saúde.",
+      "data": "2026-08-13T10:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643543"
+    },
+    {
+      "id": 2643736,
+      "tipo": "PL",
+      "numero": 5072,
+      "ano": 2026,
+      "ementa": "Institui o Passe Enem, benefício tarifário destinado a assegurar gratuidade no transporte público coletivo aos participantes do Exame Nacional do Ensino Médio nos dias de aplicação das provas, e dispõe sobre seu custeio pela União.",
+      "data": "2026-08-13T16:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643736"
+    },
+    {
+      "id": 2643776,
+      "tipo": "PL",
+      "numero": 5076,
+      "ano": 2026,
+      "ementa": "Institui a Lei de Proteção da Soberania Econômica Nacional contra a Aplicação Extraterritorial de Medidas Estrangeiras, dispõe sobre a proteção das pessoas submetidas à jurisdição brasileira contra medidas coercitivas unilaterais incompatíveis com o ordenamento jurídico nacional, e dá outras providências.",
+      "data": "2026-08-14T10:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643776"
     }
   ],
   "discursos": [],

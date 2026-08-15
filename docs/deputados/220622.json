@@ -4,9 +4,19 @@
   "partido": "PODE",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220622.jpg",
-  "score": 36.25,
-  "rank": 49,
-  "proposicoes": [],
+  "score": 36.31,
+  "rank": 50,
+  "proposicoes": [
+    {
+      "id": 2643433,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 15.211, de 17 de setembro de 2025, que dispõe sobre a proteção de crianças e adolescentes em ambientes digitais, para estabelecer normas de proteção em atividade econômica digital.",
+      "data": "2026-08-13T09:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643433"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

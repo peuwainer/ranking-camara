@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220555.jpg",
-  "score": 33.9,
-  "rank": 94,
+  "score": 32.25,
+  "rank": 197,
   "proposicoes": [
     {
       "id": 2642871,
@@ -15,6 +15,15 @@
       "ementa": "Institui a Política Nacional de Cuidados para Mulheres Lésbicas, Bissexuais, Travestis e Transexuais (LBT) e estabelece diretrizes para a elaboração e a implementação do Plano Nacional de Cuidados para Mulheres LBT",
       "data": "2026-08-12T10:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642871"
+    },
+    {
+      "id": 2643736,
+      "tipo": "PL",
+      "numero": 5072,
+      "ano": 2026,
+      "ementa": "Institui o Passe Enem, benefício tarifário destinado a assegurar gratuidade no transporte público coletivo aos participantes do Exame Nacional do Ensino Médio nos dias de aplicação das provas, e dispõe sobre seu custeio pela União.",
+      "data": "2026-08-13T16:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643736"
     }
   ],
   "discursos": [],

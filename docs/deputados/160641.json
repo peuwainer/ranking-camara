@@ -4,9 +4,19 @@
   "partido": "PCdoB",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160641.jpg",
-  "score": 23.92,
-  "rank": 377,
-  "proposicoes": [],
+  "score": 20.56,
+  "rank": 396,
+  "proposicoes": [
+    {
+      "id": 2643736,
+      "tipo": "PL",
+      "numero": 5072,
+      "ano": 2026,
+      "ementa": "Institui o Passe Enem, benefício tarifário destinado a assegurar gratuidade no transporte público coletivo aos participantes do Exame Nacional do Ensino Médio nos dias de aplicação das provas, e dispõe sobre seu custeio pela União.",
+      "data": "2026-08-13T16:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643736"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

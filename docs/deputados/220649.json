@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220649.jpg",
-  "score": 15.58,
-  "rank": 461,
+  "score": 19.69,
+  "rank": 412,
   "proposicoes": [
     {
       "id": 2641669,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 13.022, de 8 de agosto de 2014, que dispõe sobre o Estatuto Geral das Guardas Municipais, e a Lei nº 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas – Sinarm, define crimes e dá outras providências (Estatuto do Desarmamento), para fortalecer institucionalmente as Guardas Municipais, ampliar as garantias funcionais de seus integrantes ativos e aposentados, assegurar o porte funcional de arma de fogo em âmbito nacional, instituir o Fundo Municipal de Segurança Pública, criar a carteira funcional do Guarda Civil Municipal aposentado e dá outras providências.",
       "data": "2026-08-05T16:50",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642061"
+    },
+    {
+      "id": 2643805,
+      "tipo": "PL",
+      "numero": 5081,
+      "ano": 2026,
+      "ementa": "Institui o Estatuto do Profissional de Portaria e Controle de Acesso, estabelece os requisitos para o exercício das atividades, seus direitos e deveres, e dá outras providências.",
+      "data": "2026-08-14T11:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643805"
     }
   ],
   "discursos": [],
@@ -93,6 +102,12 @@
       "sigla": "CESPO",
       "cargo": "Suplente",
       "desde": "2026-04-22T00:00"
+    },
+    {
+      "nome": "Comissão de Legislação Participativa",
+      "sigla": "CLP",
+      "cargo": "Suplente",
+      "desde": "2026-08-14T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220649/votacoes-nominais-plenario/2026"

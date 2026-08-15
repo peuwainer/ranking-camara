@@ -4,10 +4,18 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/72442.jpg",
-  "score": 30.09,
-  "rank": 231,
+  "score": 36.19,
+  "rank": 57,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-13T11:44",
+      "fase": "Ordem do Dia",
+      "tipo": "PARECER",
+      "resumo": "O SR. FELIPE CARRERAS (PSB - PE. Para proferir parecer. Sem revisão do orador.) - Presidente, peço permissão para ir direto à conclusão do voto. \"II.4 - Conclusão do voto Ante o exposto, no âmbito da ",
+      "transcricao": "O SR. FELIPE CARRERAS (PSB - PE. Para proferir parecer. Sem revisão do orador.) - Presidente, peço permissão para ir direto à conclusão do voto. \"II.4 - Conclusão do voto Ante o exposto, no âmbito da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, votamos, no mérito, pela aprovação do Projeto de Lei nº 3.540, de 2026, na forma do substitutivo anexo. Na Comissão de Finanças e Tributação, somos pela compatibilidade e adequação financeira e orçamentária do Projeto de Lei nº 3.540, de 2026, e do Substitutivo da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, no mérito, pela sua aprovação, na forma do Substitutivo da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família. Na Comissão de Constituição e Justiça e de Cidadania, somos pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 3.540, de 2026, e do Substitutivo da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família. Deputado Relator Fernando Monteiro.\""
+    }
+  ],
   "orgaos": [
     {
       "nome": "Representação Brasileira no Parlamento do Mercosul",

@@ -4,7 +4,7 @@
   "partido": "SOLIDARIEDADE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
-  "score": 44.57,
+  "score": 44.83,
   "rank": 8,
   "proposicoes": [
     {
@@ -33,6 +33,42 @@
       "ementa": "Altera a Lei nº 4.169, de 4 de dezembro de 1962, para instituir o Programa Nacional de Efetivação do Sistema Braille - PRONAESB, fortalecer sua implementação e estabelecer diretrizes para a formação de profissionais especializados e a promoção da acessibilidade das pessoas com deficiência visual.",
       "data": "2026-08-06T16:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642177"
+    },
+    {
+      "id": 2643710,
+      "tipo": "PL",
+      "numero": 5063,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para assegurar transparência e informação prévia individualizada quanto às tarifas cobradas em serviços bancários, financeiros e de pagamento, vedar a cobrança por serviço não contratado e garantir ao consumidor o direito de encerrar ou migrar o serviço, sem ônus, em caso de majoração.",
+      "data": "2026-08-13T14:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643710"
+    },
+    {
+      "id": 2643712,
+      "tipo": "PL",
+      "numero": 5064,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para dispor sobre a proteção do consumidor contra o uso de padrões obscuros, arquiteturas de escolha manipulativas e assimetrias de interface no comércio e nos serviços digitais.",
+      "data": "2026-08-13T14:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643712"
+    },
+    {
+      "id": 2643713,
+      "tipo": "PL",
+      "numero": 5065,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para permitir a dedução, da base de cálculo do Imposto sobre a Renda da Pessoa Física, de despesas destinadas à promoção da capacidade funcional, da autonomia e da qualidade de vida da pessoa idosa.",
+      "data": "2026-08-13T14:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643713"
+    },
+    {
+      "id": 2643714,
+      "tipo": "PL",
+      "numero": 5066,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para instituir o Rótulo Digital Acessível e assegurar o acesso simplificado às informações de produtos por meio de tecnologia de código de resposta rápida, o QRCode.",
+      "data": "2026-08-13T14:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643714"
     }
   ],
   "discursos": [],
