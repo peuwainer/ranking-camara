@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
-  "score": 36.3,
-  "rank": 82,
+  "score": 37.22,
+  "rank": 67,
   "proposicoes": [
     {
       "id": 2641077,
@@ -24,6 +24,15 @@
       "ementa": "",
       "data": "2026-08-10T13:10",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642376"
+    },
+    {
+      "id": 2643881,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.445, de 24 de maio de 2017 (Lei de Migração), dispõe sobre o estatuto do imigrante sazonal.",
+      "data": "2026-08-17T09:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643881"
     }
   ],
   "discursos": [

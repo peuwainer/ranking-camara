@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg",
-  "score": 26.12,
-  "rank": 338,
+  "score": 26.75,
+  "rank": 324,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -86,6 +86,12 @@
       "sigla": "CMULHER",
       "cargo": "Titular",
       "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
+      "sigla": "CREDN",
+      "cargo": "Suplente",
+      "desde": "2026-08-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204535/votacoes-nominais-plenario/2026"

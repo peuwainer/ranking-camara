@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204497.jpg",
-  "score": 34.05,
-  "rank": 147,
+  "score": 34.97,
+  "rank": 126,
   "proposicoes": [
     {
       "id": 2643363,
@@ -15,6 +15,15 @@
       "ementa": "",
       "data": "2026-08-12T18:59",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643363"
+    },
+    {
+      "id": 2643901,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre aquisição, pelas distribuidoras, de créditos de energia elétrica provenientes de micro e minigeração distribuída de unidades enquadradas como agricultura familiar e microempreendedor individual enquanto durar o financiamento dos equipamentos.",
+      "data": "2026-08-17T12:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643901"
     }
   ],
   "discursos": [],

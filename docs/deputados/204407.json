@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204407.jpg",
-  "score": 44.5,
-  "rank": 14,
+  "score": 43.88,
+  "rank": 15,
   "proposicoes": [
     {
       "id": 2642236,
@@ -96,14 +96,14 @@
       "desde": "2026-03-03T00:00"
     },
     {
-      "nome": "Comissão de Educação",
-      "sigla": "CE",
+      "nome": "Comissão de Defesa dos Direitos da Mulher",
+      "sigla": "CMULHER",
       "cargo": "Titular",
       "desde": "2026-03-10T00:00"
     },
     {
-      "nome": "Comissão de Defesa dos Direitos da Mulher",
-      "sigla": "CMULHER",
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
       "cargo": "Titular",
       "desde": "2026-03-10T00:00"
     },
@@ -118,12 +118,6 @@
       "sigla": "CSPCCO",
       "cargo": "Suplente",
       "desde": "2026-07-14T00:00"
-    },
-    {
-      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
-      "sigla": "CREDN",
-      "cargo": "Suplente",
-      "desde": "2026-08-12T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204407/votacoes-nominais-plenario/2026"
