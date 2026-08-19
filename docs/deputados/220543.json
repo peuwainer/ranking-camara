@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220543.jpg",
-  "score": 37.18,
-  "rank": 68,
+  "score": 38.86,
+  "rank": 45,
   "proposicoes": [
     {
       "id": 2642033,
@@ -51,6 +51,24 @@
       "ementa": "Dispõe sobre a destinação de milhas, pontos e demais benefícios de programas de fidelidade decorrentes da aquisição de passagens aéreas com recursos públicos da União.",
       "data": "2026-08-17T18:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643927"
+    },
+    {
+      "id": 2643935,
+      "tipo": "PL",
+      "numero": 5098,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 – Código de Trânsito Brasileiro, para disciplinar a remoção de veículos abandonados em propriedade privada.",
+      "data": "2026-08-17T19:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643935"
+    },
+    {
+      "id": 2643936,
+      "tipo": "PL",
+      "numero": 5099,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 – Estatuto da Criança e do Adolescente, para instituir o Procedimento de Proteção Preventiva Infanto-Juvenil (PPPI), compreendendo identificação, comunicação obrigatória, integração institucional entre os órgãos da rede de proteção e avaliação preventiva de situações de risco a crianças e adolescentes potencialmente expostos em razão de situação de violência envolvendo pai, mãe ou responsável legal ou de fato.",
+      "data": "2026-08-17T20:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643936"
     }
   ],
   "discursos": [

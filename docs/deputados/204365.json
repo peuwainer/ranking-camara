@@ -4,9 +4,19 @@
   "partido": "NOVO",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204365.jpg",
-  "score": 35.62,
-  "rank": 101,
-  "proposicoes": [],
+  "score": 36.52,
+  "rank": 80,
+  "proposicoes": [
+    {
+      "id": 2643962,
+      "tipo": "PL",
+      "numero": 5111,
+      "ano": 2026,
+      "ementa": "Institui o Sistema Nacional de Informações sobre Emendas Parlamentares na Saúde.",
+      "data": "2026-08-18T13:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643962"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

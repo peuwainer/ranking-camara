@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/194260.jpg",
-  "score": 25.25,
-  "rank": 354,
-  "proposicoes": [],
+  "score": 26.15,
+  "rank": 337,
+  "proposicoes": [
+    {
+      "id": 2643956,
+      "tipo": "PL",
+      "numero": 5109,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.211, de 17 de setembro de 2025, que dispõe sobre a proteção de crianças e adolescentes em ambientes digitais (Estatuto Digital da Criança e do Adolescente), para estabelecer regras de proteção de crianças e adolescentes na adoção e no uso de tecnologias educacionais.",
+      "data": "2026-08-18T12:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643956"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

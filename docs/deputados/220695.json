@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-  "score": 40.82,
-  "rank": 32,
+  "score": 42.45,
+  "rank": 25,
   "proposicoes": [
     {
       "id": 2641825,
@@ -69,6 +69,24 @@
       "ementa": "Aumenta as penas dos crimes previstos nos arts. 240 a 241-D, 244-A e 244-B, todos da Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente).",
       "data": "2026-08-13T20:54",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643754"
+    },
+    {
+      "id": 2643975,
+      "tipo": "SBT",
+      "numero": 10,
+      "ano": 0,
+      "ementa": "Dispõe sobre a violência contra a mulher nos cenários de gestação, parto, puerpério e atendimentos de saúde, no âmbito dos serviços públicos e privados de saúde.",
+      "data": "2026-08-18T14:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643975"
+    },
+    {
+      "id": 2643977,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o art. 217-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para estabelecer que as penas do crime de estupro de vulnerável se aplicam independentemente de casamento, união estável ou convivência familiar análoga entre a vítima e o autor.",
+      "data": "2026-08-18T14:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643977"
     }
   ],
   "discursos": [],

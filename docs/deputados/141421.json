@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141421.jpg",
-  "score": 15.42,
-  "rank": 443,
+  "score": 16.29,
+  "rank": 441,
   "proposicoes": [
     {
       "id": 2641679,
@@ -15,6 +15,15 @@
       "ementa": "Assegura a concessão provisória automática do BPC quando ultrapassado o prazo legal de 45 dias para apreciação do requerimento administrativo.",
       "data": "2026-07-29T09:51",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641679"
+    },
+    {
+      "id": 2643949,
+      "tipo": "PL",
+      "numero": 5106,
+      "ano": 2026,
+      "ementa": "Institui alíquota especial de contribuição previdenciária para pessoas diagnosticadas com câncer, diabetes mellitus tipo 1 ou seja mãe, pai ou responsável por pessoa com deficiência ou pessoa com transtorno do espectro autista e prevê formas de compensação.",
+      "data": "2026-08-18T11:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643949"
     }
   ],
   "discursos": [],

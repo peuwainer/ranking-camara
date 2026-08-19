@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/98057.jpg",
-  "score": 7.5,
-  "rank": 494,
-  "proposicoes": [],
+  "score": 8.4,
+  "rank": 487,
+  "proposicoes": [
+    {
+      "id": 2643990,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Estabelece o acréscimo de alíquota de 10% sobre o Imposto de importação incidente sobre mercadoria estrangeira devida pelo importador para leite e outros lácteos.",
+      "data": "2026-08-18T15:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643990"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

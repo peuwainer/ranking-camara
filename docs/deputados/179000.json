@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/179000.jpg",
-  "score": 31.88,
-  "rank": 224,
-  "proposicoes": [],
+  "score": 32.77,
+  "rank": 193,
+  "proposicoes": [
+    {
+      "id": 2643971,
+      "tipo": "PL",
+      "numero": 5114,
+      "ano": 2026,
+      "ementa": "Institui o Programa de Apoio à Logística do Apicultor e do Meliponicultor (PRO-APIS) e estabelece incentivos tributários para a aquisição de veículos destinados às atividades apícola e meliponícola.",
+      "data": "2026-08-18T14:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643971"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

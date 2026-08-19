@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220570.jpg",
-  "score": 9.42,
-  "rank": 478,
+  "score": 10.29,
+  "rank": 476,
   "proposicoes": [
     {
       "id": 2641750,
@@ -15,6 +15,15 @@
       "ementa": "Dispõe sobre a obrigatoriedade de disponibilização de gasolina tipo E10 (com até 10% de etanol anidro combustível) nos postos revendedores de combustíveis do território nacional, para proteção dos consumidores de veículos automotores não adaptados a elevados teores de etanol, e dá outras providências.",
       "data": "2026-07-30T19:37",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641750"
+    },
+    {
+      "id": 2643933,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Diagnóstico Laboratorial (PNDL), estabelece diretrizes para sua implementação no Sistema Único de Saúde (SUS) e dá outras providências.",
+      "data": "2026-08-18T08:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643933"
     }
   ],
   "discursos": [],
