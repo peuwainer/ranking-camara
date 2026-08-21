@@ -4,8 +4,8 @@
   "partido": "NOVO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
-  "score": 36.01,
-  "rank": 96,
+  "score": 37.32,
+  "rank": 70,
   "proposicoes": [
     {
       "id": 2642470,
@@ -33,6 +33,15 @@
       "ementa": "Institui o Sistema Nacional de Informações sobre Emendas Parlamentares na Saúde.",
       "data": "2026-08-18T13:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643962"
+    },
+    {
+      "id": 2644035,
+      "tipo": "SBT",
+      "numero": 7,
+      "ano": 0,
+      "ementa": "Acrescenta art. 47-A à Lei nº 8.080, de 19 de setembro de 1990, para determinar a criação do cartão de identificação do usuário do Sistema Único de Saúde (SUS).",
+      "data": "2026-08-19T09:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644035"
     }
   ],
   "discursos": [

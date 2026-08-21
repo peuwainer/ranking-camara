@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160598.jpg",
-  "score": 38.49,
-  "rank": 50,
+  "score": 40.0,
+  "rank": 40,
   "proposicoes": [
     {
       "id": 2641571,
@@ -51,6 +51,15 @@
       "ementa": "Dispõe sobre diretrizes nacionais para a atuação dos Conselhos Tutelares nos casos de violência sexual contra crianças e adolescentes associada à fome ou extrema vulnerabilidade social.",
       "data": "2026-08-11T18:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642753"
+    },
+    {
+      "id": 2644208,
+      "tipo": "PL",
+      "numero": 5127,
+      "ano": 2026,
+      "ementa": "Reconhece como manifestação da cultura nacional a Romaria do Divino Pai Eterno, realizada no Município de Trindade, no Estado de Goiás.",
+      "data": "2026-08-19T15:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644208"
     }
   ],
   "discursos": [],

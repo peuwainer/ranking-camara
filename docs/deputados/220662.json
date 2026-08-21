@@ -4,9 +4,19 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220662.jpg",
-  "score": 29.62,
-  "rank": 267,
-  "proposicoes": [],
+  "score": 30.62,
+  "rank": 253,
+  "proposicoes": [
+    {
+      "id": 2644034,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.101, de 9 de fevereiro de 2005, que “regula a recuperação judicial, a extrajudicial e a falência do empresário e da sociedade empresária”, para conferir mais segurança jurídica ao negócio jurídico firmado com empresa em recuperação judicial.",
+      "data": "2026-08-19T09:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644034"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

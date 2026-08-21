@@ -4,18 +4,9 @@
   "partido": "PSD",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
-  "score": 37.15,
-  "rank": 70,
+  "score": 38.45,
+  "rank": 53,
   "proposicoes": [
-    {
-      "id": 2641077,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 11.101, de 9 de fevereiro de 2005, para dispor sobre a essencialidade dos estoques de grãos no âmbito da recuperação judicial.",
-      "data": "2026-07-21T09:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641077"
-    },
     {
       "id": 2642376,
       "tipo": "SBT",
@@ -33,6 +24,24 @@
       "ementa": "Altera a Lei nº 13.445, de 24 de maio de 2017 (Lei de Migração), dispõe sobre o estatuto do imigrante sazonal.",
       "data": "2026-08-17T09:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643881"
+    },
+    {
+      "id": 2644246,
+      "tipo": "SBT",
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Dispõe sobre a política nacional de educação do campo.",
+      "data": "2026-08-20T09:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644246"
+    },
+    {
+      "id": 2644247,
+      "tipo": "SBT",
+      "numero": 6,
+      "ano": 0,
+      "ementa": "Dispõe sobre a política nacional de educação do campo.",
+      "data": "2026-08-20T09:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644247"
     }
   ],
   "discursos": [

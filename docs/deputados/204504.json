@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
-  "score": 34.02,
-  "rank": 146,
+  "score": 35.12,
+  "rank": 118,
   "proposicoes": [
     {
       "id": 2642468,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 7.565, de 19 de dezembro de 1986, que dispõe sobre o Código Brasileiro de Aeronáutica, para tratar sobre a disponibilização de equipamento de ascenso e descenso ou rampa para passageiros com necessidade de assistência especial no transporte aéreo.",
       "data": "2026-08-11T10:20",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642468"
+    },
+    {
+      "id": 2644304,
+      "tipo": "PL",
+      "numero": 5138,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso a Informação), para dispor sobre a obrigatoriedade de disponibilização de informações em linguagem simples e acessível pelos entes da administração pública direta e indireta em seus portais e sítios eletrônicos oficiais.",
+      "data": "2026-08-20T19:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644304"
     }
   ],
   "discursos": [],

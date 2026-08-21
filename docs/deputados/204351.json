@@ -4,9 +4,19 @@
   "partido": "PP",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204351.jpg",
-  "score": 30.25,
-  "rank": 254,
-  "proposicoes": [],
+  "score": 31.25,
+  "rank": 242,
+  "proposicoes": [
+    {
+      "id": 2644264,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre os critérios a serem adotados para diagnóstico da obesidade para fins de acesso a políticas e serviços públicos de saúde, e dá outras providências",
+      "data": "2026-08-20T11:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644264"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

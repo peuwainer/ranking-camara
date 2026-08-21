@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220529.jpg",
-  "score": 33.38,
-  "rank": 171,
+  "score": 32.75,
+  "rank": 194,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -70,6 +70,12 @@
       "desde": "2025-11-04T00:00"
     },
     {
+      "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",
+      "sigla": "CINDRE",
+      "cargo": "Titular",
+      "desde": "2026-02-03T00:00"
+    },
+    {
       "nome": "Comissão de Comunicação",
       "sigla": "CCOM",
       "cargo": "Titular",
@@ -80,18 +86,6 @@
       "sigla": "CDE",
       "cargo": "Suplente",
       "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",
-      "sigla": "CINDRE",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Constituição e Justiça e de Cidadania",
-      "sigla": "CCJC",
-      "cargo": "Suplente",
-      "desde": "2026-02-09T00:00"
     },
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 8085, de 2014, do Senado Federal, que \"altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para instituir a obrigatoriedade da prática de direção veicular em vias públicas para fins de formação de condutores\"",

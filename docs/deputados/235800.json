@@ -4,27 +4,9 @@
   "partido": "PP",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/235800.jpg",
-  "score": 31.88,
-  "rank": 223,
+  "score": 31.5,
+  "rank": 237,
   "proposicoes": [
-    {
-      "id": 2641442,
-      "tipo": "PL",
-      "numero": 4740,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para instituir mecanismos de proteção contra apostas impulsivas, assegurar transparência sobre o resultado financeiro do apostador e vedar estímulos promocionais em situações de risco.",
-      "data": "2026-07-21T10:51",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641442"
-    },
-    {
-      "id": 2641443,
-      "tipo": "PL",
-      "numero": 4741,
-      "ano": 2026,
-      "ementa": "Institui o Selo Nacional Empresa Amiga da Pessoa Autista, destinado ao reconhecimento de boas práticas de inclusão, acessibilidade, atendimento adequado e valorização da pessoa com transtorno do espectro autista no ambiente empresarial, e dá outras providências.",
-      "data": "2026-07-21T11:06",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641443"
-    },
     {
       "id": 2641566,
       "tipo": "PL",
@@ -60,6 +42,15 @@
       "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), e a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para conceituar a violência por rastreamento digital não consentido, estabelecer obrigações aos fabricantes e provedores de dispositivos de localização e determinar salvaguardas de proteção à mulher contra o monitoramento ilícito.",
       "data": "2026-08-03T14:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641822"
+    },
+    {
+      "id": 2644045,
+      "tipo": "PL",
+      "numero": 5123,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Mobilidade Inclusiva da Pessoa com Deficiência (Passe Livre PcD Brasil) e estabelece mecanismos de integração, simplificação e cofinanciamento de benefícios tarifários no transporte público coletivo.",
+      "data": "2026-08-19T11:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644045"
     }
   ],
   "discursos": [],

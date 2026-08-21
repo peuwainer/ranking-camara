@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178871.jpg",
-  "score": 27.02,
-  "rank": 320,
+  "score": 28.12,
+  "rank": 290,
   "proposicoes": [
     {
       "id": 2643824,
@@ -15,6 +15,15 @@
       "ementa": "Concede isenção do Imposto de Importação (II) sobre medicamentos destinados ao tratamento de enfermidades graves ou doenças raras, quando importados por pessoa física para uso próprio ou individual, inclusive por meio de bagagem acompanhada.",
       "data": "2026-08-14T13:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643824"
+    },
+    {
+      "id": 2644300,
+      "tipo": "PL",
+      "numero": 5137,
+      "ano": 2026,
+      "ementa": "Institui mecanismos e estabelece condições para a renegociação de operações de crédito rural de mutuários cuja capacidade de pagamento seja prejudicada por efeitos adversos do fenômeno climático El Niño.",
+      "data": "2026-08-20T17:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644300"
     }
   ],
   "discursos": [],

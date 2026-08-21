@@ -4,27 +4,9 @@
   "partido": "PODE",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 37.43,
-  "rank": 63,
+  "score": 36.88,
+  "rank": 77,
   "proposicoes": [
-    {
-      "id": 2640477,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 13.999/2020 de 18 de maio de 2020, para dispor sobre a forma de cálculo da taxa de juros das operações contratadas no âmbito do Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte – Pronampe.",
-      "data": "2026-07-20T08:26",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2640477"
-    },
-    {
-      "id": 2641446,
-      "tipo": "PL",
-      "numero": 4742,
-      "ano": 2026,
-      "ementa": "Institui a Lei da Vedação à Publicidade Oculta em Plataformas de Streaming, estabelece normas de transparência publicitária em conteúdos audiovisuais e serviços digitais por assinatura, e dá outras providências.",
-      "data": "2026-07-21T12:17",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641446"
-    },
     {
       "id": 2641471,
       "tipo": "SBT",
@@ -141,6 +123,12 @@
       "sigla": "CMADS",
       "cargo": "Titular",
       "desde": "2026-06-09T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-08-19T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220540/votacoes-nominais-plenario/2026"
