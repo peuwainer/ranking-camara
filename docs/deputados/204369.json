@@ -4,9 +4,28 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204369.jpg",
-  "score": 21.12,
-  "rank": 396,
-  "proposicoes": [],
+  "score": 23.93,
+  "rank": 373,
+  "proposicoes": [
+    {
+      "id": 2644371,
+      "tipo": "PL",
+      "numero": 5153,
+      "ano": 2026,
+      "ementa": "Extingue a modalidade lotérica de apostas de quota fixa, proíbe sua exploração, oferta, promoção e facilitação em território nacional, estabelece medidas para o encerramento das autorizações vigentes, o bloqueio de acesso e a interrupção de fluxos financeiros relacionados à atividade, e dá outras providências.",
+      "data": "2026-08-24T13:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644371"
+    },
+    {
+      "id": 2644538,
+      "tipo": "PL",
+      "numero": 5168,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, a Lei nº 8.069, de 13 de julho de 1990, o Decreto-Lei nº 2.848, de 7 de dezembro de 1940, e o Decreto-Lei nº 5.452, de 1º de maio de 1943, para disciplinar a educação domiciliar como forma de cumprimento do dever de educação básica, instituir regime declaratório simplificado, assegurar liberdade pedagógica, avaliação objetiva da aprendizagem, proteção integral do educando e segurança jurídica às famílias.",
+      "data": "2026-08-25T14:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644538"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

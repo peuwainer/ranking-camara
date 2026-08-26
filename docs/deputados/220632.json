@@ -4,18 +4,9 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220632.jpg",
-  "score": 38.38,
-  "rank": 54,
+  "score": 39.98,
+  "rank": 48,
   "proposicoes": [
-    {
-      "id": 2641582,
-      "tipo": "PL",
-      "numero": 4784,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a criação e o funcionamento de Cooperativas Solidárias, visando a promoção social da cidadania, da organização coletiva mutualista e dos direitos fundamentais de vida digna, conforme especifica.",
-      "data": "2026-07-24T09:47",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641582"
-    },
     {
       "id": 2643283,
       "tipo": "PL",
@@ -42,6 +33,15 @@
       "ementa": "Inscreve o nome de Hélio Pellegrino no Livro dos Heróis e Heroínas da Pátria.",
       "data": "2026-08-20T17:12",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644298"
+    },
+    {
+      "id": 2644425,
+      "tipo": "PL",
+      "numero": 5164,
+      "ano": 2026,
+      "ementa": "Concede o título de Patrimônio Nacional da Pesquisa Agropecuária em Leite à Embrapa Gado de Leite.",
+      "data": "2026-08-24T20:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644425"
     }
   ],
   "discursos": [],

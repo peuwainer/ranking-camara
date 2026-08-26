@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160666.jpg",
-  "score": 37.75,
-  "rank": 65,
+  "score": 40.75,
+  "rank": 40,
   "proposicoes": [
     {
       "id": 2641980,
@@ -42,6 +42,15 @@
       "ementa": "Veda a aplicação dos regimes aduaneiros especiais de drawback à importação de cacau inteiro ou partido, em bruto ou torrado, classificado no código 1801.00.00 da Nomenclatura Comum do Mercosul (NCM).",
       "data": "2026-08-20T15:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644273"
+    },
+    {
+      "id": 2644557,
+      "tipo": "PL",
+      "numero": 5175,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Prevenção ao Câncer de Pele e de Atenção Integral à Pessoa com Neoplasia Cutânea.",
+      "data": "2026-08-25T18:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644557"
     }
   ],
   "discursos": [],

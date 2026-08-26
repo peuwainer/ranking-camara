@@ -4,9 +4,28 @@
   "partido": "PSD",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74574.jpg",
-  "score": 33.12,
-  "rank": 187,
-  "proposicoes": [],
+  "score": 35.92,
+  "rank": 114,
+  "proposicoes": [
+    {
+      "id": 2644346,
+      "tipo": "PL",
+      "numero": 5144,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de fornecimento de espessantes alimentares para pacientes com disfagia no âmbito do Sistema Único de Saúde.",
+      "data": "2026-08-24T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644346"
+    },
+    {
+      "id": 2644347,
+      "tipo": "PL",
+      "numero": 5145,
+      "ano": 2026,
+      "ementa": "Institui, em território nacional, o Dia Nacional de Conscientização sobre a Disfagia.",
+      "data": "2026-08-24T10:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644347"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

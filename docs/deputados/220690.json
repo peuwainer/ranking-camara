@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 55.32,
-  "rank": 4,
+  "score": 64.52,
+  "rank": 2,
   "proposicoes": [
-    {
-      "id": 2641463,
-      "tipo": "PL",
-      "numero": 4753,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a cooperação interinstitucional, as medidas cautelares e o enfrentamento a fraudes financeiras.",
-      "data": "2026-07-22T09:06",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641463"
-    },
     {
       "id": 2641787,
       "tipo": "PL",
@@ -66,7 +57,7 @@
       "tipo": "PL",
       "numero": 4912,
       "ano": 2026,
-      "ementa": "Altera a legislação aplicável ao regime aduaneiro especial de drawback para importação de amêndoas de cacau, a fim de estabelecer regras específicas de prazo, restringir sua utilização ao período de entressafra da produção nacional, ampliar a transparência na execução do regime e prever sanções pelo descumprimento das obrigações assumidas.",
+      "ementa": "Dispõe sobre a aplicação dos regimes aduaneiros especiais de drawback às importações de cacau inteiro ou partido, em bruto ou torrado, estabelecendo prazo máximo para os atos concessórios, restringindo as importações no âmbito dos regimes ao período de entressafra da produção nacional, dispondo sobre transparência e sobre sanções.",
       "data": "2026-08-06T10:51",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642115"
     },
@@ -150,6 +141,33 @@
       "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, para inserir as Polícias Municipais no rol de integrantes operacionais do Sistema Único de Segurança Pública (Susp).",
       "data": "2026-08-18T11:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643950"
+    },
+    {
+      "id": 2644385,
+      "tipo": "PL",
+      "numero": 5157,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, e a Lei nº 14.312, de 14 de março de 2022, para fortalecer o Programa Nacional de Qualidade de Vida para Profissionais de Segurança Pública (Pró-Vida) e para ampliar o amparo ao profissional vitimado ou lesionado no exercício da função.",
+      "data": "2026-08-24T14:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644385"
+    },
+    {
+      "id": 2644388,
+      "tipo": "PL",
+      "numero": 5158,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional Escudo da Vida, destinada à prevenção de mortes, lesões, incapacidades e outros agravos à saúde dos profissionais de segurança pública e defesa social, mediante ações de proteção, capacitação, prevenção, assistência e fornecimento de equipamentos, e altera as Leis nº 13.675, de 11 de junho de 2018, e nº 13.756, de 12 de dezembro de 2018.",
+      "data": "2026-08-24T15:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644388"
+    },
+    {
+      "id": 2644537,
+      "tipo": "PL",
+      "numero": 5167,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.478, de 6 de agosto de 1997, para fortalecer a segurança do abastecimento de Gás Liquefeito de Petróleo (GLP) destinado ao consumo residencial, ampliar a transparência do setor e aperfeiçoar os mecanismos de fiscalização e rastreabilidade.",
+      "data": "2026-08-25T14:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644537"
     }
   ],
   "discursos": [

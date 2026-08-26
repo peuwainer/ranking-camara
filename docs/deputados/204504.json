@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
-  "score": 35.12,
-  "rank": 118,
+  "score": 40.12,
+  "rank": 45,
   "proposicoes": [
     {
       "id": 2642468,
@@ -24,6 +24,33 @@
       "ementa": "Altera a Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso a Informação), para dispor sobre a obrigatoriedade de disponibilização de informações em linguagem simples e acessível pelos entes da administração pública direta e indireta em seus portais e sítios eletrônicos oficiais.",
       "data": "2026-08-20T19:11",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644304"
+    },
+    {
+      "id": 2644352,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para anistiar multas de velocidade dos últimos 10 (dez) anos.",
+      "data": "2026-08-24T11:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644352"
+    },
+    {
+      "id": 2644543,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.442, de 5 de janeiro de 2007, para especificar a responsabilidade pela comunicação prévia da chegada da carga em caso de subcontratação e pelo pagamento de indenização ao transportador, se ultrapassado o prazo máximo para carga ou descarga do veículo rodoviário de cargas.",
+      "data": "2026-08-25T16:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644543"
+    },
+    {
+      "id": 2644547,
+      "tipo": "PL",
+      "numero": 5170,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para dispõe sobre a contratação de pessoas com Síndrome de Down pelos prestadores de serviços da Administração Pública direta e indireta da União.",
+      "data": "2026-08-25T16:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644547"
     }
   ],
   "discursos": [],

@@ -4,36 +4,9 @@
   "partido": "PP",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
-  "score": 52.44,
+  "score": 53.64,
   "rank": 6,
   "proposicoes": [
-    {
-      "id": 2641545,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Reconhece, tutela e uniformiza em âmbito nacional as políticas de ações afirmativas em instituições de ensino superior públicas e em instituições privadas beneficiadas por recursos públicos; estabelece padrões mínimos para adoção de cotas e medidas compensatórias, veda que estados ou municípios editem normas que suprimam ou restrinjam tais políticas, cria mecanismos federais de monitoramento, apoio técnico e financeiro, prevê medidas de condicionalidade de repasses federais e dispõe sobre tramitação processual prioritária para controvérsias federativas relativas à matéria.",
-      "data": "2026-07-22T20:02",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641545"
-    },
-    {
-      "id": 2641552,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre a concessão de incentivos fiscais às empresas que desenvolvam tecnologias assistivas, e dá outras providências.",
-      "data": "2026-07-23T11:50",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641552"
-    },
-    {
-      "id": 2641570,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Institui a Lei Vizinho Guardião – Responsabilidade Comunitária, cria o Protocolo Vizinho Guardião de Proteção à Criança e ao Adolescente na Vizinhança, estabelece obrigações para condomínios, profissionais de condomínios e residências, e lideranças comunitárias, dispõe sobre campanhas de conscientização, e dá outras providências.",
-      "data": "2026-07-23T16:27",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641570"
-    },
     {
       "id": 2641701,
       "tipo": "SBT",
@@ -96,6 +69,15 @@
       "ementa": "Altera a Lei nº 14.811, de 12 de janeiro de 2024, para aperfeiçoar as diretrizes da Política Nacional de Prevenção e Combate ao Abuso e Exploração Sexual da Criança e do Adolescente.",
       "data": "2026-08-17T20:26",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643930"
+    },
+    {
+      "id": 2644403,
+      "tipo": "PL",
+      "numero": 5163,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para instituir a divulgação periódica de indicadores nacionais de cobertura vacinal e de desempenho da gestão da imunização.",
+      "data": "2026-08-24T16:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644403"
     }
   ],
   "discursos": [

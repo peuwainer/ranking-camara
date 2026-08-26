@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
-  "score": 35.62,
-  "rank": 104,
-  "proposicoes": [],
+  "score": 37.02,
+  "rank": 90,
+  "proposicoes": [
+    {
+      "id": 2644551,
+      "tipo": "PL",
+      "numero": 5174,
+      "ano": 2026,
+      "ementa": "Proíbe a execução de atividades e de experimentos de campo de modificação da radiação solar no território nacional e nos demais espaços sujeitos à jurisdição brasileira, nos limites do direito internacional, e dá outras providências.",
+      "data": "2026-08-25T18:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644551"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

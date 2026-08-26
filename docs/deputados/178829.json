@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
-  "score": 46.0,
-  "rank": 13,
+  "score": 51.8,
+  "rank": 9,
   "proposicoes": [
-    {
-      "id": 2641548,
-      "tipo": "PL",
-      "numero": 4768,
-      "ano": 2026,
-      "ementa": "Concede ao Município de São Luís do Paraitinga, no Estado de São Paulo, o título de Capital Nacional das Festas Populares.",
-      "data": "2026-07-22T20:43",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641548"
-    },
     {
       "id": 2641651,
       "tipo": "PL",
@@ -105,6 +96,24 @@
       "ementa": "Institui o Protocolo Nacional de Dispensação, Autorização e Acompanhamento do uso do medicamento Tirzepatida no Tratamento da Obesidade no âmbito do Sistema Único de Saúde – SUS e dá outras providências.",
       "data": "2026-08-19T15:10",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644173"
+    },
+    {
+      "id": 2644308,
+      "tipo": "PL",
+      "numero": 5140,
+      "ano": 2026,
+      "ementa": "Institui o Programa de Crédito para Infraestrutura Circense, destinado a circos itinerantes e tradicionais, com o objetivo de facilitar o acesso a crédito subsidiado para aquisição, renovação e manutenção de estruturas e equipamentos essenciais à atividade circense.",
+      "data": "2026-08-21T11:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644308"
+    },
+    {
+      "id": 2644389,
+      "tipo": "PL",
+      "numero": 5159,
+      "ano": 2026,
+      "ementa": "Concede ao Município de Brodowski, no Estado de São Paulo, o título de Capital Nacional de Cândido Portinari.",
+      "data": "2026-08-24T15:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644389"
     }
   ],
   "discursos": [],

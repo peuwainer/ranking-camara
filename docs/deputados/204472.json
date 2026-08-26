@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204472.jpg",
-  "score": 21.12,
-  "rank": 398,
-  "proposicoes": [],
+  "score": 22.52,
+  "rank": 384,
+  "proposicoes": [
+    {
+      "id": 2644550,
+      "tipo": "PL",
+      "numero": 5173,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 – Lei de Execução Penal, para fortalecer a reparação dos danos causados às vítimas de crimes patrimoniais praticados contra produtores rurais e estabelecer mecanismos de destinação prioritária da remuneração do trabalho prisional ao ressarcimento dos prejuízos decorrentes do crime.",
+      "data": "2026-08-25T17:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644550"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

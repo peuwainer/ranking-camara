@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178947.jpg",
-  "score": 40.99,
-  "rank": 30,
-  "proposicoes": [],
+  "score": 43.01,
+  "rank": 31,
+  "proposicoes": [
+    {
+      "id": 2644545,
+      "tipo": "PL",
+      "numero": 5169,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição de comercialização da Carteira de Identificação da Pessoa com Transtorno do Espectro Autista (CIPTEA).",
+      "data": "2026-08-25T16:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644545"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-08-12T20:24",
@@ -78,6 +88,12 @@
       "sigla": "CSPCCO",
       "cargo": "Suplente",
       "desde": "2026-05-15T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-08-25T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178947/votacoes-nominais-plenario/2026"

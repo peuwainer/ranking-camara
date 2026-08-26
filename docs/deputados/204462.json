@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204462.jpg",
-  "score": 35.62,
-  "rank": 102,
-  "proposicoes": [],
+  "score": 37.02,
+  "rank": 87,
+  "proposicoes": [
+    {
+      "id": 2644536,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe que as instituições de ensino da educação infantil, públicas e privadas, que oferecem matrículas em creche deverão instalar sistemas de monitoramento em tempo real por meio de câmeras de vídeo.",
+      "data": "2026-08-25T14:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644536"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

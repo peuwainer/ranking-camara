@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141533.jpg",
-  "score": 38.32,
-  "rank": 56,
+  "score": 44.12,
+  "rank": 26,
   "proposicoes": [
     {
       "id": 2641704,
@@ -42,6 +42,33 @@
       "ementa": "Assegura ao titular de benefício administrado pelo Instituto Nacional do Seguro Social (INSS) o direito de contestar operações de crédito consignado não reconhecidas e altera a Lei nº 8.213, de 24 de julho de 1991.",
       "data": "2026-08-05T12:20",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641995"
+    },
+    {
+      "id": 2644368,
+      "tipo": "PL",
+      "numero": 5151,
+      "ano": 2026,
+      "ementa": "Cria o Parque Nacional da Serrinha do Paranoá, unidade de conservação de proteção integral, no Distrito Federal, nos termos da Lei nº 9.985, de 18 de julho de 2000, e dá outras providências.",
+      "data": "2026-08-24T13:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644368"
+    },
+    {
+      "id": 2644369,
+      "tipo": "PLP",
+      "numero": 238,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990, para estabelecer hipótese de inelegibilidade decorrente do impedimento, retardamento ou não adoção de providências para a divulgação de demonstrações financeiras obrigatórias de empresas estatais.",
+      "data": "2026-08-24T13:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644369"
+    },
+    {
+      "id": 2644370,
+      "tipo": "PL",
+      "numero": 5152,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 9.504, de 30 de setembro de 1997, nº 8.429, de 2 de junho de 1992, e nº 13.303, de 30 de junho de 2016, para dispor sobre a divulgação de demonstrações financeiras obrigatórias de empresas estatais, sociedades de economia mista e suas subsidiárias para fins de registro de candidatura e a responsabilização decorrente de sua não divulgação.",
+      "data": "2026-08-24T13:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644370"
     }
   ],
   "discursos": [

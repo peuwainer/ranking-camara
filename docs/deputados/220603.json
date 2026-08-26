@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220603.jpg",
-  "score": 23.75,
-  "rank": 371,
+  "score": 27.35,
+  "rank": 311,
   "proposicoes": [
     {
       "id": 2643393,
@@ -24,6 +24,24 @@
       "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para aumentar o limite de pontos necessários para a suspensão do direito de dirigir do condutor que exerce atividade remunerada ao veículo.",
       "data": "2026-08-18T09:36",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643943"
+    },
+    {
+      "id": 2644343,
+      "tipo": "PL",
+      "numero": 5143,
+      "ano": 2026,
+      "ementa": "Estabelece prazo máximo para a realização de avaliação diagnóstica e emissão de laudo relativo aos transtornos de neurodesenvolvimento no âmbito das redes pública e privada de saúde e institui mecanismos de garantia e efetividade temporal do diagnóstico.",
+      "data": "2026-08-24T10:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644343"
+    },
+    {
+      "id": 2644395,
+      "tipo": "PL",
+      "numero": 5160,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para vedar a concessão de livramento condicional aos condenados pela prática de crimes contra a dignidade sexual.",
+      "data": "2026-08-24T15:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644395"
     }
   ],
   "discursos": [],

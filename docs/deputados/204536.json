@@ -4,36 +4,9 @@
   "partido": "MISSÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204536.jpg",
-  "score": 47.25,
-  "rank": 11,
+  "score": 50.85,
+  "rank": 12,
   "proposicoes": [
-    {
-      "id": 2641482,
-      "tipo": "PL",
-      "numero": 4762,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.987, de 13 de fevereiro de 1995, para estabelecer que a suspensão do fornecimento de energia elétrica por inadimplemento somente poderá ocorrer no período da manhã, assegurando ao consumidor oportunidade razoável de regularização e religação do serviço no mesmo dia.",
-      "data": "2026-07-22T13:14",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641482"
-    },
-    {
-      "id": 2641576,
-      "tipo": "PL",
-      "numero": 4780,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para prever a proibição do uso de redes sociais como medida cautelar diversa da prisão, pena restritiva de direitos, efeito da condenação e dever do condenado.",
-      "data": "2026-07-23T17:21",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641576"
-    },
-    {
-      "id": 2641577,
-      "tipo": "PL",
-      "numero": 4781,
-      "ano": 2026,
-      "ementa": "Altera as Leis nºs 12.741, de 8 de dezembro de 2012, 10.962, de 11 de outubro de 2004, 8.212, de 24 de julho de 1991, 8.036, de 11 de maio de 1990, e 7.713, de 22 de dezembro de 1988, para ampliar a transparência sobre os tributos incidentes nos em bens, serviços e na remuneração do trabalhador.",
-      "data": "2026-07-23T17:25",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641577"
-    },
     {
       "id": 2641646,
       "tipo": "PL",
@@ -150,6 +123,15 @@
       "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para autorizar a seleção aleatória ou por amostragem das pessoas a serem submetidas à abordagem e à busca pessoal em via pública.",
       "data": "2026-08-18T12:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643954"
+    },
+    {
+      "id": 2644358,
+      "tipo": "PL",
+      "numero": 5147,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade de participação dos candidatos à eleição majoritária, com representação no congresso nacional, em debates eleitorais transmitidos por emissoras de rádio e televisão e altera a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições).",
+      "data": "2026-08-24T11:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644358"
     }
   ],
   "discursos": [],

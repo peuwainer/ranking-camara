@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74253.jpg",
-  "score": 26.25,
-  "rank": 336,
+  "score": 28.45,
+  "rank": 289,
   "proposicoes": [
     {
       "id": 2641615,
@@ -24,6 +24,15 @@
       "ementa": "",
       "data": "2026-08-12T14:37",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643104"
+    },
+    {
+      "id": 2644381,
+      "tipo": "PL",
+      "numero": 5155,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional para o Desenvolvimento da Medicina Nuclear.",
+      "data": "2026-08-24T14:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644381"
     }
   ],
   "discursos": [],
