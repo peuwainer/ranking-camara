@@ -4,18 +4,9 @@
   "partido": "UNIÃO",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74374.jpg",
-  "score": 46.52,
+  "score": 45.37,
   "rank": 18,
   "proposicoes": [
-    {
-      "id": 2641607,
-      "tipo": "PL",
-      "numero": 4794,
-      "ano": 2026,
-      "ementa": "Institui a Lei Khetilly Nicole, que altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para instituir causa geral de aumento de pena para os crimes dolosos praticados mediante violência ou grave ameaça contra pessoa com Transtorno do Espectro Autista.",
-      "data": "2026-07-27T10:06",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641607"
-    },
     {
       "id": 2641832,
       "tipo": "PL",
@@ -60,6 +51,15 @@
       "ementa": "Dispõe sobre a utilização de recursos digitais computadores, tablets e telefones celulares, por terapeutas no ambiente escolar como ferramentas de apoio terapêutico aos estudantes com Transtorno do Espectro Autista (TEA).",
       "data": "2026-08-19T11:59",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644050"
+    },
+    {
+      "id": 2644585,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Atenção à Gagueira e à Pessoa que Gagueja, e dá outras providências.",
+      "data": "2026-08-26T07:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644585"
     }
   ],
   "discursos": [],

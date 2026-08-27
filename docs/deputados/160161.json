@@ -4,9 +4,19 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160161.jpg",
-  "score": 27.12,
-  "rank": 320,
-  "proposicoes": [],
+  "score": 28.33,
+  "rank": 291,
+  "proposicoes": [
+    {
+      "id": 2644724,
+      "tipo": "PLP",
+      "numero": 240,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para incluir em seu Anexo III determinados serviços médico-veterinários entre os serviços de saúde submetidos à redução de sessenta por cento das alíquotas da Contribuição sobre Bens e Serviços (CBS) e do Imposto sobre Bens e Serviços (IBS).",
+      "data": "2026-08-27T12:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644724"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178947.jpg",
-  "score": 43.01,
-  "rank": 31,
+  "score": 44.03,
+  "rank": 25,
   "proposicoes": [
     {
       "id": 2644545,
@@ -15,6 +15,15 @@
       "ementa": "Dispõe sobre a proibição de comercialização da Carteira de Identificação da Pessoa com Transtorno do Espectro Autista (CIPTEA).",
       "data": "2026-08-25T16:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644545"
+    },
+    {
+      "id": 2644628,
+      "tipo": "PRC",
+      "numero": 43,
+      "ano": 2026,
+      "ementa": "Institui a obrigatoriedade da implantação da Sala Sensorial de Acolhimento, nas dependências da Câmara dos Deputados, destinada ao atendimento de pessoas com deficiência, que demandem a necessidade de um ambiente de regulação sensorial, e dá outras providências.",
+      "data": "2026-08-26T14:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644628"
     }
   ],
   "discursos": [

@@ -4,8 +4,8 @@
   "partido": "PRD",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204566.jpg",
-  "score": 30.07,
-  "rank": 262,
+  "score": 36.74,
+  "rank": 89,
   "proposicoes": [
     {
       "id": 2642308,
@@ -33,6 +33,60 @@
       "ementa": "Institui diretriz para a elaboração de plano de retomada, reprogramação ou encerramento de obras públicas federais paralisadas.",
       "data": "2026-08-08T12:12",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642310"
+    },
+    {
+      "id": 2644599,
+      "tipo": "PL",
+      "numero": 5178,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Formação Profissional para Trabalhadores Substituídos por Automação e Inteligência Artificial, estabelece o direito à requalificação tecnológica gratuita, cria incentivos fiscais para a recontratação e dá outras providências.",
+      "data": "2026-08-26T11:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644599"
+    },
+    {
+      "id": 2644600,
+      "tipo": "PL",
+      "numero": 5179,
+      "ano": 2026,
+      "ementa": "Institui o Estatuto da Segurança Digital do Idoso, estabelece diretrizes para a proteção de pessoas idosas em ambientes virtuais, cria o Canal Nacional de Denúncias e dá outras providências.",
+      "data": "2026-08-26T11:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644600"
+    },
+    {
+      "id": 2644601,
+      "tipo": "PL",
+      "numero": 5180,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Infraestrutura Escolar Digital e dá outras providências.",
+      "data": "2026-08-26T11:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644601"
+    },
+    {
+      "id": 2644602,
+      "tipo": "PL",
+      "numero": 5181,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Energia Solar para Escolas e Unidades Públicas de Saúde - PRONESP, estabelece mecanismos de financiamento pela União para instalação de sistemas de geração de energia solar fotovoltaica em escolas e hospitais públicos e determina o reinvestimento da economia obtida em ações de saúde e educação.",
+      "data": "2026-08-26T11:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644602"
+    },
+    {
+      "id": 2644606,
+      "tipo": "PL",
+      "numero": 5182,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Recuperação de Rodovias Municipais com Uso de Materiais Recicláveis na Infraestrutura Viária, e dá outras providências.",
+      "data": "2026-08-26T11:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644606"
+    },
+    {
+      "id": 2644652,
+      "tipo": "PL",
+      "numero": 5190,
+      "ano": 2026,
+      "ementa": "Dispõe sobre as medidas de prevenção e conscientização em relação à violência doméstica e familiar contra a mulher, e dá outras providências.",
+      "data": "2026-08-26T16:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644652"
     }
   ],
   "discursos": [],

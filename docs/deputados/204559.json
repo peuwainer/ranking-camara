@@ -4,9 +4,19 @@
   "partido": "PT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204559.jpg",
-  "score": 29.0,
-  "rank": 282,
-  "proposicoes": [],
+  "score": 30.21,
+  "rank": 260,
+  "proposicoes": [
+    {
+      "id": 2644660,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei n.º 8.213, de 24 de julho de 1991, para dispor sobre requisitos e critérios diferenciados de concessão de aposentadoria especial aos segurados que trabalham em atividade de mineração de carvão.",
+      "data": "2026-08-26T16:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644660"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

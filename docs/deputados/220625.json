@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220625.jpg",
-  "score": 43.1,
-  "rank": 30,
+  "score": 44.74,
+  "rank": 19,
   "proposicoes": [
     {
       "id": 2642149,
@@ -42,6 +42,24 @@
       "ementa": "Dispõe sobre o “Programa Sentinela de Si - Portão Fechado”, que institui uma rede de prevenção primária, conscientização, proteção e enfretamento da violência doméstica e familiar contra a mulher.",
       "data": "2026-08-12T21:26",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643431"
+    },
+    {
+      "id": 2644636,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para dispor sobre a custódia de presos da Justiça Federal em estabelecimentos penais da União e sobre a fiscalização de medidas cautelares diversas da prisão pela Polícia Penal Federal.",
+      "data": "2026-08-26T15:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644636"
+    },
+    {
+      "id": 2644726,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), e a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para estabelecer a obrigatoriedade do monitoramento eletrônico de agressores em casos de medida protetiva de urgência, criar a Plataforma Nacional de Monitoramento e Proteção à Mulher (PNMPM), Cadastro Nacional de Agressores, instituir um canal de comunicação direto para a vítima e dá outras providências.",
+      "data": "2026-08-27T13:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644726"
     }
   ],
   "discursos": [],
