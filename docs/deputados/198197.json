@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/198197.jpg",
-  "score": 31.46,
-  "rank": 237,
+  "score": 33.17,
+  "rank": 204,
   "proposicoes": [
     {
       "id": 2642131,
@@ -15,6 +15,15 @@
       "ementa": "Institui a Política de Fomento, Incentivo e Promoção do Empreendedorismo das Mulheres.",
       "data": "2026-08-06T12:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642131"
+    },
+    {
+      "id": 2644800,
+      "tipo": "PEC",
+      "numero": 16,
+      "ano": 2026,
+      "ementa": "Acrescenta os art. 68-A no Ato das Disposições Constitucionais Transitórias para ratificar os registros de imóveis rurais em faixa de fronteira concedidos pelos estados antes da promulgação desta Constituição Federal e dá outras providências.",
+      "data": "2026-08-28T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
     }
   ],
   "discursos": [],

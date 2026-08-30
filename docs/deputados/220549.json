@@ -4,18 +4,9 @@
   "partido": "PP",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220549.jpg",
-  "score": 37.58,
+  "score": 38.58,
   "rank": 69,
   "proposicoes": [
-    {
-      "id": 2641634,
-      "tipo": "PL",
-      "numero": 4800,
-      "ano": 2026,
-      "ementa": "Dispõe sobre medidas adicionais de Jogo Responsável aplicáveis à modalidade de loteria de apostas de quota fixa autorizadas no território nacional, estabelece mecanismos de proteção aos apostadores, especialmente aos jovens adultos, e dá outras providências.",
-      "data": "2026-07-28T11:14",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641634"
-    },
     {
       "id": 2641975,
       "tipo": "PL",
@@ -42,6 +33,15 @@
       "ementa": "Institui o Programa Nacional de Reestruturação Financeira da Cadeia de Grãos (PNRFCG), estabelece medidas para a reestruturação das operações de crédito rural, disciplina a bancarização dos créditos privados da cadeia de grãos, cria mecanismos de recuperação da capacidade de financiamento do agronegócio e dá outras providências.",
       "data": "2026-08-26T16:38",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644661"
+    },
+    {
+      "id": 2644800,
+      "tipo": "PEC",
+      "numero": 16,
+      "ano": 2026,
+      "ementa": "Acrescenta os art. 68-A no Ato das Disposições Constitucionais Transitórias para ratificar os registros de imóveis rurais em faixa de fronteira concedidos pelos estados antes da promulgação desta Constituição Federal e dá outras providências.",
+      "data": "2026-08-28T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
     }
   ],
   "discursos": [],

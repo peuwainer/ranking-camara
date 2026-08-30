@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73579.jpg",
-  "score": 41.59,
-  "rank": 35,
+  "score": 45.51,
+  "rank": 20,
   "proposicoes": [
     {
       "id": 2642394,
@@ -42,6 +42,24 @@
       "ementa": "Dispõe sobre a autorização para os órgãos das forças de segurança pública dos Estados e do Distrito Federal disponibilizarem armas de fogo aos seus integrantes.",
       "data": "2026-08-25T14:46",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644533"
+    },
+    {
+      "id": 2644759,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Acrescenta o § 3º ao art. 1º da Lei nº 5.956, de 3 de dezembro de 1973, para dispor sobre a obrigatoriedade de indicação da cor predominante, por extenso ou código de simbologia tátil ou visual, nas etiquetas de produtos têxteis e de vestuário comercializados no Brasil, e dá outras providências. (NOVA EMENTA)",
+      "data": "2026-08-28T10:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644759"
+    },
+    {
+      "id": 2644800,
+      "tipo": "PEC",
+      "numero": 16,
+      "ano": 2026,
+      "ementa": "Acrescenta os art. 68-A no Ato das Disposições Constitucionais Transitórias para ratificar os registros de imóveis rurais em faixa de fronteira concedidos pelos estados antes da promulgação desta Constituição Federal e dá outras providências.",
+      "data": "2026-08-28T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
     }
   ],
   "discursos": [

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204416.jpg",
-  "score": 31.46,
-  "rank": 238,
+  "score": 34.62,
+  "rank": 161,
   "proposicoes": [
     {
       "id": 2643161,
@@ -15,6 +15,24 @@
       "ementa": "",
       "data": "2026-08-12T16:25",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643161"
+    },
+    {
+      "id": 2644752,
+      "tipo": "PLP",
+      "numero": 242,
+      "ano": 2026,
+      "ementa": "Inclui o artigo 2º-A à Lei Complementar nº 206, de 16 de maio de 2024.",
+      "data": "2026-08-27T20:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644752"
+    },
+    {
+      "id": 2644800,
+      "tipo": "PEC",
+      "numero": 16,
+      "ano": 2026,
+      "ementa": "Acrescenta os art. 68-A no Ato das Disposições Constitucionais Transitórias para ratificar os registros de imóveis rurais em faixa de fronteira concedidos pelos estados antes da promulgação desta Constituição Federal e dá outras providências.",
+      "data": "2026-08-28T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
     }
   ],
   "discursos": [],

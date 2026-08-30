@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204557.jpg",
-  "score": 42.28,
-  "rank": 32,
+  "score": 45.0,
+  "rank": 23,
   "proposicoes": [
     {
       "id": 2642499,
@@ -51,6 +51,15 @@
       "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para instituir a divulgação periódica de indicadores nacionais de cobertura vacinal e de desempenho da gestão da imunização.",
       "data": "2026-08-24T16:40",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644403"
+    },
+    {
+      "id": 2644746,
+      "tipo": "PL",
+      "numero": 5204,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.142, de 28 de dezembro de 1990, para instituir a avaliação periódica da satisfação dos usuários do Sistema Único de Saúde.",
+      "data": "2026-08-27T18:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644746"
     }
   ],
   "discursos": [],

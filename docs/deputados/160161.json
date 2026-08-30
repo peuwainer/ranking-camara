@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160161.jpg",
-  "score": 28.33,
-  "rank": 291,
+  "score": 30.04,
+  "rank": 273,
   "proposicoes": [
     {
       "id": 2644724,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para incluir em seu Anexo III determinados serviços médico-veterinários entre os serviços de saúde submetidos à redução de sessenta por cento das alíquotas da Contribuição sobre Bens e Serviços (CBS) e do Imposto sobre Bens e Serviços (IBS).",
       "data": "2026-08-27T12:15",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644724"
+    },
+    {
+      "id": 2644792,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.279, de 14 de maio de 1996, que regula direitos e obrigações relativos à propriedade industrial, para dispor sobre a distintividade adquirida de sinal a ser registrado como marca.",
+      "data": "2026-08-28T14:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644792"
     }
   ],
   "discursos": [],

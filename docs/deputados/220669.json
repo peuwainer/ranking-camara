@@ -4,18 +4,9 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220669.jpg",
-  "score": 33.66,
-  "rank": 171,
+  "score": 34.17,
+  "rank": 176,
   "proposicoes": [
-    {
-      "id": 2641679,
-      "tipo": "PL",
-      "numero": 4809,
-      "ano": 2026,
-      "ementa": "Assegura a concessão provisória automática do BPC quando ultrapassado o prazo legal de 45 dias para apreciação do requerimento administrativo.",
-      "data": "2026-07-29T09:51",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641679"
-    },
     {
       "id": 2643949,
       "tipo": "PL",
@@ -24,6 +15,15 @@
       "ementa": "Institui alíquota especial de contribuição previdenciária para pessoas diagnosticadas com câncer, diabetes mellitus tipo 1 ou seja mãe, pai ou responsável por pessoa com deficiência ou pessoa com transtorno do espectro autista e prevê formas de compensação.",
       "data": "2026-08-18T11:29",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643949"
+    },
+    {
+      "id": 2644800,
+      "tipo": "PEC",
+      "numero": 16,
+      "ano": 2026,
+      "ementa": "Acrescenta os art. 68-A no Ato das Disposições Constitucionais Transitórias para ratificar os registros de imóveis rurais em faixa de fronteira concedidos pelos estados antes da promulgação desta Constituição Federal e dá outras providências.",
+      "data": "2026-08-28T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
     }
   ],
   "discursos": [],

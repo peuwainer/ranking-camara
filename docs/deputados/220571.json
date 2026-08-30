@@ -4,9 +4,28 @@
   "partido": "PSD",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220571.jpg",
-  "score": 35.62,
-  "rank": 112,
-  "proposicoes": [],
+  "score": 38.54,
+  "rank": 70,
+  "proposicoes": [
+    {
+      "id": 2644756,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre a proteção do produtor rural com vistas a assegurar a função social da propriedade produtiva e a continuidade da atividade rural, estabelece prioridade de garantias agrícolas, altera a Lei nº 13.476, de 28 de agosto de 2017 (Marco Legal das Garantias), e dá outras providências.",
+      "data": "2026-08-28T09:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644756"
+    },
+    {
+      "id": 2644800,
+      "tipo": "PEC",
+      "numero": 16,
+      "ano": 2026,
+      "ementa": "Acrescenta os art. 68-A no Ato das Disposições Constitucionais Transitórias para ratificar os registros de imóveis rurais em faixa de fronteira concedidos pelos estados antes da promulgação desta Constituição Federal e dá outras providências.",
+      "data": "2026-08-28T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -4,18 +4,9 @@
   "partido": "PDT",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/133439.jpg",
-  "score": 43.49,
-  "rank": 26,
+  "score": 45.0,
+  "rank": 22,
   "proposicoes": [
-    {
-      "id": 2641663,
-      "tipo": "PL",
-      "numero": 4806,
-      "ano": 2026,
-      "ementa": "Institui o Programa Pé-de-Bota, destinado à promoção da formação, da permanência e da sucessão rural de jovens da agricultura familiar mediante apoio financeiro a estudantes de Ciências Agrárias, e altera a Lei nº 14.818, de 16 de janeiro de 2024.",
-      "data": "2026-07-28T16:20",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641663"
-    },
     {
       "id": 2641858,
       "tipo": "PLP",
@@ -60,6 +51,15 @@
       "ementa": "Institui diretrizes para a atenção integral às pessoas com Doença Associada ao Anticorpo contra a Glicoproteína da Mielina dos Oligodendrócitos – MOGAD, no âmbito do Sistema Único de Saúde.",
       "data": "2026-08-24T16:11",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644396"
+    },
+    {
+      "id": 2644733,
+      "tipo": "PLP",
+      "numero": 241,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para reduzir de dois para um ano o intervalo mínimo em que os motoristas profissionais podem usufruir das reduções a zero das alíquotas do Imposto sobre Bens e Serviços (IBS) e da Contribuição sobre Bens e Serviços (CBS) na aquisição de automóveis destinados à categoria de aluguel (táxi).",
+      "data": "2026-08-27T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644733"
     }
   ],
   "discursos": [],

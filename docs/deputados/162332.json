@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/162332.jpg",
-  "score": 22.91,
-  "rank": 383,
+  "score": 26.33,
+  "rank": 354,
   "proposicoes": [
     {
       "id": 2641911,
@@ -24,6 +24,24 @@
       "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para aumentar as penas dos crimes de trânsito relacionados à condução sob a influência de álcool ou substância psicoativa que determine dependência, agravar as sanções em caso de acidente com lesão corporal grave ou morte, endurecer as penalidades administrativas de suspensão e cassação da habilitação, e dar outras providências.",
       "data": "2026-08-05T11:50",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641989"
+    },
+    {
+      "id": 2644786,
+      "tipo": "PL",
+      "numero": 5212,
+      "ano": 2026,
+      "ementa": "Estabelece a obrigatoriedade de monitoramento do volume de água efetivamente tratada por elemento filtrante em aparelhos de melhoria da qualidade da água para consumo humano instalados em estabelecimentos de interesse à saúde, dispõe sobre o registro e o acesso remoto ao histórico de consumo pela autoridade sanitária e institui a capacidade volumétrica como critério de substituição do elemento filtrante, cumulativamente ao prazo máximo de uso declarado pelo fabricante.",
+      "data": "2026-08-28T13:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644786"
+    },
+    {
+      "id": 2644800,
+      "tipo": "PEC",
+      "numero": 16,
+      "ano": 2026,
+      "ementa": "Acrescenta os art. 68-A no Ato das Disposições Constitucionais Transitórias para ratificar os registros de imóveis rurais em faixa de fronteira concedidos pelos estados antes da promulgação desta Constituição Federal e dá outras providências.",
+      "data": "2026-08-28T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
     }
   ],
   "discursos": [],

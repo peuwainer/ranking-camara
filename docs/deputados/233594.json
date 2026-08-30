@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/233594.jpg",
-  "score": 28.33,
-  "rank": 292,
+  "score": 31.5,
+  "rank": 246,
   "proposicoes": [
     {
       "id": 2642685,
@@ -15,6 +15,24 @@
       "ementa": "Altera a Lei nº 9.985, de 18 de julho de 2000, e a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para garantir ao possuidor de boa-fé de imóvel rural produtivo, direito à indenização ou à compensação e à realocação.",
       "data": "2026-08-11T15:37",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642685"
+    },
+    {
+      "id": 2644754,
+      "tipo": "PL",
+      "numero": 5207,
+      "ano": 2026,
+      "ementa": "Estabelece atendimento multiprofissional nos planos e seguros de saúde ao segurado diagnosticado com Transtorno do Espectro Autista – TEA ou que possua atrasos no seu desenvolvimento que indiquem risco de TEA.",
+      "data": "2026-08-28T07:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644754"
+    },
+    {
+      "id": 2644800,
+      "tipo": "PEC",
+      "numero": 16,
+      "ano": 2026,
+      "ementa": "Acrescenta os art. 68-A no Ato das Disposições Constitucionais Transitórias para ratificar os registros de imóveis rurais em faixa de fronteira concedidos pelos estados antes da promulgação desta Constituição Federal e dá outras providências.",
+      "data": "2026-08-28T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "SOLIDARIEDADE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
-  "score": 50.41,
-  "rank": 10,
+  "score": 53.12,
+  "rank": 9,
   "proposicoes": [
     {
       "id": 2642177,
@@ -51,6 +51,15 @@
       "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para instituir o Rótulo Digital Acessível e assegurar o acesso simplificado às informações de produtos por meio de tecnologia de código de resposta rápida, o QRCode.",
       "data": "2026-08-13T14:47",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643714"
+    },
+    {
+      "id": 2644763,
+      "tipo": "PL",
+      "numero": 5208,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a isenção de tributos federais para equipamentos de proteção individual e de segurança destinados a condutores e passageiros de motocicletas, motonetas, ciclomotores e triciclos.",
+      "data": "2026-08-28T10:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644763"
     }
   ],
   "discursos": [],

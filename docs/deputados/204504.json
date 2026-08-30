@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
-  "score": 39.16,
-  "rank": 51,
+  "score": 41.88,
+  "rank": 36,
   "proposicoes": [
     {
       "id": 2642468,
@@ -51,6 +51,15 @@
       "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência), para dispõe sobre a contratação de pessoas com Síndrome de Down pelos prestadores de serviços da Administração Pública direta e indireta da União.",
       "data": "2026-08-25T16:22",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644547"
+    },
+    {
+      "id": 2644772,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.442, de 5 de janeiro de 2007, para especificar a responsabilidade pela comunicação prévia da chegada da carga em caso de subcontratação e pelo pagamento de indenização ao transportador, se ultrapassado o prazo máximo para carga ou descarga do veículo rodoviário de cargas.",
+      "data": "2026-08-28T12:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644772"
     }
   ],
   "discursos": [],

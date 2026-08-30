@@ -4,18 +4,9 @@
   "partido": "PP",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73768.jpg",
-  "score": 31.98,
-  "rank": 222,
+  "score": 32.48,
+  "rank": 233,
   "proposicoes": [
-    {
-      "id": 2641675,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Institui o Programa de Securitização das Dívidas Rurais – PSDR, destinado à reestruturação de operações de crédito rural de produtores afetados por crises sistêmicas no setor agropecuário, e dá outras providências",
-      "data": "2026-07-29T10:26",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641675"
-    },
     {
       "id": 2642542,
       "tipo": "SBT",
@@ -24,6 +15,15 @@
       "ementa": "Institui o Programa Nacional de Armazenagem e Secagem da Produção Agropecuária – PNAS, com o objetivo de reduzir perdas, ampliar a capacidade de estocagem e fortalecer a infraestrutura produtiva no meio rural.",
       "data": "2026-08-11T13:40",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642542"
+    },
+    {
+      "id": 2644800,
+      "tipo": "PEC",
+      "numero": 16,
+      "ano": 2026,
+      "ementa": "Acrescenta os art. 68-A no Ato das Disposições Constitucionais Transitórias para ratificar os registros de imóveis rurais em faixa de fronteira concedidos pelos estados antes da promulgação desta Constituição Federal e dá outras providências.",
+      "data": "2026-08-28T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
     }
   ],
   "discursos": [

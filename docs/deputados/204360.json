@@ -4,27 +4,9 @@
   "partido": "PP",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
-  "score": 52.1,
-  "rank": 7,
+  "score": 54.11,
+  "rank": 6,
   "proposicoes": [
-    {
-      "id": 2641701,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Destina 3% (três por cento) dos recursos do Fundo Amazônico para os Conselhos Tutelares, visando à proteção das crianças nas áreas de vulnerabilidade social da Amazônia.",
-      "data": "2026-07-29T12:05",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641701"
-    },
-    {
-      "id": 2641703,
-      "tipo": "SBT",
-      "numero": 3,
-      "ano": 0,
-      "ementa": "Acrescenta art. 101-A à Lei nº 8.213, de 24 de julho de 1991, para determinar que ao término do procedimento pericial o segurado seja informado, por escrito, dos resultados dos exames médico-periciais, bem como da conclusão pela incapacidade ou não para o exercício de atividade laboral ou habitual.",
-      "data": "2026-07-29T12:26",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641703"
-    },
     {
       "id": 2641821,
       "tipo": "SBT",
@@ -78,6 +60,24 @@
       "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para instituir a divulgação periódica de indicadores nacionais de cobertura vacinal e de desempenho da gestão da imunização.",
       "data": "2026-08-24T16:40",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644403"
+    },
+    {
+      "id": 2644746,
+      "tipo": "PL",
+      "numero": 5204,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.142, de 28 de dezembro de 1990, para instituir a avaliação periódica da satisfação dos usuários do Sistema Único de Saúde.",
+      "data": "2026-08-27T18:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644746"
+    },
+    {
+      "id": 2644800,
+      "tipo": "PEC",
+      "numero": 16,
+      "ano": 2026,
+      "ementa": "Acrescenta os art. 68-A no Ato das Disposições Constitucionais Transitórias para ratificar os registros de imóveis rurais em faixa de fronteira concedidos pelos estados antes da promulgação desta Constituição Federal e dá outras providências.",
+      "data": "2026-08-28T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
     }
   ],
   "discursos": [

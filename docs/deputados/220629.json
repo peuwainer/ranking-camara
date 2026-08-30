@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220629.jpg",
-  "score": 20.04,
-  "rank": 407,
+  "score": 22.0,
+  "rank": 392,
   "proposicoes": [
     {
       "id": 2643283,
@@ -24,6 +24,15 @@
       "ementa": "Institui a Lei de Proteção da Soberania Econômica Nacional contra a Aplicação Extraterritorial de Medidas Estrangeiras, dispõe sobre a proteção das pessoas submetidas à jurisdição brasileira contra medidas coercitivas unilaterais incompatíveis com o ordenamento jurídico nacional, e dá outras providências.",
       "data": "2026-08-14T10:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643776"
+    },
+    {
+      "id": 2644764,
+      "tipo": "PL",
+      "numero": 5209,
+      "ano": 2026,
+      "ementa": "Estabelece normas gerais específicas para o licenciamento ambiental de centros de dados.",
+      "data": "2026-08-28T11:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644764"
     }
   ],
   "discursos": [],

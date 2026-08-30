@@ -4,36 +4,9 @@
   "partido": "MISSÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204536.jpg",
-  "score": 48.15,
-  "rank": 14,
+  "score": 51.67,
+  "rank": 12,
   "proposicoes": [
-    {
-      "id": 2641646,
-      "tipo": "PL",
-      "numero": 4801,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para instituir o delito de favorecimento real de preso.",
-      "data": "2026-07-28T11:51",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641646"
-    },
-    {
-      "id": 2641735,
-      "tipo": "PL",
-      "numero": 4833,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 7.210, de 11 de julho 1984 (Lei de Execuções Penais), para condicionar a progressão de regime ao exercício de atividade laboral pelo apenado, sempre que houver vaga disponível e efetivamente ofertada.",
-      "data": "2026-07-30T11:17",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641735"
-    },
-    {
-      "id": 2641736,
-      "tipo": "PL",
-      "numero": 4834,
-      "ano": 2026,
-      "ementa": "Altera o Decreto-Lei n° 3.689, de 3 de outubro de 1941 (Código de Processo Penal), e as Leis n° 10.826, de 22 de dezembro de 2003, e 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para instituir, como medida protetiva de urgência, o reconhecimento judicial da situação de risco, a concessão cautelar de autorização provisória e o processamento prioritário dos pedidos de aquisição, registro e porte de arma de fogo de uso permitido formulados por vítimas de violência doméstica e familiar ou de crimes praticados mediante violência ou grave ameaça à pessoa.",
-      "data": "2026-07-30T11:19",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641736"
-    },
     {
       "id": 2641774,
       "tipo": "PL",
@@ -132,6 +105,33 @@
       "ementa": "Dispõe sobre a obrigatoriedade de participação dos candidatos à eleição majoritária, com representação no congresso nacional, em debates eleitorais transmitidos por emissoras de rádio e televisão e altera a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições).",
       "data": "2026-08-24T11:48",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644358"
+    },
+    {
+      "id": 2644796,
+      "tipo": "PL",
+      "numero": 5213,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei 972, de 17 de outubro de 1969, para estabelecer que o exercício da profissão de jornalista  independe de diploma ou formação acadêmica específica.",
+      "data": "2026-08-28T14:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644796"
+    },
+    {
+      "id": 2644797,
+      "tipo": "PL",
+      "numero": 5214,
+      "ano": 2026,
+      "ementa": "Altera a Lei n° 13.105, de 16 de março de 2015 (Código de Processo Civil), e o Decreto-Lei n° 2.848, de 7 de dezembro de 1940 (Código Penal), para facilitar a expedição de medidas cautelares de manutenção e reintegração de posse;para aumentar as penas cominadas aos delitos de esbulho possessório e de alteração de limites de linha divisória de propriedade.",
+      "data": "2026-08-28T14:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644797"
+    },
+    {
+      "id": 2644800,
+      "tipo": "PEC",
+      "numero": 16,
+      "ano": 2026,
+      "ementa": "Acrescenta os art. 68-A no Ato das Disposições Constitucionais Transitórias para ratificar os registros de imóveis rurais em faixa de fronteira concedidos pelos estados antes da promulgação desta Constituição Federal e dá outras providências.",
+      "data": "2026-08-28T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
     }
   ],
   "discursos": [],

@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
-  "score": 38.0,
-  "rank": 62,
+  "score": 38.75,
+  "rank": 66,
   "proposicoes": [
-    {
-      "id": 2641661,
-      "tipo": "PLP",
-      "numero": 227,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), para estabelecer normas gerais relativas à incidência das penalidades pecuniárias decorrentes do inadimplemento da obrigação tributária principal.",
-      "data": "2026-07-28T15:13",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641661"
-    },
     {
       "id": 2642687,
       "tipo": "PL",
@@ -33,6 +24,15 @@
       "ementa": "Confere ao Município de Santo Antônio da Patrulha, no Estado do Rio Grande do Sul, o título de Capital Nacional do Sonho.",
       "data": "2026-08-18T09:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643945"
+    },
+    {
+      "id": 2644800,
+      "tipo": "PEC",
+      "numero": 16,
+      "ano": 2026,
+      "ementa": "Acrescenta os art. 68-A no Ato das Disposições Constitucionais Transitórias para ratificar os registros de imóveis rurais em faixa de fronteira concedidos pelos estados antes da promulgação desta Constituição Federal e dá outras providências.",
+      "data": "2026-08-28T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
     }
   ],
   "discursos": [],

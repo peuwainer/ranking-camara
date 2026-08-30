@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220543.jpg",
-  "score": 45.86,
-  "rank": 17,
+  "score": 53.0,
+  "rank": 10,
   "proposicoes": [
     {
       "id": 2642033,
@@ -105,6 +105,33 @@
       "ementa": "Altera a Lei nº 12.587, de 3 de janeiro de 2012, que institui a Política Nacional de Mobilidade Urbana, para estabelecer condições que não caracterizam transporte irregular de passageiros.",
       "data": "2026-08-26T12:17",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644615"
+    },
+    {
+      "id": 2644737,
+      "tipo": "PL",
+      "numero": 5203,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal, para estabelecer a avaliação individualizada do risco à vítima e medidas destinadas à disponibilização de elementos informativos relevantes à decisão sobre a liberdade da pessoa submetida à audiência de custódia, nos casos que especifica.",
+      "data": "2026-08-27T16:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644737"
+    },
+    {
+      "id": 2644753,
+      "tipo": "PL",
+      "numero": 5206,
+      "ano": 2026,
+      "ementa": "Estabelece normas gerais para a interoperabilidade e o compartilhamento eletrônico de informações entre órgãos e entidades públicas, com a finalidade de subsidiar decisões judiciais cautelares relacionadas à proteção de vítimas de crimes, em especial na audiência de custódia, mediante utilização prioritária das infraestruturas tecnológicas existentes.",
+      "data": "2026-08-27T20:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644753"
+    },
+    {
+      "id": 2644832,
+      "tipo": "PL",
+      "numero": 5219,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006, para estabelecer a identificação e o tratamento do histórico de reiteração da violência doméstica e familiar contra a mulher, inclusive quando os registros anteriores atribuídos ao agressor envolverem vítimas distintas.",
+      "data": "2026-08-28T17:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644832"
     }
   ],
   "discursos": [
