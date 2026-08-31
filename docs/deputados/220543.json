@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220543.jpg",
-  "score": 53.0,
-  "rank": 10,
+  "score": 59.25,
+  "rank": 4,
   "proposicoes": [
     {
       "id": 2642033,
@@ -132,6 +132,24 @@
       "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006, para estabelecer a identificação e o tratamento do histórico de reiteração da violência doméstica e familiar contra a mulher, inclusive quando os registros anteriores atribuídos ao agressor envolverem vítimas distintas.",
       "data": "2026-08-28T17:39",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644832"
+    },
+    {
+      "id": 2644853,
+      "tipo": "PL",
+      "numero": 5220,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para incluir, entre as diretrizes dos conteúdos curriculares da educação básica, o desenvolvimento de conhecimentos sobre finanças públicas, planejamento e orçamento público, transparência, participação social e controle da aplicação dos recursos públicos.",
+      "data": "2026-08-28T20:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644853"
+    },
+    {
+      "id": 2644855,
+      "tipo": "PL",
+      "numero": 5221,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015, para assegurar mecanismo acessível de confirmação das informações essenciais à manifestação de vontade da pessoa com deficiência nas contratações celebradas integralmente por meio digital e sem atendimento humano.",
+      "data": "2026-08-29T09:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644855"
     }
   ],
   "discursos": [

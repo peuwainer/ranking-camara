@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
-  "score": 41.88,
-  "rank": 36,
+  "score": 46.46,
+  "rank": 21,
   "proposicoes": [
     {
       "id": 2642468,
@@ -60,6 +60,24 @@
       "ementa": "Altera a Lei nº 11.442, de 5 de janeiro de 2007, para especificar a responsabilidade pela comunicação prévia da chegada da carga em caso de subcontratação e pelo pagamento de indenização ao transportador, se ultrapassado o prazo máximo para carga ou descarga do veículo rodoviário de cargas.",
       "data": "2026-08-28T12:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644772"
+    },
+    {
+      "id": 2644857,
+      "tipo": "PL",
+      "numero": 5222,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.741, de 1º de outubro de 2003, que dispõe sobre o Estatuto da Pessoa Idosa e dá outras providências, para tratar da validade da Carteira da Pessoa Idosa.",
+      "data": "2026-08-31T09:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644857"
+    },
+    {
+      "id": 2644858,
+      "tipo": "PL",
+      "numero": 5223,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal); o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal); a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente); e Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para ampliar o prazo de decadência do direito de queixa ou de representação quando se tratar de crimes praticados contra crianças, adolescentes e pessoas idosas.",
+      "data": "2026-08-31T09:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644858"
     }
   ],
   "discursos": [],
