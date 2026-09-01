@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220673.jpg",
-  "score": 27.79,
-  "rank": 326,
+  "score": 31.12,
+  "rank": 262,
   "proposicoes": [
     {
       "id": 2641935,
@@ -42,6 +42,24 @@
       "ementa": "Acrescenta os art. 68-A no Ato das Disposições Constitucionais Transitórias para ratificar os registros de imóveis rurais em faixa de fronteira concedidos pelos estados antes da promulgação desta Constituição Federal e dá outras providências.",
       "data": "2026-08-28T15:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
+    },
+    {
+      "id": 2644906,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 12.850, de 2 de agosto de 2013, para majorar a pena do crime de organização criminosa em caso de atuação interestadual; e o Decreto Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal) para vedar o acordo de não persecução penal aos crimes praticados em contexto de organização criminosa, associação criminosa ou milícia privada.",
+      "data": "2026-08-31T12:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644906"
+    },
+    {
+      "id": 2644908,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para estabelecer requisitos especiais para concessão de benefícios penais a condenados integrantes de organizações criminosas, especialmente facções criminosas, com base em avaliação de risco à sociedade e à ordem pública.",
+      "data": "2026-08-31T12:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644908"
     }
   ],
   "discursos": [],

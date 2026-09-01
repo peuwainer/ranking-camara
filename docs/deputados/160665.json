@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
-  "score": 38.75,
-  "rank": 74,
+  "score": 42.08,
+  "rank": 46,
   "proposicoes": [
     {
       "id": 2643149,
@@ -33,6 +33,24 @@
       "ementa": "EMENDA DE PLENÁRIO 080 DE 2026",
       "data": "2026-08-12T18:27",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643306"
+    },
+    {
+      "id": 2644942,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a Estratégia Nacional de Controle e Avaliação da Qualidade da Assistência à Saúde prestada pela Iniciativa Privada, e altera a Lei nº 9.782, de 26 de janeiro de 1999 (Lei do Sistema Nacional de Vigilância Sanitária).",
+      "data": "2026-08-31T14:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644942"
+    },
+    {
+      "id": 2644946,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Agroecologia e Produção Orgânica.",
+      "data": "2026-08-31T14:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644946"
     }
   ],
   "discursos": [],

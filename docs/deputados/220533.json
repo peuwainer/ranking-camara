@@ -4,8 +4,8 @@
   "partido": "PV",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220533.jpg",
-  "score": 30.46,
-  "rank": 272,
+  "score": 32.12,
+  "rank": 243,
   "proposicoes": [
     {
       "id": 2644029,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990, para incluir no rol dos crimes hediondos o crime de abandono de incapaz qualificado pelo resultado.",
       "data": "2026-08-18T18:25",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644030"
+    },
+    {
+      "id": 2645036,
+      "tipo": "PL",
+      "numero": 5238,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Internacionalização da Educação Pública e cria o Programa Nacional Ganhe o Mundo.",
+      "data": "2026-08-31T19:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645036"
     }
   ],
   "discursos": [],

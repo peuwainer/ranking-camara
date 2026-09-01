@@ -4,9 +4,19 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220667.jpg",
-  "score": 17.62,
-  "rank": 439,
-  "proposicoes": [],
+  "score": 19.29,
+  "rank": 422,
+  "proposicoes": [
+    {
+      "id": 2645036,
+      "tipo": "PL",
+      "numero": 5238,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Internacionalização da Educação Pública e cria o Programa Nacional Ganhe o Mundo.",
+      "data": "2026-08-31T19:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645036"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

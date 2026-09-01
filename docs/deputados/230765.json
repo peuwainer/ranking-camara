@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/230765.jpg",
-  "score": 33.17,
-  "rank": 205,
+  "score": 34.98,
+  "rank": 163,
   "proposicoes": [
     {
       "id": 2643283,
@@ -44,7 +44,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643776"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-08-31T21:08",
+      "fase": "Ordem do Dia",
+      "tipo": "DISCUSSÃO",
+      "resumo": "A SRA. ENFERMEIRA REJANE (Bloco/PCdoB - RJ. Sem revisão da oradora.) - Senhoras e senhores, eu venho, em nome do PCdoB, meu partido político, manifestar a nossa posição em relação à Medida Provisória ",
+      "transcricao": "A SRA. ENFERMEIRA REJANE (Bloco/PCdoB - RJ. Sem revisão da oradora.) - Senhoras e senhores, eu venho, em nome do PCdoB, meu partido político, manifestar a nossa posição em relação à Medida Provisória nº 1.366, de 2026, que facilita o acesso ao financiamento para quem trabalha no transporte de passageiro, como motorista de aplicativos, taxistas, cooperativas de táxi etc. Na realidade, já foi colocado aqui o tema e como atuam os trabalhadores das plataformas, como a Uber. Com essa medida provisória, esses trabalhadores poderão comprar veículos novos e mais sustentáveis, com apoio do Fundo de Garantia de Operações. O texto aprovado ficou ainda melhor, porque incluiu medidas de apoio também a nós mulheres  isso é fundamental , fortaleceu setores importantes da indústria nacional, como o setor de semicondutores e também de equipamentos de TV digital. Para nós do PCdoB esse novo texto aumentou significativamente a transparência de quem pega o empréstimo, pois exige a divulgação de informações sobre o financiamento, os valores das taxas e quem está sendo beneficiado. O Governo Lula, sempre em defesa da classe trabalhadora, mais uma vez, coloca em pauta uma medida provisória tão importante para os trabalhadores de Uber, para os mototaxistas, para os taxistas de cooperativas, mas em especial para as mulheres que trabalham nesses setores. A proposta facilita o acesso ao crédito, incentiva a modernização dos veículos e movimenta substancialmente a economia. No entanto, a gente ainda precisa ir mais longe. Nós do PCdoB entendemos que essa proposta também precisa ser analisada do ponto de vista da acessibilidade a outros tipos de garantia: garantia no mundo do trabalho, garantia para quem está desprotegido, para quem precisa de proteção social de fato em relação à segurança, à remuneração digna e às condições justas de trabalho. Portanto, o PCdoB entende que é um avanço para esses trabalhadores, mas entende também que a gente precisa olhar para a questão da proteção social. Parabéns ao Governo Lula por essa medida provisória! Nós vamos continuar lutando para que a classe trabalhadora tenha direitos sociais, remuneração e segurança para quem trabalha nas ruas. Muito obrigada, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",
