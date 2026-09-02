@@ -4,8 +4,8 @@
   "partido": "CIDADANIA",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
-  "score": 9.54,
-  "rank": 483,
+  "score": 10.07,
+  "rank": 491,
   "proposicoes": [
     {
       "id": 2645048,
@@ -15,6 +15,15 @@
       "ementa": "",
       "data": "2026-08-31T20:17",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645048"
+    },
+    {
+      "id": 2645169,
+      "tipo": "PL",
+      "numero": 5252,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.022, de 8 de agosto de 2014, para reconhecer a natureza perigosa das atividades de segurança urbana exercidas pelas Guardas Municipais e estabelecer normas gerais relativas ao adicional de periculosidade dos seus integrantes.",
+      "data": "2026-09-01T15:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645169"
     }
   ],
   "discursos": [],

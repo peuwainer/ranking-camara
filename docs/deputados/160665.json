@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
-  "score": 42.08,
-  "rank": 46,
+  "score": 39.88,
+  "rank": 59,
   "proposicoes": [
     {
       "id": 2643149,
@@ -51,6 +51,24 @@
       "ementa": "Institui a Política Nacional de Agroecologia e Produção Orgânica.",
       "data": "2026-08-31T14:38",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644946"
+    },
+    {
+      "id": 2645447,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Emenda de Plenário a Projeto com Urgência",
+      "data": "2026-09-01T21:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645447"
+    },
+    {
+      "id": 2645449,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Emenda de Plenário a Projeto com Urgência",
+      "data": "2026-09-01T21:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645449"
     }
   ],
   "discursos": [],

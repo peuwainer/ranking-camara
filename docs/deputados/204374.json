@@ -4,10 +4,18 @@
   "partido": "PL",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204374.jpg",
-  "score": 36.25,
-  "rank": 126,
+  "score": 37.36,
+  "rank": 96,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-09-01T19:32",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. BIA KICIS (PL - DF. Pela ordem. Sem revisão da oradora.) - Presidente, o PL orienta \"sim\". Esta é uma matéria muito importante. Eu quero cumprimentar aqui o Deputado Alberto Fraga, que fez a le",
+      "transcricao": "A SRA. BIA KICIS (PL - DF. Pela ordem. Sem revisão da oradora.) - Presidente, o PL orienta \"sim\". Esta é uma matéria muito importante. Eu quero cumprimentar aqui o Deputado Alberto Fraga, que fez a leitura do relatório, e dizer que nós precisamos valorizar os nossos homens e mulheres das forças de segurança: PMs, Corpo de Bombeiros Militar. Este projeto vem para fazer uma correção, para que eles possam se aposentar mais cedo, com mais justiça, tendo em vista toda a atividade perigosa que exercem desde a sua formação e ao longo de toda a carreira. Então, Presidente, nós estamos muito felizes por podermos votar este projeto. Esperamos que isso traga justiça para os nossos policiais militares e para os Corpos de Bombeiros de todo o Brasil, de todos os Estados e aqui do Distrito Federal, especialmente para as mulheres. Obrigada."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

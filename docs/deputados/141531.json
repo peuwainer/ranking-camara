@@ -4,9 +4,28 @@
   "partido": "UNIÃO",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141531.jpg",
-  "score": 31.88,
-  "rank": 250,
-  "proposicoes": [],
+  "score": 35.06,
+  "rank": 142,
+  "proposicoes": [
+    {
+      "id": 2645102,
+      "tipo": "EMC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Autoriza a União a adotar instrumentos de estímulo ao suprimento de energia limpa e competitiva para data centers localizados nas Regiões Norte e Nordeste, institui o Selo “Data Center Verde Regional” e dá outras providências.",
+      "data": "2026-09-01T12:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645102"
+    },
+    {
+      "id": 2645105,
+      "tipo": "EMC",
+      "numero": 4,
+      "ano": 2026,
+      "ementa": "Autoriza a União a adotar instrumentos de estímulo ao suprimento de energia limpa e competitiva para data centers localizados nas Regiões Norte e Nordeste, institui o Selo “Data Center Verde Regional” e dá outras providências.",
+      "data": "2026-09-01T12:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645105"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141408.jpg",
-  "score": 25.96,
-  "rank": 362,
+  "score": 30.17,
+  "rank": 283,
   "proposicoes": [
     {
       "id": 2643117,
@@ -51,6 +51,15 @@
       "ementa": "Dispõe sobre a negociação das relações de trabalho no setor público e a representação sindical dos servidores e empregados públicos, e altera a Lei no 8.112, de 11 de dezembro de 1990",
       "data": "2026-08-31T15:11",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644964"
+    },
+    {
+      "id": 2645090,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Acrescenta art. 35-A à Lei nº 8.078, de 11 de setembro de 1990, com o objetivo de aprimorar a transparência e segurança na intermediação de pagamentos no comércio eletrônico de produtos e serviços.",
+      "data": "2026-09-01T12:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645090"
     }
   ],
   "discursos": [],

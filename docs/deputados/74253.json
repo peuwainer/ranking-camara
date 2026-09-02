@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74253.jpg",
-  "score": 27.58,
-  "rank": 330,
+  "score": 26.02,
+  "rank": 360,
   "proposicoes": [
     {
       "id": 2643104,
@@ -24,6 +24,15 @@
       "ementa": "Institui a Política Nacional para o Desenvolvimento da Medicina Nuclear.",
       "data": "2026-08-24T14:18",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644381"
+    },
+    {
+      "id": 2645364,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Emenda ao PLP 73/2025, que \"Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para ressalvar despesas das agências reguladoras federais da limitação de empenho e movimentação financeira.\"",
+      "data": "2026-09-01T20:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645364"
     }
   ],
   "discursos": [],

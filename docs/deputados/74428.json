@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74428.jpg",
-  "score": 30.25,
-  "rank": 278,
-  "proposicoes": [],
+  "score": 32.83,
+  "rank": 215,
+  "proposicoes": [
+    {
+      "id": 2645467,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-09-01T22:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645467"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

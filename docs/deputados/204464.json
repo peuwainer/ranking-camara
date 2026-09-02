@@ -4,10 +4,18 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204464.jpg",
-  "score": 40.62,
-  "rank": 56,
+  "score": 42.36,
+  "rank": 44,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-09-01T18:16",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. TALÍRIA PETRONE (Bloco/PSOL - RJ. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Eu queria parabenizar a Relatora, Deputada Benedita. Todo mundo precisa de cuidado ao longo da vid",
+      "transcricao": "A SRA. TALÍRIA PETRONE (Bloco/PSOL - RJ. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Eu queria parabenizar a Relatora, Deputada Benedita. Todo mundo precisa de cuidado ao longo da vida; cuidado é uma necessidade humana quando nasce, quando envelhece. As pessoas com deficiência às vezes precisam de mais suporte de cuidado. Hoje há uma sobrecarga por esse cuidado, em especial das mulheres, que muitas vezes são expulsas do mercado de trabalho ou ficam conciliando a sobrecarga no trabalho com a sobrecarga doméstica. Nesse sentido, reconhecer que o trabalho de cuidado não remunerado é trabalho  aliás, há estimativas de que ele representa 11% do PIB brasileiro  é fundamental para garantir mobilidade social para as mulheres, para garantir que o Estado se implique, como a gente já aprovou inclusive aqui o Plano Nacional de Cuidados, por compartilhar esse cuidado com as famílias. Parabéns, Benedita! Parabéns ao Governo Lula!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo das razões do aumento de denúncias de violência obstétrica e a alta taxa de morte materna no Brasil",
@@ -116,6 +124,12 @@
       "sigla": "PEC03215",
       "cargo": "Titular",
       "desde": "2026-08-12T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Suplente",
+      "desde": "2026-09-01T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204464/votacoes-nominais-plenario/2026"

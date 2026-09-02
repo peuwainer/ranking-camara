@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220555.jpg",
-  "score": 35.46,
-  "rank": 145,
+  "score": 37.41,
+  "rank": 95,
   "proposicoes": [
     {
       "id": 2642871,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643736"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-09-01T15:56",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. DAIANA SANTOS (Bloco/PCdoB - RS. Pela ordem. Sem revisão da oradora.) - Presidente, quero fazer um registro importante. Eu estou aqui com as mulheres que representam a Central dos Trabalhadores",
+      "transcricao": "A SRA. DAIANA SANTOS (Bloco/PCdoB - RS. Pela ordem. Sem revisão da oradora.) - Presidente, quero fazer um registro importante. Eu estou aqui com as mulheres que representam a Central dos Trabalhadores do Brasil  CTB, todas vindas do Rio Grande do Sul. Elas estão aqui porque há uma importante pauta que nós estamos defendendo aqui nesta Casa, que é o fim da escala 6 por 1. Nós que temos um compromisso com a classe trabalhadora, nós que sabemos o valor do trabalho digno, mas também da dignidade garantida para esses trabalhadores e trabalhadoras, estamos nos mobilizando e movimentando para que essa pauta tenha um sucesso de vez  por favor, aproximem-se aqui para ser registrado. Essas mulheres que vêm da CTB, mulheres e homens comprometidos, dirigentes, sindicalistas, pessoas que são ativas e atuantes, sabem muito bem a importância de estarem aqui hoje fazendo essa defesa. Eu tenho muito orgulho de andar ao lado da Central dos Trabalhadores do Brasil. Quero dizer que eu reafirmo meu compromisso cotidianamente com o fim da escala 6 por 1, por dignidade, por respeito e por responsabilidade com a classe trabalhadora. Sejam sempre muito bem-vindas. Esta é a Casa do Povo e por isso eu... (Desligamento do microfone.)"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220669.jpg",
-  "score": 34.58,
-  "rank": 178,
+  "score": 35.54,
+  "rank": 133,
   "proposicoes": [
     {
       "id": 2643949,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-09-01T15:52",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LULA DA FONTE (Bloco/PP - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente Hildo Rocha, colegas Parlamentares, hoje eu utilizo as Breves Comunicações desta Casa para me solidarizar e lam",
+      "transcricao": "O SR. LULA DA FONTE (Bloco/PP - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente Hildo Rocha, colegas Parlamentares, hoje eu utilizo as Breves Comunicações desta Casa para me solidarizar e lamentar o que ocorreu com a Governadora Raquel Lyra nesse final de semana. É realmente lastimável que uma mulher proba, honrada, trabalhadora e honesta como a Governadora Raquel Lyra tenha que sofrer ataques dessa natureza, pois todo mundo sabe de quem parte esse tipo de ataque. Pernambuco sabe que lado utiliza esse tipo de ferramenta e quais são as pessoas que utilizam a política como uma ferramenta de coação, para espalhar e disseminar fake news, mentiras e difamações falsas. Então, fica aqui registrada minha inteira solidariedade à Governadora Raquel. Que a gente possa, através da Polícia Federal, investigar quem espalhou esses panfletos realmente terríveis que ofenderam a honra de uma mulher honrada, de uma mãe honrada, de uma mulher trabalhadora que, sobretudo, abdica todos os dias de momentos importantes com a sua família para estar transformando e melhorando a qualidade de vida do povo do Estado de Pernambuco. É realmente lastimável que a política chegue a esse patamar que rejeita qualquer tipo de respeito e qualquer tipo de limite. Então, meu Presidente, fica aqui registrado. Que V.Exa. possa colocar o nosso pronunciamento no programa A Voz do Brasil. Expresso minha inteira solidariedade à Governadora Raquel Lyra, aos seus filhos, aos seus pais. Eu, que tenho a alegria de conviver com Raquel como mãe, como amiga, sei da trajetória proba e honrada que ela construiu não só na vida pública, mas como delegada da Polícia Federal, como procuradora, e, sobretudo, como Deputada. Conheço toda sua trajetória e toda sua vida pessoal, inclusive, agora, como Governadora do nosso Estado, transformando e melhorando a qualidade de vida do povo de Pernambuco. Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Mesa Diretora da Câmara dos Deputados",

@@ -4,9 +4,37 @@
   "partido": "UNIÃO",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/224117.jpg",
-  "score": 33.12,
-  "rank": 212,
-  "proposicoes": [],
+  "score": 37.27,
+  "rank": 98,
+  "proposicoes": [
+    {
+      "id": 2645208,
+      "tipo": "EMC",
+      "numero": 6,
+      "ano": 2026,
+      "ementa": "Autoriza a União a adotar instrumentos de estímulo ao suprimento de energia limpa e competitiva para data centers localizados nas Regiões Norte e Nordeste, institui o Selo “Data Center Verde Regional” e dá outras providências.",
+      "data": "2026-09-01T15:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645208"
+    },
+    {
+      "id": 2645209,
+      "tipo": "EMC",
+      "numero": 7,
+      "ano": 2026,
+      "ementa": "Autoriza a União a adotar instrumentos de estímulo ao suprimento de energia limpa e competitiva para data centers localizados nas Regiões Norte e Nordeste, institui o Selo “Data Center Verde Regional” e dá outras providências",
+      "data": "2026-09-01T15:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645209"
+    },
+    {
+      "id": 2645210,
+      "tipo": "EMC",
+      "numero": 8,
+      "ano": 2026,
+      "ementa": "Autoriza a União a adotar instrumentos de estímulo ao suprimento de energia limpa e competitiva para data centers localizados nas Regiões Norte e Nordeste, institui o Selo “Data Center Verde Regional” e dá outras providências.",
+      "data": "2026-09-01T15:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645210"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
@@ -32,12 +60,6 @@
       "sigla": "CME",
       "cargo": "Titular",
       "desde": "2026-04-22T00:00"
-    },
-    {
-      "nome": "Comissão de Constituição e Justiça e de Cidadania",
-      "sigla": "CCJC",
-      "cargo": "Suplente",
-      "desde": "2026-08-31T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/224117/votacoes-nominais-plenario/2026"

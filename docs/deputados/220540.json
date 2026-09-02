@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 37.54,
-  "rank": 101,
+  "score": 32.62,
+  "rank": 219,
   "proposicoes": [
     {
       "id": 2642657,
@@ -105,12 +105,6 @@
       "sigla": "CMADS",
       "cargo": "Titular",
       "desde": "2026-06-09T00:00"
-    },
-    {
-      "nome": "Comissão de Constituição e Justiça e de Cidadania",
-      "sigla": "CCJC",
-      "cargo": "Suplente",
-      "desde": "2026-08-19T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220540/votacoes-nominais-plenario/2026"

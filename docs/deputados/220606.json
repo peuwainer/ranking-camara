@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220606.jpg",
-  "score": 43.79,
-  "rank": 36,
+  "score": 46.47,
+  "rank": 25,
   "proposicoes": [
     {
       "id": 2641802,
@@ -71,7 +71,22 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643858"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-09-01T22:52",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. REIMONT (Bloco/PT - RJ. Pela ordem. Sem revisão do orador.) - Eu falei aqui hoje, Presidente, na discussão do Plano Nacional de Cultura, sobre o ódio estabelecido pela extrema direita. É um absu",
+      "transcricao": "O SR. REIMONT (Bloco/PT - RJ. Pela ordem. Sem revisão do orador.) - Eu falei aqui hoje, Presidente, na discussão do Plano Nacional de Cultura, sobre o ódio estabelecido pela extrema direita. É um absurdo que um candidato à Presidência da República possa dizer que vai fazer no Brasil um banho de sangue. Esse cara tinha que ser preso, porque apologia ao crime não é permitido nos nossos marcos legais. Mas eu queria lembrar também do Senador Flávio Bolsonaro. Gente, ele está cada vez mais encalacrado, cada vez se descobre uma coisinha a mais. Eita, família complicada essa família Bolsonaro, meu povo! O camarada descobriu de novo que agora não são mais 61 milhões de reais, não; ele recebeu muito mais do Vorcaro. E a gente precisa estar de olho nisso. A família Bolsonaro é uma família que está encalacrada em todo tipo de corrupção, e o povo brasileiro está de olho arregalado."
+    },
+    {
+      "data": "2026-09-01T21:24",
+      "fase": "Ordem do Dia",
+      "tipo": "DISCUSSÃO",
+      "resumo": "O SR. REIMONT (Bloco/PT - RJ. Sem revisão do orador.) - Presidente, quero cumprimentá-lo, cumprimentar todos os Deputados e Deputadas, cumprimentar a Ministra Margareth Menezes, que disse para nós, co",
+      "transcricao": "O SR. REIMONT (Bloco/PT - RJ. Sem revisão do orador.) - Presidente, quero cumprimentá-lo, cumprimentar todos os Deputados e Deputadas, cumprimentar a Ministra Margareth Menezes, que disse para nós, com todas as letras, que o Governo do Presidente Lula valoriza a cultura em todos os rincões deste País. Quero cumprimentar o Deputado Pedro Uczai, nosso Relator. Quero agradecer a Deus o dom da vida dele, esse homem maravilhoso que se recuperou e está aqui conosco firme e forte. Presidente, primeiro eu quero trazer uma lembrança de algo muito trágico que aconteceu na sociedade brasileira. Sabe o candidato do Partido Missão à Presidência? Foi à televisão e disse que quer construir uma bomba atômica. O PT está dizendo que quer construir cultura. O candidato do Partido Missão à Presidência disse que vai promover no Brasil um banho de sangue. Nós vamos produzir uma cultura que modifica, que transforma e que dá sentido à vida do povo brasileiro. Olha só a diferença do Missão, que tem a missão de matar, e do PT, que tem a missão de organizar a vida do povo brasileiro com cultura como direito e política de Estado; cultura como aquela ferramenta humana que me permite olhar para o outro e revelar ao outro quem eu sou, e pedir ao outro que o outro me ajude, revelando-se a mim, a me entender neste mundo; cultura como instrumento de democracia, como transformação social; cultura como processo de democratização; cultura como perspectiva de nós construirmos uma sociedade que não esteja alicerçada apenas na tolerância, mas que esteja alicerçada na fraternidade universal. Muito mais do que tolerar o outro é entender que o outro faz parte da construção que eu quero fazer neste nosso mundo. É preciso valorizar os trabalhadores da cultura, os artistas e os fazedores de cultura  cultura, educação, memória e identidade do povo brasileiro. Cultura que fala para o povo negro, cultura que fala para as periferias, cultura que fala para os povos originários, cultura que fala com as mulheres, cultura que fala com a juventude, cultura que fala com as infâncias, cultura que fala com todas as artes. E aí é preciso a gente também lembrar e não se esquecer de que, para além de tudo isso que estamos fazendo  e eu quero dizer isso aos fazedores de cultura deste País , nós não descansaremos enquanto não tivermos 2% do Orçamento para a cultura neste País."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-  "score": 57.71,
-  "rank": 7,
+  "score": 66.19,
+  "rank": 3,
   "proposicoes": [
     {
       "id": 2641825,
@@ -132,6 +132,60 @@
       "ementa": "Emenda ao PL nº 830/2026 - Altera a Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para dispor sobre a proteção da trabalhadora cisgênero e transgênero vítima de violência sexual ou moral no ambiente de trabalho.",
       "data": "2026-08-31T11:39",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644960"
+    },
+    {
+      "id": 2645433,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Emenda substitutiva ao PL nº 657/2026 - Altera a Lei nº 9.615, de 24 de março de 1998 (Lei Pelé), para instituir capítulo permanente de garantias ao futebol feminino em grandes eventos.",
+      "data": "2026-08-31T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645433"
+    },
+    {
+      "id": 2645437,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Emenda substitutiva ao PL nº 1326/2026 - Dispõe sobre padrões mínimos de atendimento especializado às mulheres em situação de violência doméstica e familiar, bem como diretrizes para o funcionamento e a expansão das Delegacias Especializadas de Atendimento à Mulher DEAM.",
+      "data": "2026-08-31T11:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645437"
+    },
+    {
+      "id": 2645440,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Emenda modificativa ao PL nº 1.669/2026 - Institui o Marco Legal dos Esportes Indígenas no Brasil e dá outras providências",
+      "data": "2026-08-31T11:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645440"
+    },
+    {
+      "id": 2645444,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Emenda ao PL nº 2.036/2026 - Revoga o artigo 54 do Decreto-Lei nº 3.199, de 1941, e dá outras providências destinadas a eliminar norma discriminatória sobre práticas esportivas supostamente \"incompatíveis com a natureza feminina\", consolidando a igualdade de gênero no ordenamento jurídico.",
+      "data": "2026-08-31T12:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645444"
+    },
+    {
+      "id": 2645447,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Emenda de Plenário a Projeto com Urgência",
+      "data": "2026-09-01T21:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645447"
+    },
+    {
+      "id": 2645449,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Emenda de Plenário a Projeto com Urgência",
+      "data": "2026-09-01T21:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645449"
     }
   ],
   "discursos": [],

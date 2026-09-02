@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
-  "score": 34.83,
-  "rank": 166,
+  "score": 40.11,
+  "rank": 55,
   "proposicoes": [
     {
       "id": 2643283,
@@ -24,9 +24,33 @@
       "ementa": "Institui o Passe Enem, benefício tarifário destinado a assegurar gratuidade no transporte público coletivo aos participantes do Exame Nacional do Ensino Médio nos dias de aplicação das provas, e dispõe sobre seu custeio pela União.",
       "data": "2026-08-13T16:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643736"
+    },
+    {
+      "id": 2645168,
+      "tipo": "PL",
+      "numero": 5251,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o reconhecimento da profissão de seleiro e artesão em couro.",
+      "data": "2026-09-01T15:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645168"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-09-01T21:08",
+      "fase": "Ordem do Dia",
+      "tipo": "DISCUSSÃO",
+      "resumo": "A SRA. ALICE PORTUGAL (Bloco/PCdoB - BA. Sem revisão da oradora.) - Sr. Presidente, trago de volta a esta tribuna o momento solene que nós estamos vivendo nesta Casa, a que o povo brasileiro precisa t",
+      "transcricao": "A SRA. ALICE PORTUGAL (Bloco/PCdoB - BA. Sem revisão da oradora.) - Sr. Presidente, trago de volta a esta tribuna o momento solene que nós estamos vivendo nesta Casa, a que o povo brasileiro precisa ter acesso para ter conhecimento da grandeza do que se aprova nesta noite na Câmara dos Deputados, com a relatoria do Deputado Pedro Uczai, com a presença da Ministra de Estado da Cultura, Margareth Menezes, minha conterrânea, e, sem dúvida, com muitas mãos que trabalharam esses anos quando o Ministério da Cultura foi fechado, aniquilado, quando a cultura foi alvejada como principal inimiga de um período absurdamente difícil  para ser elegante  da política nacional, um período de obscurantismo, um período de trevas, um período de retrocesso, em que a cultura se viu morta praticamente por inanição. O Plano Nacional de Cultura traz transversalidade, traz dedicação à interseccionalidade, traz igualdade regional, respeito às culturas e às linguagens culturais, da cultura afrodescendente à cultura pop, da cultura erudita à cultura absolutamente popular, às tradições culturais brasileiras. Enfim, incorpora o que conseguimos preservar nos anos difíceis com a Aldir Blanc 1. E eu, com muito orgulho, era a Presidente, em duas vezes, da Comissão de Cultura. Na ausência do Ministério da Cultura, esta Casa se rebelou, se levantou: vieram a Aldir Blanc 1, a Aldir Blanc 2, a Paulo Gustavo. Quero saudar a Deputada Jandira Feghali, a Deputada Benedita da Silva, a assessoria do Ministério da Cultura, a Ministra Margareth Menezes e o Presidente Lula, que soube ouvir o clamor desta Casa e das ruas, dos fazedores de cultura. Vivemos anos de lives noturnas para garantir a aprovação dessas leis. Quero dizer que esta Casa soube erguer esse arcabouço, que se transformou na primeira Política Nacional de Cultura e agora gera um plano que durará 10 anos. Ministra Margareth, esta noite, esta decisão ficará na história, com um plano muito bem trabalhado, com uma tessitura voltada para o acesso à cultura, aos seus fazedores e para a garantia da preservação da cultura, que, afinal de contas, é a digital de um povo. Ferreira Gullar nos ensinou  e a gente repete em todos os ambientes culturais  que a arte e a cultura existem porque a vida não basta. Viva o Plano Nacional de Cultura! E viva o Presidente Lula, que, neste momento, através de um projeto do Poder Executivo, do seu Ministério da Cultura, nos possibilita especializar este conjunto de regras para garantir amparo e desenvolvimento cultural no Brasil. Muito obrigada."
+    },
+    {
+      "data": "2026-09-01T19:32",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. ALICE PORTUGAL (Bloco/PCdoB - BA. Pela ordem. Sem revisão da oradora.) - Saúde ao nosso Líder! Sr. Presidente, a nossa Federação Brasil da Esperança tem hoje a satisfação de encaminhar \"sim\" a ",
+      "transcricao": "A SRA. ALICE PORTUGAL (Bloco/PCdoB - BA. Pela ordem. Sem revisão da oradora.) - Saúde ao nosso Líder! Sr. Presidente, a nossa Federação Brasil da Esperança tem hoje a satisfação de encaminhar \"sim\" a este projeto, que é o primeiro resgate dos prejuízos criados com a reforma da Previdência. Sem dúvida alguma, os policiais de todo o Brasil merecem essa indicação com uma lei federal para retrair prejuízos que lhes foram impostos com aquela reforma. É fundamental incorporar tempos de outras áreas de forças, é fundamental garantir o recálculo de idade. E isso nós queremos ampliar para os demais trabalhadores públicos brasileiros que foram ultraprejudicados inclusive com a bitributação da cobrança previdenciária. E nós queremos a aprovação da PEC 6, que garante a suspensão paulatina da bitributação."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",
@@ -111,6 +135,12 @@
       "sigla": "CE",
       "cargo": "Titular",
       "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Suplente",
+      "desde": "2026-09-01T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/74057/votacoes-nominais-plenario/2026"

@@ -4,7 +4,7 @@
   "partido": "PP",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204450.jpg",
-  "score": 3.54,
+  "score": 4.58,
   "rank": 504,
   "proposicoes": [
     {
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643842"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-09-01T19:40",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DOUTOR LUIZINHO (Bloco/PP - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero registrar e agradecer a presença no Plenário do nosso Ministro do Esporte, Paulo Henrique, que veio at",
+      "transcricao": "O SR. DOUTOR LUIZINHO (Bloco/PP - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero registrar e agradecer a presença no Plenário do nosso Ministro do Esporte, Paulo Henrique, que veio atender as demanda dos Deputados. Ministro, muito obrigado pela presença. V.Exa. está fazendo um grande trabalho, substituindo o nosso antigo Ministro André Fufuca."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 14, de 2021, do Sr. Dr. Leonardo e outros, que \"altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais\"",

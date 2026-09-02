@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220529.jpg",
-  "score": 32.75,
-  "rank": 225,
+  "score": 34.36,
+  "rank": 166,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -70,12 +70,6 @@
       "desde": "2025-11-04T00:00"
     },
     {
-      "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",
-      "sigla": "CINDRE",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Comunicação",
       "sigla": "CCOM",
       "cargo": "Titular",
@@ -85,6 +79,12 @@
       "nome": "Comissão de Desenvolvimento Econômico",
       "sigla": "CDE",
       "cargo": "Suplente",
+      "desde": "2026-02-03T00:00"
+    },
+    {
+      "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",
+      "sigla": "CINDRE",
+      "cargo": "Titular",
       "desde": "2026-02-03T00:00"
     },
     {
@@ -104,6 +104,12 @@
       "sigla": "CMADS",
       "cargo": "Suplente",
       "desde": "2026-05-08T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Suplente",
+      "desde": "2026-09-01T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220529/votacoes-nominais-plenario/2026"
