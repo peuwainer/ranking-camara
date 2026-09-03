@@ -4,18 +4,9 @@
   "partido": "PP",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
-  "score": 55.57,
-  "rank": 8,
+  "score": 54.78,
+  "rank": 10,
   "proposicoes": [
-    {
-      "id": 2641821,
-      "tipo": "SBT",
-      "numero": 4,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do  Adolescente, para fortalecer a proteção dos dados pessoais de crianças e adolescentes no ambiente digital.",
-      "data": "2026-08-03T14:23",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641821"
-    },
     {
       "id": 2641968,
       "tipo": "SBT",
@@ -78,6 +69,15 @@
       "ementa": "Acrescenta os art. 68-A no Ato das Disposições Constitucionais Transitórias para ratificar os registros de imóveis rurais em faixa de fronteira concedidos pelos estados antes da promulgação desta Constituição Federal e dá outras providências.",
       "data": "2026-08-28T15:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
+    },
+    {
+      "id": 2645482,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, para instituir mecanismos de preparação de adolescentes em acolhimento institucional ou familiar para a transição à vida adulta.",
+      "data": "2026-09-02T10:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645482"
     }
   ],
   "discursos": [

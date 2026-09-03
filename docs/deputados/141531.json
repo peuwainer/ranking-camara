@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141531.jpg",
-  "score": 35.06,
-  "rank": 142,
+  "score": 35.77,
+  "rank": 127,
   "proposicoes": [
     {
       "id": 2645102,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645105"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-09-02T11:36",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. RODRIGO DE CASTRO (Bloco/UNIÃO - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente Deputado Hugo Motta, quero parabenizar o Deputado Aécio pelo relatório e dizer da importância desta elei",
+      "transcricao": "O SR. RODRIGO DE CASTRO (Bloco/UNIÃO - MG. Pela ordem. Sem revisão do orador.) - Sr. Presidente Deputado Hugo Motta, quero parabenizar o Deputado Aécio pelo relatório e dizer da importância desta eleição do Senador Rodrigo Pacheco para o Tribunal de Contas da União. Trata-se de alguém preparado para isso, com uma sólida carreira jurídica. Já foi Presidente da CCJ, Deputado, Senador, Presidente do Senado, Presidente, portanto, do Congresso Nacional. É alguém que, durante toda a sua vida pública, que é curta, mas extraordinariamente rica, sempre se pautou pela ética, pela entrega de papéis importantes que ele exerceu para o País. E a democracia? Se nós a temos hoje consolidada, devemos muito ao Senador Rodrigo Pacheco, em um momento crucial do País. Portanto, com muita alegria e com muita honra, o União Brasil orienta \"sim\", pelo voto favorável ao Senador Rodrigo Pacheco para Ministro do Tribunal de Contas da União, Sr. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 733, de 2025, do Sr. Leur Lomanto Júnior, que \"dispõe sobre o Sistema Portuário Brasileiro, regula a exploração dos portos, as atividades de operação portuária, o trabalho portuário e dá outras providências\"",

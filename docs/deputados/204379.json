@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204379.jpg",
-  "score": 30.67,
-  "rank": 264,
+  "score": 31.39,
+  "rank": 243,
   "proposicoes": [
     {
       "id": 2642134,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-09-02T11:36",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ACÁCIO FAVACHO (Bloco/MDB - AP. Pela ordem. Sem revisão do orador.) - Presidente Deputado Hugo, quero iniciar aqui parabenizando o Senado Federal por fazer a brilhante escolha do Senador Rodrigo",
+      "transcricao": "O SR. ACÁCIO FAVACHO (Bloco/MDB - AP. Pela ordem. Sem revisão do orador.) - Presidente Deputado Hugo, quero iniciar aqui parabenizando o Senado Federal por fazer a brilhante escolha do Senador Rodrigo Pacheco. O Senador Rodrigo Pacheco tem uma história no Congresso Nacional, tem uma história na Câmara dos Deputados, prestou um grande serviço ao Brasil quando esteve à frente da Presidência do Senado e do Congresso Nacional no período mais difícil da pandemia. Tem uma envergadura muito grande para ser Ministro do TCU do Brasil. Então, o MDB vota e orienta \"sim\"."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Grupo de Trabalho de Consolidação das Leis",

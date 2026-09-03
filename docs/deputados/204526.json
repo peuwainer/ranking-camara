@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204526.jpg",
-  "score": 29.42,
-  "rank": 299,
+  "score": 31.01,
+  "rank": 257,
   "proposicoes": [
     {
       "id": 2644800,
@@ -24,6 +24,15 @@
       "ementa": "Dispõe sobre o cancelamento de tombamento de bens integrantes do patrimônio cultural brasileiro no âmbito federal, estabelece requisitos para a transferência definitiva de bens culturais da União ao exterior e revoga o Decreto-Lei nº 3.866, de 29 de novembro de 1941.",
       "data": "2026-08-31T16:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644975"
+    },
+    {
+      "id": 2645610,
+      "tipo": "PL",
+      "numero": 5281,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a autorização para uso compassivo de medicamentos ainda não registrados no país e estabelece prazo para decisão da Agência Nacional de Vigilância Sanitária – Anvisa.",
+      "data": "2026-09-02T17:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645610"
     }
   ],
   "discursos": [],

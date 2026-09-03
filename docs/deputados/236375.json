@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236375.jpg",
-  "score": 37.27,
-  "rank": 99,
+  "score": 40.45,
+  "rank": 50,
   "proposicoes": [
     {
       "id": 2642888,
@@ -33,6 +33,24 @@
       "ementa": "Dispõe sobre a obrigatoriedade de emissão, controle e fiscalização do Perfil Profissiográfico Previdenciário (PPP) e do Laudo Técnico das Condições Ambientais do Trabalho (LTCAT) para os médicos-veterinários, inclusive contribuintes individuais, com vistas ao efetivo reconhecimento da atividade especial por exposição a agentes nocivos, e dá outras providências.",
       "data": "2026-08-14T12:07",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643808"
+    },
+    {
+      "id": 2645479,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do relator, referente ao PROJETO DE LEI Nº 3.315, DE 2024, que dispõe sobre a obrigatoriedade de equipe médica em competições de fisiculturismo e dá outras providências.",
+      "data": "2026-09-02T10:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645479"
+    },
+    {
+      "id": 2645488,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do relator referente ao PROJETO DE LEI Nº 2.488, DE 2026, que dispõe sobre a obrigatoriedade de divulgação do Protocolo CALMA., ou de protocolos similares que venham a substituí-lo ou atualiza-lo, contendo orientações de primeiros socorros em caso de crises convulsivas.",
+      "data": "2026-09-02T10:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645488"
     }
   ],
   "discursos": [],

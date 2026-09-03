@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/230765.jpg",
-  "score": 36.08,
-  "rank": 123,
+  "score": 36.0,
+  "rank": 121,
   "proposicoes": [
     {
       "id": 2643283,
@@ -45,6 +45,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-09-02T18:12",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. ENFERMEIRA REJANE (Bloco/PCdoB - RJ. Pela ordem. Sem revisão da oradora.) - Presidente, só para dar uma informação para os servidores da saúde do Rio de Janeiro. Nós estivemos com o Ministro Pa",
+      "transcricao": "A SRA. ENFERMEIRA REJANE (Bloco/PCdoB - RJ. Pela ordem. Sem revisão da oradora.) - Presidente, só para dar uma informação para os servidores da saúde do Rio de Janeiro. Nós estivemos com o Ministro Padilha, ainda há pouco, para que a gente conseguisse colocar aqui na urgência o PL 3102, que é o PL da transposição dos servidores que hoje trabalham nos hospitais federais do Rio de Janeiro para o Ministério da Ciência e Tecnologia. O Ministro já deu seu aval para o PL, o RGI também, e ele ficou de falar com o Líder do Governo, Paulo Pimenta, para ainda, na data de hoje, a gente conseguir essa vitória para a classe trabalhadora, os servidores da saúde do Rio. Está sendo feita uma articulação também com o Presidente Hugo Motta, e os Líderes partidários, vários Líderes de Direita e da Esquerda, já falaram com o Presidente. Agora há pouco, falaram com o Líder do Governo, Paulo Pimenta, e o Ministro tem o aval do Ministro da Saúde. Então, espero que ainda dê tempo de V.Exa. fazer esse pronunciamento do PL 3102 e da urgência dele na data de hoje. Muito obrigada."
+    },
     {
       "data": "2026-09-01T15:36",
       "fase": "Breves Comunicações",

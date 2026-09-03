@@ -4,18 +4,9 @@
   "partido": "PDT",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/133439.jpg",
-  "score": 46.91,
-  "rank": 24,
+  "score": 46.51,
+  "rank": 20,
   "proposicoes": [
-    {
-      "id": 2641858,
-      "tipo": "PLP",
-      "numero": 229,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a organização, a estrutura, a governança, as competências, o financiamento e os serviços essenciais do Sistema Único do Trabalho (SUT), nos termos da Constituição Federal, e dá outras providências",
-      "data": "2026-08-03T16:36",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641858"
-    },
     {
       "id": 2642678,
       "tipo": "PL",
@@ -60,6 +51,15 @@
       "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para reduzir de dois para um ano o intervalo mínimo em que os motoristas profissionais podem usufruir das reduções a zero das alíquotas do Imposto sobre Bens e Serviços (IBS) e da Contribuição sobre Bens e Serviços (CBS) na aquisição de automóveis destinados à categoria de aluguel (táxi).",
       "data": "2026-08-27T14:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644733"
+    },
+    {
+      "id": 2645599,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a regulamentação do exercício profissional de Designer e dá outras providências.",
+      "data": "2026-09-02T16:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645599"
     }
   ],
   "discursos": [

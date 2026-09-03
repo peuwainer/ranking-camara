@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74858.jpg",
-  "score": 39.49,
-  "rank": 65,
+  "score": 40.2,
+  "rank": 54,
   "proposicoes": [
     {
       "id": 2642298,
@@ -44,7 +44,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643776"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-09-02T17:36",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LINDBERGH FARIAS (Bloco/PT - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero começar homenageando o Deputado Patrus, foi autor da iniciativa desse projeto, mas por uma questão de",
+      "transcricao": "O SR. LINDBERGH FARIAS (Bloco/PT - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero começar homenageando o Deputado Patrus, foi autor da iniciativa desse projeto, mas por uma questão de iniciativa, o Governo acolhe, manda o projeto para cá homenageando o Deputado Patrus, o Deputado Rogério Correia é o Relator, e isso tem tudo a ver com o Lula. É a ampliação das nossas universidades públicas. Jandira, lá no Rio de Janeiro, são sete cidades. Temos o campus do Cefet/RJ, Campus Maria da Graça, no Maracanã, que vai virar universidade tecnológica. A cidade onde eu fui Prefeito, Nova Iguaçu, meu Reitor Maurício, tem uma universidade. Nós conquistamos com muita luta. Mas tínhamos um Cefet, desde 2003. Nova Iguaçu vai ter uma universidade tecnológica, como teve o Paraná. Essa foi uma experiência exitosa no Paraná, em Itaguaí também, Valença, Petrópolis, Nova Friburgo, Angra dos Reis. Parabéns, Presidente Lula, pela iniciativa de fortalecer as universidades e de criar as universidades tecnológicas no Estado do Rio."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 14, de 2021, do Sr. Dr. Leonardo e outros, que \"altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais\"",

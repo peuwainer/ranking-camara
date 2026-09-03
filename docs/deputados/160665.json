@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
-  "score": 39.88,
-  "rank": 59,
+  "score": 40.59,
+  "rank": 48,
   "proposicoes": [
     {
       "id": 2643149,
@@ -71,7 +71,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645449"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-09-02T11:40",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - O Republicano vai encaminhar \"sim\". Quero parabenizar o Senado Federal. O Senado Federal está trazendo um nome de",
+      "transcricao": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - O Republicano vai encaminhar \"sim\". Quero parabenizar o Senado Federal. O Senado Federal está trazendo um nome de grande envergadura, um político sério, uma pessoa muito reconhecida no meio jurídico e vai, eu tenho certeza, engrandecer muito o Tribunal de Contas da União. Parabenizo o Presidente Senador Davi Alcolumbre, que fez esse encaminhamento, V.Exa., pela agilidade que faz com que essa matéria seja consagrada aqui na Câmara dos Deputados, enfim, ganha o Brasil e ganha o Tribunal de Contas com o nome do Senador Rodrigo Pacheco, um nome que vai dar muito equilíbrio, vai enobrecer muito aquela Corte no momento em que a gente passa por grandes dificuldades institucionais."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, atualização, modernização e adaptação de normas jurídicas brasileiras, no sentido de incorporar a elas os avanços tecnológicos nas relações interpessoais e atividades diárias",
