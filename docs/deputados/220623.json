@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
-  "score": 39.09,
-  "rank": 68,
+  "score": 36.54,
+  "rank": 104,
   "proposicoes": [
     {
       "id": 2642137,
@@ -15,6 +15,15 @@
       "ementa": "Dispõe medidas de proteção da saúde da população em cenários de ondas de calor e outros eventos climáticos extremos, no âmbito SUS, e dá outras providências.",
       "data": "2026-08-06T13:30",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642137"
+    },
+    {
+      "id": 2645680,
+      "tipo": "PL",
+      "numero": 5284,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para dispor sobre a obrigatoriedade de registro do uso de aeronaves em campanhas eleitorais como doação estimável em dinheiro.",
+      "data": "2026-09-03T11:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645680"
     }
   ],
   "discursos": [],

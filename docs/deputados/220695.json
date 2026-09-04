@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-  "score": 66.19,
-  "rank": 3,
+  "score": 69.38,
+  "rank": 1,
   "proposicoes": [
-    {
-      "id": 2641921,
-      "tipo": "SBT",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do PL  5.498/2023 e do PL  5.958/2023 e do PL 5.687/2025, apensados,  com  Substitutivo.\n\n,",
-      "data": "2026-08-04T14:29",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641921"
-    },
     {
       "id": 2642133,
       "tipo": "PL",
@@ -186,6 +177,24 @@
       "ementa": "Dispõe sobre a comunicação pelos estabelecimentos comerciais, quando da ocorrência de casos de\nabuso e violência contra mulher, criança, adolescente, pessoa idosa e pessoa com deficiência, nos termos que indica.",
       "data": "2026-09-02T13:09",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645534"
+    },
+    {
+      "id": 2645645,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o art. 118 da Lei nº 8.213, de 24 de julho de 1991, para dispor sobre a garantia provisória de emprego decorrente de acidente de trabalho.",
+      "data": "2026-09-03T09:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645645"
+    },
+    {
+      "id": 2645726,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação, com substitutivo.",
+      "data": "2026-09-03T15:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645726"
     }
   ],
   "discursos": [],

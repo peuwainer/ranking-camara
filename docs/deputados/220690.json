@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 68.44,
-  "rank": 1,
+  "score": 67.26,
+  "rank": 2,
   "proposicoes": [
-    {
-      "id": 2641932,
-      "tipo": "SBT",
-      "numero": 7,
-      "ano": 0,
-      "ementa": "Amplia o direito ao porte de arma de fogo para Guardas Civis Municipais e vigilantes, reduz exigências burocráticas, reconhece o risco permanente da atividade e fortalece a segurança pública por meio do armamento responsável.",
-      "data": "2026-08-04T15:54",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641932"
-    },
     {
       "id": 2641965,
       "tipo": "PL",
@@ -177,6 +168,24 @@
       "ementa": "Altera a Lei n. 13.675, de 11 de junho de 2018, para inserir expressamente as polícias penais federal, estaduais e distrital no rol de integrantes operacionais do Sistema Único de Segurança Pública (Susp).",
       "data": "2026-09-01T12:43",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645093"
+    },
+    {
+      "id": 2645674,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.883 e a Lei nº 10.826 para reconhecer como atividade de risco as atribuições desempenhadas pelos integrantes da Carreira de Auditor Fiscal Federal Agropecuário e autorizar o porte de arma de fogo, e dá outras providências.",
+      "data": "2026-09-03T10:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645674"
+    },
+    {
+      "id": 2645716,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 14.133, de 2021, e a Lei nº 9.503, de 1997, para prever a divulgação de relatório de estado veicular antes da realização de leilão de veículo automotor.",
+      "data": "2026-09-03T14:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645716"
     }
   ],
   "discursos": [

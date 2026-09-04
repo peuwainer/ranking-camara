@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220673.jpg",
-  "score": 32.68,
-  "rank": 210,
+  "score": 34.55,
+  "rank": 156,
   "proposicoes": [
-    {
-      "id": 2641935,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Dispõe sobre a aquisição, a posse e o porte de arma de fogo no território nacional, institui o Sistema Nacional de Registro de Armas de Fogo (SINRAF) e revoga dispositivos da Lei nº 10.826, de 22 de dezembro de 2003.",
-      "data": "2026-08-04T16:02",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2641935"
-    },
     {
       "id": 2642867,
       "tipo": "SBT",
@@ -60,6 +51,15 @@
       "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para estabelecer requisitos especiais para concessão de benefícios penais a condenados integrantes de organizações criminosas, especialmente facções criminosas, com base em avaliação de risco à sociedade e à ordem pública.",
       "data": "2026-08-31T12:31",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644908"
+    },
+    {
+      "id": 2645711,
+      "tipo": "PL",
+      "numero": 5285,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.445, de 5 de janeiro de 2007, para estabelecer garantias aos usuários de fontes alternativas de abastecimento de água, disciplinar a cobrança dos serviços públicos de abastecimento de água e esgotamento sanitário, assegurar o devido processo administrativo nas ações fiscalizatórias e proteger os microssistemas comunitários de abastecimento.",
+      "data": "2026-09-03T13:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645711"
     }
   ],
   "discursos": [],

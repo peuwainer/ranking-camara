@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220532.jpg",
-  "score": 29.42,
-  "rank": 301,
+  "score": 29.34,
+  "rank": 300,
   "proposicoes": [
     {
       "id": 2642504,
@@ -24,6 +24,24 @@
       "ementa": "Acrescenta os art. 68-A no Ato das Disposições Constitucionais Transitórias para ratificar os registros de imóveis rurais em faixa de fronteira concedidos pelos estados antes da promulgação desta Constituição Federal e dá outras providências.",
       "data": "2026-08-28T15:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
+    },
+    {
+      "id": 2645830,
+      "tipo": "PL",
+      "numero": 5289,
+      "ano": 2026,
+      "ementa": "Altera o inciso XIV do art. 6º da Lei nº 7.713, de 22 de dezembro de 1988, para incluir a espondiloartrite periférica entre as doenças que ensejam isenção do Imposto sobre a Renda incidente sobre proventos de aposentadoria ou reforma.",
+      "data": "2026-09-03T15:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645830"
+    },
+    {
+      "id": 2645875,
+      "tipo": "PL",
+      "numero": 5290,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.713, de 22 de dezembro de 1988, para estender a isenção do imposto sobre a renda prevista para portadores de moléstia grave aos servidores públicos titulares de cargo efetivo que, tendo preenchido os requisitos para aposentadoria voluntária, permaneçam em atividade, percebendo abono de permanência.",
+      "data": "2026-09-03T16:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645875"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "NOVO",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/156190.jpg",
-  "score": 43.72,
-  "rank": 33,
+  "score": 44.49,
+  "rank": 30,
   "proposicoes": [
     {
       "id": 2644752,
@@ -136,6 +136,12 @@
       "sigla": "PEC03215",
       "cargo": "Titular",
       "desde": "2026-08-11T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Suplente",
+      "desde": "2026-09-03T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/156190/votacoes-nominais-plenario/2026"
