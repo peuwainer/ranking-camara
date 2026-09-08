@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-07T12:07:52.315215+00:00",
+  "atualizado_em": "2026-09-08T11:09:52.929169+00:00",
   "legislatura": 57,
   "deputados": [
     {
@@ -794,19 +794,6 @@
       "presenca_votacoes": 85.7,
       "discursos": 0,
       "orgaos": 14
-    },
-    {
-      "id": 204566,
-      "nome": "ANTONIO DA CRUZ FILGUEIRA NETO",
-      "nome_urna": "Marreca Filho",
-      "partido": "PRD",
-      "uf": "MA",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204566.jpg",
-      "score": 39.87,
-      "proposicoes": 9,
-      "presenca_votacoes": 71.4,
-      "discursos": 0,
-      "orgaos": 3
     },
     {
       "id": 160758,
@@ -2068,6 +2055,19 @@
       "presenca_votacoes": 85.7,
       "discursos": 0,
       "orgaos": 8
+    },
+    {
+      "id": 204566,
+      "nome": "ANTONIO DA CRUZ FILGUEIRA NETO",
+      "nome_urna": "Marreca Filho",
+      "partido": "PRD",
+      "uf": "MA",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204566.jpg",
+      "score": 34.35,
+      "proposicoes": 6,
+      "presenca_votacoes": 71.4,
+      "discursos": 0,
+      "orgaos": 3
     },
     {
       "id": 220542,
