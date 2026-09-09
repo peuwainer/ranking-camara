@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141421.jpg",
-  "score": 17.21,
-  "rank": 454,
+  "score": 20.9,
+  "rank": 417,
   "proposicoes": [
     {
       "id": 2643949,
@@ -15,6 +15,24 @@
       "ementa": "Institui alíquota especial de contribuição previdenciária para pessoas diagnosticadas com câncer, diabetes mellitus tipo 1 ou seja mãe, pai ou responsável por pessoa com deficiência ou pessoa com transtorno do espectro autista e prevê formas de compensação.",
       "data": "2026-08-18T11:29",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643949"
+    },
+    {
+      "id": 2646230,
+      "tipo": "PL",
+      "numero": 5316,
+      "ano": 2026,
+      "ementa": "Altera o ECA Digital para proibir que menores de 14 anos criem ou mantenham contas em redes sociais.",
+      "data": "2026-09-08T16:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646230"
+    },
+    {
+      "id": 2646231,
+      "tipo": "PL",
+      "numero": 5317,
+      "ano": 2026,
+      "ementa": "Institui a Política Pública do Jogo Responsável, estabelece limites de apostas, disciplina a publicidade de apostas de quota fixa e destina recursos ao tratamento da ludopatia no SUS.",
+      "data": "2026-09-08T16:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646231"
     }
   ],
   "discursos": [],

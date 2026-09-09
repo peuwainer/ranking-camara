@@ -4,8 +4,8 @@
   "partido": "PRD",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204427.jpg",
-  "score": 31.93,
-  "rank": 234,
+  "score": 33.77,
+  "rank": 180,
   "proposicoes": [
     {
       "id": 2645233,
@@ -15,6 +15,15 @@
       "ementa": "Institui o Auxílio Maria Cecília, destinado à proteção socioeconômica das famílias de crianças e adolescentes em tratamento oncológico, altera a Lei nº 8.742, de 7 de dezembro de 1993 e dá outras providências.",
       "data": "2026-09-01T17:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645233"
+    },
+    {
+      "id": 2646212,
+      "tipo": "PL",
+      "numero": 5311,
+      "ano": 2026,
+      "ementa": "Institui o Estatuto de Proteção ao Trabalhador, destinado a assegurar a previsibilidade da jornada, a proteção do tempo de descanso, o direito à desconexão, a conciliação entre trabalho e responsabilidades familiares, a proteção e o incentivo à contratação do trabalhador-cuidador, a proteção ocupacional dos trabalhadores expostos a situações de crise, e dá outras providências.",
+      "data": "2026-09-08T13:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646212"
     }
   ],
   "discursos": [],

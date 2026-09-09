@@ -4,8 +4,8 @@
   "partido": "PRD",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
-  "score": 22.18,
-  "rank": 404,
+  "score": 24.02,
+  "rank": 384,
   "proposicoes": [
     {
       "id": 2643298,
@@ -24,6 +24,15 @@
       "ementa": "Denomina \"Rodovia André Luís Almeida\" o trecho de rodovia federal que liga o entroncamento com a rodovia MG-129 ao Distrito de Florália, no Município de Santa Bárbara, Estado de Minas Gerais.",
       "data": "2026-08-14T10:09",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643775"
+    },
+    {
+      "id": 2646202,
+      "tipo": "PL",
+      "numero": 5310,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição da eliminação de pintinhos machos de linhagens destinadas à produção de ovos exclusivamente em razão do sexo ou da ausência de finalidade econômica, institui mecanismos de incentivo à transição tecnológica da avicultura de postura e dá outras providências.",
+      "data": "2026-09-08T13:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646202"
     }
   ],
   "discursos": [],

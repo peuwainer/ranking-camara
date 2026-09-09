@@ -4,9 +4,28 @@
   "partido": "PDT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74158.jpg",
-  "score": 33.75,
-  "rank": 182,
-  "proposicoes": [],
+  "score": 37.43,
+  "rank": 99,
+  "proposicoes": [
+    {
+      "id": 2646234,
+      "tipo": "PL",
+      "numero": 5318,
+      "ano": 2026,
+      "ementa": "Acresce aos objetivos da Política Nacional de Recursos Hídricos o incentivo e a promoção de soluções hídricas voltadas ao setor produtivo, inclui no exercício da atividade de mineração a implantação de soluções hídricas próprias e estabelece vedação de uso de água de reservatório destinada ao consumo humano pela atividade mineradora, com ressalva, e dá outras providências.",
+      "data": "2026-09-08T16:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646234"
+    },
+    {
+      "id": 2646235,
+      "tipo": "PL",
+      "numero": 5319,
+      "ano": 2026,
+      "ementa": "Estabelece obrigatoriedade de implantação de soluções hídricas próprias e vedação de uso de água de reservatório destinada ao consumo humano pelos centros de processamento de dados, com ressalva, e dá outras providências.",
+      "data": "2026-09-08T16:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646235"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
