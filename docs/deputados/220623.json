@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
-  "score": 35.05,
-  "rank": 138,
+  "score": 37.1,
+  "rank": 101,
   "proposicoes": [
     {
       "id": 2645680,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para dispor sobre a obrigatoriedade de registro do uso de aeronaves em campanhas eleitorais como doação estimável em dinheiro.",
       "data": "2026-09-03T11:29",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645680"
+    },
+    {
+      "id": 2646284,
+      "tipo": "PL",
+      "numero": 5326,
+      "ano": 2026,
+      "ementa": "Dispõe sobre vedação aos empreendedores minerários de patrocinarem e apoiarem eventos e iniciativas culturais, esportivas, educacionais e comunitárias, promovidas por entidades públicas e/ou privadas, durante a tramitação do licenciamento ambiental.",
+      "data": "2026-09-09T15:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646284"
     }
   ],
   "discursos": [],

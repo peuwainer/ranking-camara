@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204412.jpg",
-  "score": 36.81,
-  "rank": 106,
+  "score": 38.96,
+  "rank": 77,
   "proposicoes": [
     {
       "id": 2644800,
@@ -24,6 +24,15 @@
       "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para dispor sobre o furto, o roubo e a receptação de medicamentos, insumos farmacêuticos, dispositivos médicos e insumos hospitalares e sobre a oferta ilícita desses produtos em plataformas digitais.",
       "data": "2026-08-31T10:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644876"
+    },
+    {
+      "id": 2646299,
+      "tipo": "PL",
+      "numero": 5329,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, que institui o Sistema Único de Segurança Pública (Susp), para estabelecer diretrizes nacionais de conectividade operacional e comunicação segura ininterrupta para as forças de segurança pública e defesa social.",
+      "data": "2026-09-09T16:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646299"
     }
   ],
   "discursos": [],

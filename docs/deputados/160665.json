@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
-  "score": 38.78,
-  "rank": 74,
+  "score": 41.44,
+  "rank": 58,
   "proposicoes": [
     {
       "id": 2643149,
@@ -69,6 +69,15 @@
       "ementa": "Emenda de Plenário a Projeto com Urgência",
       "data": "2026-09-01T21:17",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645449"
+    },
+    {
+      "id": 2646260,
+      "tipo": "PL",
+      "numero": 5325,
+      "ano": 2026,
+      "ementa": "Altera o art. 149-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para tornar crime o aliciamento ou recrutamento de pessoa com a finalidade de combate em conflito armado.",
+      "data": "2026-09-09T13:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646260"
     }
   ],
   "discursos": [

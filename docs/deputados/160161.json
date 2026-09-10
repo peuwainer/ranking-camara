@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160161.jpg",
-  "score": 32.52,
-  "rank": 224,
+  "score": 34.67,
+  "rank": 155,
   "proposicoes": [
     {
       "id": 2644724,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 9.279, de 14 de maio de 1996, que regula direitos e obrigações relativos à propriedade industrial, para dispor sobre a distintividade adquirida de sinal a ser registrado como marca.",
       "data": "2026-08-28T14:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644792"
+    },
+    {
+      "id": 2646286,
+      "tipo": "PL",
+      "numero": 5327,
+      "ano": 2026,
+      "ementa": "Institui o Contrato de Aperfeiçoamento Profissional do Médico-Veterinário e estabelece normas para a formação prática supervisionada de médicos-veterinários em início de carreira.",
+      "data": "2026-09-09T15:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646286"
     }
   ],
   "discursos": [],

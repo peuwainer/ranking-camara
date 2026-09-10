@@ -4,9 +4,19 @@
   "partido": "PDT",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220578.jpg",
-  "score": 36.25,
-  "rank": 120,
-  "proposicoes": [],
+  "score": 38.19,
+  "rank": 86,
+  "proposicoes": [
+    {
+      "id": 2646239,
+      "tipo": "PL",
+      "numero": 5321,
+      "ano": 2026,
+      "ementa": "Institui o Programa Brasil Pescador de Desenvolvimento, Renda e Valorização da Pesca Artesanal, estabelece a Bolsa Pescador Empreendedor e dispõe sobre medidas de fortalecimento da cadeia produtiva da pesca artesanal.",
+      "data": "2026-09-08T19:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646239"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

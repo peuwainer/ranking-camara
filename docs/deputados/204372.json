@@ -4,18 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204372.jpg",
-  "score": 35.02,
-  "rank": 139,
+  "score": 35.22,
+  "rank": 134,
   "proposicoes": [
-    {
-      "id": 2642443,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Institui a Política de Prevenção e Repressão a Crimes Cibernéticos contra Animais, dispondo sobre a prevenção, tipificação, investigação e repressão de crimes cometidos por meio eletrônico ou digital, e dá outras providências.",
-      "data": "2026-08-10T19:38",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2642443"
-    },
     {
       "id": 2645073,
       "tipo": "PL",
@@ -24,6 +15,15 @@
       "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para estabelecer a oferta mínima de três aulas semanais de Educação Física no ensino fundamental e no ensino médio e dispor sobre a Educação Física na educação infantil.",
       "data": "2026-09-01T10:26",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645073"
+    },
+    {
+      "id": 2646258,
+      "tipo": "PL",
+      "numero": 5323,
+      "ano": 2026,
+      "ementa": "Altera o artigo 129 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar as penas aplicáveis às lesões corporais praticadas no âmbito de violência doméstica e familiar contra a mulher e estabelecer causas específicas de aumento de pena em circunstâncias de maior gravidade e risco de escalada da violência.",
+      "data": "2026-09-09T11:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646258"
     }
   ],
   "discursos": [],
