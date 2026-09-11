@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
-  "score": 31.4,
-  "rank": 253,
+  "score": 34.71,
+  "rank": 149,
   "proposicoes": [
     {
       "id": 2644800,
@@ -15,6 +15,24 @@
       "ementa": "Acrescenta os art. 68-A no Ato das Disposições Constitucionais Transitórias para ratificar os registros de imóveis rurais em faixa de fronteira concedidos pelos estados antes da promulgação desta Constituição Federal e dá outras providências.",
       "data": "2026-08-28T15:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
+    },
+    {
+      "id": 2646318,
+      "tipo": "PL",
+      "numero": 5333,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Continuidade da Proteção à Mulher em Situação de Violência Doméstica e Familiar e estabelece diretrizes para a continuidade integrada da proteção e do atendimento.",
+      "data": "2026-09-10T11:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646318"
+    },
+    {
+      "id": 2646320,
+      "tipo": "PL",
+      "numero": 5334,
+      "ano": 2026,
+      "ementa": "Estabelece normas gerais de proteção animal relativas à segurança, à informação e à continuidade do atendimento médico-veterinário de cães e gatos, especialmente nas situações de urgência e emergência.",
+      "data": "2026-09-10T11:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646320"
     }
   ],
   "discursos": [],

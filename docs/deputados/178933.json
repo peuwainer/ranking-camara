@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178933.jpg",
-  "score": 17.31,
-  "rank": 455,
+  "score": 17.75,
+  "rank": 450,
   "proposicoes": [
     {
       "id": 2644800,
@@ -48,6 +48,12 @@
       "sigla": "PLP10821",
       "cargo": "Suplente",
       "desde": "2026-06-23T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Suplente",
+      "desde": "2026-09-10T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178933/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236284.jpg",
-  "score": 29.53,
-  "rank": 297,
+  "score": 31.09,
+  "rank": 255,
   "proposicoes": [
     {
       "id": 2643856,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 13.022, de 8 de agosto de 2014 (Estatuto Geral das Guardas Municipais) para instituir diretrizes de capacitação, controle e transparência para o armamento das guardas municipais, e dá outras providências.",
       "data": "2026-08-14T15:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643856"
+    },
+    {
+      "id": 2646308,
+      "tipo": "PL",
+      "numero": 5331,
+      "ano": 2026,
+      "ementa": "Institui o Extrato Profissional Digital, assegura ao trabalhador que presta serviços intermediados por plataforma digital o acesso, a portabilidade e o uso de seu histórico profissional digital e estabelece obrigações às plataformas digitais de intermediação.",
+      "data": "2026-09-09T23:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646308"
     }
   ],
   "discursos": [],

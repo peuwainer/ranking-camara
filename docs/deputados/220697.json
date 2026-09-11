@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220697.jpg",
-  "score": 35.69,
-  "rank": 130,
+  "score": 37.25,
+  "rank": 92,
   "proposicoes": [
     {
       "id": 2645912,
@@ -15,6 +15,15 @@
       "ementa": "Dispõe sobre regras relativas a    benefícios tributários e despesas obrigatórias no exercício de 2026.",
       "data": "2026-09-03T16:57",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645912"
+    },
+    {
+      "id": 2646330,
+      "tipo": "PL",
+      "numero": 5338,
+      "ano": 2026,
+      "ementa": "Institui a Lei Sinal de Risco, sobre a comunicação emergencial de situações de risco concreto e grave à vida ou à integridade física identificadas no âmbito de serviços digitais.",
+      "data": "2026-09-10T13:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646330"
     }
   ],
   "discursos": [],
