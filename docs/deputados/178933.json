@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178933.jpg",
-  "score": 17.75,
-  "rank": 450,
+  "score": 7.01,
+  "rank": 480,
   "proposicoes": [
     {
       "id": 2644800,
@@ -15,6 +15,15 @@
       "ementa": "Acrescenta os art. 68-A no Ato das Disposições Constitucionais Transitórias para ratificar os registros de imóveis rurais em faixa de fronteira concedidos pelos estados antes da promulgação desta Constituição Federal e dá outras providências.",
       "data": "2026-08-28T15:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
+    },
+    {
+      "id": 2646366,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 2026,
+      "ementa": "Inclui os membros da Defensoria Pública da União, dos Estados e do Distrito Federal",
+      "data": "2026-09-11T10:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646366"
     }
   ],
   "discursos": [],

@@ -4,18 +4,9 @@
   "partido": "PV",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/69871.jpg",
-  "score": 40.37,
-  "rank": 56,
+  "score": 44.17,
+  "rank": 28,
   "proposicoes": [
-    {
-      "id": 2643283,
-      "tipo": "PL",
-      "numero": 5042,
-      "ano": 2026,
-      "ementa": "Determina que as despesas de capital e parcela das despesas custeadas com receitas próprias de autarquias federais não sejam alcançadas pelo mecanismo de limitação de empenho e movimentação financeira previsto na LRF, e não sejam incluídas na base de cálculo e nos limites estabelecidos no Novo Arcabouço Fiscal para as despesas primárias do Governo Federal.",
-      "data": "2026-08-12T17:56",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643283"
-    },
     {
       "id": 2643776,
       "tipo": "PL",
@@ -42,17 +33,36 @@
       "ementa": "Estabelece garantias mínimas e simplifica a concessão do benefício eventual por situação de morte destinado às despesas com funeral de famílias em situação de vulnerabilidade social, prevendo sua identificação e atendimento de forma ativa pelo Poder Público.",
       "data": "2026-09-04T07:28",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645984"
-    }
-  ],
-  "discursos": [
+    },
     {
-      "data": "2026-08-12T15:44",
-      "fase": "Breves Comunicações",
-      "tipo": "BREVES COMUNICAÇÕES",
-      "resumo": "O SR. BACELAR (Bloco/PV - BA. Sem revisão do orador.) - Presidente Hugo Motta, Sras. e Srs. Parlamentares, perder um filho é uma dor que não se explica; palavras não traduzem. Para milhares de mães br",
-      "transcricao": "O SR. BACELAR (Bloco/PV - BA. Sem revisão do orador.) - Presidente Hugo Motta, Sras. e Srs. Parlamentares, perder um filho é uma dor que não se explica; palavras não traduzem. Para milhares de mães brasileiras, as mães atípicas, para cuidadores voluntários, essa dor vem ainda mais dura, com uma realidade cruel, pois, quando o seu filho ou ente querido, que era beneficiário do Benefício de Prestação Continuada (BPC), morre, imediatamente esse benefício é encerrado. E, com ele, muitas vezes, também desaparece a segurança alimentar, desaparece qualquer tipo de renda para quem dedicou toda a sua vida a cuidar desses entes. São pessoas que se afastaram do mercado de trabalho, que se afastaram de uma qualificação profissional, que muitas vezes até se isolaram socialmente. E o Estado não protege essas mães. Por isso, estou apresentando o projeto de lei que cria um auxílio transitório ao cuidador principal. Esse auxílio terá duração de 1 ano, com valor de meio salário mínimo, para garantir a essa mãe, para garantir a esse cuidador voluntário a reinserção no mercado de trabalho e numa vida social. É um apoio temporário para garantir que essas mães e cuidadores não fiquem desamparados justamente quando mais precisam. É um auxílio que reconhece essa realidade muitas vezes invisível: cuidar também é trabalho. E por isso, nesse mesmo projeto, procuramos garantir que o tempo dedicado ao cuidado seja reconhecido também para fins de aposentadoria, porque anos de dedicação não podem simplesmente desaparecer da vida previdenciária dessas pessoas. A Câmara tem tido uma atenção muito especial com as mães atípicas, mas, infelizmente, a interrupção do Benefício de Prestação Continuada  BPC tem causado muitos transtornos às mães atípicas e aos cuidadores voluntários. Tenho certeza de que conseguirei, de meus ilustres pares, a aprovação desse projeto de lei, que virá atender a esse reclamo das mães atípicas. Muito obrigado."
+      "id": 2646363,
+      "tipo": "PL",
+      "numero": 5349,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.211, de 17 de setembro de 2025 (Estatuto Digital da Criança e do Adolescente) e a Lei no 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para prevenir e mitigar riscos relacionados a aplicações de internet, conteúdos, produtos ou práticas interativos que simulem relacionamentos afetivos.",
+      "data": "2026-09-11T11:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646363"
+    },
+    {
+      "id": 2646364,
+      "tipo": "PL",
+      "numero": 5350,
+      "ano": 2026,
+      "ementa": "Institui a Lei do Luto sem Burocracia, destinada a simplificar as providências decorrentes do falecimento por meio da integração e utilização das informações constantes do Sistema Nacional de Informações de Registro Civil – SIRC.",
+      "data": "2026-09-11T11:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646364"
+    },
+    {
+      "id": 2646365,
+      "tipo": "PL",
+      "numero": 5351,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 9.096, de 19 de setembro de 1995, e nº 9.504, de 30 de setembro de 1997, para dispor sobre normas relativas à escolha e à substituição de candidatos, sobre a identificação dos órgãos competentes para esses procedimentos, sobre a obrigatoriedade e a publicidade dos códigos de ética e conduta e sobre a motivação das decisões disciplinares.",
+      "data": "2026-09-11T11:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646365"
     }
   ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo, avaliação e acompanhamento das iniciativas e medidas adotadas para transição energética - Fontes Renováveis e Produção de Hidrogênio Verde no Brasil",
