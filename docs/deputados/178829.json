@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
-  "score": 50.56,
-  "rank": 8,
+  "score": 48.33,
+  "rank": 10,
   "proposicoes": [
-    {
-      "id": 2643916,
-      "tipo": "PL",
-      "numero": 5094,
-      "ano": 2026,
-      "ementa": "Institui o Programa Escola Cívica na Infância e dá outras providências.",
-      "data": "2026-08-17T15:32",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643916"
-    },
     {
       "id": 2644028,
       "tipo": "PL",
@@ -78,6 +69,15 @@
       "ementa": "Altera a Lei nº 8.036, de 11 de maio de 1990, para estabelecer critérios de territorialização e retorno local dos recursos do Fundo de Garantia do Tempo de Serviço – FGTS destinados a investimentos.",
       "data": "2026-09-11T11:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646368"
+    },
+    {
+      "id": 2646390,
+      "tipo": "PL",
+      "numero": 5359,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Proteção e Resiliência da Atividade Circense – Programa Circo Seguro, destinado à prevenção de danos, proteção securitária, recuperação e continuidade das atividades circenses atingidas por eventos climáticos extremos e desastres.",
+      "data": "2026-09-14T11:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646390"
     }
   ],
   "discursos": [],

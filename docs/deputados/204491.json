@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204491.jpg",
-  "score": 31.88,
-  "rank": 287,
-  "proposicoes": [],
+  "score": 33.54,
+  "rank": 216,
+  "proposicoes": [
+    {
+      "id": 2646451,
+      "tipo": "PL",
+      "numero": 5375,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o incentivo à garimpagem artesanal e de pequena escala no Médio Jequitinhonha e estabelece preferência a superficiários e cooperativas locais na obtenção de áreas para Permissão de Lavra Garimpeira.",
+      "data": "2026-09-15T11:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646451"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

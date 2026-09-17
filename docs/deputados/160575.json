@@ -4,9 +4,28 @@
   "partido": "PT",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160575.jpg",
-  "score": 43.59,
-  "rank": 27,
-  "proposicoes": [],
+  "score": 46.92,
+  "rank": 12,
+  "proposicoes": [
+    {
+      "id": 2646470,
+      "tipo": "PLP",
+      "numero": 258,
+      "ano": 2026,
+      "ementa": "Acrescenta o art. 1º-A à Lei Complementar nº 64, de 18 de maio de 1990, para tornar inelegíveis, como suplentes de Senador, o cônjuge, o companheiro e os parentes, até o segundo grau, do candidato ao Senado Federal.",
+      "data": "2026-09-16T11:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646470"
+    },
+    {
+      "id": 2646483,
+      "tipo": "PLP",
+      "numero": 259,
+      "ano": 2026,
+      "ementa": "Modifica a Lei Complementar nº 210, de 25 de novembro de 2024 para vincular a alocação das emendas parlamentares individuais ao processo decisório do Orçamento Participativo.",
+      "data": "2026-09-16T11:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646483"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-09-02T18:48",

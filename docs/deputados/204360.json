@@ -5,17 +5,8 @@
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
   "score": 38.16,
-  "rank": 80,
+  "rank": 65,
   "proposicoes": [
-    {
-      "id": 2643930,
-      "tipo": "SBT",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 14.811, de 12 de janeiro de 2024, para aperfeiçoar as diretrizes da Política Nacional de Prevenção e Combate ao Abuso e Exploração Sexual da Criança e do Adolescente.",
-      "data": "2026-08-17T20:26",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643930"
-    },
     {
       "id": 2644403,
       "tipo": "PL",
@@ -60,6 +51,24 @@
       "ementa": "Altera a Lei nº 5.540, de 28 de novembro de 1968, para tornar obrigatória a existência de laboratórios de prática das especialidades em todos os cursos de ensino superior público ou privado.",
       "data": "2026-09-03T11:18",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645678"
+    },
+    {
+      "id": 2646425,
+      "tipo": "PL",
+      "numero": 5370,
+      "ano": 2026,
+      "ementa": "Institui diretrizes nacionais para a atenção integral às pessoas com doenças respiratórias crônicas no âmbito do Sistema Único de Saúde (SUS).",
+      "data": "2026-09-14T16:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646425"
+    },
+    {
+      "id": 2646498,
+      "tipo": "PL",
+      "numero": 5384,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional do Método Canguru, destinada à promoção da atenção humanizada ao recém-nascido pré-termo ou de baixo peso, no âmbito do Sistema Único de Saúde (SUS).",
+      "data": "2026-09-16T13:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646498"
     }
   ],
   "discursos": [

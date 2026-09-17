@@ -4,9 +4,19 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204492.jpg",
-  "score": 34.62,
-  "rank": 174,
-  "proposicoes": [],
+  "score": 36.29,
+  "rank": 117,
+  "proposicoes": [
+    {
+      "id": 2646449,
+      "tipo": "PL",
+      "numero": 5374,
+      "ano": 2026,
+      "ementa": "Estabelece regras para a utilização de perfis, páginas, canais e contas de grande alcance nas redes sociais por pré-candidatos e candidatos durante o período eleitoral, e altera a Lei nº 9.504, de 30 de setembro de 1997 – Lei das Eleições.",
+      "data": "2026-09-15T10:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646449"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-09-02T11:40",

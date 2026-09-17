@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178933.jpg",
-  "score": 7.01,
-  "rank": 480,
+  "score": 8.12,
+  "rank": 476,
   "proposicoes": [
     {
       "id": 2644800,
@@ -24,6 +24,15 @@
       "ementa": "Inclui os membros da Defensoria Pública da União, dos Estados e do Distrito Federal",
       "data": "2026-09-11T10:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646366"
+    },
+    {
+      "id": 2646446,
+      "tipo": "PL",
+      "numero": 5373,
+      "ano": 2026,
+      "ementa": "Institui o Dia Nacional do Sericultor e dá outras providências.",
+      "data": "2026-09-15T09:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646446"
     }
   ],
   "discursos": [],

@@ -4,27 +4,9 @@
   "partido": "UNIÃO",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220530.jpg",
-  "score": 45.35,
-  "rank": 20,
+  "score": 45.62,
+  "rank": 14,
   "proposicoes": [
-    {
-      "id": 2643925,
-      "tipo": "PL",
-      "numero": 5095,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 - Estatuto da Pessoa com Deficiência, para vedar a exigência de comprovação de renda, patrimônio ou inscrição em benefícios e programas assistenciais para a expedição e renovação de credencial de estacionamento reservado à pessoa com deficiência.",
-      "data": "2026-08-17T17:49",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643925"
-    },
-    {
-      "id": 2643934,
-      "tipo": "PL",
-      "numero": 5097,
-      "ano": 2026,
-      "ementa": "Institui o Programa Nacional Antes do Sim, destinado à preparação para relações conjugais saudáveis e à prevenção da violência doméstica e familiar no âmbito de ações públicas de casamento coletivo ou comunitário e de iniciativas executadas em cooperação com a Justiça Itinerante; altera a Lei nº 11.340, de 7 de agosto de 2006; e dá outras providências.",
-      "data": "2026-08-17T18:42",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643934"
-    },
     {
       "id": 2644800,
       "tipo": "PEC",
@@ -51,6 +33,33 @@
       "ementa": "Autoriza as Unidades da Federação a legislar sobre a disponibilização em seus territórios de gasolina sem adição de etanol anidro e sobre gasolina com adição de dez porcento de etanol anidro.",
       "data": "2026-09-08T10:58",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646186"
+    },
+    {
+      "id": 2646404,
+      "tipo": "PL",
+      "numero": 5364,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.906, de 4 de julho de 1994, para dispor sobre a assistência prestada pelas Caixas de Assistência dos Advogados.",
+      "data": "2026-09-14T13:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646404"
+    },
+    {
+      "id": 2646405,
+      "tipo": "PL",
+      "numero": 5365,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a emissão de credenciais multilíngues para pessoas com deficiência e autoriza o Poder Executivo a celebrar instrumentos de cooperação internacional para reconhecimento recíproco de documentos brasileiros de acessibilidade.",
+      "data": "2026-09-14T13:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646405"
+    },
+    {
+      "id": 2646505,
+      "tipo": "PL",
+      "numero": 5385,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para estabelecer diretrizes de monitoramento, transparência ativa e controle de perdas e estoques de medicamentos, vacinas e insumos no âmbito do Sistema Único de Saúde (SUS).",
+      "data": "2026-09-16T15:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646505"
     }
   ],
   "discursos": [],
