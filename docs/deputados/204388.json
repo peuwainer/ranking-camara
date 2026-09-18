@@ -5,17 +5,8 @@
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
   "score": 39.38,
-  "rank": 52,
+  "rank": 50,
   "proposicoes": [
-    {
-      "id": 2643945,
-      "tipo": "PL",
-      "numero": 5102,
-      "ano": 2026,
-      "ementa": "Confere ao Município de Santo Antônio da Patrulha, no Estado do Rio Grande do Sul, o título de Capital Nacional do Sonho.",
-      "data": "2026-08-18T09:58",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643945"
-    },
     {
       "id": 2644800,
       "tipo": "PEC",
@@ -33,6 +24,15 @@
       "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para dispor sobre o ressarcimento instantâneo do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS), no mesmo prazo e na mesma sistemática em que ocorre o recolhimento dos tributos.",
       "data": "2026-09-03T10:39",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645664"
+    },
+    {
+      "id": 2646563,
+      "tipo": "PL",
+      "numero": 5393,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para vedar a utilização de wind banners e de peças autônomas móveis assemelhadas em vias públicas e nos demais espaços públicos urbanos e disciplinar a veiculação de propaganda eleitoral mediante painéis de publicidade exterior licenciados pelo poder público municipal ou distrital.",
+      "data": "2026-09-17T10:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646563"
     }
   ],
   "discursos": [],

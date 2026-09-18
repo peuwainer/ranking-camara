@@ -4,18 +4,9 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
-  "score": 52.5,
+  "score": 54.17,
   "rank": 4,
   "proposicoes": [
-    {
-      "id": 2643980,
-      "tipo": "PL",
-      "numero": 5115,
-      "ano": 2026,
-      "ementa": "Institui o regime de responsabilidade técnica na comunicação comercial de produtos e serviços de elevado risco à saúde, à integridade psíquica e às finanças dos consumidores e estabelece responsabilidades às plataformas na veiculação de publicidade.",
-      "data": "2026-08-18T15:01",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2643980"
-    },
     {
       "id": 2644549,
       "tipo": "PL",
@@ -141,6 +132,24 @@
       "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para dispor sobre os requisitos técnicos mínimos do equipamento e do sistema de monitoração eletrônica.",
       "data": "2026-09-14T16:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646423"
+    },
+    {
+      "id": 2646538,
+      "tipo": "PL",
+      "numero": 5390,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.224, de 30 de setembro de 2025, para instituir a Rede Brasileira de Bancos de Alimentos, e dá outras providências.",
+      "data": "2026-09-16T23:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646538"
+    },
+    {
+      "id": 2646646,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil) para dispor que o risco concreto à integridade física, psíquica ou emocional da criança ou adolescente deverá ser considerado na regulamentação da guarda e no estabelecimento do direito à visitação, inclusive em relação aos avós.",
+      "data": "2026-09-17T16:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646646"
     }
   ],
   "discursos": [],

@@ -4,9 +4,19 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204457.jpg",
-  "score": 31.88,
-  "rank": 288,
-  "proposicoes": [],
+  "score": 33.54,
+  "rank": 218,
+  "proposicoes": [
+    {
+      "id": 2646555,
+      "tipo": "PL",
+      "numero": 5392,
+      "ano": 2026,
+      "ementa": "Declara a cidade do Rio de Janeiro/RJ como a “Capital Nacional da Economia Solidária”.",
+      "data": "2026-09-17T10:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646555"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

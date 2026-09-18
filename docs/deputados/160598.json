@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160598.jpg",
-  "score": 45.0,
-  "rank": 18,
+  "score": 46.67,
+  "rank": 13,
   "proposicoes": [
     {
       "id": 2644208,
@@ -33,6 +33,15 @@
       "ementa": "Altera as Leis nº 8.213, de 24 de julho de 1991, e nº 9.876, de 26 de novembro de 1999, para garantir ao segurado do Regime Geral de Previdência Social o direito de optar pela inclusão, no cálculo do salário de benefício, das contribuições previdenciárias anteriores à competência de julho de 1994, quando mais vantajosa, e dispor sobre a revisão de benefícios previdenciários em manutenção.",
       "data": "2026-08-31T16:39",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644985"
+    },
+    {
+      "id": 2646661,
+      "tipo": "PL",
+      "numero": 5398,
+      "ano": 2026,
+      "ementa": "Estabelece o Piso Salarial do Administrador e dá outras providências.",
+      "data": "2026-09-17T18:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646661"
     }
   ],
   "discursos": [],
