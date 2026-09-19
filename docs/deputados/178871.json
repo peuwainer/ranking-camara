@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178871.jpg",
-  "score": 11.46,
-  "rank": 472,
+  "score": 18.12,
+  "rank": 418,
   "proposicoes": [
     {
       "id": 2644300,
@@ -24,6 +24,42 @@
       "ementa": "Acrescenta os art. 68-A no Ato das Disposições Constitucionais Transitórias para ratificar os registros de imóveis rurais em faixa de fronteira concedidos pelos estados antes da promulgação desta Constituição Federal e dá outras providências.",
       "data": "2026-08-28T15:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644800"
+    },
+    {
+      "id": 2646826,
+      "tipo": "PL",
+      "numero": 5404,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a isenção do Imposto sobre Produtos Industrializados (IPI) incidente na aquisição de veículos automotores destinados ao exercício das atividades de feirante e vendedor ambulante.",
+      "data": "2026-09-18T18:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646826"
+    },
+    {
+      "id": 2646827,
+      "tipo": "PL",
+      "numero": 5405,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.678, de 8 de novembro de 1988, para ampliar os canais de comercialização do vinho produzido por agricultor familiar ou empreendedor familiar rural.",
+      "data": "2026-09-18T18:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646827"
+    },
+    {
+      "id": 2646828,
+      "tipo": "PL",
+      "numero": 5406,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para dispor sobre medidas que aprimorem a efetividade das políticas públicas já existentes, no que se refere ao combate à violência doméstica e familiar contra a mulher.",
+      "data": "2026-09-18T18:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646828"
+    },
+    {
+      "id": 2646829,
+      "tipo": "PL",
+      "numero": 5407,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Micromobilidade Elétrica.",
+      "data": "2026-09-18T18:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646829"
     }
   ],
   "discursos": [],
