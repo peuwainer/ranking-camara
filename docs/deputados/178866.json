@@ -4,9 +4,19 @@
   "partido": "REDE",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178866.jpg",
-  "score": 32.5,
-  "rank": 268,
-  "proposicoes": [],
+  "score": 34.25,
+  "rank": 191,
+  "proposicoes": [
+    {
+      "id": 2646835,
+      "tipo": "PL",
+      "numero": 5409,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Incentivo à Modernização de Zoológicos e Aquários e à Transição para Santuários e Centros de Conservação da Fauna (Programa Santuário Verde), disciplina o Selo Nacional de Bem-Estar Animal e Proteção da Fauna, estabelece diretrizes para a visitação pública consciente e dá outras providências.",
+      "data": "2026-09-19T23:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646835"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204353.jpg",
-  "score": 2.38,
-  "rank": 499,
+  "score": 7.62,
+  "rank": 478,
   "proposicoes": [
     {
       "id": 2645408,
@@ -15,6 +15,33 @@
       "ementa": "Institui o Programa Nacional SPA – Saúde Mental e Bem-Estar, estabelece diretrizes para a promoção da saúde mental e a prevenção do sofrimento psíquico no âmbito do Sistema Único de Saúde – SUS, e dá outras providências.",
       "data": "2026-09-01T20:44",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645408"
+    },
+    {
+      "id": 2646836,
+      "tipo": "PL",
+      "numero": 5410,
+      "ano": 2026,
+      "ementa": "Institui o Programa Mandioca Viva, destinado ao apoio emergencial, à proteção de renda e à recuperação produtiva de agricultores e comunidades atingidos por emergência fitossanitária da cultura da mandioca.",
+      "data": "2026-09-21T08:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646836"
+    },
+    {
+      "id": 2646838,
+      "tipo": "PL",
+      "numero": 5412,
+      "ano": 2026,
+      "ementa": "Institui o Programa Reconstruir Lar, destinado a apoiar famílias de baixa renda em situação de vulnerabilidade habitacional na realização de reformas, melhorias e adaptações essenciais em suas moradias.",
+      "data": "2026-09-21T09:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646838"
+    },
+    {
+      "id": 2646839,
+      "tipo": "PL",
+      "numero": 5413,
+      "ano": 2026,
+      "ementa": "Institui o Programa Auxílio-Creche Primeira Infância, destinado a assegurar apoio temporário às famílias de baixa renda que não tenham acesso a vaga na rede pública de educação infantil, e dá outras providências.",
+      "data": "2026-09-21T09:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646839"
     }
   ],
   "discursos": [],

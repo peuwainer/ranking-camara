@@ -4,9 +4,19 @@
   "partido": "PCdoB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74848.jpg",
-  "score": 45.43,
-  "rank": 15,
-  "proposicoes": [],
+  "score": 47.18,
+  "rank": 11,
+  "proposicoes": [
+    {
+      "id": 2646837,
+      "tipo": "PL",
+      "numero": 5411,
+      "ano": 2026,
+      "ementa": "Dispõe sobre as empresas de contratação e colocação de gente do mar, sobre o emprego da gente do mar brasileira em embarcações de bandeira estrangeira autorizadas a operar em águas jurisdicionais brasileiras, sobre o direito ao desembarque ou à repatriação e dá outras providências.",
+      "data": "2026-09-21T09:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646837"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-09-02T18:12",

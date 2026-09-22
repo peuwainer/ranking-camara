@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220697.jpg",
-  "score": 37.25,
-  "rank": 90,
+  "score": 39.0,
+  "rank": 59,
   "proposicoes": [
     {
       "id": 2645912,
@@ -24,6 +24,15 @@
       "ementa": "Institui a Lei Sinal de Risco, sobre a comunicação emergencial de situações de risco concreto e grave à vida ou à integridade física identificadas no âmbito de serviços digitais.",
       "data": "2026-09-10T13:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646330"
+    },
+    {
+      "id": 2646879,
+      "tipo": "PL",
+      "numero": 5429,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.294, de 15 de julho de 1996, para disciplinar a comunicação mercadológica dos produtos que especifica, inclusive em meios digitais, estabelecer deveres de prevenção e de conservação de registros e aperfeiçoar sua fiscalização.",
+      "data": "2026-09-21T16:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646879"
     }
   ],
   "discursos": [],

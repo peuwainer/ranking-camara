@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220618.jpg",
-  "score": 37.25,
-  "rank": 94,
+  "score": 39.0,
+  "rank": 60,
   "proposicoes": [
     {
       "id": 2644913,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 8.313, de 23 de dezembro de 1991, para incluir a preservação, a recuperação, a restauração e a utilização cultural de Coretos entre os objetivos dos projetos culturais apoiados pelo Programa Nacional de Apoio à Cultura (Pronac).",
       "data": "2026-09-14T11:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646392"
+    },
+    {
+      "id": 2646876,
+      "tipo": "PL",
+      "numero": 5425,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.751, de 12 de dezembro de 2023, para dispor sobre a avaliação multiprofissional da capacidade funcional prévia aos processos de reforma ou inativação por incapacidade de militares dos Estados, do Distrito Federal e dos Territórios.",
+      "data": "2026-09-21T15:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646876"
     }
   ],
   "discursos": [],

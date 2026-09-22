@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74374.jpg",
-  "score": 45.12,
-  "rank": 17,
+  "score": 48.62,
+  "rank": 9,
   "proposicoes": [
     {
       "id": 2644585,
@@ -42,6 +42,24 @@
       "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, para dispor sobre a garantia de transparência e acesso à informação acerca da oferta de serviços terapêuticos destinados às pessoas com transtorno do espectro autista (TEA), no âmbito do Sistema Único de Saúde (SUS).",
       "data": "2026-09-16T12:39",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646493"
+    },
+    {
+      "id": 2646833,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Nacional de Atenção Terapêutica Complementar para Crianças e Adolescentes com Transtornos do Neurodesenvolvimento no âmbito do Sistema Único de Saúde – SUS.",
+      "data": "2026-09-21T08:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646833"
+    },
+    {
+      "id": 2646840,
+      "tipo": "PL",
+      "numero": 5415,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para estabelecer limites prudenciais obrigatórios para as apostas realizadas nas plataformas de apostas de quota fixa (bets) e restringir o uso de sistemas de jogos que possam estimular comportamentos de risco.",
+      "data": "2026-09-21T10:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646840"
     }
   ],
   "discursos": [],

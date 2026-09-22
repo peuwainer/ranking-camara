@@ -4,9 +4,37 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/221329.jpg",
-  "score": 35.0,
-  "rank": 154,
-  "proposicoes": [],
+  "score": 40.25,
+  "rank": 41,
+  "proposicoes": [
+    {
+      "id": 2646868,
+      "tipo": "PL",
+      "numero": 5419,
+      "ano": 2026,
+      "ementa": "Institui a Lei Voo Íntegro, que estabelece mecanismos de autenticação reforçada, segurança, rastreabilidade e restauração de bilhetes e reservas de transporte aéreo; disciplina a compensação financeira automática e o ressarcimento de despesas nos casos de cancelamento ou alteração não autorizada da reserva e de cancelamento de voo imputável ao transportador; assegura proteção aos passageiros em voos domésticos e internacionais; e altera a Lei nº 7.565, de 19 de dezembro de 1986.",
+      "data": "2026-09-21T13:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646868"
+    },
+    {
+      "id": 2646869,
+      "tipo": "PL",
+      "numero": 5420,
+      "ano": 2026,
+      "ementa": "Confere ao Município de Cabo Frio, no Estado do Rio de Janeiro, o título de Capital Nacional da Canoa Havaiana.",
+      "data": "2026-09-21T13:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646869"
+    },
+    {
+      "id": 2646870,
+      "tipo": "PL",
+      "numero": 5421,
+      "ano": 2026,
+      "ementa": "Institui a Lei de Acesso Seguro ao Canabidiol no SUS e altera a Lei nº 8.080, de 19 de setembro de 1990, para estabelecer critérios de acesso, incorporação, dispensação e monitoramento de medicamentos e produtos de Cannabis para uso medicinal humano à base de canabidiol no Sistema Único de Saúde (SUS), com prioridade de avaliação para condições clínicas graves, degenerativas, neurológicas, raras ou refratárias e proteção especial a crianças e adolescentes.",
+      "data": "2026-09-21T13:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646870"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

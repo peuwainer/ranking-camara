@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/235800.jpg",
-  "score": 34.25,
-  "rank": 187,
+  "score": 37.75,
+  "rank": 82,
   "proposicoes": [
     {
       "id": 2644889,
@@ -15,6 +15,24 @@
       "ementa": "Altera a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, para assegurar aos empregados em serviços de portaria, controle de acesso e zeladoria o direito a seguro de vida em grupo, capacitação profissional custeada pelo empregador, assistência jurídica por ato praticado em serviço e condições adequadas no posto de trabalho.",
       "data": "2026-08-31T11:40",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644889"
+    },
+    {
+      "id": 2646863,
+      "tipo": "PL",
+      "numero": 5417,
+      "ano": 2026,
+      "ementa": "Assegura prioridade na matrícula em creche, pré-escola e em escola de tempo integral das redes públicas de ensino aos filhos e dependentes de mulheres em situação de violência doméstica e familiar.",
+      "data": "2026-09-21T13:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646863"
+    },
+    {
+      "id": 2646865,
+      "tipo": "PL",
+      "numero": 5418,
+      "ano": 2026,
+      "ementa": "Assegura às mulheres em situação de violência doméstica e familiar prioridade de acesso às ações de qualificação profissional e de intermediação de mão de obra do Sistema Nacional de Emprego.",
+      "data": "2026-09-21T13:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646865"
     }
   ],
   "discursos": [],
