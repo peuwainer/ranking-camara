@@ -4,9 +4,19 @@
   "partido": "PP",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204450.jpg",
-  "score": 3.61,
-  "rank": 497,
-  "proposicoes": [],
+  "score": 5.21,
+  "rank": 485,
+  "proposicoes": [
+    {
+      "id": 2646889,
+      "tipo": "PL",
+      "numero": 5431,
+      "ano": 2026,
+      "ementa": "Regulamenta a profissão de Cuidador de Pessoa Idosa.",
+      "data": "2026-09-22T10:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646889"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-09-02T11:36",

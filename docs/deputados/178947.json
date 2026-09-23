@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178947.jpg",
-  "score": 23.25,
-  "rank": 351,
+  "score": 24.2,
+  "rank": 343,
   "proposicoes": [
     {
       "id": 2644545,
@@ -42,6 +42,15 @@
       "ementa": "Dispõe sobre regras relativas a    benefícios tributários e despesas obrigatórias no exercício de 2026.",
       "data": "2026-09-03T16:57",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645912"
+    },
+    {
+      "id": 2646921,
+      "tipo": "PL",
+      "numero": 5440,
+      "ano": 2026,
+      "ementa": "Acrescenta artigo à Lei nº 7.565, de 19 de dezembro de 1986, que dispõe sobre o Código Brasileiro de Aeronáutica, para exigir a instalação de Gravador de Voz da Cabine (Cockpit Voice Recorder - CVR) e Gravador de Dados de Voo (Flight Data Recorder - FDR), equipamento de comunicação por Datalink com o controle de tráfego aéreo, quando a aeronave tiver sofrido grandes modificações aviônicas, e gerador de impulsos acústicos acionado automaticamente em contato com a água para localização subaquática (Underwater Locator Beacon - ULB).",
+      "data": "2026-09-22T16:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646921"
     }
   ],
   "discursos": [],

@@ -4,9 +4,19 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220665.jpg",
-  "score": 33.75,
-  "rank": 199,
-  "proposicoes": [],
+  "score": 35.34,
+  "rank": 141,
+  "proposicoes": [
+    {
+      "id": 2646915,
+      "tipo": "PL",
+      "numero": 5436,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para coibir práticas de maus-tratos contra animais vivos destinados à comercialização.",
+      "data": "2026-09-22T14:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646915"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

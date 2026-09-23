@@ -4,9 +4,19 @@
   "partido": "PSD",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220585.jpg",
-  "score": 18.12,
-  "rank": 420,
-  "proposicoes": [],
+  "score": 19.72,
+  "rank": 395,
+  "proposicoes": [
+    {
+      "id": 2646901,
+      "tipo": "PL",
+      "numero": 5434,
+      "ano": 2026,
+      "ementa": "Reconhece a profissão de bugueiro turístico, dispõe sobre as condições de seu exercício e sobre as relações de trabalho dela decorrentes, e altera a Lei nº 11.771, de 17 de setembro de 2008, para incluir o bugueiro turístico entre os profissionais de turismo.",
+      "data": "2026-09-22T11:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646901"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
