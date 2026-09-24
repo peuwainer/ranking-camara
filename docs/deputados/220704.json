@@ -4,9 +4,19 @@
   "partido": "PT",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220704.jpg",
-  "score": 35.62,
-  "rank": 136,
-  "proposicoes": [],
+  "score": 37.15,
+  "rank": 83,
+  "proposicoes": [
+    {
+      "id": 2646939,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a vedação de homenagens públicas a pessoas condenadas por crimes violentos contra a mulher e estabelece diretrizes para revisão de denominações e honrarias incompatíveis com esta Lei.",
+      "data": "2026-09-23T10:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646939"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

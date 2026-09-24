@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
-  "score": 41.36,
-  "rank": 33,
+  "score": 41.09,
+  "rank": 31,
   "proposicoes": [
-    {
-      "id": 2644389,
-      "tipo": "PL",
-      "numero": 5159,
-      "ano": 2026,
-      "ementa": "Concede ao Município de Brodowski, no Estado de São Paulo, o título de Capital Nacional de Cândido Portinari.",
-      "data": "2026-08-24T15:28",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644389"
-    },
     {
       "id": 2644614,
       "tipo": "PL",
@@ -42,6 +33,15 @@
       "ementa": "Institui o Programa Nacional de Proteção e Resiliência da Atividade Circense – Programa Circo Seguro, destinado à prevenção de danos, proteção securitária, recuperação e continuidade das atividades circenses atingidas por eventos climáticos extremos e desastres.",
       "data": "2026-09-14T11:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646390"
+    },
+    {
+      "id": 2646963,
+      "tipo": "PL",
+      "numero": 5452,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.587, de 3 de janeiro de 2012, que institui as diretrizes da Política Nacional de Mobilidade Urbana, para dispor sobre o serviço de transporte público coletivo de proximidade entre municípios vizinhos.",
+      "data": "2026-09-23T17:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646963"
     }
   ],
   "discursos": [],

@@ -4,9 +4,19 @@
   "partido": "PT",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204495.jpg",
-  "score": 33.75,
-  "rank": 198,
-  "proposicoes": [],
+  "score": 35.27,
+  "rank": 138,
+  "proposicoes": [
+    {
+      "id": 2646935,
+      "tipo": "PL",
+      "numero": 5443,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes para ações de promoção da saúde visual e de ampliação do acesso à correção óptica no âmbito do Sistema Único de Saúde (SUS).",
+      "data": "2026-09-23T09:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646935"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

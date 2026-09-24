@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74057.jpg",
-  "score": 42.42,
-  "rank": 30,
+  "score": 43.8,
+  "rank": 20,
   "proposicoes": [
     {
       "id": 2645168,
@@ -24,6 +24,15 @@
       "ementa": "Altera dispositivos da Lei nº 8.159, de 8 de janeiro de 1991, que dispõe sobre a Política Nacional de Arquivos públicos e privados e dá outras providências.",
       "data": "2026-09-08T15:47",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646229"
+    },
+    {
+      "id": 2646961,
+      "tipo": "PL",
+      "numero": 5451,
+      "ano": 2026,
+      "ementa": "Autoriza a criação do Instituto Nacional de Supervisão e Avaliação da Educação Superior – INSAES.",
+      "data": "2026-09-23T16:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646961"
     }
   ],
   "discursos": [

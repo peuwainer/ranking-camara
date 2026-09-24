@@ -4,9 +4,28 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160640.jpg",
-  "score": 32.5,
-  "rank": 264,
-  "proposicoes": [],
+  "score": 35.54,
+  "rank": 135,
+  "proposicoes": [
+    {
+      "id": 2646940,
+      "tipo": "PL",
+      "numero": 5445,
+      "ano": 2026,
+      "ementa": "Cria o Fundo Nacional de Amparo às Famílias de Agentes de Segurança Pública Vitimados em Serviço (FAFAM-SEG), estabelece diretrizes gerais para a instituição de benefício assistencial prioritário a seus dependentes no âmbito dos entes federativos que a ele aderirem, e dá outras providências.",
+      "data": "2026-09-23T11:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646940"
+    },
+    {
+      "id": 2646941,
+      "tipo": "PL",
+      "numero": 5446,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a vedação da concessão de incentivos fiscais, subvenções, auxílios e recursos orçamentários federais a projetos, eventos e iniciativas que configurem, em concreto, apologia ao consumo de substâncias ilícitas, ao crime organizado, ou vilipêndio a objeto de culto religioso, nos termos da legislação penal vigente, e dá outras providências.",
+      "data": "2026-09-23T11:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646941"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

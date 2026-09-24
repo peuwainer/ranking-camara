@@ -4,8 +4,8 @@
   "partido": "PV",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220533.jpg",
-  "score": 19.72,
-  "rank": 396,
+  "score": 21.17,
+  "rank": 369,
   "proposicoes": [
     {
       "id": 2645036,
@@ -15,6 +15,15 @@
       "ementa": "Institui a Política Nacional de Internacionalização da Educação Pública e cria o Programa Nacional Ganhe o Mundo.",
       "data": "2026-08-31T19:47",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645036"
+    },
+    {
+      "id": 2646952,
+      "tipo": "PLP",
+      "numero": 261,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei das Inelegibilidades), para dispor sobre a inelegibilidade do cônjuge e dos parentes do titular da chapa ao Senado.",
+      "data": "2026-09-23T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646952"
     }
   ],
   "discursos": [],

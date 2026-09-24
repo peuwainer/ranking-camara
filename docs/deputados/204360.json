@@ -4,18 +4,9 @@
   "partido": "PP",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
-  "score": 39.22,
-  "rank": 50,
+  "score": 38.67,
+  "rank": 55,
   "proposicoes": [
-    {
-      "id": 2644403,
-      "tipo": "PL",
-      "numero": 5163,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para instituir a divulgação periódica de indicadores nacionais de cobertura vacinal e de desempenho da gestão da imunização.",
-      "data": "2026-08-24T16:40",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644403"
-    },
     {
       "id": 2644746,
       "tipo": "PL",
@@ -78,6 +69,15 @@
       "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, para estabelecer prazo para decisão dos pedidos administrativos de revisão de benefícios previdenciários.",
       "data": "2026-09-22T15:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646914"
+    },
+    {
+      "id": 2646967,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei n. 14.790, de 29 de dezembro de 2023, para estabelecer que agentes operadores de apostas e instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil sejam obrigados a implementar mecanismos de proteção a apostadores, e dá outras providências.",
+      "data": "2026-09-23T21:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646967"
     }
   ],
   "discursos": [
