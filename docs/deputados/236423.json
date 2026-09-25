@@ -4,9 +4,73 @@
   "partido": "REPUBLICANOS",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236423.jpg",
-  "score": 16.88,
-  "rank": 455,
-  "proposicoes": [],
+  "score": 27.08,
+  "rank": 326,
+  "proposicoes": [
+    {
+      "id": 2646974,
+      "tipo": "PL",
+      "numero": 5457,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.790, de 29 de dezembro de 2023, para assegurar informação sobre cuidado em saúde, confirmação da autoexclusão centralizada e proteção dos dados das pessoas que solicitam a interrupção do acesso a apostas de quota fixa.",
+      "data": "2026-09-24T10:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646974"
+    },
+    {
+      "id": 2646975,
+      "tipo": "PL",
+      "numero": 5458,
+      "ano": 2026,
+      "ementa": "Institui o Passaporte Educacional de Emergência e estabelece medidas para assegurar matrícula, documentação e continuidade da aprendizagem de estudantes atingidos por emergência ou calamidade pública.",
+      "data": "2026-09-24T10:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646975"
+    },
+    {
+      "id": 2646976,
+      "tipo": "PL",
+      "numero": 5459,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.597, de 14 de junho de 2023, para estabelecer medidas de proteção de crianças e adolescentes em casos de suspeita de concussão relacionada à prática esportiva.",
+      "data": "2026-09-24T10:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646976"
+    },
+    {
+      "id": 2646978,
+      "tipo": "PL",
+      "numero": 5460,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o direito do paciente a plano de alta hospitalar segura, compreensível e acessível.",
+      "data": "2026-09-24T11:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646978"
+    },
+    {
+      "id": 2646979,
+      "tipo": "PL",
+      "numero": 5461,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a comunicação ativa de resultados críticos de exames e procedimentos diagnósticos e estabelece garantias de informação e segurança ao paciente.",
+      "data": "2026-09-24T11:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646979"
+    },
+    {
+      "id": 2646981,
+      "tipo": "PL",
+      "numero": 5462,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes nacionais para a proteção da comunidade escolar e a continuidade das atividades educacionais durante eventos climáticos extremos.",
+      "data": "2026-09-24T11:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646981"
+    },
+    {
+      "id": 2646984,
+      "tipo": "PL",
+      "numero": 5464,
+      "ano": 2026,
+      "ementa": "Institui a Rede Nacional de Reaproveitamento de Materiais Esportivos e estabelece diretrizes para doação, recuperação e destinação social de equipamentos em condições de uso.",
+      "data": "2026-09-24T11:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646984"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

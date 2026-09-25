@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204472.jpg",
-  "score": 25.73,
-  "rank": 331,
+  "score": 25.42,
+  "rank": 334,
   "proposicoes": [
-    {
-      "id": 2644550,
-      "tipo": "PL",
-      "numero": 5173,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 – Lei de Execução Penal, para fortalecer a reparação dos danos causados às vítimas de crimes patrimoniais praticados contra produtores rurais e estabelecer mecanismos de destinação prioritária da remuneração do trabalho prisional ao ressarcimento dos prejuízos decorrentes do crime.",
-      "data": "2026-08-25T17:26",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644550"
-    },
     {
       "id": 2644800,
       "tipo": "PEC",
@@ -51,6 +42,15 @@
       "ementa": "Institui a modalidade de Microgeração Solar Residencial Simplificada, estabelece regras para sistemas fotovoltaicos plugáveis de baixa potência destinados ao atendimento de unidades consumidoras residenciais, simplifica os procedimentos de conexão e registro, estabelece requisitos de segurança, qualidade e certificação dos equipamentos e dá outras providências.",
       "data": "2026-09-15T12:14",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646458"
+    },
+    {
+      "id": 2646985,
+      "tipo": "PL",
+      "numero": 5465,
+      "ano": 2026,
+      "ementa": "Institui o Regime Especial de Garantia de Continuidade da Atividade Rural em Recuperação Judicial, estabelece proteção temporária aos ativos agrícolas essenciais e à produção em curso contra atos constritivos capazes de comprometer o ciclo produtivo e altera a Lei nº 11.101, de 9 de fevereiro de 2005.",
+      "data": "2026-09-24T13:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646985"
     }
   ],
   "discursos": [],

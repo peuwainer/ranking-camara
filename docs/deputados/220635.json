@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220635.jpg",
-  "score": 33.4,
-  "rank": 216,
+  "score": 34.79,
+  "rank": 155,
   "proposicoes": [
     {
       "id": 2646413,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para explicitar que a natureza integralmente sintética do material de violência sexual contra criança ou adolescente, gerado por inteligência artificial, não afasta a tipicidade penal, para tipificar a criação de representações integralmente sintéticas e para incluir o crime de simulação entre os crimes hediondos.",
       "data": "2026-09-14T14:45",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646413"
+    },
+    {
+      "id": 2646983,
+      "tipo": "PL",
+      "numero": 5463,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.472, de 16 de julho de 1997 (Lei Geral de Telecomunicações), para determinar que, para fins de chamadas de emergência, todas as antenas e demais infraestruturas de telecomunicações, de todas as operadoras, fiquem disponíveis para o compartilhamento de um código de acesso telefônico único, gratuito e nacional, para a comunicação a todos os serviços públicos de emergência.",
+      "data": "2026-09-24T11:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646983"
     }
   ],
   "discursos": [],
