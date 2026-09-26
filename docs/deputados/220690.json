@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 32.71,
-  "rank": 253,
+  "score": 37.08,
+  "rank": 81,
   "proposicoes": [
     {
       "id": 2644800,
@@ -69,6 +69,33 @@
       "ementa": "Dispõe sobre o porte de arma de fogo para possuidores de ativos virtuais sob risco de coação física.",
       "data": "2026-09-04T09:36",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645985"
+    },
+    {
+      "id": 2647135,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.756, de 12 de dezembro de 2018, para incluir entre as finalidades do Fundo Nacional de Segurança Pública a indenização de vítimas da criminalidade e de profissionais de segurança pública vitimados em serviço.",
+      "data": "2026-09-25T10:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647135"
+    },
+    {
+      "id": 2647146,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), e o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para dispor sobre o ressarcimento, pelo monitorado, dos custos da monitoração eletrônica, e dá outras providências.",
+      "data": "2026-09-25T16:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647146"
+    },
+    {
+      "id": 2647148,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990, para instituir o Regime de Urgência Investigativa em crimes hediondos, autorizar medidas cautelares excepcionais em situações de risco iminente e dar outras providências.",
+      "data": "2026-09-25T17:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647148"
     }
   ],
   "discursos": [],

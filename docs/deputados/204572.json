@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204572.jpg",
-  "score": 37.08,
-  "rank": 81,
+  "score": 38.54,
+  "rank": 56,
   "proposicoes": [
     {
       "id": 2644881,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 15.476, de 23 de julho de 2026, para explicitar ações de atenção à saúde da pessoa idosa entre as iniciativas consideradas para a concessão do título Cidade Amiga do Idoso.",
       "data": "2026-08-31T10:56",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644881"
+    },
+    {
+      "id": 2647149,
+      "tipo": "PL",
+      "numero": 5475,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para especificar ações de telessaúde na assistência às pessoas com doenças raras.",
+      "data": "2026-09-25T17:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647149"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204526.jpg",
-  "score": 35.62,
-  "rank": 133,
+  "score": 37.08,
+  "rank": 85,
   "proposicoes": [
     {
       "id": 2644800,
@@ -33,6 +33,15 @@
       "ementa": "Dispõe sobre a autorização para uso compassivo de medicamentos ainda não registrados no país e estabelece prazo para decisão da Agência Nacional de Vigilância Sanitária – Anvisa.",
       "data": "2026-09-02T17:17",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2645610"
+    },
+    {
+      "id": 2647153,
+      "tipo": "PL",
+      "numero": 5476,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para disciplinar a concessão de tutela provisória e de decisões judiciais que suspendam a eficácia de leis e de atos normativos de efeito geral.",
+      "data": "2026-09-25T18:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647153"
     }
   ],
   "discursos": [],
