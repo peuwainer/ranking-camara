@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141450.jpg",
-  "score": 43.86,
-  "rank": 13,
+  "score": 45.38,
+  "rank": 9,
   "proposicoes": [
     {
       "id": 2644930,
@@ -51,6 +51,15 @@
       "ementa": "Alterem-se o art. 13, a ementa do Capítulo VIII, os arts. 15, 16 e 17, e insiram-se os Capítulos IX e X e os arts. 18 e 19 do Projeto de Lei nº 2650/2026",
       "data": "2026-08-31T13:10",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2644935"
+    },
+    {
+      "id": 2647162,
+      "tipo": "PL",
+      "numero": 5478,
+      "ano": 2026,
+      "ementa": "Denomina “Viaduto Nivaldo Nilton Thedim” o viaduto localizado no Km 80 da BR-116, entroncamento com a RJ-130, no bairro Prata, Município de Teresópolis, Estado do Rio de Janeiro.",
+      "data": "2026-09-28T09:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647162"
     }
   ],
   "discursos": [],

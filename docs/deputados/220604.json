@@ -4,9 +4,28 @@
   "partido": "PDT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg",
-  "score": 38.12,
-  "rank": 50,
-  "proposicoes": [],
+  "score": 41.17,
+  "rank": 25,
+  "proposicoes": [
+    {
+      "id": 2647164,
+      "tipo": "PL",
+      "numero": 5479,
+      "ano": 2026,
+      "ementa": "Institui a Lei Nacional de Valorização das Guardas Municipais e do Piso Nacional da Segurança Municipal, estabelece o Piso Nacional de Referência dos profissionais das Guardas Municipais no valor de R$ 7.000,00, dispõe sobre mecanismos de cofinanciamento federal, valorização profissional, estruturação de carreiras, formação e proteção institucional, disciplina o emprego complementar da denominação funcional Polícia Municipal e altera a Lei nº 13.022, de 8 de agosto de 2014, e a Lei nº 13.675, de 11 de junho de 2018.",
+      "data": "2026-09-28T12:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647164"
+    },
+    {
+      "id": 2647168,
+      "tipo": "PL",
+      "numero": 5480,
+      "ano": 2026,
+      "ementa": "Estabelece normas gerais para assegurar, no âmbito do Sistema Único de Saúde (SUS), o acesso oportuno da pessoa com suspeita clínica fundamentada de doença rara à primeira avaliação especializada, com prioridade nas situações de maior risco ou de janela diagnóstica ou terapêutica crítica, e dispõe sobre a continuidade do fluxo assistencial, a regulação do acesso, a navegação do cuidado e o monitoramento dos tempos de espera.",
+      "data": "2026-09-28T12:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647168"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

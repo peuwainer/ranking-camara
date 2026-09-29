@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-28T13:27:25.095359+00:00",
+  "atualizado_em": "2026-09-29T12:37:37.907495+00:00",
   "legislatura": 57,
   "deputados": [
     {
@@ -81,19 +81,6 @@
       "orgaos": 8
     },
     {
-      "id": 220543,
-      "nome": "RICARDO AYRES DE CARVALHO",
-      "nome_urna": "Ricardo Ayres",
-      "partido": "REPUBLICANOS",
-      "uf": "TO",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220543.jpg",
-      "score": 46.82,
-      "proposicoes": 9,
-      "presenca_votacoes": 100.0,
-      "discursos": 0,
-      "orgaos": 5
-    },
-    {
       "id": 160575,
       "nome": "ÉRIKA JUCÁ KOKAY",
       "nome_urna": "Erika Kokay",
@@ -118,6 +105,45 @@
       "presenca_votacoes": 100.0,
       "discursos": 0,
       "orgaos": 16
+    },
+    {
+      "id": 141450,
+      "nome": "HUGO LEAL MELO DA SILVA",
+      "nome_urna": "Hugo Leal",
+      "partido": "PSD",
+      "uf": "RJ",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141450.jpg",
+      "score": 45.38,
+      "proposicoes": 6,
+      "presenca_votacoes": 100.0,
+      "discursos": 0,
+      "orgaos": 10
+    },
+    {
+      "id": 74171,
+      "nome": "FRANCISCO RODRIGUES DE ALENCAR FILHO",
+      "nome_urna": "Chico Alencar",
+      "partido": "PSOL",
+      "uf": "RJ",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74171.jpg",
+      "score": 45.35,
+      "proposicoes": 2,
+      "presenca_votacoes": 100.0,
+      "discursos": 12,
+      "orgaos": 3
+    },
+    {
+      "id": 220543,
+      "nome": "RICARDO AYRES DE CARVALHO",
+      "nome_urna": "Ricardo Ayres",
+      "partido": "REPUBLICANOS",
+      "uf": "TO",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220543.jpg",
+      "score": 45.3,
+      "proposicoes": 8,
+      "presenca_votacoes": 100.0,
+      "discursos": 0,
+      "orgaos": 5
     },
     {
       "id": 154700,
@@ -157,32 +183,6 @@
       "presenca_votacoes": 100.0,
       "discursos": 12,
       "orgaos": 6
-    },
-    {
-      "id": 141450,
-      "nome": "HUGO LEAL MELO DA SILVA",
-      "nome_urna": "Hugo Leal",
-      "partido": "PSD",
-      "uf": "RJ",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141450.jpg",
-      "score": 43.86,
-      "proposicoes": 5,
-      "presenca_votacoes": 100.0,
-      "discursos": 0,
-      "orgaos": 10
-    },
-    {
-      "id": 74171,
-      "nome": "FRANCISCO RODRIGUES DE ALENCAR FILHO",
-      "nome_urna": "Chico Alencar",
-      "partido": "PSOL",
-      "uf": "RJ",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74171.jpg",
-      "score": 43.83,
-      "proposicoes": 1,
-      "presenca_votacoes": 100.0,
-      "discursos": 12,
-      "orgaos": 3
     },
     {
       "id": 74057,
@@ -315,6 +315,19 @@
       "orgaos": 4
     },
     {
+      "id": 220604,
+      "nome": "MARCOS PAULO BARBOSA TAVARES",
+      "nome_urna": "Marcos Tavares",
+      "partido": "PDT",
+      "uf": "RJ",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg",
+      "score": 41.17,
+      "proposicoes": 2,
+      "presenca_votacoes": 100.0,
+      "discursos": 0,
+      "orgaos": 13
+    },
+    {
       "id": 156190,
       "nome": "MARCEL VAN HATTEM",
       "nome_urna": "Marcel van Hattem",
@@ -326,6 +339,19 @@
       "presenca_votacoes": 100.0,
       "discursos": 3,
       "orgaos": 11
+    },
+    {
+      "id": 204427,
+      "nome": "FERNANDO RODOLFO TENORIO DE VASCONCELOS",
+      "nome_urna": "Fernando Rodolfo",
+      "partido": "PRD",
+      "uf": "PE",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204427.jpg",
+      "score": 40.46,
+      "proposicoes": 4,
+      "presenca_votacoes": 100.0,
+      "discursos": 0,
+      "orgaos": 7
     },
     {
       "id": 220559,
@@ -497,19 +523,6 @@
       "orgaos": 5
     },
     {
-      "id": 204427,
-      "nome": "FERNANDO RODOLFO TENORIO DE VASCONCELOS",
-      "nome_urna": "Fernando Rodolfo",
-      "partido": "PRD",
-      "uf": "PE",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204427.jpg",
-      "score": 38.94,
-      "proposicoes": 3,
-      "presenca_votacoes": 100.0,
-      "discursos": 0,
-      "orgaos": 7
-    },
-    {
       "id": 220549,
       "nome": "ANY MACHADO ORTIZ",
       "nome_urna": "Any Ortiz",
@@ -638,19 +651,6 @@
       "presenca_votacoes": 100.0,
       "discursos": 4,
       "orgaos": 5
-    },
-    {
-      "id": 220604,
-      "nome": "MARCOS PAULO BARBOSA TAVARES",
-      "nome_urna": "Marcos Tavares",
-      "partido": "PDT",
-      "uf": "RJ",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg",
-      "score": 38.12,
-      "proposicoes": 0,
-      "presenca_votacoes": 100.0,
-      "discursos": 0,
-      "orgaos": 13
     },
     {
       "id": 220682,
@@ -807,6 +807,19 @@
       "presenca_votacoes": 100.0,
       "discursos": 0,
       "orgaos": 7
+    },
+    {
+      "id": 204480,
+      "nome": "ROGÉRIO CORREIA DE MOURA BAPTISTA",
+      "nome_urna": "Rogério Correia",
+      "partido": "PT",
+      "uf": "MG",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204480.jpg",
+      "score": 37.28,
+      "proposicoes": 2,
+      "presenca_votacoes": 100.0,
+      "discursos": 2,
+      "orgaos": 4
     },
     {
       "id": 220704,
@@ -1379,19 +1392,6 @@
       "presenca_votacoes": 100.0,
       "discursos": 1,
       "orgaos": 3
-    },
-    {
-      "id": 204480,
-      "nome": "ROGÉRIO CORREIA DE MOURA BAPTISTA",
-      "nome_urna": "Rogério Correia",
-      "partido": "PT",
-      "uf": "MG",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204480.jpg",
-      "score": 35.76,
-      "proposicoes": 1,
-      "presenca_votacoes": 100.0,
-      "discursos": 2,
-      "orgaos": 4
     },
     {
       "id": 107970,
@@ -4306,6 +4306,19 @@
       "orgaos": 3
     },
     {
+      "id": 220649,
+      "nome": "CARLOS ALBERTO DA CUNHA",
+      "nome_urna": "Delegado da Cunha",
+      "partido": "UNIÃO",
+      "uf": "SP",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220649.jpg",
+      "score": 25.54,
+      "proposicoes": 2,
+      "presenca_votacoes": 50.0,
+      "discursos": 0,
+      "orgaos": 12
+    },
+    {
       "id": 220598,
       "nome": "TARCISIO MOTTA DE CARVALHO",
       "nome_urna": "Tarcísio Motta",
@@ -4356,19 +4369,6 @@
       "presenca_votacoes": 50.0,
       "discursos": 0,
       "orgaos": 5
-    },
-    {
-      "id": 220649,
-      "nome": "CARLOS ALBERTO DA CUNHA",
-      "nome_urna": "Delegado da Cunha",
-      "partido": "UNIÃO",
-      "uf": "SP",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220649.jpg",
-      "score": 24.02,
-      "proposicoes": 1,
-      "presenca_votacoes": 50.0,
-      "discursos": 0,
-      "orgaos": 12
     },
     {
       "id": 204364,
@@ -4774,6 +4774,19 @@
       "orgaos": 4
     },
     {
+      "id": 178962,
+      "nome": "ANTONIO CARLOS GOMES DA SILVA",
+      "nome_urna": "Carlos Gomes",
+      "partido": "REPUBLICANOS",
+      "uf": "RS",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178962.jpg",
+      "score": 20.27,
+      "proposicoes": 1,
+      "presenca_votacoes": 50.0,
+      "discursos": 0,
+      "orgaos": 6
+    },
+    {
       "id": 171786,
       "nome": "MIGUEL ÂNGELO MONTEIRO ANDRADE",
       "nome_urna": "Miguel Ângelo",
@@ -5040,19 +5053,6 @@
       "partido": "REPUBLICANOS",
       "uf": "MG",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/210989.jpg",
-      "score": 18.75,
-      "proposicoes": 0,
-      "presenca_votacoes": 50.0,
-      "discursos": 0,
-      "orgaos": 6
-    },
-    {
-      "id": 178962,
-      "nome": "ANTONIO CARLOS GOMES DA SILVA",
-      "nome_urna": "Carlos Gomes",
-      "partido": "REPUBLICANOS",
-      "uf": "RS",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178962.jpg",
       "score": 18.75,
       "proposicoes": 0,
       "presenca_votacoes": 50.0,

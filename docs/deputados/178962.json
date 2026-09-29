@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178962.jpg",
-  "score": 18.75,
-  "rank": 389,
-  "proposicoes": [],
+  "score": 20.27,
+  "rank": 368,
+  "proposicoes": [
+    {
+      "id": 2647189,
+      "tipo": "PLP",
+      "numero": 264,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a securitização de créditos em face da União Federal relativos à CBS, à Contribuição para o Pis/Pasep, à Cofins e ao IPI.",
+      "data": "2026-09-28T17:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647189"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
