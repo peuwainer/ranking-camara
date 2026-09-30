@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220611.jpg",
-  "score": 36.52,
-  "rank": 83,
+  "score": 39.2,
+  "rank": 39,
   "proposicoes": [
     {
       "id": 2646387,
@@ -15,6 +15,24 @@
       "ementa": "Altera a redação do caput e dos parágrafos 1º. e 2º.e acrescenta os incisos I, II e III ao artigo 359-I do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal).",
       "data": "2026-09-14T10:01",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646387"
+    },
+    {
+      "id": 2647207,
+      "tipo": "PL",
+      "numero": 5494,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 10.826, de 22 de dezembro de 2003 (Estatuto do Desarmamento), para tornar crime o uso de veículos aéreos não tripulados (drones) para lançamento de artefatos perigosos, cria majorante para organização criminosa ultraviolenta e dispõe sobre o perdimento de bens.",
+      "data": "2026-09-29T15:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647207"
+    },
+    {
+      "id": 2647208,
+      "tipo": "PL",
+      "numero": 5495,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 7210, de 11 de julho de 1984, para reprimir a utilização de telefone celular por preso e evitar sua comunicação com mundo externo e dá outras providências",
+      "data": "2026-09-29T15:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647208"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220640.jpg",
-  "score": 38.67,
-  "rank": 44,
+  "score": 39.83,
+  "rank": 33,
   "proposicoes": [
     {
       "id": 2644901,
@@ -24,6 +24,15 @@
       "ementa": "Estabelece regras de proteção e defesa das pessoas idosas contra jogos de azar.",
       "data": "2026-09-09T08:46",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646238"
+    },
+    {
+      "id": 2647217,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre o direito à realização de exames para a detecção de trombofilias em mulheres e as terapias para o seu tratamento em âmbito nacional.",
+      "data": "2026-09-30T08:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647217"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220543.jpg",
-  "score": 45.3,
-  "rank": 11,
+  "score": 47.12,
+  "rank": 7,
   "proposicoes": [
     {
       "id": 2644874,
@@ -78,6 +78,24 @@
       "ementa": "Altera as Leis nº 8.906, de 4 de julho de 1994, e nº 8.935, de 18 de novembro de 1994, para dispor sobre o exercício da advocacia por escreventes de serviços notariais e de registro.",
       "data": "2026-09-22T13:06",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646903"
+    },
+    {
+      "id": 2647192,
+      "tipo": "PL",
+      "numero": 5486,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para estabelecer mecanismos de identificação, comunicação e avaliação preventiva de situações de ameaça ou violação de direitos de crianças e adolescentes em razão de violência envolvendo pais ou responsáveis.",
+      "data": "2026-09-29T09:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647192"
+    },
+    {
+      "id": 2647199,
+      "tipo": "PL",
+      "numero": 5490,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o incentivo ao aprimoramento contínuo no processo de comunicação entre os profissionais de saúde e as pessoas surdas, no âmbito do Sistema Único de Saúde, por meio de soluções tecnológicas.",
+      "data": "2026-09-29T11:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647199"
     }
   ],
   "discursos": [],

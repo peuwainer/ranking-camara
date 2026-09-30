@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/236518.jpg",
-  "score": 1.88,
-  "rank": 501,
-  "proposicoes": [],
+  "score": 3.27,
+  "rank": 489,
+  "proposicoes": [
+    {
+      "id": 2647198,
+      "tipo": "PL",
+      "numero": 5489,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.383, de 30 de dezembro de 1991, a Lei nº 8.989, de 24 de fevereiro de 1995, e a Lei nº 14.947, de 2 de agosto de 2024, para estender aos veículos adquiridos por autoescolas regularmente credenciadas pelo órgão executivo de trânsito dos Estados e do Distrito Federal os incentivos fiscais referentes ao Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários (IOF) e ao Imposto sobre Produtos Industrializados (IPI), e incluí-las entre as atividades passíveis de financiamento reembolsável no âmbito do Fundo de Investimento em Infraestrutura Social (FIIS).",
+      "data": "2026-09-29T11:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647198"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

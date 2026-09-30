@@ -4,9 +4,28 @@
   "partido": "REPUBLICANOS",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220584.jpg",
-  "score": 0.0,
-  "rank": 513,
-  "proposicoes": [],
+  "score": 2.8,
+  "rank": 495,
+  "proposicoes": [
+    {
+      "id": 2647193,
+      "tipo": "PRC",
+      "numero": 44,
+      "ano": 2026,
+      "ementa": "Torna obrigatória a inserção dos links da bio nas redes sociais do parlamentar nas transmissões oficiais em que houver pronunciamento.",
+      "data": "2026-09-29T10:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647193"
+    },
+    {
+      "id": 2647194,
+      "tipo": "PL",
+      "numero": 5487,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.656, de 3 de junho de 1998, para prever, nos planos privados de assistência à saúde, a cobertura do serviço de cuidador de pessoa idosa no âmbito da internação domiciliar prestada em substituição à internação hospitalar.",
+      "data": "2026-09-29T10:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647194"
+    }
+  ],
   "discursos": [],
   "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/220584/votacoes-nominais-plenario/2026"
