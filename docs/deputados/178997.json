@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178997.jpg",
-  "score": 17.5,
-  "rank": 432,
-  "proposicoes": [],
+  "score": 19.25,
+  "rank": 383,
+  "proposicoes": [
+    {
+      "id": 2647251,
+      "tipo": "PL",
+      "numero": 5500,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.703, de 18 de julho de 2003, para dispor sobre a verificação de identidade de usuários de serviços de telecomunicações mediante validação biométrica.",
+      "data": "2026-09-30T14:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647251"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

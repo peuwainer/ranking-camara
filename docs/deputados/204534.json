@@ -4,9 +4,19 @@
   "partido": "PSB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204534.jpg",
-  "score": 35.0,
-  "rank": 136,
-  "proposicoes": [],
+  "score": 36.75,
+  "rank": 81,
+  "proposicoes": [
+    {
+      "id": 2647228,
+      "tipo": "PL",
+      "numero": 5498,
+      "ano": 2026,
+      "ementa": "Dispõe sobre medidas complementares de proteção de crianças e adolescentes no uso de redes sociais e altera a Lei nº 15.211, de 17 de setembro de 2025 (Estatuto Digital da Criança e do Adolescente).",
+      "data": "2026-09-30T10:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647228"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

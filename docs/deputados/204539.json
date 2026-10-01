@@ -4,9 +4,19 @@
   "partido": "MDB",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204539.jpg",
-  "score": 31.25,
-  "rank": 299,
-  "proposicoes": [],
+  "score": 33.0,
+  "rank": 227,
+  "proposicoes": [
+    {
+      "id": 2647231,
+      "tipo": "PL",
+      "numero": 5499,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Crédito Previdenciário do Cuidado – PNCC, destinado às mulheres que interrompam ou reduzam sua atividade profissional para exercer cuidados familiares, e dá outras providências.",
+      "data": "2026-09-30T11:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647231"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
