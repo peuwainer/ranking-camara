@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
-  "score": 41.5,
-  "rank": 20,
+  "score": 60.06,
+  "rank": 3,
   "proposicoes": [
     {
       "id": 2645559,
@@ -80,7 +80,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646646"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-09-02T11:00",
+      "fase": "Encerramento",
+      "tipo": "DISCURSO ENCAMINHADO",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA LAURA CARNEIRO (SEM REGISTRO TAQUIGRÁFICO). A Sra. LAURA CARNEIRO (PSD-RJ) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Depu",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA LAURA CARNEIRO (SEM REGISTRO TAQUIGRÁFICO). A Sra. LAURA CARNEIRO (PSD-RJ) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Deputados, fiz questão de requerer esta sessão solene em homenagem aos 34 anos da Associação dos Membros dos Tribunais de Contas do Brasil  Atricon. Afinal, a instituição exerce papel de grande importância para nossa sociedade e, desde que foi criada, em 26 de agosto de 1992, trabalha pela integração e pelo aperfeiçoamento dos Tribunais de Contas em todo o País. Os Tribunais de Conta exercem função fundamental, que guarda estreita relação com o Poder Legislativo, pois são eles que nos auxiliam a cumprir com nossa responsabilidade constitucional de controle externo. Formam, assim, parte importante do sistema de fiscalização que sustenta a democracia e que exige responsabilidade de todos que administram recursos públicos. Principalmente disso decorre a importância desta homenagem, que ocorre, aliás, em um momento especialmente significativo. Em maio deste ano, o Congresso promulgou a Emenda Constitucional nº 139, com meu apoio nos dois turnos de votação. Agora, fica expressamente estabelecido que os Tribunais de Contas são instituições permanentes e essenciais ao exercício do controle externo. É uma grande vitória das contas públicas, de nossas instituições e do povo brasileiro. É uma mudança que dá dimensão constitucional a algo que a experiência já demonstrava: o controle público precisa de instituições estáveis, independentes e tecnicamente preparadas. E a Atricon faz parte dessa engrenagem, ao aproximar os diferentes Tribunais de Contas e ajudar a construir referências comuns para sua atuação. Um exemplo importante é o Programa Nacional de Transparência Pública, liderado pela instituição, que avalia portais públicos brasileiros para melhorar o acesso à informação e ampliar o escopo dos dados oferecidos pelo governo à sociedade. Outra iniciativa louvável, que transcende fronteiras, foi a integração da atuação dos Tribunais de Contas com os Objetivos de Desenvolvimento Sustentável e com as agendas da Organização das Nações Unidas. Com isso, auditores de controle externo de diversos Tribunais de Contas passaram a integrar o Conselho de auditores da ONU, reafirmando o compromisso com a integridade e transparência globais. Essa é uma das formas com que a Atricon influencia na qualidade das decisões públicas dos Tribunais, uma evolução que interessa diretamente a esta Casa. Fiscalizar bem significa contribuir para que a administração funcione melhor, com recursos chegando a seu destino e com o cidadão mais apto a cobrar resultados. Ao celebrar os 34 anos da Atricon, quero cumprimentar seus dirigentes, seus membros e todos os profissionais que participam dessa trajetória. Que esta data seja também uma oportunidade para renovar o compromisso com um controle externo cada vez mais transparente e atento às necessidades da sociedade brasileira. Parabéns à ATRICON pelos seus 34 anos. Muito obrigada!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a acompanhar as ações de prevenção e combate ao câncer, ao acidente vascular cerebral (AVC) e às doenças do coração.",

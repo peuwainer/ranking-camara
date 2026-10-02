@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
-  "score": 27.75,
-  "rank": 324,
+  "score": 15.28,
+  "rank": 398,
   "proposicoes": [
     {
       "id": 2645680,
@@ -33,6 +33,15 @@
       "ementa": "Institui a Política Nacional de Adequação do Tamanho das Turmas da Educação Básica, estabelece limites máximos de estudantes por turma e cria o Índice Nacional de Superlotação de Turmas.",
       "data": "2026-09-25T12:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647140"
+    },
+    {
+      "id": 2647275,
+      "tipo": "PL",
+      "numero": 5504,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o incentivo e a regulamentação da Mineração Urbana; institui a prioridade de aproveitamento de recursos de fontes secundárias; estabelece a obrigatoriedade de se considerar a disponibilidade de minerais a partir de fontes secundárias; e, estabelece a restrição de concessão de lavra e de licença ambiental para a extração de minerais disponíveis no passivo urbano.",
+      "data": "2026-10-01T12:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647275"
     }
   ],
   "discursos": [],

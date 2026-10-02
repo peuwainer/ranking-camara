@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/221329.jpg",
-  "score": 40.25,
-  "rank": 30,
+  "score": 42.78,
+  "rank": 20,
   "proposicoes": [
     {
       "id": 2646868,
@@ -33,6 +33,15 @@
       "ementa": "Institui a Lei de Acesso Seguro ao Canabidiol no SUS e altera a Lei nº 8.080, de 19 de setembro de 1990, para estabelecer critérios de acesso, incorporação, dispensação e monitoramento de medicamentos e produtos de Cannabis para uso medicinal humano à base de canabidiol no Sistema Único de Saúde (SUS), com prioridade de avaliação para condições clínicas graves, degenerativas, neurológicas, raras ou refratárias e proteção especial a crianças e adolescentes.",
       "data": "2026-09-21T13:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646870"
+    },
+    {
+      "id": 2647274,
+      "tipo": "PL",
+      "numero": 5502,
+      "ano": 2026,
+      "ementa": "Institui a Lei de Restituição Integral e Reparação ao Apostador, para disciplinar o direito à devolução e ao ressarcimento de valores e perdas decorrentes de operações de apostas de quota fixa (popularmente conhecidas como 'bets') realizadas no território nacional, estabelece regras de apuração da perda líquida, deveres de informação, transparência e rastreabilidade pelas operadoras, e dá outras providências.",
+      "data": "2026-10-01T11:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647274"
     }
   ],
   "discursos": [],

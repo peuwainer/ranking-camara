@@ -4,9 +4,28 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220667.jpg",
-  "score": 20.62,
-  "rank": 363,
-  "proposicoes": [],
+  "score": 39.51,
+  "rank": 47,
+  "proposicoes": [
+    {
+      "id": 2647280,
+      "tipo": "PL",
+      "numero": 5510,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.212, de 20 de janeiro de 2010, para ampliar a faixa de consumo com desconto integral da Tarifa Social de Energia Elétrica em razão do uso de equipamentos necessários a tratamento de saúde no domicílio.",
+      "data": "2026-10-01T17:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647280"
+    },
+    {
+      "id": 2647281,
+      "tipo": "PL",
+      "numero": 5511,
+      "ano": 2026,
+      "ementa": "Confere ao Município de Nazaré da Mata, no Estado de Pernambuco, o título de Capital Nacional do Maracatu de Baque Solto.",
+      "data": "2026-10-01T17:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647281"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
