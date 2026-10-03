@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220534.jpg",
-  "score": 36.46,
-  "rank": 93,
+  "score": 38.86,
+  "rank": 47,
   "proposicoes": [
     {
       "id": 2645943,
@@ -33,6 +33,15 @@
       "ementa": "Altera a Lei nº 14.852, de 3 de maio de 2024, para estabelecer incentivos fiscais à formação de recursos humanos para a Indústria de Jogos Eletrônicos",
       "data": "2026-09-30T17:49",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647257"
+    },
+    {
+      "id": 2647298,
+      "tipo": "PL",
+      "numero": 5520,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.303, de 30 de junho de 2016, e a Lei nº 14.597, de 14 de junho de 2023, para destinar parcela do montante aprovado para ações de patrocínio realizadas por empresas públicas, sociedades de economia mista e subsidiárias controladas pela União ao Fundo Nacional do Esporte – Fundesporte, para apoio à participação de atletas em competições esportivas oficiais, e dá outras providências",
+      "data": "2026-10-02T16:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647298"
     }
   ],
   "discursos": [],

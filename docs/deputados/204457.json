@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204457.jpg",
-  "score": 33.82,
-  "rank": 192,
+  "score": 38.05,
+  "rank": 58,
   "proposicoes": [
     {
       "id": 2646555,
@@ -15,6 +15,24 @@
       "ementa": "Declara a cidade do Rio de Janeiro/RJ como a “Capital Nacional da Economia Solidária”.",
       "data": "2026-09-17T10:20",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646555"
+    },
+    {
+      "id": 2647296,
+      "tipo": "PL",
+      "numero": 5518,
+      "ano": 2026,
+      "ementa": "Institui a Certidão Nacional de Antecedentes Criminais por Violência contra a Mulher (CNVM).",
+      "data": "2026-10-02T15:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647296"
+    },
+    {
+      "id": 2647297,
+      "tipo": "PL",
+      "numero": 5519,
+      "ano": 2026,
+      "ementa": "Dispõe sobre mecanismos de verificação de identidade e prevenção à utilização fraudulenta de fotografias de terceiros em perfis de aplicativos de mensagens instantâneas, e dá outras providências.",
+      "data": "2026-10-02T15:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647297"
     }
   ],
   "discursos": [],
