@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-05T14:08:01.998089+00:00",
+  "atualizado_em": "2026-10-06T13:16:06.864249+00:00",
   "legislatura": 57,
   "deputados": [
     {
@@ -1888,19 +1888,6 @@
       "orgaos": 5
     },
     {
-      "id": 204460,
-      "nome": "Carlos Roberto Jordy Coelho de Mattos",
-      "nome_urna": "Carlos Jordy",
-      "partido": "PL",
-      "uf": "RJ",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg",
-      "score": 20.46,
-      "proposicoes": 1,
-      "presenca_votacoes": 0.0,
-      "discursos": 0,
-      "orgaos": 5
-    },
-    {
       "id": 74262,
       "nome": "CARLOS HENRIQUE FOCESI SAMPAIO",
       "nome_urna": "Carlos Sampaio",
@@ -3545,6 +3532,19 @@
       "partido": "PT",
       "uf": "MS",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
+      "score": 18.12,
+      "proposicoes": 0,
+      "presenca_votacoes": 0.0,
+      "discursos": 0,
+      "orgaos": 5
+    },
+    {
+      "id": 204460,
+      "nome": "Carlos Roberto Jordy Coelho de Mattos",
+      "nome_urna": "Carlos Jordy",
+      "partido": "PL",
+      "uf": "RJ",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg",
       "score": 18.12,
       "proposicoes": 0,
       "presenca_votacoes": 0.0,
@@ -6232,7 +6232,7 @@
     {
       "id": 220660,
       "nome": "YURY BRUNO ALENCAR ARAUJO",
-      "nome_urna": "Yury do Paredão",
+      "nome_urna": "Yury Bruno",
       "partido": "MDB",
       "uf": "CE",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220660.jpg",
