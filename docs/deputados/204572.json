@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204572.jpg",
-  "score": 22.96,
-  "rank": 63,
+  "score": 25.29,
+  "rank": 38,
   "proposicoes": [
     {
       "id": 2647149,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para especificar ações de telessaúde na assistência às pessoas com doenças raras.",
       "data": "2026-09-25T17:30",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647149"
+    },
+    {
+      "id": 2647323,
+      "tipo": "PL",
+      "numero": 5534,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para prever a notificação de atos processuais ao cônjuge, companheiro, ascendente, descendente ou irmão da ofendida na impossibilidade de sua notificação pessoal.",
+      "data": "2026-10-07T12:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647323"
     }
   ],
   "discursos": [],

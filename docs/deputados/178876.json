@@ -4,9 +4,19 @@
   "partido": "MDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178876.jpg",
-  "score": 17.5,
-  "rank": 344,
-  "proposicoes": [],
+  "score": 19.83,
+  "rank": 183,
+  "proposicoes": [
+    {
+      "id": 2647345,
+      "tipo": "PL",
+      "numero": 5536,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 4.769, de 9 de setembro de 1965, para instituir o Exame Nacional de Suficiência Profissional em Administração como requisito para a obtenção do primeiro registro profissional na categoria de Administrador.",
+      "data": "2026-10-07T16:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647345"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
