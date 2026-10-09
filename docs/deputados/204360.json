@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
-  "score": 37.29,
-  "rank": 6,
+  "score": 39.62,
+  "rank": 5,
   "proposicoes": [
     {
       "id": 2646425,
@@ -51,6 +51,15 @@
       "ementa": "Estabelece a Política Nacional de Centros de Referência para Altas Habilidades e Superdotação, destinados à oferta de atividades avançadas, orientação profissional precoce e acesso a tecnologias educacionais específicas.",
       "data": "2026-09-24T16:33",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646995"
+    },
+    {
+      "id": 2647387,
+      "tipo": "SBT",
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente, para fortalecer a proteção dos dados pessoais de crianças e adolescentes no ambiente digital.",
+      "data": "2026-10-08T19:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647387"
     }
   ],
   "discursos": [],
