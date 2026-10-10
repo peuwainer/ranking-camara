@@ -4,87 +4,10 @@
   "partido": "PP",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220706.jpg",
-  "score": 10.38,
-  "rank": 504,
-  "proposicoes": [
-    {
-      "id": 2623400,
-      "tipo": "PEC",
-      "numero": 8,
-      "ano": 2026,
-      "ementa": "Altera o art. 228 da Constituição Federal para admitir, em caráter excepcional, a redução da maioridade penal em casos de crimes hediondos e de crueldade extrema contra pessoas e animais.",
-      "data": "2026-05-11T14:49",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
-    },
-    {
-      "id": 2623565,
-      "tipo": "PLP",
-      "numero": 131,
-      "ano": 2026,
-      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para permitir a adesão ao regime de transição aplicável à alienação de imóvel decorrente de parcelamento do solo aos parcelamentos em relação aos quais haja contrato de parceria averbado na matrícula do imóvel.",
-      "data": "2026-05-12T10:22",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623565"
-    },
-    {
-      "id": 2623604,
-      "tipo": "PEC",
-      "numero": 9,
-      "ano": 2026,
-      "ementa": "Altera o art. 228 da Constituição Federal, para reduzir a idade mínima de imputabilidade penal, nas condições que estabelece.",
-      "data": "2026-05-12T11:28",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604"
-    },
-    {
-      "id": 2624861,
-      "tipo": "EMC",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera o Art. 7º inciso XIII da Constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
-      "data": "2026-05-14T13:51",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624861"
-    },
-    {
-      "id": 2624863,
-      "tipo": "EMC",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos.",
-      "data": "2026-05-14T14:15",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624863"
-    },
-    {
-      "id": 2629601,
-      "tipo": "EMP",
-      "numero": 8,
-      "ano": 0,
-      "ementa": "Dispõe sobre regras para renúncias de receita com o objetivo de mitigar os impactos econômicos causados pelo choque no mercado internacional de energia decorrente do conflito no Oriente Médio.",
-      "data": "2026-06-02T09:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629601"
-    },
-    {
-      "id": 2630820,
-      "tipo": "PL",
-      "numero": 2982,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.629, de 25 de fevereiro de 1993, a Lei nº 9.514, de 20 de novembro de 1997, a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), a Lei 13.986, de 7 de abril de 2020, e a Lei nº 14.711, de 30 de outubro de 2023, para dispor sobre a impenhorabilidade da propriedade rural e sobre a constituição de alienação fiduciária e de hipoteca para o financiamento da atividade produtiva rural, assegurando proteção à continuidade da atividade agropecuária, à função social da propriedade e à segurança alimentar nacional.",
-      "data": "2026-06-09T20:13",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2630820"
-    }
-  ],
+  "score": 15.0,
+  "rank": 510,
+  "proposicoes": [],
   "discursos": [],
-  "orgaos": [
-    {
-      "nome": "Comissão de Relações Exteriores e de Defesa Nacional",
-      "sigla": "CREDN",
-      "cargo": "Titular",
-      "desde": "2026-04-17T00:00"
-    },
-    {
-      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
-      "sigla": "CAPADR",
-      "cargo": "Titular",
-      "desde": "2026-05-11T00:00"
-    }
-  ],
+  "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/220706/votacoes-nominais-plenario/2026"
 }

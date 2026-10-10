@@ -4,9 +4,28 @@
   "partido": "PSD",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/226837.jpg",
-  "score": 18.12,
-  "rank": 324,
-  "proposicoes": [],
+  "score": 22.79,
+  "rank": 65,
+  "proposicoes": [
+    {
+      "id": 2647396,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 14.597, de 14 de junho de 2023, Lei Geral do Esporte, para dispor sobre a prevenção e o enfrentamento ao abuso, ao assédio e à exploração sexual no esporte.",
+      "data": "2026-10-09T14:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647396"
+    },
+    {
+      "id": 2647398,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade de divulgação prévia, clara e ostensiva da premiação em rodeios e eventos competitivos similares, estabelece condicionantes para concessão de autorização pública e dá outras providências.",
+      "data": "2026-10-09T15:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647398"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
