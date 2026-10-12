@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-11T12:34:48.732936+00:00",
+  "atualizado_em": "2026-10-12T15:00:08.036186+00:00",
   "legislatura": 57,
   "deputados": [
     {
@@ -29,19 +29,6 @@
       "orgaos": 13
     },
     {
-      "id": 74856,
-      "nome": "MARIA LAURA MONTEZA DE SOUZA CARNEIRO",
-      "nome_urna": "Laura Carneiro",
-      "partido": "PSD",
-      "uf": "RJ",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
-      "score": 43.65,
-      "proposicoes": 6,
-      "presenca_votacoes": 0.0,
-      "discursos": 0,
-      "orgaos": 20
-    },
-    {
       "id": 204360,
       "nome": "SILVIA CRISTINA AMANCIO CHAGAS",
       "nome_urna": "Silvia Cristina",
@@ -53,6 +40,19 @@
       "presenca_votacoes": 0.0,
       "discursos": 0,
       "orgaos": 17
+    },
+    {
+      "id": 74856,
+      "nome": "MARIA LAURA MONTEZA DE SOUZA CARNEIRO",
+      "nome_urna": "Laura Carneiro",
+      "partido": "PSD",
+      "uf": "RJ",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
+      "score": 40.96,
+      "proposicoes": 5,
+      "presenca_votacoes": 0.0,
+      "discursos": 0,
+      "orgaos": 20
     },
     {
       "id": 74374,
@@ -237,19 +237,6 @@
       "orgaos": 13
     },
     {
-      "id": 69871,
-      "nome": "JOAO CARLOS BACELAR BATISTA",
-      "nome_urna": "Bacelar",
-      "partido": "PV",
-      "uf": "BA",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/69871.jpg",
-      "score": 28.27,
-      "proposicoes": 4,
-      "presenca_votacoes": 0.0,
-      "discursos": 0,
-      "orgaos": 4
-    },
-    {
       "id": 74585,
       "nome": "LINCOLN DINIZ PORTELA",
       "nome_urna": "Lincoln Portela",
@@ -261,19 +248,6 @@
       "presenca_votacoes": 0.0,
       "discursos": 0,
       "orgaos": 4
-    },
-    {
-      "id": 178829,
-      "nome": "JOSE AUGUSTO ROSA",
-      "nome_urna": "Capitão Augusto",
-      "partido": "PL",
-      "uf": "SP",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
-      "score": 28.08,
-      "proposicoes": 3,
-      "presenca_votacoes": 0.0,
-      "discursos": 0,
-      "orgaos": 8
     },
     {
       "id": 220611,
@@ -406,19 +380,6 @@
       "orgaos": 18
     },
     {
-      "id": 178933,
-      "nome": "SERGIO DE SOUZA",
-      "nome_urna": "Sergio Souza",
-      "partido": "MDB",
-      "uf": "PR",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178933.jpg",
-      "score": 26.2,
-      "proposicoes": 3,
-      "presenca_votacoes": 0.0,
-      "discursos": 0,
-      "orgaos": 5
-    },
-    {
       "id": 204572,
       "nome": "ALBERTO BARROS CAVALCANTE NETO",
       "nome_urna": "Capitão Alberto Neto",
@@ -443,6 +404,19 @@
       "presenca_votacoes": 0.0,
       "discursos": 0,
       "orgaos": 9
+    },
+    {
+      "id": 178829,
+      "nome": "JOSE AUGUSTO ROSA",
+      "nome_urna": "Capitão Augusto",
+      "partido": "PL",
+      "uf": "SP",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
+      "score": 25.38,
+      "proposicoes": 2,
+      "presenca_votacoes": 0.0,
+      "discursos": 0,
+      "orgaos": 8
     },
     {
       "id": 74848,
@@ -698,6 +672,19 @@
       "partido": "PSD",
       "uf": "SP",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/226837.jpg",
+      "score": 23.51,
+      "proposicoes": 2,
+      "presenca_votacoes": 0.0,
+      "discursos": 0,
+      "orgaos": 5
+    },
+    {
+      "id": 178933,
+      "nome": "SERGIO DE SOUZA",
+      "nome_urna": "Sergio Souza",
+      "partido": "MDB",
+      "uf": "PR",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178933.jpg",
       "score": 23.51,
       "proposicoes": 2,
       "presenca_votacoes": 0.0,
@@ -1654,19 +1641,6 @@
       "orgaos": 5
     },
     {
-      "id": 220572,
-      "nome": "MARUSSA CASSIA FAVARO BOLDRIN",
-      "nome_urna": "Marussa Boldrin",
-      "partido": "REPUBLICANOS",
-      "uf": "GO",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220572.jpg",
-      "score": 20.82,
-      "proposicoes": 1,
-      "presenca_votacoes": 0.0,
-      "discursos": 0,
-      "orgaos": 5
-    },
-    {
       "id": 220585,
       "nome": "FRANCISCO EMERSON ASSIS DE LUCENA",
       "nome_urna": "Mersinho Lucena",
@@ -1925,6 +1899,19 @@
       "presenca_votacoes": 0.0,
       "discursos": 0,
       "orgaos": 0
+    },
+    {
+      "id": 69871,
+      "nome": "JOAO CARLOS BACELAR BATISTA",
+      "nome_urna": "Bacelar",
+      "partido": "PV",
+      "uf": "BA",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/69871.jpg",
+      "score": 20.19,
+      "proposicoes": 1,
+      "presenca_votacoes": 0.0,
+      "discursos": 0,
+      "orgaos": 4
     },
     {
       "id": 178876,
@@ -3909,6 +3896,19 @@
       "partido": "REDE",
       "uf": "SP",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220637.jpg",
+      "score": 18.12,
+      "proposicoes": 0,
+      "presenca_votacoes": 0.0,
+      "discursos": 0,
+      "orgaos": 5
+    },
+    {
+      "id": 220572,
+      "nome": "MARUSSA CASSIA FAVARO BOLDRIN",
+      "nome_urna": "Marussa Boldrin",
+      "partido": "REPUBLICANOS",
+      "uf": "GO",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220572.jpg",
       "score": 18.12,
       "proposicoes": 0,
       "presenca_votacoes": 0.0,
