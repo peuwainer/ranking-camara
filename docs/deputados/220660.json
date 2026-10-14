@@ -4,9 +4,19 @@
   "partido": "MDB",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220660.jpg",
-  "score": 16.25,
-  "rank": 478,
-  "proposicoes": [],
+  "score": 18.94,
+  "rank": 235,
+  "proposicoes": [
+    {
+      "id": 2647427,
+      "tipo": "PL",
+      "numero": 5542,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 – Lei Maria da Penha, a fim de estabelecer garantias mínimas para a execução da monitoração eletrônica como medida protetiva de urgência, inclusive quanto à emissão de alertas sonoros e luminosos, à utilização excepcional de mecanismo de contenção física remota e à proteção da vítima.",
+      "data": "2026-10-13T13:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647427"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

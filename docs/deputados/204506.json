@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204506.jpg",
-  "score": 18.12,
-  "rank": 298,
-  "proposicoes": [],
+  "score": 20.82,
+  "rank": 151,
+  "proposicoes": [
+    {
+      "id": 2647472,
+      "tipo": "PL",
+      "numero": 5548,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.485, de 12 de setembro de 2011, para estabelecer regras de transparência na composição dos pacotes de canais do serviço de acesso condicionado e para assegurar a comunicação prévia e individualizada aos consumidores acerca da retirada, substituição ou descontinuidade de canais integrantes dos pacotes contratados.",
+      "data": "2026-10-13T16:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647472"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

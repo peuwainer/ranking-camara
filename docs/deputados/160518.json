@@ -4,9 +4,19 @@
   "partido": "PSD",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160518.jpg",
-  "score": 20.0,
-  "rank": 178,
-  "proposicoes": [],
+  "score": 22.69,
+  "rank": 83,
+  "proposicoes": [
+    {
+      "id": 2647526,
+      "tipo": "PL",
+      "numero": 5554,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, que “Estabelece normas para as eleições”, para proibir o uso de bandeiras, banners e windbanners ao longo das vias públicas em campanhas eleitorais.",
+      "data": "2026-10-13T18:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647526"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

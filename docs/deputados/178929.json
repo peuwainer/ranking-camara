@@ -4,9 +4,28 @@
   "partido": "UNIÃO",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178929.jpg",
-  "score": 21.88,
-  "rank": 79,
-  "proposicoes": [],
+  "score": 27.26,
+  "rank": 30,
+  "proposicoes": [
+    {
+      "id": 2647413,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Reconhece como patrimônio cultural e imaterial do Brasil a Procissão do Senhor Bom Jesus da Lapa, realizada no Município de Iaciara, Estado de Goiás.",
+      "data": "2026-10-13T11:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647413"
+    },
+    {
+      "id": 2647414,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Reconhece como patrimônio cultural e imaterial do Brasil a Festa de Nossa Senhora do Rosário e a Congada realizadas no Município de Catalão, Estado de Goiás.",
+      "data": "2026-10-13T11:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647414"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

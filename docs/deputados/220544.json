@@ -4,9 +4,28 @@
   "partido": "PSDB",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220544.jpg",
-  "score": 17.5,
-  "rank": 333,
-  "proposicoes": [],
+  "score": 22.88,
+  "rank": 76,
+  "proposicoes": [
+    {
+      "id": 2647422,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 7.498, de 25 de junho de 1986, para dispor sobre a responsabilidade técnica em serviços de Enfermagem.",
+      "data": "2026-10-13T13:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647422"
+    },
+    {
+      "id": 2647431,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.637, de 15 de maio de 1998, para determinar que, no mínimo, 10% (dez por cento) da força de trabalho empregada em contratos de gestão celebrados por organizações sociais de saúde (OSS) seja destinada ao primeiro emprego de auxiliares de enfermagem, técnicos de enfermagem e enfermeiros.",
+      "data": "2026-10-13T13:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647431"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -4,9 +4,19 @@
   "partido": "AVANTE",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220703.jpg",
-  "score": 18.75,
-  "rank": 245,
-  "proposicoes": [],
+  "score": 21.44,
+  "rank": 115,
+  "proposicoes": [
+    {
+      "id": 2647523,
+      "tipo": "PL",
+      "numero": 5552,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 5.768, de 20 de dezembro de 1971, para proibir a utilização de animais vivos como prêmio em rifas, sorteios, concursos, promoções e operações assemelhadas, inclusive em ambientes digitais, e estabelece medidas de fiscalização e sanções.",
+      "data": "2026-10-13T17:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647523"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

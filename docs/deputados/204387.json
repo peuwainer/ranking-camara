@@ -4,10 +4,18 @@
   "partido": "PL",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204387.jpg",
-  "score": 19.38,
-  "rank": 203,
+  "score": 22.71,
+  "rank": 80,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-13T15:48",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. SARGENTO FAHUR (PL - PR. Sem revisão do orador.) - Obrigado, Sr. Presidente. Primeiro, quero agradecer ao povo do Paraná por ter me reconduzido à Câmara dos Deputados. O novo mandato começará em",
+      "transcricao": "O SR. SARGENTO FAHUR (PL - PR. Sem revisão do orador.) - Obrigado, Sr. Presidente. Primeiro, quero agradecer ao povo do Paraná por ter me reconduzido à Câmara dos Deputados. O novo mandato começará em 2027 e será um espelho desse enfrentamento contra criminosos e contra quem defende criminosos: a Esquerda. Nós demos um recado no Paraná, um recado ao descondenado, ex-presidiário, Lula da Silva. Elegemos Sergio Moro, os Senadores Deltan Dallagnol e Filipe Barros, e os três Deputados mais votados do Paraná são anti-Lula, anti-PT e anticorrupção. O Paraná deu o recado, o Brasil também deu o recado, dando a vitória no primeiro turno a Flávio Bolsonaro, que vai se confirmar no segundo turno, não tenho dúvida nenhuma disso. O Brasil quer mudança. Chega de defensores de criminosos! Pousam aqui de defensores do povo, mas defendem criminosos. Faz 8 anos que eu trabalho na Comissão de Segurança Pública junto com Deputados de Direita contra projetos da Esquerda que beneficiam criminosos. Se nós não estivéssemos atentos na Comissão de Segurança Pública, o Brasil seria um caos. A Esquerda defende menor bandido, a Esquerda defende o desencarceramento de criminosos, a Esquerda não vota nada que endureça a vida de bandidos. Mas o Paraná deu o recado. O Paraná vai aposentar definitivamente a Deputada Gleisi Hoffmann, que saiu candidata ao Senado e foi expurgada, excomungada nas urnas. Elegemos dois Senadores de Direita, anti-PT, anti-Lula, anticrime. O recado foi dado nas urnas, mesmo com alguns candidatos \"sabor\" Direita querendo atrapalhar, mas não conseguiram. Elegemos no Paraná o Sérgio Moro no primeiro turno, elegemos Deltan Dallagnol e Filipe Barros, e os três Deputados mais votados do Paraná, incluindo este que vos fala, são de Direita, anti-Lula. E agora vamos acabar a faxina, dia 25, elegendo Flávio Bolsonaro Presidente do Brasil."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 18, de 2025, do Poder Executivo, que \"altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública\"",

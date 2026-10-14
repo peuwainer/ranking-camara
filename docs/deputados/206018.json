@@ -4,9 +4,19 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/206018.jpg",
-  "score": 21.88,
-  "rank": 78,
-  "proposicoes": [],
+  "score": 24.57,
+  "rank": 49,
+  "proposicoes": [
+    {
+      "id": 2647525,
+      "tipo": "PL",
+      "numero": 5553,
+      "ano": 2026,
+      "ementa": "Institui diretrizes nacionais para a prevenção e a gestão de riscos psicossociais no trabalho dos profissionais do Sistema Único de Assistência Social – SUAS.",
+      "data": "2026-10-13T18:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647525"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

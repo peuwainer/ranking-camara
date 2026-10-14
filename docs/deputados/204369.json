@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204369.jpg",
-  "score": 18.12,
-  "rank": 264,
-  "proposicoes": [],
+  "score": 20.82,
+  "rank": 147,
+  "proposicoes": [
+    {
+      "id": 2647489,
+      "tipo": "PL",
+      "numero": 5549,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a autonomia da gestante e da parturiente na escolha informada da via de parto, assegura o acesso à analgesia no parto vaginal, estabelece regras destinadas a impedir incentivos econômicos indevidos na assistência obstétrica, altera as Leis nº 8.080, de 19 de setembro de 1990, e nº 9.656, de 3 de junho de 1998, e dá outras providências",
+      "data": "2026-10-13T17:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647489"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

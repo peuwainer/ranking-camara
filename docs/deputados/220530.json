@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220530.jpg",
-  "score": 28.7,
-  "rank": 17,
+  "score": 32.04,
+  "rank": 16,
   "proposicoes": [
     {
       "id": 2646404,
@@ -35,7 +35,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646505"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-13T16:00",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MESSIAS DONATO (Bloco/UNIÃO - ES. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Quero parabenizá-lo pela sua recondução para mais um mandato. Os baianos estão de parabéns por escol",
+      "transcricao": "O SR. MESSIAS DONATO (Bloco/UNIÃO - ES. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Quero parabenizá-lo pela sua recondução para mais um mandato. Os baianos estão de parabéns por escolher V.Exa. e reconduzi-lo aqui. V.Exa. fez um brilhante trabalho, e tenho certeza de que o próximo será um mandato tão bom quanto este agora. Sr. Presidente, eu quero fazer um destaque para o Instituto Gerp, o mesmo Instituto que acertou a pesquisa no primeiro turno, que apontava como próximo Presidente da República o Flávio Bolsonaro, 22, à frente. Desta vez, para a loucura da Esquerda, esse mesmo Instituto já aponta Flávio Bolsonaro com 53% e Lula com 44%, ou seja, cerca de 10 pontos à frente. Aí, Sr. Presidente, Lula chama o povo para ir para a rua. No Rio de Janeiro, vimos estudantes falando barbaridades. Mexeu com estudante, mexeu com o Satanás. Lá em São Paulo, foi pior ainda: depredação ao patrimônio público e tantas outras coisas ruins. É isso. Flávio Bolsonaro, 22, o próximo Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/226837.jpg",
-  "score": 23.51,
-  "rank": 52,
+  "score": 26.84,
+  "rank": 32,
   "proposicoes": [
     {
       "id": 2647396,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647398"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-13T15:56",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. SAULO PEDROSO (Bloco/PSD - SP. Sem revisão do orador.) - Obrigado, Sr. Presidente. Faço uso desta tribuna aqui no dia de hoje para trazer, com muita emoção, com muita gratidão, uma fala de agrad",
+      "transcricao": "O SR. SAULO PEDROSO (Bloco/PSD - SP. Sem revisão do orador.) - Obrigado, Sr. Presidente. Faço uso desta tribuna aqui no dia de hoje para trazer, com muita emoção, com muita gratidão, uma fala de agradecimento a todo o povo do Estado de São Paulo, de maneira especial aos 95.096 habitantes eleitores que me reconduziram ao cargo de Deputado Federal, para que eu possa continuar o trabalho que tenho feito aqui na Câmara Federal em defesa do municipalismo, do fortalecimento das nossas cidades, enfrentando as reformas que são importantes para o nosso País, para transformar o Brasil num ambiente de prosperidade, que é o que nós desejamos. Eu tenho feito a manutenção de um trabalho na Frente Parlamentar de combate à violência contra criança e adolescente no ambiente digital, a fim de trabalhar a modernização da legislação, para que a gente possa proteger as nossas crianças e os nossos adolescentes nesse ambiente aberto, sem controle, onde os crimes acontecem, sem um mínimo de proteção para eles. Quero fazer aqui um agradecimento e uma saudação muito especial à região que me projetou na vida pública: a Região Bragantina, o Circuito das Águas, que eu aqui na Câmara Federal, no Congresso Nacional, defendo com muita veemência, com muito orgulho. Tenho trabalhado aqui na articulação de recursos que são importantes para o futuro, para a estruturação do Circuito das Águas e da Região Bragantina. Tenho trabalhado também no sentido de que possamos fazer uma virada de página deste momento de desgastes que nós estamos vivendo no nosso País. Há uma total falta de credibilidade da política. Nós precisamos trabalhar aqui o resgate da credibilidade da política, trazendo para a Câmara Federal os bons exemplos que são praticados no nosso País, fazendo com que a próxima legislatura da Câmara Federal seja um ambiente de debate profundo de temas que são importantes para o nosso País. Que a gente pare de ficar dando trela, espaço e palanque para malabarista de Internet, malabarista de semáforo, que pouco contribui com as reformas e debates que são importantes para o nosso País e que no dia a dia não muda nada para melhor a vida daqueles que mais precisam. Portanto, Sr. Presidente, a minha fala aqui é para externar a minha gratidão aos 95.096 eleitores do Estado de São Paulo que permitiram que eu pudesse estar aqui por mais 4 anos, dando sequência a um trabalho de muita seriedade em prol da defesa e do fortalecimento do nosso Estado de São Paulo e, de maneira especial, do interior do Estado. Um grande abraço, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",

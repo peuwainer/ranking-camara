@@ -4,10 +4,28 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74161.jpg",
-  "score": 22.5,
-  "rank": 71,
-  "proposicoes": [],
-  "discursos": [],
+  "score": 28.53,
+  "rank": 22,
+  "proposicoes": [
+    {
+      "id": 2647435,
+      "tipo": "PL",
+      "numero": 5543,
+      "ano": 2026,
+      "ementa": "Altera o art. 21-A da Lei nº 11.508, de 20 de julho de 2007, para disciplinar a prestação de serviços vinculados à exportação no âmbito das Zonas de Processamento de Exportação.",
+      "data": "2026-10-13T13:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647435"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-10-13T15:36",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. REGINALDO LOPES (Bloco/PT - MG. Sem revisão do orador.) - Presidente, estamos diante de uma semana que será histórica para o povo brasileiro. Realmente, depois de 3 meses, o Senado assume a sua ",
+      "transcricao": "O SR. REGINALDO LOPES (Bloco/PT - MG. Sem revisão do orador.) - Presidente, estamos diante de uma semana que será histórica para o povo brasileiro. Realmente, depois de 3 meses, o Senado assume a sua responsabilidade e vai votar, no dia de amanhã, o fim da escala 6 por 1, essa escala que é, com certeza, a escravidão moderna deste século. Todos os indicadores econômicos, qualidade de vida, saúde mental, gasto com a seguridade social, todos esses indicadores apontam os efeitos colaterais positivos em relação ao fim da escala 6 por 1. Esta Casa ousou pautar o tema e agora o Senado deve votar, e nós vamos promover uma grande festa na promulgação do fim da escala 6 por 1. É tão interessante que até os adversários, o candidato da Oposição, que acha que o trabalhador tem condição de ter liberdade para negociar com o patrão, ficar à mercê do desejo do patrão para saber quantas horas ele vai poder trabalhar, sendo que a sua vida  suas despesas com aluguel, transporte, alimentação  já têm custo fixo... O que o trabalhador precisa é uma legislação forte que dê a ele liberdade de viver para além do trabalho, e não liberdade para negociar com o patrão. Portanto, o adversário Flávio Bolsonaro não engana ninguém. Trata-se de uma posição oportunista, eleitoreira, porque ele tem medo das urnas, porque os movimentos espontâneos contra o retrocesso e a candidatura dele o levaram a mudar de posição. É a força do povo! Sempre que houve segundo turno, o povo ganhou, num caráter democrático do debate, mas também de propostas objetivas e concretas. Mais uma vez, nós vamos para essas eleições e vamos disputar. Uma manifestação, com oportunismo, no último momento, de que é favorável não engana o povo brasileiro, porque o povo brasileiro desconfia que o que ele quer mesmo é que o trabalhador trabalhe de forma intermitente, algo que não funcionou na reforma trabalhista do Temer, que inclusive é padrinho do Alexandre de Moraes e, agora, padrinho e apoiador do Flávio Bolsonaro. É contra essa turma que nós somos. É esse sistema que nós vamos reformular após as eleições de 2026. Nós queremos fazer uma ampla reforma no Judiciário, que traga transparência, mandato, paridade e controle externo da sociedade civil. Nós queremos uma democracia forte, um Supremo com legitimidade institucional, respeitado, para o povo e para a democracia brasileira. Vamos juntos!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Centro de Estudos e Debates Estratégicos",
