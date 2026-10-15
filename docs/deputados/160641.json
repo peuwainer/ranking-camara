@@ -4,9 +4,19 @@
   "partido": "PCdoB",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160641.jpg",
-  "score": 17.5,
-  "rank": 389,
-  "proposicoes": [],
+  "score": 34.83,
+  "rank": 158,
+  "proposicoes": [
+    {
+      "id": 2647627,
+      "tipo": "PL",
+      "numero": 5560,
+      "ano": 2026,
+      "ementa": "Institui o Código Unificado dos Direitos dos Animais, dispõe sobre a natureza jurídica dos animais, seus direitos fundamentais, medidas de proteção, sanções administrativas e crimes, e dá outras providências.",
+      "data": "2026-10-14T14:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647627"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

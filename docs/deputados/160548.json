@@ -4,9 +4,28 @@
   "partido": "PSB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160548.jpg",
-  "score": 17.5,
-  "rank": 371,
-  "proposicoes": [],
+  "score": 37.17,
+  "rank": 80,
+  "proposicoes": [
+    {
+      "id": 2647641,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para determinar a aceitação, pelas unidades do Sistema Único de Saúde (SUS), de exames realizados em serviços privados",
+      "data": "2026-10-14T15:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647641"
+    },
+    {
+      "id": 2647671,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Emenda supressiva - PL 5902-2023 - Uso de Drones no Espaço Aéreo de Presídios",
+      "data": "2026-10-14T17:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647671"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

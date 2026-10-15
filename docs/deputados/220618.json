@@ -4,18 +4,9 @@
   "partido": "PODE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220618.jpg",
-  "score": 26.83,
-  "rank": 33,
+  "score": 30.76,
+  "rank": 332,
   "proposicoes": [
-    {
-      "id": 2646392,
-      "tipo": "PL",
-      "numero": 5360,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 8.313, de 23 de dezembro de 1991, para incluir a preservação, a recuperação, a restauração e a utilização cultural de Coretos entre os objetivos dos projetos culturais apoiados pelo Programa Nacional de Apoio à Cultura (Pronac).",
-      "data": "2026-09-14T11:08",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646392"
-    },
     {
       "id": 2646876,
       "tipo": "PL",
@@ -33,6 +24,15 @@
       "ementa": "Altera a Lei nº 6.681, de 16 de agosto de 1979, para assegurar aos profissionais de enfermagem em serviço ativo nas Forças Armadas, nas Polícias Militares e nos Corpos de Bombeiros Militares, quando exercerem a profissão exclusivamente em decorrência de suas funções militares, isenção do pagamento de anuidades aos Conselhos Regionais de Enfermagem.",
       "data": "2026-09-29T14:22",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647205"
+    },
+    {
+      "id": 2647653,
+      "tipo": "SBT",
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Altera a Lei n° 10.406, de 10 de janeiro de 2002 – Código Civil, para dispor sobre a instalação de infraestrutura e estação de recarga individual ou coletiva para veículos elétricos em condomínios edilícios.",
+      "data": "2026-10-14T16:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647653"
     }
   ],
   "discursos": [],

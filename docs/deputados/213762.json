@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "RN",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/213762.jpg",
-  "score": 21.88,
-  "rank": 98,
-  "proposicoes": [],
+  "score": 39.21,
+  "rank": 44,
+  "proposicoes": [
+    {
+      "id": 2647657,
+      "tipo": "PL",
+      "numero": 5566,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.990, de 9 de junho de 2014, e a Lei nº 15.142, de 3 de junho de 2025, para estipular critérios objetivos, dever de motivação exauriente, gravação padronizada e responsabilização nos procedimentos de heteroidentificação no âmbito de concursos públicos e seleções de pós-graduação promovidos pela Administração Pública Federal.",
+      "data": "2026-10-14T16:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647657"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

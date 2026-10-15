@@ -4,9 +4,19 @@
   "partido": "PSD",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
-  "score": 20.0,
-  "rank": 189,
-  "proposicoes": [],
+  "score": 27.34,
+  "rank": 358,
+  "proposicoes": [
+    {
+      "id": 2647658,
+      "tipo": "PL",
+      "numero": 5567,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.967 (Estatuto da Segurança Privada), para dispor sobre a progressividade de etapas nos cursos de atualização, garantir o direito à recuperação em exames periódicos e vedar a suspensão automática do exercício profissional de vigilantes.",
+      "data": "2026-10-14T17:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647658"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220584.jpg",
-  "score": 20.38,
-  "rank": 169,
+  "score": 36.54,
+  "rank": 93,
   "proposicoes": [
     {
       "id": 2647193,
@@ -27,6 +27,25 @@
     }
   ],
   "discursos": [],
-  "orgaos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Suplente",
+      "desde": "2026-10-14T00:00"
+    },
+    {
+      "nome": "Comissão de Finanças e Tributação",
+      "sigla": "CFT",
+      "cargo": "Titular",
+      "desde": "2026-10-14T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos das Pessoas com Deficiência",
+      "sigla": "CPD",
+      "cargo": "Titular",
+      "desde": "2026-10-14T00:00"
+    }
+  ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220584/votacoes-nominais-plenario/2026"
 }

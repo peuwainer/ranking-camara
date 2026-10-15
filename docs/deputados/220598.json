@@ -4,9 +4,46 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220598.jpg",
-  "score": 19.38,
-  "rank": 227,
-  "proposicoes": [],
+  "score": 33.72,
+  "rank": 194,
+  "proposicoes": [
+    {
+      "id": 2647641,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para determinar a aceitação, pelas unidades do Sistema Único de Saúde (SUS), de exames realizados em serviços privados",
+      "data": "2026-10-14T15:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647641"
+    },
+    {
+      "id": 2647642,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Decreto-Lei nº 2848, de 07 de dezembro de 1940 – Código Penal, para dispor sobre o uso de drones no espaço aéreo dos presídios",
+      "data": "2026-10-14T15:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647642"
+    },
+    {
+      "id": 2647671,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Emenda supressiva - PL 5902-2023 - Uso de Drones no Espaço Aéreo de Presídios",
+      "data": "2026-10-14T17:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647671"
+    },
+    {
+      "id": 2647723,
+      "tipo": "EMP",
+      "numero": 26,
+      "ano": 0,
+      "ementa": "Dispõe sobre os regimes de resolução das instituições autorizadas a funcionar pelo Banco Central do Brasil, pela Superintendência de Seguros Privados e pela Comissão de Valores Mobiliários.",
+      "data": "2026-10-14T19:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647723"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

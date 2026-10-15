@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204395.jpg",
-  "score": 18.12,
-  "rank": 321,
-  "proposicoes": [],
+  "score": 25.47,
+  "rank": 378,
+  "proposicoes": [
+    {
+      "id": 2647575,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Acrescenta parágrafo ao art. 2º-A da Lei nº 10.650, de 16 de abril de 2003, para estabelecer limites ao uso dos dados integrados no âmbito da Política Nacional de Proteção e Defesa Civil.",
+      "data": "2026-10-13T22:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647575"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

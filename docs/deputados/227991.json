@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/227991.jpg",
-  "score": 17.5,
-  "rank": 354,
-  "proposicoes": [],
+  "score": 34.83,
+  "rank": 153,
+  "proposicoes": [
+    {
+      "id": 2647662,
+      "tipo": "EMP",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para dispor sobre o limite de receita bruta anual e o número de empregados do Microempreendedor Individual.",
+      "data": "2026-10-14T17:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647662"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

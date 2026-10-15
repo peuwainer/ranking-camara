@@ -4,10 +4,29 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220616.jpg",
-  "score": 15.0,
-  "rank": 509,
+  "score": 31.88,
+  "rank": 293,
   "proposicoes": [],
   "discursos": [],
-  "orgaos": [],
+  "orgaos": [
+    {
+      "nome": "Comissão de Fiscalização Financeira e Controle",
+      "sigla": "CFFC",
+      "cargo": "Suplente",
+      "desde": "2026-10-14T00:00"
+    },
+    {
+      "nome": "Comissão de Saúde",
+      "sigla": "CSAUDE",
+      "cargo": "Titular",
+      "desde": "2026-10-14T00:00"
+    },
+    {
+      "nome": "Comissão do Esporte",
+      "sigla": "CESPO",
+      "cargo": "Titular",
+      "desde": "2026-10-14T00:00"
+    }
+  ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220616/votacoes-nominais-plenario/2026"
 }

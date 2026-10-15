@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204526.jpg",
-  "score": 18.94,
-  "rank": 232,
+  "score": 15.91,
+  "rank": 465,
   "proposicoes": [
     {
       "id": 2647153,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para disciplinar a concessão de tutela provisória e de decisões judiciais que suspendam a eficácia de leis e de atos normativos de efeito geral.",
       "data": "2026-09-25T18:59",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647153"
+    },
+    {
+      "id": 2647665,
+      "tipo": "EMP",
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para dispor sobre o limite de receita bruta anual e o número de empregados do Microempreendedor Individual.",
+      "data": "2026-10-14T17:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647665"
     }
   ],
   "discursos": [],

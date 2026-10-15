@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204472.jpg",
-  "score": 23.51,
-  "rank": 65,
+  "score": 54.12,
+  "rank": 7,
   "proposicoes": [
     {
       "id": 2646458,
@@ -24,6 +24,69 @@
       "ementa": "Institui o Regime Especial de Garantia de Continuidade da Atividade Rural em Recuperação Judicial, estabelece proteção temporária aos ativos agrícolas essenciais e à produção em curso contra atos constritivos capazes de comprometer o ciclo produtivo e altera a Lei nº 11.101, de 9 de fevereiro de 2005.",
       "data": "2026-09-24T13:30",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646985"
+    },
+    {
+      "id": 2647685,
+      "tipo": "PL",
+      "numero": 5569,
+      "ano": 2026,
+      "ementa": "Institui mecanismos de avaliação periódica da presença do Estado na atividade econômica, aperfeiçoa os procedimentos do Programa Nacional de Desestatização, fortalece a governança, a transparência e a profissionalização das empresas estatais e estabelece medidas de prevenção ao uso político dessas entidades.",
+      "data": "2026-10-14T18:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647685"
+    },
+    {
+      "id": 2647690,
+      "tipo": "PL",
+      "numero": 5570,
+      "ano": 2026,
+      "ementa": "Institui diretrizes nacionais para o fortalecimento da alfabetização estruturada e para o desenvolvimento de competências fundamentais para a vida, o trabalho, a educação financeira, o empreendedorismo, a ciência, a tecnologia e a inovação na educação básica; altera a Lei nº 9.394, de 20 de dezembro de 1996, e dá outras providências.",
+      "data": "2026-10-14T18:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647690"
+    },
+    {
+      "id": 2647694,
+      "tipo": "PL",
+      "numero": 5571,
+      "ano": 2026,
+      "ementa": "Institui diretrizes para a oferta subsidiária de vagas em instituições privadas de educação infantil, mediante custeio público por vaga ocupada, quando insuficiente a oferta da rede pública de creches, e dá outras providências.",
+      "data": "2026-10-14T18:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647694"
+    },
+    {
+      "id": 2647696,
+      "tipo": "PL",
+      "numero": 5572,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Educação Cívico-Militar na educação básica pública, estabelece diretrizes para a criação e o funcionamento de escolas cívico-militares, dispõe sobre a cooperação federativa, a participação da comunidade escolar, a formação dos colaboradores, a proteção dos estudantes, o financiamento, a transparência e a avaliação de resultados, e dá outras providências.",
+      "data": "2026-10-14T18:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647696"
+    },
+    {
+      "id": 2647701,
+      "tipo": "PL",
+      "numero": 5573,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.433, de 8 de janeiro de 1997, para simplificar e conferir maior previsibilidade aos procedimentos de concessão, renovação e alteração de outorgas de direito de uso de recursos hídricos destinadas à irrigação agropecuária, estabelecer prazos e critérios proporcionais de análise e promover a segurança jurídica do produtor rural, preservada a gestão sustentável dos recursos hídricos.",
+      "data": "2026-10-14T18:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647701"
+    },
+    {
+      "id": 2647726,
+      "tipo": "PL",
+      "numero": 5574,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional Acolher de Tutoria e Reforço Escolar entre Estudantes, destinado à melhoria da aprendizagem na educação básica, à redução das desigualdades educacionais e à valorização da cooperação entre alunos, e dá outras providências.",
+      "data": "2026-10-14T19:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647726"
+    },
+    {
+      "id": 2647730,
+      "tipo": "PL",
+      "numero": 5575,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.874, de 20 de setembro de 2019, para estabelecer requisitos de fundamentação técnica, transparência e proporcionalidade para exigências administrativas estaduais, distritais e municipais que restrinjam o exercício de atividades econômicas classificadas como de baixo risco.",
+      "data": "2026-10-14T19:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647730"
     }
   ],
   "discursos": [],

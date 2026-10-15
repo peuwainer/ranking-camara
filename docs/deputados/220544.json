@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220544.jpg",
-  "score": 22.88,
-  "rank": 76,
+  "score": 39.5,
+  "rank": 39,
   "proposicoes": [
     {
       "id": 2647422,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 9.637, de 15 de maio de 1998, para determinar que, no mínimo, 10% (dez por cento) da força de trabalho empregada em contratos de gestão celebrados por organizações sociais de saúde (OSS) seja destinada ao primeiro emprego de auxiliares de enfermagem, técnicos de enfermagem e enfermeiros.",
       "data": "2026-10-13T13:36",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647431"
+    },
+    {
+      "id": 2647592,
+      "tipo": "SBT",
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Autoriza o Poder Executivo Federal, em articulação com os municípios sedes das regiões administrativas, a criar clínicas públicas para dependentes químicos de álcool e drogas.",
+      "data": "2026-10-14T11:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647592"
     }
   ],
   "discursos": [],

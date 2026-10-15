@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/171617.jpg",
-  "score": 15.62,
-  "rank": 497,
+  "score": 31.25,
+  "rank": 325,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -14,6 +14,12 @@
       "sigla": "MERCOSUL",
       "cargo": "Titular",
       "desde": "2026-10-13T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Titular",
+      "desde": "2026-10-14T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/171617/votacoes-nominais-plenario/2026"

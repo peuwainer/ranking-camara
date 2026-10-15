@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 26.63,
-  "rank": 38,
+  "score": 13.25,
+  "rank": 479,
   "proposicoes": [
     {
       "id": 2646602,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 14.457, de 21 de setembro de 2022, para assegurar valor diferenciado do reembolso-creche quando destinado a filho, enteado ou criança sob guarda judicial com deficiência.",
       "data": "2026-09-17T14:38",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646622"
+    },
+    {
+      "id": 2647665,
+      "tipo": "EMP",
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para dispor sobre o limite de receita bruta anual e o número de empregados do Microempreendedor Individual.",
+      "data": "2026-10-14T17:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647665"
     }
   ],
   "discursos": [],
