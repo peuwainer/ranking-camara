@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204472.jpg",
-  "score": 54.12,
-  "rank": 7,
+  "score": 65.79,
+  "rank": 2,
   "proposicoes": [
-    {
-      "id": 2646458,
-      "tipo": "PL",
-      "numero": 5376,
-      "ano": 2026,
-      "ementa": "Institui a modalidade de Microgeração Solar Residencial Simplificada, estabelece regras para sistemas fotovoltaicos plugáveis de baixa potência destinados ao atendimento de unidades consumidoras residenciais, simplifica os procedimentos de conexão e registro, estabelece requisitos de segurança, qualidade e certificação dos equipamentos e dá outras providências.",
-      "data": "2026-09-15T12:14",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646458"
-    },
     {
       "id": 2646985,
       "tipo": "PL",
@@ -87,6 +78,60 @@
       "ementa": "Altera a Lei nº 13.874, de 20 de setembro de 2019, para estabelecer requisitos de fundamentação técnica, transparência e proporcionalidade para exigências administrativas estaduais, distritais e municipais que restrinjam o exercício de atividades econômicas classificadas como de baixo risco.",
       "data": "2026-10-14T19:26",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647730"
+    },
+    {
+      "id": 2647775,
+      "tipo": "PL",
+      "numero": 5576,
+      "ano": 2026,
+      "ementa": "Institui mecanismos para o aproveitamento da capacidade assistencial ociosa dos prestadores privados de serviços de saúde em caráter complementar ao Sistema Único de Saúde (SUS), e altera a Lei nº 8.080, de 19 de setembro de 1990.",
+      "data": "2026-10-15T11:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647775"
+    },
+    {
+      "id": 2647777,
+      "tipo": "PL",
+      "numero": 5577,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes para a integração da telessaúde, do acompanhamento clínico remoto e da entrega domiciliar de medicamentos no âmbito do Sistema Único de Saúde (SUS), com prioridade para regiões de difícil acesso e pessoas com barreiras de deslocamento, e dá outras providências.",
+      "data": "2026-10-15T12:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647777"
+    },
+    {
+      "id": 2647778,
+      "tipo": "PL",
+      "numero": 5578,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, para estabelecer diretrizes de apoio à implantação e à qualificação de Centros de Referência em Transtorno do Espectro Autista, promover a integração da rede de atendimento e fortalecer a inclusão, a autonomia e o suporte às pessoas com transtorno do espectro autista e suas famílias.",
+      "data": "2026-10-15T12:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647778"
+    },
+    {
+      "id": 2647779,
+      "tipo": "PL",
+      "numero": 5579,
+      "ano": 2026,
+      "ementa": "Institui mecanismos de avaliação periódica e redução gradual de subsídios tarifários não sociais custeados pela Conta de Desenvolvimento Energético (CDE), com o objetivo de promover a modicidade tarifária, preservar a Tarifa Social de Energia Elétrica e assegurar transparência na composição dos custos suportados pelos consumidores.",
+      "data": "2026-10-15T12:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647779"
+    },
+    {
+      "id": 2647780,
+      "tipo": "PL",
+      "numero": 5580,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Formação de Talentos, destinada ao desenvolvimento de competências, à orientação educacional e profissional e à preparação dos estudantes para as transformações tecnológicas, econômicas e ocupacionais, e dá outras providências.",
+      "data": "2026-10-15T12:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647780"
+    },
+    {
+      "id": 2648287,
+      "tipo": "PL",
+      "numero": 5583,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes para a ampliação do acesso ao diagnóstico, ao tratamento e ao acompanhamento em saúde mental e neurocognitiva, com atenção às crianças e aos adolescentes com Transtorno do Déficit de Atenção com Hiperatividade, às pessoas com depressão e ansiedade, às pessoas idosas com doenças neurodegenerativas e aos seus familiares e cuidadores, e dá outras providências.",
+      "data": "2026-10-15T14:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648287"
     }
   ],
   "discursos": [],

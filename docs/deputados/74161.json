@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74161.jpg",
-  "score": 33.18,
-  "rank": 198,
+  "score": 35.51,
+  "rank": 123,
   "proposicoes": [
     {
       "id": 2647435,
@@ -15,6 +15,15 @@
       "ementa": "Altera o art. 21-A da Lei nº 11.508, de 20 de julho de 2007, para disciplinar a prestação de serviços vinculados à exportação no âmbito das Zonas de Processamento de Exportação.",
       "data": "2026-10-13T13:56",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647435"
+    },
+    {
+      "id": 2648312,
+      "tipo": "PLP",
+      "numero": 269,
+      "ano": 2026,
+      "ementa": "Institui o Programa de Regularização Tributária para Micro, Pequenas e Médias Empresas, dispõe sobre a exclusão de juros, multas tributárias e encargos legais de créditos tributários federais administrados pela Secretaria Especial da Receita Federal do Brasil ou inscritos em dívida ativa da União e administrados pela Procuradoria-Geral da Fazenda Nacional e dá outras providências.",
+      "data": "2026-10-15T17:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648312"
     }
   ],
   "discursos": [

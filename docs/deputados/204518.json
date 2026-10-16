@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204518.jpg",
-  "score": 34.38,
-  "rank": 165,
-  "proposicoes": [],
+  "score": 36.71,
+  "rank": 90,
+  "proposicoes": [
+    {
+      "id": 2647787,
+      "tipo": "PL",
+      "numero": 5581,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), e a Lei nº 13.344, de 6 de outubro de 2016, para agravar a pena do tráfico de pessoas praticado no contexto de organização criminosa, milícia privada ou grupo paramilitar, instituir prestação patrimonial especial destinada à desarticulação econômica da atividade criminosa quando a vítima for criança ou adolescente, estabelecer protocolo de resposta rápida para casos com indícios de transnacionalidade e dispor sobre o monitoramento do embarque de crianças e adolescentes.",
+      "data": "2026-10-15T13:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647787"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
-  "score": 46.83,
-  "rank": 15,
+  "score": 49.17,
+  "rank": 11,
   "proposicoes": [
     {
       "id": 2647140,
@@ -42,6 +42,15 @@
       "ementa": "Denomina “Aeroporto Internacional de São Paulo/Guarulhos – Lito Sousa” o aeroporto internacional localizado no Município de Guarulhos, Estado de São Paulo.",
       "data": "2026-10-02T15:27",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647292"
+    },
+    {
+      "id": 2647789,
+      "tipo": "PL",
+      "numero": 5582,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para instituir a garantia de distribuição gratuita de propaganda eleitoral identificada em plataformas digitais.",
+      "data": "2026-10-15T14:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647789"
     }
   ],
   "discursos": [],
