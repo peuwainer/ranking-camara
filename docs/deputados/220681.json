@@ -4,9 +4,19 @@
   "partido": "PODE",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220681.jpg",
-  "score": 30.62,
-  "rank": 333,
-  "proposicoes": [],
+  "score": 32.96,
+  "rank": 240,
+  "proposicoes": [
+    {
+      "id": 2648319,
+      "tipo": "PL",
+      "numero": 5589,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a regulamentação da profissão de Consultor de Imagem.",
+      "data": "2026-10-16T10:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648319"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
