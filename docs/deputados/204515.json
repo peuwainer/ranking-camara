@@ -4,9 +4,19 @@
   "partido": "REDE",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204515.jpg",
-  "score": 20.64,
-  "rank": 450,
-  "proposicoes": [],
+  "score": 22.97,
+  "rank": 415,
+  "proposicoes": [
+    {
+      "id": 2648334,
+      "tipo": "PL",
+      "numero": 5592,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, para assegurar o pagamento em dobro do abono anual a todos os aposentados do Regime Geral de Previdência Social.",
+      "data": "2026-10-18T11:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648334"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
