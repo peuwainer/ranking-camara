@@ -4,9 +4,19 @@
   "partido": "PT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178857.jpg",
-  "score": 32.5,
-  "rank": 264,
-  "proposicoes": [],
+  "score": 34.83,
+  "rank": 154,
+  "proposicoes": [
+    {
+      "id": 2648344,
+      "tipo": "PL",
+      "numero": 5594,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a transparência patrimonial, fiscal e financeira dos candidatos à Presidência da República, estabelece mecanismos de autorização de acesso a informações protegidas por sigilo e altera a Lei nº 9.504, de 30 de setembro de 1997.",
+      "data": "2026-10-19T10:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648344"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

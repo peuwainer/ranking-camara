@@ -4,9 +4,19 @@
   "partido": "PODE",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204419.jpg",
-  "score": 32.5,
-  "rank": 260,
-  "proposicoes": [],
+  "score": 34.83,
+  "rank": 153,
+  "proposicoes": [
+    {
+      "id": 2648384,
+      "tipo": "PL",
+      "numero": 5597,
+      "ano": 2026,
+      "ementa": "Altera a legislação eleitoral para instituir o sistema federativo misto nas eleições de Deputado Federal, Deputado Estadual, Deputado Distrital e Vereador.",
+      "data": "2026-10-19T15:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648384"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

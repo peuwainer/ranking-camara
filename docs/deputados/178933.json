@@ -4,9 +4,19 @@
   "partido": "MDB",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178933.jpg",
-  "score": 13.11,
-  "rank": 479,
-  "proposicoes": [],
+  "score": 15.45,
+  "rank": 465,
+  "proposicoes": [
+    {
+      "id": 2648382,
+      "tipo": "PL",
+      "numero": 5596,
+      "ano": 2026,
+      "ementa": "Altera as Leis nºs 11.076, de 30 de dezembro de 2004 e 11.033, de 21 de dezembro de 2004 para instituir o Certificado de Recebíveis do Seguro Rural (CRSR).",
+      "data": "2026-10-19T14:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648382"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

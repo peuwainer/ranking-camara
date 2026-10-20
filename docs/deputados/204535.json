@@ -4,9 +4,19 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg",
-  "score": 38.75,
-  "rank": 47,
-  "proposicoes": [],
+  "score": 41.08,
+  "rank": 30,
+  "proposicoes": [
+    {
+      "id": 2648340,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Institui o Plano Nacional de Políticas Culturais para os Povos Indígenas.",
+      "data": "2026-10-19T10:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648340"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

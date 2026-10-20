@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "AC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220590.jpg",
-  "score": 35.0,
-  "rank": 133,
-  "proposicoes": [],
+  "score": 37.33,
+  "rank": 72,
+  "proposicoes": [
+    {
+      "id": 2648338,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Coronel Ulysses (UNIÃO-AC), pela aprovação do Projeto de Lei nº 6.198, de 2025, e dos Projetos de Lei nº 6.309, de 2025, e nº 6.358, de 2025, apensados, com substitutivo.",
+      "data": "2026-10-19T09:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648338"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -4,9 +4,19 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220652.jpg",
-  "score": 30.62,
-  "rank": 332,
-  "proposicoes": [],
+  "score": 32.96,
+  "rank": 243,
+  "proposicoes": [
+    {
+      "id": 2648348,
+      "tipo": "PL",
+      "numero": 5595,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.906, de 4 de julho de 1994, para extinguir a obrigatoriedade de inscrição suplementar na Ordem dos Advogados do Brasil (OAB), assegurar o exercício da advocacia em todo o território nacional mediante inscrição única.",
+      "data": "2026-10-19T11:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648348"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -4,9 +4,91 @@
   "partido": "PSDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204390.jpg",
-  "score": 31.88,
-  "rank": 303,
-  "proposicoes": [],
+  "score": 52.88,
+  "rank": 7,
+  "proposicoes": [
+    {
+      "id": 2648386,
+      "tipo": "PL",
+      "numero": 5598,
+      "ano": 2026,
+      "ementa": "Institui o Programa Federal Acolhe Universitário, de apoio à permanência e à conclusão da graduação por estudantes do interior ou em situação de vulnerabilidade socioeconômica.",
+      "data": "2026-10-19T15:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648386"
+    },
+    {
+      "id": 2648387,
+      "tipo": "PL",
+      "numero": 5599,
+      "ano": 2026,
+      "ementa": "Institui o Programa Federal Água na Roça, Alimento na Mesa, destinado à segurança hídrica da produção rural, ao uso eficiente da água e à conservação dos recursos naturais.",
+      "data": "2026-10-19T15:22",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648387"
+    },
+    {
+      "id": 2648388,
+      "tipo": "PL",
+      "numero": 5600,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional Além do Asfalto, para fortalecer o atendimento pré-hospitalar em municípios de difícil acesso mediante ambulâncias de alta resistência e medidas de confiabilidade da frota.",
+      "data": "2026-10-19T15:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648388"
+    },
+    {
+      "id": 2648389,
+      "tipo": "PL",
+      "numero": 5601,
+      "ano": 2026,
+      "ementa": "Institui o Programa Federal Cuidar de Quem Cuidou, destinado à prevenção do abandono, do isolamento social e da violência contra a pessoa idosa, ao cuidado integral e ao apoio aos cuidadores familiares.",
+      "data": "2026-10-19T15:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648389"
+    },
+    {
+      "id": 2648390,
+      "tipo": "PL",
+      "numero": 5602,
+      "ano": 2026,
+      "ementa": "Institui o Programa Federal Cuidar para Incluir, destinado ao cuidado integrado e à inclusão das pessoas com transtorno do espectro autista, transtorno do déficit de atenção com hiperatividade, transtornos de aprendizagem e outras condições do neurodesenvolvimento.",
+      "data": "2026-10-19T15:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648390"
+    },
+    {
+      "id": 2648391,
+      "tipo": "PL",
+      "numero": 5603,
+      "ano": 2026,
+      "ementa": "Institui o Programa Federal Lixo com Destino Certo para a gestão regionalizada de resíduos sólidos urbanos, o encerramento e a recuperação de lixões e a inclusão dos catadores.",
+      "data": "2026-10-19T15:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648391"
+    },
+    {
+      "id": 2648392,
+      "tipo": "PL",
+      "numero": 5604,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional Pequeno Grande Homem, destinado à formação integral de adolescentes em situação de vulnerabilidade social, e a Rede Nacional Empresa Formadora.",
+      "data": "2026-10-19T15:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648392"
+    },
+    {
+      "id": 2648393,
+      "tipo": "PL",
+      "numero": 5605,
+      "ano": 2026,
+      "ementa": "Estabelece medidas de prevenção, denúncia, apuração e responsabilização por tratamento desrespeitoso no atendimento público e nas relações funcionais em ambiente oficial.",
+      "data": "2026-10-19T15:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648393"
+    },
+    {
+      "id": 2648394,
+      "tipo": "PL",
+      "numero": 5606,
+      "ano": 2026,
+      "ementa": "Institui o Programa Trânsito sem Armadilhas e altera as Leis nº 9.503, de 23 de setembro de 1997, e nº 9.602, de 21 de janeiro de 1998, para aprimorar a fiscalização preventiva e a aplicação das receitas de multas de trânsito.",
+      "data": "2026-10-19T15:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648394"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

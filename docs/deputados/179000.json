@@ -4,9 +4,46 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/179000.jpg",
-  "score": 31.88,
-  "rank": 294,
-  "proposicoes": [],
+  "score": 41.21,
+  "rank": 29,
+  "proposicoes": [
+    {
+      "id": 2648396,
+      "tipo": "PRC",
+      "numero": 45,
+      "ano": 2026,
+      "ementa": "Institui a Comenda Deputado Professor Paulo Fernando, destinada a agraciar personalidades e instituições que tenham se destacado na defesa e na promoção da vida desde a concepção, e dá outras providências.",
+      "data": "2026-10-19T16:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648396"
+    },
+    {
+      "id": 2648398,
+      "tipo": "PRC",
+      "numero": 46,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a criação da Procuradoria de Proteção e Defesa Animal da Câmara dos Deputados e dá outras providências.",
+      "data": "2026-10-19T16:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648398"
+    },
+    {
+      "id": 2648399,
+      "tipo": "PRC",
+      "numero": 47,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a criação da Procuradoria da Pessoa Idosa da Câmara dos Deputados e dá outras providências.",
+      "data": "2026-10-19T16:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648399"
+    },
+    {
+      "id": 2648400,
+      "tipo": "PRC",
+      "numero": 48,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a criação da Procuradoria das Pessoas com Deficiência, Pessoas com Doenças Raras e Pessoas com Altas Habilidades ou Superdotação da Câmara dos Deputados e dá outras providências.",
+      "data": "2026-10-19T17:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648400"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
