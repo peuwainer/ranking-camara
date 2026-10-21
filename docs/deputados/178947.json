@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178947.jpg",
-  "score": 33.58,
-  "rank": 197,
+  "score": 34.2,
+  "rank": 172,
   "proposicoes": [
     {
       "id": 2646921,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646921"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-14T20:48",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. SÓSTENES CAVALCANTE (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, a nossa orientação é \"sim\". Queremos registrar que este é um projeto do Executivo desde a época do Governo do ",
+      "transcricao": "O SR. SÓSTENES CAVALCANTE (PL - RJ. Pela ordem. Sem revisão do orador.) - Sr. Presidente, a nossa orientação é \"sim\". Queremos registrar que este é um projeto do Executivo desde a época do Governo do Presidente Bolsonaro e muito bem relatado pelo ilustre Deputado Marcelo Queiroz, a quem já aproveito para parabenizar pela reeleição, bem como V.Exa., Presidente Hugo Motta, e todos os colegas desta Casa que foram reeleitos. Àqueles que não tiveram a mesma felicidade, quero dizer que na vida é assim: às vezes a gente não consegue os nossos objetivos momentâneos, mas a vida tem motivação de sobra para a gente continuar perseguindo os nossos objetivos. Desejo êxito e sucesso àqueles que talvez não tenham sido bem-sucedidos nas urnas! Dito isso, Presidente, nós temos a grata satisfação de votar um projeto que foi da era do Governo Bolsonaro, enviado pelo Executivo e muito bem relatado pelo Deputado Marcelo Queiroz. A orientação do PL é \"sim\"."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",

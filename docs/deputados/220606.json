@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220606.jpg",
-  "score": 40.46,
-  "rank": 35,
+  "score": 41.81,
+  "rank": 25,
   "proposicoes": [
     {
       "id": 2646882,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para dispor sobre a obrigatoriedade de instituição de centros temporários de acolhimento para crianças e adolescentes que sejam filhos de trabalhadores formais, informais, ambulantes, catadores de materiais recicláveis e demais pessoas que desempenhem atividades laborais vinculadas à realização de eventos de grande porte ou festividades populares.",
       "data": "2026-09-21T18:37",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646882"
+    },
+    {
+      "id": 2648603,
+      "tipo": "PL",
+      "numero": 5625,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.967, de 9 de setembro de 2024, para permitir a oferta de cursos de formação de vigilantes na modalidade semipresencial.",
+      "data": "2026-10-20T17:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648603"
     }
   ],
   "discursos": [],

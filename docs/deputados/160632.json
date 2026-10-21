@@ -4,9 +4,28 @@
   "partido": "UNIÃO",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160632.jpg",
-  "score": 34.38,
-  "rank": 168,
-  "proposicoes": [],
+  "score": 38.06,
+  "rank": 57,
+  "proposicoes": [
+    {
+      "id": 2648525,
+      "tipo": "PL",
+      "numero": 5616,
+      "ano": 2026,
+      "ementa": "Institui o Sistema Nacional de Controle Inteligente e Preventivo de Velocidade para veículos de transporte de cargas e de passageiros de grande porte, estabelece mecanismos tecnológicos de advertência, assistência à condução e prevenção de acidentes, e dá outras providências.",
+      "data": "2026-10-20T14:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648525"
+    },
+    {
+      "id": 2648526,
+      "tipo": "PL",
+      "numero": 5617,
+      "ano": 2026,
+      "ementa": "Institui o Sistema Nacional de Prevenção de Colisões por Restrição de Gabarito, estabelece mecanismos de identificação, sinalização e alerta antecipado para veículos que se aproximem de estruturas rodoviárias com limitação de altura ou dimensões, e dá outras providências.",
+      "data": "2026-10-20T14:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648526"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

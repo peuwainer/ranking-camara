@@ -4,7 +4,7 @@
   "partido": "PP",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204450.jpg",
-  "score": 4.21,
+  "score": 4.83,
   "rank": 500,
   "proposicoes": [
     {
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646889"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-15T15:20",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DOUTOR LUIZINHO (Bloco/PP - RJ. Pela ordem. Sem revisão do orador.) - Presidente, eu quero saudar V.Exa. e agradecer a confiança na sua indicação para a relatoria desta matéria. Em 2024, a gente",
+      "transcricao": "O SR. DOUTOR LUIZINHO (Bloco/PP - RJ. Pela ordem. Sem revisão do orador.) - Presidente, eu quero saudar V.Exa. e agradecer a confiança na sua indicação para a relatoria desta matéria. Em 2024, a gente apresentou o Projeto de Lei nº 785, que criava o Exame Nacional de Proficiência em Medicina, com o objetivo de disciplinar e garantir o exame médico de qualidade. O Governo Federal nos enviou uma medida provisória, e hoje estamos numa grande discussão. Eu quero aqui saudar e agradecer a participação do Ministério da Educação, através do seu representante Leo de Brito. Quero agradecer ao Felipe Proenço, Secretário-Executivo do Ministério da Saúde, aos representantes do Ministério da Saúde. Quero agradecer também aos representantes do Conselho Federal de Medicina, na pessoa do Presidente Hiran Gallo. Sr. Presidente, hoje a gente tem um avanço. Todos os estudantes de Medicina serão avaliados no segundo, no quarto e no sexto ano. É um exame que, diferentemente de uma prova de vestibular ou do exame da OAB, vai permitir que a gente possa avaliar o aluno e avaliar a faculdade. A gente a certeza de que a garantia desse exame vai fazer com que a gente possa ter bons médicos formados ao final desse curso e que, com o tempo, a sociedade possa discernir entre as boas e as más faculdades de Medicina. Presidente, nos últimos 5 anos, tivemos quase 50% de aumento do número de cursos de Medicina. E o Exame Nacional de Avaliação da Formação Médica garante ao Ministério da Educação a realização da prova no segundo e quarto ano com protagonismo e, no sexto ano, a participação do Conselho Federal de Medicina, para que a pessoa tenha o certificado, a possibilidade do registro no conselho. Eu tenho certeza de que damos hoje um grande passo para a medicina e para a saúde do Brasil. Com certeza, nos próximos anos, nós vamos ter a garantia de médicos com uma formação melhor. Eu quero aqui me dirigir ao Deputado Hildo Rocha, que fez uma manifestação e um pedido para que nós possamos fazer uma revalidação dos profissionais que já exercem a Medicina no Brasil. Acho que isso pode ser um próximo passo, mas, neste momento, damos um grande passo. Mais uma vez, muito obrigado a V.Exa. pela oportunidade."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 14, de 2021, do Sr. Dr. Leonardo e outros, que \"altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais\"",

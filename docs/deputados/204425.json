@@ -4,10 +4,25 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204425.jpg",
-  "score": 31.88,
-  "rank": 310,
+  "score": 34.1,
+  "rank": 176,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-14T19:48",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. SILVIO COSTA FILHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Presidente, eu quero parabenizar V.Exa. pela sua capacidade de dialogar e, sobretudo, de construir entendimento",
+      "transcricao": "O SR. SILVIO COSTA FILHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Presidente, eu quero parabenizar V.Exa. pela sua capacidade de dialogar e, sobretudo, de construir entendimento entre os diferentes. Acho que V.Exa. dá, na noite de hoje, uma demonstração de liderança e de compromisso com a agenda do desenvolvimento do Brasil. Tivemos a aprovação da proposta relativa à escala 6 por 1, que agora também será votada no Senado. Hoje, votamos uma pauta importante para o Brasil, que dialoga com o empreendedorismo e com a economia regional e fortalece o empreendedorismo em todas as regiões do País. Serão mais de 15 milhões de brasileiros beneficiados. Aumentamos o teto do MEI para 140 mil reais e aprovamos o perdão das dívidas tributárias desses trabalhadores. Isso vai estimular, sem dúvida alguma, o crescimento da nossa economia. Como membro do Republicanos e Líder da Maioria, quero parabenizar V.Exa., Presidente. V.Exa. tem sido um pilar da democracia em um momento de grande tensão institucional no Brasil. V.Exa., tão jovem, está demonstrando capacidade de dialogar com a Direita, com a Esquerda e com o Centro, sobretudo em favor das pautas de interesse do Brasil. Vemos essa demonstração na noite de hoje: mais de 400 votos favoráveis a uma pauta que uniu o Parlamento brasileiro. Parabéns a V.Exa.! Parabéns ao Brasil! Parabéns ao Presidente Lula!"
+    },
+    {
+      "data": "2026-10-14T19:20",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. SILVIO COSTA FILHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Presidente, a Maioria encaminha \"sim\", desde já parabenizando o Relator da matéria, o Deputado Rubens Pereira J",
+      "transcricao": "O SR. SILVIO COSTA FILHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Presidente, a Maioria encaminha \"sim\", desde já parabenizando o Relator da matéria, o Deputado Rubens Pereira Júnior, que pôde ouvir a todos de maneira democrática e participativa, para que nós pudéssemos aprovar uma matéria tão importante na noite de hoje. É uma matéria que dialoga com o empreendedor individual, que fortalece o empreendedorismo, que amplia a capacidade de investimentos, sobretudo daqueles que querem construir uma agenda produtiva no Brasil. O empreendedor individual cumpre um papel fundamental na construção da nossa economia, mas, sobretudo, na construção de sonhos, porque muita gente começa a empreender, e isso vai movimentando a economia local, isso roda a roda da economia, gerando, sobretudo, emprego e renda para o Brasil. Tanto é que hoje o Brasil tem o menor desemprego da sua história. Isso é fundamental para o desenvolvimento da agenda do nosso País. Parabéns à Câmara Federal, que cumpre um papel fundamental na noite de hoje de poder contribuir com a agenda do desenvolvimento do nosso Brasil. Parabéns, Presidente Lula!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Trabalho",

@@ -4,9 +4,46 @@
   "partido": "PODE",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220622.jpg",
-  "score": 36.25,
-  "rank": 107,
-  "proposicoes": [],
+  "score": 43.62,
+  "rank": 16,
+  "proposicoes": [
+    {
+      "id": 2648413,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para explicitar a natureza absoluta da vulnerabilidade prevista no art. 217-A e a irrelevância de circunstâncias relacionadas à consentimento, vínculo afetivo ou constituição de núcleo familiar.",
+      "data": "2026-10-20T11:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648413"
+    },
+    {
+      "id": 2648417,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Modifica o art. 5º da Lei nº 14.601, de 19 de junho de 2023, para incluir entre os beneficiários do Programa Bolsa Família os menores de idade atendidos por programas de acolhimento institucional.",
+      "data": "2026-10-20T12:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648417"
+    },
+    {
+      "id": 2648487,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui medidas de proteção contra a evasão acadêmica feminina no âmbito das instituições de ensino superior e dá outras providências.",
+      "data": "2026-10-20T14:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648487"
+    },
+    {
+      "id": 2648496,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei Brasileira de Inclusão da Pessoa com Deficiência para dispor sobre a garantia de regime escolar especial, atividades pedagógicas domiciliares, proteção da frequência escolar e continuidade do processo de aprendizagem de estudantes com deficiência em situações excepcionais que comprometam a acessibilidade, a segurança, a salubridade ou a permanência nas instituições de ensino",
+      "data": "2026-10-20T14:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648496"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

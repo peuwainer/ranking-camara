@@ -4,10 +4,25 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/221338.jpg",
-  "score": 36.88,
-  "rank": 85,
+  "score": 39.1,
+  "rank": 44,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-14T19:24",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. PROFESSORA LUCIENE CAVALCANTE (Bloco/PSOL - SP. Pela ordem. Sem revisão da oradora.) - Presidente, a Federação PSOL REDE orienta \"sim\" a este conjunto de medidas de proteção ao MEI, que vai amp",
+      "transcricao": "A SRA. PROFESSORA LUCIENE CAVALCANTE (Bloco/PSOL - SP. Pela ordem. Sem revisão da oradora.) - Presidente, a Federação PSOL REDE orienta \"sim\" a este conjunto de medidas de proteção ao MEI, que vai ampliar o teto, que vai possibilitar a contratação de mais uma pessoa, que vai trazer o perdão das dívidas tributárias e ainda vai criar o Pix de 5 mil reais para investimento. É assim, protegendo aqueles que trabalham, que a gente vai se desenvolver e enfrentar as injustiças sociais. Hoje a Câmara aprova esse pacote de medidas do Governo Lula de proteção ao MEI, e o Senado Federal aprova o fim dessa escala desumana 6 por 1. É assim que a gente vai construindo um Brasil melhor. Obrigada, Presidente."
+    },
+    {
+      "data": "2026-10-14T17:08",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. PROFESSORA LUCIENE CAVALCANTE (Bloco/PSOL - SP. Pela ordem. Sem revisão da oradora.) - Presidente, a Federação PSOL REDE orienta \"não\" à retirada de pauta. Trata-se de várias medidas para a pro",
+      "transcricao": "A SRA. PROFESSORA LUCIENE CAVALCANTE (Bloco/PSOL - SP. Pela ordem. Sem revisão da oradora.) - Presidente, a Federação PSOL REDE orienta \"não\" à retirada de pauta. Trata-se de várias medidas para a proteção do microempreendedor, que precisa, sim, ter o perdão de suas dívidas tributárias; precisa, sim, ter investimento, Pix de 5 mil reais. Isso será muito importante para todos aqueles que estão empreendendo para prosperarem. É um absurdo retirarmos este que é um projeto tão importante. Por isso, \"não\". O PSOL vai encaminhar a votação \"sim\" a este pacote de medidas, para que possa dar mais proteção a quem empreende."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

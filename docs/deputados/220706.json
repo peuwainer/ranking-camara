@@ -4,10 +4,18 @@
   "partido": "PP",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220706.jpg",
-  "score": 20.01,
-  "rank": 455,
+  "score": 21.12,
+  "rank": 450,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-14T15:32",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. PADOVANI (Bloco/PP - PR. Pela ordem. Sem revisão do orador.) - Sr. Presidente, requeremos agora informações ao Ministério da Agricultura a respeito da calamidade por que estamos passando em rela",
+      "transcricao": "O SR. PADOVANI (Bloco/PP - PR. Pela ordem. Sem revisão do orador.) - Sr. Presidente, requeremos agora informações ao Ministério da Agricultura a respeito da calamidade por que estamos passando em relação ao trigo no Estado do Paraná. O Paraná é o segundo maior produtor de trigo do Brasil, atrás apenas do Estado do Rio Grande do Sul, mas o excesso de chuvas, a alta taxa de juros e a falta de seguro agrícola estão transformando essa produção numa verdadeira calamidade de prejuízos para o agricultor. Pedimos ao Ministério da Agricultura, por meio do Ministro André Carlos Alves, informações sobre que está sendo feito e preparado para socorrer esses agricultores. O Paraná tem capacidade de moagem de 3,8 milhões de toneladas, mas não vão ser colhidos este ano 2 milhões de toneladas. Quero reiterar esse pedido de informações ao Ministério da Agricultura sobre o Estado do Paraná. Muito obrigado, Sr. Presidente."
+    }
+  ],
   "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/220706/votacoes-nominais-plenario/2026"
 }

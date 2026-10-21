@@ -4,10 +4,25 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/152605.jpg",
-  "score": 20.64,
-  "rank": 451,
+  "score": 22.86,
+  "rank": 417,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-14T18:28",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. GLAUBER BRAGA (Bloco/PSOL - RJ. Pela ordem. Sem revisão do orador.) - Presidente, acaba de sair a pesquisa Quaest. Os resultados indicavam nas pesquisas iniciais uma diferença de 6%. Na espontân",
+      "transcricao": "O SR. GLAUBER BRAGA (Bloco/PSOL - RJ. Pela ordem. Sem revisão do orador.) - Presidente, acaba de sair a pesquisa Quaest. Os resultados indicavam nas pesquisas iniciais uma diferença de 6%. Na espontânea da Quaest, a diferença agora é de 1 ponto percentual apenas. (Palmas.) O Sr. Flávio Bolsonaro vai ser derrotado, e nós vamos reeleger Lula Presidente do Brasil. As mobilizações, as manifestações em todo o País estão dando resultado. O \"tesouraço\" do Sr. Flávio Bolsonaro não vai acontecer, porque ele vai perder as eleições. Hoje, o Líder do PL disse que era tudo uma farsa e que eles iam trabalhar para revogar o fim da escala 6 por 1 depois de eleitos. Isso não vai acontecer, porque eles vão perder as eleições!"
+    },
+    {
+      "data": "2026-10-14T18:00",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. GLAUBER BRAGA (Bloco/PSOL - RJ. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente. Acaba de sair esta matéria: \"Flávio vai insistir em votação da PEC das horas trabalhadas depois ",
+      "transcricao": "O SR. GLAUBER BRAGA (Bloco/PSOL - RJ. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente. Acaba de sair esta matéria: \"Flávio vai insistir em votação da PEC das horas trabalhadas depois da eleição, diz líder do PL\", o Deputado Sóstenes Cavalcante. Então, estão enganando o povo brasileiro? O Senador disse que votaria a favor da PEC por um clamor popular. Agora, o seu Líder na Câmara dos Deputados diz que é mentira, diz que, logo depois das eleições, se ele fosse eleito Presidente, trabalharia para revogar aquilo que está sendo votado hoje no Senado Federal. Isso é uma vergonha! É uma vergonha! Não vão conseguir, com esse tipo de expediente baixo, enganar o povo brasileiro. O Sr. Flávio Bolsonaro, mentindo como está, não vai vencer estas eleições."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Legislação Participativa",

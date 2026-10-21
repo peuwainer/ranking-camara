@@ -4,10 +4,18 @@
   "partido": "MDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204412.jpg",
-  "score": 33.12,
-  "rank": 210,
+  "score": 34.24,
+  "rank": 171,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-14T15:00",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. DR. ZACHARIAS CALIL (Bloco/MDB - GO. Sem revisão do orador.) - Muito obrigado, Presidente. No próximo dia 18, domingo, nós teremos a comemoração do Dia do Médico. A medicina é mais do que uma pr",
+      "transcricao": "O SR. DR. ZACHARIAS CALIL (Bloco/MDB - GO. Sem revisão do orador.) - Muito obrigado, Presidente. No próximo dia 18, domingo, nós teremos a comemoração do Dia do Médico. A medicina é mais do que uma profissão; é um compromisso com a vida. Neste Dia do Médico, eu quero prestar minha homenagem a todos os colegas que escolheram dedicar seus conhecimentos, seu tempo e sua vida à missão de cuidar do próximo. Eu, como médico e Parlamentar, conheço de perto a responsabilidade que acompanha essa escolha. Sei que, por trás de cada paciente, existe uma história, uma família, uma esperança e, muitas vezes, uma luta pela vida. A medicina exige ciência, dedicação e atualização permanente, mas também exige sensibilidade, empatia e humanidade. Cada vida salva, cada dor aliviada, cada esperança renovada reafirma o valor dessa nobre missão. Defender a medicina é também defender os médicos, valorizar os profissionais da saúde, e a gente vê de perto como isso tem acontecido na vida das pessoas  trata-se de uma atualização que também exige sensibilidade. Temos que valorizar os profissionais de saúde, lutar por melhores condições de trabalho e garantir à população brasileira um atendimento digno, humano e de qualidade. Aos meus colegas médicos, minha admiração, meu respeito e minha gratidão. Que nunca nos faltem vocação, coragem e compromisso para continuar! Parabéns a todos os médicos do Brasil! Cuidar da vida é a nossa missão; honrar a medicina é o nosso compromisso. Fica aqui o meu recado, Presidente. Gostaria que esta minha fala fosse publicada em todas as redes sociais da Câmara Federal. Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a elaborar propostas para analisar o enfrentamento da tuberculose como compromisso internacional para a eliminação desta doença como problema de saúde pública até o ano de 2030, conforme preconizado pela Organização das Nações Unidas (ONU)",

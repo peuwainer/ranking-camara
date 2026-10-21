@@ -4,10 +4,18 @@
   "partido": "PSD",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74317.jpg",
-  "score": 32.5,
-  "rank": 267,
+  "score": 33.61,
+  "rank": 202,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-14T15:28",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. JULIO CESAR RIBEIRO (Bloco/REPUBLICANOS - DF. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, hoje subo a esta tribuna com o coração cheio de gratidão. Primeiramente, agradeço ",
+      "transcricao": "O SR. JULIO CESAR RIBEIRO (Bloco/REPUBLICANOS - DF. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, hoje subo a esta tribuna com o coração cheio de gratidão. Primeiramente, agradeço a Deus, que tem me guiado nos meus caminhos, meus passos e sustentado minha caminhada, dando-me forças para continuar cumprindo a missão de servir à população do Distrito Federal. Agradeço à minha família, em especial à minha esposa Sonia, que sempre esteve ao meu lado, e, de maneira muito especial, aos 90.092 brasilienses que depositaram em mim a sua confiança e me deram a honra de continuar representando nossa cidade nesta Casa. São 14 anos de uma trajetória dedicada à vida pública em Brasília, uma caminhada construída com muito trabalho, responsabilidade e, acima de tudo, amor pela nossa gente. Ao longo desses anos, aprendi que a política só faz sentido quando é instrumento para transformar a vida das pessoas. Por isso, recebo essa vitória não apenas como reconhecimento por um trabalho realizado, mas também como a renovação de uma grande responsabilidade. Cada um desses 90.092 votos representa uma história, uma família, uma esperança e uma confiança que faço questão de honrar. Agradeço também à minha equipe, aos nossos apoiadores e a todos os que caminharam conosco. Essa vitória não é individual, é uma conquista coletiva, construída por muitas mãos, com fé, trabalho e perseverança. Quero reafirmar que continuarei trabalhando, com mais afinco ainda, pelas bandeiras que sempre nortearam minha vida pública: o esporte, a educação, a segurança, a proteção dos nossos idosos, de crianças e pessoas com deficiência, além da defesa inegociável da fé, da família, da liberdade e da vida. Aos que confiaram em mim deixo uma certeza: continuarei sendo o mesmo Julio Cesar de sempre, presente nas comunidades, ouvindo as pessoas e trabalhando incansavelmente pelo nosso Distrito Federal. São 14 anos de história, 90.092 votos de confiança e uma vontade ainda maior de continuar trabalhando por Brasília. Que Deus continue abençoando a nossa caminhada, o nosso Distrito Federal e o nosso País! Parabenizo o Presidente desta Casa neste momento, o nosso querido Deputado Lula da Fonte, que Deus também abençoou, trazendo-o para esta nova caminhada. Que Deus abençoe a todos! Meu amigo Deputado Luiz Lima, que estou vendo ali, parabéns pela sua vitória! O esporte continuará sendo bem representado nesta Casa. Obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Centro de Estudos e Debates Estratégicos",

@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220652.jpg",
-  "score": 32.96,
-  "rank": 243,
+  "score": 34.31,
+  "rank": 169,
   "proposicoes": [
     {
       "id": 2648348,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 8.906, de 4 de julho de 1994, para extinguir a obrigatoriedade de inscrição suplementar na Ordem dos Advogados do Brasil (OAB), assegurar o exercício da advocacia em todo o território nacional mediante inscrição única.",
       "data": "2026-10-19T11:53",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648348"
+    },
+    {
+      "id": 2648420,
+      "tipo": "PL",
+      "numero": 5613,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer prazo para instalação de equipamento de monitoração eletrônica e incentivar ações de policiamento preventivo no enfrentamento à violência doméstica e familiar contra a mulher.",
+      "data": "2026-10-20T12:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648420"
     }
   ],
   "discursos": [],

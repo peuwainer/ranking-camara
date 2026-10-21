@@ -4,10 +4,18 @@
   "partido": "PSD",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220698.jpg",
-  "score": 21.89,
-  "rank": 433,
+  "score": 23.0,
+  "rank": 416,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-14T15:00",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. BETO PRETO (Bloco/PSD - PR. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente Charles Fernandes. Eu quero parabenizar V.Exa. pela reeleição e aproveitar este momento para dar as boas-vi",
+      "transcricao": "O SR. BETO PRETO (Bloco/PSD - PR. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente Charles Fernandes. Eu quero parabenizar V.Exa. pela reeleição e aproveitar este momento para dar as boas-vindas à Casa ao nosso ex-Prefeito de Cascavel Leonaldo Paranhos, um dos melhores Prefeitos do Paraná, que passa a integrar a bancada do PSD do Paraná. A partir de fevereiro, ele estará conosco nesta Casa representando o Paraná e fortalecendo a bancada do Estado. Ele também foi Secretário de Estado do Turismo do Governo Ratinho Junior e fez um grande trabalho tanto como Prefeito quanto como Secretário de Estado. Agora, vai trazer para esta Casa toda a sua experiência, a fim de ajudar a discutir os problemas de todo o Brasil no âmbito dos Municípios e também no âmbito do turismo. Eu quero aproveitar para parabenizá-lo e agradecer-lhe a presença. Ele está hoje em Brasília cuidando dos assuntos de Cascavel, em especial da saúde de Cascavel, e eu faço questão de registrar este momento na Câmara dos Deputados. Muito obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Saúde",

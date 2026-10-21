@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160641.jpg",
-  "score": 34.83,
-  "rank": 157,
+  "score": 36.18,
+  "rank": 110,
   "proposicoes": [
     {
       "id": 2647627,
@@ -15,6 +15,15 @@
       "ementa": "Institui o Código Unificado dos Direitos dos Animais, dispõe sobre a natureza jurídica dos animais, seus direitos fundamentais, medidas de proteção, sanções administrativas e crimes, e dá outras providências.",
       "data": "2026-10-14T14:10",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647627"
+    },
+    {
+      "id": 2648406,
+      "tipo": "PL",
+      "numero": 5610,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para instituir procedimento de verificação de informações factuais apresentadas durante debates eleitorais.",
+      "data": "2026-10-19T21:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648406"
     }
   ],
   "discursos": [],

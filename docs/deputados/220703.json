@@ -4,8 +4,8 @@
   "partido": "AVANTE",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220703.jpg",
-  "score": 36.08,
-  "rank": 114,
+  "score": 36.7,
+  "rank": 91,
   "proposicoes": [
     {
       "id": 2647523,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647523"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-14T17:12",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. NETO CARLETTO (AVANTE - BA. Pela ordem. Sem revisão do orador.) - Queria aproveitar a oportunidade para saudar o Deputado eleito pelo Estado da Bahia, pelo Avante, Elmo Vaz. Quero agradecer, tam",
+      "transcricao": "O SR. NETO CARLETTO (AVANTE - BA. Pela ordem. Sem revisão do orador.) - Queria aproveitar a oportunidade para saudar o Deputado eleito pelo Estado da Bahia, pelo Avante, Elmo Vaz. Quero agradecer, também, ao povo da Bahia, que me confiou mais um mandato. Vou representar o povo baiano por mais 4 anos nesta Casa. Ao mesmo tempo, parabenizo V.Exa., Presidente, pelo excelente trabalho realizado na condução dos trabalhos desta Casa. Eu não poderia deixar de antecipar meu apoio à reeleição de V.Exa. para a Presidência desta Casa. Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a acompanhar e monitorar a conclusão das obras públicas paralisadas e inacabadas no país",
