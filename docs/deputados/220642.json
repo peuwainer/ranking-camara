@@ -4,9 +4,28 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220642.jpg",
-  "score": 24.39,
-  "rank": 385,
-  "proposicoes": [],
+  "score": 27.72,
+  "rank": 354,
+  "proposicoes": [
+    {
+      "id": 2648636,
+      "tipo": "PL",
+      "numero": 5636,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para proibir, em todo o território nacional, a fabricação, a importação, a comercialização e o uso de fantasias, alegorias, adereços e ornamentos confeccionados com partes de origem animal, estabelecer mecanismos de fiscalização e responsabilização administrativa e dá outras providências.",
+      "data": "2026-10-21T13:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648636"
+    },
+    {
+      "id": 2648697,
+      "tipo": "PL",
+      "numero": 5641,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Transparência, Controle da Qualidade e Combate à Adulteração de Suplementos Alimentares; estabelece diretrizes para monitoramento laboratorial, autocontrole, rastreabilidade, divulgação de informações, recolhimento de produtos e fiscalização do comércio eletrônico; altera a Lei nº 6.437, de 20 de agosto de 1977; e dá outras providências.",
+      "data": "2026-10-21T17:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648697"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

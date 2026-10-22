@@ -4,9 +4,19 @@
   "partido": "PSD",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/92699.jpg",
-  "score": 31.88,
-  "rank": 293,
-  "proposicoes": [],
+  "score": 33.54,
+  "rank": 198,
+  "proposicoes": [
+    {
+      "id": 2648703,
+      "tipo": "PL",
+      "numero": 5645,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.383, de 30 de dezembro de 1991, para assegurar às instituições autorizadas a funcionar pelo Banco Central do Brasil e às demais pessoas jurídicas sujeitas a deveres legais de prevenção à lavagem de dinheiro, ao financiamento do terrorismo e à fraude o acesso isonômico, mediante convênio, às informações cadastrais não protegidas por sigilo fiscal mantidas pela Secretaria Especial da Receita Federal do Brasil.",
+      "data": "2026-10-21T17:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648703"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204369.jpg",
-  "score": 34.97,
-  "rank": 149,
+  "score": 38.12,
+  "rank": 49,
   "proposicoes": [
     {
       "id": 2647489,
@@ -15,6 +15,24 @@
       "ementa": "Dispõe sobre a autonomia da gestante e da parturiente na escolha informada da via de parto, assegura o acesso à analgesia no parto vaginal, estabelece regras destinadas a impedir incentivos econômicos indevidos na assistência obstétrica, altera as Leis nº 8.080, de 19 de setembro de 1990, e nº 9.656, de 3 de junho de 1998, e dá outras providências",
       "data": "2026-10-13T17:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647489"
+    },
+    {
+      "id": 2648619,
+      "tipo": "PL",
+      "numero": 5633,
+      "ano": 2026,
+      "ementa": "Revoga a Lei nº 15.434, de 16 de junho de 2026, que cria, no âmbito do Conselho Nacional de Justiça, o Departamento de Monitoramento e Fiscalização das Decisões dos Sistemas Internacionais de Direitos Humanos (DDH).",
+      "data": "2026-10-21T12:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648619"
+    },
+    {
+      "id": 2648620,
+      "tipo": "PL",
+      "numero": 5634,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.434, de 16 de junho de 2026, para dispor sobre os efeitos dos atos emanados dos Sistemas Internacionais de Direitos Humanos no âmbito do Conselho Nacional de Justiça",
+      "data": "2026-10-21T12:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648620"
     }
   ],
   "discursos": [],

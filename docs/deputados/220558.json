@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220558.jpg",
-  "score": 36.84,
-  "rank": 85,
+  "score": 38.33,
+  "rank": 47,
   "proposicoes": [
     {
       "id": 2647665,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para dispor sobre o limite de receita bruta anual e o número de empregados do Microempreendedor Individual.",
       "data": "2026-10-14T17:26",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647665"
+    },
+    {
+      "id": 2648677,
+      "tipo": "PL",
+      "numero": 5639,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), para reduzir o prazo de habilitação ao voto em trânsito, admitir a habilitação por meio eletrônico e dispor sobre o voto em trânsito dos motoristas profissionais de transporte rodoviário de cargas, inclusive em seções eleitorais instaladas em postos da Polícia Rodoviária Federal.",
+      "data": "2026-10-21T16:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648677"
     }
   ],
   "discursos": [],
