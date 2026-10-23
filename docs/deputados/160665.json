@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
-  "score": 33.75,
-  "rank": 172,
-  "proposicoes": [],
+  "score": 35.42,
+  "rank": 115,
+  "proposicoes": [
+    {
+      "id": 2648807,
+      "tipo": "PL",
+      "numero": 5649,
+      "ano": 2026,
+      "ementa": "Autoriza a concessão de apoio financeiro aos produtores independentes de cana-de-açúcar da Região Nordeste no exercício de 2026 e a destinação de recursos para linhas de financiamento reembolsável destinadas à renovação de frota e altera as Leis nºs 9.818, de 23 de agosto de 1999, 11.540, de 12 de novembro de 2007, e 14.947, de 2 de agosto de 2024.",
+      "data": "2026-10-22T17:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648807"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

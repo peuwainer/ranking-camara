@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141555.jpg",
-  "score": 26.05,
-  "rank": 366,
+  "score": 29.39,
+  "rank": 348,
   "proposicoes": [
     {
       "id": 2648537,
@@ -15,6 +15,24 @@
       "ementa": "Altera a Lei nº 15.252, de 4 de novembro de 2025, e a Lei nº 8.212, de 24 de julho de 1991, para instituir salvaguardas de segurança digital, requisitos de habilitação aplicáveis às instituições destinatárias de recursos decorrentes da portabilidade de benefícios previdenciários, mecanismos de prevenção a fraudes e critérios prudenciais de gerenciamento de riscos.",
       "data": "2026-10-20T15:18",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648537"
+    },
+    {
+      "id": 2648809,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Institui a Lei Nacional de Proteção Financeira da Pessoa Idosa, estabelece mecanismos de prevenção a fraudes financeiras, combate ao superendividamento, proteção contra assédio comercial e contratação indevida de operações de crédito, e dá outras providências.",
+      "data": "2026-10-21T10:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648809"
+    },
+    {
+      "id": 2648810,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.741, de 1º de outubro de 2003, e a Lei nº 10.048, de 8 de novembro de 2000, para reforçar a proteção da pessoa idosa contra fraudes, golpes e assédio comercial, e ampliar mecanismos de atendimento prioritário.",
+      "data": "2026-10-21T10:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648810"
     }
   ],
   "discursos": [],

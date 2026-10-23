@@ -4,9 +4,37 @@
   "partido": "REPUBLICANOS",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
-  "score": 36.25,
-  "rank": 89,
-  "proposicoes": [],
+  "score": 41.25,
+  "rank": 23,
+  "proposicoes": [
+    {
+      "id": 2648714,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Fitoterapia e Biotecnologia Amazônica, voltada à pesquisa, desenvolvimento e inovação em medicamentos, suplementos e cosméticos derivados da biodiversidade da Amazônia, estabelece incentivos fiscais e creditícios, cria regime especial de propriedade intelectual e dá outras providências.",
+      "data": "2026-10-22T10:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648714"
+    },
+    {
+      "id": 2648719,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Compras Públicas Sustentáveis de Vestuário e dá outras providências.",
+      "data": "2026-10-22T11:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648719"
+    },
+    {
+      "id": 2648721,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre o dever de comunicação pelos condomínios edilícios de suspeita ou ocorrência de maus-tratos a animais nas unidades autônomas e nas áreas comuns, e dá outras providências.",
+      "data": "2026-10-22T11:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648721"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
