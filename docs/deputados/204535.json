@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg",
-  "score": 40.42,
-  "rank": 30,
+  "score": 42.08,
+  "rank": 18,
   "proposicoes": [
     {
       "id": 2648340,
@@ -15,6 +15,15 @@
       "ementa": "Institui o Plano Nacional de Políticas Culturais para os Povos Indígenas.",
       "data": "2026-10-19T10:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648340"
+    },
+    {
+      "id": 2648811,
+      "tipo": "PL",
+      "numero": 5650,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.601, de 19 de junho de 2023, para dispor sobre o reajuste anual dos valores do Programa Bolsa Família e instituir política de valorização real.",
+      "data": "2026-10-22T19:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648811"
     }
   ],
   "discursos": [],

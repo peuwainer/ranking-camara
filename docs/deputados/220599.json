@@ -4,9 +4,37 @@
   "partido": "REPUBLICANOS",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220599.jpg",
-  "score": 24.39,
-  "rank": 383,
-  "proposicoes": [],
+  "score": 29.39,
+  "rank": 348,
+  "proposicoes": [
+    {
+      "id": 2648819,
+      "tipo": "PL",
+      "numero": 5652,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2022, Lei de Licitações e Contratos Administrativos, para dispor sobre o videomonitoramento de obras e serviços públicos de engenharia e dá outras providências.",
+      "data": "2026-10-23T18:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648819"
+    },
+    {
+      "id": 2648820,
+      "tipo": "PL",
+      "numero": 5653,
+      "ano": 2026,
+      "ementa": "Acrescenta art. 48-A à Lei nº 11.196, de 21 de novembro de 2005, para instituir incentivo fiscal no Imposto sobre a Renda das Pessoas Jurídicas (IRPJ) e na Contribuição Social sobre o Lucro Líquido (CSLL) às pessoas jurídicas que adquiram materiais recicláveis de cooperativas e associações de catadores de materiais reutilizáveis e recicláveis.",
+      "data": "2026-10-23T18:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648820"
+    },
+    {
+      "id": 2648821,
+      "tipo": "PL",
+      "numero": 5654,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 667, de 2 de julho de 1969, para estabelecer diretrizes gerais para a instituição, pelos Estados e pelo Distrito Federal, de contribuição previdenciária voluntária adicional por militar estadual inativo, destinada à constituição de reserva para futura complementação de proventos, observados os limites constitucionais e a legislação do respectivo ente federativo.",
+      "data": "2026-10-23T19:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648821"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
