@@ -4,9 +4,19 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/221338.jpg",
-  "score": 38.69,
-  "rank": 44,
-  "proposicoes": [],
+  "score": 40.36,
+  "rank": 28,
+  "proposicoes": [
+    {
+      "id": 2648823,
+      "tipo": "PL",
+      "numero": 5658,
+      "ano": 2026,
+      "ementa": "Institui feriado nacional no primeiro dia útil subsequente ao domingo de realização das eleições e dá outras providências.",
+      "data": "2026-10-25T22:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648823"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-10-14T19:24",

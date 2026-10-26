@@ -4,9 +4,19 @@
   "partido": "PSD",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160552.jpg",
-  "score": 2.5,
-  "rank": 505,
-  "proposicoes": [],
+  "score": 4.17,
+  "rank": 500,
+  "proposicoes": [
+    {
+      "id": 2648822,
+      "tipo": "PL",
+      "numero": 5656,
+      "ano": 2026,
+      "ementa": "Dispõe sobre requisitos mínimos de segurança na construção, instalação e funcionamento de instações esportivas ou similares e sobre a responsabilidade em caso de seu descumprimento.",
+      "data": "2026-10-24T14:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648822"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

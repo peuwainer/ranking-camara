@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-25T11:16:51.612455+00:00",
+  "atualizado_em": "2026-10-26T12:46:57.495145+00:00",
   "legislatura": 57,
   "deputados": [
     {
@@ -55,19 +55,6 @@
       "orgaos": 20
     },
     {
-      "id": 220690,
-      "nome": "ALDEN JOSE LAZARO DA SILVA",
-      "nome_urna": "Capitão Alden",
-      "partido": "PL",
-      "uf": "BA",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-      "score": 50.83,
-      "proposicoes": 8,
-      "presenca_votacoes": 100.0,
-      "discursos": 0,
-      "orgaos": 12
-    },
-    {
       "id": 204390,
       "nome": "ALCIDES RIBEIRO FILHO",
       "nome_urna": "Professor Alcides",
@@ -94,12 +81,12 @@
       "orgaos": 6
     },
     {
-      "id": 220623,
-      "nome": "DUDA SALABERT ROSA",
-      "nome_urna": "Duda Salabert",
-      "partido": "PSOL",
-      "uf": "MG",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
+      "id": 220690,
+      "nome": "ALDEN JOSE LAZARO DA SILVA",
+      "nome_urna": "Capitão Alden",
+      "partido": "PL",
+      "uf": "BA",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
       "score": 45.83,
       "proposicoes": 5,
       "presenca_votacoes": 100.0,
@@ -146,30 +133,17 @@
       "orgaos": 10
     },
     {
-      "id": 204572,
-      "nome": "ALBERTO BARROS CAVALCANTE NETO",
-      "nome_urna": "Capitão Alberto Neto",
-      "partido": "PL",
-      "uf": "AM",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204572.jpg",
-      "score": 43.35,
-      "proposicoes": 3,
-      "presenca_votacoes": 100.0,
-      "discursos": 3,
-      "orgaos": 9
-    },
-    {
-      "id": 160598,
-      "nome": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
-      "nome_urna": "Flávia Morais",
-      "partido": "MDB",
-      "uf": "GO",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160598.jpg",
-      "score": 43.33,
-      "proposicoes": 2,
+      "id": 220623,
+      "nome": "DUDA SALABERT ROSA",
+      "nome_urna": "Duda Salabert",
+      "partido": "PSOL",
+      "uf": "MG",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
+      "score": 44.17,
+      "proposicoes": 4,
       "presenca_votacoes": 100.0,
       "discursos": 0,
-      "orgaos": 16
+      "orgaos": 12
     },
     {
       "id": 220622,
@@ -235,6 +209,19 @@
       "presenca_votacoes": 100.0,
       "discursos": 0,
       "orgaos": 14
+    },
+    {
+      "id": 204572,
+      "nome": "ALBERTO BARROS CAVALCANTE NETO",
+      "nome_urna": "Capitão Alberto Neto",
+      "partido": "PL",
+      "uf": "AM",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204572.jpg",
+      "score": 41.69,
+      "proposicoes": 2,
+      "presenca_votacoes": 100.0,
+      "discursos": 3,
+      "orgaos": 9
     },
     {
       "id": 160604,
@@ -367,6 +354,19 @@
       "orgaos": 11
     },
     {
+      "id": 221338,
+      "nome": "LUCIENE CAVALCANTE DA SILVA",
+      "nome_urna": "Professora Luciene Cavalcante",
+      "partido": "PSOL",
+      "uf": "SP",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/221338.jpg",
+      "score": 40.36,
+      "proposicoes": 1,
+      "presenca_votacoes": 100.0,
+      "discursos": 2,
+      "orgaos": 11
+    },
+    {
       "id": 74848,
       "nome": "JANDIRA FEGHALI",
       "nome_urna": "Jandira Feghali",
@@ -417,6 +417,19 @@
       "presenca_votacoes": 100.0,
       "discursos": 4,
       "orgaos": 5
+    },
+    {
+      "id": 160598,
+      "nome": "FLÁVIA CARREIRO ALBUQUERQUE MORAIS",
+      "nome_urna": "Flávia Morais",
+      "partido": "MDB",
+      "uf": "GO",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160598.jpg",
+      "score": 40.0,
+      "proposicoes": 0,
+      "presenca_votacoes": 100.0,
+      "discursos": 0,
+      "orgaos": 16
     },
     {
       "id": 220654,
@@ -484,19 +497,6 @@
       "orgaos": 15
     },
     {
-      "id": 220695,
-      "nome": "ROGÉRIA DE ALMEIDA PEREIRA DOS SANTOS",
-      "nome_urna": "Rogéria Santos",
-      "partido": "REPUBLICANOS",
-      "uf": "BA",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-      "score": 39.38,
-      "proposicoes": 3,
-      "presenca_votacoes": 100.0,
-      "discursos": 0,
-      "orgaos": 7
-    },
-    {
       "id": 220686,
       "nome": "HILDELIS SILVA DUARTE JUNIOR",
       "nome_urna": "Duarte Jr.",
@@ -560,19 +560,6 @@
       "presenca_votacoes": 100.0,
       "discursos": 0,
       "orgaos": 14
-    },
-    {
-      "id": 221338,
-      "nome": "LUCIENE CAVALCANTE DA SILVA",
-      "nome_urna": "Professora Luciene Cavalcante",
-      "partido": "PSOL",
-      "uf": "SP",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/221338.jpg",
-      "score": 38.69,
-      "proposicoes": 0,
-      "presenca_votacoes": 100.0,
-      "discursos": 2,
-      "orgaos": 11
     },
     {
       "id": 220611,
@@ -742,6 +729,19 @@
       "presenca_votacoes": 66.7,
       "discursos": 0,
       "orgaos": 23
+    },
+    {
+      "id": 220695,
+      "nome": "ROGÉRIA DE ALMEIDA PEREIRA DOS SANTOS",
+      "nome_urna": "Rogéria Santos",
+      "partido": "REPUBLICANOS",
+      "uf": "BA",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
+      "score": 37.71,
+      "proposicoes": 2,
+      "presenca_votacoes": 100.0,
+      "discursos": 0,
+      "orgaos": 7
     },
     {
       "id": 160632,
@@ -6022,19 +6022,6 @@
       "orgaos": 5
     },
     {
-      "id": 204526,
-      "nome": "LUIZ PHILIPPE DE ORLEANS BRAGANÇA",
-      "nome_urna": "Luiz Philippe de Orleans e Bragança",
-      "partido": "PL",
-      "uf": "SP",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204526.jpg",
-      "score": 14.57,
-      "proposicoes": 2,
-      "presenca_votacoes": 33.3,
-      "discursos": 0,
-      "orgaos": 2
-    },
-    {
       "id": 165470,
       "nome": "RODRIGO SANTANA VALADARES",
       "nome_urna": "Rodrigo Valadares",
@@ -6228,6 +6215,19 @@
       "presenca_votacoes": 33.3,
       "discursos": 0,
       "orgaos": 5
+    },
+    {
+      "id": 204526,
+      "nome": "LUIZ PHILIPPE DE ORLEANS BRAGANÇA",
+      "nome_urna": "Luiz Philippe de Orleans e Bragança",
+      "partido": "PL",
+      "uf": "SP",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204526.jpg",
+      "score": 12.91,
+      "proposicoes": 1,
+      "presenca_votacoes": 33.3,
+      "discursos": 0,
+      "orgaos": 2
     },
     {
       "id": 220570,
@@ -6490,6 +6490,19 @@
       "orgaos": 8
     },
     {
+      "id": 160552,
+      "nome": "DANRLEI DE DEUS HINTERHOLZ",
+      "nome_urna": "Danrlei de Deus Hinterholz",
+      "partido": "PSD",
+      "uf": "RS",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160552.jpg",
+      "score": 4.17,
+      "proposicoes": 1,
+      "presenca_votacoes": 0.0,
+      "discursos": 0,
+      "orgaos": 4
+    },
+    {
       "id": 74090,
       "nome": "ÁTILA SIDNEY LINS DE ALBUQUERQUE",
       "nome_urna": "Átila Lins",
@@ -6553,19 +6566,6 @@
       "presenca_votacoes": 0.0,
       "discursos": 1,
       "orgaos": 3
-    },
-    {
-      "id": 160552,
-      "nome": "DANRLEI DE DEUS HINTERHOLZ",
-      "nome_urna": "Danrlei de Deus Hinterholz",
-      "partido": "PSD",
-      "uf": "RS",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160552.jpg",
-      "score": 2.5,
-      "proposicoes": 0,
-      "presenca_votacoes": 0.0,
-      "discursos": 0,
-      "orgaos": 4
     },
     {
       "id": 205550,
