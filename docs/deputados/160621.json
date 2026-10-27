@@ -4,9 +4,19 @@
   "partido": "PSD",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160621.jpg",
-  "score": 30.62,
-  "rank": 337,
-  "proposicoes": [],
+  "score": 32.29,
+  "rank": 285,
+  "proposicoes": [
+    {
+      "id": 2648853,
+      "tipo": "EMC",
+      "numero": 9,
+      "ano": 2026,
+      "ementa": "§ 3º Não configura uso abusivo a originação de chamadas autenticadas ou por órgãos e entidades públicas e por prestadores de serviços de saúde, de segurança pública e de defesa civil no exercício de suas competências ou atividades.” (NR)",
+      "data": "2026-10-19T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648853"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

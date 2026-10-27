@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178964.jpg",
-  "score": 26.68,
-  "rank": 360,
+  "score": 27.59,
+  "rank": 357,
   "proposicoes": [
     {
       "id": 2647658,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647658"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-14T18:16",
+      "fase": "Ordem do Dia",
+      "tipo": "DISCUSSÃO",
+      "resumo": "",
+      "transcricao": ""
+    }
+  ],
   "orgaos": [
     {
       "nome": "Representação Brasileira no Parlamento do Mercosul",

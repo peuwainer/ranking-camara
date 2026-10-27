@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220697.jpg",
-  "score": 33.75,
-  "rank": 177,
-  "proposicoes": [],
+  "score": 35.42,
+  "rank": 124,
+  "proposicoes": [
+    {
+      "id": 2648884,
+      "tipo": "EMC",
+      "numero": 41,
+      "ano": 2026,
+      "ementa": "Dê-se ao art. 1º da Medida Provisória nº 1.396, de 9 de outubro de 2026, a redação a seguir, acrescentem-se à Medida Provisória os arts. 7º-A, 7º-B e 7º-C, e acrescente-se § 4º ao seu art. 8º, nos seguintes termos:",
+      "data": "2026-10-19T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648884"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

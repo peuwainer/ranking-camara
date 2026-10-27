@@ -4,9 +4,46 @@
   "partido": "PSDB",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178886.jpg",
-  "score": 31.25,
-  "rank": 322,
-  "proposicoes": [],
+  "score": 37.92,
+  "rank": 60,
+  "proposicoes": [
+    {
+      "id": 2648866,
+      "tipo": "EMC",
+      "numero": 22,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a autenticação, a identificação e o bloqueio de chamadas telefônicas e mensagens nas redes de telecomunicações e institui base de dados centralizada de recursos de numeração.",
+      "data": "2026-10-19T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648866"
+    },
+    {
+      "id": 2648867,
+      "tipo": "EMC",
+      "numero": 23,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a autenticação, a identificação e o bloqueio de chamadas telefônicas e mensagens nas redes de telecomunicações e institui base de dados centralizada de recursos de numeração.",
+      "data": "2026-10-19T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648867"
+    },
+    {
+      "id": 2648868,
+      "tipo": "EMC",
+      "numero": 24,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a autenticação, a identificação e o bloqueio de chamadas telefônicas e mensagens nas redes de telecomunicações e institui base de dados centralizada de recursos de numeração.",
+      "data": "2026-10-19T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648868"
+    },
+    {
+      "id": 2648869,
+      "tipo": "EMC",
+      "numero": 25,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a autenticação, a identificação e o bloqueio de chamadas telefônicas e mensagens nas redes de telecomunicações e institui base de dados centralizada de recursos de numeração.",
+      "data": "2026-10-19T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648869"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

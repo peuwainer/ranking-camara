@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141456.jpg",
-  "score": 36.04,
-  "rank": 99,
+  "score": 36.95,
+  "rank": 79,
   "proposicoes": [
     {
       "id": 2648524,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648524"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-14T17:52",
+      "fase": "Ordem do Dia",
+      "tipo": "DISCUSSÃO",
+      "resumo": "",
+      "transcricao": ""
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Comunicação",

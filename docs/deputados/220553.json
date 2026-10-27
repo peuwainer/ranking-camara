@@ -4,10 +4,25 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220553.jpg",
-  "score": 39.38,
-  "rank": 38,
+  "score": 41.19,
+  "rank": 30,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-14T17:28",
+      "fase": "Ordem do Dia",
+      "tipo": "DISCUSSÃO",
+      "resumo": "",
+      "transcricao": ""
+    },
+    {
+      "data": "2026-10-14T15:12",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. DENISE PESSÔA (Bloco/PT - RS. Sem revisão da oradora.) - Sr. Presidente, Sras. e Srs. Deputados, primeiro quero dizer que quem gosta de mentir é o Flávio Bolsonaro. Uma hora ele diz que não con",
+      "transcricao": "A SRA. DENISE PESSÔA (Bloco/PT - RS. Sem revisão da oradora.) - Sr. Presidente, Sras. e Srs. Deputados, primeiro quero dizer que quem gosta de mentir é o Flávio Bolsonaro. Uma hora ele diz que não conhece Vorcaro, depois o Vorcaro é o \"meu irmãozão\". Acho que a população já sabe quem de fato mente descaradamente neste País. Eu ocupo esta tribuna para agradecer o apoio que tive no pleito eleitoral. Fui reeleita para o segundo mandato como Deputada Federal do Rio Grande do Sul, pelo Partido dos Trabalhadores. A nossa votação mais do que dobrou. Então, quero agradecer a todos os que nos apoiaram. Nós partimos da Serra Gaúcha e nos espalhamos por todo o Estado do Rio Grande do Sul. Nosso mandato tem muito trabalho construído em todo o Estado. É claro que na Serra Gaúcha avançamos com a conquista do campus da UFRGS, a Universidade do Rio Grande do Sul, de uma universidade federal na Serra Gaúcha; do novo aeroporto; do Instituto Federal em Gramado. Avançamos com a conquista do curso de Medicina na Unipampa, a Universidade Federal do Pampa, em Bagé; da Casa da Igualdade Racial, em Pelotas; e com muito trabalho de acompanhamento em Erechim, em Passo Fundo. Então, o nosso trabalho se espalhou por todo o Estado do Rio Grande do Sul. Eu preciso agradecer a todos os que se comprometeram com essa caminhada e dizer que só com o nosso mandato, sem o Presidente Lula, nós não teríamos avançado tanto no Estado do Rio Grande do Sul. Avançamos com investimentos no SUS, com o fortalecimento da saúde, com o fortalecimento educação pública, e isso só foi possível no Governo Lula, um governo que tem compromisso com a saúde pública, com o SUS, com a educação. Vimos o Estado do Rio Grande do Sul receber muito recurso, tanto é que, do processo de reconstrução do Estado, saímos melhores do que estávamos, em se tratando da questão econômica. Precisamos pensar agora, de fato, que projeto queremos para o nosso País: um projeto que tem compromisso com a saúde e com a educação pública. Eu sou de um tempo em que, chegada a época da eleição, todos defendiam educação e saúde pública. Hoje vemos um projeto que tem esse compromisso. O outro projeto representa a precarização das políticas sociais, da educação e da saúde, e o negacionismo da ciência. E, neste mundo de mudanças climáticas, queremos um futuro, queremos compromisso com as novas gerações e com o nosso presente. Eu quero mais uma vez agradecer por todos os apoios que recebi no nosso Estado do Rio Grande do Sul e também pedir que esta fala seja transmitida no programa A Voz do Brasil. Muito obrigada."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

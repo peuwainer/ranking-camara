@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204520.jpg",
-  "score": 38.75,
-  "rank": 42,
+  "score": 40.42,
+  "rank": 36,
   "proposicoes": [
     {
       "id": 2647659,
@@ -33,6 +33,15 @@
       "ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990, para dispor sobre o abuso do poder acadêmico.",
       "data": "2026-10-21T20:42",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648705"
+    },
+    {
+      "id": 2648885,
+      "tipo": "EMC",
+      "numero": 42,
+      "ano": 2026,
+      "ementa": "Emenda à Medida Provisória nº 1.396, de 2026.",
+      "data": "2026-10-19T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648885"
     }
   ],
   "discursos": [],

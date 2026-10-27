@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141555.jpg",
-  "score": 29.39,
-  "rank": 349,
+  "score": 36.05,
+  "rank": 105,
   "proposicoes": [
     {
       "id": 2648537,
@@ -33,6 +33,42 @@
       "ementa": "Altera a Lei nº 10.741, de 1º de outubro de 2003, e a Lei nº 10.048, de 8 de novembro de 2000, para reforçar a proteção da pessoa idosa contra fraudes, golpes e assédio comercial, e ampliar mecanismos de atendimento prioritário.",
       "data": "2026-10-21T10:57",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648810"
+    },
+    {
+      "id": 2648862,
+      "tipo": "EMC",
+      "numero": 18,
+      "ano": 2026,
+      "ementa": "EMENDA Nº - CMMPV 1396/2026 (à MPV 1396/2026) Acrescente-se, onde couber, na Medida Provisória o seguinte artigo",
+      "data": "2026-10-19T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648862"
+    },
+    {
+      "id": 2648863,
+      "tipo": "EMC",
+      "numero": 19,
+      "ano": 2026,
+      "ementa": "EMENDA Nº - CMMPV 1396/2026 (à MPV 1396/2026) Acrescente-se, onde couber, na Medida Provisória o seguinte artigo",
+      "data": "2026-10-19T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648863"
+    },
+    {
+      "id": 2648864,
+      "tipo": "EMC",
+      "numero": 20,
+      "ano": 2026,
+      "ementa": "EMENDA Nº - CMMPV 1396/2026 (à MPV 1396/2026) Acrescente-se, onde couber, na Medida Provisória o seguinte artigo",
+      "data": "2026-10-19T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648864"
+    },
+    {
+      "id": 2648865,
+      "tipo": "EMC",
+      "numero": 21,
+      "ano": 2026,
+      "ementa": "Acrescente-se, onde couber, na Medida Provisória o seguinte artigo",
+      "data": "2026-10-19T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648865"
     }
   ],
   "discursos": [],

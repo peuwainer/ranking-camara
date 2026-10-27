@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178947.jpg",
-  "score": 32.16,
-  "rank": 282,
-  "proposicoes": [],
+  "score": 33.83,
+  "rank": 177,
+  "proposicoes": [
+    {
+      "id": 2648838,
+      "tipo": "PL",
+      "numero": 5662,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 (Lei Brasileira de Inclusão da Pessoa com Deficiência), para assegurar a gratuidade do estacionamento vinculado a estabelecimento de saúde ou de habilitação e reabilitação para veículo utilizado no transporte de pessoa com deficiência com comprometimento de mobilidade.",
+      "data": "2026-10-26T13:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648838"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-10-14T20:48",

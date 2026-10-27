@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220530.jpg",
-  "score": 28.36,
-  "rank": 354,
-  "proposicoes": [],
+  "score": 30.03,
+  "rank": 344,
+  "proposicoes": [
+    {
+      "id": 2648834,
+      "tipo": "PL",
+      "numero": 5661,
+      "ano": 2026,
+      "ementa": "Dispõe sobre normas gerais de desenvolvimento e execução da publicidade dos órgãos e entidades integrantes da Administração Pública direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios.",
+      "data": "2026-10-26T12:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648834"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-10-13T16:20",

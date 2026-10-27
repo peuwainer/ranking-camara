@@ -4,9 +4,46 @@
   "partido": "PDT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160666.jpg",
-  "score": 33.75,
-  "rank": 173,
-  "proposicoes": [],
+  "score": 40.42,
+  "rank": 35,
+  "proposicoes": [
+    {
+      "id": 2648872,
+      "tipo": "EMC",
+      "numero": 26,
+      "ano": 2026,
+      "ementa": "EMENDA Nº - CMMPV 1396/2026 (à MPV 1396/2026)",
+      "data": "2026-10-19T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648872"
+    },
+    {
+      "id": 2648873,
+      "tipo": "EMC",
+      "numero": 27,
+      "ano": 2026,
+      "ementa": "EMENDA Nº - CMMPV 1396/2026 (à MPV 1396/2026)",
+      "data": "2026-10-19T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648873"
+    },
+    {
+      "id": 2648874,
+      "tipo": "EMC",
+      "numero": 28,
+      "ano": 2026,
+      "ementa": "EMENDA Nº - CMMPV 1396/2026 (à MPV 1396/2026)",
+      "data": "2026-10-19T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648874"
+    },
+    {
+      "id": 2648875,
+      "tipo": "EMC",
+      "numero": 29,
+      "ano": 2026,
+      "ementa": "EMENDA Nº - CMMPV 1396/2026 (à MPV 1396/2026)",
+      "data": "2026-10-19T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648875"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

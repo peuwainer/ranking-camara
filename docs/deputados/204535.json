@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg",
-  "score": 42.08,
-  "rank": 16,
+  "score": 42.99,
+  "rank": 18,
   "proposicoes": [
     {
       "id": 2648340,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648811"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-14T18:16",
+      "fase": "Ordem do Dia",
+      "tipo": "DISCUSSÃO",
+      "resumo": "",
+      "transcricao": ""
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo das razões do aumento de denúncias de violência obstétrica e a alta taxa de morte materna no Brasil",

@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178871.jpg",
-  "score": 38.12,
-  "rank": 51,
-  "proposicoes": [],
+  "score": 39.79,
+  "rank": 43,
+  "proposicoes": [
+    {
+      "id": 2648856,
+      "tipo": "EMC",
+      "numero": 17,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a autenticação, a identificação e o bloqueio de chamadas telefônicas e mensagens nas redes de telecomunicações e institui base de dados centralizada de recursos de numeração.",
+      "data": "2026-10-19T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648856"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -4,10 +4,25 @@
   "partido": "PSOL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204407.jpg",
-  "score": 36.88,
-  "rank": 72,
+  "score": 38.69,
+  "rank": 51,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-14T20:28",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. FERNANDA MELCHIONNA (Bloco/PSOL - RS. Pela ordem. Sem revisão da oradora.) - Presidente, como eu falei, este é um projeto do Governo Bolsonaro, para usar dinheiro público para salvar bancos sem",
+      "transcricao": "A SRA. FERNANDA MELCHIONNA (Bloco/PSOL - RS. Pela ordem. Sem revisão da oradora.) - Presidente, como eu falei, este é um projeto do Governo Bolsonaro, para usar dinheiro público para salvar bancos sem nenhum controle público, e nós votamos \"não\". Isso é a demonstração de qual é o caráter de classe do Governo Bolsonaro e de que tudo que é ruim pode piorar. Nós vivemos 4 anos de ajuste contra o povo. O Governo Bolsonaro congelou por 4 anos o salário mínimo; o Governo Bolsonaro fez uma reforma da Previdência que tirou 5 anos de vida do povo trabalhador e diminuiu as aposentadorias; o Governo Bolsonaro quase acabou com o Farmácia Popular, zerou o Minha Casa, Minha Vida; e o Governo Bolsonaro deixou um projeto para salvar grandes bancos e banqueiros corruptos, como é o caso do Vorcaro. Por isso, o PSOL, de forma coerente e combativa, vota \"não\" e faz a denúncia deste projeto. Este projeto tem um nome: PLP 281/Vorcaro Master."
+    },
+    {
+      "data": "2026-10-14T20:12",
+      "fase": "Ordem do Dia",
+      "tipo": "OUTROS",
+      "resumo": "",
+      "transcricao": ""
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",
