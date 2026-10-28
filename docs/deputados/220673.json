@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220673.jpg",
-  "score": 33.12,
-  "rank": 215,
-  "proposicoes": [],
+  "score": 34.79,
+  "rank": 159,
+  "proposicoes": [
+    {
+      "id": 2649013,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 10.826, de 22 de dezembro de 2003, para dispor sobre a aquisição, a posse e o porte de arma de fogo e determinar a integração do Sistema Nacional de Armas (Sinarm) com o Sistema de Gerenciamento Militar de Armas (Sigma), e dá outras providências.",
+      "data": "2026-10-27T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649013"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

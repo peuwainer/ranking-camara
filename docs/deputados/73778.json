@@ -4,10 +4,32 @@
   "partido": "PODE",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73778.jpg",
-  "score": 32.5,
-  "rank": 270,
+  "score": 35.0,
+  "rank": 148,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-27T20:36",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LUIZ CARLOS HAULY (Bloco/PODE - PR. Pela ordem. Sem revisão do orador.) - Obrigado. A MP 1.375 está acordada para hoje? O SR. PRESIDENTE (Hugo Motta. Bloco/REPUBLICANOS - PB) - Sim, está na paut",
+      "transcricao": "O SR. LUIZ CARLOS HAULY (Bloco/PODE - PR. Pela ordem. Sem revisão do orador.) - Obrigado. A MP 1.375 está acordada para hoje? O SR. PRESIDENTE (Hugo Motta. Bloco/REPUBLICANOS - PB) - Sim, está na pauta, Deputado. Nós vamos votá-la, conforme eu me comprometi com as bancadas. O SR. LUIZ CARLOS HAULY (Bloco/PODE - PR) - Obrigado. Essa MP é boa, é de interesse público."
+    },
+    {
+      "data": "2026-10-27T17:36",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LUIZ CARLOS HAULY (Bloco/PODE - PR. Pela ordem. Sem revisão do orador.) - Presidente, eu falei, nos minutos que tive, sobre a herança maldita que Lula deixa para Lula. É interessante. Ele gastou",
+      "transcricao": "O SR. LUIZ CARLOS HAULY (Bloco/PODE - PR. Pela ordem. Sem revisão do orador.) - Presidente, eu falei, nos minutos que tive, sobre a herança maldita que Lula deixa para Lula. É interessante. Ele gastou 3,8 trilhões em juros em quatro anos e 500 bilhões em outras despesas, 12% do déficit nominal. Nesse período, gastou 659 bilhões com o Bolsa Família. Com juros, foram 3,8 trilhões; com o Bolsa Família, 656 bilhões. Como ele se esqueceu de dar aumento em 2023, 2024 e 2025, só concedendo na véspera, acho que é bom começar a lembrá-lo de que, no ano que vem, ele tem que dar aumento no Bolsa Família. Acho que nós temos que fazer um movimento nacional para lembrar Lula, um pouco antes de ele dar o aumento, porque, senão, ele vai esquecer. Se ele se esqueceu de dar o aumento correspondente à inflação para 20 milhões de beneficiários do Bolsa Família, então não sei o que ele pode esquecer no ano que vem. Quanto aos funcionários públicos, ele se esqueceu de que, em 2003, criou a contribuição previdenciária dos aposentados, que era provisória, mas que até hoje cobra dos funcionários públicos aposentados: 14%, 11%, 12%. Ele anda bem esquecido!"
+    },
+    {
+      "data": "2026-10-27T17:12",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. LUIZ CARLOS HAULY (Bloco/PODE - PR. Sem revisão do orador.) - Sr. Presidente Charles, Sras. e Srs. Parlamentares, o Brasil perdeu a oportunidade de trocar o seu gerente do País. Lula está cansad",
+      "transcricao": "O SR. LUIZ CARLOS HAULY (Bloco/PODE - PR. Sem revisão do orador.) - Sr. Presidente Charles, Sras. e Srs. Parlamentares, o Brasil perdeu a oportunidade de trocar o seu gerente do País. Lula está cansado, está envelhecido, está sem ideias novas e deixou o País se endividar, endividou as pessoas, as famílias, viciou as famílias com a jogatina do azar dos cassinos, dos bets e do Tigrinho. E, neste momento dramático, ele conseguiu a proeza de fazer um País de salário mínimo. O salário mínimo dos aposentados já atinge metade dos aposentados brasileiros, porque não temos mais dois, três, quatro salários. A política de Lula foi achatar o salário do aposentado. O mesmo aconteceu com os dos trabalhadores da agricultura, da indústria, do comércio. Então, a República socialista lulista é uma República do achatamento de salário. Eu vivo a política há mais de 50 anos, participei de todas as eleições, e nunca vi numa eleição um Governo usar a máquina pública como Lula e seus companheiros usaram. Nunca vi. O Bolsa Família, o aumento dado na véspera da eleição, em qualquer país democrático do mundo, a candidatura dele já teria sido eliminada. Segundo: cancelar as bets na véspera de eleição, ele que as instalou em janeiro do ano passado, simplesmente com objetivo eleitoreiro. Terceiro: os programas de cancelamento de dívidas, repactuação de dívidas, o Pé de Meia, todos entre o primeiro e o segundo turno. Aí, é difícil. O campo de futebol, o campo da disputa eleitoral é do Lula, o juiz é do Lula, o bandeirinha é do Lula, a torcida é do Lula, e ele é o dono da bola e do jogo de camisa. É difícil, é impossível. Quando ele não é candidato, as Oposições conseguem ganhar. Mas quando ele é candidato, o Lula foi, com o passar dos anos, perdendo o escrúpulo e deixou usar toda a máquina. Há notícias em todo o País de que até o cadastro da Bolsa, foram notificados aqueles que não estão no cadastro, criando a possibilidade de que eles também teriam direito, aqueles beneficiados com o Seguro-Defeso, aqueles beneficiados com o Bolsa Família (falha na transmissão) e outros programas. Enfim, Lula ganhou. Lula vai herdar uma herança maldita. A herança que o Lula vai receber dele é maldita. Então, ele que se vire nos 30; ele que se vire. Eu não me candidatei, mas estarei aqui cobrando dele. \"E daí, Lula? E os 4,5 trilhões que você gastou a mais nesses últimos 4 anos, além da arrecadação? Que feio, hein?\""
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Relações Exteriores e de Defesa Nacional",

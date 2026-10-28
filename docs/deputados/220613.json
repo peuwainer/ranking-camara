@@ -4,10 +4,18 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220613.jpg",
-  "score": 24.39,
-  "rank": 384,
+  "score": 25.22,
+  "rank": 378,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-27T17:16",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ROBERTO MONTEIRO PAI (PL - RJ. Pela ordem. Sem revisão do orador.) - Nobre, Presidente, todos os meus pares, graças a Deus que nós voltamos à normalidade. Quero aqui fazer o registro da presença",
+      "transcricao": "O SR. ROBERTO MONTEIRO PAI (PL - RJ. Pela ordem. Sem revisão do orador.) - Nobre, Presidente, todos os meus pares, graças a Deus que nós voltamos à normalidade. Quero aqui fazer o registro da presença dos meus ilustres amigos Rodrigo Carvalhal, Superintendente Executivo da Polícia Rodoviária Federal do Estado do Rio de Janeiro, acompanhado também do nobre Leonardo Moreira, que é o Aspar da Polícia Rodoviária Federal no Estado do Rio de Janeiro. Muito obrigado, vocês fazem parte de um trabalho brilhante. E o Parlamento Federal está aqui junto, reconhecendo o trabalho da PRF. Deus seja louvado sempre. Deputado Roberto Monteiro Pai, pai de Gabriel Monteiro e, aqui, tendo estas oportunidades e me preparando para ficar lá no Rio de Janeiro, porque fiquei na suplência. A minha filha, Deputada Estadual Giselle Monteiro, foi reeleita. E, em tudo, Deus está no comando. Louvado seja o Senhor."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a verificar a situação dos municípios que perderam recursos financeiros do FPM, depois dos cálculos feitos pelo TCU, com base no Censo inacabado do IBGE",

@@ -4,9 +4,19 @@
   "partido": "PP",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204450.jpg",
-  "score": 2.78,
-  "rank": 504,
-  "proposicoes": [],
+  "score": 4.38,
+  "rank": 499,
+  "proposicoes": [
+    {
+      "id": 2649057,
+      "tipo": "PL",
+      "numero": 5670,
+      "ano": 2026,
+      "ementa": "Estabelece que as infrações de trânsito atribuídas a ambulâncias deverão ser anuladas de ofício pelos órgãos autuadores.",
+      "data": "2026-10-27T17:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649057"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-10-15T15:20",

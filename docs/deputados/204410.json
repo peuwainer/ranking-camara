@@ -4,10 +4,18 @@
   "partido": "UNIÃO",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204410.jpg",
-  "score": 23.14,
-  "rank": 404,
+  "score": 23.97,
+  "rank": 390,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-27T17:48",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. LUISA CANZIANI (Bloco/UNIÃO - PR. Pela ordem. Sem revisão da oradora.) - Obrigada pela gentileza de sempre, meu grande amigo e colega, nosso Presidente Charles. Eu quero muito rapidamente regis",
+      "transcricao": "A SRA. LUISA CANZIANI (Bloco/UNIÃO - PR. Pela ordem. Sem revisão da oradora.) - Obrigada pela gentileza de sempre, meu grande amigo e colega, nosso Presidente Charles. Eu quero muito rapidamente registrar a presença do Prefeito Hariel, de Japira, um grande líder, um grande gestor. Quero lhe agradecer e dizer que V.Exa. é muito bem-vindo nesta Casa. Quero também, Presidente, fazer uma saudação muito, mas muito especial a uma grande revelação da política do Norte Pioneiro, o Prefeito Luiz Eduardo, de Pinhalão. Quero aproveitar para lhe agradecer a confiança, a parceria, a lealdade e o companheirismo, Prefeito Luiz Eduardo, e estender meu agradecimento a todo o povo de Pinhalão. Quero também lhe dizer que ainda teremos muito trabalho pela frente. Muito obrigada e seja bem-vindo a esta Casa."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

@@ -4,10 +4,18 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/230767.jpg",
-  "score": 36.88,
-  "rank": 83,
+  "score": 38.33,
+  "rank": 58,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-27T15:12",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. RODRIGO DA ZAELI (PL - MT. Pela ordem. Sem revisão do orador.) - Sr. Presidente, obrigado pela oportunidade. O resultado das eleições de domingo passado não foi o que a gente esperava, não foi o",
+      "transcricao": "O SR. RODRIGO DA ZAELI (PL - MT. Pela ordem. Sem revisão do orador.) - Sr. Presidente, obrigado pela oportunidade. O resultado das eleições de domingo passado não foi o que a gente esperava, não foi o que a gente queria, não foi pelo que a gente trabalhou esses 2 anos aqui na Câmara Federal, para colocar a direita para controlar este País, colocar pessoas que querem o bem das pessoas de verdade, querem ver a prosperidade chegar para todo mundo, mas não foi isso que aconteceu. Mas eu quero deixar um recado aqui a todo o povo de Mato Grosso. Nós não vamos descansar. Enquanto nós estivermos de pé, enquanto eu estiver de pé, nós vamos defender a Direita, os princípios e os costumes das pessoas de bem, defendendo nossos valores e não vamos envergar. Mato Grosso é um Estado produtivo, um Estado que reconhece o valor da produção e do trabalho. Nós vamos seguir firmes na Direita, representando esse povo trabalhador de Mato Grosso. Conte comigo, Mato Grosso! Nós estaremos de pé e à ordem aqui pela prosperidade do nosso País."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados",
@@ -74,6 +82,12 @@
       "sigla": "CAPADR",
       "cargo": "1º Vice-Presidente",
       "desde": "2026-05-06T00:00"
+    },
+    {
+      "nome": "Comissão da Amazônia e dos Povos Originários e Tradicionais",
+      "sigla": "CPOVOS",
+      "cargo": "Titular",
+      "desde": "2026-10-27T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/230767/votacoes-nominais-plenario/2026"

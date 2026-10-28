@@ -4,10 +4,18 @@
   "partido": "PT",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160592.jpg",
-  "score": 26.26,
-  "rank": 365,
+  "score": 27.09,
+  "rank": 361,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-27T17:32",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ZECA DIRCEU (Bloco/PT - PR. Pela ordem. Sem revisão do orador.) - Presidente Luiz Inácio Lula da Silva, 81 anos! Feliz aniversário ao Presidente Lula! Que Deus o abençoe cada vez mais, dê muita ",
+      "transcricao": "O SR. ZECA DIRCEU (Bloco/PT - PR. Pela ordem. Sem revisão do orador.) - Presidente Luiz Inácio Lula da Silva, 81 anos! Feliz aniversário ao Presidente Lula! Que Deus o abençoe cada vez mais, dê muita fé, muita coragem! O Presidente Lula completa 81 anos com vigor, disposição de 20 anos. Com certeza vai fazer o que fez quando foi reeleito pela primeira vez: um Governo muito melhor do que o primeiro. Vai terminar o segundo mandato, de novo, com 87% de aprovação. O Brasil jamais vai retroceder à ditadura militar ou a governos opressores que não tenham apreço pela democracia e pela independência. Viva o Presidente Lula! Feliz aniversário!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Representação Brasileira no Parlamento do Mercosul",

@@ -4,9 +4,19 @@
   "partido": "MDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160598.jpg",
-  "score": 40.0,
-  "rank": 41,
-  "proposicoes": [],
+  "score": 41.67,
+  "rank": 30,
+  "proposicoes": [
+    {
+      "id": 2649100,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a viabilização da primeira consulta ginecológica a partir dos 10 anos de idade no âmbito do Sistema Único de Saúde – SUS, visando à promoção da saúde reprodutiva e preventiva de meninas.",
+      "data": "2026-10-27T21:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649100"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

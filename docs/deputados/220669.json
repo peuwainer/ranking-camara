@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220669.jpg",
-  "score": 22.93,
-  "rank": 413,
+  "score": 24.59,
+  "rank": 385,
   "proposicoes": [
     {
       "id": 2647470,
@@ -15,6 +15,15 @@
       "ementa": "Dispõe sobre a incorporação de protocolos clínicos e de diretrizes terapêuticas no Sistema Único de Saúde para tratamento da ataxia de Friedreich.",
       "data": "2026-10-13T15:51",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647470"
+    },
+    {
+      "id": 2649094,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Autoriza a concessão de apoio financeiro aos produtores independentes de cana-de-açúcar da Região Nordeste no exercício de 2026 e a destinação de recursos para linhas de financiamento reembolsável destinadas à renovação de frota e altera as Leis nºs 9.818, de 23 de agosto de 1999, 11.540, de 12 de novembro de 2007, e 14.947, de 2 de agosto de 2024.",
+      "data": "2026-10-27T20:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649094"
     }
   ],
   "discursos": [],

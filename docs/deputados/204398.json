@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204398.jpg",
-  "score": 34.58,
-  "rank": 156,
+  "score": 36.25,
+  "rank": 104,
   "proposicoes": [
     {
       "id": 2648852,
@@ -24,6 +24,15 @@
       "ementa": "Acrescentem-se arts. 5º-1 e 5º-2 e § 4º ao art. 8º da Medida Provisória, com a seguinte redação:",
       "data": "2026-10-19T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648857"
+    },
+    {
+      "id": 2648973,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Acrescente-se ao art. 3º do Projeto de Lei nº 2.901, de 2026, o seguinte inciso XII:",
+      "data": "2026-10-27T12:15",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648973"
     }
   ],
   "discursos": [],

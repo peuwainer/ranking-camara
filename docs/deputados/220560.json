@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220560.jpg",
-  "score": 22.51,
-  "rank": 427,
-  "proposicoes": [],
+  "score": 24.18,
+  "rank": 389,
+  "proposicoes": [
+    {
+      "id": 2649090,
+      "tipo": "SBT",
+      "numero": 6,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para dispor sobre educação em tempo integral.",
+      "data": "2026-10-27T20:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649090"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

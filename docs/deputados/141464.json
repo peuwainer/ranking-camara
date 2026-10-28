@@ -4,10 +4,18 @@
   "partido": "PT",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141464.jpg",
-  "score": 13.74,
-  "rank": 470,
+  "score": 14.57,
+  "rank": 463,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-27T19:24",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JOSÉ AIRTON FÉLIX CIRILO (Bloco/PT - CE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu queria, neste dia tão histórico e extraordinário para o povo brasileiro e para o mundo, festejar",
+      "transcricao": "O SR. JOSÉ AIRTON FÉLIX CIRILO (Bloco/PT - CE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, eu queria, neste dia tão histórico e extraordinário para o povo brasileiro e para o mundo, festejar o aniversário do maior líder popular do mundo, o nosso Presidente Luiz Inácio Lula da Silva, com quem tenho relação desde o pré-início da fundação do Partido dos Trabalhadores, em 1979. Eu quero saudar também o povo brasileiro, que deu uma demonstração de altivez, de cidadania para votar e garantir a reeleição para o quarto mandato desse que é o maior e melhor Presidente da história da Nação. Quero registrar que o Brasil  e o mundo  amanheceu, após as eleições, extremamente feliz, porque sabe que nós vivemos numa democracia liberal, mas, sobretudo, num processo de consolidação de um governo popular. Por isso, parabéns ao Presidente Lula e ao povo brasileiro. Muito obrigado, Sr. Presidente,"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a acompanhar e monitorar a conclusão das obras públicas paralisadas e inacabadas no país",

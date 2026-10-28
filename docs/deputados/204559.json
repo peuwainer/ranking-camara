@@ -4,10 +4,18 @@
   "partido": "PT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204559.jpg",
-  "score": 35.0,
-  "rank": 148,
+  "score": 35.83,
+  "rank": 125,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-27T14:32",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. ZÉ NETO (Bloco/PT - BA. Sem revisão do orador.) - Sr. Presidente, nesta terça-feira, após a eleição, registro neste plenário que Lula é eleito pela quarta vez Presidente, num momento histórico d",
+      "transcricao": "O SR. ZÉ NETO (Bloco/PT - BA. Sem revisão do orador.) - Sr. Presidente, nesta terça-feira, após a eleição, registro neste plenário que Lula é eleito pela quarta vez Presidente, num momento histórico da República do nosso Brasil, em que jovens e idosos se juntaram numa grande tarefa. Os idosos disseram: \"Eu vi este Brasil. Eu sei o que aconteceu. Não podemos perder o que conquistamos\". E os jovens disseram: \"Nós queremos continuar. Nós queremos avançar. Nós queremos universidades. Nós queremos educação. Nós queremos cultura. Nós queremos esporte. Nós queremos empreendedorismo de verdade. Nós queremos modernização, mas queremos ser vistos e cuidados pelo Estado brasileiro\". Eu vi netos caminhando com avós, integrando-se, dizendo a nós do Congresso, do Senado e da Câmara, que teremos uma grande tarefa nestes próximos 4 anos. A vitória de Lula é a vitória do povo brasileiro. É a vitória de quem acredita na democracia, de quem acredita na soberania, de quem quer conversar com o mundo inteiro, mas não quer ser quintal de ninguém. Nós vamos continuar conversando com o mundo inteiro, mas vamos, sim, dizer aos Estados Unidos que eles têm que nos respeitar, que podemos nos olhar de forma serena, respeitosa e republicana. Não precisamos ser quintal. Nós temos riquezas que precisam ser exploradas, mas com a soberania e com a vocação que o Brasil sempre teve para se desenvolver. Portanto, Sr. Presidente, hoje é um dia de comemorar a democracia, de comemorar a soberania, de comemorar a força das ruas, de comemorar a vitória de um Presidente que fez com que o País se avermelhasse para dizer: \"Estamos bem vivos. Queremos diálogo. Queremos evoluir. Queremos, sim, um Brasil para todos, um Brasil para os brasileiros\". Viva o Brasil! Viva a classe trabalhadora! Vivam aqueles que acreditam de forma veemente na nossa grandeza, na nossa produtividade, no nosso desenvolvimento! Viva o Presidente Lula, o Presidente tetra!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 152, de 2025, do Senhor Luiz Gastão, que \"regula os serviços de transporte remunerado privado individual de passageiros e de coleta e entrega de bens prestados pelas empresas operadoras de plataforma digital\"",

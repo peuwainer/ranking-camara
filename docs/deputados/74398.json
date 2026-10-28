@@ -4,10 +4,25 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74398.jpg",
-  "score": 38.75,
-  "rank": 50,
+  "score": 40.42,
+  "rank": 42,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-27T18:56",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. MARIA DO ROSÁRIO (Bloco/PT - RS. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, Srs. Deputados e Deputadas, é gravíssima qualquer intervenção do Governo estadunidense no Brasil. E a pos",
+      "transcricao": "A SRA. MARIA DO ROSÁRIO (Bloco/PT - RS. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, Srs. Deputados e Deputadas, é gravíssima qualquer intervenção do Governo estadunidense no Brasil. E a possibilidade, registrada por Paulo Pimenta em nome da Liderança do Governo do Brasil, de que o Governo dos Estados Unidos esteja por trás da fuga de Flávio Bolsonaro é gravíssima! A Câmara dos Deputados, o Brasil deve investigar, denunciar e enfrentar isso! Aqui, é o Brasil. O Brasil não cabe no quintal de ninguém! Donald Trump que cuide das eleições norte-americanas e saiba: nós lideramos a luta antifascista no mundo e não aceitaremos o ataque ao Presidente Lula, o ataque ao Brasil! Fora, CIA! (Desligamento do microfone.)"
+    },
+    {
+      "data": "2026-10-27T18:28",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. MARIA DO ROSÁRIO (Bloco/PT - RS. Sem revisão da oradora.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas , eu quero agradecer ao povo brasileiro. Quero agradecer, prezados colegas, a um povo",
+      "transcricao": "A SRA. MARIA DO ROSÁRIO (Bloco/PT - RS. Sem revisão da oradora.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas , eu quero agradecer ao povo brasileiro. Quero agradecer, prezados colegas, a um povo que abraça a democracia, a soberania, abraça o Brasil e, com 64 milhões de votos, oferece ao Presidente Lula um inédito quarto mandato presidencial. Quero agradecer ao Presidente Lula por uma vida de dedicação à Nação e agradecer a todos aqueles e aquelas que estiveram mobilizados nas ruas contra o retrocesso, contra o fascismo, contra a extrema direita e contra a barbárie. A vitória de Lula no domingo é fruto da luta do povo. O Presidente Lula deverá governar com o povo brasileiro e com este Congresso. Este Congresso, nesse momento, deve entender que não há mais espaço para a política distante da sociedade, para a política que trata a população com desprezo e com mentiras. O Flávio Bolsonaro foi derrotado pelas mentiras que a população brasileira entendeu que ele contava. Hoje é um fugitivo, porque não tem coragem de enfrentar a justiça brasileira, é alguém que mentiu ao dizer que não tinha inquéritos contra si. Mas seus parceiros ou, melhor, comparsas e ele próprio respondem a inquéritos por corrupção, por lavagem de dinheiro. Nesse momento, dizer que Flávio Bolsonaro está fora do País por qualquer razão política é mais uma mentira contra o Brasil. Ele está fora do Brasil, porque é covarde. Ele está fora do Brasil, porque é corrupto. Ele está fora do Brasil, porque, diferentemente daqueles que têm a convicção de que são honestos e corretos, ele, que é corrupto e desonesto, que tentou enganar o Brasil, sabe que a sua permanência aqui acarretaria na sua prisão no futuro não somente por crimes políticos, mas também pelo envolvimento com Vorcaro, pela sujeira de toda a sua vida. Derrotamos o fascismo, derrotamos os fascistas. E o povo brasileiro, nesse momento, sabe que ele nunca mais deverá sair das ruas. O partido dos trabalhadores e das trabalhadoras e a frente popular, que se formou, meu querido amigo Deputado Janones, com o seu trabalho também, vão garantir a vitória do povo no enfrentamento ao fascismo e a construção de uma cultura verdadeiramente democrática que diga \"Bolsonaros e fascistas nunca mais\"."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

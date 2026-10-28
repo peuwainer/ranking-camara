@@ -4,10 +4,18 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/150418.jpg",
-  "score": 36.88,
-  "rank": 81,
+  "score": 37.71,
+  "rank": 72,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-27T18:04",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. MÁRCIO MARINHO (Bloco/REPUBLICANOS - BA. Sem revisão do orador.) - Sr. Presidente, Deputado Charles Fernandes, boa tarde, boa tarde a todos os Deputados e a todas as Deputadas. Queria aqui sauda",
+      "transcricao": "O SR. MÁRCIO MARINHO (Bloco/REPUBLICANOS - BA. Sem revisão do orador.) - Sr. Presidente, Deputado Charles Fernandes, boa tarde, boa tarde a todos os Deputados e a todas as Deputadas. Queria aqui saudar os organizadores, o professor Ivan Costa, o professor Erlon Botelho, porque do dia 10 ao dia 13 de dezembro de 2026 acontecerá o IV Encontro Nacional Cacau 500 @ + Sustentável, o único evento do Brasil pensado para o cacauicultor, para produtores tanto da Bahia como de todo o Brasil. O tema será Como Lucrar Mais com o Cacau, Mesmo com Preços Baixos e Como Aumentar a Rentabilidade da sua Propriedade Mesmo sem Aumentar a Área Planejada. Este será um debate muito importante que vai acontecer, como eu disse, do dia 10 ao dia 13 de dezembro de 2026, no Centro de Convenções de Ilhéus. Queria fazer esse registro aqui e fazer um convite todo especial para que todos que, direta ou indiretamente, trabalham nesse tema participem conosco, porque será um tema importante a ser debatido, principalmente neste momento em que o Brasil está passando por uma transição. No mais, agradeço a todos vocês. Gostaria que fosse transmitida essa minha fala em todos os canais de comunicação aqui da Câmara dos Deputados, inclusive no programa A Voz do Brasil."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

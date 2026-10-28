@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178933.jpg",
-  "score": 14.78,
-  "rank": 462,
+  "score": 16.45,
+  "rank": 460,
   "proposicoes": [
     {
       "id": 2648382,
@@ -15,6 +15,15 @@
       "ementa": "Altera as Leis nºs 11.076, de 30 de dezembro de 2004 e 11.033, de 21 de dezembro de 2004 para instituir o Certificado de Recebíveis do Seguro Rural (CRSR).",
       "data": "2026-10-19T14:39",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648382"
+    },
+    {
+      "id": 2649018,
+      "tipo": "PL",
+      "numero": 5669,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para dispor sobre a forma de distribuição do Fundo Especial de Financiamento de Campanha (FEFC) entre os cargos em disputa e a aplicação das regras de cotas.",
+      "data": "2026-10-27T15:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649018"
     }
   ],
   "discursos": [],

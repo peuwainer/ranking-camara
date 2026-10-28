@@ -4,10 +4,25 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160673.jpg",
-  "score": 33.75,
-  "rank": 184,
+  "score": 35.42,
+  "rank": 135,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-27T18:00",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. GIOVANI CHERINI (PL - RS. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Parlamentares, nós tivemos na última eleição uma coisa chamada abuso de poder político e econômico do Presidente ",
+      "transcricao": "O SR. GIOVANI CHERINI (PL - RS. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Parlamentares, nós tivemos na última eleição uma coisa chamada abuso de poder político e econômico do Presidente Lula e atropelos na atuação do Zanin. As medidas anunciadas usando o cargo de Presidente da República são vinte e duas: Fim das bets durante o período eleitoral, fim da taxa das blusinhas, promessa de canetas emagrecedoras gratuitas pelo SUS faltando semanas para a eleição, anúncio de transporte público gratuito, promessa de PIX de até 5 mil para MEIs, proposta de perdão de dívidas dos microempreendedores, aumento do Bolsa Família próximo às eleições, concentração de anúncios de benefícios nas últimas semanas da campanha, questionamento sobre Cristiano Zanin, prorrogação do horário de votação até as 19 horas, comunicação tardia da decisão, seções eleitorais encerradas enquanto outras continuavam abertas, possível desigualdade nas condições de votação, necessidade de esclarecimento posterior da decisão, suspensão temporária da totalização dos votos, questionamento sobre competência para determinar a prorrogação, possíveis irregularidades de investigar, abuso do poder político, abuso do poder econômico, utilização da máquina pública para fins eleitorais, eventual distribuição irregular de benefícios e desequilíbrio na igualdade entre candidatos. Vinte e duas razões para que esta eleição seja anulada em função dos abusos do poder econômico e do poder político do candidato. Imagine se tivesse acontecido isso com o Bolsonaro, o que este Plenário estaria dizendo aqui? Já chamam o nosso candidato de miliciano, sem provas. Aliás, tudo que a Esquerda sabe fazer é acusar e mentir O maior mentiroso a face da Terra se chama Luiz Inácio Lula Silva, porque já está dizendo que não vai haver pagamento de BPC, que não vai haver pagamento de Bolsa Família, que não vai haver dinheiro para aposentadoria e assim vai. Olha só, guardem esses dados. A mentira vai ser... (Desligamento do microfone.)"
+    },
+    {
+      "data": "2026-10-27T17:16",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. GIOVANI CHERINI (PL - RS. Pela ordem. Sem revisão do orador.) - Eu quero, como Presidente Estadual do PL, agradecer ao povo gaúcho pela última eleição, porque nós conseguimos fazer barba, cabelo",
+      "transcricao": "O SR. GIOVANI CHERINI (PL - RS. Pela ordem. Sem revisão do orador.) - Eu quero, como Presidente Estadual do PL, agradecer ao povo gaúcho pela última eleição, porque nós conseguimos fazer barba, cabelo e bigode. Elegemos o Governador, em primeiro turno, Luciano Zucco. Elegemos dois Senadores, Sanderson e Marcel. Elegemos doze deputados estaduais e oito deputados federais. E eu me reelegi em terceiro lugar no Estado, com 234 mil votos. Fizemos doze estaduais. A minha mulher se elegeu a mais votada da Assembleia Legislativa. E também ganhamos a eleição com o Presidente Flávio Bolsonaro. Sobre o estelionato eleitoral, daqui a pouco, eu vou falar na tribuna. Obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Representação Brasileira no Parlamento do Mercosul",

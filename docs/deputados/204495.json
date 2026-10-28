@@ -4,10 +4,18 @@
   "partido": "PT",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204495.jpg",
-  "score": 23.76,
-  "rank": 387,
+  "score": 24.59,
+  "rank": 383,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-27T17:36",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. AIRTON FALEIRO (Bloco/PT - PA. Sem revisão do orador.) - Sr. Presidente, inicialmente, quero agradecer de coração ao povo do Pará, que me reconduziu, pela terceira vez, à Câmara dos Deputados. Q",
+      "transcricao": "O SR. AIRTON FALEIRO (Bloco/PT - PA. Sem revisão do orador.) - Sr. Presidente, inicialmente, quero agradecer de coração ao povo do Pará, que me reconduziu, pela terceira vez, à Câmara dos Deputados. Quero honrar, como sempre honrei, cada voto recebido. Vejam, no nosso mandato, o porta-voz das necessidades do nosso povo do Pará, em especial dos que mais precisam. Mas eu não posso deixar de parabenizar esse brasileiro de coração grande, de mente brilhante, um ser humano que tem empatia com o povo brasileiro, chamado Luiz Inácio Lula da Silva, não só porque hoje ele completa 81 anos de idade, como também porque ele se consolida como o maior líder popular da atualidade no mundo inteiro. O Presidente Lula recebeu o calor das ruas e das redes sociais, demonstrou que tem carisma e que tem um projeto de nação que o povo brasileiro abraçou. Enquanto o Presidente Lula está sendo homenageado e reconhecido pelas instituições nacionais e pelos governos internacionais como o vitorioso dessa eleição, nós temos a frustração dos que apoiaram o Senador Flávio Bolsonaro para Presidente da República, que os abandona. O Senador Flávio Bolsonaro vai ser apelidado de fujão porque, ao perder a eleição, sabendo das fragilidades dos processos a que vai ter que responder... Não me venham com desculpas. Flávio Bolsonaro fugiu com medo de ser preso. Ele comete crimes, irresponsabilidades, como o seu irmão, e depois não tem coragem de enfrentar os Tribunais, enfrentar o povo, enfrentar a imprensa. Aí acha melhor fugir para os Estados Unidos. É bom dizer que o povo brasileiro está entendendo tudo o que está acontecendo. Eu tenho certeza de que ele vai lá tentar articular, mais uma vez, um golpe contra a democracia, contra o resultado popular e legítimo das urnas. Ele vai tentar um novo golpe aqui no Brasil. Flávio e bolsonaristas, não há terceiro turno no Brasil. Não haverá novamente um 8 de Janeiro. Se houver, vai haver prisão de novo. Portanto, aceite o resultado das eleições e deixe de ser covarde."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",

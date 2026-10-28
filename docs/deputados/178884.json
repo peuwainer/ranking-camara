@@ -4,10 +4,36 @@
   "partido": "MDB",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178884.jpg",
-  "score": 36.48,
-  "rank": 93,
-  "proposicoes": [],
+  "score": 40.42,
+  "rank": 41,
+  "proposicoes": [
+    {
+      "id": 2648944,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a lei 14.620 de 13 de julho de 2023, que dispõe sobre o programa Minha Casa, Minha Vida;",
+      "data": "2026-10-27T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648944"
+    },
+    {
+      "id": 2649051,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "EMENDA 1",
+      "data": "2026-10-27T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649051"
+    }
+  ],
   "discursos": [
+    {
+      "data": "2026-10-27T15:20",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. HILDO ROCHA (Bloco/MDB - MA. Sem revisão do orador.) - Obrigado, Deputado Charles Fernandes, que preside a sessão neste momento. Sras. Deputadas e Srs. Deputados, dia 25 foi o dia da eleição de ",
+      "transcricao": "O SR. HILDO ROCHA (Bloco/MDB - MA. Sem revisão do orador.) - Obrigado, Deputado Charles Fernandes, que preside a sessão neste momento. Sras. Deputadas e Srs. Deputados, dia 25 foi o dia da eleição de segundo turno. O Presidente Lula foi reeleito. O povo brasileiro escolheu seguir, caminhar para frente, o povo brasileiro escolheu a justiça social, o povo brasileiro escolheu a pacificação, o povo brasileiro sabe que quem está mais preparado para administrar o Brasil é o Presidente Lula. E isso, nesses próximos 4 anos, vai ser mostrado. É um momento de pacificação que o Presidente Lula é capaz de realizar. É necessário que ele tenha Ministros, auxiliares que pensem também desta forma, e não apenas ele. E ele já disse isso no dia em que comemorou a sua vitória. É necessário haver pessoas em volta dele que pensem também assim. O País precisa ser pacificado. O Brasil precisa fazer ajuste fiscal? Precisa fazer ajuste fiscal. O Brasil precisa diminuir despesas públicas? Precisa diminuir despesas públicas. O Brasil precisa combater a corrupção da máquina pública? Precisa. Eu quero dar uma ideia: temos muitas agências reguladoras que não fazem mais sentido existir. Existia a necessidade na época do Fernando Henrique Cardoso, no século passado. Hoje não há mais necessidade. Muitas dessas agências, que gastam 10 bilhões por ano, são antros de corrupção. Há denúncias de corrupção em quase todas as agências reguladoras. Não vou citar nomes das agências, mas, se procurar nas redes sociais, no Google, nas notícias, serão encontrados problemas em quase todas as agências reguladoras. Elas geram um custo de 10 bilhões de reais por ano para o povo brasileiro e quase não têm utilidade, porque, em vez de regular o mercado, regulam em favor de quem presta serviço, dos concessionários. Portanto, não faz mais nenhum sentido. Registro também que o Maranhão ganhou definitivamente voo regular para a Europa. Existe voo regular São LuísLisboa, pela companhia aérea TAP. Isso vai fortalecer o turismo do Maranhão e os nossos negócios. O Maranhão  que abriga o Delta das Américas, os Lençóis Maranhenses, a Chapada das Mesas e São Luís, uma das capitais mais bonitas do mundo, com todo o seu patrimônio histórico  atrai muito turismo. Nós estamos preparados. Agora, com esses voos regulares, vamos fomentar e fortalecer ainda mais o turismo. Quero parabenizar o Governador Carlos Brandão, que muito trabalhou para isso. Chegamos ao momento de termos o primeiro voo internacional Lisboa-São Luís, São Luís-Lisboa. Parabéns, Presidente Lula, pelo seu aniversário no dia de hoje! Parabéns, Governador Carlos Brandão, por esta grande proeza! Sr. Presidente, peço que autorize a divulgação do meu pronunciamento no programa A Voz do Brasil e pelos meios de comunicação desta Casa. Muito obrigado."
+    },
     {
       "data": "2026-10-15T15:12",
       "fase": "Ordem do Dia",
