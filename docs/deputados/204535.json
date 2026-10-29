@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg",
-  "score": 42.92,
-  "rank": 22,
+  "score": 44.99,
+  "rank": 19,
   "proposicoes": [
     {
       "id": 2648340,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 14.601, de 19 de junho de 2023, para dispor sobre o reajuste anual dos valores do Programa Bolsa Família e instituir política de valorização real.",
       "data": "2026-10-22T19:57",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648811"
+    },
+    {
+      "id": 2649411,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o artigo 19-J da Lei nº 8.080/1990, que define o Subsistema de acompanhamento à mulher nos serviços de saúde.",
+      "data": "2026-10-28T18:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649411"
     }
   ],
   "discursos": [

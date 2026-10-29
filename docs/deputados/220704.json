@@ -4,10 +4,28 @@
   "partido": "PT",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220704.jpg",
-  "score": 25.64,
-  "rank": 373,
-  "proposicoes": [],
-  "discursos": [],
+  "score": 28.19,
+  "rank": 357,
+  "proposicoes": [
+    {
+      "id": 2649412,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre incentivos à inserção de mulheres com mais de cinquenta anos no mercado de trabalho.",
+      "data": "2026-10-28T18:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649412"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-10-27T19:44",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. CAROL DARTORA (Bloco/PT - PR. Sem revisão da oradora.) - Muito obrigada. Eu subo nesta tribuna hoje para comemorar a vitória da democracia, a vitória do povo brasileiro, a vitória da juventude ",
+      "transcricao": "A SRA. CAROL DARTORA (Bloco/PT - PR. Sem revisão da oradora.) - Muito obrigada. Eu subo nesta tribuna hoje para comemorar a vitória da democracia, a vitória do povo brasileiro, a vitória da juventude brasileira, das mulheres negras, das mulheres indígenas, das pessoas que estavam sendo as mais arriscadas com o projeto político que estava se colocando na figura de Flávio Bolsonaro. Éramos nós que sabíamos que, se a fome voltasse para o nosso País, seriam as nossas comunidades, seriam os nossos que veriam novamente a extrema miséria, porque o bolsonarismo é um projeto nefasto para este País. Haja vista que hoje Flávio Bolsonaro fugiu do País, botando a perder quem teve a coragem de votar num miliciano. Quem votou nesse miliciano hoje está passando vergonha porque perdeu o seu voto. Ficou evidente a covardia dessa figura, ficou evidente a falta de compromisso com o País, a falta de compromisso com o povo brasileiro. E hoje a gente está aqui para aplaudir o povo brasileiro, que deu a vitória para o Presidente Lula nas urnas, que deu a resposta nas ruas, porque a nossa democracia estava em risco, sendo ameaçada por plataformas digitais, por big techs, sofrendo boicote da Meta, e isso é muito grave. Hoje o Presidente Lula se consolida como um dos maiores líderes globais, consolida avanço para toda a América Latina, significa o fim dos planos do Trump para o nosso País. Para além disso, o nosso Presidente hoje comemora 81 anos muito bem vividos e representando muito bem tudo o que a gente deseja: melhores condições de vida, mais oportunidades e nenhum retrocesso para o povo brasileiro. Foi isso que a gente conquistou nessas eleições. Basta de retrocesso! A gente quer um país de avanço, a gente quer um país de oportunidades, a gente quer um país de igualdade. Como mulher preta, eu não posso deixar de dizer que nós também éramos os mais arriscados. Quero colocar aqui algumas falas de pessoas da extrema direita nessas eleições. Pablo Marçal, com declarações repercutidas em dezembro: \"Todo macumbeiro é um derrotado na vida\". \"Se macumba funcionasse, a Bahia era Dubai\". Uma fala racista, racismo religioso. Reproduzo, também, uma fala de Lucas Pavanato, do PL, nessas eleições, quando já eleito Deputado Federal: \"Vocês são a minoria. Como minoria, a gente vai colocar vocês no devido lugar\". (Oradora aponta para si e faz sinal de aspas com as mãos.) Fala racista, que remete ao colonialismo, que é o que a extrema direita representa. E é exatamente o que ela quer impor ao nosso País, ou seja, que pessoas pretas sejam totalmente anuladas. Mas nós estamos aqui, comemoramos a vitória da nossa democracia. E também estou aqui para comemorar a minha reeleição. Sou a primeira Deputada Federal preta do Estado do Paraná reeleita. E a gente está aqui no Congresso para ocupar o nosso espaço e acabar de vez com o bolsonarismo e com a extrema direita. Vamos juntas! Vamos juntos, Brasil!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

@@ -4,8 +4,8 @@
   "partido": "MISSÃO",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204536.jpg",
-  "score": 43.75,
-  "rank": 20,
+  "score": 43.51,
+  "rank": 27,
   "proposicoes": [
     {
       "id": 2647534,
@@ -27,6 +27,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-10-27T20:36",
+      "fase": "Ordem do Dia",
+      "tipo": "ENCAMINHAMENTO DE VOTAÇÃO",
+      "resumo": "O SR. KIM KATAGUIRI (MISSÃO - SP. Sem revisão do orador.) - Sr. Presidente, esse projeto, de minha autoria, tipifica a conduta de se utilizar... Hoje, se você utiliza um drone para entregar algum obje",
+      "transcricao": "O SR. KIM KATAGUIRI (MISSÃO - SP. Sem revisão do orador.) - Sr. Presidente, esse projeto, de minha autoria, tipifica a conduta de se utilizar... Hoje, se você utiliza um drone para entregar algum objeto ilícito dentro de um presídio, isso já é crime, mas muitas vezes hoje há pessoas utilizando esses drones para sobrevoar os presídios e desistem de entregar esses itens, desistem de fazer o lançamento dessas armas, dessas drogas, desses celulares, desses carregadores, uma vez que vem a fiscalização. A gente quer fazer com que a conduta autônoma de sobrevoar ilegalmente com um drone em cima do presídio seja criminalizada, considerando especialmente casos no Estado de São Paulo e no Estado do Rio de Janeiro, em que o crime organizado tem utilizado dessa tecnologia para se beneficiar, inclusive para comandar a criminalidade de dentro dos presídios. Obrigado, Presidente."
+    },
     {
       "data": "2026-10-14T20:32",
       "fase": "Ordem do Dia",

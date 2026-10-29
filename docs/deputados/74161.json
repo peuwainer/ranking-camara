@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74161.jpg",
-  "score": 34.18,
-  "rank": 176,
+  "score": 37.74,
+  "rank": 82,
   "proposicoes": [
     {
       "id": 2647435,
@@ -24,6 +24,24 @@
       "ementa": "Institui o Programa de Regularização Tributária para Micro, Pequenas e Médias Empresas, dispõe sobre a exclusão de juros, multas tributárias e encargos legais de créditos tributários federais administrados pela Secretaria Especial da Receita Federal do Brasil ou inscritos em dívida ativa da União e administrados pela Procuradoria-Geral da Fazenda Nacional e dá outras providências.",
       "data": "2026-10-15T17:18",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648312"
+    },
+    {
+      "id": 2649203,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "EMENDA 1",
+      "data": "2026-10-13T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649203"
+    },
+    {
+      "id": 2649226,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 2026,
+      "ementa": "EMENDA 2",
+      "data": "2026-10-13T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649226"
     }
   ],
   "discursos": [

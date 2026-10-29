@@ -4,10 +4,18 @@
   "partido": "REPUBLICANOS",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204459.jpg",
-  "score": 32.5,
-  "rank": 265,
+  "score": 33.21,
+  "rank": 218,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-28T14:48",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. DANIELA DO WAGUINHO (Bloco/REPUBLICANOS - RJ. Sem revisão da oradora.) - Sr. Presidente, Sras. e Srs. Parlamentares, povo brasileiro que nos acompanha, hoje subo a esta tribuna com um sentiment",
+      "transcricao": "A SRA. DANIELA DO WAGUINHO (Bloco/REPUBLICANOS - RJ. Sem revisão da oradora.) - Sr. Presidente, Sras. e Srs. Parlamentares, povo brasileiro que nos acompanha, hoje subo a esta tribuna com um sentimento profundo de gratidão, gratidão ao povo brasileiro que foi às urnas exercer um dos direitos mais preciosos que temos, o direito de escolher livremente os nossos governantes. Quero parabenizar o Presidente Luiz Inácio Lula da Silva pela reeleição e desejar que este novo mandato seja marcado por conquistas, justiça social e melhorias na vida do nosso povo. Confesso que vivi essa eleição com muita emoção. Foram dias intensos de muitos desafios, de luta e de esperança. Tenho muito orgulho de ter participado desse momento tão importante da nossa história. Vimos a força dos jovens que se mobilizaram, foram às ruas, conversavam e defendiam aquilo que em que acreditavam. Vimos também a participação tão importante das pessoas idosas, que levaram sua experiência e sua história para essa caminhada. Cada pessoa, à sua maneira, contribuiu para construir essa história, porque a democracia se fortalece quando o povo participa, se posiciona e não abre mão dos seus direitos. Como mulher, como cidadã e como Deputada Federal fiz uma escolha consciente. Defendi publicamente aquilo em que acredito e não me omiti diante de um momento tão importante para o futuro do nosso País, porque a política, para mim, nunca foi apenas uma disputa pelo poder. A política precisa ter propósito, precisa olhar para quem mais necessita, para as mães que lutam diariamente pelos seus filhos, para os trabalhadores, para as pessoas idosas e para a nossa juventude que sonha com oportunidades. É por essas pessoas que a política precisa existir, minha nobre Deputada Benedita da Silva. Quero deixar uma reflexão muito importante aqui neste dia de hoje, uma eleição termina quando as urnas são apuradas, mas a nossa responsabilidade com o Brasil continua. Nosso País é maior do que qualquer diferença partidária e o nosso compromisso deve ser sempre com o interesse público. Presidente Lula, receba os meus votos sinceros de que este novo mandato seja um tempo de paz, seja um tempo de muito desenvolvimento, justiça social e dignidade para milhões de famílias brasileiras. Encerro dizendo que tenho muito orgulho de ter participado dessa caminhada com a consciência tranquila de quem fez suas escolhas com coragem e convicção. Que possamos olhar para o futuro com esperança, sem esquecer que o nosso maior compromisso é com as pessoas. Viva a democracia, viva o povo brasileiro! Obrigada, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

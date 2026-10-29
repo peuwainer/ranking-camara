@@ -4,9 +4,19 @@
   "partido": "PSD",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220581.jpg",
-  "score": 33.12,
-  "rank": 236,
-  "proposicoes": [],
+  "score": 34.97,
+  "rank": 160,
+  "proposicoes": [
+    {
+      "id": 2649418,
+      "tipo": "PL",
+      "numero": 5683,
+      "ano": 2026,
+      "ementa": "Institui o Plano de Desenvolvimento Agropecuário e Agroindustrial do Polo SEALBA (PDAA/SEALBA) e dispõe sobre sua governança, seus instrumentos e seu financiamento.",
+      "data": "2026-10-28T18:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649418"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

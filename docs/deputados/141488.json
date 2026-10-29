@@ -4,9 +4,19 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
-  "score": 32.08,
-  "rank": 291,
-  "proposicoes": [],
+  "score": 33.81,
+  "rank": 197,
+  "proposicoes": [
+    {
+      "id": 2649423,
+      "tipo": "PL",
+      "numero": 5684,
+      "ano": 2026,
+      "ementa": "Dispõe sobre o limite do custo total das operações de crédito e estabelece medidas de proteção contra a cobrança excessiva de juros e encargos.",
+      "data": "2026-10-28T18:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649423"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-10-14T18:12",

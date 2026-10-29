@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 47.5,
-  "rank": 9,
+  "score": 55.3,
+  "rank": 5,
   "proposicoes": [
     {
       "id": 2647471,
@@ -60,6 +60,42 @@
       "ementa": "Dispõe sobre a autenticação, a identificação e o bloqueio de chamadas telefônicas e mensagens nas redes de telecomunicações e institui base de dados centralizada de recursos de numeração.",
       "data": "2026-10-19T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648849"
+    },
+    {
+      "id": 2649284,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "EMENDA 1",
+      "data": "2026-10-06T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649284"
+    },
+    {
+      "id": 2649285,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 2026,
+      "ementa": "EMENDA 2",
+      "data": "2026-10-08T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649285"
+    },
+    {
+      "id": 2649286,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 2026,
+      "ementa": "À Medida Provisória nº 1.397, de 20 de outubro de 2026, que abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$ 6.494.296.446,00, para o fim que especifica.",
+      "data": "2026-10-27T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649286"
+    },
+    {
+      "id": 2649287,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes de transparência, priorização e acompanhamento da aplicação dos recursos destinados às ações de proteção e defesa civil previstas na Medida Provisória nº 1.398, de 20 de outubro de 2026.",
+      "data": "2026-10-27T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649287"
     }
   ],
   "discursos": [],
@@ -117,12 +153,6 @@
       "sigla": "SUBLOR",
       "cargo": "Titular",
       "desde": "2026-03-26T00:00"
-    },
-    {
-      "nome": "Subcomissão Especial destinada a acompanhar, avaliar e propor medidas relacionadas à Segurança Privada e aos Bombeiros Civis, no que concerne às matérias afetas à segurança pública, à prevenção de ilícitos, ao combate à clandestinidade e ao fortalecimento da fiscalização do setor",
-      "sigla": "SUBSPBC",
-      "cargo": "Titular",
-      "desde": "2026-03-31T00:00"
     },
     {
       "nome": "Comissão de Administração e Serviço Público",

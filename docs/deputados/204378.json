@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204378.jpg",
-  "score": 27.09,
-  "rank": 360,
-  "proposicoes": [],
+  "score": 28.82,
+  "rank": 354,
+  "proposicoes": [
+    {
+      "id": 2649364,
+      "tipo": "PL",
+      "numero": 5682,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 986, de 21 de outubro de 1969, e a Lei nº 8.078, de 11 de setembro de 1990, para aprimorar as regras de rotulagem, apresentação e comercialização de alimentos industrializados, a fim de ampliar a transparência ao consumidor e evitar indução a erro quanto à composição efetiva dos produtos.",
+      "data": "2026-10-28T16:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649364"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-10-27T19:12",

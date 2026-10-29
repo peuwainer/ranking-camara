@@ -4,10 +4,18 @@
   "partido": "PT",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160508.jpg",
-  "score": 9.99,
-  "rank": 493,
+  "score": 10.7,
+  "rank": 491,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-28T16:52",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. AFONSO FLORENCE (Bloco/PT - BA. Sem revisão do orador.) - O candidato derrotado nas eleições presidenciais, o Flávio Bolsonaro, fugiu do Brasil, fugiu da Polícia Federal, devido à perda de foro ",
+      "transcricao": "O SR. AFONSO FLORENCE (Bloco/PT - BA. Sem revisão do orador.) - O candidato derrotado nas eleições presidenciais, o Flávio Bolsonaro, fugiu do Brasil, fugiu da Polícia Federal, devido à perda de foro privilegiado, para se blindar das investigações que correm na Justiça brasileira sobre seus malfeitos. Há fortes indícios de crimes cometidos como chefe de milícia; de envolvimento em operações fraudulentas com bets, com recursos de planos de previdência de Governos Estaduais do seu partido depositados no Banco Master; de parceria com Willer Tomaz e Vorcaro. Ele fugiu do Brasil, como um criminoso. Criminosos fogem. A expectativa da população brasileira é a de que a Polícia Federal o prenda e ele venha enfrentar a Justiça e se defender, o que é um direito de todo cidadão. Existe a presunção da inocência. O ônus da prova é da acusação. O Brasil é uma democracia. Ele tem irmãos eleitos. Ela tem uma madrasta eleita. Ele tem uma bancada expressiva na Câmara Federal e no Senado. Por isso, ele tem que ter coragem, tem que se defender. O ônus da prova, insisto, é da acusação. A fuga só aumenta as suspeitas de que ele é culpado. Se é culpado, tem que pagar por seus crimes. Obrigado, Presidente."
+    }
+  ],
   "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/160508/votacoes-nominais-plenario/2026"
 }

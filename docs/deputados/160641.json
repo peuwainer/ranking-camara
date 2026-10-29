@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160641.jpg",
-  "score": 35.83,
-  "rank": 124,
+  "score": 36.9,
+  "rank": 101,
   "proposicoes": [
     {
       "id": 2647627,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648406"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-10-28T17:08",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. PROFESSORA MARCIVANIA (Bloco/PCdoB - AP. Sem revisão da oradora.) - Sr. Presidente, Sras. e Srs. Deputados, brasileiros e brasileiras que nos acompanham, a vitória do Presidente Lula reacendeu ",
+      "transcricao": "A SRA. PROFESSORA MARCIVANIA (Bloco/PCdoB - AP. Sem revisão da oradora.) - Sr. Presidente, Sras. e Srs. Deputados, brasileiros e brasileiras que nos acompanham, a vitória do Presidente Lula reacendeu a esperança não apenas no Brasil, mas também em outras partes do mundo, atravessou fronteiras e passou a inspirar pessoas e movimentos que acreditam que um mundo melhor é possível, que o povo não aceita perder direitos e não abre mão da democracia. O que muitos julgavam impossível aconteceu. A virada veio porque o povo foi para as ruas. O povo foi para as ruas, levantou sua voz e mostrou que a esperança continua viva. Quando o povo se mobiliza, acredita e luta por seus direitos, a história pode mudar. Eu vivi essa mobilização de perto, caminhei pelas cidades do Amapá, abracei nossa gente e vi a emoção de um povo que se uniu para defender suas conquistas, preservar a democracia e impedir o Brasil de voltar atrás em sua história. Vimos idosos sendo carregados, pessoas superando o cansaço e as dificuldades para estar nas ruas e defender aquilo em que acreditam. E nós amapaenses sabemos o quanto esse futuro importa. A Amazônia não é apenas uma floresta que o mundo precisa preservar; é a casa do nosso povo, é a nossa identidade e é parte fundamental do futuro do planeta. A eleição de Lula também representa a expectativa de continuidade de políticas públicas essenciais para milhões de brasileiros, como a defesa do SUS, da educação e da proteção social. Nessa caminhada, é fundamental reafirmar que a democracia exige respeito à diversidade e à liberdade de cada um de construir o seu próprio caminho. Não podemos aceitar que trabalhadores sejam ameaçados de perder seus empregos por causa do voto e não podemos permitir que o ódio transforme diferenças políticas em violência. Pessoas saíram de casa para defender suas ideias e não voltaram, pessoas foram feridas, famílias perderam entes queridos. Que democracia é essa se alguém precisa temer sua própria vida por defender suas ideias? Que País estamos construindo quando o adversário político passa a ser tratado como inimigo que precisa ser destruído? Por trás de cada vítima, existe uma história, uma família e alguém que esperava seu retorno para casa. O voto não pode custar um emprego e a política jamais pode custar uma vida. Que a força que vimos nas ruas do Amapá e de todo o Brasil continue viva na defesa da democracia, dos direitos sociais, e de um país onde ninguém tenha medo de pensar diferente, porque a esperança que moveu o nosso povo precisa se transformar em direitos preservados, oportunidades e dignidade. Lembro que agora este gesto representa um gesto antifascista. (A oradora faz o gesto do L.) Que o mundo possa caminhar para a plena cidadania, para a civilidade, e que a gente possa construir um mundo mais igual e fraterno para todos e todas."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

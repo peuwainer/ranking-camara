@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204372.jpg",
-  "score": 49.79,
-  "rank": 7,
+  "score": 53.63,
+  "rank": 6,
   "proposicoes": [
     {
       "id": 2647662,
@@ -78,9 +78,25 @@
       "ementa": "Dispõe sobre a autenticação, a identificação e o bloqueio de chamadas telefônicas e mensagens nas redes de telecomunicações e institui base de dados centralizada de recursos de numeração.",
       "data": "2026-10-19T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648861"
+    },
+    {
+      "id": 2649422,
+      "tipo": "PLP",
+      "numero": 275,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 235, de 27 de agosto de 2026, para preservar o critério de cálculo e de atualização do aporte anual da União ao Fundo Constitucional do Distrito Federal (FCDF).",
+      "data": "2026-10-28T17:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649422"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-10-28T17:12",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JULIO CESAR RIBEIRO (Bloco/REPUBLICANOS - DF. Sem revisão do orador.) - Sr. Presidente, eu gostaria apenas de parabenizar a nossa Governadora Celina Leão, que foi eleita nesse último domingo, em",
+      "transcricao": "O SR. JULIO CESAR RIBEIRO (Bloco/REPUBLICANOS - DF. Sem revisão do orador.) - Sr. Presidente, eu gostaria apenas de parabenizar a nossa Governadora Celina Leão, que foi eleita nesse último domingo, em segundo turno, com quase 900 mil votos. Aproximadamente 60% da população que foi às urnas votou na nossa Governadora, enquanto o seu adversário teve quase 40% de votação, o que mostrou realmente a força que a Governadora tem no Distrito Federal. Estive com ela desde a época em que fomos Deputados Distritais juntos, trabalhei com ela aqui quando ela foi Deputada Federal, e foi uma alegria para mim estar ao lado dela, juntamente com toda a equipe que a acompanhou nesses últimos dias, e alcançarmos a vitória. Tenho certeza de que ela fará um excelente trabalho e que poderá contar com esta Casa e com todos os seus representantes. Parabéns, Governadora Celina Leão!"
+    },
     {
       "data": "2026-10-14T15:28",
       "fase": "Breves Comunicações",

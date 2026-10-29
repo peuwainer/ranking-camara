@@ -4,10 +4,17 @@
   "partido": "PL",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204387.jpg",
-  "score": 45.21,
-  "rank": 14,
+  "score": 43.75,
+  "rank": 24,
   "proposicoes": [],
   "discursos": [
+    {
+      "data": "2026-10-28T16:52",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. SARGENTO FAHUR (PL - PR. Pela ordem. Sem revisão do orador.) - Presidente, é muito preocupante o que está acontecendo. Vários Deputados de esquerda, também pessoas com viés de esquerda, estão di",
+      "transcricao": "O SR. SARGENTO FAHUR (PL - PR. Pela ordem. Sem revisão do orador.) - Presidente, é muito preocupante o que está acontecendo. Vários Deputados de esquerda, também pessoas com viés de esquerda, estão dizendo que Flávio Bolsonaro fugiu. Estão dizendo isso e aquilo. A própria Polícia Federal diz que ele não é fugitivo. Não existe mandado de prisão, e ele não está respondendo a nenhum tipo de processo. Na verdade, o que está acontecendo é algo muito feio para Lula, para o Governo brasileiro: um candidato a Presidente que, há menos de uma semana, disputou o segundo turno de uma eleição e recebeu quase 60 milhões de votos teve que sair do País para não ser perseguido. Um exemplo dessa perseguição é Jair Bolsonaro, que está preso sem ter cometido crime. Isso é só balela de um STF aparelhado e de um PGR omisso e envolvido em escândalos e crimes. Muito obrigado."
+    },
     {
       "data": "2026-10-27T18:44",
       "fase": "Breves Comunicações",
@@ -129,12 +136,6 @@
       "nome": "Subcomissão Especial para a fiscalização da implementação da Lei Orgânica Nacional das Polícias Militares e Corpos de Bombeiros Militares, Lei nº 14.751/23, e da Lei Orgânica Nacional das Polícias Civis, Lei nº 14.735/23",
       "sigla": "SUBLOR",
       "cargo": "Titular",
-      "desde": "2026-04-07T00:00"
-    },
-    {
-      "nome": "Subcomissão Especial destinada a acompanhar, avaliar e propor medidas relacionadas à Segurança Privada e aos Bombeiros Civis, no que concerne às matérias afetas à segurança pública, à prevenção de ilícitos, ao combate à clandestinidade e ao fortalecimento da fiscalização do setor",
-      "sigla": "SUBSPBC",
-      "cargo": "Suplente",
       "desde": "2026-04-07T00:00"
     },
     {
