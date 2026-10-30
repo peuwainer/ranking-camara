@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73701.jpg",
-  "score": 43.81,
-  "rank": 23,
+  "score": 51.02,
+  "rank": 12,
   "proposicoes": [
     {
       "id": 2649362,
@@ -15,6 +15,24 @@
       "ementa": "",
       "data": "2026-10-28T16:27",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649362"
+    },
+    {
+      "id": 2649499,
+      "tipo": "PL",
+      "numero": 5689,
+      "ano": 2026,
+      "ementa": "Acrescenta o art. 203-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar a discriminação por voto ou convicção política no trabalho e na atividade econômica, e altera o art. 1º da Lei nº 9.029, de 13 de abril de 1995, para incluir o voto e a convicção política entre os motivos de discriminação vedados nas relações de trabalho.",
+      "data": "2026-10-29T09:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649499"
+    },
+    {
+      "id": 2649553,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "PROJETO DE LEI Nº 1.028, DE 2024\nAltera a Lei n° 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para dispor que nos pedidos judiciais sobre execução penal o trabalho doméstico e de cuidado seja considerado para fins de remição de pena",
+      "data": "2026-10-29T14:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649553"
     }
   ],
   "discursos": [

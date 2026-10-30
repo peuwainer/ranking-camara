@@ -4,9 +4,28 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/150418.jpg",
-  "score": 37.59,
-  "rank": 87,
-  "proposicoes": [],
+  "score": 42.78,
+  "rank": 26,
+  "proposicoes": [
+    {
+      "id": 2649517,
+      "tipo": "PL",
+      "numero": 5690,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.710, de 24 de agosto de 2018, para instituir o Marco Legal do Cacau Brasileiro, ampliar os instrumentos de desenvolvimento sustentável, defesa da produção nacional, transparência de mercado, rastreabilidade, inovação e agregação de valor da cadeia produtiva do cacau e do chocolate.",
+      "data": "2026-10-29T10:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649517"
+    },
+    {
+      "id": 2649518,
+      "tipo": "PL",
+      "numero": 5691,
+      "ano": 2026,
+      "ementa": "Institui o Fundo Nacional de Apoio, Liquidez e Armazenamento da Cacauicultura  (FUN-CACAU), fundo de natureza contábil e financeira, sem personalidade jurídica própria, destinado a financiar ações de apoio à comercialização, armazenagem, liquidez e organização econômica da produção brasileira de cacau.",
+      "data": "2026-10-29T10:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649518"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-10-27T18:04",

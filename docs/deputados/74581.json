@@ -4,9 +4,19 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74581.jpg",
-  "score": 32.77,
-  "rank": 257,
-  "proposicoes": [],
+  "score": 35.85,
+  "rank": 85,
+  "proposicoes": [
+    {
+      "id": 2649499,
+      "tipo": "PL",
+      "numero": 5689,
+      "ano": 2026,
+      "ementa": "Acrescenta o art. 203-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar a discriminação por voto ou convicção política no trabalho e na atividade econômica, e altera o art. 1º da Lei nº 9.029, de 13 de abril de 1995, para incluir o voto e a convicção política entre os motivos de discriminação vedados nas relações de trabalho.",
+      "data": "2026-10-29T09:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649499"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-10-28T16:16",

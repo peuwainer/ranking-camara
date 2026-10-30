@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73579.jpg",
-  "score": 41.09,
-  "rank": 43,
+  "score": 46.08,
+  "rank": 19,
   "proposicoes": [
     {
       "id": 2648638,
@@ -24,6 +24,15 @@
       "ementa": "Acrescentem-se arts. 5º-1 e 5º-2 e § 4º ao art, 8º da Medida Provisória 1396, de 2026.",
       "data": "2026-10-19T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648855"
+    },
+    {
+      "id": 2649549,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.756, de 12 de dezembro de 2018, para aperfeiçoar os critérios de distribuição dos recursos do Fundo Nacional de Segurança Pública (FNSP) e estabelecer mecanismos de regularização de irregularidades no fornecimento de informações ao Sistema Nacional de Informações de Segurança Pública (Sinesp), e dá outras providências.",
+      "data": "2026-10-29T13:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649549"
     }
   ],
   "discursos": [

@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/72442.jpg",
-  "score": 24.39,
-  "rank": 388,
+  "score": 25.01,
+  "rank": 245,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -50,6 +50,12 @@
       "sigla": "CDC",
       "cargo": "Suplente",
       "desde": "2026-06-10T00:00"
+    },
+    {
+      "nome": "Comissão de Cultura",
+      "sigla": "CCULT",
+      "cargo": "Titular",
+      "desde": "2026-10-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/72442/votacoes-nominais-plenario/2026"
