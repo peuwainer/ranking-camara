@@ -4,9 +4,55 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220603.jpg",
-  "score": 13.74,
-  "rank": 469,
-  "proposicoes": [],
+  "score": 22.95,
+  "rank": 403,
+  "proposicoes": [
+    {
+      "id": 2649521,
+      "tipo": "PL",
+      "numero": 5692,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para vedar a concessão de livramento condicional aos condenados pela prática de crimes contra a dignidade sexual.",
+      "data": "2026-10-29T11:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649521"
+    },
+    {
+      "id": 2649523,
+      "tipo": "PL",
+      "numero": 5694,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Reinserção Profissional da Mulher, destinado a promover o retorno ao mercado de trabalho de mulheres que tenham interrompido ou reduzido sua atividade profissional em razão de responsabilidades de cuidado, enfermidade de dependente ou situação de violência.",
+      "data": "2026-10-29T11:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649523"
+    },
+    {
+      "id": 2649524,
+      "tipo": "PL",
+      "numero": 5695,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.541, de 3 de abril de 2023, para estabelecer mecanismos de expansão da cobertura policial especializada às mulheres nos Municípios  que não disponham de cobertura adequada e critérios de prioridades para o apoio federal.",
+      "data": "2026-10-29T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649524"
+    },
+    {
+      "id": 2649525,
+      "tipo": "PL",
+      "numero": 5696,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.250 de 26 de dezembro de 1995, para permitir a dedução, da base de cálculo do Imposto sobre a Renda das pessoas físicas, das despesas específicas suportadas com pessoa com deficiência, com transtorno do espectro autista ou outro transtorno do neurodesenvolvimento, inclusive pelo familiar ou responsável por seu sustento.",
+      "data": "2026-10-29T11:31",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649525"
+    },
+    {
+      "id": 2649526,
+      "tipo": "PL",
+      "numero": 5698,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes para a cobertura universal do Censo Demográfico, mediante cruzamento de informações da coleta presencial, das respostas digitais e de registros administrativos, para ampliar a cobertura e aperfeiçoar a apuração da população e atualiza as penalidades pela recusa injustificada de prestar informações domiciliares ao censo.",
+      "data": "2026-10-29T11:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649526"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

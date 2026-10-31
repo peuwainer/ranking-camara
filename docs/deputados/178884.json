@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178884.jpg",
-  "score": 43.15,
-  "rank": 28,
+  "score": 44.99,
+  "rank": 21,
   "proposicoes": [
     {
       "id": 2648944,
@@ -24,6 +24,15 @@
       "ementa": "EMENDA 1",
       "data": "2026-10-27T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649051"
+    },
+    {
+      "id": 2649535,
+      "tipo": "PL",
+      "numero": 5700,
+      "ano": 2026,
+      "ementa": "Altera os arts. 108 e 109 da Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), para elevar os percentuais mínimos de votação nominal exigidos dos candidatos para o preenchimento de vagas pelo quociente partidário e para a distribuição de lugares remanescentes.",
+      "data": "2026-10-29T12:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649535"
     }
   ],
   "discursos": [
