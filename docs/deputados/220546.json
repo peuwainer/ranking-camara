@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220546.jpg",
-  "score": 35.59,
-  "rank": 144,
+  "score": 36.44,
+  "rank": 108,
   "proposicoes": [
     {
       "id": 2647575,
@@ -15,6 +15,15 @@
       "ementa": "Acrescenta parágrafo ao art. 2º-A da Lei nº 10.650, de 16 de abril de 2003, para estabelecer limites ao uso dos dados integrados no âmbito da Política Nacional de Proteção e Defesa Civil.",
       "data": "2026-10-13T22:04",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647575"
+    },
+    {
+      "id": 2649670,
+      "tipo": "PL",
+      "numero": 5725,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para disciplinar a autenticação biométrica e facial, a verificação especial de identidade e o videomonitoramento dos procedimentos de habilitação eleitoral.",
+      "data": "2026-11-02T15:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649670"
     }
   ],
   "discursos": [],

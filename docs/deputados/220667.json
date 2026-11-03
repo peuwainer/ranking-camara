@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220667.jpg",
-  "score": 37.47,
-  "rank": 96,
+  "score": 38.32,
+  "rank": 61,
   "proposicoes": [
     {
       "id": 2647501,
@@ -15,6 +15,15 @@
       "ementa": "Dispõe sobre a disponibilização e a utilização de canais institucionais de comunicação e sobre o registro das informações produzidas ou recebidas no exercício da função pública, no âmbito dos Poderes da União, do Tribunal de Contas da União, do Ministério Público da União e da Defensoria Pública da União.",
       "data": "2026-10-13T17:40",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647501"
+    },
+    {
+      "id": 2649648,
+      "tipo": "PLP",
+      "numero": 278,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei de Inelegibilidades), para incluir, entre as causas de inelegibilidade decorrentes de condenação criminal, a lesão corporal praticada contra a mulher por razões da condição do sexo feminino.",
+      "data": "2026-10-30T10:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649648"
     }
   ],
   "discursos": [],

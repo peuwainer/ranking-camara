@@ -4,9 +4,19 @@
   "partido": "PSB",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220528.jpg",
-  "score": 35.0,
-  "rank": 155,
-  "proposicoes": [],
+  "score": 36.35,
+  "rank": 109,
+  "proposicoes": [
+    {
+      "id": 2649648,
+      "tipo": "PLP",
+      "numero": 278,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei de Inelegibilidades), para incluir, entre as causas de inelegibilidade decorrentes de condenação criminal, a lesão corporal praticada contra a mulher por razões da condição do sexo feminino.",
+      "data": "2026-10-30T10:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649648"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
