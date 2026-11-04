@@ -4,9 +4,28 @@
   "partido": "UNIÃO",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220539.jpg",
-  "score": 35.18,
-  "rank": 146,
-  "proposicoes": [],
+  "score": 46.98,
+  "rank": 10,
+  "proposicoes": [
+    {
+      "id": 2650005,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer ao Projeto de Lei nº 7.100, de 2025, que institui o Programa Leitura de Fronteira – Política Nacional de Leitura em Territórios de Difícil Acesso, e dá outras providências.",
+      "data": "2026-11-03T16:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650005"
+    },
+    {
+      "id": 2650018,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer ao Projeto de Lei nº 6.313, de 2025, que dispõe sobre a inclusão da Romaria de Nossa Senhora Consoladora de Ibiaçá, no Estado do Rio Grande do Sul, no Calendário Oficial Nacional de Eventos Culturais e Religiosos do Brasil.",
+      "data": "2026-11-03T17:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650018"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-10-27T15:48",

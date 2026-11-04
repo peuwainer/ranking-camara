@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "TO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220544.jpg",
-  "score": 36.54,
-  "rank": 103,
+  "score": 55.38,
+  "rank": 5,
   "proposicoes": [
     {
       "id": 2647422,
@@ -33,6 +33,15 @@
       "ementa": "Autoriza o Poder Executivo Federal, em articulação com os municípios sedes das regiões administrativas, a criar clínicas públicas para dependentes químicos de álcool e drogas.",
       "data": "2026-10-14T11:04",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647592"
+    },
+    {
+      "id": 2649709,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Nacional de Atenção Odontológica Materno-Infantil – Pré-Natal Odontológico, no âmbito do Sistema Único de Saúde (SUS), destinado à promoção da saúde bucal de gestantes, nutrizes e crianças na primeira infância, e dá outras providências.",
+      "data": "2026-11-03T11:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649709"
     }
   ],
   "discursos": [],

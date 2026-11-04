@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220554.jpg",
-  "score": 40.72,
-  "rank": 37,
+  "score": 46.33,
+  "rank": 13,
   "proposicoes": [
     {
       "id": 2649499,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649499"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-03T18:16",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados e Sras. Deputadas, eu quero aproveitar esta oportunidade para comemorar, somando-me a todos aqueles",
+      "transcricao": "O SR. ALEXANDRE LINDENMEYER (Bloco/PT - RS. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados e Sras. Deputadas, eu quero aproveitar esta oportunidade para comemorar, somando-me a todos aqueles que já se pronunciaram, essa vitória histórica do Presidente Lula na sua reeleição para o próximo mandato a partir do ano de 2027. Ao mesmo tempo em que eu comemoro, pelo que representa a vitória do Lula e pelos efeitos que traz internacionalmente aos movimentos antifascistas que a gente tem visto em vários países, trabalhando na defesa da liberdade, na defesa da igualdade, na defesa dos direitos sociais e dos direitos dos trabalhadores, eu me somo também no sentido de dizer que fico extremamente feliz por fazer parte, como Deputado do Rio Grande do Sul, da região sul do nosso Estado onde a predominância do voto foi no Presidente Lula. Ao dizer isso, comemoro também, pela cidade onde nasci, onde fui Vereador, fui Deputado Estadual pelo Rio Grande do Sul, Prefeito por 8 anos na cidade do Rio Grande, agora, Deputado Federal, o maior percentual do Presidente Lula, dos três Estados do Sul, considerando Paraná, Santa Catarina e Rio Grande do Sul, que foi em Rio Grande. Rio Grande, a cidade do Rio Grande, cidade portuária, o quarto maior porto em movimentação de carga do nosso País, uma cidade onde está o 5º Distrito Naval, universidades, institutos federais, enfim, é a cidade que deu ao Presidente Lula, mais uma vez, uma grande vitória. O Presidente Lula nunca perdeu em Rio Grande. Nós tivemos lá mais de 64% dos votos no 13, voto no Presidente Lula. Fico extremamente feliz e quero aqui, ao mesmo tempo, agradecer a todos aqueles que estiveram ao nosso lado na condição da disputa para Deputado Federal, na qual fizemos 89.434 votos, que nos permitiram não a reeleição, como gostaríamos, mas a condição de 1º Suplente da bancada do Rio Grande do Sul por parte da federação. Quero agradecer a todos e a todas que nos credenciaram, por meio do seu voto de confiança, para que pudéssemos somar nessa nominata, com seis Deputados a partir do próximo mandato. Muito obrigado. Viva o Presidente Lula! Viva a democracia! Viva o Brasil! Sem dúvida alguma, estamos no caminho certo. O próximo Governo, como o Presidente Lula disse, o quarto mandato, será o melhor de todos!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a apurar e acompanhar os danos causados pelas enchentes de 2023 e 2024, que atingiram o estado do Rio Grande do Sul",

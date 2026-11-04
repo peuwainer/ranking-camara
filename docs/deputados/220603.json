@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220603.jpg",
-  "score": 20.47,
-  "rank": 454,
+  "score": 48.4,
+  "rank": 7,
   "proposicoes": [
     {
       "id": 2649521,
@@ -51,6 +51,15 @@
       "ementa": "Estabelece diretrizes para a cobertura universal do Censo Demográfico, mediante cruzamento de informações da coleta presencial, das respostas digitais e de registros administrativos, para ampliar a cobertura e aperfeiçoar a apuração da população e atualiza as penalidades pela recusa injustificada de prestar informações domiciliares ao censo.",
       "data": "2026-10-29T11:34",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649526"
+    },
+    {
+      "id": 2650194,
+      "tipo": "PL",
+      "numero": 5747,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 10.048, de 8 de novembro de 2000, para incluir as pessoas com transtorno do neurodesenvolvimento entre os beneficiários de atendimento prioritário e estabelecer ordem de precedência no atendimento.",
+      "data": "2026-11-03T19:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650194"
     }
   ],
   "discursos": [],
