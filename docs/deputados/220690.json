@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 50.34,
-  "rank": 8,
+  "score": 34.18,
+  "rank": 15,
   "proposicoes": [
     {
       "id": 2647471,
@@ -62,15 +62,6 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648849"
     },
     {
-      "id": 2649284,
-      "tipo": "EMC",
-      "numero": 1,
-      "ano": 2026,
-      "ementa": "EMENDA 1",
-      "data": "2026-10-06T00:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649284"
-    },
-    {
       "id": 2649285,
       "tipo": "EMC",
       "numero": 2,
@@ -96,9 +87,35 @@
       "ementa": "Estabelece diretrizes de transparência, priorização e acompanhamento da aplicação dos recursos destinados às ações de proteção e defesa civil previstas na Medida Provisória nº 1.398, de 20 de outubro de 2026.",
       "data": "2026-10-27T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649287"
+    },
+    {
+      "id": 2649758,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei n. 13.675, de 11 de junho de 2018, para inserir expressamente as polícias penais federal, estaduais e distrital no rol de integrantes operacionais do Sistema Único de Segurança Pública (Susp).",
+      "data": "2026-11-03T13:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649758"
+    },
+    {
+      "id": 2650486,
+      "tipo": "PL",
+      "numero": 5750,
+      "ano": 2026,
+      "ementa": "Regulamenta o inciso XLVI-A do art. 5º da Constituição Federal, que dispõe sobre o regime legal especial aplicável a integrantes e líderes de organizações criminosas de alta periculosidade ou lesividade, bem como a autores de crimes de alta lesividade cometidos mediante violência ou grave ameaça, alterando o Decreto-Lei nº 3.689, de 3 de outubro de 1941 – Código de Processo Penal; a Lei nº 7.210, de 11 de julho de 1984; a Lei nº 8.072, de 25 de julho de 1990; a Lei nº 9.807, de 13 de julho de 1999; e a Lei nº 15.358, de 24 de março de 2026.",
+      "data": "2026-11-04T11:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650486"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-03T19:12",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. CAPITÃO ALDEN (PL - BA. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, o Deputado que me antecedeu veio a esta tribuna  pasmem!  para tentar transformar Lula em herói, herói",
+      "transcricao": "O SR. CAPITÃO ALDEN (PL - BA. Sem revisão do orador.) - Sr. Presidente, Sras. e Srs. Deputados, o Deputado que me antecedeu veio a esta tribuna  pasmem!  para tentar transformar Lula em herói, herói esse que salvou o Brasil das bets. Só pode estar de sacanagem! É verdade que as apostas esportivas foram autorizadas, sim, no Governo Temer, em 2018. Também é verdade que a regulamentação não foi concluída no Governo Bolsonaro. Mas quem sancionou a Lei nº 14.790, em dezembro de 2023, regulamentando a exploração comercial das bets, foi Lula, o descondenado. Quem criou as regras para autorizar as empresas a operar, a recolher tributos e a explorar esse mercado no Brasil foi o descondenado. E agora querem vender a narrativa de que foi preciso muita coragem para proibir aquilo que o próprio Governo regulamentou. Ora, coragem também seria reconhecer a própria responsabilidade. O Deputado falou aqui que vários Deputados da extrema direita estão fazendo emendas ao decreto, que eles seriam inclusive responsabilizados pela eventual aprovação desse projeto, desse decreto, caso não venha a ser derrubado, e que eles estariam votando contra a família brasileira. Olha que verdade! Se as apostas provocaram prejuízos bilionários ao consumo das famílias, como estão afirmando, precisamos perguntar: onde estavam os estudos de impacto quando o Governo decidiu regulamentar esse mercado? No Governo Lula. Quais medidas foram adotadas para proteger as famílias do endividamento e do vício dos jogos? Diversos Parlamentares, inclusive eu, estivemos aqui na tribuna falando dos riscos, dos vícios e do suicídio de uma série de pessoas de famílias que estariam sendo penalizadas por conta desses jogos. Tudo isso foi dito aqui. Agora, hoje, querem vir com a cara mais lavada do mundo chamar Lula de herói? Proibir as bets resolve o problema ou pode empurrar parte dos apostadores para plataformas clandestinas, sem fiscalização e sem proteção? São perguntas que precisam de resposta. Não estou aqui para defender empresas de apostas. Estou aqui para cobrar coerência, responsabilidade e transparência, porque não dá para regulamentar, autorizar, arrecadar e depois aparecer como salvador, fingindo que não participou dessa história. \"Não é comigo, eu não sabia, eu não conhecia o que estava assinando, chegou à minha mesa, não sabia de nada\", como o descondenado faz o tempo inteiro. O brasileiro merece conhecer os fatos completos, e não apenas a versão politicamente conveniente, em especial a da Esquerda."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a fiscalizar e acompanhar in loco a atual situação que se encontra a transposição do rio São Francisco",

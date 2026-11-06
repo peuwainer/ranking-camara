@@ -4,10 +4,28 @@
   "partido": "MDB",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/153423.jpg",
-  "score": 33.75,
-  "rank": 215,
-  "proposicoes": [],
-  "discursos": [],
+  "score": 18.56,
+  "rank": 146,
+  "proposicoes": [
+    {
+      "id": 2651243,
+      "tipo": "PL",
+      "numero": 5784,
+      "ano": 2026,
+      "ementa": "Institui diretrizes nacionais para a prevenção e o combate à fabricação, à comercialização e ao uso de linhas cortantes em pipas e artefatos similares; estabelece medidas de fiscalização, educação e responsabilização administrativa; e dá outras providências.",
+      "data": "2026-11-05T17:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651243"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-11-03T16:04",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. RENILCE NICODEMOS (Bloco/MDB - PA. Sem revisão da oradora.) - Sr. Presidente, Sras. e Srs. Parlamentares, hoje, é um dia muito especial, especialmente para nós, mulheres, que celebramos a conqu",
+      "transcricao": "A SRA. RENILCE NICODEMOS (Bloco/MDB - PA. Sem revisão da oradora.) - Sr. Presidente, Sras. e Srs. Parlamentares, hoje, é um dia muito especial, especialmente para nós, mulheres, que celebramos a conquista do voto feminino. Esta é uma vitória histórica que representa a luta, a resistência e a coragem de tantas mulheres que abriram caminhos para que hoje pudéssemos ocupar espaços de decisão, exercer nossa cidadania e participar ativamente da construção do nosso País. E é justamente nesta data tão simbólica que faço questão de subir a esta tribuna para expressar um sentimento que carrego no coração: gratidão  gratidão ao povo do meu querido Pará, que, mais uma vez, confiou em mim e renovou sua confiança no meu trabalho, concedendo-me mais de 201 mil votos nesta eleição de 2026. São mais de 201 mil manifestações de confiança, de esperança e de reconhecimento. Não são apenas números, são histórias, famílias, Municípios, comunidades e pessoas que acreditam que podemos continuar fazendo a diferença na vida de quem mais precisa. Eu quero agradecer a cada paraense que saiu de sua casa e depositou seu voto em nosso projeto; a cada homem e a cada mulher que acreditou em mim, que confia no nosso trabalho e que compreende a importância de termos uma representação comprometida com os interesses do nosso Estado. Minha gratidão também aos Prefeitos, Vice-prefeitos, Vereadores, lideranças políticas, comunitárias, religiosas e a todos os parceiros que caminham conosco nesta jornada. Cada apoio foi importante, cada gesto de confiança teve seu valor e cada pessoa que acreditou nesse projeto faz parte dessa conquista. Mas quero dizer algo muito importante: a renovação deste mandato não representa apenas uma vitória eleitoral, representa uma responsabilidade ainda maior. Eu sei de onde venho, conheço a realidade do meu povo e sei das necessidades de cada região do nosso Pará. Por isso, reafirmo aqui, diante desta Casa e de todo o Brasil, que continuarei trabalhando, lutando e buscando investimentos, políticas públicas e oportunidades para melhorar a vida da nossa gente. Não farei distinção de Município, de região ou de quem esteve ou não ao nosso lado durante a eleição. O meu compromisso é com o Pará e com todos os paraenses. Vou honrar cada voto e cada compromisso assumido a cada demonstração de confiança. Vou continuar sendo uma voz ativa na defesa das mulheres, das famílias e dos trabalhadores e de todos aqueles que precisam de representantes nesta Casa. Não tenho... Presidente, vou concluir. Quero finalizar agradecendo imensamente a cada um de vocês que nos receberam com tanto carinho nas suas casas, nos seus vilarejos, nos seus Municípios, entregando a confiança de poder continuar trabalhando cada vez mais pelo nosso Pará. Minha gratidão eterna a todos os Prefeitos, Vereadores, presidentes de comunidade, lideranças que continuam lutando com cada um de nós. Quero agradecer especialmente ao meu querido esposo, Deputado eleito Nenem Albuquerque, que esteve lutando conosco com toda a garra e determinação. Vamos continuar trabalhando e lutando por dias melhores para o nosso amado Pará! Muito obrigada, Pará, por mais de 201 mil votos. Gratidão eterna no meu coração, e vamos trabalhar!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

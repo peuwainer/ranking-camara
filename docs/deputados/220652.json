@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220652.jpg",
-  "score": 41.67,
-  "rank": 21,
+  "score": 17.24,
+  "rank": 214,
   "proposicoes": [
     {
       "id": 2648348,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer prazo para instalação de equipamento de monitoração eletrônica e incentivar ações de policiamento preventivo no enfrentamento à violência doméstica e familiar contra a mulher.",
       "data": "2026-10-20T12:24",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648420"
+    },
+    {
+      "id": 2651096,
+      "tipo": "PL",
+      "numero": 5774,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.409, de 20 de maio de 2026, para assegurar à mulher o direito de consultar o Cadastro Nacional de Pessoas Condenadas por Violência contra a Mulher (CNVM).",
+      "data": "2026-11-05T08:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651096"
     }
   ],
   "discursos": [],

@@ -4,36 +4,9 @@
   "partido": "PDT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg",
-  "score": 63.7,
+  "score": 53.49,
   "rank": 2,
   "proposicoes": [
-    {
-      "id": 2647308,
-      "tipo": "PL",
-      "numero": 5527,
-      "ano": 2026,
-      "ementa": "Institui o Programa Cuidado Psicossocial Familiar, estabelece o acompanhamento psicossocial periódico das famílias beneficiárias do Programa Bolsa Família como instrumento de proteção social, prevenção de vulnerabilidades e promoção da saúde mental, altera a Lei nº 14.601, de 19 de junho de 2023, para incluir condicionalidade de acompanhamento familiar, e estabelece mecanismos de articulação entre o Sistema Único de Assistência Social e o Sistema Único de Saúde.",
-      "data": "2026-10-06T17:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647308"
-    },
-    {
-      "id": 2647309,
-      "tipo": "PL",
-      "numero": 5528,
-      "ano": 2026,
-      "ementa": "Estabelece diretrizes nacionais para a Alta Segura e Assistida e para a transição coordenada do cuidado de pacientes com redução temporária ou permanente de autonomia ou necessidade de cuidados continuados no âmbito do Sistema Único de Saúde – SUS; institui o Plano Individual de Transição do Cuidado; dispõe sobre avaliação pré-alta, segurança medicamentosa, orientação e capacitação do cuidador, continuidade assistencial, atenção domiciliar, reabilitação, articulação com a rede socioassistencial e proteção de dados pessoais; e altera a Lei nº 8.080, de 19 de setembro de 1990.",
-      "data": "2026-10-06T17:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647309"
-    },
-    {
-      "id": 2647310,
-      "tipo": "PL",
-      "numero": 5529,
-      "ano": 2026,
-      "ementa": "Institui a Lei Rede de Proteção do Amanhã, para assegurar o planejamento antecipado e a sucessão programada do apoio às pessoas com deficiência que necessitem de assistência continuada diante do envelhecimento, adoecimento, incapacidade, ausência ou falecimento de seu cuidador principal; estabelece medidas de transição do cuidado, proteção da autonomia, continuidade de serviços e planejamento de moradia; e altera a Lei nº 13.146, de 6 de julho de 2015, e a Lei nº 15.069, de 23 de dezembro de 2024.",
-      "data": "2026-10-06T17:48",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647310"
-    },
     {
       "id": 2647318,
       "tipo": "PL",
@@ -177,6 +150,96 @@
       "ementa": "Estabelece diretrizes nacionais para a atenção integrada às pessoas em situação de acumulação de animais, com fundamento na abordagem de Saúde Única; dispõe sobre identificação precoce, avaliação intersetorial de riscos, atenção à saúde e à assistência social, proteção e bem-estar dos animais, manejo populacional ético, saneamento ambiental, prevenção de maus-tratos e de recorrências; institui o Plano Integrado de Atenção e Proteção; estabelece salvaguardas para intervenções administrativas, tratamento de dados e preservação responsável dos vínculos entre pessoas e animais; e dá outras providências.",
       "data": "2026-10-21T17:35",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648702"
+    },
+    {
+      "id": 2649801,
+      "tipo": "PL",
+      "numero": 5732,
+      "ano": 2026,
+      "ementa": "Institui, no âmbito do Sistema Único de Saúde – SUS, a Linha Nacional de Cuidado Integral à Saúde da Mulher em Situação de Rua – Dignidade Feminina nas Ruas, destinada a assegurar busca ativa, prevenção, diagnóstico, tratamento, acompanhamento longitudinal e atenção integrada à saúde sexual e reprodutiva, ginecológica, oncológica, materna, menstrual e mental e às situações de violência.",
+      "data": "2026-11-03T14:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649801"
+    },
+    {
+      "id": 2649984,
+      "tipo": "PL",
+      "numero": 5739,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proteção do sossego e da integridade sensorial de pessoas especialmente vulneráveis a estímulos sonoros no ambiente residencial, estabelece critérios para a comunicação prévia e a responsabilização por perturbações deliberadas, protege dados de saúde e acrescenta o art. 42-A ao Decreto-Lei nº 3.688, de 3 de outubro de 1941 (Lei das Contravenções Penais).",
+      "data": "2026-11-03T16:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649984"
+    },
+    {
+      "id": 2649998,
+      "tipo": "PL",
+      "numero": 5740,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Proteção pelo Silêncio Inclusivo, estabelece medidas de prevenção e proteção do sossego, da saúde e da integridade física, psíquica e sensorial de pessoas vulneráveis a perturbações sonoras no ambiente residencial, especialmente crianças e pessoas idosas, e dispõe sobre a comunicação preventiva e a atuação das autoridades competentes.",
+      "data": "2026-11-03T16:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649998"
+    },
+    {
+      "id": 2650043,
+      "tipo": "PL",
+      "numero": 5741,
+      "ano": 2026,
+      "ementa": "Estabelece normas de proteção econômica do passageiro no transporte aéreo, com critérios de restituição progressiva no cancelamento de passagens, transparência na recomercialização da capacidade de transporte e compensação em caso de cancelamento de voo imputável ao transportador, e altera a Lei nº 7.565, de 19 de dezembro de 1986.",
+      "data": "2026-11-03T17:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650043"
+    },
+    {
+      "id": 2650083,
+      "tipo": "PL",
+      "numero": 5743,
+      "ano": 2026,
+      "ementa": "Institui o Protocolo Nacional Alerta Neuro, no âmbito da Política Nacional de Busca de Pessoas Desaparecidas, para resposta prioritária ao desaparecimento de pessoa com deficiência ou condição do neurodesenvolvimento ou neurocognitiva que implique risco aumentado de desorientação, dificuldade de comunicação ou de autoproteção, independentemente da idade, e estabelece mecanismos de informação preventiva e proteção de dados pessoais.",
+      "data": "2026-11-03T18:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650083"
+    },
+    {
+      "id": 2650111,
+      "tipo": "PL",
+      "numero": 5744,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Inclusão Socioprodutiva em Saúde Mental, denominada Lei Trabalho e Autonomia em Saúde Mental, destinada a promover a qualificação profissional, o acesso e a permanência no trabalho, o emprego apoiado, o cooperativismo social, a geração de trabalho e renda e o retorno laboral de pessoas em sofrimento psíquico, com respeito à autonomia, à não discriminação e ao sigilo das informações de saúde.",
+      "data": "2026-11-03T19:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650111"
+    },
+    {
+      "id": 2650859,
+      "tipo": "PL",
+      "numero": 5765,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.914, de 3 de julho de 2024, para instituir, no âmbito da Política Nacional de Assistência Estudantil (PNAES), o Programa Nacional de Assistência em Materiais e Instrumentais Odontológicos Estudantis (PRONAMOE), destinado a apoiar a permanência e a conclusão da graduação em Odontologia por estudantes em situação de vulnerabilidade socioeconômica.",
+      "data": "2026-11-04T16:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650859"
+    },
+    {
+      "id": 2650985,
+      "tipo": "PL",
+      "numero": 5767,
+      "ano": 2026,
+      "ementa": "Institui a Lei da Dignidade e Efetividade das Prerrogativas da Advocacia e altera a Lei nº 8.906, de 4 de julho de 1994, a Lei nº 13.105, de 16 de março de 2015, e a Lei nº 9.784, de 29 de janeiro de 1999, para estabelecer mecanismos de prevenção, tutela imediata e restabelecimento de prerrogativas profissionais da advocacia, assegurar a motivação das restrições impostas ao exercício profissional, instituir proteção contra retaliação e discriminação, disciplinar a comunicação de ocorrências à Ordem dos Advogados do Brasil, estabelecer medidas de recomposição do exercício da defesa e conferir prioridade à tramitação de procedimentos destinados à cessação de violações atuais ou iminentes.",
+      "data": "2026-11-04T17:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650985"
+    },
+    {
+      "id": 2651066,
+      "tipo": "PL",
+      "numero": 5769,
+      "ano": 2026,
+      "ementa": "Institui a Lei do Marco da Tradição Veicular; altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), e a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para disciplinar os efeitos da tradição comprovada de veículo automotor na atribuição de penalidades e encargos posteriores à alienação, instituir procedimento de averbação administrativa da data da tradição, assegurar a individualização da responsabilidade entre alienante, adquirente e condutor, estabelecer os efeitos civis das obrigações econômicas vinculadas ao veículo e o correspondente direito de regresso e dispor sobre a responsabilidade civil decorrente da omissão ou demora na transferência registral.",
+      "data": "2026-11-04T18:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651066"
+    },
+    {
+      "id": 2651068,
+      "tipo": "PL",
+      "numero": 5770,
+      "ano": 2026,
+      "ementa": "Institui a Lei do Nexo Protetivo Previdenciário da Mulher e acrescenta dispositivos à Lei nº 8.213, de 24 de julho de 1991, para reconhecer, para fins de dispensa de carência dos benefícios por incapacidade, a violência doméstica e familiar contra a mulher como acidente de qualquer natureza ou causa quando dela decorrer incapacidade física ou mental, estabelecer critérios para a comprovação do nexo causal ou concausal, assegurar avaliação médico-pericial livre de estereótipos e de revitimização, proteger dados pessoais sensíveis da segurada e disciplinar a articulação com a ação regressiva previdenciária contra o responsável pela violência.",
+      "data": "2026-11-04T18:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651068"
     }
   ],
   "discursos": [],

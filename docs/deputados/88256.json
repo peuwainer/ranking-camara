@@ -4,9 +4,100 @@
   "partido": "PV",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/88256.jpg",
-  "score": 32.73,
-  "rank": 69,
-  "proposicoes": [],
+  "score": 28.5,
+  "rank": 31,
+  "proposicoes": [
+    {
+      "id": 2651027,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Estabelece normas gerais de proteção jurídica ao corretor e à corretora de imóveis quanto à responsabilidade civil por atraso na entrega de empreendimentos imobiliários, definindo limites objetivos da responsabilidade dos profissionais de intermediação imobiliária, impondo deveres de informação proporcionais à sua atividade e reforçando a responsabilidade exclusiva das construtoras e incorporadoras na execução da obra, ressalvadas hipóteses excepcionais previstas em lei.",
+      "data": "2026-11-04T17:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651027"
+    },
+    {
+      "id": 2651031,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade de instituições financeiras digitais e seus controladores manterem planos de contingência e comunicação imediata, garantindo o acesso a saldos de subsistência em até 24 horas em caso de liquidação extrajudicial ou falhas sistêmicas graves.",
+      "data": "2026-11-04T17:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651031"
+    },
+    {
+      "id": 2651156,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade de atendimento imediato e gratuito em casos de urgência e emergência em estabelecimentos privados de saúde, institui o Sistema Nacional de Notificação e Ressarcimento em Atendimento Emergencial – SINARE e dá outras providências.",
+      "data": "2026-11-05T12:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651156"
+    },
+    {
+      "id": 2651167,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.656, de 3 de junho de 1998, para dispor acerca da cobertura de medicamentos para usooff-label ou para tratamento em caráter experimental.",
+      "data": "2026-11-05T12:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651167"
+    },
+    {
+      "id": 2651175,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Obriga bares, lanchonetes e demais estabelecimentos a indicarem nos cardápios os alimentos que contêm alta concentração de sódio, e dá outras providências.",
+      "data": "2026-11-05T13:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651175"
+    },
+    {
+      "id": 2651191,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade de identificação biométrica e validação documental para aquisição, habilitação e ativação de chips de telefonia móvel, cria o Cadastro Nacional de Identificação de Linhas Móveis e estabelece medidas de prevenção e combate ao uso de linhas telefônicas em fraudes e golpes, e dá outras providências.",
+      "data": "2026-11-05T14:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651191"
+    },
+    {
+      "id": 2651194,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a proibição do uso de nicotina sintética em produtos fumígenos fabricados no território nacional.",
+      "data": "2026-11-05T14:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651194"
+    },
+    {
+      "id": 2651197,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei n.º 4.591, de 16 de dezembro de 1964, para estabelecer que, caso seja mais favorável ao adquirente, será devida pela incorporadora a mesma cláusula penal aplicável ao adquirente na hipótese de entrega do imóvel em prazo superior ao estipulado contratualmente.",
+      "data": "2026-11-05T14:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651197"
+    },
+    {
+      "id": 2651199,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a responsabilidade objetiva das plataformas de intermediação de hospedagem por falhas na prestação de serviço e estabelece prazos para solução de problemas reportados pelos consumidores.",
+      "data": "2026-11-05T14:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651199"
+    },
+    {
+      "id": 2651225,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Institui canal de atendimento via telefone preferencial para idosos e dá outras providências.",
+      "data": "2026-11-05T16:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651225"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

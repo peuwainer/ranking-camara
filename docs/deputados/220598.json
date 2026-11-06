@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220598.jpg",
-  "score": 29.77,
-  "rank": 348,
+  "score": 37.59,
+  "rank": 8,
   "proposicoes": [
     {
       "id": 2647641,
@@ -42,6 +42,24 @@
       "ementa": "Dispõe sobre os regimes de resolução das instituições autorizadas a funcionar pelo Banco Central do Brasil, pela Superintendência de Seguros Privados e pela Comissão de Valores Mobiliários.",
       "data": "2026-10-14T19:25",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647723"
+    },
+    {
+      "id": 2650822,
+      "tipo": "PL",
+      "numero": 5761,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 9.504, de 30 de setembro de 1997, e nº 9.096, de 19 de setembro de 1995, para vedar o impulsionamento e outras formas de distribuição remunerada de conteúdo eleitoral na internet.",
+      "data": "2026-11-04T15:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650822"
+    },
+    {
+      "id": 2650862,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre o compartilhamento de infraestrutura física aérea de titularidade de prestadoras de serviços de distribuição de energia elétrica com prestadoras de serviços de telecomunicações, altera a Lei nº 9.427, de 26 de dezembro de 1996, a Lei nº 9.472, de 16 de julho de 1997, e a Lei nº 14.947, de 2 de agosto de 2024, e dá outras providências.",
+      "data": "2026-11-04T16:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650862"
     }
   ],
   "discursos": [],

@@ -4,10 +4,28 @@
   "partido": "MDB",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220713.jpg",
-  "score": 31.88,
-  "rank": 317,
-  "proposicoes": [],
-  "discursos": [],
+  "score": 16.06,
+  "rank": 253,
+  "proposicoes": [
+    {
+      "id": 2650471,
+      "tipo": "PL",
+      "numero": 5749,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998, para tipificar o incêndio criminoso em biomas florestais; disciplina a perda e a desapropriação de imóveis rurais utilizados para incêndios criminosos, por descumprimento da função socioambiental da propriedade; e dá outras providências.",
+      "data": "2026-11-04T11:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650471"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-11-03T19:36",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. SAULLO VIANNA (Bloco/MDB - AM. Pela ordem. Sem revisão do orador.) - Quero apenas ressaltar, Presidente, que acaba de ser aprovada no Senado a PEC da Segurança Pública. Foi criado um consenso na",
+      "transcricao": "O SR. SAULLO VIANNA (Bloco/MDB - AM. Pela ordem. Sem revisão do orador.) - Quero apenas ressaltar, Presidente, que acaba de ser aprovada no Senado a PEC da Segurança Pública. Foi criado um consenso naquela Casa, a matéria foi aprovada, e isso é importantíssimo para a segurança pública do Brasil. Acredito que, com mais investimentos, com a integração das forças de segurança, com o poder de polícia para as guardas municipais, com a maior abrangência da atuação da Polícia Federal e da Polícia Rodoviária Federal, com a aprovação dessa PEC, com esses investimentos que vão acontecer a partir de agora, o Brasil pode, sim, recuperar a segurança, pode devolver as ruas para o cidadão de bem. Essa é uma matéria de muita importância. E agora a gente vai para outra discussão, que é a redução da maioridade penal. Acho que a gente já está maduro no Brasil para discutir essa redução e para ajudar no combate à criminalidade."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Turismo",
@@ -20,12 +38,6 @@
       "sigla": "CDU",
       "cargo": "Suplente",
       "desde": "2026-04-22T00:00"
-    },
-    {
-      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
-      "sigla": "PEC22119",
-      "cargo": "Titular",
-      "desde": "2026-04-29T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220713/votacoes-nominais-plenario/2026"

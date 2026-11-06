@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg",
-  "score": 43.5,
-  "rank": 24,
+  "score": 27.31,
+  "rank": 35,
   "proposicoes": [
     {
       "id": 2648340,
@@ -33,6 +33,15 @@
       "ementa": "Altera o artigo 19-J da Lei nº 8.080/1990, que define o Subsistema de acompanhamento à mulher nos serviços de saúde.",
       "data": "2026-10-28T18:10",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649411"
+    },
+    {
+      "id": 2651092,
+      "tipo": "PL",
+      "numero": 5773,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para exigir declaração sobre a titularidade de passaporte estrangeiro por candidatos a cargos eletivos.",
+      "data": "2026-11-04T20:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651092"
     }
   ],
   "discursos": [

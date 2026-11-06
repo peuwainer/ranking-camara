@@ -4,9 +4,28 @@
   "partido": "SOLIDARIEDADE",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220687.jpg",
-  "score": 35.0,
-  "rank": 155,
-  "proposicoes": [],
+  "score": 20.37,
+  "rank": 106,
+  "proposicoes": [
+    {
+      "id": 2650923,
+      "tipo": "PL",
+      "numero": 5766,
+      "ano": 2026,
+      "ementa": "Cria a Rota Turística da Chapada das Mesas, no Estado do Maranhão.",
+      "data": "2026-11-04T17:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650923"
+    },
+    {
+      "id": 2651072,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 12.764, de 27 de dezembro de 2012, para dispor sobre a informação ao público a respeito do Transtorno do Espectro Autista.",
+      "data": "2026-11-04T19:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651072"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

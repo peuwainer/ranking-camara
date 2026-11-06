@@ -4,9 +4,28 @@
   "partido": "CIDADANIA",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178972.jpg",
-  "score": 11.35,
-  "rank": 113,
-  "proposicoes": [],
+  "score": 8.66,
+  "rank": 466,
+  "proposicoes": [
+    {
+      "id": 2650686,
+      "tipo": "PL",
+      "numero": 5758,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 4.737, de 15 de julho de 1965 – Código Eleitoral, para assegurar transferência temporária de seção eleitoral às mulheres vítimas de violência doméstica e familiar que estejam sob medida protetiva de urgência vigente.",
+      "data": "2026-11-04T14:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650686"
+    },
+    {
+      "id": 2650687,
+      "tipo": "PL",
+      "numero": 5759,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015 – Estatuto da Pessoa com Deficiência, para estabelecer normas gerais sobre a organização, a contratação e as condições de exercício das atividades do profissional de apoio escolar.",
+      "data": "2026-11-04T14:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650687"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

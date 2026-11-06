@@ -4,9 +4,19 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220641.jpg",
-  "score": 35.0,
-  "rank": 160,
-  "proposicoes": [],
+  "score": 19.12,
+  "rank": 136,
+  "proposicoes": [
+    {
+      "id": 2651184,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Deputado Rodrigo Gambale, pela aprovação do PL nº 619/2019 e de seus apensados (PLs nº 1364/2019, nº 2029/2019, nº 3334/2019, nº 4180/2019, nº 4224/2019, nº 5038/2020, nº 4862/2020, nº 3720/2021 e nº 49/2024), na forma do anexo Substitutivo.",
+      "data": "2026-11-05T13:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651184"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

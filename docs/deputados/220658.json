@@ -4,9 +4,28 @@
   "partido": "PSD",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220658.jpg",
-  "score": 8.75,
-  "rank": 494,
-  "proposicoes": [],
+  "score": 10.62,
+  "rank": 438,
+  "proposicoes": [
+    {
+      "id": 2650762,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Banco Social do Emprego.",
+      "data": "2026-11-04T15:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650762"
+    },
+    {
+      "id": 2651141,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre os atos administrativos emitidos pelos órgãos da administração pública, estabelecendo critérios para sua publicação, classificação e regulamentando a competência normativa para garantir a transparência e evitar usurpação de poderes.",
+      "data": "2026-11-05T11:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651141"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
@@ -82,21 +101,15 @@
       "desde": "2026-03-25T00:00"
     },
     {
-      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
-      "sigla": "PEC22119",
-      "cargo": "2º Vice-Presidente",
-      "desde": "2026-04-29T00:00"
+      "nome": "Comissão de Desenvolvimento Econômico",
+      "sigla": "CDE",
+      "cargo": "Titular",
+      "desde": "2026-05-04T00:00"
     },
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 108, de 2021, do Senado Federal, que \"altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados\"",
       "sigla": "PLP10821",
       "cargo": "Suplente",
-      "desde": "2026-05-04T00:00"
-    },
-    {
-      "nome": "Comissão de Desenvolvimento Econômico",
-      "sigla": "CDE",
-      "cargo": "Titular",
       "desde": "2026-05-04T00:00"
     }
   ],

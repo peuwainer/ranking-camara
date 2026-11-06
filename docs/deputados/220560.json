@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220560.jpg",
-  "score": 23.86,
-  "rank": 395,
+  "score": 17.33,
+  "rank": 193,
   "proposicoes": [
     {
       "id": 2649090,
@@ -15,6 +15,42 @@
       "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996, para dispor sobre educação em tempo integral.",
       "data": "2026-10-27T20:13",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649090"
+    },
+    {
+      "id": 2650199,
+      "tipo": "SBT",
+      "numero": 7,
+      "ano": 0,
+      "ementa": "Institui o Marco Nacional da Educação Integral em Tempo Integral, estabelece normas gerais para sua implementação nas redes públicas de educação básica e altera a Lei nº 9.394, de 20 de dezembro de 1996, para dispor sobre os parâmetros da oferta de educação básica em tempo integral nas redes públicas.",
+      "data": "2026-11-03T19:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650199"
+    },
+    {
+      "id": 2650207,
+      "tipo": "SBT",
+      "numero": 8,
+      "ano": 0,
+      "ementa": "Institui o Marco Nacional da Educação Integral em Tempo Integral, estabelece normas gerais para sua implementação nas redes públicas de educação básica e altera a Lei nº 9.394, de 20 de dezembro de 1996, para dispor sobre os parâmetros da oferta de educação básica em tempo integral nas redes públicas.",
+      "data": "2026-11-03T19:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650207"
+    },
+    {
+      "id": 2650217,
+      "tipo": "SBT",
+      "numero": 9,
+      "ano": 0,
+      "ementa": "Institui o Marco Nacional da Educação Integral em Tempo Integral, estabelece normas gerais para sua implementação nas redes públicas de educação básica e altera a Lei nº 9.394, de 20 de dezembro de 1996, para dispor sobre os parâmetros da oferta de educação básica em tempo integral nas redes públicas.",
+      "data": "2026-11-03T21:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650217"
+    },
+    {
+      "id": 2651224,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Incentivo à Formação e ao Desenvolvimento de Pessoas com Altas Habilidades ou Superdotação.",
+      "data": "2026-11-05T16:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651224"
     }
   ],
   "discursos": [],

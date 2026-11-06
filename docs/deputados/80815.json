@@ -4,17 +4,30 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/80815.jpg",
-  "score": 1.88,
-  "rank": 506,
-  "proposicoes": [],
+  "score": 3.75,
+  "rank": 503,
+  "proposicoes": [
+    {
+      "id": 2651185,
+      "tipo": "PL",
+      "numero": 5778,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a obrigatoriedade da presença de Agentes de Proteção da Infância e Juventude em eventos públicos de grande porte, estabelece medidas de prevenção à violação dos direitos de crianças e adolescentes e dá outras providências.",
+      "data": "2026-11-05T13:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651185"
+    },
+    {
+      "id": 2651186,
+      "tipo": "PL",
+      "numero": 5779,
+      "ano": 2026,
+      "ementa": "Institui diretrizes nacionais para a valorização dos Agentes de Proteção da Infância e da Juventude e estabelece princípios para o reconhecimento, a capacitação e o apoio ao exercício de suas atividades.",
+      "data": "2026-11-05T13:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651186"
+    }
+  ],
   "discursos": [],
   "orgaos": [
-    {
-      "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
-      "sigla": "BANEGRA",
-      "cargo": "Titular",
-      "desde": "2026-10-26T00:00"
-    },
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3080, de 2020, do Senhor Alexandre Frota, que \"Institui a política pública nacional para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autismo, e dá outras providências\", e apensados",
       "sigla": "PL308020",

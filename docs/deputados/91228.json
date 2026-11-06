@@ -4,9 +4,19 @@
   "partido": "AVANTE",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/91228.jpg",
-  "score": 33.12,
-  "rank": 259,
-  "proposicoes": [],
+  "score": 17.25,
+  "rank": 208,
+  "proposicoes": [
+    {
+      "id": 2651046,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui e cria o Programa Nacional de Acompanhamento Anual Pediátrico/Médico e Emocional/Psicossocial da Infância e Adolescência - PNAPE, com o objetivo de colocar crianças e adolescentes, os filhos da sociedade brasileira, a salvo das mais diversas formas de transtorno mental, negligência, discriminação, exploração, violência, automutilação, crueldade, opressão, tráfico humano e especialmente prevenindo abuso e exploração sexual (Lei Augusto Cury). A partir da Lei Augusto Cury o Estado brasileiro não será apenas o responsável teórico pelo desenvolvimento saudável dos seus filhos, mas acompanhará anualmente este desenvolvimento! Os predadores sexuais, em destaque, saberão que o Estado Brasileiro estará de olho em suas crianças e adolescentes através de escuta ativa e periódica.",
+      "data": "2026-11-04T17:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651046"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

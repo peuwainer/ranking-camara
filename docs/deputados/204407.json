@@ -4,9 +4,19 @@
   "partido": "PSOL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204407.jpg",
-  "score": 39.68,
-  "rank": 29,
-  "proposicoes": [],
+  "score": 22.44,
+  "rank": 69,
+  "proposicoes": [
+    {
+      "id": 2650822,
+      "tipo": "PL",
+      "numero": 5761,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 9.504, de 30 de setembro de 1997, e nº 9.096, de 19 de setembro de 1995, para vedar o impulsionamento e outras formas de distribuição remunerada de conteúdo eleitoral na internet.",
+      "data": "2026-11-04T15:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650822"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-10-27T18:24",
@@ -96,12 +106,6 @@
       "sigla": "CMULHER",
       "cargo": "Titular",
       "desde": "2026-03-10T00:00"
-    },
-    {
-      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
-      "sigla": "PEC22119",
-      "cargo": "Suplente",
-      "desde": "2026-04-28T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204407/votacoes-nominais-plenario/2026"

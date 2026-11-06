@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220539.jpg",
-  "score": 46.98,
-  "rank": 10,
+  "score": 23.62,
+  "rank": 63,
   "proposicoes": [
     {
       "id": 2650005,
@@ -24,6 +24,24 @@
       "ementa": "Parecer ao Projeto de Lei nº 6.313, de 2025, que dispõe sobre a inclusão da Romaria de Nossa Senhora Consoladora de Ibiaçá, no Estado do Rio Grande do Sul, no Calendário Oficial Nacional de Eventos Culturais e Religiosos do Brasil.",
       "data": "2026-11-03T17:17",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650018"
+    },
+    {
+      "id": 2650699,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Reconhece o Estado de Roraima como Polo Nacional de Saberes Tradicionais e Práticas Sustentáveis Indígenas.",
+      "data": "2026-11-04T15:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650699"
+    },
+    {
+      "id": 2650713,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Polo Nacional de Economia Criativa de Roraima e estabelece diretrizes para o fomento das cadeias produtivas criativas com base nas vocações culturais, ambientais e sociais da região Norte.",
+      "data": "2026-11-04T15:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650713"
     }
   ],
   "discursos": [
@@ -56,15 +74,15 @@
       "desde": "2024-03-27T00:00"
     },
     {
-      "nome": "Comissão de Cultura",
-      "sigla": "CCULT",
-      "cargo": "Titular",
-      "desde": "2026-02-04T00:00"
-    },
-    {
       "nome": "Comissão da Amazônia e dos Povos Originários e Tradicionais",
       "sigla": "CPOVOS",
       "cargo": "Suplente",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Cultura",
+      "sigla": "CCULT",
+      "cargo": "Titular",
       "desde": "2026-02-04T00:00"
     },
     {
@@ -78,6 +96,12 @@
       "sigla": "CESPO",
       "cargo": "Suplente",
       "desde": "2026-04-24T00:00"
+    },
+    {
+      "nome": "Comissão de Minas e Energia",
+      "sigla": "CME",
+      "cargo": "Suplente",
+      "desde": "2026-11-04T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220539/votacoes-nominais-plenario/2026"

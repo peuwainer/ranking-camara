@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178881.jpg",
-  "score": 32.73,
-  "rank": 67,
-  "proposicoes": [],
+  "score": 17.25,
+  "rank": 199,
+  "proposicoes": [
+    {
+      "id": 2651172,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre as atividades técnicas científicas na área da identificação humana de natureza civil e criminal e dá outras providências.",
+      "data": "2026-11-05T12:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651172"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

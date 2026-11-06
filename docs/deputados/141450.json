@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141450.jpg",
-  "score": 20.28,
-  "rank": 455,
+  "score": 23.04,
+  "rank": 65,
   "proposicoes": [
     {
       "id": 2649048,
@@ -33,6 +33,69 @@
       "ementa": "Parecer do Relator, Dep. Hugo Leal (PSD-RJ), pela aprovação com substitutivo.",
       "data": "2026-11-03T09:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649692"
+    },
+    {
+      "id": 2649795,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 10.098, de 2000, para dispor sobre a instalação de dispositivos sonoros nas travessias de pedestres com semáforo situadas em Municípios com mais de 50.000 (cinquenta mil) habitantes.",
+      "data": "2026-11-03T14:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649795"
+    },
+    {
+      "id": 2649808,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.503, de 1997, Código de Trânsito Brasileiro, para dispor sobre condições para obtenção da Carteira de Habilitação definitiva e para aperfeiçoar a sistemática de pontuação associada ao cometimento de infrações.",
+      "data": "2026-11-03T14:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649808"
+    },
+    {
+      "id": 2649817,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 — Código de Trânsito Brasileiro — para permitir a representação de interessados, por despachante documentalista credenciado, em procedimentos administrativos perante órgãos e entidades de trânsito que não exijam comparecimento ou atuação pessoal.",
+      "data": "2026-11-03T14:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649817"
+    },
+    {
+      "id": 2649820,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a garantia de atendimento prioritário no embarque e desembarque de passageiros no transporte aéreo e altera a Lei nº 10.048, de 8 de novembro de 2000.",
+      "data": "2026-11-03T14:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649820"
+    },
+    {
+      "id": 2649933,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera os arts. 155 e 157 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar as penas dos crimes de furto e roubo de carga, mercadoria ou bem transportados em veículo automotor envolvido em sinistro de trânsito, e a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para prever a suspensão do direito de dirigir do condutor condenado por tais crimes, quando praticados nas circunstâncias que especifica.",
+      "data": "2026-11-03T15:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649933"
+    },
+    {
+      "id": 2650000,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Cria o Cadastro Nacional de Preços de Combustíveis, altera a Lei nº 9.478, de 6 de agosto de 1997, e dá outras providências.",
+      "data": "2026-11-03T16:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650000"
+    },
+    {
+      "id": 2650683,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre a regulamentação, pelo Contran, de hipóteses excepcionais de parada e estacionamento de veículos utilizados em ações de ajuda humanitária e de resgate de animais.",
+      "data": "2026-11-04T14:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650683"
     }
   ],
   "discursos": [],

@@ -4,10 +4,28 @@
   "partido": "AVANTE",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204553.jpg",
-  "score": 33.75,
-  "rank": 213,
-  "proposicoes": [],
-  "discursos": [],
+  "score": 17.93,
+  "rank": 168,
+  "proposicoes": [
+    {
+      "id": 2651158,
+      "tipo": "PL",
+      "numero": 5777,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a vedação à utilização de recursos públicos para contratação de artistas que promovam ofensas discriminatórias contra Estados ou regiões brasileiras, estimulem a hostilidade entre brasileiros ou atentem contra a unidade nacional.",
+      "data": "2026-11-05T12:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651158"
+    }
+  ],
+  "discursos": [
+    {
+      "data": "2026-11-03T19:40",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. PASTOR SARGENTO ISIDÓRIO (AVANTE - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, é com muita alegria que agradeço a Deus e ao povo baiano, por ser, d",
+      "transcricao": "O SR. PASTOR SARGENTO ISIDÓRIO (AVANTE - BA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Srs. Deputados, Sras. Deputadas, é com muita alegria que agradeço a Deus e ao povo baiano, por ser, de novo, mais uma vez, o Deputado Federal mais votado do meu Estado. O meu filho também foi o mais votado pelo partido. Graças a Deus, puxei mais um Deputado Federal pelo meu partido Avante e o meu filho, de igual forma, puxou um Deputado Estadual. Quero agradecer a Deus e ao povo da Bahia, em especial, de Salvador. Há pouco, estávamos no Senado, acompanhando a PEC da Segurança Pública, para que o povo tenha paz. Sobre o tema, o Presidente Alcolumbre está tratando de aprovar projeto de minha autoria, aprovado nesta Casa, que garante aos pais o direito de internar os seus filhos menores infratores, em situação de dependência química, para tratar de sua dependência, uma vez que o Estatuto da Criança e do Adolescente  ECA não permite a internação de menores. Mas justamente eles são recrutados pelo tráfico, pelas facções e estão cometendo crimes. Então, além de diminuir a idade, o importante é tratar esses menores de sua dependência química. Parabenizo o Presidente do Senado, Davi Alcolumbre, pela sua gentileza. Parabenizo, em especial, esta Casa, que votou por unanimidade o direito dos pais de internarem os seus filhos quando estão nas drogas, como infratores, recrutados pelo crime. Que Deus continue guardando e abençoando a nossa Nação! Presidente, muito obrigado a V.Exa., que faz uma belíssima condução dos trabalhos nesta Casa."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",
@@ -32,12 +50,6 @@
       "sigla": "CPASF",
       "cargo": "Titular",
       "desde": "2026-02-04T00:00"
-    },
-    {
-      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 221, de 2019, do Senhor Reginaldo Lopes, que \"altera o Art. 7º inciso XII da constituição Federal, reduzindo a jornada de trabalho a 36 horas semanais em 10 anos\", e apensada",
-      "sigla": "PEC22119",
-      "cargo": "Suplente",
-      "desde": "2026-04-29T00:00"
     },
     {
       "nome": "Comissão de Administração e Serviço Público",

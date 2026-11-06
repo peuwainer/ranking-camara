@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220614.jpg",
-  "score": 38.42,
-  "rank": 35,
+  "score": 18.0,
+  "rank": 163,
   "proposicoes": [
     {
       "id": 2647660,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para dispor sobre o limite de receita bruta anual e o número de empregados do Microempreendedor Individual.",
       "data": "2026-10-14T17:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647660"
+    },
+    {
+      "id": 2651082,
+      "tipo": "PL",
+      "numero": 5772,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a execução subsidiária, pelo Poder Público, de obras de conservação e restauração de fachadas de imóveis tombados em estado de abandono, com posterior ressarcimento das despesas pelo proprietário.",
+      "data": "2026-11-04T19:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651082"
     }
   ],
   "discursos": [

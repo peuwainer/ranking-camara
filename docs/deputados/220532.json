@@ -4,9 +4,19 @@
   "partido": "MDB",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220532.jpg",
-  "score": 21.26,
-  "rank": 450,
-  "proposicoes": [],
+  "score": 11.08,
+  "rank": 434,
+  "proposicoes": [
+    {
+      "id": 2649799,
+      "tipo": "PL",
+      "numero": 5730,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015, para assegurar acessibilidade, autonomia e igualdade de condições às pessoas com deficiência visual na utilização de serviços bancários e financeiros.",
+      "data": "2026-11-03T14:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649799"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

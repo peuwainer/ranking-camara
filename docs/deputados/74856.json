@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74856.jpg",
-  "score": 51.7,
-  "rank": 6,
+  "score": 38.09,
+  "rank": 7,
   "proposicoes": [
     {
       "id": 2648292,
@@ -15,9 +15,41 @@
       "ementa": "Altera a Lei nº 13.675, de 11 de junho de 2018, para instituir o Programa Brasil contra o Crime Organizado no âmbito da Política Nacional de Segurança Pública e Defesa Social",
       "data": "2026-10-15T15:33",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648292"
+    },
+    {
+      "id": 2649776,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei n.º 9.656, de 3 de junho de 1998, para equiparar a filho do consumidor titular de plano privado de assistência à saúde seu enteado, bem como a criança ou o adolescente que seja por ele tutelado ou que, por determinação judicial, esteja sob sua guarda; e altera a Lei n.º 8.213, de 24 de julho de 1991, para promover equiparação análoga em relação a filho do segurado do Regime Geral de Previdência Social (RGPS).",
+      "data": "2026-11-03T14:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649776"
+    },
+    {
+      "id": 2650048,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "",
+      "data": "2026-11-03T18:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650048"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-11-03T16:48",
+      "fase": "Ordem do Dia",
+      "tipo": "PARECER",
+      "resumo": "A SRA. LAURA CARNEIRO (Bloco/PSD - RJ. Para proferir parecer. Sem revisão da oradora.) - Obrigada a V.Exa. Sr. Presidente, Sras. e Srs. Deputados, trata o projeto do Deputado Beto Preto de estabelecer",
+      "transcricao": "A SRA. LAURA CARNEIRO (Bloco/PSD - RJ. Para proferir parecer. Sem revisão da oradora.) - Obrigada a V.Exa. Sr. Presidente, Sras. e Srs. Deputados, trata o projeto do Deputado Beto Preto de estabelecer a disponibilidade de exames de ultrassonografia morfológica durante a gestação. É absolutamente meritório e oportuno o projeto ora examinado, tendo em vista garantir que os exames sejam realizados durante a gravidez para a detecção precoce de anomalias materno-fetais. Segundo a Organização Mundial de Saúde  OMS, essas anomalias congênitas são alterações estruturais ou funcionais do embrião ou feto que podem ser identificadas no pré-natal, no nascimento ou mais tarde, na infância. No Brasil, essas doenças passaram da posição de quinta causa de mortalidade infantil, em 1990, para a primeira causa, em 2018. Além de terem provocado aproximadamente 22% de todas as mortes infantis em 2017, as anomalias congênitas foram responsáveis por incapacidades com impactos negativos sobre os afetados, seus familiares, o sistema de saúde e a sociedade. Dessa forma, constituem um grave problema de saúde pública. Em situações específicas, o diagnóstico precoce de malformação congênita permite a intervenção cirúrgica intrauterina com sucesso, como ocorreu numa unidade pública aqui no Distrito Federal. Ademais, a detecção precoce de anomalias congênitas pode modificar o planejamento do manejo de gestação, como determinar a alteração do local do parto para oferecer mais segurança durante o atendimento pediátrico e cirúrgico do recém-nascido. Portanto, Sr. Presidente, já na conclusão do voto, \"ante o exposto, no âmbito da Comissão de Saúde, somos pela aprovação do PL 4.674/2024 e do substitutivo aprovado na Comissão de Defesa dos Direitos da Mulher, na forma do substitutivo em anexo. No âmbito da Comissão de Previdência, Assistência Social, Infância, Adolescência e Família, somos pela aprovação do PL e do substitutivo aprovado na Comissão de Defesa dos Direitos da Mulher, na forma do substitutivo adotado pela Comissão de Saúde. Na Comissão de Finanças e Tributação, somos pela compatibilidade e adequação financeira e orçamentária do PL, do substitutivo adotado pela Comissão de Defesa dos Direitos da Mulher e do substitutivo adotado pela Comissão Saúde. Na Comissão de Constituição e Justiça e de Cidadania, somos pela constitucionalidade, juridicidade e boa técnica legislativa do PL e do substitutivo adotado pela Comissão de Defesa dos Direitos da Mulher e do substitutivo adotado pela Comissão da Saúde.\" É o relatório, Sr. Presidente."
+    },
+    {
+      "data": "2026-11-03T13:55",
+      "fase": "Encerramento",
+      "tipo": "DISCURSO ENCAMINHADO",
+      "resumo": "",
+      "transcricao": ""
+    },
     {
       "data": "2026-10-28T13:55",
       "fase": "Encerramento",

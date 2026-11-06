@@ -4,9 +4,19 @@
   "partido": "MDB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178975.jpg",
-  "score": 10.61,
-  "rank": 492,
-  "proposicoes": [],
+  "score": 6.17,
+  "rank": 489,
+  "proposicoes": [
+    {
+      "id": 2649733,
+      "tipo": "PLP",
+      "numero": 281,
+      "ano": 2026,
+      "ementa": "Institui o Regime Especial de Regularização Fiscal e de Transação de Créditos Públicos para Santas Casas de Misericórdia, hospitais filantrópicos e demais entidades beneficentes de assistência à saúde; estabelece condições especiais de parcelamento de débitos federais, disciplina a repactuação de débitos do Fundo de Garantia do Tempo de Serviço — FGTS, cria regime transitório de regularidade fiscal para fins de certificação CEBAS e altera a Lei Complementar nº 187, de 16 de dezembro de 2021, e a Lei nº 13.988, de 14 de abril de 2020",
+      "data": "2026-11-03T12:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649733"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

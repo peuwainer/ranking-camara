@@ -4,9 +4,19 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220665.jpg",
-  "score": 33.41,
-  "rank": 60,
-  "proposicoes": [],
+  "score": 17.87,
+  "rank": 171,
+  "proposicoes": [
+    {
+      "id": 2650489,
+      "tipo": "PL",
+      "numero": 5751,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para assegurar ajuda de custo ou transporte a pacientes do Sistema Único de Saúde que necessitem realizar tratamento em outro município.",
+      "data": "2026-11-04T11:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650489"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

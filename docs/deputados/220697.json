@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220697.jpg",
-  "score": 35.1,
-  "rank": 148,
+  "score": 19.12,
+  "rank": 131,
   "proposicoes": [
     {
       "id": 2648884,
@@ -15,6 +15,15 @@
       "ementa": "Dê-se ao art. 1º da Medida Provisória nº 1.396, de 9 de outubro de 2026, a redação a seguir, acrescentem-se à Medida Provisória os arts. 7º-A, 7º-B e 7º-C, e acrescente-se § 4º ao seu art. 8º, nos seguintes termos:",
       "data": "2026-10-19T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648884"
+    },
+    {
+      "id": 2649770,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade de provedores de aplicações de internet manterem representação legal no território nacional.",
+      "data": "2026-11-03T13:56",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649770"
     }
   ],
   "discursos": [],

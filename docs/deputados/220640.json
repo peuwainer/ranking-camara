@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220640.jpg",
-  "score": 26.98,
-  "rank": 363,
+  "score": 17.39,
+  "rank": 189,
   "proposicoes": [
     {
       "id": 2649499,
@@ -15,9 +15,26 @@
       "ementa": "Acrescenta o art. 203-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar a discriminação por voto ou convicção política no trabalho e na atividade econômica, e altera o art. 1º da Lei nº 9.029, de 13 de abril de 1995, para incluir o voto e a convicção política entre os motivos de discriminação vedados nas relações de trabalho.",
       "data": "2026-10-29T09:52",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649499"
+    },
+    {
+      "id": 2650020,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre a prevenção e o enfrentamento à violência contra crianças e adolescentes indígenas, quilombolas e pertencentes a outros povos e comunidades tradicionais no Brasil",
+      "data": "2026-11-03T17:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650020"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-03T18:08",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. JULIANA CARDOSO (Bloco/PT - SP. Sem revisão da oradora.) - Obrigada, Presidente. Boa tarde aos Deputados, Deputadas, público que me assiste na TV Câmara, eu estou voltando a esta tribuna hoje e",
+      "transcricao": "A SRA. JULIANA CARDOSO (Bloco/PT - SP. Sem revisão da oradora.) - Obrigada, Presidente. Boa tarde aos Deputados, Deputadas, público que me assiste na TV Câmara, eu estou voltando a esta tribuna hoje emanada de uma emoção, de uma gratidão, uma emoção que tem a coragem de saber de onde vim e de onde venho e chegar até aqui reeleita com 111.904 votos. Foi o movimento social, o movimento popular, o movimento sindical, foram os territórios da nossa cidade de São Paulo, do nosso Estado de São Paulo, de litoral, interior, região metropolitana que me fizeram chegar até aqui. Não foram os poderosos, não foram aqueles que, muitas vezes, estavam vinculados a grandes campanhas, inclusive de Flávio Bolsonaro, que colocou muito recurso para ele tentar conseguir ser Presidente da República, mas não conseguiu. Olha que vergonha, já foi, não esperou nem finalizar o dia 27, já saiu fugido do Brasil. Quem me fez chegar aqui foram as mulheres trabalhadoras, as mães, a juventude, o movimento popular, a militância que enfrentou a chuva, enfrentou o sol, acreditando não só neste meu mandato, mas em um Brasil melhor. Eu, que venho da região da Zona Leste de São Paulo, das comunidades eclesiais de base, da luta pelos direitos, sou uma mulher afro-indígena, da origem Terena, aprendi que nenhum direito caiu do céu. A conquista das políticas públicas sempre veio com a base social. Cada conquista nasceu da luta do povo. Essa eleição presidencial mostrou que não é só uma disputa de candidatos, mas é uma disputa de projeto de Nação. É uma disputa de projetos com o Presidente Lula, que defende a democracia, que defende a soberania, mas, acima de tudo, que defende a justiça social. Do outro lado, há a extrema direita com um projeto que privilegia os mais ricos, ameaça os direitos e aposta no medo e na desinformação. Olha como eu estou ouvindo tantos de vocês aqui chorando, dizendo \"coitado de Flávio Bolsonaro, coitado, teve mais de não sei quantos mil votos\". Teve, por conta da desinformação dos senhores e senhoras, que muitas vezes apostaram nisso. O que vocês não esperavam é que aquilo que nós sempre fazemos, que é ter a militância, mas, acima de tudo, ter as pessoas que acreditam no País democrático, que acreditam num País independente, um País que possa ter dignidade de vida, como o fim da escala 6 por 1. Para muitos dos senhores o fim da escala seis por um significava tirar dinheiro do empresário, mas, para nós, que viemos desse chão de base trabalhadora, para nós foi uma grande conquista social ter o direito de ficar com as nossas famílias, ou ter o direito de fazer a hora extra, ou o direito de fazer qualquer coisa da nossa vida, mas não ficar mais um dia trabalhando a serviço de grandes empresários. Muito obrigada, Presidente. Eu gostaria que o meu discurso fosse veiculado no programa A Voz do Brasil."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

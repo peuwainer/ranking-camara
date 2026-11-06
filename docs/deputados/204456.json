@@ -4,9 +4,19 @@
   "partido": "MDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204456.jpg",
-  "score": 33.75,
-  "rank": 211,
-  "proposicoes": [],
+  "score": 17.87,
+  "rank": 176,
+  "proposicoes": [
+    {
+      "id": 2651069,
+      "tipo": "PL",
+      "numero": 5771,
+      "ano": 2026,
+      "ementa": "Institui o Programa Nacional de Bombeiros Civis Comunitários e altera a Lei nº 11.901, de 12 de janeiro de 2009, que dispõe sobre a profissão de Bombeiro Civil, para dispor sobre a atuação desses profissionais em situações de desastres naturais e climáticos, calamidades públicas e emergências de grande proporção.",
+      "data": "2026-11-04T18:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651069"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

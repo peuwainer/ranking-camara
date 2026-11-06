@@ -4,8 +4,8 @@
   "partido": "PSDB",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178886.jpg",
-  "score": 36.63,
-  "rank": 99,
+  "score": 21.06,
+  "rank": 85,
   "proposicoes": [
     {
       "id": 2648866,
@@ -42,9 +42,26 @@
       "ementa": "Dispõe sobre a autenticação, a identificação e o bloqueio de chamadas telefônicas e mensagens nas redes de telecomunicações e institui base de dados centralizada de recursos de numeração.",
       "data": "2026-10-19T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648869"
+    },
+    {
+      "id": 2650860,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre o compartilhamento de infraestrutura física aérea de titularidade de prestadoras de serviços de distribuição de energia elétrica com prestadoras de serviços de telecomunicações, altera a Lei nº 9.427, de 26 de dezembro de 1996, a Lei nº 9.472, de 16 de julho de 1997, e a Lei nº 14.947, de 2 de agosto de 2024, e dá outras providências.",
+      "data": "2026-11-04T16:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650860"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-03T17:52",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JUSCELINO FILHO (Bloco/PSDB - MA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, primeiro, quero parabenizá-lo pela reeleição. Quero também parabenizar todos os colegas reeleitos e agrade",
+      "transcricao": "O SR. JUSCELINO FILHO (Bloco/PSDB - MA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, primeiro, quero parabenizá-lo pela reeleição. Quero também parabenizar todos os colegas reeleitos e agradecer ao povo do Maranhão por mais uma reeleição, pela honra de poder continuar neste Parlamento, representando o nosso Estado. Presidente, ontem o Jornal Nacional reservou um tempo importante para tratar do problema que os postes viraram hoje nas cidades brasileiras, um problema urbanístico, ambiental e de segurança. Venho relatando há alguns meses uma matéria aqui na Casa sobre o tema e solicitei ao Presidente a inclusão na pauta de amanhã do Projeto de Lei nº 3.220, de 2019, do qual sou Relator. Esse projeto trata justamente do compartilhamento dessa infraestrutura física, que é hoje de titularidade das distribuidoras de energia, mas é utilizada também pelo setor de telecomunicações. Queremos regularizar o uso dos postes no Brasil, organizar esse setor, fazer a limpeza das cidades, trazer segurança jurídica, criar um ambiente mais adequado, para avançarmos na expansão da rede de telecomunicações. Era esse o nosso registro. Mais uma vez, Presidente, quero parabenizá-lo pela reeleição, assim como a todos os Deputados reeleitos desta Casa."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Saúde",

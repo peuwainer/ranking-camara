@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220611.jpg",
-  "score": 35.72,
-  "rank": 130,
+  "score": 24.74,
+  "rank": 51,
   "proposicoes": [
     {
       "id": 2649548,
@@ -15,6 +15,51 @@
       "ementa": "Dispõe sobre a criminalização do disparo massivo de chamadas telefônicas automáticas (\"robocalls\") e determina que as multas aplicadas sejam destinadas ao Sistema Único de Segurança Pública (SUSP).",
       "data": "2026-10-29T13:56",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649548"
+    },
+    {
+      "id": 2650002,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre uso de etanol e outras fontes de combustível renovável para veículos da União.",
+      "data": "2026-11-03T16:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650002"
+    },
+    {
+      "id": 2650576,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera os Decretos-Leis nº 2.848, de 7 de dezembro de 1940 (Código Penal), e nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), e as Leis nº 8.257, de 26 de novembro de 1991, e nº 11.343, de 23 de agosto de 2006, para dispor sobre a destinação de bens, direitos e valores apreendidos ou confiscados, incluindo os Estados e o Distrito Federal como beneficiários nos casos de competência da Justiça Estadual.",
+      "data": "2026-11-04T13:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650576"
+    },
+    {
+      "id": 2650609,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 7.560, de 19 de dezembro de 1986, e a Lei nº 11.343, de 23 de agosto de 2006, para aperfeiçoar o regime de destinação de bens e valores apreendidos em crimes relacionados ao tráfico de drogas e conexos, garantir repasse automático às unidades responsáveis pela apreensão, disciplinar o uso direto de bens in natura e instituir mecanismos de transparência e controle.",
+      "data": "2026-11-04T13:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650609"
+    },
+    {
+      "id": 2651251,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Estabelece obrigatoriedade de cumprimento de quarentena e realização de exames diagnósticos por viajantes quando da entrada em território brasileiro, enquanto durar Emergência em Saúde Pública de importância Internacional (ESPII) em decorrência da Infecção Humana pelo Novo Coronavírus, alterando a Lei nº 13.445, de 24 de maio de 2017 (Lei de Migração).",
+      "data": "2026-11-05T18:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651251"
+    },
+    {
+      "id": 2651252,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre medidas de proteção consular e segurança para cidadãos brasileiros que viajem ao exterior para a prática de esportes ou atividades de risco elevado; institui o Cadastro Nacional de Viagens de Risco (CNVR); trata do desenvolvimento de aplicativo com funcionalidade de alerta emergencial; autoriza a atuação coordenada entre os postos consulares e o Ministério das Relações Exteriores; e prevê mecanismos de assistência em casos de falecimento ou hospitalização grave de nacionais em situação de vulnerabilidade econômica",
+      "data": "2026-11-05T18:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651252"
     }
   ],
   "discursos": [],

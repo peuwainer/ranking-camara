@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220623.jpg",
-  "score": 38.85,
-  "rank": 54,
+  "score": 26.19,
+  "rank": 40,
   "proposicoes": [
     {
       "id": 2647789,
@@ -15,9 +15,49 @@
       "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para instituir a garantia de distribuição gratuita de propaganda eleitoral identificada em plataformas digitais.",
       "data": "2026-10-15T14:04",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647789"
+    },
+    {
+      "id": 2650822,
+      "tipo": "PL",
+      "numero": 5761,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 9.504, de 30 de setembro de 1997, e nº 9.096, de 19 de setembro de 1995, para vedar o impulsionamento e outras formas de distribuição remunerada de conteúdo eleitoral na internet.",
+      "data": "2026-11-04T15:38",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650822"
+    },
+    {
+      "id": 2651239,
+      "tipo": "PL",
+      "numero": 5783,
+      "ano": 2026,
+      "ementa": "Altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e a Lei nº 5.889, de 8 de junho de 1973, para determinar que os intervalos intrajornada para repouso ou alimentação sejam computados na duração do trabalho e remunerados como de serviço efetivo.",
+      "data": "2026-11-05T17:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651239"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-03T19:12",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. DUDA SALABERT (Bloco/PSOL - MG. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. O Lula foi celebrado nos presídios, mas Flávio Bolsonaro foi celebrado e mais votado nas áreas domin",
+      "transcricao": "A SRA. DUDA SALABERT (Bloco/PSOL - MG. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. O Lula foi celebrado nos presídios, mas Flávio Bolsonaro foi celebrado e mais votado nas áreas dominadas pela milícia, que são bandidos, que elegem inclusive Deputados que representam essas milícias. E mais respeito ao falar de Leonel Brizola! Leonel Brizola foi a pessoa, o político que mais construiu escolas na história do Brasil, a exemplo dos CIEPs! E vocês não gostam disso, não gostam de educação, por isso desrespeitam o Presidente Lula, que foi o Presidente que mais construiu universidades na história deste País. E é isso que a gente quer. A revolução de fato, como dizia Darcy Ribeiro, se inicia na educação, na educação básica feita por Leonel Brizola ou na educação superior feita pelo Presidente Lula. Muito obrigada, Presidente."
+    },
+    {
+      "data": "2026-11-03T19:04",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. DUDA SALABERT (Bloco/PSOL - MG. Sem revisão da oradora.) - Muito obrigada, Presidente. Eu vim aqui celebrar a maior vitória da nossa geração, e essa vitória não pode ser reduzida pela de Lula s",
+      "transcricao": "A SRA. DUDA SALABERT (Bloco/PSOL - MG. Sem revisão da oradora.) - Muito obrigada, Presidente. Eu vim aqui celebrar a maior vitória da nossa geração, e essa vitória não pode ser reduzida pela de Lula sobre Bolsonaro. Foi uma vitória da democracia sobre o fascismo. Foi uma vitória da civilização sobre a barbárie. Gente, nós participamos das maiores manifestações da história deste País. Nós construímos as maiores manifestações de rua da história do Brasil. Esse movimento popular está sendo exemplo de combate ao fascismo para o mundo inteiro. Parabenizo todo mundo que participou e construiu essa vitória. Eu quero agradecer especialmente a Minas Gerais, meu Estado. Dizem que Minas é um Estado conservador. Falam que o mineiro tira a roupa, mas não tira o crucifixo. Sim, mas foi desse Estado conservador que saiu a vitória do Presidente Lula. Foi desse Estado conservador que surgiu e saiu a primeira travesti eleita neste Congresso Nacional. Portanto, quero agradecer a Minas Gerais pelos 208 mil votos, em 2022, que me tornaram a terceira pessoa mais votada do Estado. Agora, em 2026, recebi quase 230 mil votos, o que me coloca novamente como a terceira Deputada mais votada da história de Minas Gerais. Isso mostra que Minas Gerais é, sim, um Estado conservador, porque queremos manter viva a nossa tradição que está plasmada na nossa bandeira: liberdade ainda que tardia. Liberdade não tem relação nenhuma com autoritarismo, liberdade não tem relação nenhuma com fascismo. Não existe liberdade plena com perseguição à diversidade. A liberdade só é plena na diversidade de corpos, de identidades, de religiões, de pensamentos políticos e de partidos. E isso só cabe dentro da democracia. Parabéns a todos os manifestantes que construíram a maior vitória popular da história do Brasil recente. Obrigada, Presidente."
+    },
+    {
+      "data": "2026-11-03T16:32",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. DUDA SALABERT (Bloco/PSOL - MG. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Estamos recebendo aqui na Câmara dos Deputados a Linda Brasil, que foi a Deputada mais votada de Ser",
+      "transcricao": "A SRA. DUDA SALABERT (Bloco/PSOL - MG. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Estamos recebendo aqui na Câmara dos Deputados a Linda Brasil, que foi a Deputada mais votada de Sergipe, a terceira pessoa mais votada, mas infelizmente estão impedindo que Linda Brasil assuma o cargo. Por quê? Porque um partido com o qual o PSOL é federado não prestou contas em 2018. Nós estamos em 2026, e acharam essa vírgula. Os partidos já resolveram o problema burocraticamente, e agora o debate está na Justiça. Sexta-feira vai ser julgado se Linda vai ser nossa Deputada ou não. Então, precisamos de mobilização popular, precisamos que assinem o manifesto para que Linda Brasil seja a representante do que o povo quer. Ela foi a mais votada, faz um trabalho maravilhoso, e não pode assumir o cargo por uma burocracia. Não há como, por uma vírgula de 2018, o desejo popular ficar em segundo plano. Obrigada."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a fiscalizar os rompimentos de barragens, em especial acompanhar a repactuação do acordo de Mariana e a reparação do crime de Brumadinho",

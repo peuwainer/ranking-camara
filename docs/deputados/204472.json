@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204472.jpg",
-  "score": 51.97,
-  "rank": 5,
+  "score": 35.99,
+  "rank": 11,
   "proposicoes": [
     {
       "id": 2647685,
@@ -132,6 +132,24 @@
       "ementa": "Estabelece garantias contra o monitoramento ideológico, a classificação arbitrária de manifestações lícitas e o uso abusivo de estruturas administrativas para restringir a liberdade de expressão no âmbito da Administração Pública Federal.",
       "data": "2026-10-20T17:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648600"
+    },
+    {
+      "id": 2649753,
+      "tipo": "PL",
+      "numero": 5728,
+      "ano": 2026,
+      "ementa": "Estabelece medidas de segurança para prevenção à transferência fraudulenta de números telefônicos e à apropriação indevida de contas digitais de comunicação, e altera a Lei nº 12.965, de 23 de abril de 2014.",
+      "data": "2026-11-03T13:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649753"
+    },
+    {
+      "id": 2649761,
+      "tipo": "PL",
+      "numero": 5729,
+      "ano": 2026,
+      "ementa": "Institui a Lei Anticrime Deepfake, estabelece medidas penais, processuais e de investigação destinadas à repressão de fraudes, extorsões e organizações criminosas que utilizem inteligência artificial, deepfakes, clonagem de voz ou manipulação artificial de identidade, dispõe sobre mecanismos de preservação e rastreabilidade de evidências digitais, cria protocolo nacional de resposta emergencial a fraudes tecnológicas e estabelece medidas de bloqueio, recuperação e perda de ativos relacionados a esses crimes.",
+      "data": "2026-11-03T13:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649761"
     }
   ],
   "discursos": [],
