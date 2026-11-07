@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg",
-  "score": 17.25,
-  "rank": 200,
+  "score": 17.79,
+  "rank": 182,
   "proposicoes": [
     {
       "id": 2647665,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647665"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-04T14:44",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. CARLOS JORDY (PL - RJ. Sem revisão do orador.) - Muito obrigado, Sr. Presidente. Srs. Deputados, esta é a primeira vez que eu subo a esta tribuna desde que fui eleito Senador da República pelo m",
+      "transcricao": "O SR. CARLOS JORDY (PL - RJ. Sem revisão do orador.) - Muito obrigado, Sr. Presidente. Srs. Deputados, esta é a primeira vez que eu subo a esta tribuna desde que fui eleito Senador da República pelo meu Estado do Rio de Janeiro. Nós tivemos um segundo turno que ficou marcado pelas mentiras, pelas fake news, pelas baixarias, pela compra de votos, pelo abuso de poder político e econômico. Há motivos de sobra para cassar essa chapa que se diz vencedora. E isso só aumentou a nossa responsabilidade, a responsabilidade do Senado, a responsabilidade dos Senadores eleitos. Muita gente tem falado comigo, nas redes sociais, nas ruas, pedindo para não votarmos em Davi Alcolumbre e votarmos em Rogerio Marinho. Eu digo categoricamente: não há possibilidade alguma de votarmos em Alcolumbre! Não há possibilidade alguma de votarmos num covarde, omisso, responsável por esse estado de coisas inconstitucionais que nós vivemos hoje no Brasil, alguém que enterrou a CPMI do Banco Master, uma pessoa que engavetou processos de impeachment contra Ministros que cometeram abuso de autoridade, uma pessoa que não cumpriu com a sua palavra! Por isso, nós tivemos hoje uma reunião com o Rogerio Marinho, em que nós endossamos o nosso apoio irrestrito à sua candidatura. Só há um meio de nós resgatarmos a democracia, a independência e a harmonia entre os Poderes: eleger Rogerio Marinho, que terá o compromisso de fazer com que o nosso Parlamento volte a ser respeitado. Muitas pessoas têm me questionado também: \"Jordy, como será a candidatura à Presidência da Câmara dos Deputados?\" Bom, eu não estarei mais aqui no ano que vem  eu estarei no Senado e votarei em Rogerio Marinho , mas o que eu faria é o que espero que o meu partido faça: que não vote em Hugo Motta e tenha candidatura própria. É inaceitável que nós tenhamos dois Presidentes que não honraram com a palavra dada ao nosso partido, o maior partido do Brasil. O nosso eleitor não merece ver o nosso partido declarando apoio a uma pessoa que disse que pautaria a anistia e não pautou. Como o nosso eleitor vai entender isso? Nós ocupamos esta Mesa aqui e ocupamos a Mesa do Senado para que o voto dele fosse respeitado, para que a palavra que foi dada por Alcolumbre e por Hugo Motta fosse honrada. Como é que ele vai entender isso? Portanto, eu peço isso ao meu partido. E eu tenho certeza de que o meu partido  mais do que querer Comissão ou qualquer outra coisa  tem respeito pelos seus eleitores e pela sua identidade. Nós temos votos suficientes. Nós temos o respeito da população brasileira. Tivemos 26 milhões de votos. O nosso partido, o maior partido do Brasil, teve o maior número de votos em toda a Nação. Vamos respeitar esses votos. Por isso, eu digo aqui categoricamente: Hugo Motta e Alcolumbre não!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",

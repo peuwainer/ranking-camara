@@ -4,10 +4,64 @@
   "partido": "NOVO",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204455.jpg",
-  "score": 35.37,
-  "rank": 13,
-  "proposicoes": [],
+  "score": 36.25,
+  "rank": 10,
+  "proposicoes": [
+    {
+      "id": 2651333,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 2026,
+      "ementa": "Emenda Mp 1399",
+      "data": "2026-11-06T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651333"
+    },
+    {
+      "id": 2651334,
+      "tipo": "EMC",
+      "numero": 3,
+      "ano": 2026,
+      "ementa": "Emenda Mp 1399 motorista app",
+      "data": "2026-11-06T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651334"
+    }
+  ],
   "discursos": [
+    {
+      "data": "2026-11-04T18:00",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Kim Kataguiri, o NOVO orienta \"sim\". Depois de ouvir o Deputado que me antecedeu, eu gostaria de dizer a quem acredita na p",
+      "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Kim Kataguiri, o NOVO orienta \"sim\". Depois de ouvir o Deputado que me antecedeu, eu gostaria de dizer a quem acredita na propaganda do PT que melhor seria pegar um avião aqui e ir para a Disney, porque essa pessoa vive no mundo da fantasia. O cidadão brasileiro que é MEI  e 17 milhões de pessoas são MEIs no Brasil  ouviu um discurso semelhante e, imagino eu, alguns devem ter caído no conto da carochinha de que iriam receber 5 mil reais. Não há orçamento para isso. Seriam necessários 68 bilhões de reais para pagar 5 mil reais a cada um dos 17 milhões de brasileiros do MEI. O Governo Federal reservou para isso 5 bilhões de reais. Foi só essa a mentirinha do Governo. Quem sancionou as bets foi o Presidente Lula. Quem voltou atrás, por uma questão eleitoral, foi o próprio Presidente. Olhem, a gente testemunhou a maior propaganda eleitoral falsa da história do nosso País."
+    },
+    {
+      "data": "2026-11-04T17:12",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Lula, o Partido Novo orienta \"sim\". (Manifestação no plenário.) É Presidente Lula, sim. Ele é Lula, é o Lula do bem. Presid",
+      "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Lula, o Partido Novo orienta \"sim\". (Manifestação no plenário.) É Presidente Lula, sim. Ele é Lula, é o Lula do bem. Presidente Lula, desde 1882, em Nova York, a rede elétrica é subterrânea. Após 5 anos, em 1887, foram criadas leis que obrigaram a instalação dessa rede subterrânea de energia. Quer dizer, estamos com 144 anos de atraso  e há aqui quem critique os Estados Unidos. Olha, o NOVO é favorável, mas há uma linha tênue neste projeto. Toda a rede aérea pertence à companhia elétrica: de telefone, cabo de fibra ótica, de Internet. Quando essa empresa perde a concessão, porque o poste, na verdade, é público, fica esta linha tênue: como alugar, como fazer essa mediação? Mas o NOVO é favorável, com essas ressalvas. Obrigado."
+    },
+    {
+      "data": "2026-11-04T16:44",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente Icaro. Quero parabenizar a todos pelo projeto, que teve a liderança do Deputado Kim Kataguiri, do Deputado Nikola",
+      "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente Icaro. Quero parabenizar a todos pelo projeto, que teve a liderança do Deputado Kim Kataguiri, do Deputado Nikolas Ferreira, e lembrar que hoje o maior defensor do SUS se encontra no Hospital Sírio-Libanês fazendo um check-up. O Presidente Lula está se preparando para uma viagem para a Turquia  vai a Ancara, a Istambul  e para as Filipinas  vai à Cidade Quezon, a Manila , e sabe quem ele convidou para acompanhá-lo nessa viagem? O Presidente do Senado, Davi Alcolumbre, e o Presidente da Câmara dos Deputados, Sr. Hugo Motta. Ora, é preciso harmonia entre os Poderes, é óbvio, mas a gente não precisa dessa dependência. A Câmara é dos Deputados. A Câmara não é do Presidente Lula, não é do Davi Alcolumbre, não é do STF. E o que a gente observa é uma dependência; é um ajudando o outro  o Senado ajuda o STF. Por isso, a gente pede votação aberta nas duas Casas, tanto na Câmara dos Deputados quanto no Senado Federal. Obrigado, Presidente Icaro."
+    },
+    {
+      "data": "2026-11-04T16:12",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Icaro de Valmir, apenas uma sugestão. O Partido Novo é favorável, mas, quando discutirmos o mérito, seria importante aument",
+      "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Icaro de Valmir, apenas uma sugestão. O Partido Novo é favorável, mas, quando discutirmos o mérito, seria importante aumentar o leque de possibilidades de ação, não ficarmos apenas na saúde mental. Para expandir essa possibilidade para lugares remotos do País, podemos aproveitar esse projeto para fazer outras ações dentro da política pública de saúde. Obrigado, Presidente Icaro."
+    },
+    {
+      "data": "2026-11-04T14:56",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Sem revisão do orador.) - Presidente Icaro de Valmir, aproveito o momento para fazer uma homenagem. As homenagens se tornam mais especiais quando a pessoa homenageada está ",
+      "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Sem revisão do orador.) - Presidente Icaro de Valmir, aproveito o momento para fazer uma homenagem. As homenagens se tornam mais especiais quando a pessoa homenageada está presente. Então, parabéns, Deputado Jordy! Você foi eleito Senador pelo Rio de Janeiro. Isso é coisa de Deus! Aos 48 do segundo tempo, você foi inscrito  foi inscrito por Deus, com certeza. A gente já percebia a sua vontade aqui na Câmara dos Deputados. Você falou para mim em determinado momento: \"Luiz, eu vou ganhar\". E você ganhou. Então, Jordy, para todos nós, é um orgulho ter você como Senador pelo Rio de Janeiro, que é o terceiro Estado mais populoso do Brasil, que é o segundo Estado mais rico da Federação e que vai precisar muito de você. Muito obrigado, Jordy! Deputado Gilvan da Federal, guerreiro do Espírito Santo, que lamentavelmente foi retirado do jogo de forma arbitrária, V.Exa. é um Deputado brilhante, que honrou os votos dos cidadãos capixabas, que sempre esteve presente, que nunca faltou a uma reunião de Comissão. Gilvan, muito obrigado pela sua dedicação. O tempo é o senhor da razão, Gilvan. Não há mal que sempre dure nem bem que nunca se acabe. Você vai voltar. Torço muito por você. Deputado Icaro, o atual Presidente do Brasil, o Presidente Lula, que elogia tanto o SUS, está no Hospital Sírio-Libanês fazendo um check-up. Ele não está no SUS; ele está no Sírio-Libanês. Ele parece mais um garoto-propaganda do Sírio-Libanês. Ele está fazendo um check-up para fazer mais uma viagem internacional. Vai para a Turquia, para a cidade de Ancara, a capital, e para as Filipinas, para Quezon City. Deputado Gilvan, V.Exa. sabe quem são os convidados do Presidente Lula para viajar com ele? Davi Alcolumbre e Hugo Motta. O que eles vão conversar no avião? A gente sempre fala aqui da importância da harmonia entre os Poderes, mas a gente não quer dependência entre os Poderes. A gente não quer exatamente isto: a intromissão do Executivo no Senado e na Câmara dos Deputados. A gente não quer a dependência entre o Senado e o STF. Essa dependência não é saudável para a Câmara dos Deputados, que representa, na devida proporcionalidade, o cidadão brasileiro. Qual é o motivo de o Sr. Davi Alcolumbre e o Sr. Hugo Motta viajarem para o outro lado do mundo, para as Filipinas e para a Turquia, com o Presidente do Brasil, às vésperas de duas eleições tão importantes para o futuro do nosso País? O Senado Federal está discutindo se vai haver votação aberta ou fechada. Ora, bolas! Tem que haver votação aberta! Deve haver ali, pelo menos, o mínimo de transparência, para a gente ficar sabendo se o Presidente do Senado foi eleito no primeiro turno ou no segundo turno  tem que ter sido eleito no primeiro turno. O que as pessoas esperam dos 49 Senadores que estão na lista de quem vai votar no Senador Rogerio Marinho é que, de fato, eles honrem a confiança do eleitor. Aqui na Câmara dos Deputados, é a mesma coisa. Nós queremos um Presidente da Câmara dos Deputados que faça o simples, que paute o que é aprovado nas trinta Comissões. É preciso que parem com aquele discurso: \"Olhe, eu não vou pôr em votação porque ainda não chegamos a um acordo\". Ora, bolas! O Presidente é Presidente dos 513 Deputados  ele e mais 512 Deputados , não é Presidente dos Líderes partidários. Esta Casa não é do Presidente Lula, não é do Presidente do Senado, Alcolumbre, não é do STF. Aqui é a Câmara dos Deputados! A gente precisa de um Presidente da Câmara que faça o simples e que faça o correto. Obrigado, Presidente Icaro de Valmir."
+    },
     {
       "data": "2026-11-03T15:40",
       "fase": "Breves Comunicações",
@@ -138,22 +192,15 @@
       "data": "2026-10-13T17:48",
       "fase": "Ordem do Dia",
       "tipo": "PELA ORDEM",
-      "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Hugo Motta, o Partido Novo orienta \"sim\". Foi mencionado aqui, várias vezes, que os estudantes e a juventude estão indo às ",
-      "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Hugo Motta, o Partido Novo orienta \"sim\". Foi mencionado aqui, várias vezes, que os estudantes e a juventude estão indo às ruas. Pelas pesquisas a que tivemos acesso, não há diferença considerável, percentualmente, dos jovens entre 16 e 24 anos que votam em Lula ou no Senador Flávio Bolsonaro. Lembro ao Deputado que representa o Paraná, que me antecedeu, que o Partido Novo elegeu cinco Deputados Federais no Paraná. O quinto não vai ocupar esta vaga porque não atingiu 20%. O NOVO elegeu cinco Deputados Federais no Paraná e dez Deputados Federais no País. Rompemos a cláusula de barreira. Deltan Dallagnol, eleito Senador, já está cotado para ser Ministro do STF no Governo Flávio Bolsonaro. Isso é democracia! Obrigado, Presidente Hugo Motta."
+      "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Hugo Motta, o Partido Novo orienta \"sim\". Como foi mencionado aqui várias vezes que os estudantes e a juventude estão indo ",
+      "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Hugo Motta, o Partido Novo orienta \"sim\". Como foi mencionado aqui várias vezes que os estudantes e a juventude estão indo às ruas, olhem, nas pesquisas que a gente teve acesso, não há diferença considerável percentualmente dos jovens entre 16 e 24 anos que votam no Lula ou no Senador Flávio Bolsonaro. Lembro ao Deputado que representa o Paraná, que me antecedeu, que o Partido Novo fez cinco Deputados Federais no Paraná. O quinto não vai ocupar esta vaga porque não atingiu 20%. Mas o NOVO elegeu cinco Deputados Federais no Paraná e dez Deputados Federais no País. Rompemos a cláusula de barreira. O Deltan Dallagnol, eleito Senador, já está cotado para ser Ministro do STF no Governo Flávio Bolsonaro. Olha: isso é democracia. Obrigado, Presidente Hugo Motta."
     },
     {
       "data": "2026-10-13T17:48",
       "fase": "Ordem do Dia",
       "tipo": "PELA ORDEM",
-      "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Hugo Motta, o Partido Novo orienta \"sim\". Como foi mencionado aqui várias vezes que os estudantes e a juventude estão indo ",
-      "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Hugo Motta, o Partido Novo orienta \"sim\". Como foi mencionado aqui várias vezes que os estudantes e a juventude estão indo às ruas, olhem, nas pesquisas que a gente teve acesso, não há diferença considerável percentualmente dos jovens entre 16 e 24 anos que votam no Lula ou no Senador Flávio Bolsonaro. Lembro ao Deputado que representa o Paraná, que me antecedeu, que o Partido Novo fez cinco Deputados Federais no Paraná. O quinto não vai ocupar esta vaga porque não atingiu 20%. Mas o NOVO elegeu cinco Deputados Federais no Paraná e dez Deputados Federais no País. Rompemos a cláusula de barreira. O Deltan Dallagnol, eleito Senador, já está cotado para ser Ministro do STF no Governo Flávio Bolsonaro. Olha: isso é democracia. Obrigado, Presidente Hugo Motta."
-    },
-    {
-      "data": "2026-10-13T17:24",
-      "fase": "Breves Comunicações",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente Hugo Motta. Parabéns pelo seu regresso, pela sua eleição! O Deputado que me antecedeu, assim como todos eles  vo",
-      "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente Hugo Motta. Parabéns pelo seu regresso, pela sua eleição! O Deputado que me antecedeu, assim como todos eles  vou repetir isto aqui , vive na propaganda do PT. O Partido Novo se orgulha muito de ter orientado contrariamente, porque nós definitivamente não iremos jamais proibir alguém de trabalhar. Imaginem um garçom, que tem dois terços do seu salário vindos de gorjeta, proibido de trabalhar aos sábados e domingos, vou repetir, proibido de trabalhar. E eu faço uma pergunta. Durante a campanha eleitoral do Deputado que me antecedeu, ele trabalhou 50 dias consecutivos sem descanso. Os seus bandeirinhas de rua trabalharam 50 dias sem descanso. Então, quer dizer que, quando o trabalho é em benefício de si ou do seu grupo, pode. Agora, o garçom, o comissionado no shopping center, que é jovem, que ganha por comissão, eles vão ser proibidos de trabalhar? Isso é muito preocupante. Cuba começou assim. Cuba reduziu a escala de trabalho de 6 por 1 para 5 por 2, depois para 4 por 3, depois para 3 por 4, e hoje eles não têm mais escala de trabalho porque não têm trabalho. O que a gente precisa é de um salário digno, é de menos impostos. O trabalhador paga muito imposto, o empregador paga muito imposto. A gente está alertando aqui: o mundo de fantasia da propaganda do PT não existe em nenhum país que deu certo."
+      "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Hugo Motta, o Partido Novo orienta \"sim\". Foi mencionado aqui, várias vezes, que os estudantes e a juventude estão indo às ",
+      "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Hugo Motta, o Partido Novo orienta \"sim\". Foi mencionado aqui, várias vezes, que os estudantes e a juventude estão indo às ruas. Pelas pesquisas a que tivemos acesso, não há diferença considerável, percentualmente, dos jovens entre 16 e 24 anos que votam em Lula ou no Senador Flávio Bolsonaro. Lembro ao Deputado que representa o Paraná, que me antecedeu, que o Partido Novo elegeu cinco Deputados Federais no Paraná. O quinto não vai ocupar esta vaga porque não atingiu 20%. O NOVO elegeu cinco Deputados Federais no Paraná e dez Deputados Federais no País. Rompemos a cláusula de barreira. Deltan Dallagnol, eleito Senador, já está cotado para ser Ministro do STF no Governo Flávio Bolsonaro. Isso é democracia! Obrigado, Presidente Hugo Motta."
     },
     {
       "data": "2026-10-13T17:24",
@@ -161,6 +208,13 @@
       "tipo": "PELA ORDEM",
       "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente Hugo Motta. Parabéns pelo seu regresso, pela sua eleição. O Deputado que me antecedeu, assim como todos eles, viv",
       "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente Hugo Motta. Parabéns pelo seu regresso, pela sua eleição. O Deputado que me antecedeu, assim como todos eles, vive na propaganda do PT. O Partido Novo se orgulha muito de ter orientado contrariamente, porque nós definitivamente não iremos jamais proibir alguém de trabalhar. Imaginem um garçom, que tem dois terços do seu salário vindos de gorjeta, proibido de trabalhar aos sábados e domingos  eu vou repetir: proibido de trabalhar. E eu faço uma pergunta. Durante a campanha eleitoral do Deputado que me antecedeu, ele trabalhou 50 dias consecutivos sem descanso. Os seus bandeirinhas de rua trabalharam 50 dias sem descanso. Então, quer dizer que, quando o trabalho é em benefício de si ou do seu grupo, pode. Agora, o garçom, o comissionado no shopping center, que é jovem, que ganha por comissão, eles vão ser proibidos de trabalhar? Isso é muito preocupante. E Cuba começou assim. Cuba reduziu a escala de trabalho de 6 por 1 para 5 por 2, depois para 4 por 3, depois para 3 por 4, e hoje eles não têm mais escala de trabalho porque não têm trabalho. O que a gente precisa é de um salário digno, é de menos impostos. O trabalhador paga muito imposto, o empregador paga muito imposto. A gente está alertando aqui: o mundo de fantasia da propaganda do PT não existe em nenhum país que deu certo."
+    },
+    {
+      "data": "2026-10-13T17:24",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente Hugo Motta. Parabéns pelo seu regresso, pela sua eleição! O Deputado que me antecedeu, assim como todos eles  vo",
+      "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente Hugo Motta. Parabéns pelo seu regresso, pela sua eleição! O Deputado que me antecedeu, assim como todos eles  vou repetir isto aqui , vive na propaganda do PT. O Partido Novo se orgulha muito de ter orientado contrariamente, porque nós definitivamente não iremos jamais proibir alguém de trabalhar. Imaginem um garçom, que tem dois terços do seu salário vindos de gorjeta, proibido de trabalhar aos sábados e domingos, vou repetir, proibido de trabalhar. E eu faço uma pergunta. Durante a campanha eleitoral do Deputado que me antecedeu, ele trabalhou 50 dias consecutivos sem descanso. Os seus bandeirinhas de rua trabalharam 50 dias sem descanso. Então, quer dizer que, quando o trabalho é em benefício de si ou do seu grupo, pode. Agora, o garçom, o comissionado no shopping center, que é jovem, que ganha por comissão, eles vão ser proibidos de trabalhar? Isso é muito preocupante. Cuba começou assim. Cuba reduziu a escala de trabalho de 6 por 1 para 5 por 2, depois para 4 por 3, depois para 3 por 4, e hoje eles não têm mais escala de trabalho porque não têm trabalho. O que a gente precisa é de um salário digno, é de menos impostos. O trabalhador paga muito imposto, o empregador paga muito imposto. A gente está alertando aqui: o mundo de fantasia da propaganda do PT não existe em nenhum país que deu certo."
     },
     {
       "data": "2026-10-13T17:16",
@@ -201,15 +255,15 @@
       "data": "2026-10-13T14:32",
       "fase": "Breves Comunicações",
       "tipo": "PELA ORDEM",
-      "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Charles, eu ouvi com muita atenção o Deputado que me antecedeu. Primeiro, isso é mentira. As áreas no Rio de Janeiro que de",
-      "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Charles, eu ouvi com muita atenção o Deputado que me antecedeu. Primeiro, isso é mentira. As áreas no Rio de Janeiro que deram a maior votação ao Flávio Bolsonaro foram Barra da Tijuca, Recreio dos Bandeirantes, Itanhangá. Eu mesmo fui o Deputado Federal mais bem votado da Barra da Tijuca. Segundo, nós fizemos uma campanha de adesivo \"Fora, Lula!\" que foi um sucesso no Rio de Janeiro  um sucesso. Eu desafio qualquer Deputado de esquerda a ficar no sinal do BarraShopping distribuindo adesivo pró-Lula e pró-Flávio Bolsonaro, e vamos ver quem vai entregar mais. Motoboys e prestadores de serviço eram os que mais colavam o adesivo do \"Fora, Lula!\". Por quê? São esses trabalhadores que querem trabalhar e prosperar que são afetados. O poder econômico do brasileiro foi destruído. A gente tem o segundo menor salário mínimo da América do Sul, só ganha da Venezuela. Obrigado."
+      "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Charles, eu ouvi com muita atenção o Deputado que me antecedeu e quero dizer, primeiro, que o que ele disse é mentira. As á",
+      "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Charles, eu ouvi com muita atenção o Deputado que me antecedeu e quero dizer, primeiro, que o que ele disse é mentira. As áreas no Rio de Janeiro que deram a maior votação ao Flávio Bolsonaro foram Barra da Tijuca, Recreio dos Bandeirantes, Itanhangá. Eu mesmo fui o Deputado Federal mais bem votado da Barra da Tijuca. Segundo, nós fizemos uma campanha com adesivos com a inscrição \"Fora, Lula!\", e foi um sucesso no Rio de Janeiro  um sucesso. Eu desafio qualquer Deputado de esquerda a ficar no sinal do Barra Shopping distribuindo adesivos pró-Lula, enquanto distribuímos adesivos pró-Flávio Bolsonaro, para vermos quem vai entregar mais. Motoboys e prestadores de serviços eram os que mais colavam o adesivo \"Fora, Lula!\". Por quê? Porque são esses trabalhadores que querem trabalhar e prosperar que são mais afetados por este Governo. O poder econômico do brasileiro foi destruído. O Brasil tem o segundo menor salário mínimo da América do Sul. A gente só ganha da Venezuela. Obrigado."
     },
     {
       "data": "2026-10-13T14:32",
       "fase": "Breves Comunicações",
       "tipo": "PELA ORDEM",
-      "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Charles, eu ouvi com muita atenção o Deputado que me antecedeu e quero dizer, primeiro, que o que ele disse é mentira. As á",
-      "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Charles, eu ouvi com muita atenção o Deputado que me antecedeu e quero dizer, primeiro, que o que ele disse é mentira. As áreas no Rio de Janeiro que deram a maior votação ao Flávio Bolsonaro foram Barra da Tijuca, Recreio dos Bandeirantes, Itanhangá. Eu mesmo fui o Deputado Federal mais bem votado da Barra da Tijuca. Segundo, nós fizemos uma campanha com adesivos com a inscrição \"Fora, Lula!\", e foi um sucesso no Rio de Janeiro  um sucesso. Eu desafio qualquer Deputado de esquerda a ficar no sinal do Barra Shopping distribuindo adesivos pró-Lula, enquanto distribuímos adesivos pró-Flávio Bolsonaro, para vermos quem vai entregar mais. Motoboys e prestadores de serviços eram os que mais colavam o adesivo \"Fora, Lula!\". Por quê? Porque são esses trabalhadores que querem trabalhar e prosperar que são mais afetados por este Governo. O poder econômico do brasileiro foi destruído. O Brasil tem o segundo menor salário mínimo da América do Sul. A gente só ganha da Venezuela. Obrigado."
+      "resumo": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Charles, eu ouvi com muita atenção o Deputado que me antecedeu. Primeiro, isso é mentira. As áreas no Rio de Janeiro que de",
+      "transcricao": "O SR. LUIZ LIMA (NOVO - RJ. Pela ordem. Sem revisão do orador.) - Presidente Charles, eu ouvi com muita atenção o Deputado que me antecedeu. Primeiro, isso é mentira. As áreas no Rio de Janeiro que deram a maior votação ao Flávio Bolsonaro foram Barra da Tijuca, Recreio dos Bandeirantes, Itanhangá. Eu mesmo fui o Deputado Federal mais bem votado da Barra da Tijuca. Segundo, nós fizemos uma campanha de adesivo \"Fora, Lula!\" que foi um sucesso no Rio de Janeiro  um sucesso. Eu desafio qualquer Deputado de esquerda a ficar no sinal do BarraShopping distribuindo adesivo pró-Lula e pró-Flávio Bolsonaro, e vamos ver quem vai entregar mais. Motoboys e prestadores de serviço eram os que mais colavam o adesivo do \"Fora, Lula!\". Por quê? São esses trabalhadores que querem trabalhar e prosperar que são afetados. O poder econômico do brasileiro foi destruído. A gente tem o segundo menor salário mínimo da América do Sul, só ganha da Venezuela. Obrigado."
     }
   ],
   "orgaos": [

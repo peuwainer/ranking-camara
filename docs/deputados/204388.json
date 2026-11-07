@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
-  "score": 18.49,
-  "rank": 147,
+  "score": 19.04,
+  "rank": 140,
   "proposicoes": [
     {
       "id": 2647665,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647665"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-04T15:28",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. BIBO NUNES (PL - RS. Pela ordem. Sem revisão do orador.) - Grato, digníssimo Presidente Icaro de Valmir. Eu digo o seguinte: criminoso tem que ser punido exemplarmente. Redução da maioridade pen",
+      "transcricao": "O SR. BIBO NUNES (PL - RS. Pela ordem. Sem revisão do orador.) - Grato, digníssimo Presidente Icaro de Valmir. Eu digo o seguinte: criminoso tem que ser punido exemplarmente. Redução da maioridade penal para 16 anos é pouco, tem que cair para 14 anos no caso de crimes hediondos. Vejam que o desgoverno Lula, naquela ânsia, naquele engodo eleitoral, chegou a ensaiar reduzi-la para 16 anos em caso de crime hediondo. Nem isso fizeram, porque, no fundo, se trata de proteção ao criminoso. Basta ver o auxílio-reclusão. Eu tenho um PL para acabar com isto, com o auxílio-reclusão, simplesmente porque a família da vítima recebe nada, e a família do criminoso recebe salário mínimo, no caso de ele pagar ao INSS. Isso é um absurdo. Temos que punir exemplarmente quem comete crime, para que as pessoas de bem sejam respeitadas, como devem ser em uma nação livre e democrática. Grato, nobre Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Representação Brasileira no Parlamento do Mercosul",

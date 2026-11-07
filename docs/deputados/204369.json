@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204369.jpg",
-  "score": 19.74,
-  "rank": 114,
+  "score": 20.29,
+  "rank": 108,
   "proposicoes": [
     {
       "id": 2647489,
@@ -35,7 +35,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648620"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-04T19:52",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. CAROLINE DE TONI (PL - SC. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Santa Catarina está enfrentando momentos muito difíceis devido à ocorrência de fortes vendavais, dois tor",
+      "transcricao": "A SRA. CAROLINE DE TONI (PL - SC. Pela ordem. Sem revisão da oradora.) - Obrigada, Presidente. Santa Catarina está enfrentando momentos muito difíceis devido à ocorrência de fortes vendavais, dois tornados, um em Xanxerê e outro em Chapecó, por conta do El Niño. Inclusive, o aeroporto da minha cidade, Chapecó, foi arrasado. Eu não tenho nem como voltar para casa amanhã devido a esse problema. Mas, ao todo, são 86 Municípios afetados, mais de 4.400 residências atingidas por conta dos tornados confirmados no grande oeste de Santa Catarina. Presidente, neste momento, por conta desses problemas meteorológicos, nós fizemos uma indicação ao Governo Federal, por meio do Requerimento nº 1.668, de 2026, solicitando uma rápida ação para que entregue recursos de forma urgente, até porque a BR-282, no Município de Vargem, praticamente cedeu e não há como a população passar por ela. Então, solicitamos, Presidente, como forma de mitigar esses danos, ao Governo Federal, por meio do Ministério da Integração e do Desenvolvimento Regional, que envie ajuda, de forma rápida, célere, para resolver o problema da BR-282, no Município de Vargem, que cedeu. O Governo do Estado e a Defesa Civil estão fazendo a sua parte, mas precisamos, urgentemente, da ajuda do Governo Federal. Por isso fizemos esse requerimento de indicação e solicitamos às autoridades do Governo Federal a mais rápida atuação, para que recebam atendimento eficaz todas as famílias que estão desabrigadas e que tiveram seus pertences estragados, danificados em decorrência das fortes chuvas, dos vendavais e dos tornados em Santa Catarina. Muito obrigada, Presidente. Vamos em frente. Vamos ajudar a população catarinense, assim como a população do Rio Grande do Sul e do Paraná, que está passando pelo mesmo problema. Por meio dessa indicação, estamos solicitando o auxílio do Governo Federal. Muito obrigada."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

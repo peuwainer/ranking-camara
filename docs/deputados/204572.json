@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204572.jpg",
-  "score": 25.13,
-  "rank": 44,
+  "score": 23.53,
+  "rank": 59,
   "proposicoes": [
-    {
-      "id": 2647323,
-      "tipo": "PL",
-      "numero": 5534,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para prever a notificação de atos processuais ao cônjuge, companheiro, ascendente, descendente ou irmão da ofendida na impossibilidade de sua notificação pessoal.",
-      "data": "2026-10-07T12:28",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647323"
-    },
     {
       "id": 2647665,
       "tipo": "EMP",
@@ -27,6 +18,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-11-04T13:55",
+      "fase": "Encerramento",
+      "tipo": "DISCURSO ENCAMINHADO",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO CAPITÃO ALBERTO NETO (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, Senhoras e Senhores Deputados, Encerrada a eleição, o Congresso tem diante de si ",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO CAPITÃO ALBERTO NETO (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, Senhoras e Senhores Deputados, Encerrada a eleição, o Congresso tem diante de si a tarefa mais importante do fim do ano: votar o Orçamento de 2027. E quero chamar a atenção desta Casa para o que está por trás dos números. O governo enviou um orçamento de 7,45 trilhões de reais e promete um superávit de 0,5% do PIB, cerca de 73 bilhões de reais. Parece responsável. Mas o próprio governo reconhece que, sem os descontos que a lei permite, o superávit real cai para 18,6 bilhões. A diferença é contabilidade, não economia de verdade. E a conta ficou maior depois da campanha. Nas últimas semanas, o governo anunciou medidas que exigem acomodar 27,7 bilhões de reais em novas despesas no Orçamento de 2027. Agora, reeleito, quer ajustar a proposta para caber as promessas eleitorais. Senhor Presidente, promessa de palanque não pode ser paga com a credibilidade fiscal do país. Os números mostram o tamanho do problema. As despesas obrigatórias ocupam quase 92% de tudo o que o governo gasta. Sobra pouquíssimo para investir em estradas, hospitais e segurança. O próprio governo admitiu ao Congresso que, a partir de 2028, terá de rever 53,7 bilhões de reais em despesas para continuar dentro do limite. Ou seja: o ajuste foi empurrado para depois, e quem vai pagar é o cidadão, com juros altos, crédito caro e inflação. Enquanto isso, o brasileiro sente no bolso. O financiamento da casa própria ficou mais caro. O pequeno empresário não consegue crédito. Cada real gasto sem planejamento hoje é imposto a mais ou juro a mais amanhã. Responsabilidade fiscal não é ser contra o social. É garantir que o dinheiro chegue a quem precisa. E é aqui que falo do meu estado. O Amazonas enfrenta uma das piores estiagens de sua história, com 47 municípios em situação de emergência e mais de 146 mil famílias atingidas. O Orçamento de 2027 precisa garantir recursos para a Defesa Civil, para o abastecimento das comunidades isoladas e para a BR-319, que o próprio Tribunal de Contas da União incluiu entre as obras rodoviárias prioritárias do país. Quando os rios secam, a estrada é a única ligação de Manaus com o resto do Brasil. Por isso, meu compromisso nesta votação é claro. Vou defender um orçamento realista, sem maquiagem contábil, que corte desperdício e preserve o investimento. E vou cobrar que a Amazônia não seja tratada como nota de rodapé na lei orçamentária. Muito obrigado, Senhor Presidente. Solicito a divulgação deste discurso nos meios de comunicação da Câmara dos Deputados e no programa Voz do Brasil."
+    },
     {
       "data": "2026-11-03T13:55",
       "fase": "Encerramento",

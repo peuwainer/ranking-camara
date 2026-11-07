@@ -4,8 +4,8 @@
   "partido": "PRD",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
-  "score": 6.88,
-  "rank": 483,
+  "score": 8.12,
+  "rank": 469,
   "proposicoes": [
     {
       "id": 2648645,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 9.250, de 26 de dezembro de 1995, para assegurar prioridade na restituição do Imposto sobre a Renda das Pessoas Físicas aos contribuintes que tenham como dependentes crianças ou adolescentes com transtorno do espectro autista, deficiência ou doença grave.",
       "data": "2026-10-21T15:21",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648645"
+    },
+    {
+      "id": 2651332,
+      "tipo": "EMC",
+      "numero": 4,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-06T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651332"
     }
   ],
   "discursos": [],

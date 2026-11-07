@@ -4,10 +4,18 @@
   "partido": "PL",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/225846.jpg",
-  "score": 11.08,
-  "rank": 429,
+  "score": 11.62,
+  "rank": 420,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-04T15:28",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. ITAMAR PAIM (PL - PR. Sem revisão do orador.) - Boa tarde, Presidente. Hoje estou aqui para manifestar a minha gratidão a todo o público conservador, também à bancada evangélica, que se manifest",
+      "transcricao": "O SR. ITAMAR PAIM (PL - PR. Sem revisão do orador.) - Boa tarde, Presidente. Hoje estou aqui para manifestar a minha gratidão a todo o público conservador, também à bancada evangélica, que se manifestou de maneira forte em relação ao que foi colocado pelo Ministério da Justiça 3 dias após a reeleição do atual Presidente. Foi colocada uma espécie de trava para os desenhos bíblicos e evangélicos, e nós sabemos que a família tem direito de educar suas crianças com pareceres cristãos e bíblicos. É isto que todos nós conservadores esperamos, uma vez que o País é laico. Esperamos ter liberdade para colocar os nossos filhos, as nossas crianças para aprenderem o que é bom, o que é correto, o que é perdão, o que é civilidade, o que é literalmente o temor a Deus. O Governo tem muitas coisas com que se preocupar, como, por exemplo, o crescimento do crime organizado  pessoas estão tendo que pagar para ter água tratada  , e se preocupa com desenho evangélico e desenho bíblico. Eu quero aqui enaltecer o público conservador, quero enaltecer a bancada evangélica e todos aqueles que se posicionaram a favor da derrubada desta aberração: a contenção de desenhos bíblicos. Muito obrigado, Sr. Presidente. Agradeço pela oportunidade."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

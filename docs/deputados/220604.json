@@ -4,54 +4,9 @@
   "partido": "PDT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg",
-  "score": 53.49,
-  "rank": 2,
+  "score": 48.49,
+  "rank": 3,
   "proposicoes": [
-    {
-      "id": 2647318,
-      "tipo": "PL",
-      "numero": 5530,
-      "ano": 2026,
-      "ementa": "Institui a Lei de Combate ao Assédio Moral Institucional, estabelece medidas de prevenção, apuração, responsabilização e proteção contra retaliações nas relações de trabalho no setor público e privado, altera a Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, a Lei nº 14.457, de 21 de setembro de 2022, a Lei nº 8.112, de 11 de dezembro de 1990, e a Lei nº 14.133, de 1º de abril de 2021, e dá outras providências.",
-      "data": "2026-10-07T11:57",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647318"
-    },
-    {
-      "id": 2647319,
-      "tipo": "PL",
-      "numero": 5531,
-      "ano": 2026,
-      "ementa": "Institui a Lei da Origem Responsável Animal, destinada a prevenir o financiamento da criação clandestina e da exploração reprodutiva abusiva de cães e gatos; estabelece deveres de identificação, diligência, transparência e rastreabilidade nas operações de transferência onerosa; disciplina a oferta e a intermediação por plataformas digitais; dispõe sobre a responsabilização administrativa, civil e penal dos agentes envolvidos; altera as Leis nº 9.605, de 12 de fevereiro de 1998, e nº 15.046, de 17 de dezembro de 2024; e dá outras providências.",
-      "data": "2026-10-07T11:57",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647319"
-    },
-    {
-      "id": 2647320,
-      "tipo": "PL",
-      "numero": 5532,
-      "ano": 2026,
-      "ementa": "Institui a Lei Novo Ciclo, para promover o acesso de mulheres em situação de violência doméstica e familiar a atividades esportivas, físicas e de lazer como instrumentos complementares de recuperação da saúde, fortalecimento da autonomia, reconstrução de vínculos sociais e reinserção comunitária; estabelece diretrizes para a articulação das políticas de esporte, saúde e assistência social; e altera as Leis nº 11.340, de 7 de agosto de 2006, e nº 14.597, de 14 de junho de 2023.",
-      "data": "2026-10-07T11:57",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647320"
-    },
-    {
-      "id": 2647321,
-      "tipo": "PL",
-      "numero": 5533,
-      "ano": 2026,
-      "ementa": "Institui a Lei Nacional de Garantia Remuneratória, Integridade Contratual e Proteção do Trabalhador Terceirizado, estabelece mecanismos de prevenção ao atraso salarial em contratos de prestação de serviços contínuos com dedicação exclusiva de mão de obra, disciplina a retenção cautelar de pagamentos públicos, o pagamento direto de verbas trabalhistas inadimplidas, a proteção contra retaliações e a transparência de irregularidades trabalhistas em contratações públicas, e altera a Lei nº 14.133, de 1º de abril de 2021.",
-      "data": "2026-10-07T12:24",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647321"
-    },
-    {
-      "id": 2647322,
-      "tipo": "PLP",
-      "numero": 266,
-      "ano": 2026,
-      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para assegurar a redução a zero das alíquotas do Imposto sobre Bens e Serviços – IBS e da Contribuição Social sobre Bens e Serviços – CBS incidentes sobre a aquisição de automóveis de passageiros por pessoas com deficiência e pessoas com transtorno do espectro autista, sem condicionamento a grau mínimo de deficiência, classificação de severidade ou nível de suporte; estabelece garantias de não discriminação na comprovação do direito; veda a reintrodução de restrições equivalentes por ato infralegal; e promove segurança jurídica e uniformidade na aplicação do regime tributário diferenciado.",
-      "data": "2026-10-07T12:24",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647322"
-    },
     {
       "id": 2647443,
       "tipo": "PL",
@@ -240,6 +195,15 @@
       "ementa": "Institui a Lei do Nexo Protetivo Previdenciário da Mulher e acrescenta dispositivos à Lei nº 8.213, de 24 de julho de 1991, para reconhecer, para fins de dispensa de carência dos benefícios por incapacidade, a violência doméstica e familiar contra a mulher como acidente de qualquer natureza ou causa quando dela decorrer incapacidade física ou mental, estabelecer critérios para a comprovação do nexo causal ou concausal, assegurar avaliação médico-pericial livre de estereótipos e de revitimização, proteger dados pessoais sensíveis da segurada e disciplinar a articulação com a ação regressiva previdenciária contra o responsável pela violência.",
       "data": "2026-11-04T18:39",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651068"
+    },
+    {
+      "id": 2651272,
+      "tipo": "PL",
+      "numero": 5787,
+      "ano": 2026,
+      "ementa": "Institui a Lei do Silêncio Inclusivo e da Proteção Sensorial Imediata, estabelece medidas protetivas de urgência e mecanismos de intervenção policial destinados à preservação do sossego, da saúde e da integridade física, psíquica e sensorial de pessoas com vulnerabilidade comprovada a estímulos sonoros, especialmente crianças e pessoas idosas, confere ao delegado de polícia competência para determinar medidas emergenciais de cessação de perturbações abusivas, prevê responsabilização pelo descumprimento de determinações protetivas e altera o Decreto-Lei nº 3.688, de 3 de outubro de 1941 (Lei das Contravenções Penais).",
+      "data": "2026-11-06T11:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651272"
     }
   ],
   "discursos": [],

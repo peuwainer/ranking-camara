@@ -4,10 +4,18 @@
   "partido": "PP",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73788.jpg",
-  "score": 11.08,
-  "rank": 435,
+  "score": 11.62,
+  "rank": 421,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-04T19:12",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. RICARDO BARROS (Bloco/PP - PR. Sem revisão do orador.) - Presidente, aconteceu em Maringá um episódio climático na madrugada do dia 2 de novembro, um tornado classificado como F2, com ventos de ",
+      "transcricao": "O SR. RICARDO BARROS (Bloco/PP - PR. Sem revisão do orador.) - Presidente, aconteceu em Maringá um episódio climático na madrugada do dia 2 de novembro, um tornado classificado como F2, com ventos de 180 a 250 quilômetros por hora, que fez um percurso de 15 quilômetros. Provocou muitos danos: 862 árvores derrubadas, sendo que 450 já foram removidas; 275 postes de energia quebrados; 8 quilômetros da rede elétrica danificados, e vai ser necessária a substituição de seis transformadores; falta de energia em 86 mil unidades residenciais ou comerciais. Três dias depois do episódio, 40 mil unidades ainda estão sem energia. Não houve vítimas, graças a Deus. Foram derrubados barracões, foram destelhadas muitas escolas, muitas propriedades particulares, mas não houve nenhuma vítima, graças a Deus. A cidade é a Capital Nacional do Associativismo. Essa é uma característica muito importante. Todos os voluntários se reuniram e trabalharam na reconstrução da cidade. Esperamos que, até sexta-feira, todas essas residências e estabelecimentos comerciais tenham a energia religada. Isto foi algo muito relevante: apesar de muitos locais terem ficado sem energia, de muitos estabelecimentos comerciais estarem danificados, com portas de vidro quebradas, não houve nenhuma ocorrência policial, nenhum assalto, nenhum vandalismo. Nenhum maringaense se aproveitou do episódio para se locupletar ou para levar vantagem. Essa é uma característica muito importante da nossa gente. É um episódio que precisa ser realmente considerado, porque, mesmo com a cidade praticamente toda apagada, ninguém saiu para roubar ou para danificar qualquer patrimônio. Quero agradecer aos voluntários, ao Corpo de Bombeiros e à Defesa Civil. O Governador Ratinho Junior esteve hoje na cidade, liberou recurso. O Ministro Waldez Góes falou com o Prefeito Silvio Barros. Muitos voluntários estão trabalhando, muita gente está cooperando. Os Prefeitos da região estão enviando suas equipes para ajudar a retirar árvores e a recuperar a normalidade em nossa cidade. Então, agradeço muito a todos que cooperaram para superarmos os efeitos desse tornado em Maringá. Obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Ciência, Tecnologia e Inovação",

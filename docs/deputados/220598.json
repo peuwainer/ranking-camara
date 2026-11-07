@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220598.jpg",
-  "score": 37.59,
-  "rank": 8,
+  "score": 38.67,
+  "rank": 6,
   "proposicoes": [
     {
       "id": 2647641,
@@ -62,7 +62,22 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650862"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-04T17:40",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. TARCÍSIO MOTTA (Bloco/PSOL - RJ. Pela ordem. Sem revisão do orador.) - Presidente, uma parte do Hino ao Dois de Julho diz assim: \"Com tiranos não combinam brasileiros corações\". E é exatamente o",
+      "transcricao": "O SR. TARCÍSIO MOTTA (Bloco/PSOL - RJ. Pela ordem. Sem revisão do orador.) - Presidente, uma parte do Hino ao Dois de Julho diz assim: \"Com tiranos não combinam brasileiros corações\". E é exatamente o Nordeste que mostrou que o coração brasileiro não combina com nenhum tirano, seja o tirano português, lá na Independência, seja o tirano bolsonarista agora, em 2026. Salve o 2 de Julho! Eu sou sudestino, eu sou do Rio de Janeiro, mas, como professor de história, reconheço que o 7 de Setembro foi um ato de dominação do Sudeste sobre o resto do País e que quem lutou pela liberdade e pela independência brasileira foram os baianos, que, em 2 de julho, derrotaram as tropas portuguesas. Salve o 2 de Julho! E digo mais: se fosse feriado, eu votaria com mais gosto ainda, porque a gente tem que comemorar é no País inteiro o orgulho e o brio dos baianos, como a minha querida Lídice da Mata. Viva o 2 de Julho!"
+    },
+    {
+      "data": "2026-11-04T17:12",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. TARCÍSIO MOTTA (Bloco/PSOL - RJ. Pela ordem. Sem revisão do orador.) - Muito obrigado, meu querido Presidente Lula, o segundo Presidente Lula de que mais gosto. O primeiro está lá no Palácio do ",
+      "transcricao": "O SR. TARCÍSIO MOTTA (Bloco/PSOL - RJ. Pela ordem. Sem revisão do orador.) - Muito obrigado, meu querido Presidente Lula, o segundo Presidente Lula de que mais gosto. O primeiro está lá no Palácio do Planalto. Mas vamos lá! A Federação PSOL REDE, embora reconheça que haja um esforço para regular um problema real, vai se posicionar contrariamente a este projeto hoje. Quero esclarecer três pontos que, para nós, são sensíveis e, infelizmente, impedem-nos de fazer os ajustes necessários aqui. O primeiro ponto: embora tenha saído o que era uma anistia patrimonial clara, ainda há caminhos nessa questão do perdão e na forma como as dívidas serão pagas, a partir de 180 dias depois da regularização. Esse perdão pode acabar recaindo sobre as costas do próprio consumidor. O segundo ponto: o art. 16 permite que essa infraestrutura seja financiada a partir de um fundo que, objetivamente, deveria estar ligado à educação, à saúde e à segurança. Esse fundo tem sido ampliado para o transporte e agora é ampliado também para essa área. Na nossa opinião, acaba-se colocando um fundo social a serviço de interesses privados e econômicos de empresas de grande porte. Por fim, os arts. 7º e 8º acabam por ampliar as perspectivas de terceirização e de PPPs, de forma que, depois da caducidade do contrato, pode ser que o Estado se veja preso a um contrato que não assinou, que foi feito entre duas empresas. Por isso, a Federação PSOL REDE vota \"não\"."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a estudar e analisar formas de prevenção e auxílio a desastres e calamidades naturais que vêm assolando o Território Nacional",

@@ -4,10 +4,18 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
-  "score": 14.83,
-  "rank": 324,
+  "score": 15.37,
+  "rank": 318,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-04T19:04",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ZÉ VITOR (PL - MG. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Alguns têm que descer do palanque. As eleições acabaram, e o Brasil continua no buraco. A gente precisa dar um reca",
+      "transcricao": "O SR. ZÉ VITOR (PL - MG. Pela ordem. Sem revisão do orador.) - Obrigado, Presidente. Alguns têm que descer do palanque. As eleições acabaram, e o Brasil continua no buraco. A gente precisa dar um recado claro aqui para quem está lá fora. A taxa Selic parou de cair, está em 13,75% mais uma vez. Isso mostra que há uma crise de credibilidade, que falta confiança do mercado e do mundo. Como se não bastasse isso, muitos Governadores  fui alertado agora  vão ter dificuldade de cumprir o acordo assumido recentemente para a renegociação da dívida de muitos Estados. Como se não bastasse isso, na próxima semana, caduca, vence, a Medida Provisória nº 1.376, de 2026, o que vai deixar os produtores rurais do Brasil, sobretudo os pequenos, sem condições de renegociar suas dívidas. Ou a gente recoloca, de fato, este Brasil nos trilhos  inclusive no discurso, que está de mais; e a atitude, de menos , ou nós viveremos em 2027 um grande pesadelo. A eleição acabou. Agora a gente precisa, de fato, é de alguém que governe este Brasil  longe de dominar, é preciso governar e reconstruir este País. E eu quero viver nesse Brasil da propaganda anunciada ali."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a fiscalizar os rompimentos de barragens, em especial acompanhar a repactuação do acordo de Mariana e a reparação do crime de Brumadinho",

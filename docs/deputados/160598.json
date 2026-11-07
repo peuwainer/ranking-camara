@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160598.jpg",
-  "score": 31.75,
-  "rank": 20,
+  "score": 32.7,
+  "rank": 17,
   "proposicoes": [
     {
       "id": 2649100,
@@ -60,6 +60,15 @@
       "ementa": "Institui o Programa Atividade Física é Saúde, no âmbito do Sistema Único de Saúde (SUS), com o objetivo de promover a saúde por meio da atuação de profissionais de Educação Física.",
       "data": "2026-11-03T19:13",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650113"
+    },
+    {
+      "id": 2651304,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 10.891, de 9 de julho de 2004.",
+      "data": "2026-11-06T16:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651304"
     }
   ],
   "discursos": [
