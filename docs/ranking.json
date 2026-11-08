@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-07T12:56:17.860834+00:00",
+  "atualizado_em": "2026-11-08T13:14:49.735663+00:00",
   "legislatura": 57,
   "deputados": [
     {
@@ -159,19 +159,6 @@
       "orgaos": 8
     },
     {
-      "id": 220690,
-      "nome": "ALDEN JOSE LAZARO DA SILVA",
-      "nome_urna": "Capitão Alden",
-      "partido": "PL",
-      "uf": "BA",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-      "score": 35.12,
-      "proposicoes": 11,
-      "presenca_votacoes": 42.9,
-      "discursos": 3,
-      "orgaos": 11
-    },
-    {
       "id": 220645,
       "nome": "ERIKA SANTOS SILVA",
       "nome_urna": "Erika Hilton",
@@ -196,6 +183,19 @@
       "presenca_votacoes": 71.4,
       "discursos": 17,
       "orgaos": 5
+    },
+    {
+      "id": 220690,
+      "nome": "ALDEN JOSE LAZARO DA SILVA",
+      "nome_urna": "Capitão Alden",
+      "partido": "PL",
+      "uf": "BA",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
+      "score": 33.87,
+      "proposicoes": 10,
+      "presenca_votacoes": 42.9,
+      "discursos": 3,
+      "orgaos": 11
     },
     {
       "id": 220555,
@@ -588,32 +588,6 @@
       "orgaos": 15
     },
     {
-      "id": 74374,
-      "nome": "GERALDO RESENDE PEREIRA",
-      "nome_urna": "Geraldo Resende",
-      "partido": "UNIÃO",
-      "uf": "MS",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74374.jpg",
-      "score": 25.03,
-      "proposicoes": 2,
-      "presenca_votacoes": 42.9,
-      "discursos": 4,
-      "orgaos": 12
-    },
-    {
-      "id": 204360,
-      "nome": "SILVIA CRISTINA AMANCIO CHAGAS",
-      "nome_urna": "Silvia Cristina",
-      "partido": "PP",
-      "uf": "RO",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
-      "score": 24.75,
-      "proposicoes": 1,
-      "presenca_votacoes": 42.9,
-      "discursos": 0,
-      "orgaos": 17
-    },
-    {
       "id": 220611,
       "nome": "EDUARDO PAZUELLO",
       "nome_urna": "General Pazuello",
@@ -757,6 +731,19 @@
       "orgaos": 11
     },
     {
+      "id": 74374,
+      "nome": "GERALDO RESENDE PEREIRA",
+      "nome_urna": "Geraldo Resende",
+      "partido": "UNIÃO",
+      "uf": "MS",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74374.jpg",
+      "score": 23.78,
+      "proposicoes": 1,
+      "presenca_votacoes": 42.9,
+      "discursos": 4,
+      "orgaos": 12
+    },
+    {
       "id": 204572,
       "nome": "ALBERTO BARROS CAVALCANTE NETO",
       "nome_urna": "Capitão Alberto Neto",
@@ -768,6 +755,19 @@
       "presenca_votacoes": 42.9,
       "discursos": 7,
       "orgaos": 9
+    },
+    {
+      "id": 204360,
+      "nome": "SILVIA CRISTINA AMANCIO CHAGAS",
+      "nome_urna": "Silvia Cristina",
+      "partido": "PP",
+      "uf": "RO",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
+      "score": 23.5,
+      "proposicoes": 0,
+      "presenca_votacoes": 42.9,
+      "discursos": 0,
+      "orgaos": 17
     },
     {
       "id": 213762,
@@ -2122,19 +2122,6 @@
       "orgaos": 6
     },
     {
-      "id": 204480,
-      "nome": "ROGÉRIO CORREIA DE MOURA BAPTISTA",
-      "nome_urna": "Rogério Correia",
-      "partido": "PT",
-      "uf": "MG",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204480.jpg",
-      "score": 18.24,
-      "proposicoes": 4,
-      "presenca_votacoes": 28.6,
-      "discursos": 4,
-      "orgaos": 4
-    },
-    {
       "id": 74581,
       "nome": "GILMAR ALVES MACHADO",
       "nome_urna": "Gilmar Machado",
@@ -2900,6 +2887,19 @@
       "presenca_votacoes": 28.6,
       "discursos": 4,
       "orgaos": 8
+    },
+    {
+      "id": 204480,
+      "nome": "ROGÉRIO CORREIA DE MOURA BAPTISTA",
+      "nome_urna": "Rogério Correia",
+      "partido": "PT",
+      "uf": "MG",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204480.jpg",
+      "score": 16.99,
+      "proposicoes": 3,
+      "presenca_votacoes": 28.6,
+      "discursos": 4,
+      "orgaos": 4
     },
     {
       "id": 220713,
