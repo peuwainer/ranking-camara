@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220699.jpg",
-  "score": 16.54,
-  "rank": 245,
+  "score": 18.41,
+  "rank": 156,
   "proposicoes": [],
   "discursos": [
     {
@@ -46,6 +46,24 @@
       "sigla": "CPASF",
       "cargo": "Suplente",
       "desde": "2026-05-20T00:00"
+    },
+    {
+      "nome": "Comissão do Esporte",
+      "sigla": "CESPO",
+      "cargo": "Suplente",
+      "desde": "2026-11-09T00:00"
+    },
+    {
+      "nome": "Comissão de Integração Nacional e Desenvolvimento Regional",
+      "sigla": "CINDRE",
+      "cargo": "Titular",
+      "desde": "2026-11-09T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Titular",
+      "desde": "2026-11-09T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220699/votacoes-nominais-plenario/2026"

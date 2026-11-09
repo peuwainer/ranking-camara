@@ -4,9 +4,19 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220648.jpg",
-  "score": 17.24,
-  "rank": 213,
-  "proposicoes": [],
+  "score": 18.49,
+  "rank": 152,
+  "proposicoes": [
+    {
+      "id": 2651346,
+      "tipo": "SBT",
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Institui a política pública nacional para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autismo, e dá outras providências.",
+      "data": "2026-11-09T10:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651346"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
