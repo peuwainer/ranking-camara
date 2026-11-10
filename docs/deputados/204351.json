@@ -4,9 +4,19 @@
   "partido": "PP",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204351.jpg",
-  "score": 14.83,
-  "rank": 322,
-  "proposicoes": [],
+  "score": 16.5,
+  "rank": 130,
+  "proposicoes": [
+    {
+      "id": 2651888,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Cria o Programa Nacional de Agricultura Digital e de Precisão (PRONADAP) e dá outras providências.",
+      "data": "2026-11-10T09:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651888"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

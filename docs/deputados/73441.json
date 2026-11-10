@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73441.jpg",
-  "score": 12.96,
-  "rank": 383,
+  "score": 18.37,
+  "rank": 88,
   "proposicoes": [
     {
       "id": 2651343,
@@ -15,6 +15,33 @@
       "ementa": "Reduz a zero, em 2027, a alíquota do Imposto Seletivo sobre as bebidas classificadas no código 2202.10.00 da NCM/SH.",
       "data": "2026-11-06T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651343"
+    },
+    {
+      "id": 2651900,
+      "tipo": "EMC",
+      "numero": 48,
+      "ano": 2026,
+      "ementa": "Transpõe para o Imposto Seletivo as reduções da Nota Complementar 22-1 da TIPI, preservando a carga do IPI sobre refrigerantes e refrescos com guaraná, açaí ou suco de frutas.",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651900"
+    },
+    {
+      "id": 2651901,
+      "tipo": "EMC",
+      "numero": 49,
+      "ano": 2026,
+      "ementa": "Dá tratamento diferenciado no Imposto Seletivo aos produtores independentes de bebidas do código 2202.10.00 da NCM/SH e aos optantes do Simples Nacional.",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651901"
+    },
+    {
+      "id": 2651902,
+      "tipo": "EMC",
+      "numero": 50,
+      "ano": 2026,
+      "ementa": "Reduz a zero a alíquota do Imposto Seletivo sobre as bebidas do código 2202.10.00 da NCM/SH sem adição de açúcares, inclusive refrigerantes diet, light e zero.",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651902"
     }
   ],
   "discursos": [],

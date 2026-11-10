@@ -4,9 +4,37 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220595.jpg",
-  "score": 20.37,
-  "rank": 96,
-  "proposicoes": [],
+  "score": 25.37,
+  "rank": 27,
+  "proposicoes": [
+    {
+      "id": 2651665,
+      "tipo": "EMC",
+      "numero": 24,
+      "ano": 2026,
+      "ementa": "Dê-se ao inciso III do caput do art. 4º da Medida Provisória nº 1.399, de 4 de novembro de 2026, a seguinte redação.",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651665"
+    },
+    {
+      "id": 2651666,
+      "tipo": "EMC",
+      "numero": 25,
+      "ano": 2026,
+      "ementa": "Acrescente-se à Medida Provisória nº 1.399, de 4 de novembro de 2026, o seguinte art. 4º-C.",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651666"
+    },
+    {
+      "id": 2651667,
+      "tipo": "EMC",
+      "numero": 26,
+      "ano": 2026,
+      "ementa": "Dê-se ao inciso IV do caput do art. 4º da Medida Provisória nº 1.399, de 4 de novembro de 2026, a seguinte redação.",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651667"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
