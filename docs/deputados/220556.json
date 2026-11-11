@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220556.jpg",
-  "score": 25.08,
-  "rank": 29,
+  "score": 25.3,
+  "rank": 47,
   "proposicoes": [
     {
       "id": 2649499,
@@ -42,6 +42,24 @@
       "ementa": "Acrescenta artigo à Medida Provisória nº 1.394, de 2026, para estabelecer ações de orientação e apoio às famílias endividadas em razão de apostas, com articulação entre o SUAS e o Sistema Nacional de Defesa do Consumidor e prioridade às famílias chefiadas por mulheres.",
       "data": "2026-10-13T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651601"
+    },
+    {
+      "id": 2652587,
+      "tipo": "EMC",
+      "numero": 151,
+      "ano": 2026,
+      "ementa": "Reduz a zero as alíquotas do Imposto Seletivo nas operações realizadas por microempresas, empresas de pequeno porte e microempreendedores individuais optantes pelo Simples Nacional",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652587"
+    },
+    {
+      "id": 2652599,
+      "tipo": "EMC",
+      "numero": 159,
+      "ano": 2026,
+      "ementa": "Reduz as alíquotas do Imposto Seletivo sobre cerveja e chope comercializados em barris retornáveis de aço inoxidável por produtores de até 500 mil litros de álcool por ano.",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652599"
     }
   ],
   "discursos": [

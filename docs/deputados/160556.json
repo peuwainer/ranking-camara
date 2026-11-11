@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160556.jpg",
-  "score": 22.08,
-  "rank": 76,
+  "score": 23.9,
+  "rank": 61,
   "proposicoes": [
     {
       "id": 2649499,
@@ -24,9 +24,25 @@
       "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual.",
       "data": "2026-11-06T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651336"
+    },
+    {
+      "id": 2652262,
+      "tipo": "EMC",
+      "numero": 131,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652262"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-11-10T15:48",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. PADRE JOÃO (Bloco/PT - MG. Sem revisão do orador.) - Presidente, colegas Deputados e Deputadas, eu quero deixar registrada nos Anais da Casa a minha manifestação de solidariedade a toda a Dioces",
+      "transcricao": "O SR. PADRE JOÃO (Bloco/PT - MG. Sem revisão do orador.) - Presidente, colegas Deputados e Deputadas, eu quero deixar registrada nos Anais da Casa a minha manifestação de solidariedade a toda a Diocese de Paracatu pela passagem de de um irmão meu no Ministério, o Padre Paulo Giovanni, aos 50 anos. O Padre Paulo Giovanni fez estágio pastoral comigo em Ouro Branco, quando eu era pároco na Paróquia São José Operário, em Ouro Branco. Enquanto estava fazendo curso de teologia em Mariana, ele fazia, aos finais de semana, estágio pastoral na Paróquia São José Operário. Depois, foi ordenado pela Diocese de Paracatu, onde exerceu ministério na própria sede, em Paracatu. Parece que também exerceu em Guarda-Mor e em Unaí, onde veio a falecer. Está sendo sepultado agora, neste final de tarde. Então, à misericórdia de Deus a gente confia esse irmão no sacerdócio, o Padre Paulo Giovanni. Manifesto minha solidariedade aos familiares, amigos, paroquianos, alunos  ele lecionava, dava aula de Direito também na Escola Família Agrícola de Natalândia , a todos que sofrem essa despedida temporária. Assim cremos. Outro ponto que trago, Presidente, é a nossa alegria pela viagem do Papa Leão XIV à América Latina. Na Argentina, na cara do dono da tesoura, a mesma tesoura que eles queriam trazer para o Brasil, diz que a economia tem que estar a serviço das pessoas, da dignidade do ser humano. É assim também a nossa responsabilidade. Quem está na política, quem está no poder é para servir. Na verdade, o caos na Argentina é resultado do modelo econômico que eles assumiram, que queriam reproduzir aqui. Ainda bem que a nossa juventude, os estudantes, os idosos, a sabedoria do povo brasileiro não permitiram esse mesmo modelo, que queriam implementar aqui no Brasil. Na pré-campanha e na campanha, uma das primeiras lideranças que veio aqui dar apoio ao então candidato Flávio Bolsonaro foi o Milei. O plano deles era uma tesoura, um tesouraço. A gente sabe que a elite brasileira, mesmo com a reeleição do Lula, vai estar, aqui nesta Casa, neste Congresso, fazendo lobby noite e dia, para fazer valer a tesoura. Mas a gente sabe da habilidade do Lula, da sensibilidade do Lula, que vai fazer valer, prevalecer e aprofundar os programas e as políticas que garantem dignidade para o nosso povo, que vai reduzir as desigualdades e enxergar os invisibilizados por séculos, como os indígenas, os quilombolas, os pobres, os trabalhadores, que foram explorados nas fazendas. Por isso, a escala 5 por 2 é muito importante. Eu não tenho dúvida de que, com a habilidade do Lula, mesmo com esta Câmara, este Congresso, contaminado pelos poderes econômicos, sobretudo... (Desligamento do microfone.)"
+    },
     {
       "data": "2026-10-27T16:28",
       "fase": "Breves Comunicações",
@@ -96,6 +112,12 @@
       "sigla": "CFT",
       "cargo": "Suplente",
       "desde": "2026-09-02T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 32, de 2015, do Sr. Gonzaga Patriota, que \"altera a redação dos artigos 14 e 228 da Constituição Federal, para estabelecer a plena maioridade civil e penal aos dezesseis anos de idade\", e apensadas",
+      "sigla": "PEC03215",
+      "cargo": "Suplente",
+      "desde": "2026-11-10T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/160556/votacoes-nominais-plenario/2026"

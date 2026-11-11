@@ -4,9 +4,28 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220615.jpg",
-  "score": 35.54,
-  "rank": 12,
-  "proposicoes": [],
+  "score": 37.76,
+  "rank": 9,
+  "proposicoes": [
+    {
+      "id": 2652239,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Declara como patrimônio cultural do povo brasileiro o conjunto de brincadeiras tradicionais infantis.",
+      "data": "2026-11-10T17:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652239"
+    },
+    {
+      "id": 2652377,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Autoriza ao Poder Executivo Federal promover a criação e o funcionamento ininterrupto de Delegacia de Crimes Raciais e Delitos de Intolerância.",
+      "data": "2026-11-10T18:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652377"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-10-27T15:04",

@@ -4,10 +4,54 @@
   "partido": "PP",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
-  "score": 11.71,
-  "rank": 202,
-  "proposicoes": [],
+  "score": 16.68,
+  "rank": 237,
+  "proposicoes": [
+    {
+      "id": 2652010,
+      "tipo": "EMC",
+      "numero": 64,
+      "ano": 2026,
+      "ementa": "Modifica o Anexo IV da Medida Provisória nº 1.399, de 2026, para reduzir a zero a alíquota do Imposto Seletivo aplicável às bebidas cujos açúcares provenham exclusivamente do suco ou do mosto da própria fruta.",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652010"
+    },
+    {
+      "id": 2652112,
+      "tipo": "EMC",
+      "numero": 65,
+      "ano": 2026,
+      "ementa": "Modifica o art. 8º, § 1º, inciso I, alínea “b”, e o Anexo IV da Medida Provisória nº 1.399, de 2026.",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652112"
+    },
+    {
+      "id": 2652114,
+      "tipo": "EMC",
+      "numero": 66,
+      "ano": 2026,
+      "ementa": "Dê-se às linhas abaixo do Anexo IV da Medida Provisória nº 1.399, de 4 de novembro de 2026, a seguinte redação, acrescentando-se as que não constem do texto original:",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652114"
+    },
+    {
+      "id": 2652115,
+      "tipo": "EMC",
+      "numero": 67,
+      "ano": 2026,
+      "ementa": "Acrescenta dispositivo à Medida Provisória nº 1.399, de 4 de novembro de 2026, para esclarecer que os açúcares naturalmente presentes no suco, no mosto ou no mosto concentrado de fruta não são considerados açúcares adicionados para efeitos do Imposto Seletivo sobre bebidas açucaradas.",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652115"
+    }
+  ],
   "discursos": [
+    {
+      "data": "2026-11-10T15:08",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. AFONSO HAMM (Bloco/PP - RS. Sem revisão do orador.) - Sr. Presidente, colegas Parlamentares, queria utilizar esta tribuna para contestar a Medida Provisória nº 1.399 que o Governo acaba de apres",
+      "transcricao": "O SR. AFONSO HAMM (Bloco/PP - RS. Sem revisão do orador.) - Sr. Presidente, colegas Parlamentares, queria utilizar esta tribuna para contestar a Medida Provisória nº 1.399 que o Governo acaba de apresentar, que trata da reforma tributária, mas que penaliza toda a cadeia produtiva da uva, do vinho, dos espumantes, da cadeia vitivinícola. Na verdade, a tributação, que já é alta, porque já pagamos o dobro dos impostos dos nossos concorrentes do Mercosul, Argentina, Chile e também Uruguai, agora, com o acordo com a União Europeia, com o Mercado Comum Europeu, vai prejudicar o setor mais ainda, devido a uma tabela de imposto seletivo que acrescenta 8% de taxação e mais 4% para a cerveja. Isso é um absurdo. Nós precisamos desfazer este equívoco, que penaliza todo o setor: quinze mil agricultores no Rio Grande do Sul, mais de cinquenta mil no Brasil, mais de cem mil empregos, mais de mil vinícolas, dezenove unidades da Federação produzindo vinhos, e nós tendo uma cadeia produtiva que movimenta 12 bilhões de reais. A gente precisa refazer isso. Finalizo a minha manifestação, Presidente, dirigindo-me diretamente ao Secretário da Receita, hoje, na FPA, para que se desfaça esta medida provisória  depois, naturalmente, virá uma lei. Nós não podemos prejudicar os empregos da cadeia vitivinícola e dos nossos vinhos e espumantes. Era isso, Presidente. Peço que este pronunciamento seja divulgado nos meios de comunicação da Casa. Muito obrigado."
+    },
     {
       "data": "2026-11-03T16:56",
       "fase": "Breves Comunicações",

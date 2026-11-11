@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160518.jpg",
-  "score": 19.12,
-  "rank": 137,
+  "score": 20.2,
+  "rank": 115,
   "proposicoes": [
     {
       "id": 2647526,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, que “Estabelece normas para as eleições”, para proibir o uso de bandeiras, banners e windbanners ao longo das vias públicas em campanhas eleitorais.",
       "data": "2026-10-13T18:20",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647526"
+    },
+    {
+      "id": 2652030,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Weliton Prado pela aprovação deste, do PL 2.697, de 2026, apensado, com substitutivo.",
+      "data": "2026-11-10T13:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652030"
     }
   ],
   "discursos": [],

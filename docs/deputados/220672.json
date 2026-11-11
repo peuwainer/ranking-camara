@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220672.jpg",
-  "score": 7.96,
-  "rank": 234,
-  "proposicoes": [],
+  "score": 9.01,
+  "rank": 470,
+  "proposicoes": [
+    {
+      "id": 2652180,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Institui o Programa de Recuperação Ambiental Assistida, cria mecanismos diferenciados de regularização para pequenos produtores rurais na Amazônia Legal e estabelece medidas de apoio econômico e social para a recomposição da Reserva Legal e das Áreas de Preservação Permanente.",
+      "data": "2026-11-10T16:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652180"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-10-27T14:16",

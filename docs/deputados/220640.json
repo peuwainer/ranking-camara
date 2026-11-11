@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220640.jpg",
-  "score": 17.25,
-  "rank": 199,
+  "score": 19.3,
+  "rank": 132,
   "proposicoes": [
     {
       "id": 2649499,
@@ -24,6 +24,24 @@
       "ementa": "Dispõe sobre a prevenção e o enfrentamento à violência contra crianças e adolescentes indígenas, quilombolas e pertencentes a outros povos e comunidades tradicionais no Brasil",
       "data": "2026-11-03T17:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650020"
+    },
+    {
+      "id": 2651681,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre o reconhecimento, valorização e estímulo à atuação das parteiras tradicionais nas políticas públicas de saúde, no âmbito do Sistema Único de Saúde (SUS), e dá outras providências.",
+      "data": "2026-11-09T15:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651681"
+    },
+    {
+      "id": 2652044,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre o direito à realização de exames para a detecção de trombofilias em mulheres e as terapias para o seu tratamento em âmbito nacional.",
+      "data": "2026-11-10T13:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652044"
     }
   ],
   "discursos": [

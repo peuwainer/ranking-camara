@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
-  "score": 25.79,
-  "rank": 25,
+  "score": 24.95,
+  "rank": 50,
   "proposicoes": [
     {
       "id": 2648714,
@@ -42,6 +42,15 @@
       "ementa": "Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 7.520.000.000,00, para o fim que especifica.",
       "data": "2026-10-15T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649205"
+    },
+    {
+      "id": 2652676,
+      "tipo": "PL",
+      "numero": 5817,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.133, de 1º de abril de 2021, para estabelecer requisitos de planejamento, necessidade funcional, economicidade e transparência nas contratações públicas que envolvam equipamentos eletrônicos destinados ao uso institucional.",
+      "data": "2026-11-10T20:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652676"
     }
   ],
   "discursos": [],

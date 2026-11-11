@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204372.jpg",
-  "score": 32.08,
-  "rank": 19,
+  "score": 35.68,
+  "rank": 14,
   "proposicoes": [
     {
       "id": 2647662,
@@ -96,6 +96,42 @@
       "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para autorizar que o aproveitamento de créditos relativos à Contribuição sobre Bens e Serviços (CBS) passíveis de ressarcimento ou restituição seja realizado mediante compensação com débitos relativos a tributos administrados pela Secretaria Especial da Receita Federal do Brasil.",
       "data": "2026-11-05T16:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651228"
+    },
+    {
+      "id": 2651602,
+      "tipo": "EMC",
+      "numero": 74,
+      "ano": 2026,
+      "ementa": "Proíbe a exploração, a oferta, a intermediação e a publicidade de loterias de apostas de quota fixa no território nacional, institui o Comitê Interinstitucional de Fiscalização da Exploração e da Publicidade Ilegal de Apostas de Quota Fixa, e altera a Lei nº 14.790, de 29 de dezembro de 2023.",
+      "data": "2026-10-13T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651602"
+    },
+    {
+      "id": 2651603,
+      "tipo": "EMC",
+      "numero": 75,
+      "ano": 2026,
+      "ementa": "Proíbe a exploração, a oferta, a intermediação e a publicidade de loterias de apostas de quota fixa no território nacional, institui o Comitê Interinstitucional de Fiscalização da Exploração e da Publicidade Ilegal de Apostas de Quota Fixa, e altera a Lei nº 14.790, de 29 de dezembro de 2023.",
+      "data": "2026-10-13T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651603"
+    },
+    {
+      "id": 2651604,
+      "tipo": "EMC",
+      "numero": 76,
+      "ano": 2026,
+      "ementa": "Proíbe a exploração, a oferta, a intermediação e a publicidade de loterias de apostas de quota fixa no território nacional, institui o Comitê Interinstitucional de Fiscalização da Exploração e da Publicidade Ilegal de Apostas de Quota Fixa, e altera a Lei nº 14.790, de 29 de dezembro de 2023.",
+      "data": "2026-10-13T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651604"
+    },
+    {
+      "id": 2652542,
+      "tipo": "SBT",
+      "numero": 4,
+      "ano": 0,
+      "ementa": "Regulamenta direitos da pessoa com transtorno do espectro autista e da pessoa com deficiência.",
+      "data": "2026-11-10T20:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652542"
     }
   ],
   "discursos": [

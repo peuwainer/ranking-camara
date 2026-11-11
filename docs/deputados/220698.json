@@ -4,10 +4,17 @@
   "partido": "PSD",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220698.jpg",
-  "score": 11.54,
-  "rank": 208,
+  "score": 12.36,
+  "rank": 402,
   "proposicoes": [],
   "discursos": [
+    {
+      "data": "2026-11-10T19:00",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. BETO PRETO (Bloco/PSD - PR. Pela ordem. Sem revisão do orador.) - Presidente, agradecendo a confiança, eu queria só fazer um registro a respeito da Medida Provisória nº 1.376, que traz no seu ar",
+      "transcricao": "O SR. BETO PRETO (Bloco/PSD - PR. Pela ordem. Sem revisão do orador.) - Presidente, agradecendo a confiança, eu queria só fazer um registro a respeito da Medida Provisória nº 1.376, que traz no seu art. 12 a autorização para vigorar com um acréscimo e fala de diversos produtos ligados ao tabaco, que serão regulados pela agência depois. Porém, coloca aqui o NCM relativo ao vape com o número 8543.40.00, ou seja, acabamos de dar um passo em falso aqui neste plenário da Câmara aprovando a utilização do vape em território nacional. Quero registrar também aqui na Câmara que vou fazer agora, de próprio punho, de vontade própria deste mandato, uma orientação ao Senado Federal, tendo em vista que a matéria vai seguir para lá. Não é cabível aceitar algo tão duro à saúde das pessoas que utilizam esses dispositivos por via inalatória. Isso é passível de causar diversas doenças respiratórias, inclusive sendo um acelerador do câncer de pulmão. Então, não acredito que isso possa ter passado sem que nós tenhamos a mínima condição de ter debatido esse assunto. Muito obrigado, Sr. Presidente."
+    },
     {
       "data": "2026-10-27T18:00",
       "fase": "Breves Comunicações",
@@ -41,6 +48,12 @@
       "sigla": "PL808514",
       "cargo": "Suplente",
       "desde": "2026-04-30T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Suplente",
+      "desde": "2026-11-04T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220698/votacoes-nominais-plenario/2026"

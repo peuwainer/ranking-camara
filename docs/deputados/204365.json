@@ -4,8 +4,8 @@
   "partido": "NOVO",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204365.jpg",
-  "score": 21.2,
-  "rank": 52,
+  "score": 28.37,
+  "rank": 31,
   "proposicoes": [
     {
       "id": 2647659,
@@ -24,6 +24,69 @@
       "ementa": "Dispõe sobre procedimentos para autorização de débitos em conta de depósitos e em conta-salário.",
       "data": "2026-11-04T11:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2650440"
+    },
+    {
+      "id": 2652515,
+      "tipo": "PL",
+      "numero": 5811,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a oferta e a negociação de contratos derivativos não financeiros referenciados em eventos reais ou virtuais não representativos de referencial econômico-financeiro, a critério da Comissão de Valores Mobiliários, e dá outras providências.",
+      "data": "2026-11-10T18:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652515"
+    },
+    {
+      "id": 2652581,
+      "tipo": "EMC",
+      "numero": 145,
+      "ano": 2026,
+      "ementa": "Altera o art. 16 da Medida Provisória 1399/2026",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652581"
+    },
+    {
+      "id": 2652582,
+      "tipo": "EMC",
+      "numero": 146,
+      "ano": 2026,
+      "ementa": "Dê-se nova redação aos §§ 2º a 4º do art. 12; e acrescentem-se §§ 4º-1 e 4º-2 ao art. 12 da Medida Provisória 1399/2026.",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652582"
+    },
+    {
+      "id": 2652583,
+      "tipo": "EMC",
+      "numero": 147,
+      "ano": 2026,
+      "ementa": "Acrescentem-se §§ 1º a 3º ao art. 15 da Medida Provisória 1399/2026",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652583"
+    },
+    {
+      "id": 2652584,
+      "tipo": "EMC",
+      "numero": 148,
+      "ano": 2026,
+      "ementa": "A emenda suprime, entre os requisitos para a alíquota zero do ImpostoSeletivo (IS) sobre veículos sustentáveis, a exigência de “realização de etapas fabris no País”",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652584"
+    },
+    {
+      "id": 2652585,
+      "tipo": "EMC",
+      "numero": 149,
+      "ano": 2026,
+      "ementa": "Acrescente-se art. 17-1 à Medida Provisória 1399/2026",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652585"
+    },
+    {
+      "id": 2652611,
+      "tipo": "EMC",
+      "numero": 175,
+      "ano": 2026,
+      "ementa": "Cria teto global de 5% (cinco por cento) para o Imposto Seletivo, abrangendo alíquotas iniciais, ajustes, fatores de conversão, fatores de ajuste na importação e alíquotas específicas.",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652611"
     }
   ],
   "discursos": [],

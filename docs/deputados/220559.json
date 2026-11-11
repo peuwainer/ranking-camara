@@ -4,9 +4,280 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
-  "score": 17.87,
-  "rank": 174,
-  "proposicoes": [],
+  "score": 52.87,
+  "rank": 3,
+  "proposicoes": [
+    {
+      "id": 2651861,
+      "tipo": "EMC",
+      "numero": 33,
+      "ano": 2026,
+      "ementa": "Emenda à MP 1399",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651861"
+    },
+    {
+      "id": 2651873,
+      "tipo": "EMC",
+      "numero": 35,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651873"
+    },
+    {
+      "id": 2651874,
+      "tipo": "EMC",
+      "numero": 36,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651874"
+    },
+    {
+      "id": 2651875,
+      "tipo": "EMC",
+      "numero": 37,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651875"
+    },
+    {
+      "id": 2651876,
+      "tipo": "EMC",
+      "numero": 38,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651876"
+    },
+    {
+      "id": 2651877,
+      "tipo": "EMC",
+      "numero": 39,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651877"
+    },
+    {
+      "id": 2651878,
+      "tipo": "EMC",
+      "numero": 40,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651878"
+    },
+    {
+      "id": 2651879,
+      "tipo": "EMC",
+      "numero": 41,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651879"
+    },
+    {
+      "id": 2651880,
+      "tipo": "EMC",
+      "numero": 42,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651880"
+    },
+    {
+      "id": 2651881,
+      "tipo": "EMC",
+      "numero": 43,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651881"
+    },
+    {
+      "id": 2651882,
+      "tipo": "EMC",
+      "numero": 44,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651882"
+    },
+    {
+      "id": 2651883,
+      "tipo": "EMC",
+      "numero": 45,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual.",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651883"
+    },
+    {
+      "id": 2652116,
+      "tipo": "EMC",
+      "numero": 70,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652116"
+    },
+    {
+      "id": 2652119,
+      "tipo": "EMC",
+      "numero": 72,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652119"
+    },
+    {
+      "id": 2652120,
+      "tipo": "EMC",
+      "numero": 73,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652120"
+    },
+    {
+      "id": 2652121,
+      "tipo": "EMC",
+      "numero": 74,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652121"
+    },
+    {
+      "id": 2652123,
+      "tipo": "EMC",
+      "numero": 75,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652123"
+    },
+    {
+      "id": 2652124,
+      "tipo": "EMC",
+      "numero": 76,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652124"
+    },
+    {
+      "id": 2652125,
+      "tipo": "EMC",
+      "numero": 77,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652125"
+    },
+    {
+      "id": 2652127,
+      "tipo": "EMC",
+      "numero": 78,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652127"
+    },
+    {
+      "id": 2652128,
+      "tipo": "EMC",
+      "numero": 79,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652128"
+    },
+    {
+      "id": 2652129,
+      "tipo": "EMC",
+      "numero": 80,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652129"
+    },
+    {
+      "id": 2652130,
+      "tipo": "EMC",
+      "numero": 81,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652130"
+    },
+    {
+      "id": 2652131,
+      "tipo": "EMC",
+      "numero": 82,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652131"
+    },
+    {
+      "id": 2652132,
+      "tipo": "EMC",
+      "numero": 83,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652132"
+    },
+    {
+      "id": 2652133,
+      "tipo": "EMC",
+      "numero": 84,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652133"
+    },
+    {
+      "id": 2652134,
+      "tipo": "EMC",
+      "numero": 85,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652134"
+    },
+    {
+      "id": 2652135,
+      "tipo": "EMC",
+      "numero": 86,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652135"
+    },
+    {
+      "id": 2652187,
+      "tipo": "EMC",
+      "numero": 102,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652187"
+    },
+    {
+      "id": 2652188,
+      "tipo": "EMC",
+      "numero": 103,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652188"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

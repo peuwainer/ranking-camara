@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "RO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178954.jpg",
-  "score": 6.79,
-  "rank": 485,
-  "proposicoes": [],
+  "score": 7.96,
+  "rank": 482,
+  "proposicoes": [
+    {
+      "id": 2652006,
+      "tipo": "EMC",
+      "numero": 60,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652006"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

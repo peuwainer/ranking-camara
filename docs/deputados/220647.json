@@ -4,9 +4,82 @@
   "partido": "PP",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220647.jpg",
-  "score": 1.88,
-  "rank": 507,
-  "proposicoes": [],
+  "score": 11.21,
+  "rank": 426,
+  "proposicoes": [
+    {
+      "id": 2651588,
+      "tipo": "EMC",
+      "numero": 61,
+      "ano": 2026,
+      "ementa": "Dê-se nova redação à Medida Provisória nos termos dos itens 1 e 2",
+      "data": "2026-10-13T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651588"
+    },
+    {
+      "id": 2651589,
+      "tipo": "EMC",
+      "numero": 62,
+      "ano": 2026,
+      "ementa": "Suprima-se o art. 29 da Medida Provisória nº 1.394, de 25 de setembro de 2026, e dê-se nova redação ao seu art. 28, para alterar dispositivos da Lei nº 14.790, de 29 de dezembro de 2023, e acrescer-lhe novos dispositivos, em posição sistematicamente adequada",
+      "data": "2026-10-13T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651589"
+    },
+    {
+      "id": 2651590,
+      "tipo": "EMC",
+      "numero": 63,
+      "ano": 2026,
+      "ementa": "Suprimam-se os arts. 2º e 26; e acrescentem-se arts. 29-1 e 29-2 à Medida Provisória",
+      "data": "2026-10-13T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651590"
+    },
+    {
+      "id": 2651591,
+      "tipo": "EMC",
+      "numero": 64,
+      "ano": 2026,
+      "ementa": "Dê-se à Medida Provisória nº 1.394, de 25 de setembro de 2026, a seguinte redação",
+      "data": "2026-10-13T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651591"
+    },
+    {
+      "id": 2652264,
+      "tipo": "EMC",
+      "numero": 133,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual.",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652264"
+    },
+    {
+      "id": 2652510,
+      "tipo": "PLP",
+      "numero": 294,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para reduzir as alíquotas do Simples Nacional, instituir carência tributária para empresas nascentes, simplificar obrigações acessórias, estabelecer o respectivo mecanismo de compensação fiscal, e dar outras providências.",
+      "data": "2026-11-10T17:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652510"
+    },
+    {
+      "id": 2652512,
+      "tipo": "PLP",
+      "numero": 295,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, e a Lei nº 14.601, de 19 de junho de 2023, para instituir a Rampa de Emancipação Empreendedora, estabelecer salvaguardas assistenciais ao microempreendedorismo, estipular critérios de isonomia em compras públicas, instituir linhas de fomento creditício de inclusão produtiva, e dar outras providências.",
+      "data": "2026-11-10T17:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652512"
+    },
+    {
+      "id": 2652521,
+      "tipo": "PL",
+      "numero": 5815,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Inclusão Produtiva, Qualificação Profissional e Superação da Vulnerabilidade Socioeconômica; altera as Leis nº 8.742, de 7 de dezembro de 1993, nº 14.133, de 1º de abril de 2021, e nº 14.601, de 19 de junho de 2023; e dá outras providências.",
+      "data": "2026-11-10T19:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652521"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

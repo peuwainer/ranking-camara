@@ -4,9 +4,28 @@
   "partido": "PP",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204355.jpg",
-  "score": 9.75,
-  "rank": 225,
-  "proposicoes": [],
+  "score": 11.85,
+  "rank": 410,
+  "proposicoes": [
+    {
+      "id": 2652491,
+      "tipo": "EMC",
+      "numero": 141,
+      "ano": 2026,
+      "ementa": "Altera o parágrafo único do art. 17 da Medida Provisória 1399/2026",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652491"
+    },
+    {
+      "id": 2652492,
+      "tipo": "EMC",
+      "numero": 142,
+      "ano": 2026,
+      "ementa": "Dá nova redação ao § 1º do art. 17 e acrescenta § 2º ao art. 17 da Medida Provisória 1399/2026",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652492"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-11-03T18:00",

@@ -4,9 +4,37 @@
   "partido": "PP",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178963.jpg",
-  "score": 15.37,
-  "rank": 156,
-  "proposicoes": [],
+  "score": 18.87,
+  "rank": 149,
+  "proposicoes": [
+    {
+      "id": 2652223,
+      "tipo": "EMC",
+      "numero": 118,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652223"
+    },
+    {
+      "id": 2652225,
+      "tipo": "EMC",
+      "numero": 115,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual.",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652225"
+    },
+    {
+      "id": 2652226,
+      "tipo": "EMC",
+      "numero": 116,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual.",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652226"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

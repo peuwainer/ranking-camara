@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160598.jpg",
-  "score": 35.62,
-  "rank": 5,
+  "score": 33.05,
+  "rank": 19,
   "proposicoes": [
     {
       "id": 2649100,
@@ -69,6 +69,15 @@
       "ementa": "Altera a Lei nº 10.891, de 9 de julho de 2004.",
       "data": "2026-11-06T16:21",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651304"
+    },
+    {
+      "id": 2652601,
+      "tipo": "EMC",
+      "numero": 163,
+      "ano": 2026,
+      "ementa": "Dê-se nova redação aos incisos II e III do § 1º do art. 3º; e acrescente-se parágrafo único ao art. 19 da Medida Provisória, nos termos a seguir:",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652601"
     }
   ],
   "discursos": [

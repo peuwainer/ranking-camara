@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220665.jpg",
-  "score": 19.95,
-  "rank": 61,
+  "score": 21.29,
+  "rank": 96,
   "proposicoes": [
     {
       "id": 2650489,
@@ -24,6 +24,24 @@
       "ementa": "Altera a Lei nº 12.594, de 18 de janeiro de 2012, para vedar a visita íntima a adolescente privado de liberdade no âmbito do Sistema Nacional de Atendimento Socioeducativo (Sinase), e revoga o art. 68 da mesma Lei.",
       "data": "2026-11-06T11:10",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651263"
+    },
+    {
+      "id": 2651978,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade da acessibilidade plena em totens de autoatendimento, instalados em estabelecimentos públicos e privados, e dá outras providências.",
+      "data": "2026-11-10T12:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651978"
+    },
+    {
+      "id": 2652209,
+      "tipo": "PL",
+      "numero": 5809,
+      "ano": 2026,
+      "ementa": "Veda proibições administrativas genéricas ao consumo de refeições por profissionais da educação nas unidades públicas de educação básica.",
+      "data": "2026-11-10T16:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652209"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
-  "score": 16.46,
-  "rank": 131,
+  "score": 13.62,
+  "rank": 377,
   "proposicoes": [
     {
       "id": 2651100,
@@ -21,7 +21,7 @@
       "tipo": "PL",
       "numero": 5796,
       "ano": 2026,
-      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para dispor sobre a remição da pena por meio da doação voluntária de sangue.",
+      "ementa": "Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para dispor sobre a remição da pena por meio da doação voluntária de sangue",
       "data": "2026-11-09T12:26",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651409"
     },
@@ -78,6 +78,15 @@
       "ementa": "Altera a Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), e a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para vedar a propaganda eleitoral que contenha apologia à prática de qualquer crime ou a seus autores.",
       "data": "2026-11-10T11:12",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651938"
+    },
+    {
+      "id": 2651979,
+      "tipo": "PL",
+      "numero": 5805,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para estabelecer requisitos de sinalização e de comprovação da regularidade da fiscalização eletrônica de velocidade.",
+      "data": "2026-11-10T11:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651979"
     }
   ],
   "discursos": [],

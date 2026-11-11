@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/161550.jpg",
-  "score": 14.12,
-  "rank": 181,
-  "proposicoes": [],
+  "score": 15.29,
+  "rank": 326,
+  "proposicoes": [
+    {
+      "id": 2652175,
+      "tipo": "PL",
+      "numero": 5807,
+      "ano": 2026,
+      "ementa": "Cria a Rota Turística Caminho Santa Rita de Cássia, no trecho compreendido entre os Municípios de Passos e Cássia, no Estado de Minas Gerais.",
+      "data": "2026-11-10T15:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652175"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

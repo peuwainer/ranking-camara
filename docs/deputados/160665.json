@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
-  "score": 21.53,
-  "rank": 50,
+  "score": 23.1,
+  "rank": 70,
   "proposicoes": [
     {
       "id": 2648807,
@@ -15,9 +15,34 @@
       "ementa": "Autoriza a concessão de apoio financeiro aos produtores independentes de cana-de-açúcar da Região Nordeste no exercício de 2026 e a destinação de recursos para linhas de financiamento reembolsável destinadas à renovação de frota e altera as Leis nºs 9.818, de 23 de agosto de 1999, 11.540, de 12 de novembro de 2007, e 14.947, de 2 de agosto de 2024.",
       "data": "2026-10-22T17:17",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648807"
+    },
+    {
+      "id": 2651954,
+      "tipo": "EMC",
+      "numero": 55,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano calendário de 2027, em Regime de Implementação Gradual.",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651954"
+    },
+    {
+      "id": 2652217,
+      "tipo": "EMC",
+      "numero": 109,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano calendário de 2027, em Regime de Implementação Gradual.",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652217"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-11-10T18:16",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o bloco orienta \"sim\". Essa é uma matéria que, de fato, ajuda o produtor rural, que sofre muito n",
+      "transcricao": "O SR. AUGUSTO COUTINHO (Bloco/REPUBLICANOS - PE. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o bloco orienta \"sim\". Essa é uma matéria que, de fato, ajuda o produtor rural, que sofre muito no nosso País. Portanto, todos os partidos encaminham \"sim\" a essa matéria, que a gente acha muito benéfica."
+    },
     {
       "data": "2026-11-03T18:28",
       "fase": "Breves Comunicações",

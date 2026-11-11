@@ -4,9 +4,46 @@
   "partido": "MDB",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/161440.jpg",
-  "score": 15.37,
-  "rank": 310,
-  "proposicoes": [],
+  "score": 20.04,
+  "rank": 118,
+  "proposicoes": [
+    {
+      "id": 2651884,
+      "tipo": "EMC",
+      "numero": 46,
+      "ano": 2026,
+      "ementa": "\"Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual.\"",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651884"
+    },
+    {
+      "id": 2651885,
+      "tipo": "EMC",
+      "numero": 47,
+      "ano": 2026,
+      "ementa": "\"Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual.\"",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651885"
+    },
+    {
+      "id": 2652189,
+      "tipo": "EMC",
+      "numero": 107,
+      "ano": 2026,
+      "ementa": "\"Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual\"",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652189"
+    },
+    {
+      "id": 2652190,
+      "tipo": "EMC",
+      "numero": 108,
+      "ano": 2026,
+      "ementa": "\"Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual\"",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652190"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

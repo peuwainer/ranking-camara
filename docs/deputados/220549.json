@@ -4,10 +4,18 @@
   "partido": "PP",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220549.jpg",
-  "score": 16.7,
-  "rank": 120,
+  "score": 17.13,
+  "rank": 230,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-10T16:56",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. ANY ORTIZ (Bloco/PP - RS. Sem revisão da oradora.) - Muito obrigada, Presidente, colegas Parlamentares. Faltam menos de 2 meses para o início efetivo da reforma tributária. Obviamente, como tem",
+      "transcricao": "A SRA. ANY ORTIZ (Bloco/PP - RS. Sem revisão da oradora.) - Muito obrigada, Presidente, colegas Parlamentares. Faltam menos de 2 meses para o início efetivo da reforma tributária. Obviamente, como temos visto em todos os noticiários, o nosso País ainda não está preparado para isso. O Senado não definiu ainda a alíquota da CBS. Há muitas dificuldades operacionais nos sistemas, insegurança jurídica, sem falar, Presidente, nas multas  nenhum pouco razoáveis  para quem não conseguir colocar, a partir de 1º de janeiro, o sistema em operação. Por conta disso, eu apresentei uma PEC, que conta já com assinaturas de muitos Deputados. Quero agradecer, inclusive, aos que assinaram e pedir aos Deputados que ainda não assinaram a PEC que a assinem para que a gente possa postergar o início da transição da reforma tributária. Ontem, saiu uma manifestação da Presidente da Petrobras pedindo ao Governo que amplie esse prazo ou que, pelo menos, não aplique as multas para quem não conseguir implementar o sistema. Imagine, Deputado Pompeo, meu colega do Rio Grande do Sul  a quem eu peço aqui, mais uma vez, que assine a PEC para que a gente possa discutir esse assunto , se nem a Petrobras, que tem os melhores técnicos, os melhores advogados, o acesso a tudo que está acontecendo, não consegue prever se vai conseguir implementar ou não o sistema, o que dirá dos pequenos negócios, dos pequenos contribuintes? A nossa intenção aqui não é mudar ou fazer uma alteração em relação à reforma tributária, mas, sim, dar mais prazo tanto para os contribuintes... É por isso que há uma manifestação tão grande das entidades, dos representantes dos setores produtivos, do próprio Bernard Appy, que foi Secretário Extraordinário do Ministério da Fazenda para tratar da reforma tributária, que disse que é importante, sim, a gente ampliar o prazo, fazer essa prorrogação para que os sistemas possam operar de maneira mais adequada. Eu quero terminar meu discurso aqui lendo uma mensagem que eu recebi, colegas, de um servidor da Fazenda do Estado do Rio Grande do Sul, que entende também que o mais prudente é essa prorrogação, esse adiamento. E ele diz mais: que esse é o maior sistema em desenvolvimento no mundo, com uma amplitude continental, e que Estados e Municípios estão tendo que administrar dois sistemas. Então, a gente vê de todos os lados representantes importantes, especialistas no assunto, mostrando o quanto é importante fazer esse adiamento, essa prorrogação do início da nossa reforma tributária, e eu peço aqui a sensibilidade de todos os colegas. Muito obrigada."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo das razões do aumento de denúncias de violência obstétrica e a alta taxa de morte materna no Brasil",

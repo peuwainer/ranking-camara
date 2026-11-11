@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204406.jpg",
-  "score": 19.74,
-  "rank": 114,
+  "score": 21.99,
+  "rank": 84,
   "proposicoes": [
     {
       "id": 2647662,
@@ -15,6 +15,24 @@
       "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para dispor sobre o limite de receita bruta anual e o número de empregados do Microempreendedor Individual.",
       "data": "2026-10-14T17:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647662"
+    },
+    {
+      "id": 2652222,
+      "tipo": "EMC",
+      "numero": 117,
+      "ano": 2026,
+      "ementa": "Modifica o art. 8º, § 1º, inciso I, alínea “b”, e o Anexo IV da Medida Provisória nº 1.399, de 2026, para recalibrar os fatores de conversão e de ajuste do Imposto Seletivo aplicáveis às bebidas alcoólicas no Regime de Implementação Gradual.",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652222"
+    },
+    {
+      "id": 2652224,
+      "tipo": "EMC",
+      "numero": 114,
+      "ano": 2026,
+      "ementa": "Modifica o Anexo IV da Medida Provisória nº 1.399, de 2026, parareduzir a zero a alíquota do Imposto Seletivo aplicável às bebidas cujos açúcaresprovenham exclusivamente do suco ou do mosto da própria fruta.",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652224"
     }
   ],
   "discursos": [],

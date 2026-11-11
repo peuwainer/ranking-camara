@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220708.jpg",
-  "score": 17.7,
-  "rank": 101,
+  "score": 18.1,
+  "rank": 172,
   "proposicoes": [],
   "discursos": [
     {
@@ -59,6 +59,12 @@
       "sigla": "CAPADR",
       "cargo": "Suplente",
       "desde": "2026-05-05T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Suplente",
+      "desde": "2026-11-04T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220708/votacoes-nominais-plenario/2026"

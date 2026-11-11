@@ -4,10 +4,43 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/133810.jpg",
-  "score": 12.87,
-  "rank": 390,
-  "proposicoes": [],
+  "score": 15.94,
+  "rank": 284,
+  "proposicoes": [
+    {
+      "id": 2651835,
+      "tipo": "EMC",
+      "numero": 31,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651835"
+    },
+    {
+      "id": 2651862,
+      "tipo": "EMC",
+      "numero": 34,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-09T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651862"
+    }
+  ],
   "discursos": [
+    {
+      "data": "2026-11-10T15:12",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MARCELO MORAES (PL - RS. Pela ordem. Sem revisão do orador.) - Presidente, nesta semana, nós recebemos aqui em Brasília a visita do Vereador Tassiano, do Município de Gramado Xavier. Ele não só ",
+      "transcricao": "O SR. MARCELO MORAES (PL - RS. Pela ordem. Sem revisão do orador.) - Presidente, nesta semana, nós recebemos aqui em Brasília a visita do Vereador Tassiano, do Município de Gramado Xavier. Ele não só veio buscar recursos, como também trazer sua preocupação em relação ao \"imposto do pecado\", tendo em vista que esse Município é produtor de tabaco. Por meio de uma medida provisória do Governo Lula, o imposto sobre o cigarro teve um aumento de 66%, fazendo com que, indiretamente, essa conta chegue em quem está produzindo. Nós tivemos uma baixa de preço de quase 100 reais da safra passada para essa safra. E agora, com esse imposto, com certeza, haverá prejuízos grandes para a nossa região. Vim aqui também buscar emendas parlamentares. No passado, a pedido do Tassiano e do Jefferson, nós encaminhamos recursos para fazer a abertura do posto de saúde central. Nós também já enviamos recursos para a aquisição de implementos agrícolas, no valor de 400 mil reais, e até hoje o Prefeito ainda não esclareceu onde foi aplicado o recurso que foi depositado na conta da Prefeitura. E agora, por último, na reunião de hoje, conseguimos contato com o Governo do Estado e ficamos sabendo que existe uma retroescavadeira zero quilômetro  a pedido dele, do Vereador Tassiano e também do Presidente do nosso partido, Jefferson  que é só buscar em Porto Alegre, que vai atender os nossos agricultores e fumicultores. Obrigado, Presidente."
+    },
+    {
+      "data": "2026-11-05T12:12",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MARCELO MORAES (PL - RS. Pela ordem. Sem revisão do orador.) - Presidente, esta semana nós recebemos aqui na Câmara Federal a visita de Jaisson PQD, de Tiago Girardi e do Vereador André Machado,",
+      "transcricao": "O SR. MARCELO MORAES (PL - RS. Pela ordem. Sem revisão do orador.) - Presidente, esta semana nós recebemos aqui na Câmara Federal a visita de Jaisson PQD, de Tiago Girardi e do Vereador André Machado, do Município de Santo Antônio da Patrulha, reconhecido produtor de rapadura, cachaça e sonho. São amigos de direita que vêm do litoral gaúcho para buscar recursos para tentar melhorar as condições da ponte de Tramandaí, que vêm buscar recursos na tentativa de minimizar os impactos das cheias e dos eventos climáticos negativos que nós tivemos no Rio Grande do Sul. Nós temos o compromisso de ajudá-los, sim, cada vez mais. Nós sabemos da importância que tem o litoral gaúcho e temos compromisso com ele, tendo em vista a grande votação que tivemos, não só em Santo Antônio da Patrulha, como também em Tramandaí, Cidreira e em todos os Municípios do litoral. Parabenizo esses guerreiros que vêm aqui buscar recursos para melhorar a qualidade de vida dos amigos e amigas que vivem no litoral gaúcho! Obrigado, Presidente."
+    },
     {
       "data": "2026-11-03T19:16",
       "fase": "Breves Comunicações",

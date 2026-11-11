@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204472.jpg",
-  "score": 35.99,
-  "rank": 11,
+  "score": 35.09,
+  "rank": 16,
   "proposicoes": [
     {
       "id": 2647685,
@@ -152,7 +152,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649761"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-10T18:40",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JOSÉ MEDEIROS (PL - MT. Pela ordem. Sem revisão do orador.) - Sr. Presidente, em algum momento da história do Brasil, foi dito o seguinte: ou o Brasil acaba com a saúva, ou a saúva acaba com o B",
+      "transcricao": "O SR. JOSÉ MEDEIROS (PL - MT. Pela ordem. Sem revisão do orador.) - Sr. Presidente, em algum momento da história do Brasil, foi dito o seguinte: ou o Brasil acaba com a saúva, ou a saúva acaba com o Brasil, em referência ao que as formigas faziam com a agricultura. Hoje as formigas são outras. A sanha por regulamentação promovida pela extrema esquerda é uma coisa absurda. Atualmente, para um pecuarista limpar o pasto, ele precisa de licença ambiental  se essa licença sair com muita rapidez, ela sai em 6 meses. Agora, eles não se satisfazem nunca; exigem regulamentação e licença para tudo. Já votamos aqui o Marco Legal do Licenciamento Ambiental, que não está em vigor porque, infelizmente, vivenciamos uma realidade na qual o Legislativo delibera, mas o STF é quem concorda ou não com a proposição. Nesse raciocínio, nós somos contrários à aprovação do recurso, porque o que vemos não é uma medida em benefício do meio ambiente, mas, sim, contra o agronegócio. Na verdade, trata-se da sanha da regulamentação, simplesmente por objetivos ideológicos. Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a acompanhar, in loco, o processo de intervenção na saúde pública do município de Cuiabá-MT, decretado pelo Tribunal de Justiça do estado de Mato Grosso",

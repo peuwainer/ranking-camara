@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74084.jpg",
-  "score": 17.87,
-  "rank": 178,
+  "score": 18.95,
+  "rank": 146,
   "proposicoes": [
     {
       "id": 2651388,
@@ -15,6 +15,15 @@
       "ementa": "Dispõe sobre medidas emergenciais destinadas à prevenção e ao enfrentamento dos incêndios florestais, da estiagem e da crise de abastecimento de água no Estado do Pará, e estabelece medidas de assistência às populações e de recuperação das áreas atingidas.",
       "data": "2026-11-09T11:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651388"
+    },
+    {
+      "id": 2651848,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Reconhece a Harpa Cristã como manifestação da cultura nacional de natureza imaterial.",
+      "data": "2026-11-09T17:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651848"
     }
   ],
   "discursos": [],

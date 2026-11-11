@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178871.jpg",
-  "score": 25.91,
-  "rank": 24,
+  "score": 25.46,
+  "rank": 45,
   "proposicoes": [
     {
       "id": 2648856,
@@ -33,6 +33,15 @@
       "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
       "data": "2026-11-10T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651932"
+    },
+    {
+      "id": 2652489,
+      "tipo": "EMC",
+      "numero": 144,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652489"
     }
   ],
   "discursos": [

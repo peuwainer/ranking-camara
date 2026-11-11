@@ -4,9 +4,37 @@
   "partido": "PODE",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160629.jpg",
-  "score": 0.0,
-  "rank": 513,
-  "proposicoes": [],
+  "score": 3.5,
+  "rank": 505,
+  "proposicoes": [
+    {
+      "id": 2652482,
+      "tipo": "EMC",
+      "numero": 134,
+      "ano": 2026,
+      "ementa": "Dê-se às linhas do Anexo IV da Medida Provisória nº 1.399, de 4 de novembro de 2026, relativas às bebidas alcoólicas das posições 22.04, 22.05, 22.06 e 22.08 da NCM/SH, a seguinte redação: “ANEXO IV ...................................................................................................... Descrição Ad valorem (%) – Inicial Fator de conversão Ad valorem (%) – Final Específica (R$) Bebidas alcoólicas das seguintes posições da NCM/SH: a) 22.04, excetuados os vinhos da madeira, do porto e de xerez classificados nos códigos 2204.21.00, 2204.22.11, 2204.22.19 e 2204.29.10; b) 22.06, excetuadas as bebidas com teor alcoólico superior a 14% (quatorze por cento) classificadas no código 2206.00.90 da NCM/SH 6,5 1,18 7,67 - Vermutes e demais bebidas alcoólicas da posição 22.05 da NCM/SH 9,75 1,18 11,51 - Vinhos da madeira, do porto e de xerez classificados nos códigos 2204.21.00, 2204.22.11, 2204.22.19 e 2204.29.10 13 1,18 15,34 - Bebidas com teor alcoólico superior a 14% (quatorze por cento) classificadas no código 2206.00.90 da NCM/SH 13 1,18 15,34 - Bebidas refrescantes com teor alcoólico inferior a 8% (oito por cento) classificadas no código 2208.90.00 da NCM/SH 13 1,18 15,34 - Rum e outras aguardentes provenientes da destilação, após fermentação, de produtos da cana-de-açúcar classificados no código 2208.40.00 da NCM/SH, excetuados rum e outras aguardentes obtidas do melaço da cana 16,25 1,18 19,18 - Demais bebidas alcoólicas classificadas na posição 22.08 da NCM/SH, inclusive rum e outras aguardentes obtidas do melaço da cana classificados no código 2208.40.00 da NCM/SH 19,5 1,18 23,01 - ......................................................................................................” (NR)",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652482"
+    },
+    {
+      "id": 2652484,
+      "tipo": "EMC",
+      "numero": 135,
+      "ano": 2026,
+      "ementa": "Dê-se ao inciso I do caput e ao § 2º do art. 8º da Medida Provisória nº 1.399, de 4 de novembro de 2026, a seguinte redação: “Art. 8º ...................................................................................................... I – a alíquota inicial do respectivo bem, definida nos termos do art. 3º, § 1º, na importação de bebidas alcoólicas de que trata o § 1º, inciso I, alínea “b”, deste artigo, ou a alíquota do respectivo bem, apurada na forma estabelecida no art. 3º, nos demais casos; e ...................................................................................................... § 2º O fator de conversão de que trata o art. 3º não se aplica à importação de bebidas alcoólicas de que trata o § 1º, inciso I, alínea “b”, cuja base de cálculo, prevista no art. 434, § 2º, da Lei Complementar nº 214, de 16 de janeiro de 2025, não compreende os tributos a que se refere o art. 3º, § 3º.” (NR)",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652484"
+    },
+    {
+      "id": 2652485,
+      "tipo": "EMC",
+      "numero": 136,
+      "ano": 2026,
+      "ementa": "Dê-se ao caput do § 4º e ao § 6º do art. 3º da Medida Provisória nº 1.399, de 4 de novembro de 2026, a seguinte redação, acrescentando-se ao § 4º o inciso VI e suprimindo-se o § 7º: “Art. 3º ...................................................................................................... ...................................................................................................... § 4º Para subsidiar o disposto no § 3º, a Secretaria Especial da Receita Federal do Brasil divulgará, até 31 de março de cada ano, as estimativas necessárias à determinação dos fatores de conversão, acompanhadas da respectiva memória de cálculo, observadas as seguintes diretrizes: ...................................................................................................... VI – as estimativas e a memória de cálculo que fundamentaram os fatores de conversão constantes dos Anexos IV e V serão divulgadas até 31 de janeiro de 2027. ...................................................................................................... § 6º As reduções previstas no § 3º e no art. 8º, § 3º, produzirão efeitos a partir da data prevista no ato que as estabelecer, e o seu impacto sobre a arrecadação será considerado na fixação da alíquota de referência da Contribuição Social sobre Bens e Serviços – CBS para o ano-calendário subsequente, nos termos dos arts. 352 a 359 da Lei Complementar nº 214, de 16 de janeiro de 2025. § 7º (Suprimido)” (NR)",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652485"
+    }
+  ],
   "discursos": [],
   "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/160629/votacoes-nominais-plenario/2026"

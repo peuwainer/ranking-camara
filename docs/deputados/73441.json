@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73441.jpg",
-  "score": 18.37,
-  "rank": 88,
+  "score": 17.54,
+  "rank": 204,
   "proposicoes": [
     {
       "id": 2651343,
@@ -42,6 +42,15 @@
       "ementa": "Reduz a zero a alíquota do Imposto Seletivo sobre as bebidas do código 2202.10.00 da NCM/SH sem adição de açúcares, inclusive refrigerantes diet, light e zero.",
       "data": "2026-11-09T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651902"
+    },
+    {
+      "id": 2652005,
+      "tipo": "EMC",
+      "numero": 59,
+      "ano": 2026,
+      "ementa": "Explicita o uso do saldo credor de IPI na compensação do Imposto Seletivo e fixa diretrizes para as alíquotas das bebidas açucaradas a partir de 2028.",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652005"
     }
   ],
   "discursos": [],

@@ -4,9 +4,19 @@
   "partido": "PODE",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160635.jpg",
-  "score": 8.58,
-  "rank": 468,
-  "proposicoes": [],
+  "score": 9.75,
+  "rank": 463,
+  "proposicoes": [
+    {
+      "id": 2652590,
+      "tipo": "EMC",
+      "numero": 155,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual.",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652590"
+    }
+  ],
   "discursos": [],
   "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/160635/votacoes-nominais-plenario/2026"

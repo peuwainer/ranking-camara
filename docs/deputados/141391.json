@@ -4,8 +4,8 @@
   "partido": "CIDADANIA",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141391.jpg",
-  "score": 15.25,
-  "rank": 163,
+  "score": 18.25,
+  "rank": 167,
   "proposicoes": [
     {
       "id": 2649050,
@@ -15,6 +15,33 @@
       "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para assegurar a correspondência entre o crédito presumido de estoque e a carga tributária efetivamente suportada na aquisição de medicamentos sujeitos ao regime monofásico durante o período de transição do IBS e da CBS.",
       "data": "2026-10-27T17:16",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649050"
+    },
+    {
+      "id": 2652009,
+      "tipo": "EMC",
+      "numero": 63,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652009"
+    },
+    {
+      "id": 2652255,
+      "tipo": "EMC",
+      "numero": 126,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652255"
+    },
+    {
+      "id": 2652258,
+      "tipo": "EMC",
+      "numero": 128,
+      "ano": 2026,
+      "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
+      "data": "2026-11-10T00:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652258"
     }
   ],
   "discursos": [],
