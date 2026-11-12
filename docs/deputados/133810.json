@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/133810.jpg",
-  "score": 15.94,
-  "rank": 284,
+  "score": 17.11,
+  "rank": 231,
   "proposicoes": [
     {
       "id": 2651835,
@@ -24,6 +24,15 @@
       "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual",
       "data": "2026-11-09T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651862"
+    },
+    {
+      "id": 2653141,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.465, de 11 de julho de 2017, para dispor sobre o limite de crédito de contrato de financiamento para aquisição de imóvel rural com recursos do Fundo de Terras e da Reforma Agrária (FTRA).",
+      "data": "2026-11-12T10:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653141"
     }
   ],
   "discursos": [

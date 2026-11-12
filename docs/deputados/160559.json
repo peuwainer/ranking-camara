@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160559.jpg",
-  "score": 20.2,
-  "rank": 114,
+  "score": 21.37,
+  "rank": 95,
   "proposicoes": [
     {
       "id": 2647665,
@@ -24,6 +24,15 @@
       "ementa": "EMENDA 2",
       "data": "2026-10-13T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649204"
+    },
+    {
+      "id": 2652977,
+      "tipo": "PLP",
+      "numero": 300,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 214, de 16 de janeiro de 2025, para estender o diferimento do Imposto sobre Bens e Serviços (IBS) e da Contribuição Social sobre Bens e Serviços (CBS) às operações com produtos agropecuários, aquícolas, pesqueiros, florestais e extrativistas vegetais in natura realizadas entre contribuintes sujeitos ao regime regular e para assegurar a manutenção dos créditos do fornecedor nas operações com diferimento.",
+      "data": "2026-11-11T16:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652977"
     }
   ],
   "discursos": [],

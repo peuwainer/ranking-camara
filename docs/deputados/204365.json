@@ -4,8 +4,8 @@
   "partido": "NOVO",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204365.jpg",
-  "score": 28.37,
-  "rank": 31,
+  "score": 28.99,
+  "rank": 29,
   "proposicoes": [
     {
       "id": 2647659,
@@ -138,6 +138,12 @@
       "sigla": "PEC03215",
       "cargo": "Suplente",
       "desde": "2026-08-11T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho destinado a discutir a regulamentação da Propaganda Eleitoral em Plataformas Digitais",
+      "sigla": "GTPROELE",
+      "cargo": "Titular",
+      "desde": "2026-11-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204365/votacoes-nominais-plenario/2026"

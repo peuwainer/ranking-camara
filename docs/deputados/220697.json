@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220697.jpg",
-  "score": 18.95,
-  "rank": 144,
+  "score": 19.58,
+  "rank": 128,
   "proposicoes": [
     {
       "id": 2648884,
@@ -63,6 +63,12 @@
       "sigla": "CINDRE",
       "cargo": "Suplente",
       "desde": "2026-03-06T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho destinado a discutir a regulamentação da Propaganda Eleitoral em Plataformas Digitais",
+      "sigla": "GTPROELE",
+      "cargo": "Titular",
+      "desde": "2026-11-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220697/votacoes-nominais-plenario/2026"

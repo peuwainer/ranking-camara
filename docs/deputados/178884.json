@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178884.jpg",
-  "score": 28.1,
-  "rank": 32,
+  "score": 28.72,
+  "rank": 30,
   "proposicoes": [
     {
       "id": 2648944,
@@ -194,6 +194,12 @@
       "sigla": "CVT",
       "cargo": "Suplente",
       "desde": "2026-10-22T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho destinado a discutir a regulamentação da Propaganda Eleitoral em Plataformas Digitais",
+      "sigla": "GTPROELE",
+      "cargo": "Titular",
+      "desde": "2026-11-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178884/votacoes-nominais-plenario/2026"

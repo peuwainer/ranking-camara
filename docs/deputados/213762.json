@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RN",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/213762.jpg",
-  "score": 22.93,
-  "rank": 72,
+  "score": 22.3,
+  "rank": 78,
   "proposicoes": [
     {
       "id": 2647657,
@@ -62,20 +62,14 @@
       "desde": "2025-05-21T00:00"
     },
     {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei n. 2614, de 2024, do Poder Executivo, que \"aprova o Plano Nacional de Educação para o decênio 2024-2034\"",
-      "sigla": "PL261424",
-      "cargo": "Suplente",
-      "desde": "2025-10-22T00:00"
-    },
-    {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3080, de 2020, do Senhor Alexandre Frota, que \"Institui a política pública nacional para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autismo, e dá outras providências\", e apensados",
-      "sigla": "PL308020",
+      "nome": "Comissão Especial destinada a acompanhar as ações de prevenção e combate ao câncer, ao acidente vascular cerebral (AVC) e às doenças do coração.",
+      "sigla": "CECANCER",
       "cargo": "Suplente",
       "desde": "2025-10-28T00:00"
     },
     {
-      "nome": "Comissão Especial destinada a acompanhar as ações de prevenção e combate ao câncer, ao acidente vascular cerebral (AVC) e às doenças do coração.",
-      "sigla": "CECANCER",
+      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 3080, de 2020, do Senhor Alexandre Frota, que \"Institui a política pública nacional para garantia, proteção e ampliação dos direitos das pessoas com Transtorno do Espectro Autismo, e dá outras providências\", e apensados",
+      "sigla": "PL308020",
       "cargo": "Suplente",
       "desde": "2025-10-28T00:00"
     },

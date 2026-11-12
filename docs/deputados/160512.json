@@ -4,8 +4,8 @@
   "partido": "SOLIDARIEDADE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
-  "score": 25.83,
-  "rank": 43,
+  "score": 26.46,
+  "rank": 41,
   "proposicoes": [
     {
       "id": 2648633,
@@ -168,6 +168,12 @@
       "sigla": "PEC03215",
       "cargo": "Titular",
       "desde": "2026-08-11T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho destinado a discutir a regulamentação da Propaganda Eleitoral em Plataformas Digitais",
+      "sigla": "GTPROELE",
+      "cargo": "Titular",
+      "desde": "2026-11-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/160512/votacoes-nominais-plenario/2026"

@@ -4,9 +4,28 @@
   "partido": "PCdoB",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/81055.jpg",
-  "score": 17.7,
-  "rank": 190,
-  "proposicoes": [],
+  "score": 20.03,
+  "rank": 120,
+  "proposicoes": [
+    {
+      "id": 2652797,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui medidas de segurança e acessibilidade para o embarque e desembarque de passageiros idosos e pessoas com mobilidade reduzida em aeroportos brasileiros e dá outras providências.",
+      "data": "2026-11-11T12:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652797"
+    },
+    {
+      "id": 2652826,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Promoção da Arte Inclusiva, com ações de apoio, incentivo e visibilidade a artistas com deficiência e projetos culturais acessíveis.",
+      "data": "2026-11-11T13:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652826"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-11-10T14:36",

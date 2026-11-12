@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220645.jpg",
-  "score": 36.17,
-  "rank": 13,
+  "score": 38.5,
+  "rank": 9,
   "proposicoes": [
     {
       "id": 2652684,
@@ -15,6 +15,24 @@
       "ementa": "Requer a inclusão na ordem do dia do Recurso contra apreciação conclusiva de comissão nº 1/2026 ao Projeto de Lei nº 2.812, de 2022, que revoga a Lei nº 12.318, de 26 de agosto de 2010 - Lei de Alienação Parental.",
       "data": "2026-11-10T21:46",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652684"
+    },
+    {
+      "id": 2652993,
+      "tipo": "PL",
+      "numero": 5825,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.223, de 30 de setembro de 2025, para instituir o Programa Pronaf Mulher.",
+      "data": "2026-11-11T17:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652993"
+    },
+    {
+      "id": 2652995,
+      "tipo": "PL",
+      "numero": 5826,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990, para vedar a utilização de sistemas de inteligência artificial na publicidade, oferta, apresentação e divulgação comercial de produtos alimentícios em estabelecimentos comerciais e plataformas de delivery.",
+      "data": "2026-11-11T18:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652995"
     }
   ],
   "discursos": [],

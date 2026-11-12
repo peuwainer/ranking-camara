@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
-  "score": 17.7,
-  "rank": 188,
+  "score": 18.33,
+  "rank": 168,
   "proposicoes": [
     {
       "id": 2649499,
@@ -51,6 +51,12 @@
       "sigla": "CFT",
       "cargo": "Titular",
       "desde": "2026-03-18T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho destinado a discutir a regulamentação da Propaganda Eleitoral em Plataformas Digitais",
+      "sigla": "GTPROELE",
+      "cargo": "Titular",
+      "desde": "2026-11-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220548/votacoes-nominais-plenario/2026"

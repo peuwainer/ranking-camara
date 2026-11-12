@@ -4,9 +4,28 @@
   "partido": "MDB",
   "uf": "AC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/123756.jpg",
-  "score": 15.99,
-  "rank": 267,
-  "proposicoes": [],
+  "score": 18.33,
+  "rank": 167,
+  "proposicoes": [
+    {
+      "id": 2652877,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Nacional Prato Cheio, destinado à promoção da segurança alimentar e nutricional da população em situação de vulnerabilidade social e de estudantes universitários de instituições públicas e privadas, estabelece diretrizes para sua implementação e dá outras providências.",
+      "data": "2026-11-11T15:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652877"
+    },
+    {
+      "id": 2652883,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Antônia Lúcia (MDB-AC), pela aprovação, com substitutivo.",
+      "data": "2026-11-11T15:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652883"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

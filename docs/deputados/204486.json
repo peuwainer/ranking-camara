@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204486.jpg",
-  "score": 17.07,
-  "rank": 233,
-  "proposicoes": [],
+  "score": 18.24,
+  "rank": 174,
+  "proposicoes": [
+    {
+      "id": 2652890,
+      "tipo": "PLP",
+      "numero": 298,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para reduzir o crescimento real dos limites da despesa primária, altera a Lei Complementar nº 101, de 4 de maio de 2000, para ressalvar da limitação de empenho e pagamento apenas as despesas que constituam obrigações constitucionais do ente, que constituam obrigações legais do ente relativas ao pagamento de pessoal e ao pagamento do serviço da dívida, relativas à inovação e ao desenvolvimento científico e tecnológico custeadas por fundo criado para tal finalidade, e as ressalvadas pela lei de diretrizes orçamentárias, e altera a Lei Complementar nº 235, de 27 de agosto de 2026, para vedar a contabilização, para efeito de cálculo de obrigações de programação de despesa previstas em legislação específica, indexadas ao disposto no inciso IV do art. 2º da Lei Complementar nº 101, de 4 de maio de 2000, da receita de que trata o art. 46 da Lei nº 12.351, de 22 de dezembro de 2010, observadas as vinculações da referida lei.",
+      "data": "2026-11-11T15:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652890"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-11-10T18:00",

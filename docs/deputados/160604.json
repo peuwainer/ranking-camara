@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160604.jpg",
-  "score": 31.14,
-  "rank": 22,
+  "score": 32.85,
+  "rank": 20,
   "proposicoes": [
     {
       "id": 2647641,
@@ -69,6 +69,24 @@
       "ementa": "Altera o Decreto-Lei nº 1.305, de 8 de janeiro de 1974, e as Leis nºs 5.461, de 25 de junho de 1968, 5.989, de 17 de dezembro de 1973, 7.573, de 23 de dezembro de 1986, 8.706, de 14 de setembro de 1993, e 12.462, de 4 de agosto de 2011, além de dar outras providências, para dispor sobre a destinação das contribuições sociais compulsórias das empresas do setor de transporte aéreo e portuário, incluindo aquelas relativas à contratação do trabalhador portuário avulso (TPA).",
       "data": "2026-11-05T09:31",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651098"
+    },
+    {
+      "id": 2652894,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Emenda de Plenário ao PL 4.754/2024.",
+      "data": "2026-11-11T15:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652894"
+    },
+    {
+      "id": 2652896,
+      "tipo": "EMP",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Emenda de Plenário ao PL nº 2475/2025, que altera a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para tornar hediondo o crime de maus-tratos aos animais, quando do evento criminoso resultar a morte do animal.",
+      "data": "2026-11-11T15:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652896"
     }
   ],
   "discursos": [
@@ -158,12 +176,6 @@
     }
   ],
   "orgaos": [
-    {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei n. 2614, de 2024, do Poder Executivo, que \"aprova o Plano Nacional de Educação para o decênio 2024-2034\"",
-      "sigla": "PL261424",
-      "cargo": "1º Vice-Presidente",
-      "desde": "2025-04-29T00:00"
-    },
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",
       "sigla": "PL233823",

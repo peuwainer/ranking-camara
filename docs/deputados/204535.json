@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg",
-  "score": 26.71,
-  "rank": 40,
+  "score": 27.25,
+  "rank": 39,
   "proposicoes": [
     {
       "id": 2648340,
@@ -42,6 +42,15 @@
       "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para exigir declaração sobre a titularidade de passaporte estrangeiro por candidatos a cargos eletivos.",
       "data": "2026-11-04T20:21",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651092"
+    },
+    {
+      "id": 2652981,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Institui o Plano Nacional de Políticas Culturais para os Povos Indígenas.",
+      "data": "2026-11-11T17:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652981"
     }
   ],
   "discursos": [
@@ -67,12 +76,6 @@
       "desde": "2023-05-04T00:00"
     },
     {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei n. 2614, de 2024, do Poder Executivo, que \"aprova o Plano Nacional de Educação para o decênio 2024-2034\"",
-      "sigla": "PL261424",
-      "cargo": "Suplente",
-      "desde": "2025-05-06T00:00"
-    },
-    {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 14, de 2021, do Sr. Dr. Leonardo e outros, que \"altera o art. 198 da Constituição Federal para estabelecer o Sistema de Proteção Social e Valorização dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias, a aposentadoria especial e exclusiva, e fixar a responsabilidade do gestor local do SUS pela regularidade do vínculo empregatício desses profissionais\"",
       "sigla": "PEC01421",
       "cargo": "Titular",
@@ -91,15 +94,15 @@
       "desde": "2025-11-05T00:00"
     },
     {
-      "nome": "Comissão de Cultura",
-      "sigla": "CCULT",
-      "cargo": "Suplente",
-      "desde": "2026-02-04T00:00"
-    },
-    {
       "nome": "Comissão de Administração e Serviço Público",
       "sigla": "CASP",
       "cargo": "Titular",
+      "desde": "2026-02-04T00:00"
+    },
+    {
+      "nome": "Comissão de Cultura",
+      "sigla": "CCULT",
+      "cargo": "Suplente",
       "desde": "2026-02-04T00:00"
     },
     {
@@ -121,12 +124,6 @@
       "desde": "2026-03-03T00:00"
     },
     {
-      "nome": "Comissão de Educação",
-      "sigla": "CE",
-      "cargo": "Suplente",
-      "desde": "2026-03-10T00:00"
-    },
-    {
       "nome": "Comissão de Defesa dos Direitos da Mulher",
       "sigla": "CMULHER",
       "cargo": "Titular",
@@ -137,6 +134,12 @@
       "sigla": "CREDN",
       "cargo": "Suplente",
       "desde": "2026-08-17T00:00"
+    },
+    {
+      "nome": "Comissão de Educação",
+      "sigla": "CE",
+      "cargo": "Suplente",
+      "desde": "2026-11-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204535/votacoes-nominais-plenario/2026"

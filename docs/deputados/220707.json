@@ -4,9 +4,55 @@
   "partido": "PP",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220707.jpg",
-  "score": 13.58,
-  "rank": 378,
-  "proposicoes": [],
+  "score": 20.04,
+  "rank": 116,
+  "proposicoes": [
+    {
+      "id": 2652742,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui, no âmbito do Sistema Único de Assistência Social (SUAS), o Prontuário Social Único (PSU) e a Portabilidade do Acompanhamento Socioassistencial; estabelece normas gerais de interoperabilidade, governança e proteção de dados; e dá outras providências.",
+      "data": "2026-11-11T12:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652742"
+    },
+    {
+      "id": 2652745,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui diretrizes nacionais para a prevenção da sexualização precoce de crianças e adolescentes em ambientes educacionais, culturais, publicitários e institucionais, e dá outras providências.",
+      "data": "2026-11-11T12:04",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652745"
+    },
+    {
+      "id": 2652754,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre políticas públicas destinadas ao fortalecimento de vínculos familiares e à garantia da convivência familiar e comunitária.",
+      "data": "2026-11-11T12:14",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652754"
+    },
+    {
+      "id": 2652756,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a responsabilidade civil das pessoas físicas ou jurídicas que, por ação ou omissão, causem dano à criança ou ao adolescente, e dá outras providências.",
+      "data": "2026-11-11T12:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652756"
+    },
+    {
+      "id": 2652772,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, para assegurar o pagamento do salário-maternidade à segurada gestante na hipótese de extinção do contrato de trabalho em razão do falecimento do empregador pessoa física.",
+      "data": "2026-11-11T12:35",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652772"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
@@ -56,6 +102,12 @@
       "sigla": "CMULHER",
       "cargo": "Titular",
       "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho destinado a discutir a regulamentação da Propaganda Eleitoral em Plataformas Digitais",
+      "sigla": "GTPROELE",
+      "cargo": "Titular",
+      "desde": "2026-11-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220707/votacoes-nominais-plenario/2026"

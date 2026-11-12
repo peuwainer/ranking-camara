@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220641.jpg",
-  "score": 19.04,
-  "rank": 142,
+  "score": 19.66,
+  "rank": 127,
   "proposicoes": [
     {
       "id": 2651184,
@@ -66,6 +66,12 @@
       "sigla": "CICS",
       "cargo": "Titular",
       "desde": "2026-04-14T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho destinado a discutir a regulamentação da Propaganda Eleitoral em Plataformas Digitais",
+      "sigla": "GTPROELE",
+      "cargo": "Titular",
+      "desde": "2026-11-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220641/votacoes-nominais-plenario/2026"

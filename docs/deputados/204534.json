@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204534.jpg",
-  "score": 21.37,
-  "rank": 95,
+  "score": 22.54,
+  "rank": 76,
   "proposicoes": [
     {
       "id": 2649118,
@@ -33,6 +33,15 @@
       "ementa": "Institui a Política Nacional de Arborização Urbana, cria o Sistema Nacional de Informações sobre Arborização Urbana, e dá outras providências.",
       "data": "2026-11-05T16:41",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651231"
+    },
+    {
+      "id": 2652739,
+      "tipo": "PL",
+      "numero": 5820,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para vedar a propaganda eleitoral mediante bandeira de vento (wind banner).",
+      "data": "2026-11-11T11:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652739"
     }
   ],
   "discursos": [],
@@ -48,12 +57,6 @@
       "sigla": "CEDESNAT",
       "cargo": "Titular",
       "desde": "2024-02-07T00:00"
-    },
-    {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei n. 2614, de 2024, do Poder Executivo, que \"aprova o Plano Nacional de Educação para o decênio 2024-2034\"",
-      "sigla": "PL261424",
-      "cargo": "Presidente",
-      "desde": "2025-04-29T00:00"
     },
     {
       "nome": "Comissão Externa destinada a acompanhar e monitorar as obras do túnel submerso Santos-Guarujá, projeto de infraestrutura e mobilidade lançado pelo Governo Federal, que visa promover a ligação seca dos Municípios de Santos e Guarujá, no litoral do Estado de São Paulo, por meio de passagem submersa sob o canal do Porto de Santos.",
@@ -84,6 +87,12 @@
       "sigla": "CE",
       "cargo": "Titular",
       "desde": "2026-03-10T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho destinado a discutir a regulamentação da Propaganda Eleitoral em Plataformas Digitais",
+      "sigla": "GTPROELE",
+      "cargo": "Titular",
+      "desde": "2026-11-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204534/votacoes-nominais-plenario/2026"

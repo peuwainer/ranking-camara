@@ -4,8 +4,8 @@
   "partido": "PRD",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
-  "score": 7.96,
-  "rank": 481,
+  "score": 8.58,
+  "rank": 472,
   "proposicoes": [
     {
       "id": 2648645,
@@ -87,6 +87,12 @@
       "sigla": "PEC03215",
       "cargo": "Titular",
       "desde": "2026-08-11T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho destinado a discutir a regulamentação da Propaganda Eleitoral em Plataformas Digitais",
+      "sigla": "GTPROELE",
+      "cargo": "Titular",
+      "desde": "2026-11-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204494/votacoes-nominais-plenario/2026"

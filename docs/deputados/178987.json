@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178987.jpg",
-  "score": 10.54,
-  "rank": 442,
+  "score": 11.16,
+  "rank": 429,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -68,6 +68,12 @@
       "sigla": "PEC03215",
       "cargo": "Titular",
       "desde": "2026-08-13T00:00"
+    },
+    {
+      "nome": "Grupo de Trabalho destinado a discutir a regulamentação da Propaganda Eleitoral em Plataformas Digitais",
+      "sigla": "GTPROELE",
+      "cargo": "Titular",
+      "desde": "2026-11-11T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/178987/votacoes-nominais-plenario/2026"

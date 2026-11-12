@@ -4,9 +4,28 @@
   "partido": "UNIÃO",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220701.jpg",
-  "score": 16.62,
-  "rank": 241,
-  "proposicoes": [],
+  "score": 18.95,
+  "rank": 146,
+  "proposicoes": [
+    {
+      "id": 2653009,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para tornar hediondo o crime de maus-tratos aos animais, quando do evento criminoso resultar a morte do animal.",
+      "data": "2026-11-11T18:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653009"
+    },
+    {
+      "id": 2653157,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Institui tratamento tributário diferenciado para os profissionais de segurança pública dos Estados, do Distrito Federal e dos Municípios, mediante isenção do Imposto sobre a Renda da Pessoa Física incidente sobre os rendimentos de natureza militar, e dá outras providências.",
+      "data": "2026-11-11T11:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653157"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
