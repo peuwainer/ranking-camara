@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220658.jpg",
-  "score": 10.46,
-  "rank": 447,
+  "score": 10.99,
+  "rank": 437,
   "proposicoes": [
     {
       "id": 2650762,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651141"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-11T11:12",
+      "fase": "Homenagem",
+      "tipo": "HOMENAGEM",
+      "resumo": "O SR. LUIZ GASTÃO (Bloco/PSD - CE. Para discursar. Sem revisão do orador.) - Sr. Presidente, Deputado Joaquim Passarinho, também requerente desta sessão; Senador Esperidião Amin; Reverendíssimo Reitor",
+      "transcricao": "O SR. LUIZ GASTÃO (Bloco/PSD - CE. Para discursar. Sem revisão do orador.) - Sr. Presidente, Deputado Joaquim Passarinho, também requerente desta sessão; Senador Esperidião Amin; Reverendíssimo Reitor da Basílica Santuário Nossa Senhora de Nazaré, Padre Francisco Chagas Santos da Silva; Reverendíssimo Reitor do Santuário Nossa Senhora da Saúde e Vigário Episcopal da Arquidiocese de Brasília, Padre Rafael Santos; Sr. Diretor da Festa de Nazaré, Antônio Luís Ferro; Sr. Diretor e membro da Diretoria de Evangelização de Nazaré, João Paulo Mendes Neto; Sras. e Srs. Deputados; Senador Angelo Coronel; Deputada Soraya Santos; Deputado Jorge Goetten; Deputado Diego Garcia; senhoras e senhores, hoje é um dia de muita felicidade para estas Casas, tanto para o Senado quanto para a Câmara. Tivemos a oportunidade de terminar agora, na Câmara Federal, uma sessão solene em comemoração aos 350 anos da Arquidiocese de São Sebastião do Rio de Janeiro e aos 95 anos do Cristo Redentor. Anualmente, nós temos a grande graça de celebrar e homenagear, por meio de sessão solene, sempre liderada pelo nosso Líder Passarinho, Nossa Senhora de Nazaré, trazendo aqui um pouco do que é o Círio, do que é essa vivência do Círio, uma história que já está na sua 234ª edição e que, neste ano, reuniu mais de 2,3 milhões de fiéis. Mais do que reunir fiéis, mais do que ter todas essas ações, nós temos que ver que fazemos parte de um País que ainda é, na sua grande maioria, católico; ainda é um País que necessita ter liberdade de manifestação da fé, um País que nós precisamos pacificar  e precisamos fazer com que a pacificação se dê pela fé, e não pela polarização tão vista ultimamente dentro da política e dentro dos afazeres. Nós não teremos condição de fazer com que a nossa família, a nossa tradição católica, pautadas pelos valores cristãos e da dignidade humana, se reconstruam, busquem uma pacificação que não seja feita com a força de Nossa Senhora, que não seja pela condução do Espírito Santo e de Jesus Cristo. Nós precisamos entender isso, e a Frente Parlamentar Católica Apostólica Romana busca justamente não olhar para cor partidária, não olhar para ideologias partidárias, mas fazer com que nós possamos, de forma livre, manifestar a nossa fé, reconhecer a nossa fé, reconhecer a fé cristã e os valores cristãos que buscam sempre a dignidade humana, a valorização do ser humano e o equilíbrio entre o meio ambiente e as ações que nós temos que realizar. Receber Nossa Senhora de Nazaré todos os anos no Congresso, fazer com que, através dessas ações no Congresso Nacional, nós possamos manifestar a nossa fé e possamos reafirmar quem somos é extremamente importante para que possamos olhar para frente, pedir as bênçãos de Nossa Senhora e, principalmente, que Ela nos dê coragem para conseguirmos fazer com que o Brasil seja pacificado. Que Deus nos abençoe! Que Nossa Senhora de Nazaré nos conduza e passe sempre à nossa frente e à frente desta Nação! Muito obrigado a todos."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a verificar a situação dos municípios que perderam recursos financeiros do FPM, depois dos cálculos feitos pelo TCU, com base no Censo inacabado do IBGE",

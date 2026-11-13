@@ -4,18 +4,9 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 52.95,
-  "rank": 2,
+  "score": 42.49,
+  "rank": 7,
   "proposicoes": [
-    {
-      "id": 2647471,
-      "tipo": "PL",
-      "numero": 5547,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 15.127, de 28 de abril de 2025, para disciplinar a doação, a coleta, o processamento, a confecção e a dispensação de próteses capilares a pacientes em tratamento oncológico no âmbito do Sistema Único de Saúde (SUS).",
-      "data": "2026-10-13T15:52",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647471"
-    },
     {
       "id": 2647659,
       "tipo": "EMP",
@@ -125,78 +116,6 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651428"
     },
     {
-      "id": 2651592,
-      "tipo": "EMC",
-      "numero": 65,
-      "ano": 2026,
-      "ementa": "Proíbe a exploração, a oferta, a intermediação e a publicidade de loterias de apostas de quota fixa no território nacional, institui o Comitê Interinstitucional de Fiscalização da Exploração e da Publicidade Ilegal de Apostas de Quota Fixa, e altera a Lei nº 14.790, de 29 de dezembro de 2023.",
-      "data": "2026-10-13T00:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651592"
-    },
-    {
-      "id": 2651594,
-      "tipo": "EMC",
-      "numero": 66,
-      "ano": 2026,
-      "ementa": "Proíbe a exploração, a oferta, a intermediação e a publicidade de loterias de apostas de quota fixa no território nacional, institui o Comitê Interinstitucional de Fiscalização da Exploração e da Publicidade Ilegal de Apostas de Quota Fixa, e altera a Lei nº 14.790, de 29 de dezembro de 2023.",
-      "data": "2026-10-13T00:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651594"
-    },
-    {
-      "id": 2651595,
-      "tipo": "EMC",
-      "numero": 67,
-      "ano": 2026,
-      "ementa": "Proíbe a exploração, a oferta, a intermediação e a publicidade de loterias de apostas de quota fixa no território nacional, institui o Comitê Interinstitucional de Fiscalização da Exploração e da Publicidade Ilegal de Apostas de Quota Fixa, e altera a Lei nº 14.790, de 29 de dezembro de 2023.",
-      "data": "2026-10-13T00:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651595"
-    },
-    {
-      "id": 2651596,
-      "tipo": "EMC",
-      "numero": 72,
-      "ano": 2026,
-      "ementa": "Proíbe a exploração, a oferta, a intermediação e a publicidade de loterias de apostas de quota fixa no território nacional, institui o Comitê Interinstitucional de Fiscalização da Exploração e da Publicidade Ilegal de Apostas de Quota Fixa, e altera a Lei nº 14.790, de 29 de dezembro de 2023.",
-      "data": "2026-10-13T00:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651596"
-    },
-    {
-      "id": 2651597,
-      "tipo": "EMC",
-      "numero": 73,
-      "ano": 2026,
-      "ementa": "Proíbe a exploração, a oferta, a intermediação e a publicidade de loterias de apostas de quota fixa no território nacional, institui o Comitê Interinstitucional de Fiscalização da Exploração e da Publicidade Ilegal de Apostas de Quota Fixa, e altera a Lei nº 14.790, de 29 de dezembro de 2023.",
-      "data": "2026-10-13T00:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651597"
-    },
-    {
-      "id": 2651599,
-      "tipo": "EMC",
-      "numero": 69,
-      "ano": 2026,
-      "ementa": "Proíbe a exploração, a oferta, a intermediação e a publicidade de loterias de apostas de quota fixa no território nacional, institui o Comitê Interinstitucional de Fiscalização da Exploração e da Publicidade Ilegal de Apostas de Quota Fixa, e altera a Lei nº 14.790, de 29 de dezembro de 2023.",
-      "data": "2026-10-13T00:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651599"
-    },
-    {
-      "id": 2651600,
-      "tipo": "EMC",
-      "numero": 70,
-      "ano": 2026,
-      "ementa": "Proíbe a exploração, a oferta, a intermediação e a publicidade de loterias de apostas de quota fixa no território nacional, institui o Comitê Interinstitucional de Fiscalização da Exploração e da Publicidade Ilegal de Apostas de Quota Fixa, e altera a Lei nº 14.790, de 29 de dezembro de 2023.",
-      "data": "2026-10-13T00:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651600"
-    },
-    {
-      "id": 2651606,
-      "tipo": "EMC",
-      "numero": 79,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a autenticação, a identificação e o bloqueio de chamadas telefônicas e mensagens nas redes de telecomunicações e institui base de dados centralizada de recursos de numeração.",
-      "data": "2026-10-13T00:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651606"
-    },
-    {
       "id": 2651944,
       "tipo": "SBT",
       "numero": 2,
@@ -257,7 +176,7 @@
       "fase": "Ordem do Dia",
       "tipo": "PELA ORDEM",
       "resumo": "O SR. CAPITÃO ALDEN (PL - BA. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente e Srs. Deputados. Hoje é um dia histórico para todos os agentes da segurança pública do nosso imenso Brasil",
-      "transcricao": "O SR. CAPITÃO ALDEN (PL - BA. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente e Srs. Deputados. Hoje é um dia histórico para todos os agentes da segurança pública do nosso imenso Brasil. Hoje é dia de agradecer a todos que contribuíram para o avanço do PL 4.480, que aperfeiçoa o programa Habite Seguro. Eu quero explicar, de maneira bem rápida e concisa, por que essa proposta é tão importante. O policial protege a casa dos outros, mas muitas vezes não consegue financiar a sua própria Casa. São homens e mulheres que enfrentam criminosos, facções e organizações criminosas. Muitos trabalham sob ameaça, têm suas famílias intimidadas e, em situações extremas, são obrigados a abandonar suas próprias residências. Quando procuram um financiamento imobiliário, encontram barreiras que não consideram a realidade da profissão. O Habite Seguro foi criado durante o Governo do Presidente Jair Bolsonaro, e tive a oportunidade, na época, como Deputado Estadual, de contribuir para a construção dessa iniciativa junto ao então Ministro da Justiça e Segurança Pública André Mendonça. Precisamos reconhecer que, naquela época, o projeto já era importante e inédito, mas, de lá para cá, muito poucos policiais foram contemplados. Presidente, de 2021 a 2024, apenas 5 mil policiais foram contemplados com o financiamento do imóvel, o que é um alcance muito limitado diante das necessidades dos profissionais. E por que havia essa limitação? Porque não havia possibilidade de policiais com nome no SPC e Serasa fazerem financiamento, porque não podia policial com renda conjunta com sua esposa ou seu marido. Enfim, havia uma série de restrições e barreiras que impediam o acesso desse policial ao programa. Hoje, nós retiramos uma série de barreiras, o que vai garantir que muitos policiais em todo o Brasil possam ter acesso a financiamento de imóvel, para que ele possa viver e morar em um ambiente mais seguro e melhor. Obrigado, Sr. Presidente. Obrigado, Srs. Parlamentares."
+      "transcricao": "O SR. CAPITÃO ALDEN (PL - BA. Pela ordem. Sem revisão do orador.) - Obrigado, Sr. Presidente e Srs. Deputados. Hoje é um dia histórico para todos os agentes da segurança pública do nosso imenso Brasil. Hoje é dia de agradecer a todos que contribuíram para o avanço do PL 4.480/2025, que aperfeiçoa o Programa Habite Seguro. Eu quero explicar, de maneira bem rápida e concisa, por que essa proposta é tão importante. O policial protege a casa dos outros, mas muitas vezes não consegue financiar a sua própria casa. São homens e mulheres que enfrentam criminosos, facções e organizações criminosas. Muitos trabalham sob ameaça, têm sua família intimidada e, em situações extremas, são obrigados a abandonar a própria residência. Quando procuram um financiamento imobiliário, encontram barreiras que não consideram a realidade da profissão. O Programa Habite Seguro foi criado durante o Governo do Presidente Jair Bolsonaro. Tive a oportunidade, na época, como Deputado Estadual, de contribuir para a construção dessa iniciativa junto ao então Ministro da Justiça e Segurança Pública André Mendonça. Precisamos reconhecer que, naquela época, o projeto já era importante e inédito, mas, de lá para cá, muito poucos policiais foram contemplados. Presidente, de 2021 a 2024, apenas 5 mil policiais foram contemplados com o financiamento de imóvel, um alcance muito limitado, diante das necessidades dos profissionais. E por que havia essa limitação? Porque não havia possibilidade de policiais com o nome no SPC e na Serasa fazerem financiamento. O policial com renda conjunta com sua esposa ou seu marido não podia fazer financiamento. Enfim, havia uma série de restrições e barreiras que impediam o acesso desse policial ao programa. Hoje nós retiramos uma série de barreiras, o que vai garantir que muitos policiais em todo o Brasil tenham acesso a financiamento de imóvel, para que possam viver, para que possam morar em um ambiente mais seguro e melhor. Obrigado, Sr. Presidente. Obrigado, Srs. Parlamentares."
     },
     {
       "data": "2026-11-04T18:04",

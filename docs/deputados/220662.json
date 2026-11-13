@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220662.jpg",
-  "score": 11.08,
-  "rank": 433,
+  "score": 11.04,
+  "rank": 436,
   "proposicoes": [
     {
       "id": 2649648,
@@ -32,9 +32,9 @@
       "desde": "2025-08-13T00:00"
     },
     {
-      "nome": "Comissão de Ciência, Tecnologia e Inovação",
-      "sigla": "CCTI",
-      "cargo": "Suplente",
+      "nome": "Comissão de Comunicação",
+      "sigla": "CCOM",
+      "cargo": "Titular",
       "desde": "2026-02-03T00:00"
     },
     {
@@ -44,22 +44,10 @@
       "desde": "2026-02-03T00:00"
     },
     {
-      "nome": "Comissão de Comunicação",
-      "sigla": "CCOM",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 8085, de 2014, do Senado Federal, que \"altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para instituir a obrigatoriedade da prática de direção veicular em vias públicas para fins de formação de condutores\"",
       "sigla": "PL808514",
       "cargo": "Titular",
       "desde": "2026-02-27T00:00"
-    },
-    {
-      "nome": "Comissão de Indústria, Comércio e Serviços",
-      "sigla": "CICS",
-      "cargo": "Titular",
-      "desde": "2026-04-14T00:00"
     },
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei Complementar nº 108, de 2021, do Senado Federal, que \"altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), bem como para permitir que o MEI contrate até 2 (dois) empregados\"",
@@ -72,6 +60,18 @@
       "sigla": "CMO",
       "cargo": "Titular",
       "desde": "2026-06-15T00:00"
+    },
+    {
+      "nome": "Comissão de Ciência, Tecnologia e Inovação",
+      "sigla": "CCTI",
+      "cargo": "Titular",
+      "desde": "2026-11-12T00:00"
+    },
+    {
+      "nome": "Comissão de Indústria, Comércio e Serviços",
+      "sigla": "CICS",
+      "cargo": "Suplente",
+      "desde": "2026-11-12T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220662/votacoes-nominais-plenario/2026"

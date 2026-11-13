@@ -4,8 +4,8 @@
   "partido": "SOLIDARIEDADE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
-  "score": 26.46,
-  "rank": 41,
+  "score": 33.12,
+  "rank": 21,
   "proposicoes": [
     {
       "id": 2648633,
@@ -33,6 +33,60 @@
       "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual.",
       "data": "2026-11-10T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652261"
+    },
+    {
+      "id": 2653177,
+      "tipo": "PL",
+      "numero": 5835,
+      "ano": 2026,
+      "ementa": "Altera a Lei no 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), e a Lei no 10.257, de 10 de julho de 2001 (Estatuto da Cidade), para instituir o combate ao isolamento social e a promoção da conexão social como diretrizes do Sistema Único de Saúde e do desenvolvimento urbano, e dá outras providências.",
+      "data": "2026-11-12T11:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653177"
+    },
+    {
+      "id": 2653179,
+      "tipo": "PL",
+      "numero": 5836,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.142, de 3 de junho de 2025, para explicitar a vedação ao fracionamento do cálculo da reserva de vagas por especialidade, disciplina, unidade acadêmica, departamento, campus ou local de lotação no âmbito dos concursos públicos federais.",
+      "data": "2026-11-12T11:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653179"
+    },
+    {
+      "id": 2653184,
+      "tipo": "PL",
+      "numero": 5837,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.514, de 20 de novembro de 1997, para estabelecer prazos e obrigações nas operações de financiamento imobiliário, disciplinar a cobrança de encargos, o fornecimento do termo de quitação e a atuação de intervenientes quitantes, e tornar obrigatória a notificação do devedor nas operações de cessão de crédito imobiliário.",
+      "data": "2026-11-12T12:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653184"
+    },
+    {
+      "id": 2653185,
+      "tipo": "PL",
+      "numero": 5838,
+      "ano": 2026,
+      "ementa": "Institui o Sistema Nacional de Acompanhamento de Operações de Financiamento Imobiliário (SNAFI) e estabelece mecanismos de transparência, rastreabilidade e fiscalização das operações de financiamento imobiliário.",
+      "data": "2026-11-12T12:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653185"
+    },
+    {
+      "id": 2653188,
+      "tipo": "PL",
+      "numero": 5839,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.142, de 3 de junho de 2025, para explicitar a vedação ao fracionamento do cálculo da reserva de vagas por especialidade, disciplina, unidade acadêmica, departamento, campus ou local de lotação no âmbito dos concursos públicos federais",
+      "data": "2026-11-12T12:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653188"
+    },
+    {
+      "id": 2653274,
+      "tipo": "SBT",
+      "numero": 5,
+      "ano": 0,
+      "ementa": "Integra",
+      "data": "2026-11-12T14:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653274"
     }
   ],
   "discursos": [],

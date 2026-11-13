@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/214694.jpg",
-  "score": 18.95,
-  "rank": 147,
+  "score": 19.48,
+  "rank": 138,
   "proposicoes": [
     {
       "id": 2648300,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649215"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-11T11:32",
+      "fase": "Homenagem",
+      "tipo": "HOMENAGEM",
+      "resumo": "O SR. JORGE GOETTEN (Bloco/REPUBLICANOS - SC. Para discursar. Sem revisão do orador.) - Quero saudar, de forma muito especial, meu amigo Joaquim Passarinho. Quero, na pessoa do padre reitor, saudar to",
+      "transcricao": "O SR. JORGE GOETTEN (Bloco/REPUBLICANOS - SC. Para discursar. Sem revisão do orador.) - Quero saudar, de forma muito especial, meu amigo Joaquim Passarinho. Quero, na pessoa do padre reitor, saudar todas as pessoas que estão compondo a Mesa. Quero, na pessoa da Irmã Teresinha  eu a vi aqui , lá da nossa Santa Catarina, saudar todos os religiosos que estão aqui no nosso plenário. Eu queria fazer dois agradecimentos ao Estado do Pará, Deputado Passarinho. Quero agradecer ao povo do Pará por emprestar o seu filho Joaquim Passarinho, que serve ao Congresso Nacional tão bem e nos lidera, que faz tudo o que tem feito pelo Brasil. Meus parabéns, povo do Pará, por ter reconduzido essa grande liderança, para que continue servindo ao nosso País. Meu muito obrigado, Pará. Muito obrigado à Frente Parlamentar Católica, à Reitoria da Basílica Santuário de Nossa Senhora, a todos os coordenadores, ao nosso líder Joaquim Passarinho e à sua família, por nos dar esta oportunidade de estar tão próximos fisicamente da imagem de Nossa Senhora de Nazaré. Que os ensinamentos de Nossa Senhora de Nazaré, de amor, de paz, de esperança, estejam presentes todos os dias aqui no Congresso Nacional e também em todos nós que estamos tendo esta oportunidade. Muito obrigado. Manifesto a minha gratidão."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Turismo",

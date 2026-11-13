@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220701.jpg",
-  "score": 18.95,
-  "rank": 146,
+  "score": 20.01,
+  "rank": 120,
   "proposicoes": [
     {
       "id": 2653009,
@@ -24,6 +24,15 @@
       "ementa": "Institui tratamento tributário diferenciado para os profissionais de segurança pública dos Estados, do Distrito Federal e dos Municípios, mediante isenção do Imposto sobre a Renda da Pessoa Física incidente sobre os rendimentos de natureza militar, e dá outras providências.",
       "data": "2026-11-11T11:34",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653157"
+    },
+    {
+      "id": 2653189,
+      "tipo": "EMC",
+      "numero": 2,
+      "ano": 2026,
+      "ementa": "Institui tratamento tributário diferenciado para os profissionais de segurança pública dos Estados, do Distrito Federal e dos Municípios, mediante isenção do Imposto sobre a Renda da Pessoa Física incidente sobre os rendimentos de natureza militar, e dá outras providências.",
+      "data": "2026-11-11T12:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653189"
     }
   ],
   "discursos": [],

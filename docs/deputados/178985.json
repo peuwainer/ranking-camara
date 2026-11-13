@@ -4,10 +4,18 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178985.jpg",
-  "score": 15.99,
-  "rank": 278,
+  "score": 16.6,
+  "rank": 257,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-11T11:00",
+      "fase": "Homenagem",
+      "tipo": "HOMENAGEM",
+      "resumo": "O SR. MIGUEL LOMBARDI (PL - SP. Para discursar. Sem revisão do orador.) - Bom dia. Em primeiro lugar, eu quero agradecer a Deus e à Nossa Senhora de Nazaré esta oportunidade e bênção de poder receber ",
+      "transcricao": "O SR. MIGUEL LOMBARDI (PL - SP. Para discursar. Sem revisão do orador.) - Bom dia. Em primeiro lugar, eu quero agradecer a Deus e à Nossa Senhora de Nazaré esta oportunidade e bênção de poder receber esta imagem, que protege os pobres, imagem que traz fé, que faz milagres no Círio de Nazaré. Sr. Presidente, meu amigo e irmão Deputado Joaquim Passarinho, e Nádia, sua esposa, nos quais eu cumprimento toda a Mesa, bem como o Reitor Sacerdote Silva e o Padre Rafael, que está sempre nas missas e no grupo de oração. Senhores e senhoras, eu sou vicentino. Nossa Senhora de Nazaré foi encontrada na casa de uma família simples, sempre protegendo os pobres, os milagres do Círio de Nazaré. Eu sou do Estado de São Paulo, de onde muitas pessoas movidas pela fé e pela devoção, é assim no Brasil todo, se deslocam para o Pará, um Estado acolhedor, que eu aprendi a amar. Eu sempre fui muito bem recebido lá. O paraense é um povo simples, um povo de muita fé, que se prepara o ano todo, como disse o Deputado que nos deu a honra de estar aqui nesta sessão solene, assinada também por nosso querido Senador Esperidião Amin. Deputado Joaquim Passarinho, eu profetizei as palavras do Senador Esperidião Amin. Esta imagem representa muito para nós. Esta imagem traz paz para o Congresso Nacional. Esta imagem traz justiça. Nós podemos ter debates, mas nunca ofensas. Ela vem aqui com o esforço de toda a comitiva, capitaneada pelo senhor e pela sua esposa, para trazer mais fé, mais esperança, porque nós no Congresso Nacional procuramos melhorar a qualidade de vida das pessoas, principalmente a dos mais pobres. Então, esta imagem representa a paz, esta imagem representa o amor ao próximo. Muito obrigado por todo esse esforço, meu amigo e irmão Deputado Joaquim Passarinho, sua esposa e toda a comitiva. Isso faz muita diferença para o Congresso Nacional, para os católicos apostólicos romanos e para os nossos irmãos evangélicos. Ela traz a sabedoria e traz também a paz de espírito. Que o Espírito Santo aja aqui no Congresso Nacional nesta manhã! Que Deus abençoe a todos! Mais uma vez manifesto minha gratidão ao meu amigo e irmão Deputado Joaquim Passarinho. Deus abençoe a todos!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Saúde",

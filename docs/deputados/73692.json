@@ -4,9 +4,28 @@
   "partido": "PL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73692.jpg",
-  "score": 12.96,
-  "rank": 392,
-  "proposicoes": [],
+  "score": 15.21,
+  "rank": 328,
+  "proposicoes": [
+    {
+      "id": 2653250,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Estabelece normas para o atendimento e a segurança de pessoas portadoras de dispositivos médicos implantáveis metálicos em locais com detectores de metais e dá outras providências.",
+      "data": "2026-11-12T14:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653250"
+    },
+    {
+      "id": 2653292,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre agendamento de horário para o apenado ser atendido na rede pública ou privada de saúde.",
+      "data": "2026-11-12T15:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653292"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

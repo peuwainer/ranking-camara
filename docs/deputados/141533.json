@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141533.jpg",
-  "score": 18.55,
-  "rank": 159,
+  "score": 18.84,
+  "rank": 161,
   "proposicoes": [
     {
       "id": 2649648,
@@ -50,12 +50,6 @@
       "desde": "2025-08-06T00:00"
     },
     {
-      "nome": "Comissão de Ciência, Tecnologia e Inovação",
-      "sigla": "CCTI",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Defesa dos Direitos das Pessoas com Deficiência",
       "sigla": "CPD",
       "cargo": "Presidente",
@@ -66,6 +60,12 @@
       "sigla": "CPOVOS",
       "cargo": "Suplente",
       "desde": "2026-05-12T00:00"
+    },
+    {
+      "nome": "Comissão de Ciência, Tecnologia e Inovação",
+      "sigla": "CCTI",
+      "cargo": "Suplente",
+      "desde": "2026-11-12T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/141533/votacoes-nominais-plenario/2026"
