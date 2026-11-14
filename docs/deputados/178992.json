@@ -4,9 +4,19 @@
   "partido": "PSD",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178992.jpg",
-  "score": 15.99,
-  "rank": 282,
-  "proposicoes": [],
+  "score": 4.25,
+  "rank": 288,
+  "proposicoes": [
+    {
+      "id": 2653825,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Cria o Comitê de Triagem e Cooperação para Investimentos Estrangeiros Diretos no Brasil – CTIE e dá outras providências.",
+      "data": "2026-11-13T14:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653825"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

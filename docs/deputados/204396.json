@@ -4,10 +4,18 @@
   "partido": "PL",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204396.jpg",
-  "score": 8.04,
-  "rank": 479,
+  "score": 4.4,
+  "rank": 277,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-11T15:56",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. VERMELHO (PL - PR. Pela ordem. Sem revisão do orador.) - Mitidieri é uma referência para todos nós, nosso Governador. Fomos parceiros de PSD, Deputados juntos. Saiu de Brasília para governar um ",
+      "transcricao": "O SR. VERMELHO (PL - PR. Pela ordem. Sem revisão do orador.) - Mitidieri é uma referência para todos nós, nosso Governador. Fomos parceiros de PSD, Deputados juntos. Saiu de Brasília para governar um Estado maravilhoso. Parabéns pela sua reeleição, e ainda no primeiro turno, diga-se de passagem! Ele é um Governador taura. Sabe o que é taura, Presidente, e pode buscar no Google? É um gaúcho valente, destemido, perito em qualquer assunto, ou seja, acima da média. E o nosso Governador Mitidieri é acima da média. Parabéns, irmão! Deus te abençoe. Eu quero aproveitar este momento  e lhe agradeço a oportunidade, meu caro Presidente Charles, que preside esta Casa por muito tempo e por diversas vezes; já é bem catedrático nisso  para agradecer a alguns Vereadores da minha cidade natal. Papai é gaúcho, mamãe é gaúcha, mas eu nasci em Francisco Beltrão, na comunidade do Jacaré. Cumprimento este parente presente aqui, que também nasceu na comunidade do Jacaré, o Vereador Junior Nesi, assim como saúdo o Vereador Misturini, a Vereadora Maria de Fátima Niclotte e o Maicon. Eu os parabenizo. Eles estão trabalhando aqui para levar novos conhecimentos à Câmara Municipal de Francisco Beltrão e a nossa gente toda. Muito obrigado, meu querido Guanambi, porque assim eu o chamo. Conte sempre comigo. Parabéns! Viva Francisco Beltrão e viva o Paraná! Forte abraço a todos."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Representação Brasileira no Parlamento do Mercosul",

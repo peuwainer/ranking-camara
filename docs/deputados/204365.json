@@ -4,18 +4,9 @@
   "partido": "NOVO",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204365.jpg",
-  "score": 28.66,
-  "rank": 33,
+  "score": 15.3,
+  "rank": 48,
   "proposicoes": [
-    {
-      "id": 2647659,
-      "tipo": "EMP",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei Complementar nº 123, de 14 de dezembro de 2006, para atualizar os limites de enquadramento das microempresas e empresas de pequeno porte e recompor monetariamente as faixas de tributação do Simples Nacional.",
-      "data": "2026-10-14T17:22",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647659"
-    },
     {
       "id": 2650440,
       "tipo": "SBT",
@@ -89,7 +80,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652611"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-11T19:00",
+      "fase": "Ordem do Dia",
+      "tipo": "REPRESENTANTE DO PARTIDO",
+      "resumo": "O SR. GILSON MARQUES (NOVO - SC. Como Representante. Sem revisão do orador.) - Obrigado, Presidente. Esta semana é especial e esquisita. Acho que todos os Parlamentares têm recebido um número enorme, ",
+      "transcricao": "O SR. GILSON MARQUES (NOVO - SC. Como Representante. Sem revisão do orador.) - Obrigado, Presidente. Esta semana é especial e esquisita. Acho que todos os Parlamentares têm recebido um número enorme, exorbitante, de Vereadores e Prefeitos. Temos algum evento por aí. Inclusive, estão aqui em plenário o Vereador Jardel, de São João Batista; a Vereadora Jaque, de Dona Emma, não medindo esforços para resolver o problema da sua cidade, atrás de recursos, o que é um absurdo. Eu sempre fui contra emendas parlamentares, que cada vez crescem mais. Em 2006, elas correspondiam a 2% do Orçamento. Em 2026, em torno de 16% do orçamento discricionário. Os Parlamentares e o Congresso querem cada vez uma fatia maior para mandar recurso para suas bases, que estão cada vez mais dependentes. E aí Vereadores e Prefeitos precisam vir a Brasília, pagar passagem aérea, frigobar, hotel, botar gravata e passar na porta giratória para pedir uma migalha de um recurso que jamais deveria ter saído da cidade. Como um Deputado de Santa Catarina, por exemplo, sabe qual é a escola, o colégio que precisa mais de merenda ou o hospital que não tem aparelho de endoscopia ou que precisa comprar uma maca porque está no cavalete? É impossível! Quem sabe isso é o Vereador, é o Prefeito. E como o político faz para ter mais emenda? É simples: cobra mais tributo. E está pronto o círculo vicioso, porque o Município cada vez fica com menos recursos, o Deputado com mais recursos, uma população dependente, e o Governo faz o quê? Cada vez cobra mais, empobrecendo e empobrecendo quem mais trabalha, quem sua. E vêm as ideias mirabolantes. Eu escuto: \"Tarifa zero no transporte público\". Como é bonito! \"Todo mundo vai receber passagem grátis\". Eu fico pensando: o motorista é de graça? O ônibus é de graça? A grande verdade é que quem vai a pé, quem anda de bicicleta até o trabalho às 5 horas da manhã para se esforçar vai ter que pagar o imposto e a passagem de quem está andando de ônibus. E vêm várias falcatruas e artimanhas para que isso aconteça. Agora, recentemente, houve o imposto do pecado: de 6% a 30% sobre carro. Eu queria saber qual é o pecado, Deputado Sargento Fahur, no sonho do brasileiro de ter um carro. Além dos impostos que já existem, são mais 6% a 30% de imposto sobre novos veículos. É uma pena que essa população, metade dela, que acredita que vai receber picanha por correio, agora ache que vai receber Mounjaro. É inacreditável! A estimativa de arrecadação do imposto do pecado é de mais de 40 bilhões de reais. E esses 40 bilhões de reais saem de onde? De um imposto que ainda não existe, entre todos os outros 37 que já foram criados  mais um que se soma a muitos outros. Para quê? Para bancar poder de políticos. E o pior é que essa campanha eleitoral, dizendo que vai entregar tudo para todos, está acontecendo aqui no Congresso Nacional. Lá no Senado da República, o Senador Alcolumbre vai dar assistência médica ilimitada para filhos de ex-Senadores até sabe que idade, Deputado Luiz Lima? Até 33 anos. O filhão de ex-Senador, de 32 anos, vai receber auxílio médico, sendo que o que o brasileiro quer e deseja é reduzir a maioridade penal para 16 anos. Mas os filhos dos Senadores, até os 33 anos, vão ter auxílio médico. Só isso? Não, não é só isso, não. Vão ganhar telefone celular. Mas não é qualquer telefone celular, não é um celular funcional: são 6 milhões de reais em celulares para todo mundo. É o \"Meu Celular, Minha Vida\", é iPhone 18 Pro Max  não é o 17, não é o normal, é o 18 Pro Max, lançado em setembro. O SR. PRESIDENTE (Charles Fernandes. Bloco/PSD - BA) - Peço que conclua, Deputado. O SR. GILSON MARQUES (NOVO - SC) - Para não ficar para trás, já ouvi na imprensa que, coincidentemente, em época eleitoral, há uma ideia que tramita na rádio corredor para que haja tablets na Câmara de Vereadores. Já estou ouvindo a reclamação e perguntando se vai ser da Apple também. Obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "TESTE PARA GERAÇÃO DO ESPELHO DA COMISSÃO (COMISSÃO FICTÍCIA)",

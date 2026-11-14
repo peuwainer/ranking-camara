@@ -4,18 +4,9 @@
   "partido": "PCdoB",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74060.jpg",
-  "score": 23.48,
-  "rank": 68,
+  "score": 15.2,
+  "rank": 50,
   "proposicoes": [
-    {
-      "id": 2647723,
-      "tipo": "EMP",
-      "numero": 26,
-      "ano": 0,
-      "ementa": "Dispõe sobre os regimes de resolução das instituições autorizadas a funcionar pelo Banco Central do Brasil, pela Superintendência de Seguros Privados e pela Comissão de Valores Mobiliários.",
-      "data": "2026-10-14T19:25",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647723"
-    },
     {
       "id": 2650800,
       "tipo": "SBT",
@@ -51,6 +42,51 @@
       "ementa": "Institui a obrigatoriedade de registro de CPF por aposta, pagamento automático via PIX, registro público em blockchain (timechain), e veda valor mínimo de aposta em plataformas eletrônicas, visando transparência, segurança e proteção do consumidor.",
       "data": "2026-11-12T18:29",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653534"
+    },
+    {
+      "id": 2653931,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.977, de 7 de julho de 2009, para dispor sobre a suspensão da cobrança de parcelas do Programa Minha Casa, Minha Vida em caso de desemprego do beneficiário e para criar banco de dados dos beneficiários do programa que estejam desempregados para terem preferência em contratações em empresas terceirizadas com contratos com a administração pública.",
+      "data": "2026-11-13T16:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653931"
+    },
+    {
+      "id": 2653944,
+      "tipo": "PL",
+      "numero": 5852,
+      "ano": 2026,
+      "ementa": "Institui o Imposto sobre Grandes  Fortunas, previsto no art. 153, inciso VII, da Constituição Federal.",
+      "data": "2026-11-13T18:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653944"
+    },
+    {
+      "id": 2653945,
+      "tipo": "PL",
+      "numero": 5853,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a incidência do Imposto de Renda Retido na Fonte sobre os rendimentos de títulos e valores mobiliários.",
+      "data": "2026-11-13T18:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653945"
+    },
+    {
+      "id": 2653946,
+      "tipo": "PL",
+      "numero": 5854,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a incidência do Imposto sobre a Renda das Pessoas Físicas sobre lucros e dividendos distribuídos por pessoas jurídicas, altera as Leis nº 9.249, de 26 de dezembro de 1995, e nº 9.250, de 26 de dezembro de 1995, e dá outras providências.",
+      "data": "2026-11-13T18:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653946"
+    },
+    {
+      "id": 2653947,
+      "tipo": "PL",
+      "numero": 5855,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.249, de 26 de dezembro de 1995, para elevar a alíquota do Imposto de Renda Retido na Fonte incidente sobre os juros sobre o capital próprio.",
+      "data": "2026-11-13T18:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653947"
     }
   ],
   "discursos": [

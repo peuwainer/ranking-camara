@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "AC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220590.jpg",
-  "score": 18.37,
-  "rank": 168,
+  "score": 6.15,
+  "rank": 226,
   "proposicoes": [
     {
       "id": 2648338,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648338"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-11T17:56",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. CORONEL ULYSSES (Bloco/UNIÃO - AC. Sem revisão do orador.) - Sr. Presidente, eu venho trazer à tona para toda a sociedade a informação de que as condições em que nosso País se encontra hoje não ",
+      "transcricao": "O SR. CORONEL ULYSSES (Bloco/UNIÃO - AC. Sem revisão do orador.) - Sr. Presidente, eu venho trazer à tona para toda a sociedade a informação de que as condições em que nosso País se encontra hoje não são condições normais. Vejam bem: nós temos aqui uma nota de repúdio da Associação Nacional dos Delegados de Polícia Federal  ADPF que tem a ver com o afastamento dos delegados que estavam lotados na Coordenação-Geral de Repressão à Corrupção, Crimes Financeiros e Lavagem de Dinheiro. Eles estavam responsáveis pela investigação do caso do Banco Master e, repente, esses dois delegados são afastados, a própria associação faz uma nota de repúdio e o Diretor da Polícia Federal desfilia-se dela como represália. A gente vê em nosso País uma situação que não é normal. Mandaram os substitutos desses delegados refazerem provas. Isso é um absurdo e configura interferência na Polícia Federal, interferência numa investigação que envolve a maior fraude financeira do mundo  nenhum país teve uma fraude financeira como essa. A gente olha para o Paraguai, aqui ao lado, onde houve uma fraude financeira em um banco, e vê que em 3 dias estava todo mundo preso e o Presidente renunciou ao cargo, porque também tinha conexões com aquele banco. Aqui, nós já vamos para 1 ano, e nada aconteceu. E o pior de tudo: nós temos uma situação muito grave envolvendo Ministros do STF, na qual a esposa recebeu, através do escritório de advocacia, dinheiro ligado ao Banco Master. Ainda assim, ninguém foi preso, e o dinheiro de quem foi lesado não foi devolvido. Portanto, não estamos em uma situação normal. Nós precisamos ter caráter e coragem para enfrentar esse sistema! Nós, desta Casa, temos a responsabilidade de não permitir que isso aconteça. Hoje, temos no Senado a esperança de poder mudar essa situação. Para pegar um Ministro do STF, tem que ser no Senado. Se fosse aqui, já teríamos dado um jeito  eu, pelo menos, votaria a favor do impeachment de um Ministro desses. Agora, o Senado precisará de coragem para realmente dar uma resposta à sociedade diante dessa situação, porque esses Ministros não estão fazendo o seu papel, não estão promovendo justiça para o nosso País. Muito obrigado, Sr. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

@@ -4,27 +4,9 @@
   "partido": "PSB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160548.jpg",
-  "score": 21.02,
-  "rank": 96,
+  "score": 8.15,
+  "rank": 158,
   "proposicoes": [
-    {
-      "id": 2647641,
-      "tipo": "EMP",
-      "numero": 1,
-      "ano": 0,
-      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para determinar a aceitação, pelas unidades do Sistema Único de Saúde (SUS), de exames realizados em serviços privados",
-      "data": "2026-10-14T15:20",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647641"
-    },
-    {
-      "id": 2647671,
-      "tipo": "EMP",
-      "numero": 2,
-      "ano": 0,
-      "ementa": "Emenda supressiva - PL 5902-2023 - Uso de Drones no Espaço Aéreo de Presídios",
-      "data": "2026-10-14T17:28",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2647671"
-    },
     {
       "id": 2649648,
       "tipo": "PLP",
@@ -51,6 +33,24 @@
       "ementa": "Altera a Lei nº 13.185, de 6 de novembro de 2015, para estabelecer procedimentos obrigatórios de prevenção e enfrentamento à intimidação sistemática (bullying) nos estabelecimentos de ensino, assegurar atendimento às vítimas e prever medidas de responsabilização das instituições e dos agressores.",
       "data": "2026-11-10T18:59",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652518"
+    },
+    {
+      "id": 2653729,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.503, de 1997, Código de Trânsito Brasileiro, para dispor sobre requisitos para a instalação de aparelhos eletrônicos de fiscalização de velocidade",
+      "data": "2026-11-13T12:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653729"
+    },
+    {
+      "id": 2653733,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui protocolo de ações para funcionários de empresas de transporte aéreo, marítimo e terrestre, em casos de violência contra a mulher dentro dos meios de transportes de que são responsáveis.",
+      "data": "2026-11-13T12:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653733"
     }
   ],
   "discursos": [],

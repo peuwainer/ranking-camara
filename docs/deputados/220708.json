@@ -4,10 +4,18 @@
   "partido": "PSD",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220708.jpg",
-  "score": 17.24,
-  "rank": 221,
+  "score": 5.02,
+  "rank": 250,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-11T18:08",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. GABRIEL NUNES (Bloco/PSD - BA. Pela ordem. Sem revisão do orador.) - Nobre Presidente Charles Fernandes, agradeço a oportunidade. Venho a esta tribuna para saudar um grande companheiro, um grand",
+      "transcricao": "O SR. GABRIEL NUNES (Bloco/PSD - BA. Pela ordem. Sem revisão do orador.) - Nobre Presidente Charles Fernandes, agradeço a oportunidade. Venho a esta tribuna para saudar um grande companheiro, um grande irmão, o nosso Prefeito Ricardo Lopes, do Município de Queimadas, que vem fazendo um brilhante trabalho, estruturando o Município, trazendo obras, investimentos, ações. Ele veio aqui em busca de soluções para o Município de Queimadas, que foi assolado por fortes chuvas e cheias, as quais causaram impactos significativos no Município. Já tivemos uma importante audiência na Defesa Civil, sensibilizando o Governo, que, sem sombra de dúvida, vai buscar soluções para o Município. Tivemos audiência também na Codevasf em busca de recursos para continuar a desenvolver cada vez mais essa cidade tão especial. É uma honra muito grande estar aqui ao lado deste grande companheiro do nosso PSD, o Prefeito Ricardo Lopes, do Município de Queimadas. Muito obrigado, Sr. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a verificar a situação dos municípios que perderam recursos financeiros do FPM, depois dos cálculos feitos pelo TCU, com base no Censo inacabado do IBGE",

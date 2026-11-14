@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220645.jpg",
-  "score": 38.39,
-  "rank": 9,
+  "score": 43.55,
+  "rank": 4,
   "proposicoes": [
     {
       "id": 2652684,
@@ -33,9 +33,53 @@
       "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990, para vedar a utilização de sistemas de inteligência artificial na publicidade, oferta, apresentação e divulgação comercial de produtos alimentícios em estabelecimentos comerciais e plataformas de delivery.",
       "data": "2026-11-11T18:06",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652995"
+    },
+    {
+      "id": 2653944,
+      "tipo": "PL",
+      "numero": 5852,
+      "ano": 2026,
+      "ementa": "Institui o Imposto sobre Grandes  Fortunas, previsto no art. 153, inciso VII, da Constituição Federal.",
+      "data": "2026-11-13T18:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653944"
+    },
+    {
+      "id": 2653945,
+      "tipo": "PL",
+      "numero": 5853,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a incidência do Imposto de Renda Retido na Fonte sobre os rendimentos de títulos e valores mobiliários.",
+      "data": "2026-11-13T18:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653945"
+    },
+    {
+      "id": 2653946,
+      "tipo": "PL",
+      "numero": 5854,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a incidência do Imposto sobre a Renda das Pessoas Físicas sobre lucros e dividendos distribuídos por pessoas jurídicas, altera as Leis nº 9.249, de 26 de dezembro de 1995, e nº 9.250, de 26 de dezembro de 1995, e dá outras providências.",
+      "data": "2026-11-13T18:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653946"
+    },
+    {
+      "id": 2653947,
+      "tipo": "PL",
+      "numero": 5855,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.249, de 26 de dezembro de 1995, para elevar a alíquota do Imposto de Renda Retido na Fonte incidente sobre os juros sobre o capital próprio.",
+      "data": "2026-11-13T18:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653947"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-11T19:52",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. ERIKA HILTON (Bloco/PSOL - SP. Pela ordem. Sem revisão da oradora.) - Presidente, quero também cumprimentar e saudar este importante projeto de defesa dos nossos animais. Nós temos visto, inclu",
+      "transcricao": "A SRA. ERIKA HILTON (Bloco/PSOL - SP. Pela ordem. Sem revisão da oradora.) - Presidente, quero também cumprimentar e saudar este importante projeto de defesa dos nossos animais. Nós temos visto, inclusive em plataformas de jogos, como o Discord, por exemplo, lives sendo usadas para transmitir tortura praticada contra animais, algo que choca a sociedade como um todo. A violência contra os animais tem crescido de maneira avassaladora, e nós precisamos que esta Casa assuma esse compromisso e responsabilize as plataformas que transmitam esse tipo de violência e de tortura contra os animais. Então, quero saudar o autor do projeto e o Relator. Essa matéria é muito importante. Também quero reconhecer o trabalho da minha companheira, Deputada Professora Luciene Cavalcante, que atuou fortemente nessa pauta no último período, denunciando a perversidade praticada contra os pintinhos, que são triturados vivos. Não é possível que nós não tenhamos outra relação, inclusive, com os animais que são criados para consumo. É preciso respeitar a vida animal, a vida dos rios, a vida da floresta. É preciso respeitar os seres vivos. E este é um avanço importante. Portanto, Presidente, cumprimento o autor e o Relator do projeto."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

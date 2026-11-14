@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220667.jpg",
-  "score": 19.0,
-  "rank": 152,
+  "score": 6.77,
+  "rank": 197,
   "proposicoes": [
     {
       "id": 2649648,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649648"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-11T14:44",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. PEDRO CAMPOS (PSB - PE. Pela ordem. Sem revisão do orador.) - Uso a palavra por 1 minuto para agradecer ao povo de São José do Belmonte. O Prefeito Vinícius Marques Alves está aqui presente. Eu ",
+      "transcricao": "O SR. PEDRO CAMPOS (PSB - PE. Pela ordem. Sem revisão do orador.) - Uso a palavra por 1 minuto para agradecer ao povo de São José do Belmonte. O Prefeito Vinícius Marques Alves está aqui presente. Eu tive a alegria de ter uma votação histórica em São José do Belmonte, batendo um recorde, com 9.830 votos do povo belmontense, graças ao trabalho que foi feito em parceria com o Prefeito Vinícius Marques e o nosso mandato, levando recursos e ações importantes. Agradeço também ao Presidente Lula. Só lá em São José do Belmonte, já há duas UBS novas prontas graças ao PAC do Presidente Lula, com muitas ações importantes chegando para levar dignidade para o povo de São José do Belmonte. Muito obrigado, São José do Belmonte! Muito obrigado, Prefeito Vinícius Marques!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 733, de 2025, do Sr. Leur Lomanto Júnior, que \"dispõe sobre o Sistema Portuário Brasileiro, regula a exploração dos portos, as atividades de operação portuária, o trabalho portuário e dá outras providências\"",

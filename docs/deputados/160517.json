@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160517.jpg",
-  "score": 18.25,
-  "rank": 178,
+  "score": 7.64,
+  "rank": 171,
   "proposicoes": [
     {
       "id": 2648405,
@@ -24,6 +24,24 @@
       "ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990 (Lei de Inelegibilidades), para incluir, entre as causas de inelegibilidade decorrentes de condenação criminal, a lesão corporal praticada contra a mulher por razões da condição do sexo feminino.",
       "data": "2026-10-30T10:01",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649648"
+    },
+    {
+      "id": 2653819,
+      "tipo": "PL",
+      "numero": 5849,
+      "ano": 2026,
+      "ementa": "Altera a Lei n° 6.392, de 7 de julho de 1981, para incentivar a contratação de seguros contra acidentes pessoais e de responsabilidade civil, pela instituição de saúde formadora, em benefício de seus médicos residentes, bem como reajustes periódicos da bolsa concedida a esses profissionais, observadas a recomposição e a preservação de seu poder aquisitivo, segundo índices elaborados pelos órgãos técnicos competentes.",
+      "data": "2026-11-13T12:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653819"
+    },
+    {
+      "id": 2653820,
+      "tipo": "PL",
+      "numero": 5850,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a criação de Rota Turística Imperial São Pedro de Alcântara, nos Estados do Espírito Santo e de Minas Gerais , e dá outras providências.",
+      "data": "2026-11-13T12:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653820"
     }
   ],
   "discursos": [],

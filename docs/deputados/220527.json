@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220527.jpg",
-  "score": 21.42,
-  "rank": 93,
+  "score": 13.23,
+  "rank": 67,
   "proposicoes": [
     {
       "id": 2649499,
@@ -15,9 +15,52 @@
       "ementa": "Acrescenta o art. 203-A ao Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar a discriminação por voto ou convicção política no trabalho e na atividade econômica, e altera o art. 1º da Lei nº 9.029, de 13 de abril de 1995, para incluir o voto e a convicção política entre os motivos de discriminação vedados nas relações de trabalho.",
       "data": "2026-10-29T09:52",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649499"
+    },
+    {
+      "id": 2653944,
+      "tipo": "PL",
+      "numero": 5852,
+      "ano": 2026,
+      "ementa": "Institui o Imposto sobre Grandes  Fortunas, previsto no art. 153, inciso VII, da Constituição Federal.",
+      "data": "2026-11-13T18:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653944"
+    },
+    {
+      "id": 2653945,
+      "tipo": "PL",
+      "numero": 5853,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a incidência do Imposto de Renda Retido na Fonte sobre os rendimentos de títulos e valores mobiliários.",
+      "data": "2026-11-13T18:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653945"
+    },
+    {
+      "id": 2653946,
+      "tipo": "PL",
+      "numero": 5854,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a incidência do Imposto sobre a Renda das Pessoas Físicas sobre lucros e dividendos distribuídos por pessoas jurídicas, altera as Leis nº 9.249, de 26 de dezembro de 1995, e nº 9.250, de 26 de dezembro de 1995, e dá outras providências.",
+      "data": "2026-11-13T18:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653946"
+    },
+    {
+      "id": 2653947,
+      "tipo": "PL",
+      "numero": 5855,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.249, de 26 de dezembro de 1995, para elevar a alíquota do Imposto de Renda Retido na Fonte incidente sobre os juros sobre o capital próprio.",
+      "data": "2026-11-13T18:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653947"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-11-11T18:28",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. JACK ROCHA (Bloco/PT - ES. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, eu sei que este minuto pode ser o mais importante da vida de milhões de mães brasileiras, mas nós estamos falan",
+      "transcricao": "A SRA. JACK ROCHA (Bloco/PT - ES. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, eu sei que este minuto pode ser o mais importante da vida de milhões de mães brasileiras, mas nós estamos falando também para as famílias brasileiras. Acreditem neste Parlamento, porque nós temos o compromisso com a sociedade de lutar pela justiça social, de lutar pelo futuro do nosso País. O que todos nós fizemos aqui, votando esse recurso simbolicamente, foi devolver a credibilidade àquelas pessoas que acham que a política não é instrumento de transformação. Através da bancada feminina hoje, através deste projeto, nós conseguimos fazer com que a legislação que nós aprovamos possa não só salvar a vida de milhares de crianças, como também, principalmente, valorizar quem cuida do nosso futuro. Portanto, Coletivo Mães na Luta e todas as mães brasileiras, nós estamos aqui. Muito obrigada pela força. Conseguimos revogar a Lei da Alienação Parental."
+    },
     {
       "data": "2026-11-04T18:32",
       "fase": "Breves Comunicações",
@@ -38,13 +81,6 @@
       "tipo": "PELA ORDEM",
       "resumo": "A SRA. JACK ROCHA (Bloco/PT - ES. Pela ordem. Sem revisão da oradora.) - Muito obrigada, Sr. Presidente. Hoje é um dia muito importante, é um dia muito especial, porque um ilustre brasileiro chamado L",
       "transcricao": "A SRA. JACK ROCHA (Bloco/PT - ES. Pela ordem. Sem revisão da oradora.) - Muito obrigada, Sr. Presidente. Hoje é um dia muito importante, é um dia muito especial, porque um ilustre brasileiro chamado Luiz Inácio Lula da Silva, que preside e presidirá este País pela quarta vez, completa 81 anos de idade. A história desse brasileiro se mistura à própria história da democracia do nosso Brasil, e nós queremos agradecer ao Presidente Lula e a todos os brasileiros e brasileiras, aos mais de 64 milhões de votos que o escolheram para conduzir a nossa Nação. Por isso, estar aqui neste plenário ao lado de lideranças como Alencar Santana e, especialmente, Benedita da Silva, Lídice da Mata, Deputadas constituintes deste Parlamento, é também celebrar quem dedicou a sua vida, ajudou a construir a nossa Constituinte e hoje celebra 81 anos de vida e de dedicação ao povo brasileiro. Parabéns, Presidente Lula!"
-    },
-    {
-      "data": "2026-10-14T17:48",
-      "fase": "Ordem do Dia",
-      "tipo": "DISCUSSÃO",
-      "resumo": "",
-      "transcricao": ""
     }
   ],
   "orgaos": [

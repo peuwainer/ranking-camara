@@ -4,9 +4,46 @@
   "partido": "PSOL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/152605.jpg",
-  "score": 12.24,
-  "rank": 407,
-  "proposicoes": [],
+  "score": 7.08,
+  "rank": 181,
+  "proposicoes": [
+    {
+      "id": 2653944,
+      "tipo": "PL",
+      "numero": 5852,
+      "ano": 2026,
+      "ementa": "Institui o Imposto sobre Grandes  Fortunas, previsto no art. 153, inciso VII, da Constituição Federal.",
+      "data": "2026-11-13T18:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653944"
+    },
+    {
+      "id": 2653945,
+      "tipo": "PL",
+      "numero": 5853,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a incidência do Imposto de Renda Retido na Fonte sobre os rendimentos de títulos e valores mobiliários.",
+      "data": "2026-11-13T18:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653945"
+    },
+    {
+      "id": 2653946,
+      "tipo": "PL",
+      "numero": 5854,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a incidência do Imposto sobre a Renda das Pessoas Físicas sobre lucros e dividendos distribuídos por pessoas jurídicas, altera as Leis nº 9.249, de 26 de dezembro de 1995, e nº 9.250, de 26 de dezembro de 1995, e dá outras providências.",
+      "data": "2026-11-13T18:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653946"
+    },
+    {
+      "id": 2653947,
+      "tipo": "PL",
+      "numero": 5855,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.249, de 26 de dezembro de 1995, para elevar a alíquota do Imposto de Renda Retido na Fonte incidente sobre os juros sobre o capital próprio.",
+      "data": "2026-11-13T18:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653947"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-11-05T11:44",
@@ -28,20 +65,6 @@
       "tipo": "PELA ORDEM",
       "resumo": "O SR. GLAUBER BRAGA (Bloco/PSOL - RJ. Pela ordem. Sem revisão do orador.) - Presidente, voto distrital é bom para quem? Para a população brasileira certamente não é, para a classe trabalhadora brasile",
       "transcricao": "O SR. GLAUBER BRAGA (Bloco/PSOL - RJ. Pela ordem. Sem revisão do orador.) - Presidente, voto distrital é bom para quem? Para a população brasileira certamente não é, para a classe trabalhadora brasileira também não é. Vamos dar o exemplo do nosso Estado do Rio de Janeiro: 92 Municípios, 46 Deputados Federais eleitos; metade seria eleita, então, pelos 23 distritos, nas respectivas regiões ampliadas do Estado. Resultado dessa história: você, trabalhador, na sua região, que vota naquele Parlamentar porque diz \"esse me representa\", não vai poder fazê-lo se ele não estiver dentro do seu distrito. Quem é que amplia o poder nesse tipo de eleição? O crime organizado, a política fisiológica do \"toma lá, dá cá\" em determinadas regiões onde o poder reacionário e o fisiologismo já têm muita força política para eleger os seus. Então, não dá para o Centrão querer, a essa altura do campeonato, fazer com que o povo brasileiro não seja escutado, ouvido. A mobilização nas redes sociais contra o voto distrital é enorme. As pessoas estão dizendo que não aceitam, porque esse sistema em que há diminuição do poder de escolha por parte do eleitor e da eleitora é ruim para o Brasil. Nós precisamos de uma reforma política, sim, que diminua o peso do poder econômico, amplie o processo de participação direta da sociedade nas decisões públicas. Voto distrital não serve para o Brasil, muito pelo contrário. Voto distrital, nas atuais condições do Brasil, só serve para ampliar o voto fisiológico reacionário, que domina determinadas regiões. Ele fere de morte o voto de opinião, o voto daquele e daquela que escolhe um Parlamentar porque o representa nas disputas realizadas neste plenário e no conjunto da sua atuação. Muito obrigado."
-    },
-    {
-      "data": "2026-10-14T18:28",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. GLAUBER BRAGA (Bloco/PSOL - RJ. Pela ordem. Sem revisão do orador.) - Presidente, acaba de sair a pesquisa Quaest. Os resultados indicavam nas pesquisas iniciais uma diferença de 6%. Na espontân",
-      "transcricao": "O SR. GLAUBER BRAGA (Bloco/PSOL - RJ. Pela ordem. Sem revisão do orador.) - Presidente, acaba de sair a pesquisa Quaest. Os resultados indicavam nas pesquisas iniciais uma diferença de 6%. Na espontânea da Quaest, a diferença agora é de 1 ponto percentual apenas. (Palmas.) O Sr. Flávio Bolsonaro vai ser derrotado, e nós vamos reeleger Lula Presidente do Brasil. As mobilizações, as manifestações em todo o País estão dando resultado. O \"tesouraço\" do Sr. Flávio Bolsonaro não vai acontecer, porque ele vai perder as eleições. Hoje, o Líder do PL disse que era tudo uma farsa e que eles iam trabalhar para revogar o fim da escala 6 por 1 depois de eleitos. Isso não vai acontecer, porque eles vão perder as eleições!"
-    },
-    {
-      "data": "2026-10-14T18:00",
-      "fase": "Ordem do Dia",
-      "tipo": "PELA ORDEM",
-      "resumo": "O SR. GLAUBER BRAGA (Bloco/PSOL - RJ. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente. Acaba de sair esta matéria: \"Flávio vai insistir em votação da PEC das horas trabalhadas depois ",
-      "transcricao": "O SR. GLAUBER BRAGA (Bloco/PSOL - RJ. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente. Acaba de sair esta matéria: \"Flávio vai insistir em votação da PEC das horas trabalhadas depois da eleição, diz líder do PL\", o Deputado Sóstenes Cavalcante. Então, estão enganando o povo brasileiro? O Senador disse que votaria a favor da PEC por um clamor popular. Agora, o seu Líder na Câmara dos Deputados diz que é mentira, diz que, logo depois das eleições, se ele fosse eleito Presidente, trabalharia para revogar aquilo que está sendo votado hoje no Senado Federal. Isso é uma vergonha! É uma vergonha! Não vão conseguir, com esse tipo de expediente baixo, enganar o povo brasileiro. O Sr. Flávio Bolsonaro, mentindo como está, não vai vencer estas eleições."
     }
   ],
   "orgaos": [

@@ -4,8 +4,8 @@
   "partido": "PRD",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
-  "score": 8.51,
-  "rank": 472,
+  "score": 9.15,
+  "rank": 134,
   "proposicoes": [
     {
       "id": 2648645,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651332"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-11T19:12",
+      "fase": "Ordem do Dia",
+      "tipo": "COMO LÍDER",
+      "resumo": "O SR. FRED COSTA (PRD - MG. Como Líder. Sem revisão do orador.) - Sr. Presidente, senhoras e senhores, sou o autor da Lei Sansão, cadeia para maus-tratos, uma verdadeira quebra de paradigma entre a im",
+      "transcricao": "O SR. FRED COSTA (PRD - MG. Como Líder. Sem revisão do orador.) - Sr. Presidente, senhoras e senhores, sou o autor da Lei Sansão, cadeia para maus-tratos, uma verdadeira quebra de paradigma entre a impunidade e penas severas para quem comete crime contra os animais, em especial cães e gatos. Lembro que a pena antes era de 3 meses a 1 ano de detenção; na prática, pena alternativa, pena restritiva de direitos. Nada acontecia com bandido covarde que cometia crime contra os animais. A Lei Sansão, de minha autoria, prevê pena de 2 anos a 5 anos de reclusão; na prática, cadeia para bandido covarde que comete crime contra os animais. Hoje eu venho a esta tribuna parabenizar o Deputado Célio Studart, o Deputado Marcelo Queiroz e o Deputado Delegado Matheus Laiola pelo trabalho. Nós estamos aqui juntos, de coração, pelos animais, para dar voz àqueles que não têm voz. Para mim, não é demérito; muito pelo contrário, é mérito o avanço significativo que tivemos no passado, bem como hoje buscar um avanço ainda maior, o aprimoramento. Com o advento de tornar os maus-tratos contra os animais um crime hediondo, quem ganha são os animais, é a proteção e a defesa dos animais. Lembro que uma sociedade justa, uma sociedade que preza a vida defende todas as formas de vida: os animais e os humanos. Não à toa, estou aqui para pedir votos e para externar o meu apoio incondicional e irrestrito a este projeto, que vai ser um ganho, um avanço em relação à Lei Sansão, cadeia para maus-tratos. Parabéns aos três pares por mim citados! Lembro que aqui não há partido político A, B, C ou D. Em época de polarização gigantesca no nosso País, quero dizer que a defesa dos animais e da vida, de um país melhor, mais justo, com leis rigorosas para criminosos, une todos nós. Faço ainda uma última provocação: quem é ruim com os animais costuma ser ruim com os humanos. Quem é ruim com os animais tem enorme propensão a cometer crime, sobretudo contra mulheres e vulneráveis. Portanto, hoje esta Casa vai dar mais uma demonstração de que está em consonância com as políticas públicas de bem-estar animal. Estamos juntos em defesa dos animais! Estamos juntos na luta contra os maus-tratos!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Representação Brasileira no Parlamento do Mercosul",
