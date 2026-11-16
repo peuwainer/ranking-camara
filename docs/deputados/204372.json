@@ -4,36 +4,9 @@
   "partido": "REPUBLICANOS",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204372.jpg",
-  "score": 18.69,
-  "rank": 34,
+  "score": 16.43,
+  "rank": 43,
   "proposicoes": [
-    {
-      "id": 2648846,
-      "tipo": "EMC",
-      "numero": 2,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a autenticação, a identificação e o bloqueio de chamadas telefônicas e mensagens nas redes de telecomunicações e institui base de dados centralizada de recursos de numeração.",
-      "data": "2026-10-16T00:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648846"
-    },
-    {
-      "id": 2648847,
-      "tipo": "EMC",
-      "numero": 3,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a autenticação, a identificação e o bloqueio de chamadas telefônicas e mensagens nas redes de telecomunicações e institui base de dados centralizada de recursos de numeração.",
-      "data": "2026-10-16T00:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648847"
-    },
-    {
-      "id": 2648848,
-      "tipo": "EMC",
-      "numero": 4,
-      "ano": 2026,
-      "ementa": "Dispõe sobre a autenticação, a identificação e o bloqueio de chamadas telefônicas e mensagens nas redes de telecomunicações e institui base de dados centralizada de recursos de numeração.",
-      "data": "2026-10-16T00:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648848"
-    },
     {
       "id": 2648858,
       "tipo": "EMC",
@@ -105,6 +78,15 @@
       "ementa": "Altera a Lei nº 14.597, de 14 de junho de 2023 (Lei Geral do Esporte), para estabelecer medidas de responsabilização disciplinar de atletas pela prática de violência contra a mulher.",
       "data": "2026-11-13T18:36",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653948"
+    },
+    {
+      "id": 2654022,
+      "tipo": "PL",
+      "numero": 5859,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 15.439, de 26 de junho de 2026, para assegurar o fornecimento gratuito e contínuo de sistemas de monitoramento da glicose às pessoas com diabetes mellitus tipo 1, no âmbito do Sistema Único de Saúde (SUS).",
+      "data": "2026-11-16T11:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654022"
     }
   ],
   "discursos": [

@@ -4,10 +4,18 @@
   "partido": "PSDB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220616.jpg",
-  "score": 1.88,
-  "rank": 439,
+  "score": 2.52,
+  "rank": 374,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-12T13:04",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. LUCIANO VIEIRA (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Presidente, obrigado. Presidente, eu vim aqui para me solidarizar com V.Exa. por todos os ataques que V.Exa. vem sofrendo n",
+      "transcricao": "O SR. LUCIANO VIEIRA (Bloco/PSDB - RJ. Pela ordem. Sem revisão do orador.) - Presidente, obrigado. Presidente, eu vim aqui para me solidarizar com V.Exa. por todos os ataques que V.Exa. vem sofrendo nos últimos meses. E vim fazer uma reflexão com todos nós que estamos aqui no Parlamento. Eu fui à casa de V.Exa. para um jantar e ali V.Exa. me apresentou à sua esposa. Estava ali o seu filho, que me recebeu na porta  eu me lembro da imagem  com um passarinho nas suas mãos. Aqueles Deputados que fazem ataque à pessoa física do Presidente Davi Alcolumbre, antes de agirem assim, entendam que, por trás do Presidente, existe um pai de família, um esposo, alguém que tem uma história na política, que não fez política com uma tela de celular, atacando as pessoas, mas faz a sua política transformando a vida daqueles que mais precisam. Eu tenho certeza, Presidente, que no ano que vem V.Exa. será reconduzido à Presidência daquela Casa. O trabalho que V.Exa. faz respeita os pares, aqueles que pensam diferente. Independentemente daqueles que votam contra, será o mesmo respeito que V.Exa. terá ao longo dos próximos 2 anos. Então, eu queria fazer este registro. Há Deputados que, infelizmente, para lacrar, para ter curtida, para ter visualização, a qualquer custo, atacam, xingam, ofendem. Muitos desses nem às suas bases voltam. Não têm um trabalho, não têm entrega, não criam um posto, não conseguem um asfalto. Ao longo dos seus mandatos, porém, muitos defenderam e mudaram a história da população e daqueles que mais precisam. Era o registro que queria fazer. Parabéns, Presidente. Torço muito pela sua vitória."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Fiscalização Financeira e Controle",

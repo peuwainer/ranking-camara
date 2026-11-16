@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
-  "score": 9.44,
-  "rank": 129,
+  "score": 8.15,
+  "rank": 152,
   "proposicoes": [
     {
       "id": 2649499,
@@ -53,22 +53,7 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653947"
     }
   ],
-  "discursos": [
-    {
-      "data": "2026-10-16T10:20",
-      "fase": "Homenagem",
-      "tipo": "HOMENAGEM",
-      "resumo": "",
-      "transcricao": ""
-    },
-    {
-      "data": "2026-10-16T10:12",
-      "fase": "Homenagem",
-      "tipo": "HOMENAGEM",
-      "resumo": "",
-      "transcricao": ""
-    }
-  ],
+  "discursos": [],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a verificar a situação dos municípios que perderam recursos financeiros do FPM, depois dos cálculos feitos pelo TCU, com base no Censo inacabado do IBGE",

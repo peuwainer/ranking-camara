@@ -4,72 +4,10 @@
   "partido": "MDB",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/161440.jpg",
-  "score": 7.02,
-  "rank": 182,
-  "proposicoes": [
-    {
-      "id": 2651884,
-      "tipo": "EMC",
-      "numero": 46,
-      "ano": 2026,
-      "ementa": "\"Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual.\"",
-      "data": "2026-11-09T00:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651884"
-    },
-    {
-      "id": 2651885,
-      "tipo": "EMC",
-      "numero": 47,
-      "ano": 2026,
-      "ementa": "\"Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual.\"",
-      "data": "2026-11-09T00:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651885"
-    },
-    {
-      "id": 2652189,
-      "tipo": "EMC",
-      "numero": 107,
-      "ano": 2026,
-      "ementa": "\"Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual\"",
-      "data": "2026-11-10T00:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652189"
-    },
-    {
-      "id": 2652190,
-      "tipo": "EMC",
-      "numero": 108,
-      "ano": 2026,
-      "ementa": "\"Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual\"",
-      "data": "2026-11-10T00:00",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652190"
-    }
-  ],
+  "score": 0.0,
+  "rank": 507,
+  "proposicoes": [],
   "discursos": [],
-  "orgaos": [
-    {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",
-      "sigla": "PL233823",
-      "cargo": "Suplente",
-      "desde": "2025-05-21T00:00"
-    },
-    {
-      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
-      "sigla": "CAPADR",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Meio Ambiente e Desenvolvimento Sustentável",
-      "sigla": "CMADS",
-      "cargo": "Titular",
-      "desde": "2026-03-11T00:00"
-    },
-    {
-      "nome": "Subcomissão Especial destinada a avaliar e fiscalizar todas as ações que afetam o Direito de Propriedade seja por ação ou omissão do Governo Federal e atividades promovidas por movimentos sociais",
-      "sigla": "SUBPROP",
-      "cargo": "Vice-Presidente",
-      "desde": "2026-04-08T00:00"
-    }
-  ],
+  "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/161440/votacoes-nominais-plenario/2026"
 }
