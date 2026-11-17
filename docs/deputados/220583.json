@@ -4,9 +4,19 @@
   "partido": "PP",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220583.jpg",
-  "score": 6.25,
-  "rank": 213,
-  "proposicoes": [],
+  "score": 7.22,
+  "rank": 181,
+  "proposicoes": [
+    {
+      "id": 2654320,
+      "tipo": "PL",
+      "numero": 5868,
+      "ano": 2026,
+      "ementa": "Altera o art. 352 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para tipificar a evasão ou tentativa de evasão de pessoa presa ou submetida a medida de segurança detentiva, independentemente do emprego de violência ou grave ameaça, e estabelecer tratamento penal mais rigoroso para essas condutas quando praticadas mediante violência ou grave ameaça à pessoa.",
+      "data": "2026-11-16T20:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654320"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

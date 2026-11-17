@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160518.jpg",
-  "score": 6.13,
-  "rank": 222,
+  "score": 6.94,
+  "rank": 189,
   "proposicoes": [
     {
       "id": 2652030,
@@ -15,6 +15,15 @@
       "ementa": "Parecer do Relator, Dep. Weliton Prado pela aprovação deste, do PL 2.697, de 2026, apensado, com substitutivo.",
       "data": "2026-11-10T13:19",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652030"
+    },
+    {
+      "id": 2654412,
+      "tipo": "PL",
+      "numero": 5876,
+      "ano": 2026,
+      "ementa": "Denomina “Rodovia Marconi Malagoli” trecho da rodovia BR-365 em toda sua extensão no estado de Minas Gerais, entre o município de Montes Claros (MG) e a divisa com Goiás.",
+      "data": "2026-11-17T11:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654412"
     }
   ],
   "discursos": [],

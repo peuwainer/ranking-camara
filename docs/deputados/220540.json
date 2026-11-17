@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 7.38,
-  "rank": 173,
+  "score": 9.17,
+  "rank": 129,
   "proposicoes": [
     {
       "id": 2653951,
@@ -15,6 +15,24 @@
       "ementa": "Altera a Lei nº 9.985, de 18 de julho de 2000, que institui o Sistema Nacional de Unidades de Conservação da Natureza (SNUC), para estabelecer a obrigatoriedade do Plano de Diagnóstico e Adequação Socioterritorial (PDAS) em Unidades de Conservação de Uso Sustentável que possuam população tradicional residente.",
       "data": "2026-11-13T18:50",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653951"
+    },
+    {
+      "id": 2654237,
+      "tipo": "PLP",
+      "numero": 306,
+      "ano": 2026,
+      "ementa": "Dispõe sobre transparência, motivação, reavaliação contínua e racionalização procedimental na aplicação e execução de transferências do Fundo Nacional de Saúde relativas a emendas parlamentares destinadas a ações e serviços públicos de saúde, e dá outras providências.",
+      "data": "2026-11-16T17:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654237"
+    },
+    {
+      "id": 2654424,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015, que institui a Lei Brasileira de Inclusão da Pessoa com Deficiência - Estatuto da Pessoa com Deficiência.",
+      "data": "2026-11-17T11:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654424"
     }
   ],
   "discursos": [],

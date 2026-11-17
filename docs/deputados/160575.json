@@ -4,7 +4,7 @@
   "partido": "PT",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160575.jpg",
-  "score": 44.44,
+  "score": 45.13,
   "rank": 3,
   "proposicoes": [
     {
@@ -78,6 +78,24 @@
       "ementa": "Altera a Lei nº 9.249, de 26 de dezembro de 1995, para elevar a alíquota do Imposto de Renda Retido na Fonte incidente sobre os juros sobre o capital próprio.",
       "data": "2026-11-13T18:29",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653947"
+    },
+    {
+      "id": 2654111,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a criação da Política Nacional de Prevenção e Tratamento da Depressão e Outros Transtornos Mentais; estabelece o Vale Saúde Mental para Trabalhadores; institui o Programa de Apoio à Saúde Mental da Mulher Pós-Parto e define medidas para promover o bem-estar emocional no ambiente de trabalho e na sociedade, com incentivo à implementação de políticas públicas e privadas de saúde mental.",
+      "data": "2026-11-16T13:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654111"
+    },
+    {
+      "id": 2654382,
+      "tipo": "PLP",
+      "numero": 307,
+      "ano": 2026,
+      "ementa": "Institui o Imposto sobre Grandes  Fortunas, previsto no art. 153, inciso VII, da Constituição Federal.",
+      "data": "2026-11-17T10:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654382"
     }
   ],
   "discursos": [

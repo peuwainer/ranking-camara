@@ -4,8 +4,8 @@
   "partido": "AVANTE",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220686.jpg",
-  "score": 11.77,
-  "rank": 87,
+  "score": 12.09,
+  "rank": 79,
   "proposicoes": [
     {
       "id": 2653811,
@@ -125,6 +125,12 @@
       "sigla": "CCJC",
       "cargo": "Suplente",
       "desde": "2026-07-08T00:00"
+    },
+    {
+      "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 32, de 2015, do Sr. Gonzaga Patriota, que \"altera a redação dos artigos 14 e 228 da Constituição Federal, para estabelecer a plena maioridade civil e penal aos dezesseis anos de idade\", e apensadas",
+      "sigla": "PEC03215",
+      "cargo": "Titular",
+      "desde": "2026-11-16T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220686/votacoes-nominais-plenario/2026"

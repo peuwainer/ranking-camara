@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220654.jpg",
-  "score": 23.77,
-  "rank": 21,
+  "score": 24.4,
+  "rank": 19,
   "proposicoes": [],
   "discursos": [
     {
@@ -94,6 +94,12 @@
       "sigla": "PEC03215",
       "cargo": "Suplente",
       "desde": "2026-08-11T00:00"
+    },
+    {
+      "nome": "Comissão de Defesa dos Direitos da Mulher",
+      "sigla": "CMULHER",
+      "cargo": "Titular",
+      "desde": "2026-11-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220654/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178887.jpg",
-  "score": 39.62,
-  "rank": 9,
+  "score": 40.75,
+  "rank": 7,
   "proposicoes": [
     {
       "id": 2649124,
@@ -276,6 +276,60 @@
       "ementa": "Institui o Alerta Nacional de Criança e Adolescente Desaparecidos e estabelece prazo de acionamento, protocolo de busca e relatório público periódico, e dá outras providências.",
       "data": "2026-11-16T09:02",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653972"
+    },
+    {
+      "id": 2654168,
+      "tipo": "PL",
+      "numero": 5862,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a responsabilidade das instituições de pagamento por boletos fraudulentos emitidos por meio de suas plataformas e sobre os mecanismos de segurança para prevenir essa fraude.",
+      "data": "2026-11-16T14:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654168"
+    },
+    {
+      "id": 2654169,
+      "tipo": "PL",
+      "numero": 5863,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes mínimas de segurança cibernética para as contas bancárias e os sistemas de pagamento que movimentam recursos do Sistema Único de Saúde.",
+      "data": "2026-11-16T14:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654169"
+    },
+    {
+      "id": 2654170,
+      "tipo": "PL",
+      "numero": 5864,
+      "ano": 2026,
+      "ementa": "Veda a criação e o uso comercial de réplicas de voz ou de imagem de pessoa natural geradas por inteligência artificial sem autorização expressa do titular e dispõe sobre os deveres dos provedores de aplicações de internet que disponibilizam modelos de geração de voz ou de imagem.",
+      "data": "2026-11-16T14:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654170"
+    },
+    {
+      "id": 2654171,
+      "tipo": "PL",
+      "numero": 5865,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a rastreabilidade e a comercialização de cobre, fios e cabos elétricos por estabelecimentos de compra e venda de sucata e sobre a comunicação de furtos desses materiais pelas prestadoras de serviços públicos.",
+      "data": "2026-11-16T14:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654171"
+    },
+    {
+      "id": 2654360,
+      "tipo": "PL",
+      "numero": 5873,
+      "ano": 2026,
+      "ementa": "Estabelece normas gerais de vistoria elétrica e de prevenção e combate a incêndio em escolas públicas de educação básica e condiciona o repasse de recursos federais para obras e reformas escolares à sua comprovação.",
+      "data": "2026-11-17T10:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654360"
+    },
+    {
+      "id": 2654371,
+      "tipo": "PL",
+      "numero": 5874,
+      "ano": 2026,
+      "ementa": "Institui o cruzamento obrigatório e periódico de dados do Censo Escolar com as folhas de pagamento dos entes federados e com os pagamentos efetuados com recursos do Fundeb, e dispõe sobre a exclusão de estudantes do Censo Escolar, para coibir fraudes e o desvio de recursos da educação.",
+      "data": "2026-11-17T10:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654371"
     }
   ],
   "discursos": [

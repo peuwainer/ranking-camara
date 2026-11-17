@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/209787.jpg",
-  "score": 6.35,
-  "rank": 206,
-  "proposicoes": [],
+  "score": 7.32,
+  "rank": 178,
+  "proposicoes": [
+    {
+      "id": 2654272,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre a criação do Programa Nacional de Apoio à Educação Profissional — PRONEP, com a finalidade de captar e canalizar recursos para promoção e o apoio à educação profissional.",
+      "data": "2026-11-16T18:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654272"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-11-11T18:56",

@@ -4,16 +4,26 @@
   "partido": "PSD",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220698.jpg",
-  "score": 5.73,
-  "rank": 228,
-  "proposicoes": [],
+  "score": 6.7,
+  "rank": 196,
+  "proposicoes": [
+    {
+      "id": 2654319,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre a proibição de cobrança de tarifa do Sistema Kiss & Fly e de estacionamento em áreas de embarque/desembarque para motoristas de aplicativos em aeroportos, e dá outras providências.",
+      "data": "2026-11-17T09:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654319"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-11-12T12:12",
       "fase": "Ordem do Dia",
       "tipo": "PELA ORDEM",
-      "resumo": "O SR. BETO PRETO (Bloco/PSD - PR. Pela ordem. Sem revisão do orador.) - Não. Só quero cumprimentar o Senado em relação à Medida Provisória 1.376, que foi discutida ontem. Quero cumprimentar os Senador",
-      "transcricao": "O SR. BETO PRETO (Bloco/PSD - PR. Pela ordem. Sem revisão do orador.) - Não. Só quero cumprimentar o Senado em relação à Medida Provisória 1.376, que foi discutida ontem. Quero cumprimentar os Senadores que pediram a impugnação, por matéria estranha ao assunto da medida provisória. E quero cumprimentar V.Exa., que teve a grande ação de acatar essas impugnações e não deixar que nós tivéssemos o vape autorizado no Brasil através de um jabuti que foi criado na Medida Provisória 1.376. Agradeço a V.Exa., que defendeu a saúde pública. Muito obrigado."
+      "resumo": "O SR. BETO PRETO (Bloco/PSD - PR. Pela ordem. Sem revisão do orador.) - Não. Só quero cumprimentar o Senado em relação à Medida Provisória nº 1.376, que foi discutida ontem. Quero cumprimentar os Sena",
+      "transcricao": "O SR. BETO PRETO (Bloco/PSD - PR. Pela ordem. Sem revisão do orador.) - Não. Só quero cumprimentar o Senado em relação à Medida Provisória nº 1.376, que foi discutida ontem. Quero cumprimentar os Senadores que pediram a impugnação, por matéria estranha ao assunto da medida provisória. Quero cumprimentar V.Exa., que fez a grande ação de acatar os pedidos de impugnação e não deixar que nós tivéssemos o vape autorizado no Brasil através de um jabuti inserido na Medida Provisória nº 1.376. Agradeço a V.Exa., que defendeu a saúde pública. Muito obrigado."
     },
     {
       "data": "2026-11-11T19:48",

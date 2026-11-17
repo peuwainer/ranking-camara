@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160632.jpg",
-  "score": 6.63,
-  "rank": 200,
+  "score": 6.94,
+  "rank": 190,
   "proposicoes": [
     {
       "id": 2648525,
@@ -69,6 +69,12 @@
       "sigla": "CMO",
       "cargo": "Suplente",
       "desde": "2026-06-16T00:00"
+    },
+    {
+      "nome": "Comissão de Trabalho",
+      "sigla": "CTRAB",
+      "cargo": "Suplente",
+      "desde": "2026-11-16T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/160632/votacoes-nominais-plenario/2026"

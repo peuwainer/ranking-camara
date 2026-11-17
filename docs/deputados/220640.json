@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220640.jpg",
-  "score": 16.43,
-  "rank": 42,
+  "score": 17.94,
+  "rank": 37,
   "proposicoes": [
     {
       "id": 2649499,
@@ -87,6 +87,33 @@
       "ementa": "Altera a Lei nº 9.249, de 26 de dezembro de 1995, para elevar a alíquota do Imposto de Renda Retido na Fonte incidente sobre os juros sobre o capital próprio.",
       "data": "2026-11-13T18:29",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653947"
+    },
+    {
+      "id": 2654250,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Rede Nacional Estruturante de Atenção Materno Infantil e Primeira Infância no Interior do País e na Amazônia Legal, estabelece padrões mínimos obrigatórios de atendimento, fixa metas nacionais de redução da mortalidade materna e infantil, dispõe sobre prazo máximo para regulação de parto de alto risco e transporte sanitário terrestre e aeromédico, com prioridade para o Estado de Roraima, e dá outras providências.",
+      "data": "2026-11-16T17:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654250"
+    },
+    {
+      "id": 2654262,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o “caput” do art. 26-A da Lei nº 9.394, de 20 de dezembro de 1996.",
+      "data": "2026-11-16T17:34",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654262"
+    },
+    {
+      "id": 2654382,
+      "tipo": "PLP",
+      "numero": 307,
+      "ano": 2026,
+      "ementa": "Institui o Imposto sobre Grandes  Fortunas, previsto no art. 153, inciso VII, da Constituição Federal.",
+      "data": "2026-11-17T10:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654382"
     }
   ],
   "discursos": [

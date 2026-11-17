@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220611.jpg",
-  "score": 13.41,
-  "rank": 62,
+  "score": 13.12,
+  "rank": 64,
   "proposicoes": [
     {
       "id": 2649548,
@@ -78,6 +78,15 @@
       "ementa": "Dispõe sobre a criminalização do disparo massivo de chamadas telefônicas automáticas (\"robocalls\") e determina que as multas aplicadas sejam destinadas ao Sistema Único de Segurança Pública (SUSP).",
       "data": "2026-11-16T11:59",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654012"
+    },
+    {
+      "id": 2654419,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Dispõe sobre a criminalização do disparo massivo de chamadas telefônicas automáticas (\"robocalls\") e determina que as multas aplicadas sejam destinadas ao Sistema Único de Segurança Pública (SUSP).",
+      "data": "2026-11-17T11:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654419"
     }
   ],
   "discursos": [],

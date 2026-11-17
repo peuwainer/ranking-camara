@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg",
-  "score": 30.71,
-  "rank": 15,
+  "score": 28.54,
+  "rank": 16,
   "proposicoes": [
     {
       "id": 2648539,
@@ -186,6 +186,15 @@
       "ementa": "Altera a Consolidação das Leis do Trabalho para isentar os empregadores domésticos do dever de efetivar o depósito recursal.",
       "data": "2026-11-11T14:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652862"
+    },
+    {
+      "id": 2654174,
+      "tipo": "PLP",
+      "numero": 305,
+      "ano": 2026,
+      "ementa": "Estabelece a obrigatoriedade de rastreabilidade integral, transparência ativa e vedação à movimentação de recursos públicos em espécie no âmbito das transferências decorrentes de emendas parlamentares e instrumentos congêneres, dispõe sobre mecanismos de controle financeiro digital, altera a Lei n° 4.320, de 17 de março de 1964, e a Lei Complementar n° 101, de 4 de maio de 2000, e dá outras providências.",
+      "data": "2026-11-16T14:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654174"
     }
   ],
   "discursos": [],

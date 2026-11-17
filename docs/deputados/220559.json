@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
-  "score": 40.0,
-  "rank": 8,
+  "score": 36.11,
+  "rank": 10,
   "proposicoes": [
     {
       "id": 2651861,
@@ -285,6 +285,15 @@
       "ementa": "Reconhece a Schlachtfest, realizada no Município de São Bento do Sul, no Estado de Santa Catarina, como manifestação da cultura nacional.",
       "data": "2026-11-12T16:10",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653293"
+    },
+    {
+      "id": 2654303,
+      "tipo": "PL",
+      "numero": 5867,
+      "ano": 2026,
+      "ementa": "Reconhece a Schützenfest – Festa dos Atiradores, realizada no Município de Jaraguá do Sul, no Estado de Santa Catarina, como manifestação da cultura nacional",
+      "data": "2026-11-16T19:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654303"
     }
   ],
   "discursos": [],

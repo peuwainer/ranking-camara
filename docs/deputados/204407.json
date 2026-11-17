@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204407.jpg",
-  "score": 13.83,
-  "rank": 58,
+  "score": 14.99,
+  "rank": 50,
   "proposicoes": [
     {
       "id": 2650822,
@@ -51,6 +51,24 @@
       "ementa": "Altera a Lei nº 9.249, de 26 de dezembro de 1995, para elevar a alíquota do Imposto de Renda Retido na Fonte incidente sobre os juros sobre o capital próprio.",
       "data": "2026-11-13T18:29",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653947"
+    },
+    {
+      "id": 2654382,
+      "tipo": "PLP",
+      "numero": 307,
+      "ano": 2026,
+      "ementa": "Institui o Imposto sobre Grandes  Fortunas, previsto no art. 153, inciso VII, da Constituição Federal.",
+      "data": "2026-11-17T10:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654382"
+    },
+    {
+      "id": 2654442,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estabelecer a prioridade e o prazo máximo para análise judicial das medidas protetivas de urgência em casos classificados como de risco elevado",
+      "data": "2026-11-17T12:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654442"
     }
   ],
   "discursos": [

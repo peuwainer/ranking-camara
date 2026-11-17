@@ -4,9 +4,28 @@
   "partido": "MDB",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/98148.jpg",
-  "score": 3.17,
-  "rank": 330,
-  "proposicoes": [],
+  "score": 5.11,
+  "rank": 249,
+  "proposicoes": [
+    {
+      "id": 2654162,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 12.651, de 25 de maio de 2012, para dispor sobre o restabelecimento de atividades agrossilvipastoris em áreas consolidadas de propriedades rurais.",
+      "data": "2026-11-16T14:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654162"
+    },
+    {
+      "id": 2654166,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Institui o Programa Nacional de Turismo Regional Sustentável (PNTRS), cria o Selo Turismo Regional Sustentável, altera a Lei nº 11.771, de 17 de setembro de 2008, e a Lei nº 14.002, de 22 de maio de 2020, e dá outras providências.",
+      "data": "2026-11-16T14:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654166"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-11-04T19:08",

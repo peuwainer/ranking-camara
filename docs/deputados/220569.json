@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220569.jpg",
-  "score": 4.38,
-  "rank": 279,
-  "proposicoes": [],
+  "score": 5.35,
+  "rank": 248,
+  "proposicoes": [
+    {
+      "id": 2654235,
+      "tipo": "PRC",
+      "numero": 52,
+      "ano": 2026,
+      "ementa": "Revoga o voto secreto no âmbito da Câmara dos Deputados, alterando os arts. 7º e 188 do Regimento Interno - FIM DO VOTO SECRETO PARA TUDO!",
+      "data": "2026-11-16T16:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654235"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
