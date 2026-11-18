@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204472.jpg",
-  "score": 7.66,
-  "rank": 168,
+  "score": 8.43,
+  "rank": 160,
   "proposicoes": [
     {
       "id": 2648600,
@@ -42,6 +42,15 @@
       "ementa": "Reconhece como manifestação da cultura nacional a Festa de São Sebastião do Mutum, realizada no Município de Barão de Melgaço, Estado de Mato Grosso.",
       "data": "2026-11-11T15:36",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652914"
+    },
+    {
+      "id": 2654765,
+      "tipo": "PL",
+      "numero": 5884,
+      "ano": 2026,
+      "ementa": "Institui a Lei das Fronteiras Inteligentes, cria o Programa Nacional Integrado de Proteção e Monitoramento de Fronteiras e Divisas, estabelece mecanismos de inteligência preditiva e integração tecnológica entre órgãos federais e forças de segurança estaduais, e destina recursos provenientes de bens e valores vinculados ao tráfico de drogas para o fortalecimento da segurança fronteiriça e dá outras providências.",
+      "data": "2026-11-17T16:24",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654765"
     }
   ],
   "discursos": [

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220690.jpg",
-  "score": 24.04,
-  "rank": 20,
+  "score": 24.3,
+  "rank": 21,
   "proposicoes": [
     {
       "id": 2648849,
@@ -141,6 +141,15 @@
       "ementa": "Dispõe sobre obrigações das empresas prestadoras de serviços de segurança privada de custearem cursos relacionados à formação, ao aperfeiçoamento, à atualização e à aprendizagem de seus empregados, e dá outras providências.",
       "data": "2026-11-13T16:24",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653918"
+    },
+    {
+      "id": 2655012,
+      "tipo": "PLP",
+      "numero": 310,
+      "ano": 2026,
+      "ementa": "Dispõe sobre normas gerais de planejamento, orçamento, monitoramento e avaliação de políticas públicas, regulamenta o § 9º do art. 165 da Constituição Federal, altera as Leis nºs 4.320, de 17 de março de 1964, e 10.180, de 6 de fevereiro de 2001, e a Lei Complementar nº 101, de 4 de maio de 2000, e dá outras providências.",
+      "data": "2026-11-17T20:55",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655012"
     }
   ],
   "discursos": [
@@ -199,12 +208,6 @@
       "desde": "2025-09-16T00:00"
     },
     {
-      "nome": "Comissão de Trabalho",
-      "sigla": "CTRAB",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
-    },
-    {
       "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
       "sigla": "CSPCCO",
       "cargo": "2º Vice-Presidente",
@@ -239,6 +242,12 @@
       "sigla": "PEC03215",
       "cargo": "Titular",
       "desde": "2026-08-11T00:00"
+    },
+    {
+      "nome": "Comissão de Trabalho",
+      "sigla": "CTRAB",
+      "cargo": "Titular",
+      "desde": "2026-11-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220690/votacoes-nominais-plenario/2026"

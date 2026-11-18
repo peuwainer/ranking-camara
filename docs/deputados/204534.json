@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204534.jpg",
-  "score": 8.89,
-  "rank": 139,
+  "score": 10.68,
+  "rank": 109,
   "proposicoes": [
     {
       "id": 2649118,
@@ -42,6 +42,24 @@
       "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997 (Lei das Eleições), para vedar a propaganda eleitoral mediante bandeira de vento (wind banner).",
       "data": "2026-11-11T11:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652739"
+    },
+    {
+      "id": 2655021,
+      "tipo": "PL",
+      "numero": 5892,
+      "ano": 2026,
+      "ementa": "Dispõe sobre diretrizes para prevenção e enfrentamento do uso de dispositivos eletrônicos para fumar, com especial atenção a crianças, adolescentes e jovens.",
+      "data": "2026-11-18T08:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655021"
+    },
+    {
+      "id": 2655025,
+      "tipo": "PL",
+      "numero": 5893,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para assegurar a confirmação diagnóstica, o tratamento e o acompanhamento da criança com resultado alterado ou inconclusivo no teste do pezinho, o aconselhamento genético à família e a divulgação de indicadores da triagem neonatal.",
+      "data": "2026-11-18T09:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655025"
     }
   ],
   "discursos": [],

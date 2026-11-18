@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220540.jpg",
-  "score": 9.17,
-  "rank": 129,
+  "score": 10.98,
+  "rank": 103,
   "proposicoes": [
     {
       "id": 2653951,
@@ -33,6 +33,24 @@
       "ementa": "Altera a Lei nº 13.146, de 6 de julho de 2015, que institui a Lei Brasileira de Inclusão da Pessoa com Deficiência - Estatuto da Pessoa com Deficiência.",
       "data": "2026-11-17T11:52",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654424"
+    },
+    {
+      "id": 2654795,
+      "tipo": "PL",
+      "numero": 5886,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.656, de 3 de junho de 1998, para estabelecer prazos máximos de pagamento aos prestadores de serviços de saúde e disciplinar o faturamento, a auditoria e as glosas.",
+      "data": "2026-11-17T17:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654795"
+    },
+    {
+      "id": 2654842,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 10.257, de 10 de julho de 2001 (Estatuto da Cidade), e a Lei nº 13.146, de 6 de julho de 2015 (Lei Brasileira de Inclusão da Pessoa com Deficiência), para dispor sobre a implantação de espaços de acomodação sensorial em áreas e equipamentos públicos urbanos.",
+      "data": "2026-11-17T19:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654842"
     }
   ],
   "discursos": [],

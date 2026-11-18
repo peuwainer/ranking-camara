@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-  "score": 10.21,
-  "rank": 110,
+  "score": 11.0,
+  "rank": 102,
   "proposicoes": [
     {
       "id": 2650496,
@@ -60,6 +60,15 @@
       "ementa": "Institui o Prêmio Câmara dos Deputados de Proteção Integral à Criança e ao Adolescente.",
       "data": "2026-11-16T11:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654038"
+    },
+    {
+      "id": 2654757,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do Projeto de Lei nº 1.379, de 2019, e dos apensados PL nº 3.303, de 2019, PL nº 6.063, de 2019, PL nº 1.371, de 2022, PL nº 2.738, de 2023, PL nº 3.379, de 2024, e PL nº 6.347, de 2025, na forma do Substitutivo anexo.",
+      "data": "2026-11-17T16:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654757"
     }
   ],
   "discursos": [],

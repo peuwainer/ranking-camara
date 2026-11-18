@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220654.jpg",
-  "score": 24.4,
-  "rank": 19,
+  "score": 21.95,
+  "rank": 24,
   "proposicoes": [],
   "discursos": [
     {
@@ -94,6 +94,12 @@
       "sigla": "PEC03215",
       "cargo": "Suplente",
       "desde": "2026-08-11T00:00"
+    },
+    {
+      "nome": "Comissão de Trabalho",
+      "sigla": "CTRAB",
+      "cargo": "Suplente",
+      "desde": "2026-11-17T00:00"
     },
     {
       "nome": "Comissão de Defesa dos Direitos da Mulher",

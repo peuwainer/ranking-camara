@@ -4,41 +4,10 @@
   "partido": "PSD",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74262.jpg",
-  "score": 3.13,
-  "rank": 350,
+  "score": 0.0,
+  "rank": 501,
   "proposicoes": [],
   "discursos": [],
-  "orgaos": [
-    {
-      "nome": "Comissão Externa destinada a acompanhar e monitorar as obras do túnel submerso Santos-Guarujá, projeto de infraestrutura e mobilidade lançado pelo Governo Federal, que visa promover a ligação seca dos Municípios de Santos e Guarujá, no litoral do Estado de São Paulo, por meio de passagem submersa sob o canal do Porto de Santos.",
-      "sigla": "CEXTUNEL",
-      "cargo": "Titular",
-      "desde": "2025-05-07T00:00"
-    },
-    {
-      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
-      "sigla": "CSPCCO",
-      "cargo": "Titular",
-      "desde": "2026-02-03T00:00"
-    },
-    {
-      "nome": "Comissão de Defesa do Consumidor",
-      "sigla": "CDC",
-      "cargo": "Suplente",
-      "desde": "2026-02-04T00:00"
-    },
-    {
-      "nome": "Comissão de Constituição e Justiça e de Cidadania",
-      "sigla": "CCJC",
-      "cargo": "Suplente",
-      "desde": "2026-02-09T00:00"
-    },
-    {
-      "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 8085, de 2014, do Senado Federal, que \"altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para instituir a obrigatoriedade da prática de direção veicular em vias públicas para fins de formação de condutores\"",
-      "sigla": "PL808514",
-      "cargo": "Titular",
-      "desde": "2026-02-27T00:00"
-    }
-  ],
+  "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/74262/votacoes-nominais-plenario/2026"
 }

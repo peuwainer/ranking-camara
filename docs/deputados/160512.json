@@ -4,8 +4,8 @@
   "partido": "SOLIDARIEDADE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
-  "score": 23.12,
-  "rank": 21,
+  "score": 30.14,
+  "rank": 15,
   "proposicoes": [
     {
       "id": 2648633,
@@ -87,6 +87,69 @@
       "ementa": "Integra",
       "data": "2026-11-12T14:40",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653274"
+    },
+    {
+      "id": 2654473,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Define como atividades essenciais não sujeitas a suspensão ou interrupção por decreto, os serviços prestados por lanchonetes, restaurantes, hotéis, pousadas, borracharias e oficinas mecânicas estabelecidas às margens das rodovias federais e estaduais.",
+      "data": "2026-11-17T12:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654473"
+    },
+    {
+      "id": 2654483,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990, para reconhecer os órgãos de proteção e defesa do consumidor (PROCONs) como integrantes do Sistema Nacional de Defesa do Consumidor.",
+      "data": "2026-11-17T12:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654483"
+    },
+    {
+      "id": 2654487,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 14.300, de 6 de janeiro de 2022, para estabelecer que o parecer de acesso de microgeração e minigeração distribuída de energia elétrica à rede de distribuição deverá ser emitido pela distribuidora acessada ou por empresa ou profissional habilitados, conforme escolha do consumidor.",
+      "data": "2026-11-17T13:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654487"
+    },
+    {
+      "id": 2654488,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 14.300, de 6 de janeiro de 2022, para estabelecer que o parecer de acesso de microgeração e minigeração distribuída de energia elétrica à rede de distribuição deverá ser emitido pela distribuidora acessada ou por empresa ou profissional habilitados, conforme escolha do consumidor.",
+      "data": "2026-11-17T13:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654488"
+    },
+    {
+      "id": 2654504,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Cria o Parágrafo Único do Artigo 19 da Lei 14.300, de 06 de janeiro de 2022, excluindo a incidência de acréscimos por meio de bandeira tarifária do consumo de energia elétrica ativa a ser faturada para consumidor-gerador de energia por microgeração e minigeração distribuída através de matriz eólica ou solar, quando da apuração a que se refere o artigo 12 da presente Lei.",
+      "data": "2026-11-17T13:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654504"
+    },
+    {
+      "id": 2654727,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Dá nova redação ao art. 51 da Lei nº 8.245, de 18 de outubro de 1991, que “Dispõe sobre as locações dos imóveis urbanos e os procedimentos a elas pertinentes”, para possibilitar que o prazo do contrato a ser renovado seja livremente pactuado pelas partes.",
+      "data": "2026-11-17T15:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654727"
+    },
+    {
+      "id": 2654806,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Estabelece a obrigatoriedade de aviso prévio e claro sobre a gravação de dados de voz por centrais telefônicas, plataformas digitais e aplicativos, e dá outras providências.",
+      "data": "2026-11-17T18:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654806"
     }
   ],
   "discursos": [],
@@ -228,6 +291,12 @@
       "sigla": "GTPROELE",
       "cargo": "Titular",
       "desde": "2026-11-11T00:00"
+    },
+    {
+      "nome": "Comissão do Esporte",
+      "sigla": "CESPO",
+      "cargo": "Suplente",
+      "desde": "2026-11-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/160512/votacoes-nominais-plenario/2026"

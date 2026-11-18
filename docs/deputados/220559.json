@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SC",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220559.jpg",
-  "score": 36.11,
-  "rank": 10,
+  "score": 42.41,
+  "rank": 4,
   "proposicoes": [
     {
       "id": 2651861,
@@ -296,7 +296,22 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654303"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-17T17:44",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. JULIA ZANATTA (PL - SC. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, quero só lhe informar que o PLP não foi apreciado no Senado hoje. Então, não vai dar para ajudar essa forçadinha p",
+      "transcricao": "A SRA. JULIA ZANATTA (PL - SC. Pela ordem. Sem revisão da oradora.) - Sr. Presidente, quero só lhe informar que o PLP não foi apreciado no Senado hoje. Então, não vai dar para ajudar essa forçadinha para o Governo Lula. O PLP não vai para a pauta, apesar de estar nela."
+    },
+    {
+      "data": "2026-11-17T17:00",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. JULIA ZANATTA (PL - SC. Pela ordem. Sem revisão da oradora.) - Obrigada. Sr. Presidente, hoje está em vários portais de notícias o fato de que uma juíza chorou durante o julgamento, ontem, segu",
+      "transcricao": "A SRA. JULIA ZANATTA (PL - SC. Pela ordem. Sem revisão da oradora.) - Obrigada. Sr. Presidente, hoje está em vários portais de notícias o fato de que uma juíza chorou durante o julgamento, ontem, segunda-feira, no TRE de Santa Catarina. A Juíza Luíza Portella chorou no TRE de Santa Catarina ao condenar os ataques contra a Deputada Federal Julia Zanatta  no caso, eu. Única mulher entre os magistrados, ela chamou a perseguição de \"completamente indigna\". A Juíza Luíza Portella chamou a perseguição a mim, durante a campanha eleitoral, de \"completamente indigna\". Na campanha, perfis de Esquerda resgataram vídeos que a própria Deputada Zanatta publicou em 2014 numa viagem a Ibiza  com o meu próprio dinheiro; e isso irrita muito , muito antes de a catarinense constituir família. Nos vídeos, ela filmava uma dançarina. Os perfis espalharam a fake news de que era a Parlamentar quem dançava de calcinha em cima da mesa e a chamaram de \"conservadia\". O TRE manteve a retirada dos vídeos, proibiu a republicação e multou os responsáveis. E a Juíza Luíza Portella chorou ao falar sobre essa condenação, Presidente. E o que aconteceu hoje? Perfis de feministas de Esquerda já estão criticando a juíza por ela ter se emocionado nesse julgamento. Olha o que falou uma jornalista de extrema esquerda: \"Isso aqui é o total e mais absoluto sequestro que o feminismo liberal promove. A pretexto de defender os direitos das mulheres, a juíza individualiza a causa tomando como mártir uma Parlamentar cujo mandato é voltado contra os direitos das mulheres. Eu creio que isso não é burrice, é um projeto de usar as nossas causas para nos intimidar mais e mais\". Isso prova que o feminismo não defende todas as mulheres, defende apenas algumas mulheres que são subservientes a essa gênese. Então, eu quero me solidarizar também aqui com a juíza que agora ao proferir o seu voto está sofrendo esses ataques. É lamentável! E eu avisei que se ficassem me atacando demais e resgatando fotos minhas de 10 anos atrás eu seria a Deputada mais votada da história de Santa Catarina, e assim o fiz com 560 mil votos. Beijos de luz e fiquem com Deus!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

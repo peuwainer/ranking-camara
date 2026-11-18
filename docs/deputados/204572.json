@@ -4,10 +4,27 @@
   "partido": "PL",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204572.jpg",
-  "score": 9.5,
-  "rank": 122,
-  "proposicoes": [],
+  "score": 10.57,
+  "rank": 112,
+  "proposicoes": [
+    {
+      "id": 2654503,
+      "tipo": "PL",
+      "numero": 5878,
+      "ano": 2026,
+      "ementa": "Altera a Lei n° 14.238, de 19 de dezembro de 2021, o Estatuto da Pessoa com Câncer, para instituir a Carteira Nacional Digital de Identificação da Pessoa com Câncer, expedida gratuitamente pela direção única, no âmbito da União, do Sistema Único de Saúde, e integrada às plataformas digitais oficiais do Poder Público.",
+      "data": "2026-11-17T12:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654503"
+    }
+  ],
   "discursos": [
+    {
+      "data": "2026-11-17T13:55",
+      "fase": "Encerramento",
+      "tipo": "DISCURSO ENCAMINHADO",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO CAPITÃO ALBERTO NETO (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, Senhoras e Senhores Deputados, Subo a esta tribuna para falar de uma empresa que ",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELO SR. DEPUTADO CAPITÃO ALBERTO NETO (SEM REGISTRO TAQUIGRÁFICO). Senhor Presidente, Senhoras e Senhores Deputados, Subo a esta tribuna para falar de uma empresa que pertence a cada brasileiro e que está sendo levada à ruína diante dos nossos olhos: a Empresa Brasileira de Correios e Telégrafos. No último sábado, os Correios divulgaram o balanço dos nove primeiros meses de 2026. Os números são graves. A empresa perdeu R$ 7,5 bilhões em apenas nove meses, 27% a mais do que no mesmo período do ano passado. É o décimo sexto trimestre seguido no vermelho. Mas o dado mais alarmante é outro. O patrimônio líquido dos Correios está negativo em R$ 21,8 bilhões. Em termos simples: se a empresa vendesse tudo o que tem, cada prédio, cada veículo, cada agência, ainda ficaria devendo mais de R$ 21 bilhões. É uma empresa tecnicamente insolvente. E isso não aconteceu da noite para o dia. Em 2021, os Correios tiveram lucro de R$ 3,7 bilhões. No fim de 2023, o patrimônio negativo era de R$ 360 milhões. Em 2024 chegou a R$ 4,4 bilhões, em 2025 a R$ 13,1 bilhões, e hoje passa de R$ 21 bilhões. Desde 2023, sob o atual governo, os prejuízos somados ultrapassam R$ 19 bilhões. Só em 2025 foram R$ 8,5 bilhões, o pior resultado da história da empresa. Qual foi a resposta do governo? Mais dívida. No fim de 2025, os Correios tomaram R$ 12 bilhões emprestados com bancos, com aval do Tesouro Nacional. Em outubro deste ano, formalizaram mais R$ 7 bilhões. E até o fim de 2027 está previsto um aporte direto da União de R$ 6 bilhões. Só com juros e encargos, a empresa já gastou R$ 2,5 bilhões este ano. Senhor Presidente, quem paga essa conta é o contribuinte. Quando o Tesouro avaliza, garante e aporta, é o dinheiro do trabalhador brasileiro que cobre a má gestão. Também não se pode ignorar o efeito das decisões do próprio governo. A própria empresa reconheceu que a queda de 65,6% nas encomendas internacionais em 2025 foi o principal fator isolado da perda de receita. Foi o governo que taxou as compras internacionais e depois viu a receita da sua estatal desabar. Mesmo assim, o Presidente da República descartou qualquer mudança de modelo e insiste em manter tudo como está, empurrando o problema com empréstimos e aportes. E aqui falo como representante do Amazonas. No interior do nosso estado, em municípios onde não chega transportadora privada, os Correios são muitas vezes o único elo do cidadão com o resto do país. É por ali que chegam o documento, o medicamento e a encomenda do pequeno comerciante. Quando a empresa planeja fechar cerca de mil agências próprias para cortar custos, quem mais perde é justamente essa população, que não tem alternativa. Defender os Correios não é defender a má gestão. É exigir transparência, responsabilidade e um plano sério, com metas, prazos e prestação de contas a este Parlamento e ao Tribunal de Contas da União. Por isso, Senhor Presidente, cobro do governo federal três respostas: qual é o plano concreto para estancar o prejuízo; quanto ainda será exigido do Tesouro Nacional; e qual é a garantia de que a população do interior da Amazônia não ficará sem atendimento. O Brasil não pode aceitar que uma empresa com mais de três séculos de história seja afundada por decisões erradas e pela falta de coragem de enfrentar o problema. Muito Obrigado!"
+    },
     {
       "data": "2026-11-11T13:55",
       "fase": "Encerramento",

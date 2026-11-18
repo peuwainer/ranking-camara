@@ -4,9 +4,19 @@
   "partido": "PSD",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/143632.jpg",
-  "score": 3.75,
-  "rank": 313,
-  "proposicoes": [],
+  "score": 4.7,
+  "rank": 265,
+  "proposicoes": [
+    {
+      "id": 2654594,
+      "tipo": "EMC",
+      "numero": 1,
+      "ano": 2026,
+      "ementa": "Prevê o requerimento unilateral de divórcio ou de dissolução de união estável pela ofendida perante o Tabelião de Notas, nos termos do Código de Processo Civil e da regulamentação do Conselho Nacional de Justiça.",
+      "data": "2026-11-17T12:27",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654594"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

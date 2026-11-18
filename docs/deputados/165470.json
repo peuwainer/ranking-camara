@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/165470.jpg",
-  "score": 2.22,
-  "rank": 419,
+  "score": 2.82,
+  "rank": 375,
   "proposicoes": [
     {
       "id": 2649712,
@@ -30,6 +30,12 @@
       "sigla": "CREDN",
       "cargo": "Titular",
       "desde": "2026-04-07T00:00"
+    },
+    {
+      "nome": "Comissão de Trabalho",
+      "sigla": "CTRAB",
+      "cargo": "Titular",
+      "desde": "2026-11-17T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/165470/votacoes-nominais-plenario/2026"

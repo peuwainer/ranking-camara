@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220612.jpg",
-  "score": 6.66,
-  "rank": 197,
+  "score": 8.3,
+  "rank": 163,
   "proposicoes": [
     {
       "id": 2651975,
@@ -15,6 +15,24 @@
       "ementa": "Altera a Lei n º 7.565, de 19 de dezembro de 1986 - Código Brasileiro de Aeronáutica, para determinar a obrigatoriedade de uma malha aérea mínima que contemple todos os Estados da Federação em casos de calamidade pública decretada pela União.",
       "data": "2026-11-10T12:48",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651975"
+    },
+    {
+      "id": 2654801,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a sinalização náutica de controle e auxilio à navegação de embarcações motorizadas em áreas de concentração de banhistas.",
+      "data": "2026-11-17T17:58",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654801"
+    },
+    {
+      "id": 2654808,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Prevenção de Atropelamento de Fauna em Rodovias, com a obrigatoriedade de instalação de cercas condutoras, passagens de fauna e sinalização adequada, e dá outras providências.",
+      "data": "2026-11-17T18:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654808"
     }
   ],
   "discursos": [

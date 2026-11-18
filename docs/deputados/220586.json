@@ -4,9 +4,19 @@
   "partido": "MDB",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220586.jpg",
-  "score": 1.88,
-  "rank": 452,
-  "proposicoes": [],
+  "score": 2.82,
+  "rank": 374,
+  "proposicoes": [
+    {
+      "id": 2654736,
+      "tipo": "PL",
+      "numero": 5882,
+      "ano": 2026,
+      "ementa": "Institui o direito à autonomia algorítmica, assegura ao usuário de plataforma digital a escolha de modalidade de apresentação de conteúdos não baseada em perfilamento comportamental e altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para incluir esse direito no rol de direitos dos usuários de internet.",
+      "data": "2026-11-17T15:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654736"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
