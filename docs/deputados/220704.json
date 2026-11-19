@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220704.jpg",
-  "score": 14.07,
-  "rank": 57,
+  "score": 32.32,
+  "rank": 9,
   "proposicoes": [
     {
       "id": 2649412,
@@ -78,6 +78,33 @@
       "ementa": "Institui o Imposto sobre Grandes  Fortunas, previsto no art. 153, inciso VII, da Constituição Federal.",
       "data": "2026-11-17T10:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654382"
+    },
+    {
+      "id": 2654763,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre incentivos à inserção de mulheres com mais de cinquenta anos no mercado de trabalho.",
+      "data": "2026-11-17T16:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654763"
+    },
+    {
+      "id": 2654838,
+      "tipo": "PL",
+      "numero": 5889,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a incidência do Imposto sobre a Renda das Pessoas Físicas sobre lucros e dividendos distribuídos por pessoas jurídicas, altera as Leis nº 9.249, de 26 de dezembro de 1995, e nº 9.250, de 26 de dezembro de 1995, e dá outras providências.",
+      "data": "2026-11-17T18:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654838"
+    },
+    {
+      "id": 2655528,
+      "tipo": "PL",
+      "numero": 5906,
+      "ano": 2026,
+      "ementa": "Altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, a Lei nº 14.457, de 21 de setembro de 2022, e a Lei nº 8.213, de 24 de julho de 1991, para dispor sobre a prevenção do assédio moral no trabalho, a distribuição do ônus da prova, o prazo prescricional e a proteção processual de quem o denuncia.",
+      "data": "2026-11-19T11:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655528"
     }
   ],
   "discursos": [

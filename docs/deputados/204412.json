@@ -4,9 +4,28 @@
   "partido": "MDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204412.jpg",
-  "score": 3.13,
-  "rank": 343,
-  "proposicoes": [],
+  "score": 6.81,
+  "rank": 91,
+  "proposicoes": [
+    {
+      "id": 2655428,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.610, de 19 de fevereiro de 1998, para dispor sobre a proteção da imagem, voz e demais características pessoais contra imitações digitais realistas geradas por inteligência artificial ou tecnologia similar, bem como reforça os direitos dos artistas intérpretes ou executantes.",
+      "data": "2026-11-18T17:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655428"
+    },
+    {
+      "id": 2655460,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a promoção de ações de biotecnologia visando a substituição do uso de animais em pesquisas para testes de medicamentos e vacinas, e dá outras providências.",
+      "data": "2026-11-18T18:52",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655460"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

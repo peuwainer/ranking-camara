@@ -4,8 +4,8 @@
   "partido": "SOLIDARIEDADE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
-  "score": 30.14,
-  "rank": 15,
+  "score": 50.0,
+  "rank": 3,
   "proposicoes": [
     {
       "id": 2648633,
@@ -150,6 +150,33 @@
       "ementa": "Estabelece a obrigatoriedade de aviso prévio e claro sobre a gravação de dados de voz por centrais telefônicas, plataformas digitais e aplicativos, e dá outras providências.",
       "data": "2026-11-17T18:10",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654806"
+    },
+    {
+      "id": 2655193,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a criação de espaços ou salas multissensoriais em ambientes de grande circulação e permanência de pessoas, com a finalidade de oferecer acolhimento e suporte adequado a indivíduos diagnosticados com Transtorno do Espectro Autista (TEA).",
+      "data": "2026-11-18T13:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655193"
+    },
+    {
+      "id": 2655395,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para dispor sobre a obrigatoriedade de inclusão da opção “outras opções” e do atendimento humano nos menus eletrônicos de atendimento telefônico ao consumidor.",
+      "data": "2026-11-18T16:25",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655395"
+    },
+    {
+      "id": 2655445,
+      "tipo": "PL",
+      "numero": 5900,
+      "ano": 2026,
+      "ementa": "Cria a Agência Brasileira de Economia Criativa, dispõe sobre suas finalidades, estrutura, governança e contrato de gestão, e dá outras providências.",
+      "data": "2026-11-18T18:08",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655445"
     }
   ],
   "discursos": [],

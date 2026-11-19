@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220576.jpg",
-  "score": 3.75,
-  "rank": 295,
-  "proposicoes": [],
+  "score": 5.59,
+  "rank": 98,
+  "proposicoes": [
+    {
+      "id": 2655421,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Veda a instauração de inquérito por órgão ou membro pertencente ao Poder Judiciário e tipifica essa conduta como crime de abuso de autoridade.",
+      "data": "2026-11-18T17:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655421"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {
