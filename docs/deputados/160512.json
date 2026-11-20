@@ -4,8 +4,8 @@
   "partido": "SOLIDARIEDADE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
-  "score": 50.0,
-  "rank": 3,
+  "score": 32.95,
+  "rank": 13,
   "proposicoes": [
     {
       "id": 2648633,
@@ -177,6 +177,15 @@
       "ementa": "Cria a Agência Brasileira de Economia Criativa, dispõe sobre suas finalidades, estrutura, governança e contrato de gestão, e dá outras providências.",
       "data": "2026-11-18T18:08",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655445"
+    },
+    {
+      "id": 2655593,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade de as embalagens de produtos para consumo apresentarem imagens que correspondam fielmente ao tamanho real do produto no interior, e dá outras providências.",
+      "data": "2026-11-19T15:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655593"
     }
   ],
   "discursos": [],

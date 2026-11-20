@@ -4,9 +4,19 @@
   "partido": "PSD",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/162332.jpg",
-  "score": 2.5,
-  "rank": 398,
-  "proposicoes": [],
+  "score": 3.4,
+  "rank": 341,
+  "proposicoes": [
+    {
+      "id": 2655409,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Aprova o texto do Tratado de Assistência Jurídica Mútua em Matéria Penal entre a República Federativa do Brasil e o Japão, assinado em Tóquio, em 25 de janeiro de 2024.",
+      "data": "2026-11-18T16:42",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655409"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

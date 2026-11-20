@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/230765.jpg",
-  "score": 10.34,
-  "rank": 67,
+  "score": 10.29,
+  "rank": 115,
   "proposicoes": [
     {
       "id": 2654382,
@@ -15,6 +15,15 @@
       "ementa": "Institui o Imposto sobre Grandes  Fortunas, previsto no art. 153, inciso VII, da Constituição Federal.",
       "data": "2026-11-17T10:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654382"
+    },
+    {
+      "id": 2655613,
+      "tipo": "PL",
+      "numero": 5914,
+      "ano": 2026,
+      "ementa": "Institui o Fundo Soberano de Desenvolvimento Nacional (FSDN) e estabelece diretrizes para sua organização, governança, gestão e aplicação de recursos.",
+      "data": "2026-11-19T15:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655613"
     }
   ],
   "discursos": [],

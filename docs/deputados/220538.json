@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "RR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220538.jpg",
-  "score": 4.38,
-  "rank": 109,
-  "proposicoes": [],
+  "score": 5.27,
+  "rank": 242,
+  "proposicoes": [
+    {
+      "id": 2655564,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade da presença de socorristas habilitados em casas de show, eventos musicais e demais estabelecimentos de grande circulação, e dá outras providências.",
+      "data": "2026-11-19T13:47",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655564"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

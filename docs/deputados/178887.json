@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178887.jpg",
-  "score": 40.3,
-  "rank": 6,
+  "score": 41.09,
+  "rank": 4,
   "proposicoes": [
     {
       "id": 2649124,
@@ -339,9 +339,41 @@
       "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para agravar, de forma proporcional ao número de agressores, a pena dos crimes de lesão corporal e de homicídio cometidos mediante espancamento coletivo.",
       "data": "2026-11-18T10:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655134"
+    },
+    {
+      "id": 2655541,
+      "tipo": "PL",
+      "numero": 5909,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.350, de 5 de outubro de 2006, para fixar em grau máximo o adicional de insalubridade dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias, e assegurar o cálculo sobre o vencimento ou salário-base.",
+      "data": "2026-11-19T12:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655541"
+    },
+    {
+      "id": 2655542,
+      "tipo": "PL",
+      "numero": 5910,
+      "ano": 2026,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), e a Lei nº 11.350, de 5 de outubro de 2006, para agravar a pena dos crimes praticados contra agentes comunitários de saúde e agentes de combate às endemias em razão do exercício da função e para dispor sobre a proteção desses profissionais.",
+      "data": "2026-11-19T12:10",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655542"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-11-18T16:40",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. RUBENS PEREIRA JÚNIOR (Bloco/PT - MA. Pela ordem. Sem revisão do orador.) - Presidente, o Governo orienta \"sim\", e eu queria aproveitar para fazer um registro. Eu quero fazer uma homenagem. Hoje",
+      "transcricao": "O SR. RUBENS PEREIRA JÚNIOR (Bloco/PT - MA. Pela ordem. Sem revisão do orador.) - Presidente, o Governo orienta \"sim\", e eu queria aproveitar para fazer um registro. Eu quero fazer uma homenagem. Hoje, a OAB completa, no dia 18 de novembro, 96 anos de história. Desde a sua criação, em 1930, a OAB tem desempenhado um papel fundamental na defesa da advocacia, da democracia, do Estado Democrático de Direito e dos direitos dos cidadãos brasileiros. Ao longo dessa trajetória, a instituição tem sido uma voz importante na defesa da Constituição, do acesso à Justiça e das prerrogativas da advocacia, essenciais para garantir o direito e a defesa de todos os brasileiros. Eu quero cumprimentar também, especialmente, o Presidente Nacional da OAB, o Dr. Beto Simonetti, pelo trabalho que vem realizando à frente da instituição, sempre em defesa da valorização da advocacia e do fortalecimento das nossas instituições. E estendo o meu cumprimento a todos os advogados e advogadas do País, em especial ao Presidente da minha seccional, Kaio Saraiva, que exerce diariamente uma função indispensável à Justiça. Parabéns, OAB, pelos seus 96 anos!"
+    },
+    {
+      "data": "2026-11-18T16:28",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. RUBENS PEREIRA JÚNIOR (Bloco/PT - MA. Pela ordem. Sem revisão do orador.) - Eu agradeço, Presidenta. Eu queria registrar, neste momento, uma fala para quem acorda cedo, abre o salão, liga a máqu",
+      "transcricao": "O SR. RUBENS PEREIRA JÚNIOR (Bloco/PT - MA. Pela ordem. Sem revisão do orador.) - Eu agradeço, Presidenta. Eu queria registrar, neste momento, uma fala para quem acorda cedo, abre o salão, liga a máquina de costura, acende o fogão, sai para fazer uma entrega: o microempreendedor individual. Tive a honra de relatar nesta Casa a nova Lei do MEI, que aumentou o teto do faturamento, perdoou as dívidas e criou o Pix MEI. E é justamente sobre o Pix MEI que eu quero chamar a atenção. Não é empréstimo; é investimento de até 5 mil reais para que o MEI possa empreender com ainda mais qualidade, adquirindo equipamentos que permitam exercer melhor o seu empreendedorismo. Mas há uma seleção. O edital deve ser publicado este ano para já se ter o dinheiro no ano que vem. Só que, como é um edital, o que nós resolvemos fazer? Lançar um site, um portal, chamado pixdomei.com.br, onde vamos poder orientar o MEI sobre o que pode e o que não pode, o que tem que ser feito para ganhar tempo, para garantir que esse empreendedor que precisa dessa ajuda, que quer investir mais e empreender mais, tenha suporte por parte do Governo. Portanto, com o lançamento do portal pixdomei.com.br, a nossa equipe vai auxiliar na elaboração das propostas. A gente acredita que é investindo no MEI, que a gente faz o Brasil crescer ainda mais."
+    },
     {
       "data": "2026-11-10T16:40",
       "fase": "Breves Comunicações",

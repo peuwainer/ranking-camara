@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220691.jpg",
-  "score": 3.75,
-  "rank": 130,
-  "proposicoes": [],
+  "score": 4.65,
+  "rank": 268,
+  "proposicoes": [
+    {
+      "id": 2655577,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre as carteiras de identidade funcional de policial legislativo emitidas pelas Assembleias Legislativas e pela Câmara Legislativa do Distrito Federal; altera a Lei nº 14.070, de 13 de outubro de 2020, e dá outras providências.",
+      "data": "2026-11-19T14:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655577"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

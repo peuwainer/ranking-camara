@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/215043.jpg",
-  "score": 3.13,
-  "rank": 348,
-  "proposicoes": [],
+  "score": 4.02,
+  "rank": 291,
+  "proposicoes": [
+    {
+      "id": 2655581,
+      "tipo": "PL",
+      "numero": 5912,
+      "ano": 2026,
+      "ementa": "Institui o Programa de equipes especializadas para o atendimento de urgências em saúde mental ERSAM.",
+      "data": "2026-11-19T14:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655581"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204485.jpg",
-  "score": 2.5,
-  "rank": 396,
-  "proposicoes": [],
+  "score": 3.4,
+  "rank": 340,
+  "proposicoes": [
+    {
+      "id": 2655184,
+      "tipo": "PL",
+      "numero": 5895,
+      "ano": 2026,
+      "ementa": "INSTITUI O MARCO NACIONAL DE PROTEÇÃO, DEFESA E RECONHECIMENTO DOS TRABALHADORES DO COMÉRCIO E ESTABELECE DIRETRIZES PARA A POLÍTICA NACIONAL DE VALORIZAÇÃO E DESENVOLVIMENTO PROFISSIONAL DA CATEGORIA.",
+      "data": "2026-11-18T11:13",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655184"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

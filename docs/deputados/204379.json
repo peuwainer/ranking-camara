@@ -4,10 +4,35 @@
   "partido": "MDB",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204379.jpg",
-  "score": 0.0,
-  "rank": 197,
+  "score": 2.5,
+  "rank": 381,
   "proposicoes": [],
   "discursos": [],
-  "orgaos": [],
+  "orgaos": [
+    {
+      "nome": "Grupo de Trabalho de Consolidação das Leis",
+      "sigla": "GTCL",
+      "cargo": "Titular",
+      "desde": "2025-04-30T00:00"
+    },
+    {
+      "nome": "Conselho de Ética e Decoro Parlamentar da Câmara dos Deputados",
+      "sigla": "COETICA",
+      "cargo": "Titular",
+      "desde": "2025-07-01T00:00"
+    },
+    {
+      "nome": "Comissão de Meio Ambiente e Desenvolvimento Sustentável",
+      "sigla": "CMADS",
+      "cargo": "Suplente",
+      "desde": "2026-03-03T00:00"
+    },
+    {
+      "nome": "Comissão de Constituição e Justiça e de Cidadania",
+      "sigla": "CCJC",
+      "cargo": "Titular",
+      "desde": "2026-03-05T00:00"
+    }
+  ],
   "url_votacoes": "https://www.camara.leg.br/deputados/204379/votacoes-nominais-plenario/2026"
 }

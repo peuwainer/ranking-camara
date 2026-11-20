@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220569.jpg",
-  "score": 5.32,
-  "rank": 247,
+  "score": 9.76,
+  "rank": 122,
   "proposicoes": [
     {
       "id": 2654235,
@@ -15,6 +15,51 @@
       "ementa": "Revoga o voto secreto no âmbito da Câmara dos Deputados, alterando os arts. 7º e 188 do Regimento Interno - FIM DO VOTO SECRETO PARA TUDO!",
       "data": "2026-11-16T16:51",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654235"
+    },
+    {
+      "id": 2655454,
+      "tipo": "PL",
+      "numero": 5901,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), para estender a aplicação das medidas protetivas de urgência a toda forma de violência contra a mulher baseada na condição de mulher e dá outras providências.",
+      "data": "2026-11-18T18:32",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655454"
+    },
+    {
+      "id": 2655459,
+      "tipo": "PL",
+      "numero": 5902,
+      "ano": 2026,
+      "ementa": "Estabelece diretrizes para a atenção integral à saúde das pessoas com sobrepeso e obesidade no âmbito do Sistema Único de Saúde – SUS.",
+      "data": "2026-11-18T18:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655459"
+    },
+    {
+      "id": 2655462,
+      "tipo": "PL",
+      "numero": 5903,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Educação Especial Inclusiva, e altera o art. 3º da Lei nº 13.146, de 6 de julho de 2015.",
+      "data": "2026-11-18T18:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655462"
+    },
+    {
+      "id": 2655566,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Proíbe iniciativa de operadoras de telemarketing ativo de estabelecer contato com a chave de acesso de usuário de telefonia sem prévia autorização expressa, específica e individualizada concedida pelo usuário dos serviços de telecomunicações. Estabelece exigências e prescreve medidas para prevenção do uso indevido dos serviços de telecomunicações na prestação dos serviços de telemarketing ativo; estabelece normas gerais de proteção aos direitos básicos do consumidor dos serviços de telecomunicação e de repressão ao uso abusivo do código de acesso telefônico por originadores e operadoras de telemarketing ativo; fixa exigência de comprovação da anuência prévia, individual e específica concedida pelo usuário dos serviços de telefonia como condição para autorizar operadores e prestadores de serviços de telemarketing, televendas, tele serviços, call Centers e equiparados estabelecer contato ativo com a chave de acesso do consumidor para fins de oferta de produtos e serviços realizados por telefone; define crimes e dá outras providências.",
+      "data": "2026-11-19T13:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655566"
+    },
+    {
+      "id": 2655664,
+      "tipo": "PL",
+      "numero": 5916,
+      "ano": 2026,
+      "ementa": "Altera o parágrafo único do art. 1º da Lei nº 8.072, de 25 de julho de 1990, para considerar hediondo o homicídio praticado na direção de veículo automotor, quando praticado em concurso com a condução de veículo com capacidade psicomotora alterada em razão da influência de álcool ou de outra substância psicoativa que determine dependência (art. 306 do CTB) ou com a participação em corrida, disputa ou competição automobilística não autorizada (art. 308 do CTB), vedando fiança, anistia, graça e indulto e impondo cumprimento inicial da pena em regime fechado.",
+      "data": "2026-11-19T16:43",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655664"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141485.jpg",
-  "score": 6.57,
-  "rank": 203,
+  "score": 7.15,
+  "rank": 186,
   "proposicoes": [
     {
       "id": 2649218,
@@ -72,6 +72,12 @@
       "sigla": "CICS",
       "cargo": "Suplente",
       "desde": "2026-09-22T00:00"
+    },
+    {
+      "nome": "Comissão de Turismo",
+      "sigla": "CTUR",
+      "cargo": "Suplente",
+      "desde": "2026-11-18T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/141485/votacoes-nominais-plenario/2026"

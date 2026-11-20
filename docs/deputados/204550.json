@@ -4,9 +4,19 @@
   "partido": "PSB",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204550.jpg",
-  "score": 1.25,
-  "rank": 473,
-  "proposicoes": [],
+  "score": 2.15,
+  "rank": 420,
+  "proposicoes": [
+    {
+      "id": 2655477,
+      "tipo": "PL",
+      "numero": 5904,
+      "ano": 2026,
+      "ementa": "Declara a tradicional Missa de Cristo Rei, realizada no município de Jaguaruana, Estado do Ceará, como manifestação da cultura nacional e Patrimônio Cultural Imaterial do Brasil, e dá outras providências.",
+      "data": "2026-11-18T20:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655477"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

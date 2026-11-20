@@ -4,18 +4,9 @@
   "partido": "PCdoB",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160641.jpg",
-  "score": 9.69,
-  "rank": 132,
+  "score": 9.31,
+  "rank": 134,
   "proposicoes": [
-    {
-      "id": 2648406,
-      "tipo": "PL",
-      "numero": 5610,
-      "ano": 2026,
-      "ementa": "Altera a Lei nº 9.504, de 30 de setembro de 1997, para instituir procedimento de verificação de informações factuais apresentadas durante debates eleitorais.",
-      "data": "2026-10-19T21:37",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648406"
-    },
     {
       "id": 2653944,
       "tipo": "PL",
@@ -69,6 +60,15 @@
       "ementa": "Dispõe sobre a incidência do Imposto sobre a Renda das Pessoas Físicas sobre lucros e dividendos distribuídos por pessoas jurídicas, altera as Leis nº 9.249, de 26 de dezembro de 1995, e nº 9.250, de 26 de dezembro de 1995, e dá outras providências.",
       "data": "2026-11-17T18:44",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654838"
+    },
+    {
+      "id": 2655613,
+      "tipo": "PL",
+      "numero": 5914,
+      "ano": 2026,
+      "ementa": "Institui o Fundo Soberano de Desenvolvimento Nacional (FSDN) e estabelece diretrizes para sua organização, governança, gestão e aplicação de recursos.",
+      "data": "2026-11-19T15:23",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655613"
     }
   ],
   "discursos": [

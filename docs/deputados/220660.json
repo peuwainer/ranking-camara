@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "CE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220660.jpg",
-  "score": 1.57,
-  "rank": 460,
+  "score": 0.9,
+  "rank": 490,
   "proposicoes": [
     {
       "id": 2650684,
@@ -18,13 +18,6 @@
     }
   ],
   "discursos": [],
-  "orgaos": [
-    {
-      "nome": "Comissão de Turismo",
-      "sigla": "CTUR",
-      "cargo": "Suplente",
-      "desde": "2026-06-12T00:00"
-    }
-  ],
+  "orgaos": [],
   "url_votacoes": "https://www.camara.leg.br/deputados/220660/votacoes-nominais-plenario/2026"
 }
