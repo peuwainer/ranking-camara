@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-21T14:45:13.064070+00:00",
+  "atualizado_em": "2026-11-22T14:35:13.088452+00:00",
   "legislatura": 57,
   "deputados": [
     {
@@ -224,19 +224,6 @@
       "orgaos": 12
     },
     {
-      "id": 204535,
-      "nome": "SAMIA DE SOUZA BOMFIM",
-      "nome_urna": "Sâmia Bomfim",
-      "partido": "PSOL",
-      "uf": "SP",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg",
-      "score": 24.89,
-      "proposicoes": 12,
-      "presenca_votacoes": 20.0,
-      "discursos": 0,
-      "orgaos": 13
-    },
-    {
       "id": 204441,
       "nome": "OTONI MOURA DE PAULO JUNIOR",
       "nome_urna": "Otoni de Paula",
@@ -248,6 +235,19 @@
       "presenca_votacoes": 20.0,
       "discursos": 29,
       "orgaos": 4
+    },
+    {
+      "id": 204535,
+      "nome": "SAMIA DE SOUZA BOMFIM",
+      "nome_urna": "Sâmia Bomfim",
+      "partido": "PSOL",
+      "uf": "SP",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg",
+      "score": 24.0,
+      "proposicoes": 11,
+      "presenca_votacoes": 20.0,
+      "discursos": 0,
+      "orgaos": 13
     },
     {
       "id": 220604,
@@ -1563,19 +1563,6 @@
       "orgaos": 3
     },
     {
-      "id": 220715,
-      "nome": "AMOM MANDEL LINS FILHO",
-      "nome_urna": "Amom Mandel",
-      "partido": "REPUBLICANOS",
-      "uf": "AM",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
-      "score": 9.84,
-      "proposicoes": 4,
-      "presenca_votacoes": 0.0,
-      "discursos": 0,
-      "orgaos": 10
-    },
-    {
       "id": 220569,
       "nome": "SILVYE ALVES DA SILVA",
       "nome_urna": "Silvye Alves",
@@ -1899,19 +1886,6 @@
       "presenca_votacoes": 0.0,
       "discursos": 3,
       "orgaos": 7
-    },
-    {
-      "id": 160665,
-      "nome": "AUGUSTO RODRIGUES COUTINHO DE MELO",
-      "nome_urna": "Augusto Coutinho",
-      "partido": "REPUBLICANOS",
-      "uf": "PE",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
-      "score": 8.55,
-      "proposicoes": 3,
-      "presenca_votacoes": 0.0,
-      "discursos": 4,
-      "orgaos": 6
     },
     {
       "id": 133810,
@@ -2239,6 +2213,19 @@
       "orgaos": 10
     },
     {
+      "id": 160665,
+      "nome": "AUGUSTO RODRIGUES COUTINHO DE MELO",
+      "nome_urna": "Augusto Coutinho",
+      "partido": "REPUBLICANOS",
+      "uf": "PE",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
+      "score": 7.65,
+      "proposicoes": 2,
+      "presenca_votacoes": 0.0,
+      "discursos": 4,
+      "orgaos": 6
+    },
+    {
       "id": 160569,
       "nome": "WALDENOR ALVES PEREIRA FILHO",
       "nome_urna": "Waldenor Pereira",
@@ -2380,6 +2367,19 @@
       "presenca_votacoes": 0.0,
       "discursos": 6,
       "orgaos": 5
+    },
+    {
+      "id": 220715,
+      "nome": "AMOM MANDEL LINS FILHO",
+      "nome_urna": "Amom Mandel",
+      "partido": "REPUBLICANOS",
+      "uf": "AM",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220715.jpg",
+      "score": 7.15,
+      "proposicoes": 1,
+      "presenca_votacoes": 0.0,
+      "discursos": 0,
+      "orgaos": 10
     },
     {
       "id": 220583,
@@ -2798,19 +2798,6 @@
       "orgaos": 4
     },
     {
-      "id": 160640,
-      "nome": "EROS FERREIRA BIONDINI",
-      "nome_urna": "Eros Biondini",
-      "partido": "PL",
-      "uf": "MG",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160640.jpg",
-      "score": 6.09,
-      "proposicoes": 4,
-      "presenca_votacoes": 0.0,
-      "discursos": 0,
-      "orgaos": 4
-    },
-    {
       "id": 161440,
       "nome": "RAFAEL PEZENTI",
       "nome_urna": "Pezenti",
@@ -3181,6 +3168,19 @@
       "partido": "PP",
       "uf": "RS",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178963.jpg",
+      "score": 5.19,
+      "proposicoes": 3,
+      "presenca_votacoes": 0.0,
+      "discursos": 0,
+      "orgaos": 4
+    },
+    {
+      "id": 160640,
+      "nome": "EROS FERREIRA BIONDINI",
+      "nome_urna": "Eros Biondini",
+      "partido": "PL",
+      "uf": "MG",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160640.jpg",
       "score": 5.19,
       "proposicoes": 3,
       "presenca_votacoes": 0.0,
@@ -4722,19 +4722,6 @@
       "orgaos": 5
     },
     {
-      "id": 204539,
-      "nome": "HERCÍLIO ARAÚJO DINIZ FILHO",
-      "nome_urna": "Hercílio Coelho Diniz",
-      "partido": "MDB",
-      "uf": "MG",
-      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204539.jpg",
-      "score": 3.04,
-      "proposicoes": 2,
-      "presenca_votacoes": 0.0,
-      "discursos": 0,
-      "orgaos": 2
-    },
-    {
       "id": 80815,
       "nome": "LEONARDO SILVA PRATES",
       "nome_urna": "Leo Prates",
@@ -5443,6 +5430,19 @@
       "partido": "PCdoB",
       "uf": "PB",
       "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204394.jpg",
+      "score": 2.15,
+      "proposicoes": 1,
+      "presenca_votacoes": 0.0,
+      "discursos": 0,
+      "orgaos": 2
+    },
+    {
+      "id": 204539,
+      "nome": "HERCÍLIO ARAÚJO DINIZ FILHO",
+      "nome_urna": "Hercílio Coelho Diniz",
+      "partido": "MDB",
+      "uf": "MG",
+      "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204539.jpg",
       "score": 2.15,
       "proposicoes": 1,
       "presenca_votacoes": 0.0,
