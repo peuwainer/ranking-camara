@@ -4,9 +4,19 @@
   "partido": "PSD",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74262.jpg",
-  "score": 3.13,
-  "rank": 347,
-  "proposicoes": [],
+  "score": 4.02,
+  "rank": 292,
+  "proposicoes": [
+    {
+      "id": 2656714,
+      "tipo": "PL",
+      "numero": 5917,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.022, de 8 de agosto de 2014, para assegurar aos integrantes aposentados das Guardas Municipais a conservação da autorização de porte de arma de fogo.",
+      "data": "2026-11-19T21:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2656714"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

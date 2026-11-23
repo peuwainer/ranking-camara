@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/81055.jpg",
-  "score": 13.31,
-  "rank": 65,
+  "score": 14.2,
+  "rank": 59,
   "proposicoes": [
     {
       "id": 2652797,
@@ -87,6 +87,15 @@
       "ementa": "Institui o Fundo Soberano de Desenvolvimento Nacional (FSDN) e estabelece diretrizes para sua organização, governança, gestão e aplicação de recursos.",
       "data": "2026-11-19T15:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655613"
+    },
+    {
+      "id": 2657784,
+      "tipo": "PLP",
+      "numero": 316,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, e a Lei Complementar nº 101, de 4 de maio de 2000, para excluir as despesas das Universidades Públicas Federais e dos Institutos Federais de Educação, Ciência e Tecnologia dos limites de despesas primárias e das metas de resultado primário do Regime Fiscal Sustentável, bem como vedar o contingenciamento, o bloqueio e a limitação de empenho e movimentação financeira dessas despesas.",
+      "data": "2026-11-23T14:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2657784"
     }
   ],
   "discursos": [

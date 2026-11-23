@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141450.jpg",
-  "score": 15.22,
-  "rank": 51,
+  "score": 15.85,
+  "rank": 49,
   "proposicoes": [
     {
       "id": 2649048,
@@ -159,6 +159,12 @@
       "sigla": "CMO",
       "cargo": "Titular",
       "desde": "2026-06-15T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Titular",
+      "desde": "2026-11-23T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/141450/votacoes-nominais-plenario/2026"

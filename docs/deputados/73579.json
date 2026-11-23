@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73579.jpg",
-  "score": 12.81,
-  "rank": 72,
+  "score": 13.71,
+  "rank": 65,
   "proposicoes": [
     {
       "id": 2649549,
@@ -24,6 +24,15 @@
       "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual.",
       "data": "2026-11-06T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651342"
+    },
+    {
+      "id": 2656732,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Veda a simultaneidade de Processo Administrativo Disciplinar com Conselho de Disciplina ou Conselho de Justificação, no âmbito das corporações militares estaduais, e dá outras providências.",
+      "data": "2026-11-23T09:51",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2656732"
     }
   ],
   "discursos": [

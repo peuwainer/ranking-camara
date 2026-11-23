@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/206018.jpg",
-  "score": 36.16,
-  "rank": 10,
+  "score": 38.85,
+  "rank": 8,
   "proposicoes": [
     {
       "id": 2653944,
@@ -60,6 +60,33 @@
       "ementa": "Dispõe sobre a incidência do Imposto sobre a Renda das Pessoas Físicas sobre lucros e dividendos distribuídos por pessoas jurídicas, altera as Leis nº 9.249, de 26 de dezembro de 1995, e nº 9.250, de 26 de dezembro de 1995, e dá outras providências.",
       "data": "2026-11-17T18:44",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654838"
+    },
+    {
+      "id": 2656762,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 12.651, de 25 de maio de 2012 (Código Florestal), para instituir o Certificado de Restauração Ativa da Biodiversidade (CRAB), fomentando um mercado de ativos para a recomposição de serviços ecossistêmicos.",
+      "data": "2026-11-23T11:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2656762"
+    },
+    {
+      "id": 2656767,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 12.187, de 29 de dezembro de 2009, que institui a Política Nacional sobre Mudança do Clima (PNMC), para incluir a Justiça Climática Interseccional como princípio e estabelecer diretrizes de gênero e raça nas ações de adaptação e mitigação.",
+      "data": "2026-11-23T11:45",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2656767"
+    },
+    {
+      "id": 2657784,
+      "tipo": "PLP",
+      "numero": 316,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, e a Lei Complementar nº 101, de 4 de maio de 2000, para excluir as despesas das Universidades Públicas Federais e dos Institutos Federais de Educação, Ciência e Tecnologia dos limites de despesas primárias e das metas de resultado primário do Regime Fiscal Sustentável, bem como vedar o contingenciamento, o bloqueio e a limitação de empenho e movimentação financeira dessas despesas.",
+      "data": "2026-11-23T14:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2657784"
     }
   ],
   "discursos": [

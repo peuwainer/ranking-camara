@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74848.jpg",
-  "score": 14.44,
-  "rank": 55,
+  "score": 17.13,
+  "rank": 44,
   "proposicoes": [
     {
       "id": 2653944,
@@ -69,6 +69,33 @@
       "ementa": "Institui o Fundo Soberano de Desenvolvimento Nacional (FSDN) e estabelece diretrizes para sua organização, governança, gestão e aplicação de recursos.",
       "data": "2026-11-19T15:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655613"
+    },
+    {
+      "id": 2657779,
+      "tipo": "EMP",
+      "numero": 15,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T14:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2657779"
+    },
+    {
+      "id": 2657783,
+      "tipo": "EMP",
+      "numero": 16,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T14:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2657783"
+    },
+    {
+      "id": 2657784,
+      "tipo": "PLP",
+      "numero": 316,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, e a Lei Complementar nº 101, de 4 de maio de 2000, para excluir as despesas das Universidades Públicas Federais e dos Institutos Federais de Educação, Ciência e Tecnologia dos limites de despesas primárias e das metas de resultado primário do Regime Fiscal Sustentável, bem como vedar o contingenciamento, o bloqueio e a limitação de empenho e movimentação financeira dessas despesas.",
+      "data": "2026-11-23T14:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2657784"
     }
   ],
   "discursos": [

@@ -4,9 +4,28 @@
   "partido": "PSD",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160588.jpg",
-  "score": 3.75,
-  "rank": 302,
-  "proposicoes": [],
+  "score": 5.54,
+  "rank": 235,
+  "proposicoes": [
+    {
+      "id": 2656717,
+      "tipo": "PL",
+      "numero": 5919,
+      "ano": 2026,
+      "ementa": "Dispõe sobre regime especial de organização e distribuição dos períodos de repouso dos empregados do setor de transporte, em todos os modais, mediante negociação coletiva, com vistas a favorecer o retorno ao domicílio e a convivência familiar, e dá outras providências.",
+      "data": "2026-11-23T08:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2656717"
+    },
+    {
+      "id": 2656718,
+      "tipo": "PL",
+      "numero": 5920,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 7.998, de 11 de janeiro de 1990, para estabelecer nova forma de concessão do seguro-desemprego.",
+      "data": "2026-11-23T08:37",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2656718"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

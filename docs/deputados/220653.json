@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220653.jpg",
-  "score": 6.99,
-  "rank": 189,
+  "score": 7.88,
+  "rank": 169,
   "proposicoes": [
     {
       "id": 2649457,
@@ -51,6 +51,15 @@
       "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para estabelecer limites e condições para despesas públicas municipais com eventos artísticos e festivos.",
       "data": "2026-11-18T07:35",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655019"
+    },
+    {
+      "id": 2656713,
+      "tipo": "PLP",
+      "numero": 314,
+      "ano": 2026,
+      "ementa": "Estabelece normas de planejamento, rastreabilidade, integridade e comprovação de entregas na execução de recursos oriundos de emendas parlamentares e de programações discricionárias da União; e altera a Lei Complementar nº 210, de 25 de novembro de 2024, e as Leis nºs 13.019, de 31 de julho de 2014, e 12.846, de 1º de agosto de 2013.",
+      "data": "2026-11-19T20:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2656713"
     }
   ],
   "discursos": [],
