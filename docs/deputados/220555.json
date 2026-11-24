@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220555.jpg",
-  "score": 27.82,
-  "rank": 17,
+  "score": 36.24,
+  "rank": 32,
   "proposicoes": [
     {
       "id": 2654382,
@@ -24,6 +24,15 @@
       "ementa": "Institui o Fundo Soberano de Desenvolvimento Nacional (FSDN) e estabelece diretrizes para sua organização, governança, gestão e aplicação de recursos.",
       "data": "2026-11-19T15:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655613"
+    },
+    {
+      "id": 2657827,
+      "tipo": "PL",
+      "numero": 5925,
+      "ano": 2026,
+      "ementa": "Altera o art. 297 da Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), para aumentar a pena do crime de impedimento ou embaraço ao exercício do sufrágio, estabelecer causas de aumento de pena, disciplinar a responsabilização dos participantes, prever a perda de cargo, função pública ou mandato eletivo e especificar condutas que comprometam o deslocamento de eleitores e o acesso aos locais de votação.",
+      "data": "2026-11-23T14:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2657827"
     }
   ],
   "discursos": [

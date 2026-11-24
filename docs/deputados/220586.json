@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220586.jpg",
-  "score": 2.77,
-  "rank": 378,
+  "score": 21.43,
+  "rank": 394,
   "proposicoes": [
     {
       "id": 2654736,
@@ -15,6 +15,15 @@
       "ementa": "Institui o direito à autonomia algorítmica, assegura ao usuário de plataforma digital a escolha de modalidade de apresentação de conteúdos não baseada em perfilamento comportamental e altera a Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet), para incluir esse direito no rol de direitos dos usuários de internet.",
       "data": "2026-11-17T15:44",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654736"
+    },
+    {
+      "id": 2658888,
+      "tipo": "EMP",
+      "numero": 41,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T17:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658888"
     }
   ],
   "discursos": [],

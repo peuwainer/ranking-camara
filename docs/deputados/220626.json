@@ -4,9 +4,19 @@
   "partido": "UNIÃO",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220626.jpg",
-  "score": 3.13,
-  "rank": 362,
-  "proposicoes": [],
+  "score": 21.9,
+  "rank": 361,
+  "proposicoes": [
+    {
+      "id": 2659070,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre o acesso aos tratamentos farmacológicos para a Síndrome Hemolítico-Urêmica atípica (SHUa), em todo território nacional.",
+      "data": "2026-11-24T08:21",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659070"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

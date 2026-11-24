@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204534.jpg",
-  "score": 11.28,
-  "rank": 98,
+  "score": 31.56,
+  "rank": 80,
   "proposicoes": [
     {
       "id": 2649118,
@@ -69,6 +69,42 @@
       "ementa": "Altera a Lei n.º 6.015, de 31 de dezembro de 1973, que dispõe sobre os registros públicos, para estender aos jornais e periódicos digitais as mesmas obrigações de registro dos veículos impressos.",
       "data": "2026-11-19T15:53",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655644"
+    },
+    {
+      "id": 2658887,
+      "tipo": "PL",
+      "numero": 5930,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.995, de 10 de outubro de 2024, para estabelecer critérios de elegibilidade dos investimentos e aperfeiçoar a governança e a transparência do Programa Eco Invest Brasil.",
+      "data": "2026-11-23T17:07",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658887"
+    },
+    {
+      "id": 2658888,
+      "tipo": "EMP",
+      "numero": 41,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T17:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658888"
+    },
+    {
+      "id": 2658936,
+      "tipo": "EMP",
+      "numero": 56,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T18:39",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658936"
+    },
+    {
+      "id": 2658946,
+      "tipo": "EMP",
+      "numero": 63,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T18:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658946"
     }
   ],
   "discursos": [],

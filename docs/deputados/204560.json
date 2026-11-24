@@ -4,9 +4,19 @@
   "partido": "PSDB",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204560.jpg",
-  "score": 1.15,
-  "rank": 486,
-  "proposicoes": [],
+  "score": 17.79,
+  "rank": 471,
+  "proposicoes": [
+    {
+      "id": 2658878,
+      "tipo": "EMP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Emenda de Plenário.",
+      "data": "2026-11-23T16:44",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658878"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-11-10T17:56",

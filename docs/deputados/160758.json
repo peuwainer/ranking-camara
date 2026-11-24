@@ -4,9 +4,28 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160758.jpg",
-  "score": 7.3,
-  "rank": 181,
-  "proposicoes": [],
+  "score": 28.62,
+  "rank": 127,
+  "proposicoes": [
+    {
+      "id": 2659017,
+      "tipo": "EMP",
+      "numero": 88,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T20:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659017"
+    },
+    {
+      "id": 2659019,
+      "tipo": "EMP",
+      "numero": 89,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T20:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659019"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-11-04T20:12",

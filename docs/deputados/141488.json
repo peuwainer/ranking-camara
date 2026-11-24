@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141488.jpg",
-  "score": 8.43,
-  "rank": 155,
+  "score": 25.87,
+  "rank": 189,
   "proposicoes": [
     {
       "id": 2649423,
@@ -80,7 +80,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654838"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-23T22:04",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. PAULO TEIXEIRA (Bloco/PT - SP. Pela ordem. Sem revisão do orador.) - Presidente Hugo Motta, Sras. e Srs. Deputados, por designação do meu Líder Pedro Uczai, venho a esta tribuna dizendo: o vence",
+      "transcricao": "O SR. PAULO TEIXEIRA (Bloco/PT - SP. Pela ordem. Sem revisão do orador.) - Presidente Hugo Motta, Sras. e Srs. Deputados, por designação do meu Líder Pedro Uczai, venho a esta tribuna dizendo: o vencedor das eleições, Presidente Lula, vai garantir todos os direitos do povo brasileiro e, ao mesmo tempo, equilíbrio e responsabilidade fiscal. Por isso, o Partido dos Trabalhadores e toda a nossa federação votam \"sim\" a esse projeto. Mas, Presidente, esse projeto tem virtudes, e uma delas é diminuir as isenções fiscais que foram dadas, irresponsavelmente, por este Parlamento em outros tempos. Mas nós temos uma proposta, que é excetuar do corte das isenções fiscais, que nós defendemos, as áreas da cultura, do desporto e do paradesporto, as doações ao Fundo dos Direitos da Criança e do Adolescente, as doações ao Fundo dos Direitos da Pessoa Idosa, as doações ao Programa Nacional de Apoio à Atenção Oncológica  Pronon e ao Programa Nacional de Apoio à Atenção à Saúde da Pessoa com Deficiência  Pronas/PCD, inclusive dos autistas Dialogamos com o Governo. E aí eu quero trazer os nomes da Deputada Jandira Feghali, do Deputado Tarcísio Motta e do Deputado Reginaldo Lopes, esse grupo de Parlamentares que recebeu da sociedade essa preocupação. Também quero trazer aqui o nome do Raí, jogador da Seleção Brasileira; do Zico, jogador da Seleção Brasileira; do pessoal do teatro; do pessoal que trabalha com desporto e paradesporto, como Ana Moser. Todos trouxeram a mesma preocupação. Mas, como nós temos responsabilidade e sabemos que tem que ser votado o projeto na noite de hoje, falamos para o Governo fazer com que essa emenda pudesse se transformar numa iniciativa dele próprio, para tirar o corte desses programas tão importantes para a sociedade brasileira. O SR. PRESIDENTE (Hugo Motta. Bloco/REPUBLICANOS - PB) - Peço que conclua, Deputado. O SR. PAULO TEIXEIRA (Bloco/PT - SP) - Como conclusão, pedi ao Deputado Paulo Pimenta, Líder do Governo nesta Casa, que se pronunciasse sobre a posição do Governo, que se comprometeu a não fazer cortes nesses programas sociais e enviar uma medida a este Congresso Nacional, para preservar esses programas tão importantes para a sociedade brasileira."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",

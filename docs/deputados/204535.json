@@ -4,8 +4,8 @@
   "partido": "PSOL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204535.jpg",
-  "score": 24.89,
-  "rank": 18,
+  "score": 40.63,
+  "rank": 15,
   "proposicoes": [
     {
       "id": 2649411,
@@ -114,9 +114,26 @@
       "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, e a Lei Complementar nº 101, de 4 de maio de 2000, para excluir as despesas das Universidades Públicas Federais e dos Institutos Federais de Educação, Ciência e Tecnologia dos limites de despesas primárias e das metas de resultado primário do Regime Fiscal Sustentável, bem como vedar o contingenciamento, o bloqueio e a limitação de empenho e movimentação financeira dessas despesas.",
       "data": "2026-11-23T14:18",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2657784"
+    },
+    {
+      "id": 2658893,
+      "tipo": "EMP",
+      "numero": 44,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T17:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658893"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-23T21:32",
+      "fase": "Ordem do Dia",
+      "tipo": "OUTROS",
+      "resumo": "A SRA. SÂMIA BOMFIM (Bloco/PSOL - SP. Sem revisão da oradora.) - O mercado financeiro tinha o seu candidato, fez a sua aposta e, ao seu modo, tentou intervir no processo eleitoral, mas foi redondament",
+      "transcricao": "A SRA. SÂMIA BOMFIM (Bloco/PSOL - SP. Sem revisão da oradora.) - O mercado financeiro tinha o seu candidato, fez a sua aposta e, ao seu modo, tentou intervir no processo eleitoral, mas foi redondamente derrotado pelo povo brasileiro, mobilizado nas ruas e nas redes sociais. Foi uma virada histórica que deu condições para o Governo Lula, inclusive, ter força hoje para se enfrentar com o próprio mercado financeiro. Acontece que o mercado não pode anular o resultado das eleições, mas quer anular a capacidade de investimento do Governo Lula e a possibilidade de desenvolvimento do nosso País, para que a gente possa pensar num novo modelo de reindustrialização, de mais universidades e institutos federais, e para que a gente fale, de fato, de soberania, que passa pela capacidade de desenvolvimento do Estado brasileiro. Mas, por meio da política de ajuste fiscal e da ameaça dos especuladores, dos rentistas, que ganham muito dinheiro com os juros nas alturas, eles vendem novamente uma falsa ilusão: a mesma ilusão perpetrada nas últimas décadas pela política neoliberal de que haveria a fada do investimento e de que, portanto, com a política de superávit, haveria a iniciativa privada para fazer investimento e o País se desenvolver. Ora, isso nunca aconteceu, nem no Brasil nem em nenhum outro país, sobretudo porque, no Brasil, a elite econômica, a burguesia, vive do rentismo e não do setor produtivo. Não gera um emprego, não gera renda, não faz o Brasil crescer, e é por isso que os juros estão nas alturas, e é por isso que eles querem ampliar a meta do superávit, porque isso significa que, onde o Estado não consegue garantir serviços e direitos sociais, eles entram com serviços à venda para a população, com planos de saúde, com escolas privadas; afinal de contas, ampliam seus lucros quando o Estado diminui. E é por isso que nós, há 4 anos, votamos contra o arcabouço fiscal e agora, por coerência, estamos contra o PLP, que, afinal de contas, traz mais modificações à Lei Complementar nº 200, porque, inclusive, reduz ainda mais a capacidade de investimento do Estado, derruba a banda de 2,5% para 2%, impedindo que a gente enfrente a lógica de desaceleração e a possibilidade de recessão em pouco tempo. A gente está falando da redução na escala de 10 bilhões de reais, a partir, inclusive, da retirada da taxa de exportação do petróleo e da sua venda da receita da saúde. E o arcabouço fiscal é insustentável, porque os pisos da saúde e da educação crescem de acordo com o que determina a Constituição. A Previdência cresce porque há novos beneficiários e o reajuste do salário mínimo, e isso comprime o investimento nas outras áreas sociais. É por isso que nós defendemos o fim do arcabouço fiscal e, para esse projeto, propusemos emendas para retirar os pisos, a fim de que a gente possa crescer e se desenvolver."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo das razões do aumento de denúncias de violência obstétrica e a alta taxa de morte materna no Brasil",

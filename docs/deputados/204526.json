@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204526.jpg",
-  "score": 3.67,
-  "rank": 322,
+  "score": 19.0,
+  "rank": 454,
   "proposicoes": [
     {
       "id": 2650087,
@@ -24,6 +24,24 @@
       "ementa": "Estabelece alíquotas e normas complementares aplicáveis ao Imposto Seletivo para o ano-calendário de 2027, em Regime de Implementação Gradual.",
       "data": "2026-11-10T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2652596"
+    },
+    {
+      "id": 2658894,
+      "tipo": "EMP",
+      "numero": 45,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T17:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658894"
+    },
+    {
+      "id": 2658895,
+      "tipo": "EMP",
+      "numero": 46,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T17:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658895"
     }
   ],
   "discursos": [],

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "MT",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220595.jpg",
-  "score": 9.57,
-  "rank": 130,
+  "score": 35.06,
+  "rank": 43,
   "proposicoes": [
     {
       "id": 2651665,
@@ -33,9 +33,80 @@
       "ementa": "Dê-se ao inciso IV do caput do art. 4º da Medida Provisória nº 1.399, de 4 de novembro de 2026, a seguinte redação.",
       "data": "2026-11-09T00:00",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651667"
+    },
+    {
+      "id": 2658823,
+      "tipo": "EMP",
+      "numero": 19,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658823"
+    },
+    {
+      "id": 2658824,
+      "tipo": "EMP",
+      "numero": 20,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T15:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658824"
+    },
+    {
+      "id": 2658825,
+      "tipo": "EMP",
+      "numero": 21,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T15:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658825"
+    },
+    {
+      "id": 2658826,
+      "tipo": "EMP",
+      "numero": 22,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T15:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658826"
+    },
+    {
+      "id": 2658827,
+      "tipo": "EMP",
+      "numero": 23,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T15:17",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658827"
+    },
+    {
+      "id": 2658894,
+      "tipo": "EMP",
+      "numero": 45,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T17:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658894"
+    },
+    {
+      "id": 2658895,
+      "tipo": "EMP",
+      "numero": 46,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T17:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658895"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-23T20:40",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. CORONEL FERNANDA (PL - MT. Pela ordem. Sem revisão da oradora.) - Por favor, chamar a Oposição de \"desqualificada\"... Ele pode falar que não concorda, mas nos desrespeitar... Se ele está faland",
+      "transcricao": "A SRA. CORONEL FERNANDA (PL - MT. Pela ordem. Sem revisão da oradora.) - Por favor, chamar a Oposição de \"desqualificada\"... Ele pode falar que não concorda, mas nos desrespeitar... Se ele está falando que a Oposição é desqualificada, eu sou o quê? Eu sou da Oposição e quero que ele me diga em que eu sou desqualificada. Eu quero respeito! Eu respeito todo mundo nesta Casa. Então, eu peço que o senhor cobre isso dele também. Obrigada."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a acompanhar, in loco, o processo de intervenção na saúde pública do município de Cuiabá-MT, decretado pelo Tribunal de Justiça do estado de Mato Grosso",

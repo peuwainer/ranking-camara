@@ -4,9 +4,37 @@
   "partido": "PL",
   "uf": "PR",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204396.jpg",
-  "score": 4.28,
-  "rank": 286,
-  "proposicoes": [],
+  "score": 22.47,
+  "rank": 345,
+  "proposicoes": [
+    {
+      "id": 2658999,
+      "tipo": "EMP",
+      "numero": 79,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T19:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658999"
+    },
+    {
+      "id": 2659000,
+      "tipo": "EMP",
+      "numero": 80,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T19:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659000"
+    },
+    {
+      "id": 2659001,
+      "tipo": "EMP",
+      "numero": 81,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+      "data": "2026-11-23T19:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659001"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-11-11T15:56",

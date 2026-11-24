@@ -4,8 +4,8 @@
   "partido": "PSD",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160518.jpg",
-  "score": 6.79,
-  "rank": 196,
+  "score": 8.11,
+  "rank": 501,
   "proposicoes": [
     {
       "id": 2652030,
@@ -24,6 +24,24 @@
       "ementa": "Denomina “Rodovia Marconi Malagoli” trecho da rodovia BR-365 em toda sua extensão no estado de Minas Gerais, entre o município de Montes Claros (MG) e a divisa com Goiás.",
       "data": "2026-11-17T11:24",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654412"
+    },
+    {
+      "id": 2658872,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer pela aprovação do Projeto de Lei nº 197, de 2026, e de seus apensados, PL nº 1433, de 2026, e PL nº 4248, de 2026, na forma do Substitutivo.",
+      "data": "2026-11-23T16:28",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658872"
+    },
+    {
+      "id": 2658873,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer pela aprovação do Projeto de Lei n° 202, de 2026, na forma do substitutivo.",
+      "data": "2026-11-23T16:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658873"
     }
   ],
   "discursos": [],

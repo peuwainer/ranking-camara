@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220625.jpg",
-  "score": 7.5,
-  "rank": 177,
-  "proposicoes": [],
+  "score": 28.29,
+  "rank": 140,
+  "proposicoes": [
+    {
+      "id": 2659015,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 (Lei Maria da Penha), e a Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), para estabelecer a obrigatoriedade do monitoramento eletrônico de agressores em casos de medida protetiva de urgência, criar a Plataforma Nacional de Monitoramento e Proteção à Mulher (PNMPM), Cadastro Nacional de Agressores, instituir um canal de comunicação direto para a vítima e dá outras providências.",
+      "data": "2026-11-23T20:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659015"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

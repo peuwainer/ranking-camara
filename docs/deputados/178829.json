@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178829.jpg",
-  "score": 5.0,
-  "rank": 251,
-  "proposicoes": [],
+  "score": 25.79,
+  "rank": 190,
+  "proposicoes": [
+    {
+      "id": 2659020,
+      "tipo": "PL",
+      "numero": 5945,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para tratar sobre o dever da Polícia Rodoviária Federal registrar e comunicar os defeitos e as condições de risco das rodovias e estradas federais aos responsáveis por sua conservação e aos governos federal e estadual.",
+      "data": "2026-11-23T20:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659020"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

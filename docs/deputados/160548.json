@@ -4,8 +4,8 @@
   "partido": "PSB",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160548.jpg",
-  "score": 6.99,
-  "rank": 191,
+  "score": 24.79,
+  "rank": 235,
   "proposicoes": [
     {
       "id": 2649648,
@@ -53,7 +53,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2653733"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-23T23:20",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JONAS DONIZETTE (PSB - SP. Pela ordem. Sem revisão do orador.) - Sr. Presidente, como foi dito aqui, o texto do Relator é claro. Ele protege a saúde, protege o investimento na educação. Eu acho ",
+      "transcricao": "O SR. JONAS DONIZETTE (PSB - SP. Pela ordem. Sem revisão do orador.) - Sr. Presidente, como foi dito aqui, o texto do Relator é claro. Ele protege a saúde, protege o investimento na educação. Eu acho muito ruim quando tentam se escudar nas pessoas mais necessitadas para fazerem o jogo político. O jogo político aqui é claro: votar a emenda, para que o texto volte para o Senado e o ajuste fiscal não seja aprovado. Então, a orientação é \"não\"."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 231, de 2019, que altera o art. 159 da Constituição Federal para disciplinar a distribuição de recursos pela União ao Fundo de Participação dos Municípios",

@@ -4,9 +4,28 @@
   "partido": "REPUBLICANOS",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220551.jpg",
-  "score": 11.0,
-  "rank": 105,
-  "proposicoes": [],
+  "score": 28.55,
+  "rank": 132,
+  "proposicoes": [
+    {
+      "id": 2658930,
+      "tipo": "EMP",
+      "numero": 51,
+      "ano": 0,
+      "ementa": "Estabelece a redução proporcional dos limites individualizados de despesas primárias dos Poderes Legislativo e Judiciário e dos órgãos constitucionalmente autônomos, nas hipóteses de contenção fiscal previstas na Lei Complementar nº 200, de 30 de agosto de 2023, e disciplina os efeitos orçamentários da economia decorrente da regulamentação do teto remuneratório.",
+      "data": "2026-11-23T18:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658930"
+    },
+    {
+      "id": 2658931,
+      "tipo": "EMP",
+      "numero": 52,
+      "ano": 0,
+      "ementa": "Altera o art. 1º do Projeto de Lei Complementar nº 299, de 2026, na parte que introduz os arts. 5º, 6º-C, 6º-D, 6º-E e 6º-F à Lei Complementar nº 200, de 30 de agosto de 2023, para tornar obrigatória a adoção das medidas de contenção fiscal e de restrição à compensação tributária no caso de descumprimento do limite inferior da meta fiscal, e conferir caráter autorizativo à contenção no intervalo de tolerância.",
+      "data": "2026-11-23T18:30",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658931"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

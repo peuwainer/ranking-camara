@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178884.jpg",
-  "score": 19.7,
-  "rank": 33,
+  "score": 37.09,
+  "rank": 26,
   "proposicoes": [
     {
       "id": 2648944,
@@ -33,9 +33,53 @@
       "ementa": "Altera os arts. 108 e 109 da Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), para elevar os percentuais mínimos de votação nominal exigidos dos candidatos para o preenchimento de vagas pelo quociente partidário e para a distribuição de lugares remanescentes.",
       "data": "2026-10-29T12:30",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649535"
+    },
+    {
+      "id": 2657818,
+      "tipo": "PLP",
+      "numero": 315,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 64, de 18 de maio de 1990, para ampliar o prazo de inelegibilidade de magistrados, membros do Ministério Público e membros dos Tribunais de Contas após o afastamento do cargo e para dispor sobre a inelegibilidade de cônjuges, companheiros e parentes de membros dos Tribunais de Contas.",
+      "data": "2026-11-23T12:12",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2657818"
     }
   ],
   "discursos": [
+    {
+      "data": "2026-11-23T21:08",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. HILDO ROCHA (Bloco/MDB - MA. Pela ordem. Sem revisão do orador.) - Sr. Presidente Deputado Hugo Motta, Sras. Deputadas, Srs. Deputados, estamos apreciando neste momento o PLP 299/2026, de autori",
+      "transcricao": "O SR. HILDO ROCHA (Bloco/MDB - MA. Pela ordem. Sem revisão do orador.) - Sr. Presidente Deputado Hugo Motta, Sras. Deputadas, Srs. Deputados, estamos apreciando neste momento o PLP 299/2026, de autoria do Senado Federal. Nós, neste momento, somos Casa Revisora dessa proposta, e eu me inscrevi para defendê-la. Essa proposta foi muito bem relatada aqui pelo Deputado Mauro Benevides Filho e bem explicada por ele e foi relatada no Senado pelo Senador Eduardo Braga. Ela garante a estabilidade macroeconômica do nosso País. Com isso, facilita-se a diminuição dos juros. Aqui muito se falou de juros, e é justamente esse o objetivo desta proposta: diminuir os juros, porque isso dá estabilidade à macroeconomia do nosso País. Além disso, essa proposta favorece o crescimento econômico e consolida a responsabilidade fiscal, sem abrir mão da responsabilidade social e da capacidade de investimento da máquina pública federal. Com a aprovação deste projeto de lei, sem dúvida nenhuma, vamos criar um clima muito mais favorável ao crescimento econômico e à geração de empregos no nosso País. Como é que está sendo projetado tudo isso que está contido no PLP 299? Primeiro: diminuição dos gastos tributários. Aqui ninguém falou que é contra a diminuição dos gastos tributários. Nós já diminuímos os gastos tributários no ano passado em 10%, e agora em mais 10%. Estamos diminuindo os privilégios que existem no sistema tributário brasileiro. Outra mudança: estamos aqui fazendo limite de compensação de crédito tributário. Isso porque há muitos créditos tributários fictícios. Às vezes, compra-se uma empresa que está falida só para se ter crédito. Está correto, não está errado. Outra questão: vamos fazer um contingenciamento mais assertivo, buscando o centro da meta, e não o piso da meta. Como é que não se vai cortar a despesa dessa forma? Corta-se a despesa preservando o social, preservando aquilo que foi prometido na campanha pelo Presidente Lula e que ganhou as eleições. Foi essa a proposta que venceu as eleições e que tem que ser respeitada. Não está se mudando nada. Além disso, está se mudando a Lei Kandir e a Lei Hauly. Também se vai combater o supersalário. Para isso, vai depender de nós, do Congresso Nacional, que, no prazo de 60 dias que nos foi dado, vamos aprovar aqui a regulamentação do supersalário. Então, peço aos Sras. e Srs. Deputados: vamos votar, porque a proposta é muito boa para a estabilidade macroeconômica do nosso País e para o nosso crescimento. Muito obrigado."
+    },
+    {
+      "data": "2026-11-23T20:28",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. HILDO ROCHA (Bloco/MDB - MA. Pela ordem. Sem revisão do orador.) - O Bloco orienta \"não\" ao requerimento de adiamento da discussão, Sr. Presidente, tendo em vista que nós temos que votar esta ma",
+      "transcricao": "O SR. HILDO ROCHA (Bloco/MDB - MA. Pela ordem. Sem revisão do orador.) - O Bloco orienta \"não\" ao requerimento de adiamento da discussão, Sr. Presidente, tendo em vista que nós temos que votar esta matéria, se não for possível na data de hoje, até no máximo amanhã, porque temos que fechar o Orçamento de 2027. Esta matéria é imprescindível para que nós possamos garantir o Orçamento de 2027, com recursos suficientes para a saúde pública, para a educação, para a infraestrutura e também para a manutenção dos programas sociais. Portanto, é imprescindível nós votarmos esta matéria. Por isso, nós somos contra o adiamento da discussão. Vamos fazer a discussão na data de hoje."
+    },
+    {
+      "data": "2026-11-23T19:16",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. HILDO ROCHA (Bloco/MDB - MA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, orientamos a favor da urgência, tendo em vista que a matéria é de fundamental importância para o ajuste econômi",
+      "transcricao": "O SR. HILDO ROCHA (Bloco/MDB - MA. Pela ordem. Sem revisão do orador.) - Sr. Presidente, orientamos a favor da urgência, tendo em vista que a matéria é de fundamental importância para o ajuste econômico do nosso País, para a estabilidade da macroeconomia brasileira e também para o fechamento do Orçamento de 2027. Sem isso, fica difícil manter recursos para a saúde, para a educação, para a infraestrutura, para os programas sociais. É necessário que seja aprovado, na data de hoje, esse requerimento. Portanto, o Bloco orienta \"sim\"."
+    },
+    {
+      "data": "2026-11-23T19:12",
+      "fase": "Ordem do Dia",
+      "tipo": "OUTROS",
+      "resumo": "O SR. HILDO ROCHA (Bloco/MDB - MA. Sem revisão do orador.) - Sr. Presidente, Deputado Hugo Motta, Sras. Deputadas, Srs. Deputados, geralmente, eu sou contra requerimento de urgência de matérias que tê",
+      "transcricao": "O SR. HILDO ROCHA (Bloco/MDB - MA. Sem revisão do orador.) - Sr. Presidente, Deputado Hugo Motta, Sras. Deputadas, Srs. Deputados, geralmente, eu sou contra requerimento de urgência de matérias que têm impacto orçamentário. Contudo, essa proposta de ajuste fiscal melhora o arcabouço fiscal. Ela já foi aqui aprovada no ano de 2023, está na sua oitava modificação, inclusive, para melhor. A proposta inicial foi relatada pelo Deputado Claudio Cajado. Esse projeto foi aprovado no Senado Federal e pede urgência. Eu concordo com essa urgência do Presidente Hugo Motta, a quem parabenizo por ter incluído a matéria na pauta. Se nós não aprovarmos a urgência do Projeto de Lei Complementar nº 299, se a proposição for tramitar em todas as Comissões, nós não teremos o Orçamento de 2027. Não há como fechar o Orçamento de 2027 sem a aprovação dessa mudança no sistema fiscal do nosso País. É importante, então, que o projeto seja votado ainda nesta semana. Nós estamos terminando o ano e temos que votar a Lei Orçamentária do ano que vem, de 2027. Faz-se necessária a urgência por isso. Sem a aprovação desse projeto de lei complementar, que faz um ajuste fiscal a partir do ano de 2027, nós não teremos um orçamento para o ano de 2027, vamos ter dificuldade de garantir recurso para a saúde pública, vamos ter dificuldade de garantir recurso para a educação, vamos ter dificuldade para ter dinheiro para fazer as nossas rodovias, para fazer os investimentos que são necessários, para repassar os recursos para o Programa Minha Casa, Minha Vida, para manter os programas sociais. Não vai haver recurso suficiente para fazer tudo, caso não aprovemos a urgência dessa matéria. É por isso que eu me inscrevi para defender a aprovação desse projeto. Geralmente, eu sou contra matérias que têm impacto orçamentário, mas, nesse caso, eu me inscrevi para encaminhar a favor. Realmente, essa matéria tem que ser votada de maneira urgente. Portanto, eu peço aos colegas Deputados, às colegas Deputadas que votem a favor dessa urgência. Realmente, essa matéria tem urgência. Ela é urgentíssima e precisa ser deliberada aqui na Câmara do Deputado, tendo em vista que já estamos terminando o ano. Na próxima semana, termina o mês de novembro e já vamos entrar no mês de dezembro. Não podemos entrar no mês de dezembro com dúvidas para aprovar o Orçamento de 2027. Muito obrigado."
+    },
+    {
+      "data": "2026-11-23T19:08",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. HILDO ROCHA (Bloco/MDB - MA. Sem revisão do orador.) - Muio obrigado, Deputado Charles Fernandes, que preside a sessão neste momento, Sras. Deputadas, Srs. Deputados. Destinei recursos para o Mu",
+      "transcricao": "O SR. HILDO ROCHA (Bloco/MDB - MA. Sem revisão do orador.) - Muio obrigado, Deputado Charles Fernandes, que preside a sessão neste momento, Sras. Deputadas, Srs. Deputados. Destinei recursos para o Município de Presidente Dutra, através de emenda parlamentar, para construir um sistema de abastecimento de água no Povoado Alegre. A obra foi feita, o poço foi instalado, dando água de boa qualidade, e o sistema de reservatório está pronto. A contrapartida do Município é colocar a encanação, os canos, e o Prefeito está botando os canos naquela localidade. A população está muito alegre. Isso foi um pedido da Vereadora Gizelia, que me apoiou em 2022 e também me apoiou agora no ano de 2026. Ela é do mesmo partido a que pertenço, que é o MDB. Em 2022, ela me deu 622 votos. Nesta eleição agora, tive aproximadamente mil votos naquele Município. Também está sendo feita, com recurso conseguido por Hildo Rocha em articulação com o Ministério da Cidade, a construção de cinquenta unidades habitacionais lá no Colina Park II, também a pedido da Vereadora Gizelia. O que acontece é que um colega Deputado Federal está cometendo um crime  outro crime, porque ele já cometeu um , que é o de apropriação indevida do mérito. Pelas palavras do Prefeito, foi ele que levou e conseguiu os recursos. Na verdade, quem conseguiu esse recurso foi o Hildo Rocha, ainda na época em que eu estava no Ministério das Cidades, no valor de 6,5 milhões de reais. As casas já estão sendo construídas. Quero parabenizar o Prefeito e espero que o Município faça a seleção correta dessas cinquenta famílias. Espero também que as famílias selecionadas estejam enquadradas no programa, porque, se não estiverem, nós vamos fazer a fiscalização por meio da Controladoria-Geral da União e vamos apresentar as denúncias à Polícia Federal. Quero também dizer ao Prefeito que a pessoa que ele está dizendo que levou esse benefício, que está cometendo esse crime de apropriação indevida do mérito, na época, era Ministro das Comunicações; portanto, não poderia estar conseguindo casas no Ministério das Cidades. Ele poderia estar levando outros benefícios, a exemplo de telefonia móvel, mas casas não, porque ele era Ministro. Além disso, ele voltou a ser Deputado em abril de 2025 por causa de denúncias e está sendo julgado, inclusive, por esses crimes. Eu quero, Sr. Presidente, que este meu pronunciamento seja divulgado no programa A Voz do Brasil."
+    },
     {
       "data": "2026-11-17T17:16",
       "fase": "Ordem do Dia",

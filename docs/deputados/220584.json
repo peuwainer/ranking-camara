@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "PB",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220584.jpg",
-  "score": 5.35,
-  "rank": 241,
+  "score": 25.64,
+  "rank": 199,
   "proposicoes": [
     {
       "id": 2648974,
@@ -24,6 +24,15 @@
       "ementa": "Altera a Lei nº 9.503, de 1997 (Código de Trânsito Brasileiro), para criar o Registro Nacional de Identificação de Emergência de Motociclistas (RENIEM).",
       "data": "2026-11-19T13:51",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655580"
+    },
+    {
+      "id": 2657828,
+      "tipo": "PL",
+      "numero": 5926,
+      "ano": 2026,
+      "ementa": "Institui a Semana Nacional de Conscientização sobre a Doação e a Transfusão de Sangue em Cães e Gatos.",
+      "data": "2026-11-23T15:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2657828"
     }
   ],
   "discursos": [
