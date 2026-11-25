@@ -4,9 +4,19 @@
   "partido": "PSD",
   "uf": "PA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204497.jpg",
-  "score": 11.13,
-  "rank": 493,
-  "proposicoes": [],
+  "score": 13.15,
+  "rank": 492,
+  "proposicoes": [
+    {
+      "id": 2659678,
+      "tipo": "PL",
+      "numero": 5964,
+      "ano": 2026,
+      "ementa": "Regulamenta o direito à consulta prévia, livre e informada aos povos indígenas e tribais, nos termos do art. 231 da Constituição Federal e da Convenção nº 169 da Organização Internacional do Trabalho; institui procedimentos de celeridade, padrões de execução, supervisão e validação, e regime de cooperação federativa para condução operacional; e dá outras providências.",
+      "data": "2026-11-25T12:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659678"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

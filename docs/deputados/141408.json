@@ -4,9 +4,19 @@
   "partido": "MDB",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/141408.jpg",
-  "score": 25.41,
-  "rank": 210,
-  "proposicoes": [],
+  "score": 26.54,
+  "rank": 191,
+  "proposicoes": [
+    {
+      "id": 2659329,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Acrescenta art. 35-A à Lei nº 8.078, de 11 de setembro de 1990, com o objetivo de aprimorar a transparência e segurança na intermediação de pagamentos no comércio eletrônico de produtos e serviços.",
+      "data": "2026-11-24T18:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659329"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-10-28T17:12",

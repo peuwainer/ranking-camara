@@ -4,7 +4,7 @@
   "partido": "SOLIDARIEDADE",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160512.jpg",
-  "score": 49.79,
+  "score": 50.14,
   "rank": 6,
   "proposicoes": [
     {
@@ -179,7 +179,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655593"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-24T19:12",
+      "fase": "Breves Comunicações",
+      "tipo": "COMO LÍDER",
+      "resumo": "O SR. AUREO RIBEIRO (SOLIDARIEDADE - RJ. Como Líder. Sem revisão do orador.) - Presidente, Sras. e Srs. Deputados, quem nos assiste pela TV Câmara, tive a oportunidade de protocolar o Projeto nº 5.538",
+      "transcricao": "O SR. AUREO RIBEIRO (SOLIDARIEDADE - RJ. Como Líder. Sem revisão do orador.) - Presidente, Sras. e Srs. Deputados, quem nos assiste pela TV Câmara, tive a oportunidade de protocolar o Projeto nº 5.538, de 2026, em que tivemos a oportunidade de homenagear a Fernanda Fialho, uma ativista, autista, mãe atípica e palestrante que desenvolveu um grande trabalho na comunidade autista, mas que não está mais presente e deixa um legado para ser debatido e discutido neste Parlamento. Muito se fala na criança autista, mas se esquece de que ela vai chegar à fase adulta, vai ter 18 anos, vai precisar chegar ao mercado de trabalho, vai precisar ter a sua autonomia e precisa ter a garantia de políticas públicas para assegurar essa autonomia com qualidade  qualidade na hora em que precisar de um emprego, qualidade no seu tratamento, qualidade para acessar as políticas públicas de saúde do nosso País  e, no momento de crise, ter a quem recorrer, como aqui colocamos no nosso projeto junto ao Ministério da Saúde. Entendemos que para esse debate, cuja urgência já foi aprovada pela Câmara dos Deputados, a gente está pronto para votar o mérito aqui no Plenário. Eu faço um apelo e um pedido aos nobres Parlamentares e Líderes para que a gente possa votar na próxima semana esse projeto de lei e homenagear de fato a Fernanda Fialho e toda a comunidade autista, para garantir uma política pública eficiente e de qualidade no nosso País a todos os autistas. Então, conto aqui com a colaboração e a compreensão de V.Exas. Estou pronto para percorrer todas as bancadas e explicar o projeto que apresentamos, se houver alguma dúvida, para que a gente possa votá-lo na próxima semana, finalizando o ano de 2026 com essa importante aprovação na Câmara dos Deputados. Muito obrigado, Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição nº 5, de 2023, do Sr. Marcelo Crivella e outros, que \"acrescenta § 4º-A ao art. 150 da Constituição Federal, para dispor sobre a imunidade tributária de que tratam as suas alíneas “b” e “c” do inciso VI\"",

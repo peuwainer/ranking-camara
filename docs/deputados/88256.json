@@ -4,8 +4,8 @@
   "partido": "PV",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/88256.jpg",
-  "score": 35.58,
-  "rank": 39,
+  "score": 36.85,
+  "rank": 36,
   "proposicoes": [
     {
       "id": 2651027,
@@ -150,6 +150,15 @@
       "ementa": "Institui o Imposto sobre Grandes  Fortunas, previsto no art. 153, inciso VII, da Constituição Federal.",
       "data": "2026-11-17T10:55",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654382"
+    },
+    {
+      "id": 2659666,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade de identificação biométrica e validação documental para aquisição, habilitação e ativação de chips de telefonia móvel, cria o Cadastro Nacional de Identificação de Linhas Móveis e estabelece medidas de prevenção e combate ao uso de linhas telefônicas em fraudes e golpes, e dá outras providências.",
+      "data": "2026-11-25T11:26",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659666"
     }
   ],
   "discursos": [],

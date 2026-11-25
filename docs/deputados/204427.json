@@ -4,9 +4,19 @@
   "partido": "PRD",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204427.jpg",
-  "score": 24.39,
-  "rank": 252,
-  "proposicoes": [],
+  "score": 25.6,
+  "rank": 227,
+  "proposicoes": [
+    {
+      "id": 2659671,
+      "tipo": "PL",
+      "numero": 5963,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Cuidado Integral à Pessoa com Distonia e à sua Família; altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943; e dispõe sobre a dedução, do imposto sobre a renda da pessoa física, da contribuição patronal incidente sobre a remuneração de cuidador de pessoa com deficiência.",
+      "data": "2026-11-25T11:46",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659671"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

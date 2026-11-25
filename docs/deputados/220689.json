@@ -4,9 +4,19 @@
   "partido": "PL",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220689.jpg",
-  "score": 21.89,
-  "rank": 366,
-  "proposicoes": [],
+  "score": 23.2,
+  "rank": 314,
+  "proposicoes": [
+    {
+      "id": 2659683,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui pensão especial para crianças e adolescentes órfãos de pai, mãe ou de ambos os genitores, independentemente da causa do óbito, em situação de vulnerabilidade socioeconômica.",
+      "data": "2026-11-25T12:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659683"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

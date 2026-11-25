@@ -4,10 +4,18 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/227991.jpg",
-  "score": 22.51,
-  "rank": 330,
+  "score": 23.37,
+  "rank": 309,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-24T15:04",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DR FLÁVIO (PL - RJ. Pela ordem. Sem revisão do orador.) - Boa tarde, Sr. Presidente, demais colegas Deputados. Quero aqui registrar a presença do nosso Vice-Prefeito do Município de Vassouras, n",
+      "transcricao": "O SR. DR FLÁVIO (PL - RJ. Pela ordem. Sem revisão do orador.) - Boa tarde, Sr. Presidente, demais colegas Deputados. Quero aqui registrar a presença do nosso Vice-Prefeito do Município de Vassouras, no Estado do Rio de Janeiro, Cássio Cardoso  Cassinho , e do nosso Vereador Matheus do Geraldão, e já aproveitar para agradecer os votos que tive naquela cidade, quase 1.400 votos. Vassouras é uma cidade de referência para o nosso Município de Paracambi, minha querida cidade onde moro, no Estado do Rio de Janeiro. Quero agradecer também ao Reitor Gustavo Oliveira do Amaral, lá do Hospital Universitário, e ao Vice-Presidente Dr. Cláudio Medeiros Guimarães, e dizer que vamos estar colaborando com nossas emendas parlamentares para atender aquele Município, que atende tanto a nossa região da Baixada Fluminense quanto a Região Sul Fluminense. Quero agradecer mais uma vez aos nossos queridos Vice-Prefeito Cássio e Vereador Matheus. Sejam sempre bem-vindos aqui! Obrigado pelo carinho e um forte abraço a todos os vassourenses!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Bancada Negra da Câmara dos Deputados, criada pela Resolução n. 6, de 2023, que acresceu ao Regimento Interno da Câmara dos Deputados o Capítulo VI, do Título I, com os artigos 13-A e 13-B",

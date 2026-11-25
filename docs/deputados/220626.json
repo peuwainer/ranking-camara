@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220626.jpg",
-  "score": 21.9,
-  "rank": 361,
+  "score": 25.18,
+  "rank": 243,
   "proposicoes": [
     {
       "id": 2659070,
@@ -15,6 +15,15 @@
       "ementa": "Dispõe sobre o acesso aos tratamentos farmacológicos para a Síndrome Hemolítico-Urêmica atípica (SHUa), em todo território nacional.",
       "data": "2026-11-24T08:21",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659070"
+    },
+    {
+      "id": 2659674,
+      "tipo": "PLP",
+      "numero": 319,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000, para estabelecer limite para despesas municipais com festividades e eventos.",
+      "data": "2026-11-25T12:06",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659674"
     }
   ],
   "discursos": [],

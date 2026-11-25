@@ -4,7 +4,7 @@
   "partido": "REPUBLICANOS",
   "uf": "DF",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204372.jpg",
-  "score": 36.92,
+  "score": 38.03,
   "rank": 27,
   "proposicoes": [
     {
@@ -132,6 +132,15 @@
       "ementa": "EMENDA DE PLENÁRIO",
       "data": "2026-11-23T21:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659047"
+    },
+    {
+      "id": 2659647,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Institui a Política de Prevenção e Repressão a Crimes Cibernéticos contra Animais, dispondo sobre a prevenção, tipificação, investigação e repressão de crimes cometidos por meio eletrônico ou digital, e dá outras providências.",
+      "data": "2026-11-25T11:03",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659647"
     }
   ],
   "discursos": [

@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74371.jpg",
-  "score": 24.56,
-  "rank": 241,
+  "score": 26.87,
+  "rank": 179,
   "proposicoes": [
     {
       "id": 2649499,
@@ -69,6 +69,24 @@
       "ementa": "Dispõe sobre a incidência do Imposto sobre a Renda das Pessoas Físicas sobre lucros e dividendos distribuídos por pessoas jurídicas, altera as Leis nº 9.249, de 26 de dezembro de 1995, e nº 9.250, de 26 de dezembro de 1995, e dá outras providências.",
       "data": "2026-11-17T18:44",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654838"
+    },
+    {
+      "id": 2659725,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a suspensão cautelar do direito de dirigir, a partir da identificação do condutor, nos crimes de trânsito com vítima, e dá outras providências.",
+      "data": "2026-11-25T13:19",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659725"
+    },
+    {
+      "id": 2659735,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade de manutenção, pelo prazo mínimo de cinco anos, das informações constantes do Registro Nacional de Veículos Automotores – RENAVAM, mesmo após a baixa definitiva do registro do veículo.",
+      "data": "2026-11-25T13:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659735"
     }
   ],
   "discursos": [],

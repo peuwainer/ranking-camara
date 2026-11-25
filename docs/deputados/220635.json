@@ -4,8 +4,8 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220635.jpg",
-  "score": 20.03,
-  "rank": 433,
+  "score": 21.5,
+  "rank": 409,
   "proposicoes": [
     {
       "id": 2656726,
@@ -15,6 +15,15 @@
       "ementa": "Altera a Lei nº 14.601, de 19 de junho de 2023, para dispor sobre o período da regra de proteção do Programa Bolsa Família e vedar a alteração de seus parâmetros essenciais por ato infralegal.",
       "data": "2026-11-23T09:32",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2656726"
+    },
+    {
+      "id": 2659472,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para proibir a celebração de Acordo de Não Persecução Penal – ANPP nos crimes de maus-tratos a cães e gatos.",
+      "data": "2026-11-25T09:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659472"
     }
   ],
   "discursos": [],

@@ -4,9 +4,19 @@
   "partido": "PODE",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74270.jpg",
-  "score": 23.94,
-  "rank": 262,
-  "proposicoes": [],
+  "score": 23.2,
+  "rank": 315,
+  "proposicoes": [
+    {
+      "id": 2659342,
+      "tipo": "PL",
+      "numero": 5960,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Arborização Urbana, estabelece diretrizes para a compatibilização e o convívio seguro da vegetação com as redes de distribuição de energia elétrica, cria o Sistema Nacional de Informações sobre Arborização Urbana, e dá outras providências.",
+      "data": "2026-11-24T18:50",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659342"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-11-17T18:08",

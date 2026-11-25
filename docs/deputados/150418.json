@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/150418.jpg",
-  "score": 28.39,
-  "rank": 138,
+  "score": 29.57,
+  "rank": 116,
   "proposicoes": [
     {
       "id": 2649517,
@@ -42,6 +42,15 @@
       "ementa": "Altera o parágrafo único do art. 3º-B do Decreto Lei nº 719, de 31 de julho de 1969, que dispõe sobre o Fundo Nacional de Desenvolvimento Científico e Tecnológico.",
       "data": "2026-11-18T19:03",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655464"
+    },
+    {
+      "id": 2659275,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre o apoio a startups e empresas de tecnologia através de incentivos fiscais e financiamentos.",
+      "data": "2026-11-24T16:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659275"
     }
   ],
   "discursos": [

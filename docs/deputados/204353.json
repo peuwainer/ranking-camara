@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "AP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204353.jpg",
-  "score": 21.41,
-  "rank": 395,
+  "score": 22.34,
+  "rank": 377,
   "proposicoes": [
     {
       "id": 2649633,
@@ -17,7 +17,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2649633"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-24T16:28",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "A SRA. ALINE GURGEL (Bloco/UNIÃO - AP. Pela ordem. Sem revisão da oradora.) - Obrigada, Sr. Presidente. Sr. Presidente, eu quero falar do episódio que aconteceu no meu Estado esta semana, que foi a mo",
+      "transcricao": "A SRA. ALINE GURGEL (Bloco/UNIÃO - AP. Pela ordem. Sem revisão da oradora.) - Obrigada, Sr. Presidente. Sr. Presidente, eu quero falar do episódio que aconteceu no meu Estado esta semana, que foi a mortandade de centenas de peixes em Ferreira Gomes, Município do Estado do Amapá. Isso é preocupante e exige respostas urgentes dos órgãos ambientais. Quero dizer também que essa situação reforça a importância de uma luta que iniciei em 2019, com a apresentação do PL 2.497/2019, que trata do repovoamento de rios e lagos com espécies nativas de peixes. A Câmara aprovou esse projeto e a Senadora Tereza Cristina o arquivou no Senado. Portanto, pergunto à Senadora: quando acontece uma mortandade de peixes, como vamos fazer o repovoamento dos rios se não há essa previsão legal na Lei da Aquicultura? Quero deixar registrada essa situação e pedir que possamos realmente fazer uma política pública permanente de monitoramento de qualidade da água, de prevenção e de reparação de danos ambientais. E digo que apresentei o Projeto de Lei nº 4.110/2025, reafirmando novamente o compromisso com a preservação dos rios e da biodiversidade, para conseguir a aprovação do repovoamento dos rios com espécies nativas. Obrigada, Sr. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Secretaria da Mulher",

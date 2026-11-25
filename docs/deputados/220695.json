@@ -4,8 +4,8 @@
   "partido": "REPUBLICANOS",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220695.jpg",
-  "score": 27.82,
-  "rank": 150,
+  "score": 29.17,
+  "rank": 124,
   "proposicoes": [
     {
       "id": 2650496,
@@ -69,6 +69,15 @@
       "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação do Projeto de Lei nº 1.379, de 2019, e dos apensados PL nº 3.303, de 2019, PL nº 6.063, de 2019, PL nº 1.371, de 2022, PL nº 2.738, de 2023, PL nº 3.379, de 2024, e PL nº 6.347, de 2025, na forma do Substitutivo anexo.",
       "data": "2026-11-17T16:40",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654757"
+    },
+    {
+      "id": 2659361,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer da Relatora, Dep. Rogéria Santos (REPUBLIC-BA), pela aprovação, com substitutivo.",
+      "data": "2026-11-24T19:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659361"
     }
   ],
   "discursos": [],

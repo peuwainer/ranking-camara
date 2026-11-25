@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204412.jpg",
-  "score": 24.69,
-  "rank": 238,
+  "score": 25.52,
+  "rank": 231,
   "proposicoes": [
     {
       "id": 2655428,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655460"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-24T18:40",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. DR. ZACHARIAS CALIL (Bloco/MDB - GO. Sem revisão do orador.) - Obrigado, Presidente. Boa noite a todos, Sras. Deputadas, Srs. Deputados. Gostaria de manifestar a minha preocupação com a aprovaçã",
+      "transcricao": "O SR. DR. ZACHARIAS CALIL (Bloco/MDB - GO. Sem revisão do orador.) - Obrigado, Presidente. Boa noite a todos, Sras. Deputadas, Srs. Deputados. Gostaria de manifestar a minha preocupação com a aprovação do Projeto de Lei Complementar nº 299, de 2026, que trata do ajuste fiscal do Governo Federal, o qual eu votei contra. Por quê? Os números são alarmantes. Somente em 2027, a redução da base do cálculo do piso constitucional da saúde representa uma diferença estimada de R$ 6,8 bilhões no financiamento mínimo obrigatório do setor. Especialistas estimam que essa redução poderá chegar a R$ 10 bilhões por ano. Eu, médico, conheço de perto a realidade do SUS, as filas de espera por cirurgias, as dificuldades de acesso, principalmente a exames, medicamentos e tratamentos especializados. Além disso, o projeto prejudica diretamente os Estados e Municípios. Em 2027, os repasses referentes à Lei Kandir serão reduzidos de R$ 4 bilhões para R$ 2 bilhões. Para se ter uma ideia da dimensão desse impacto, o levantamento realizado com base nos dados do Tesouro Nacional estima que o meu Estado, Goiás, e seus 246 municípios deixarão de receber aproximadamente quase R$ 160 milhões em 2027, em razão da postergação dos repasses da Lei Kandir. Eu sou defensor da responsabilidade fiscal e do equilíbrio das contas públicas. Entretanto, não podemos transferir para a população, para os Estados e para os Municípios o ônus do ajuste das contas do Governo Federal. Não podemos equilibrar as contas públicas às custas da saúde da população, fragilizando o SUS e comprometendo a capacidade dos Estados e Municípios de prestar serviços essenciais. Foi por essas razões que votei contra esse projeto e continuarei defendendo os recursos da saúde e os interesses do povo goiano. Solicito, Sra. Presidente, que esse pronunciamento seja divulgado no programa A Voz do Brasil e nos demais canais de comunicação desta Casa. Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a elaborar propostas para analisar o enfrentamento da tuberculose como compromisso internacional para a eliminação desta doença como problema de saúde pública até o ano de 2030, conforme preconizado pela Organização das Nações Unidas (ONU)",
