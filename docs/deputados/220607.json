@@ -4,10 +4,18 @@
   "partido": "UNIÃO",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220607.jpg",
-  "score": 26.63,
-  "rank": 188,
+  "score": 27.5,
+  "rank": 175,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-25T15:40",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. MAX LEMOS (Bloco/UNIÃO - RJ. Sem revisão do orador.) - Sr. Presidente, hoje é um dia muito especial para a cidade em que eu nasci. Queimados, no Rio de Janeiro, comemora hoje 36 anos de emancipa",
+      "transcricao": "O SR. MAX LEMOS (Bloco/UNIÃO - RJ. Sem revisão do orador.) - Sr. Presidente, hoje é um dia muito especial para a cidade em que eu nasci. Queimados, no Rio de Janeiro, comemora hoje 36 anos de emancipação. É uma cidade ainda muito jovem. Nós não podemos deixar de vir a esta tribuna, primeiro, para saudar o povo de Queimados, que votou, no dia 25 de novembro de 1990, pela sua emancipação, criando, então, o Município de Queimados, e, segundo, para relembrar aqui daquelas pessoas, daqueles bravos companheiros e companheiras que se juntaram, formaram a comissão de emancipação e promoveram todo aquele movimento que levou à votação de 25 de novembro de 1990. É um dia de reflexão, sim, de gratidão ao povo da cidade, mas de gratidão a esses bravos companheiros e companheiras que se juntaram para buscar a emancipação de Queimados. E, claro, eu não posso deixar de agradecer à população de Queimados a oportunidade que eu tive de ser vereador em Queimados, de presidir a Câmara de Vereadores por 4 anos, e a oportunidade de ser Prefeito e ser reeleito Prefeito com 93% dos votos. Quero agradecer as votações que eu tive como Deputado Estadual mais votado da cidade, Deputado Federal mais votado da cidade. Tenho uma gratidão grande pela população de Queimados e quero aqui fazer o compromisso de continuar lutando por nossa cidade. Nós sabemos que Queimados atravessa um momento difícil, uma gestão que comprometeu o serviço público, mas nós temos que continuar resistindo, colocando fé e, mais do que isso, trabalhar muito para recuperar essa cidade, para ela voltar a ser um orgulho na Baixada Fluminense, no Estado do Rio de Janeiro e viver um momento que já vivemos em outras épocas de ser um orgulho para o Brasil. Recuperar Queimados também é uma forma de homenagear bravos companheiros e companheiras que se juntaram para emancipar Queimados. O povo da cidade que desejou tanto que a cidade virasse Município  Queimados era um distrito de Nova Iguaçu não pode viver do jeito que vive. Portanto, Sr. Presidente, parabéns a Queimados, pelos 36 anos de emancipação!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a acompanhar e monitorar a conclusão das obras públicas paralisadas e inacabadas no país",

@@ -4,8 +4,8 @@
   "partido": "PP",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204355.jpg",
-  "score": 29.28,
-  "rank": 121,
+  "score": 28.16,
+  "rank": 155,
   "proposicoes": [
     {
       "id": 2652491,
@@ -27,6 +27,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-11-25T18:40",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. DA VITORIA (Bloco/PP - ES. Pela ordem. Sem revisão do orador.) - Obrigado, Sra. Presidente. Hoje quero registrar uma visita ilustre no plenário desta Casa: o Presidente da Câmara Municipal de Ib",
+      "transcricao": "O SR. DA VITORIA (Bloco/PP - ES. Pela ordem. Sem revisão do orador.) - Obrigado, Sra. Presidente. Hoje quero registrar uma visita ilustre no plenário desta Casa: o Presidente da Câmara Municipal de Ibiraçu, Município cortado pela BR-101, conhecido por ter o melhor pastel do Brasil. Quem não o conhece, pode conhecê-lo. E o Breno Oliveira está aqui visitando a nossa bancada capixaba, já tendo visitado Senadores e vários Deputados. Ele também está apresentando os desafios da cidade, com a qual todos os representantes aqui se comunicam. Quero registrar que a cidade está muito bem representada pelo trabalho do Breno. E digo a você que conte com toda a parceria da nossa bancada federal capixaba, que é aliada do nosso mandato. Estaremos juntos, como sempre estivemos, para levar investimentos e recursos ao Município, através das nossas emendas parlamentares e da nossa bancada federal capixaba. Por fim, parabéns à sua filha, que outro dia fez aniversário, que, com certeza, está nos assistindo e torcendo por você e pela nossa cidade de Ibiraçu."
+    },
     {
       "data": "2026-11-24T18:48",
       "fase": "Breves Comunicações",

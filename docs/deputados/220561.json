@@ -4,10 +4,27 @@
   "partido": "PSD",
   "uf": "SE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220561.jpg",
-  "score": 23.7,
-  "rank": 295,
-  "proposicoes": [],
+  "score": 25.28,
+  "rank": 253,
+  "proposicoes": [
+    {
+      "id": 2660060,
+      "tipo": "PL",
+      "numero": 5982,
+      "ano": 2026,
+      "ementa": "Altera as Leis nº 8.935, de 18 de novembro  de 1994, Lei nº 6.015, de 31 de dezembro de 1973, e Lei nº 10.169, de 29 de dezembro de 2000, para assegurar a gratuidade de atos registrais e notariais relativos a pessoas jurídicas de direito privado sem fins lucrativos e o ressarcimento dos atos gratuitos praticados pelos serviços de registro civil de pessoas jurídica.",
+      "data": "2026-11-25T18:18",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660060"
+    }
+  ],
   "discursos": [
+    {
+      "data": "2026-11-25T16:20",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "A SRA. DELEGADA KATARINA (Bloco/PSD - SE. Sem revisão da oradora.) - Boa tarde a todos. Cumprimento o meu ilustre Presidente da Mesa, Deputado Ícaro de Valmir, o meu amigo Deputado Thiago de Joaldo, q",
+      "transcricao": "A SRA. DELEGADA KATARINA (Bloco/PSD - SE. Sem revisão da oradora.) - Boa tarde a todos. Cumprimento o meu ilustre Presidente da Mesa, Deputado Ícaro de Valmir, o meu amigo Deputado Thiago de Joaldo, que também está sentado à Mesa neste instante, os sergipanos e queridos amigos. Sr. Presidente, Sras. e Srs. Parlamentares, subo a esta tribuna para celebrar um marco importante da radiodifusão brasileira e, sobretudo, da história de Sergipe. Quero celebrar os 55 anos da TV Sergipe, afiliada da Rede Globo no Estado e primeira emissora de televisão criada em Sergipe, o nosso tradicional e conhecido Canal 4. Desde 15 de novembro de 1971, quando levou ao ar a sua primeira transmissão, a emissora assumiu um papel muito maior que o de informar e entreter: tornou-se testemunha das nossas transformações, da nossa história e das conquistas do nosso povo. Ao longo de 5,5 décadas, a TV Sergipe deu visibilidade aos Municípios, à cultura, às tradições e aos talentos da nossa gente. Ajudou a aproximar comunidades, levou a realidade de Sergipe para todo o Brasil e fortaleceu o sentimento de pertencimento e identidade do povo sergipano. Sua contribuição também se traduz na geração de empregos, na formação de profissionais, no desenvolvimento da comunicação e no fortalecimento da economia criativa do nosso Estado. Nenhuma emissora constrói uma história dessa dimensão sozinha. Por isso, esta homenagem também se estende a todos os jornalistas, apresentadores, cinegrafistas, técnicos e demais profissionais que fizeram e continuam fazendo a TV Sergipe. Quero fazer um reconhecimento muito especial à Carolina Franco, Diretora-Presidente da TV Sergipe e do Grupo Sergipe de Comunicação, e à gestora de jornalismo Rosa Vasconcelos, pelo trabalho e dedicação à trajetória da emissora. Parabéns, TV Sergipe, pelos seus 55 anos! Que venham muitas e muitas décadas de compromisso com a informação, com a cultura e sobretudo com o povo sergipano."
+    },
     {
       "data": "2026-11-18T16:36",
       "fase": "Ordem do Dia",

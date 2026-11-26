@@ -4,8 +4,8 @@
   "partido": "PDT",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220604.jpg",
-  "score": 24.78,
-  "rank": 255,
+  "score": 26.11,
+  "rank": 224,
   "proposicoes": [
     {
       "id": 2649801,
@@ -159,6 +159,24 @@
       "ementa": "Institui o Programa Remédio na Mão, destinado a facilitar a localização e o acesso gratuito a medicamentos e insumos de saúde disponibilizados pelo Sistema Único de Saúde e pelo Programa Farmácia Popular do Brasil, mediante identificação digital das unidades dispensadoras, consulta atualizada de disponibilidade, orientação sobre requisitos de retirada, indicação de alternativas de atendimento e garantia de acessibilidade informacional.",
       "data": "2026-11-18T15:26",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655411"
+    },
+    {
+      "id": 2660006,
+      "tipo": "PL",
+      "numero": 5975,
+      "ano": 2026,
+      "ementa": "Institui a garantia de proteção à saúde e à segurança dos agentes comunitários de saúde e dos agentes de combate às endemias, mediante a gestão preventiva dos riscos ocupacionais, a adaptação das atividades laborais às condições ambientais e climáticas, o acompanhamento da saúde física e mental e a proteção no exercício das atividades externas, acrescenta o art. 9º-I à Lei nº 11.350, de 5 de outubro de 2006.",
+      "data": "2026-11-25T16:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660006"
+    },
+    {
+      "id": 2660008,
+      "tipo": "PL",
+      "numero": 5976,
+      "ano": 2026,
+      "ementa": "Institui a Lei Dívida Transparente e Recomeço Financeiro e altera a Lei nº 8.078, de 11 de setembro de 1990 (Código de Defesa do Consumidor), para assegurar a transparência na composição e na cessão de créditos, estabelecer a oferta obrigatória de renegociação de dívidas inadimplidas, vedar a cobrança e a comercialização de créditos prescritos, determinar a exclusão automática de registros restritivos e impedir a perpetuação artificial do endividamento do consumidor.",
+      "data": "2026-11-25T16:53",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660008"
     }
   ],
   "discursos": [],

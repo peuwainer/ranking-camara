@@ -4,9 +4,19 @@
   "partido": "PP",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204524.jpg",
-  "score": 11.77,
-  "rank": 494,
-  "proposicoes": [],
+  "score": 12.01,
+  "rank": 496,
+  "proposicoes": [
+    {
+      "id": 2660081,
+      "tipo": "PL",
+      "numero": 5986,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 13.895, de  30 de outubro de 2019, para reforçar as diretrizes de prevenção e atenção ao diabetes.",
+      "data": "2026-11-25T19:20",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660081"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

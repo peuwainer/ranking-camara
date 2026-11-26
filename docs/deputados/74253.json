@@ -4,10 +4,18 @@
   "partido": "PP",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74253.jpg",
-  "score": 14.77,
-  "rank": 487,
+  "score": 16.29,
+  "rank": 482,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-25T19:16",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. JULIO LOPES (Bloco/PP - RJ. Pela ordem. Sem revisão do orador.) - Deputada Talíria Petrone, muito obrigado pelo tempo. Eu quero fazer um registro que julgo bastante importante. A CVM, esta seman",
+      "transcricao": "O SR. JULIO LOPES (Bloco/PP - RJ. Pela ordem. Sem revisão do orador.) - Deputada Talíria Petrone, muito obrigado pelo tempo. Eu quero fazer um registro que julgo bastante importante. A CVM, esta semana, Presidente, fez uma suspensão dos direitos do BRB de venda dos seus valores imobiliários no mercado. A gente praticamente encerra esta semana legislativa sem que o Banco Central do Brasil tenha dado uma posição a respeito. O fato concreto é que o BRB, durante 12 meses ininterruptos, não prestou qualquer declaração ou informação, como é ele obrigado a fazer, para o Banco Central do Brasil. Isso me preocupa muito, Presidente, porque o mercado financeiro precisa de transparência, o mercado financeiro precisa de boa regulação. Quando a gente não remedia o problema no início, ele pode se tornar ainda mais grave posteriormente. A verdade é que esse é um grande banco, é um banco importante aqui do Distrito Federal, e a gente precisa de uma posição do Banco Central do Brasil a respeito disso. Como eu trabalho muito na Comissão de economia e tenho muitas preocupações com a economia do Brasil, Sra. Presidente, quero pedir um pronunciamento do Galípolo e do Banco Central do Brasil a respeito dessa importante questão do mercado financeiro brasileiro. A gente hoje, graças a Deus, teve um arrefecimento do dólar e uma projeção menor da taxa de juros, mas essa questão é fundamental para que a gente tenha uma importante resposta do Banco Central do Brasil. Muito obrigado, Sra. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que \"dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana\"",

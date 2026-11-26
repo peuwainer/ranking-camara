@@ -1,12 +1,22 @@
 {
   "id": 204566,
   "nome": "Marreca Filho",
-  "partido": "PRD",
+  "partido": "PODE",
   "uf": "MA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204566.jpg",
-  "score": 9.29,
-  "rank": 502,
-  "proposicoes": [],
+  "score": 11.41,
+  "rank": 498,
+  "proposicoes": [
+    {
+      "id": 2660025,
+      "tipo": "PL",
+      "numero": 5979,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 14.254, de 30 de novembro de 2021, para assegurar a avaliação individualizada das necessidades de acessibilidade de candidatos com dislexia, transtorno do déficit de atenção com hiperatividade (TDAH) ou outros transtornos de aprendizagem em exames nacionais e processos seletivos de ingresso em instituições de ensino.",
+      "data": "2026-11-25T17:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660025"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

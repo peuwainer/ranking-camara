@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160559.jpg",
-  "score": 28.54,
-  "rank": 142,
+  "score": 29.41,
+  "rank": 130,
   "proposicoes": [
     {
       "id": 2652977,
@@ -44,7 +44,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658939"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-25T16:16",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. ALCEU MOREIRA (Bloco/MDB - RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Srs. Parlamentares, peço a tolerância da Parlamentar para me manifestar por 1 minuto. Quero me referir ao pro",
+      "transcricao": "O SR. ALCEU MOREIRA (Bloco/MDB - RS. Pela ordem. Sem revisão do orador.) - Sr. Presidente, Srs. Parlamentares, peço a tolerância da Parlamentar para me manifestar por 1 minuto. Quero me referir ao processo do Marcel van Hattem, que está no Supremo com a manifestação do Sr. Alexandre de Moraes e do Sr. Dino, dois Ministros do Supremo. Acabo de me eleger com 217 mil votos do povo gaúcho. Se de mim for tirada a prerrogativa do art. 53 da Constituição, da livre manifestação, se eu não puder dizer com absoluta liberdade aquilo que o povo do meu Estado deseja que eu fale, meu mandato está sendo surrupiado, a democracia é relativizada. Portanto, sou solidário ao Marcel van Hattem neste Plenário, mas não é com ele. Sou solidário à democracia, sou solidário a este espaço que foi dado a nós pelo povo... (Desligamento do microfone.)"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Representação Brasileira no Parlamento do Mercosul",

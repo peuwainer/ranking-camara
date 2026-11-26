@@ -4,18 +4,9 @@
   "partido": "UNIÃO",
   "uf": "ES",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220530.jpg",
-  "score": 35.34,
-  "rank": 44,
+  "score": 34.78,
+  "rank": 54,
   "proposicoes": [
-    {
-      "id": 2648834,
-      "tipo": "PL",
-      "numero": 5661,
-      "ano": 2026,
-      "ementa": "Dispõe sobre normas gerais de desenvolvimento e execução da publicidade dos órgãos e entidades integrantes da Administração Pública direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios.",
-      "data": "2026-10-26T12:04",
-      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2648834"
-    },
     {
       "id": 2651963,
       "tipo": "SBT",
@@ -27,6 +18,13 @@
     }
   ],
   "discursos": [
+    {
+      "data": "2026-11-25T16:20",
+      "fase": "Breves Comunicações",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. MESSIAS DONATO (Bloco/UNIÃO - ES. Pela ordem. Sem revisão do orador.) - Presidente Orlando Silva, gostaria de destacar a presença, no Congresso Nacional, de Bira Nobre, Presidente da Unitac, uma",
+      "transcricao": "O SR. MESSIAS DONATO (Bloco/UNIÃO - ES. Pela ordem. Sem revisão do orador.) - Presidente Orlando Silva, gostaria de destacar a presença, no Congresso Nacional, de Bira Nobre, Presidente da Unitac, uma instituição que representa os caminhoneiros no Estado do Espírito Santo. Essa instituição representa uma categoria que carrega o Brasil nas costas e garante a esses profissionais das estradas segurança jurídica e dignidade. Bira, parabenizo-o pelo seu trabalho realizado com afinco, dedicação, sensibilidade e muito amor. Parabéns a todos os caminhoneiros capixabas e brasileiros representados por você no Congresso Nacional! Seja muito bem-vindo, meu irmão!"
+    },
     {
       "data": "2026-11-17T16:16",
       "fase": "Breves Comunicações",

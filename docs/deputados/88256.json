@@ -4,8 +4,8 @@
   "partido": "PV",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/88256.jpg",
-  "score": 36.85,
-  "rank": 36,
+  "score": 38.97,
+  "rank": 23,
   "proposicoes": [
     {
       "id": 2651027,
@@ -159,6 +159,24 @@
       "ementa": "Dispõe sobre a obrigatoriedade de identificação biométrica e validação documental para aquisição, habilitação e ativação de chips de telefonia móvel, cria o Cadastro Nacional de Identificação de Linhas Móveis e estabelece medidas de prevenção e combate ao uso de linhas telefônicas em fraudes e golpes, e dá outras providências.",
       "data": "2026-11-25T11:26",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659666"
+    },
+    {
+      "id": 2660005,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre planos privados de assistência à saúde, para obrigar a cobertura de tratamento cirúrgico com a utilização de laser endovenoso para paciente com insuficiência venosa crônica.",
+      "data": "2026-11-25T16:59",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660005"
+    },
+    {
+      "id": 2660009,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, e a Lei nº 9.656, de 3 de junho de 1998, para dispor acerca da atenção domiciliar em saúde no Sistema Único de Saúde e na Saúde Suplementar.",
+      "data": "2026-11-25T17:05",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660009"
     }
   ],
   "discursos": [],

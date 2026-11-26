@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "MS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74376.jpg",
-  "score": 25.99,
-  "rank": 218,
+  "score": 28.22,
+  "rank": 154,
   "proposicoes": [
     {
       "id": 2649499,
@@ -69,6 +69,24 @@
       "ementa": "Dispõe sobre a incidência do Imposto sobre a Renda das Pessoas Físicas sobre lucros e dividendos distribuídos por pessoas jurídicas, altera as Leis nº 9.249, de 26 de dezembro de 1995, e nº 9.250, de 26 de dezembro de 1995, e dá outras providências.",
       "data": "2026-11-17T18:44",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654838"
+    },
+    {
+      "id": 2660089,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Estabelece ações emergenciais e temporárias destinadas às empresas exportadoras de setores comprovadamente afetados pela alíquota adicional ad valorem de 40% aplicada sobre as tarifas de 10% que já estavam em vigor para os produtos exportados pelo Brasil aos Estados Unidos da América, com o objetivo de minorar os efeitos negativos decorrentes de sua aplicação, principalmente com relação à manutenção de empregos.",
+      "data": "2026-11-26T09:00",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660089"
+    },
+    {
+      "id": 2660092,
+      "tipo": "SBT",
+      "numero": 9,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade de informação, nos rótulos das embalagens de pescado congelado glaciado comercializado no Brasil, do peso líquido e do peso desglaciado do produto.",
+      "data": "2026-11-26T09:29",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660092"
     }
   ],
   "discursos": [],

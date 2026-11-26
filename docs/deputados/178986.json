@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178986.jpg",
-  "score": 31.14,
-  "rank": 89,
+  "score": 33.23,
+  "rank": 70,
   "proposicoes": [
     {
       "id": 2649499,
@@ -96,6 +96,24 @@
       "ementa": "Dispõe sobre a incidência do Imposto sobre a Renda das Pessoas Físicas sobre lucros e dividendos distribuídos por pessoas jurídicas, altera as Leis nº 9.249, de 26 de dezembro de 1995, e nº 9.250, de 26 de dezembro de 1995, e dá outras providências.",
       "data": "2026-11-17T18:44",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654838"
+    },
+    {
+      "id": 2659987,
+      "tipo": "PL",
+      "numero": 5970,
+      "ano": 2026,
+      "ementa": "Institui a Rota Cultural Caiçara Mestre Ciro, interligando os Municípios de Iguape e Peruíbe, no Estado de São Paulo, no âmbito da Área de Proteção Ambiental Cananéia-Iguape-Peruíbe (APACIP), e dá outras providências.",
+      "data": "2026-11-25T16:09",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2659987"
+    },
+    {
+      "id": 2660024,
+      "tipo": "PLP",
+      "numero": 321,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar n° 214, de 16 de janeiro de 2025, que institui o Imposto sobre Bens e Serviços (IBS), a Contribuição Social sobre Bens e Serviços (CBS) e o Imposto Seletivo (IS), cria o Comitê Gestor do IBS e altera a legislação tributária, para elevar o crédito presumido de IBS e CBS nas aquisições de resíduos sólidos de coletores incentivados e instituir diferimento do IBS e da CBS no fornecimento de resíduos sólidos e de serviços por eles realizados para contribuintes do regime regular.",
+      "data": "2026-11-25T17:36",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660024"
     }
   ],
   "discursos": [

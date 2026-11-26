@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "PI",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220700.jpg",
-  "score": 26.74,
-  "rank": 183,
+  "score": 27.61,
+  "rank": 173,
   "proposicoes": [
     {
       "id": 2649499,
@@ -44,7 +44,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654838"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-25T18:32",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. FLORENTINO NETO (Bloco/PT - PI. Pela ordem. Sem revisão do orador.) - Sra. Presidenta, Deputada Talíria, eu gostaria de parabenizá-la pela condução dos trabalhos, e de parabenizar o nosso compan",
+      "transcricao": "O SR. FLORENTINO NETO (Bloco/PT - PI. Pela ordem. Sem revisão do orador.) - Sra. Presidenta, Deputada Talíria, eu gostaria de parabenizá-la pela condução dos trabalhos, e de parabenizar o nosso companheiro, o Deputado João Daniel, pela iniciativa. Eu venho lá do Piauí, e o meu Estado fez uma opção pela educação em tempo integral. Hoje todas as escolas públicas estaduais funcionam em tempo integral, e o Piauí bate recorde de matrículas em escolas em tempo integral. Quero aqui parabenizar, neste momento em que tomamos uma posição, uma definição histórica para esse País, que é estabelecer a educação integral para toda a educação básica pública do País, a iniciativa lá do meu Estado, do nosso Governador Rafael Fonteles, do Vice-Governador eleito, o Washington Bandeira, do nosso Secretário de Educação, Rodrigo Torres, e de todos os professores e professoras, de toda a comunidade escolar, de todos os diretores, de todos os gerentes da educação no estado do Piauí, que fizeram essa opção e que já levaram o Piauí a ser segundo lugar no ranking da educação brasileira. Estamos muito próximos já de termos divulgados novos índices e, com certeza, chegaremos ao primeiro lugar. A opção da educação básica em tempo integral é uma opção que se faz pelo desenvolvimento do nosso País. Muito obrigado."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a acompanhar as ações de prevenção e combate ao câncer, ao acidente vascular cerebral (AVC) e às doenças do coração.",

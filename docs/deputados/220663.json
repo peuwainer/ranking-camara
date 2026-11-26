@@ -4,10 +4,18 @@
   "partido": "PSB",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220663.jpg",
-  "score": 23.03,
-  "rank": 329,
+  "score": 23.9,
+  "rank": 311,
   "proposicoes": [],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-25T20:12",
+      "fase": "Breves Comunicações",
+      "tipo": "BREVES COMUNICAÇÕES",
+      "resumo": "O SR. ERIBERTO MEDEIROS (PSB - PE. Sem revisão do orador.) - Sr. Presidente, é um prazer estar aqui neste momento, com a sessão sendo presidida por V.Exa. Quero registrar, Sr. Presidente, o importante",
+      "transcricao": "O SR. ERIBERTO MEDEIROS (PSB - PE. Sem revisão do orador.) - Sr. Presidente, é um prazer estar aqui neste momento, com a sessão sendo presidida por V.Exa. Quero registrar, Sr. Presidente, o importante projeto de lei que foi aprovado nesta Casa, que prevê a perda da herança para filhos e cuidadores que tentam, de certa forma, a interdição abusiva da pessoa idosa. Filhos e cuidadores que agirem dessa forma, que tentar e usar a Justiça para tomar o patrimônio dos pais ou de pessoas idosas, poderão perder o direito à herança. É o que prevê o Projeto de Lei nº 464, de 2026, aprovado nesta Casa, de nossa iniciativa. A proposta, Sr. Presidente, busca combater uma prática preocupante: o uso abusivo da interdição para retirar a autonomia da pessoa idosa e assumir o controle de seus bens. Além da possibilidade de perda da herança, o texto prevê também o aumento da pena para casos de apropriação ou desvio de patrimônio por meio de curatela abusiva. Essa nossa iniciativa prevê e enxerga que a interdição existe para proteger, nunca para tirar a liberdade ou o patrimônio de alguém. Nosso projeto busca combater esses abusos e punir quem age dessa maneira, ou seja, de má-fé. Com a aprovação desse projeto, nós sabemos e reafirmamos o nosso compromisso nesta Casa diante do nosso mandato como membro da Comissão da Pessoa Idosa. Defendemos, combatemos e propomos projetos nesta Casa sempre para guardar os seus direitos, preservar as suas conquistas, trazendo mais segurança, mais proteção àquelas pessoas que tanto trabalharam na vida, que se dedicaram, suaram a camisa, passaram por grandes obstáculos e dificuldades, superaram tudo isso e chegam a uma idade em que a sua aposentadoria, a sua renda e o seu patrimônio construído com muito trabalho devem ser protegidos pelo poder público. Os seus direitos e as suas garantias precisam ser preservados. As pessoas idosas do nosso Brasil merecem o nosso respeito e a nossa admiração. Muito obrigado, Sr. Presidente."
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial destinada a proferir parecer à Proposta de Emenda à Constituição n. 18, de 2025, do Poder Executivo, que \"altera os art. 21, art. 22, art. 23, art. 24 e art. 144 da Constituição, para dispor sobre competências da União, dos Estados, do Distrito Federal e dos Municípios relativas à segurança pública\"",

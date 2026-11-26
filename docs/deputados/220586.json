@@ -4,8 +4,8 @@
   "partido": "MDB",
   "uf": "AL",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220586.jpg",
-  "score": 22.1,
-  "rank": 379,
+  "score": 23.08,
+  "rank": 341,
   "proposicoes": [
     {
       "id": 2654736,
@@ -26,7 +26,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2658888"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-25T18:36",
+      "fase": "Ordem do Dia",
+      "tipo": "PELA ORDEM",
+      "resumo": "O SR. RAFAEL BRITO (Bloco/MDB - AL. Pela ordem. Sem revisão do orador.) - Presidente, eu queria parabenizar o Relator, o eminente Deputado pelo Estado de Sergipe Thiago de Joaldo, e queria dizer o seg",
+      "transcricao": "O SR. RAFAEL BRITO (Bloco/MDB - AL. Pela ordem. Sem revisão do orador.) - Presidente, eu queria parabenizar o Relator, o eminente Deputado pelo Estado de Sergipe Thiago de Joaldo, e queria dizer o seguinte: a educação em tempo integral não é um luxo pedagógico; é a principal estratégia que o País, que o Estado tem para disputar a juventude com a violência e com o descaminho. Com a aprovação do Marco Legal do Ensino Integral, nesta tarde, pela Câmara dos Deputados, a gente aponta um caminho e joga uma luz em uma estratégia que já deveria ser universal em todos os municípios e em todas as escolas públicas e particulares do nosso País. Este é o primeiro passo. Quem acredita em educação e quem sabe o poder que a educação tem de transformar o futuro da nossa sociedade defende de forma intransigente a educação em tempo integral. Parabéns, Thiago, e parabéns à Câmara dos Deputados!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Externa destinada a acompanhar e fiscalizar os danos sociais, ambientais e econômicos, dentre outros, causados pelo afundamento do solo na cidade de Maceió-AL",
