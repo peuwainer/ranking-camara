@@ -5,7 +5,7 @@
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/160632.jpg",
   "score": 26.0,
-  "rank": 234,
+  "rank": 232,
   "proposicoes": [],
   "discursos": [],
   "orgaos": [
@@ -26,12 +26,6 @@
       "sigla": "CEXZMATA",
       "cargo": "Titular",
       "desde": "2026-03-04T00:00"
-    },
-    {
-      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
-      "sigla": "CAPADR",
-      "cargo": "Titular",
-      "desde": "2026-04-17T00:00"
     },
     {
       "nome": "Comissão de Comunicação",
@@ -56,6 +50,12 @@
       "sigla": "CTRAB",
       "cargo": "Suplente",
       "desde": "2026-11-16T00:00"
+    },
+    {
+      "nome": "Comissão de Agricultura, Pecuária, Abastecimento e Desenvolvimento Rural",
+      "sigla": "CAPADR",
+      "cargo": "Titular",
+      "desde": "2026-11-26T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/160632/votacoes-nominais-plenario/2026"

@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220611.jpg",
-  "score": 34.73,
-  "rank": 57,
+  "score": 34.13,
+  "rank": 56,
   "proposicoes": [
     {
       "id": 2649548,
@@ -135,12 +135,6 @@
       "sigla": "PEC01825",
       "cargo": "Titular",
       "desde": "2025-09-03T00:00"
-    },
-    {
-      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
-      "sigla": "CSPCCO",
-      "cargo": "Suplente",
-      "desde": "2026-02-03T00:00"
     },
     {
       "nome": "Comissão de Minas e Energia",

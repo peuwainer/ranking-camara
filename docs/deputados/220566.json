@@ -4,9 +4,37 @@
   "partido": "REPUBLICANOS",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220566.jpg",
-  "score": 22.42,
-  "rank": 375,
-  "proposicoes": [],
+  "score": 24.75,
+  "rank": 274,
+  "proposicoes": [
+    {
+      "id": 2660432,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Dispõe sobre a obrigatoriedade de instalação e manutenção de Pontos de Descanso e Conforto em rodovias sob regime de concessão ou permissão federal e estadual, e estabelece penalidades por seu descumprimento.",
+      "data": "2026-11-27T11:54",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660432"
+    },
+    {
+      "id": 2660434,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a obrigatoriedade de previsão de espaço para bicicletas nos trens operados por ente público, concessionária ou permissionária, visando à promoção da intermodalidade.",
+      "data": "2026-11-27T11:57",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660434"
+    },
+    {
+      "id": 2660436,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui a Política Nacional de Prevenção, Enfrentamento e Combate ao Assédio Sexual e Moral no Transporte Público Coletivo, estabelece deveres aos entes federativos, às concessionárias e permissionárias de transporte, cria obrigações de informação, prevenção, acolhimento e encaminhamento de denúncias, assegura mecanismos padronizados de comunicação e resposta imediata às vítimas, define diretrizes para campanhas permanentes de conscientização, capacitação de trabalhadores do setor e integração com órgãos de segurança pública, com fundamento na proteção da dignidade da pessoa humana, da liberdade de locomoção e dos direitos das mulheres, nos termos da Constituição Federal.",
+      "data": "2026-11-27T12:01",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660436"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

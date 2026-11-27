@@ -4,9 +4,19 @@
   "partido": "REPUBLICANOS",
   "uf": "AM",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
-  "score": 18.27,
-  "rank": 464,
-  "proposicoes": [],
+  "score": 19.05,
+  "rank": 454,
+  "proposicoes": [
+    {
+      "id": 2660442,
+      "tipo": "PL",
+      "numero": 5997,
+      "ano": 2026,
+      "ementa": "Dispõe sobre a proibição da divulgação, compartilhamento e impulsionamento de imagens e vídeos que exponham vítimas de violência física nas redes sociais e plataformas digitais, e estabelece medidas de proteção à dignidade humana.",
+      "data": "2026-11-27T12:16",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660442"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

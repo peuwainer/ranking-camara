@@ -4,8 +4,8 @@
   "partido": "AVANTE",
   "uf": "PE",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/91228.jpg",
-  "score": 26.72,
-  "rank": 207,
+  "score": 27.32,
+  "rank": 180,
   "proposicoes": [
     {
       "id": 2651046,
@@ -48,6 +48,12 @@
       "sigla": "CASP",
       "cargo": "Suplente",
       "desde": "2026-05-19T00:00"
+    },
+    {
+      "nome": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "sigla": "CMO",
+      "cargo": "Titular",
+      "desde": "2026-11-26T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/91228/votacoes-nominais-plenario/2026"

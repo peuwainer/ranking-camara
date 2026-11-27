@@ -4,8 +4,8 @@
   "partido": "PT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220553.jpg",
-  "score": 35.64,
-  "rank": 47,
+  "score": 36.42,
+  "rank": 40,
   "proposicoes": [
     {
       "id": 2649499,
@@ -69,6 +69,15 @@
       "ementa": "Dispõe sobre a incidência do Imposto sobre a Renda das Pessoas Físicas sobre lucros e dividendos distribuídos por pessoas jurídicas, altera as Leis nº 9.249, de 26 de dezembro de 1995, e nº 9.250, de 26 de dezembro de 1995, e dá outras providências.",
       "data": "2026-11-17T18:44",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2654838"
+    },
+    {
+      "id": 2660404,
+      "tipo": "PL",
+      "numero": 5995,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Combate à Discriminação e à Estigmatização de Povos e Comunidades em Contextos Internacionais e dá outras providências.",
+      "data": "2026-11-27T11:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660404"
     }
   ],
   "discursos": [],

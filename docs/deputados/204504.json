@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "SP",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204504.jpg",
-  "score": 22.36,
-  "rank": 388,
+  "score": 23.92,
+  "rank": 308,
   "proposicoes": [
     {
       "id": 2651100,
@@ -87,6 +87,24 @@
       "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para estabelecer requisitos de sinalização e de comprovação da regularidade da fiscalização eletrônica de velocidade.",
       "data": "2026-11-10T11:43",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2651979"
+    },
+    {
+      "id": 2660228,
+      "tipo": "SBT",
+      "numero": 2,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 4.117, de 27 de agosto de 1962, para dispor sobre a veiculação obrigatória, em emissoras de rádio e televisão públicas e estatais, de campanha de saúde pública em caso de epidemia.",
+      "data": "2026-11-26T14:41",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660228"
+    },
+    {
+      "id": 2660233,
+      "tipo": "SBT",
+      "numero": 3,
+      "ano": 0,
+      "ementa": "Altera a Lei nº 4.117, de 27 de agosto de 1962, para assegurar a programação em Libras em canais de teledifusão para pessoas surdas.",
+      "data": "2026-11-26T14:49",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660233"
     }
   ],
   "discursos": [],

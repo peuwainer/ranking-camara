@@ -4,8 +4,8 @@
   "partido": "PCdoB",
   "uf": "BA",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/74060.jpg",
-  "score": 35.34,
-  "rank": 51,
+  "score": 36.12,
+  "rank": 41,
   "proposicoes": [
     {
       "id": 2650800,
@@ -114,6 +114,15 @@
       "ementa": "Institui o Fundo Soberano de Desenvolvimento Nacional (FSDN) e estabelece diretrizes para sua organização, governança, gestão e aplicação de recursos.",
       "data": "2026-11-19T15:23",
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2655613"
+    },
+    {
+      "id": 2660404,
+      "tipo": "PL",
+      "numero": 5995,
+      "ano": 2026,
+      "ementa": "Institui a Política Nacional de Combate à Discriminação e à Estigmatização de Povos e Comunidades em Contextos Internacionais e dá outras providências.",
+      "data": "2026-11-27T11:02",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660404"
     }
   ],
   "discursos": [
