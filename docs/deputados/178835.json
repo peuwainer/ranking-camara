@@ -4,9 +4,19 @@
   "partido": "PDT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/178835.jpg",
-  "score": 17.11,
-  "rank": 475,
-  "proposicoes": [],
+  "score": 17.89,
+  "rank": 463,
+  "proposicoes": [
+    {
+      "id": 2660450,
+      "tipo": "PL",
+      "numero": 5998,
+      "ano": 2026,
+      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para tornar obrigatório o fornecimento de roda sobressalente e dos equipamentos necessários à sua substituição em automóveis, camionetas, caminhonetes e utilitários, vedadas a dispensa e a substituição por sistemas alternativos de reparação emergencial.",
+      "data": "2026-11-27T13:33",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660450"
+    }
+  ],
   "discursos": [],
   "orgaos": [
     {

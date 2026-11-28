@@ -4,16 +4,26 @@
   "partido": "PDT",
   "uf": "RS",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/73486.jpg",
-  "score": 35.02,
-  "rank": 51,
-  "proposicoes": [],
+  "score": 35.8,
+  "rank": 46,
+  "proposicoes": [
+    {
+      "id": 2660491,
+      "tipo": "SBT",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Institui o Programa Nacional de Incentivo ao Crédito do Jovem Empreendedor Rural e dá outras providências.",
+      "data": "2026-11-27T17:40",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660491"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-11-25T17:52",
       "fase": "Ordem do Dia",
       "tipo": "PELA ORDEM",
-      "resumo": "O SR. POMPEO DE MATTOS (PDT - RS. Pela ordem. Sem revisão do orador.) - Presidente Talíria, racismo nunca mais! O Brasil já fez algo, assim, absurdo e que o mundo, muito antes de nós, resolveu. E nós,",
-      "transcricao": "O SR. POMPEO DE MATTOS (PDT - RS. Pela ordem. Sem revisão do orador.) - Presidente Talíria, racismo nunca mais! O Brasil já fez algo, assim, absurdo e que o mundo, muito antes de nós, resolveu. E nós, até hoje, ainda estamos na dúvida de que lado que vamos tomar. Nós temos que reafirmar todo dia: racismo nunca mais. E, como tal, tem que ser punido. Meu pai dizia: \"Quem não tem vergonha tem que ter medo\". Então, tem que ter regra, tem que ter lei que proteja as pessoas. O respeito que eu ofereço é o respeito que mereço. Se eu não o oferecer, não tem como merecer. Por isso, nós temos que ser enfáticos e objetivos, até porque as pessoas precisam desse olhar, dessa leitura, dessa compreensão, dessa maturidade, dessa civilidade tão necessária. Ou seja, é algo civilizatório para o Brasil e, eu diria assim, para o mundo e para a humanidade. Nós vamos dar o exemplo do exemplo, o bom exemplo que serve de exemplo. Por isso, tudo o que nós pudermos fazer em favor do enfrentamento ao racismo ou coisa que o equivalha tem que ser na regra, na lei e na punição. Por isso, nós votamos a favor."
+      "resumo": "O SR. POMPEO DE MATTOS (PDT - RS. Pela ordem. Sem revisão do orador.) - Presidente Talíria Petrone, racismo nunca mais! O Brasil já fez algo absurdo, que o mundo, muito antes de nós, resolveu. Nós, at",
+      "transcricao": "O SR. POMPEO DE MATTOS (PDT - RS. Pela ordem. Sem revisão do orador.) - Presidente Talíria Petrone, racismo nunca mais! O Brasil já fez algo absurdo, que o mundo, muito antes de nós, resolveu. Nós, até hoje, ainda estamos na dúvida de que lado vamos tomar. Nós temos que reafirmar todos os dias: racismo nunca mais! E, como tal, tem que ser punido. Meu pai dizia: \"Quem não tem vergonha tem que ter medo\". Então, tem que haver regra, tem que haver lei que proteja as pessoas. O respeito que eu ofereço é o respeito que mereço. Se eu não o oferecer, não tenho como merecê-lo. Nós precisamos ser enfáticos e objetivos, até porque as pessoas precisam desse olhar, dessa leitura, dessa compreensão, dessa maturidade, dessa civilidade tão necessária. É algo civilizatório para o Brasil e, eu diria, para o mundo e para a humanidade. Nós vamos dar o exemplo do exemplo do bom exemplo que serve de exemplo. Tudo que nós pudermos fazer em favor do enfrentamento ao racismo ou coisa que o equivalha tem que ser feito na regra, na lei, com punição. Por isso, nós votamos a favor."
     },
     {
       "data": "2026-11-24T18:32",

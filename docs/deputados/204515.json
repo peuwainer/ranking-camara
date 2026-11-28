@@ -4,9 +4,28 @@
   "partido": "REDE",
   "uf": "MG",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/204515.jpg",
-  "score": 22.1,
-  "rank": 393,
-  "proposicoes": [],
+  "score": 23.66,
+  "rank": 315,
+  "proposicoes": [
+    {
+      "id": 2660453,
+      "tipo": "PLP",
+      "numero": 323,
+      "ano": 2026,
+      "ementa": "Altera a Lei Complementar nº 210, de 25 de novembro de 2024, para dispor sobre a contribuição das emendas parlamentares ao equilíbrio fiscal.",
+      "data": "2026-11-27T13:48",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660453"
+    },
+    {
+      "id": 2660456,
+      "tipo": "PRC",
+      "numero": 55,
+      "ano": 2026,
+      "ementa": "Altera o art. 9º do Regimento Interno da Câmara dos Deputados, para assegurar a manifestação dos representantes de partidos integrantes de federação partidária uma vez por semana, por cinco minutos, durante o período destinado às Comunicações de Lideranças.",
+      "data": "2026-11-27T14:11",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660456"
+    }
+  ],
   "discursos": [
     {
       "data": "2026-11-24T00:28",

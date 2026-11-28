@@ -4,8 +4,8 @@
   "partido": "UNIÃO",
   "uf": "GO",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220569.jpg",
-  "score": 29.06,
-  "rank": 142,
+  "score": 29.36,
+  "rank": 135,
   "proposicoes": [
     {
       "id": 2654235,
@@ -71,7 +71,15 @@
       "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2660028"
     }
   ],
-  "discursos": [],
+  "discursos": [
+    {
+      "data": "2026-11-25T13:55",
+      "fase": "Encerramento",
+      "tipo": "DISCURSO ENCAMINHADO",
+      "resumo": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA SILVYE ALVES (SEM REGISTRO TAQUIGRÁFICO). A Deputada SILVYE ALVES (UNIÃO-GO) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores De",
+      "transcricao": "DISCURSO NA ÍNTEGRA ENCAMINHADO PELA SRA. DEPUTADA SILVYE ALVES (SEM REGISTRO TAQUIGRÁFICO). A Deputada SILVYE ALVES (UNIÃO-GO) pronuncia o seguinte discurso: Senhor Presidente, Senhoras e Senhores Deputados, gostaria de falar sobre o Projeto de Lei nº 5.903, de 2026, de minha autoria, que institui a Política Nacional de Educação Especial Inclusiva e aperfeiçoa a Lei Brasileira de Inclusão da Pessoa com Deficiência. Todas as crianças têm o direito de chegar à escola com a alegria de quem está prestes a descobrir o mundo. Elas têm o direito de fazer amigos, de aprender, de desenvolver suas potencialidades e de sonhar com o futuro. Nenhuma deficiência, nenhuma condição individual pode privá-las dessas experiências tão fundamentais à vida humana. É doloroso pensar que, para muitas famílias brasileiras, o início da vida escolar de um filho ainda seja acompanhado de angústia e insegurança. São mães e pais que se perguntam se seus filhos serão acolhidos, se encontrarão profissionais preparados para atendê-los, se conseguirão participar das atividades escolares e se terão respeitadas suas necessidades individuais. Minha proposta busca consolidar em lei uma política atualmente disciplinada por decreto, conferindo estabilidade e continuidade às ações destinadas à garantia dos direitos educacionais das pessoas com deficiência, com transtorno do espectro autista e com altas habilidades ou superdotação. Defendo que a educação especial inclusiva seja uma política de Estado, capaz de atravessar governos e assegurar às famílias brasileiras a confiança de que os direitos conquistados serão preservados. Afinal, a formação de uma criança, de um adolescente ou de um jovem não pode ficar sujeita às mudanças de prioridades governamentais. O tempo da infância é precioso. Cada oportunidade de aprendizagem perdida pode representar uma perda irreparável em sua trajetória de vida. É necessário assegurar que a inclusão escolar aconteça efetivamente. Uma criança pode estar matriculada, frequentar diariamente a sala de aula e, ainda assim, permanecer à margem das experiências de aprendizagem e de convivência que a escola proporciona. Com o objetivo de transformar essa realidade, meu Projeto fortalece o atendimento educacional especializado, prevê estratégias pedagógicas individualizadas e estabelece instrumentos para identificar as potencialidades dos estudantes e eliminar as barreiras que dificultam seu desenvolvimento. Imaginem o significado que tem, para uma família, saber que seu filho poderá encontrar na escola o apoio necessário para se comunicar, expressar seus sentimentos, estabelecer vínculos e participar das atividades com seus colegas. Essas são conquistas que transformam vidas. Defendo, igualmente, que a necessidade de um profissional de apoio escolar seja avaliada a partir das demandas do próprio estudante, independentemente da apresentação de laudo ou diagnóstico médico. A ausência de um documento não pode impedir que uma necessidade educacional seja reconhecida e atendida. Ademais, considero indispensável investir na formação continuada dos professores e dos demais profissionais da educação, fortalecer a cooperação entre os entes federativos e reconhecer a contribuição das instituições especializadas sem fins lucrativos. Quero uma escola em que as famílias sejam ouvidas, os educadores encontrem respaldo para exercer seu trabalho e os estudantes sejam reconhecidos como protagonistas de sua própria formação e em que as pessoas com deficiência tenham a oportunidade de prosseguir em seus estudos, chegar à universidade se assim quiserem, conquistar autonomia, ingressar no mundo do trabalho e construir seus próprios projetos de vida. Temos, nesta Casa, a responsabilidade de assegurar que nenhuma criança precise lutar pelo direito de estar na escola e que nenhuma família precise implorar pelo reconhecimento de seus direitos. É por essas crianças, por esses jovens e por suas famílias que defendo a aprovação do meu Projeto, na certeza de que contribuiremos para a construção de um Brasil mais humano e inclusivo, onde todos possam desenvolver seus talentos e construir seu futuro com liberdade e dignidade. Peço, portanto, o apoio dos Pares à aprovação do meu Projeto de lei. Muito obrigada!"
+    }
+  ],
   "orgaos": [
     {
       "nome": "Comissão Especial para estudo das razões do aumento de denúncias de violência obstétrica e a alta taxa de morte materna no Brasil",

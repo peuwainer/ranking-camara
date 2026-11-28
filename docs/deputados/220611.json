@@ -4,8 +4,8 @@
   "partido": "PL",
   "uf": "RJ",
   "foto_url": "https://www.camara.leg.br/internet/deputado/bandep/220611.jpg",
-  "score": 34.13,
-  "rank": 56,
+  "score": 34.73,
+  "rank": 54,
   "proposicoes": [
     {
       "id": 2649548,
@@ -153,6 +153,12 @@
       "sigla": "CREDN",
       "cargo": "Suplente",
       "desde": "2026-08-12T00:00"
+    },
+    {
+      "nome": "Comissão de Segurança Pública e Combate ao Crime Organizado",
+      "sigla": "CSPCCO",
+      "cargo": "Suplente",
+      "desde": "2026-11-27T00:00"
     }
   ],
   "url_votacoes": "https://www.camara.leg.br/deputados/220611/votacoes-nominais-plenario/2026"
